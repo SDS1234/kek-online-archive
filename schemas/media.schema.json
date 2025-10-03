@@ -1,0 +1,359 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://medienvielfaltsmonitor.de/schema/media.json",
+  "title": "KEK Media Entity",
+  "description": "Schema for media entities (print, online, radio, TV) in the KEK database",
+  "type": "object",
+  "required": ["squuid", "name", "type", "state"],
+  "properties": {
+    "squuid": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique identifier for the media entity"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the media entity"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["print", "online", "radio", "tv"],
+      "description": "Type of media"
+    },
+    "state": {
+      "type": "string",
+      "enum": ["active", "archived"],
+      "description": "Current state of the media entity"
+    },
+    "controlDate": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Last control/update date"
+    },
+    "matchedNames": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Alternative names or matched names for this media"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the media entity"
+    },
+    "marketReach": {
+      "type": "number",
+      "description": "Market reach percentage"
+    },
+    "organization": {
+      "type": "object",
+      "description": "Supervising organization",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "organization"
+        },
+        "fullName": {
+          "type": "string"
+        }
+      },
+      "required": ["squuid", "name", "type"]
+    },
+    "operatedBy": {
+      "type": "array",
+      "description": "List of shareholders that operate this media",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "const": "operate"
+          },
+          "squuid": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "state": {
+            "type": "string"
+          },
+          "holder": {
+            "type": "object",
+            "properties": {
+              "squuid": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "name": {
+                "type": "string"
+              }
+            },
+            "required": ["squuid", "name"]
+          }
+        },
+        "required": ["type", "holder", "squuid", "state"]
+      }
+    },
+    "accessibilityEmail": {
+      "type": "string",
+      "format": "email",
+      "description": "Email for accessibility contact"
+    },
+    "accessibilityUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL for accessibility information"
+    },
+    "languages": {
+      "type": "array",
+      "description": "Languages available",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "pressType": {
+      "type": "object",
+      "description": "Type of press (newspaper/magazine)",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "press-type"
+        },
+        "state": {
+          "type": "string"
+        }
+      }
+    },
+    "pressMagazineType": {
+      "type": "object",
+      "description": "Magazine type classification",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "press-magazine-type"
+        },
+        "state": {
+          "type": "string"
+        }
+      }
+    },
+    "pressAsOfDate": {
+      "type": "string",
+      "description": "Press data as of date (e.g., 'III/24')"
+    },
+    "pressDistributionArea": {
+      "type": "string",
+      "description": "Distribution area for press"
+    },
+    "pressEditionsComments": {
+      "type": "string",
+      "description": "Comments about press editions"
+    },
+    "pressEditionsEpaper": {
+      "type": "integer",
+      "description": "Number of ePaper editions"
+    },
+    "pressEditionsIVW": {
+      "type": "boolean",
+      "description": "IVW verified editions"
+    },
+    "pressEditionsSold": {
+      "type": "integer",
+      "description": "Number of editions sold"
+    },
+    "pressKind": {
+      "type": "string",
+      "description": "Kind/category of press"
+    },
+    "pressPublishingIntervals": {
+      "type": "integer",
+      "description": "Publishing intervals per year"
+    },
+    "onlineOfferType": {
+      "type": "object",
+      "description": "Type of online offer",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "online-offer-type"
+        },
+        "state": {
+          "type": "string"
+        }
+      }
+    },
+    "onlineAGOF": {
+      "type": "number",
+      "description": "AGOF online metrics"
+    },
+    "onlineAsOfDateAGOF": {
+      "type": "string",
+      "description": "AGOF data as of date"
+    },
+    "onlineAsOfDateIVW": {
+      "type": "string",
+      "description": "IVW data as of date"
+    },
+    "onlineComments": {
+      "type": "string",
+      "description": "Comments about online presence"
+    },
+    "onlineIVWPI": {
+      "type": "number",
+      "description": "IVW PI (Page Impressions) online metrics"
+    },
+    "onlineVisitsIVW": {
+      "type": "integer",
+      "description": "IVW visit count"
+    },
+    "platformOperators": {
+      "type": "array",
+      "description": "Platform operators",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "distributionType": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rfAddress": {
+      "type": "string",
+      "description": "Radio/TV address (multiline)"
+    },
+    "rfBroadcastStatus": {
+      "type": "object",
+      "description": "Broadcast status for radio/TV",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        }
+      }
+    },
+    "rfCategory": {
+      "type": "object",
+      "description": "Radio/TV category",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        }
+      }
+    },
+    "rfDirector": {
+      "type": "string",
+      "description": "Director for radio/TV"
+    },
+    "rfFreePay": {
+      "type": "boolean",
+      "description": "Free or pay TV/radio"
+    },
+    "rfLicenseFrom": {
+      "type": "string",
+      "description": "License start date"
+    },
+    "rfLicenseUntil": {
+      "type": "string",
+      "description": "License end date"
+    },
+    "rfLicensed": {
+      "type": "string",
+      "description": "License date"
+    },
+    "rfParentalAdvisor": {
+      "type": "string",
+      "description": "Parental advisor information"
+    },
+    "rfPublicPrivate": {
+      "type": "boolean",
+      "description": "Public or private broadcaster"
+    },
+    "rfRepresentative": {
+      "type": "string",
+      "description": "Representative for radio/TV"
+    },
+    "rfShoppingChannel": {
+      "type": "boolean",
+      "description": "Is this a shopping channel"
+    },
+    "rfStartDate": {
+      "type": "string",
+      "description": "Start date of broadcasting"
+    },
+    "rfStatewide": {
+      "type": "boolean",
+      "description": "Statewide coverage"
+    },
+    "rfSupervisingAuthority": {
+      "type": "object",
+      "description": "Supervising authority for radio/TV",
+      "properties": {
+        "squuid": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "fullName": {
+          "type": "string"
+        }
+      }
+    },
+    "sharesInfo": {
+      "type": "string",
+      "description": "Additional information about shares"
+    }
+  }
+}
