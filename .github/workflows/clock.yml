@@ -1,5 +1,6 @@
 name: Scraper
 on:
+  workflow_dispatch:
   schedule:
     # run on the same day as the changes were made
     - cron: '0 23 * * *'
