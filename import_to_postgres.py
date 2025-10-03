@@ -35,6 +35,10 @@ def parse_datetime(date_str: Optional[str]) -> Optional[datetime]:
 def get_lookup_squuid(cursor, table_name: str, lookup_data: Optional[dict]) -> Optional[str]:
     """Get or create lookup table entry using squuid from KEK source. 
     
+    This function strictly uses squuids from the KEK source data. It will raise
+    an error if the KEK source data doesn't include a squuid, ensuring we always
+    maintain referential integrity with the KEK source identifiers.
+    
     Args:
         cursor: Database cursor
         table_name: Name of the lookup table
@@ -42,6 +46,9 @@ def get_lookup_squuid(cursor, table_name: str, lookup_data: Optional[dict]) -> O
     
     Returns:
         The squuid for the lookup value
+        
+    Raises:
+        ValueError: If lookup_data doesn't contain a squuid
     """
     if not lookup_data or not lookup_data.get('name'):
         return None
@@ -58,27 +65,21 @@ def get_lookup_squuid(cursor, table_name: str, lookup_data: Optional[dict]) -> O
     
     # If not found, insert new value using squuid from KEK source
     # This preserves the KEK source squuid for lookup values
-    if source_squuid:
-        cursor.execute(f"""
-            INSERT INTO {table_name} (squuid, name)
-            VALUES (%s, %s)
-            ON CONFLICT (squuid) DO NOTHING
-            RETURNING squuid
-        """, (source_squuid, name))
-        result = cursor.fetchone()
-        if result:
-            return result[0]
-        # If conflict occurred, fetch the existing record
-        cursor.execute(f"SELECT squuid FROM {table_name} WHERE squuid = %s", (source_squuid,))
-        return cursor.fetchone()[0]
-    else:
-        # Fallback: generate UUID if source doesn't provide one (shouldn't happen normally)
-        cursor.execute(f"""
-            INSERT INTO {table_name} (squuid, name)
-            VALUES (gen_random_uuid(), %s)
-            RETURNING squuid
-        """, (name,))
-        return cursor.fetchone()[0]
+    if not source_squuid:
+        raise ValueError(f"Missing squuid in KEK source data for {table_name} entry: {name}")
+    
+    cursor.execute(f"""
+        INSERT INTO {table_name} (squuid, name)
+        VALUES (%s, %s)
+        ON CONFLICT (squuid) DO NOTHING
+        RETURNING squuid
+    """, (source_squuid, name))
+    result = cursor.fetchone()
+    if result:
+        return result[0]
+    # If conflict occurred, fetch the existing record
+    cursor.execute(f"SELECT squuid FROM {table_name} WHERE squuid = %s", (source_squuid,))
+    return cursor.fetchone()[0]
 
 
 def get_category_squuid(cursor, category_name: Optional[str]) -> Optional[str]:

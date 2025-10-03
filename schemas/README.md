@@ -235,7 +235,7 @@ The KEK source provides embedded lookup values with full entity structure. For e
 }
 ```
 
-Our lookup tables preserve these `squuid` values from the KEK source, maintaining consistency and enabling proper foreign key relationships. The import script automatically extracts and preserves these `squuid` values when populating lookup tables.
+Our lookup tables preserve these `squuid` values from the KEK source, maintaining consistency and enabling proper foreign key relationships. The import script **strictly uses squuids from the KEK source** - it will raise an error if a squuid is missing, ensuring we never generate our own identifiers and always maintain referential integrity with the KEK source system.
 
 ### Example Queries
 
