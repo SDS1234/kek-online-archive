@@ -379,6 +379,111 @@ def import_relationships(cursor, data_dir, limit=None):
     return ownership_count, operation_count
 
 
+def import_languages_and_platform_operators(cursor, data_dir, limit=None):
+    """Import languages, distribution types, platform operators, and their relationships with media."""
+    print("Importing languages, platform operators, and distribution types...")
+    
+    media_files = list(Path(data_dir / "media").glob("*.json"))
+    if limit:
+        media_files = media_files[:limit]
+    
+    language_count = 0
+    platform_operator_count = 0
+    distribution_type_count = 0
+    media_language_count = 0
+    media_platform_operator_count = 0
+    
+    seen_languages = set()
+    seen_platform_operators = set()
+    seen_distribution_types = set()
+    
+    for media_file in media_files:
+        with open(media_file) as f:
+            data = json.load(f)
+        
+        media_squuid = data['squuid']
+        
+        # Handle languages
+        if 'languages' in data:
+            for lang in data['languages']:
+                if 'squuid' in lang and 'name' in lang:
+                    lang_squuid = lang['squuid']
+                    
+                    # Insert language if not seen before
+                    if lang_squuid not in seen_languages:
+                        cursor.execute("""
+                            INSERT INTO languages (squuid, name)
+                            VALUES (%s, %s)
+                            ON CONFLICT (squuid) DO NOTHING
+                        """, (lang_squuid, lang['name']))
+                        seen_languages.add(lang_squuid)
+                        language_count += 1
+                    
+                    # Link media to language
+                    cursor.execute("""
+                        INSERT INTO media_languages (media_squuid, language_squuid)
+                        VALUES (%s, %s)
+                        ON CONFLICT DO NOTHING
+                    """, (media_squuid, lang_squuid))
+                    media_language_count += 1
+        
+        # Handle platform operators
+        if 'platformOperators' in data:
+            for po in data['platformOperators']:
+                if 'squuid' in po and 'name' in po:
+                    po_squuid = po['squuid']
+                    
+                    # Insert platform operator if not seen before
+                    if po_squuid not in seen_platform_operators:
+                        cursor.execute("""
+                            INSERT INTO platform_operators (squuid, name, type, state)
+                            VALUES (%s, %s, %s, %s)
+                            ON CONFLICT (squuid) DO NOTHING
+                        """, (
+                            po_squuid,
+                            po['name'],
+                            po.get('type', 'platform-operator'),
+                            po.get('state', 'active')
+                        ))
+                        seen_platform_operators.add(po_squuid)
+                        platform_operator_count += 1
+                    
+                    # Handle distribution type
+                    dist_type_squuid = None
+                    if 'distributionType' in po:
+                        dt = po['distributionType']
+                        if 'squuid' in dt and 'name' in dt:
+                            dist_type_squuid = dt['squuid']
+                            
+                            # Insert distribution type if not seen before
+                            if dist_type_squuid not in seen_distribution_types:
+                                cursor.execute("""
+                                    INSERT INTO distribution_types (squuid, name)
+                                    VALUES (%s, %s)
+                                    ON CONFLICT (squuid) DO NOTHING
+                                """, (dist_type_squuid, dt['name']))
+                                seen_distribution_types.add(dist_type_squuid)
+                                distribution_type_count += 1
+                    
+                    # Link media to platform operator with distribution type
+                    if dist_type_squuid:
+                        cursor.execute("""
+                            INSERT INTO media_platform_operators (media_squuid, platform_operator_squuid, distribution_type_squuid)
+                            VALUES (%s, %s, %s)
+                            ON CONFLICT DO NOTHING
+                        """, (media_squuid, po_squuid, dist_type_squuid))
+                        media_platform_operator_count += 1
+    
+    print(f"  ✓ Imported {language_count} unique languages")
+    print(f"  ✓ Imported {distribution_type_count} unique distribution types")
+    print(f"  ✓ Imported {platform_operator_count} unique platform operators")
+    print(f"  ✓ Created {media_language_count} media-language links")
+    print(f"  ✓ Created {media_platform_operator_count} media-platform-operator links")
+    
+    return (language_count, distribution_type_count, platform_operator_count,
+            media_language_count, media_platform_operator_count)
+
+
 def main():
     parser = ArgumentParser(description='Import KEK JSON data into PostgreSQL')
     parser.add_argument('--db', default='kek', help='Database name')
@@ -428,6 +533,11 @@ def main():
         # Import relationships
         ownership_count, operation_count = import_relationships(cursor, data_dir, args.sample)
         
+        # Import languages, platform operators, and distribution types
+        (language_count, distribution_type_count, platform_operator_count,
+         media_language_count, media_platform_operator_count) = import_languages_and_platform_operators(
+            cursor, data_dir, args.sample)
+        
         # Commit transaction
         conn.commit()
         
@@ -438,6 +548,11 @@ def main():
         print(f"  Shareholders: {shareholder_count}")
         print(f"  Ownership relations: {ownership_count}")
         print(f"  Operation relations: {operation_count}")
+        print(f"  Languages: {language_count}")
+        print(f"  Distribution types: {distribution_type_count}")
+        print(f"  Platform operators: {platform_operator_count}")
+        print(f"  Media-language links: {media_language_count}")
+        print(f"  Media-platform-operator links: {media_platform_operator_count}")
         
     except Exception as e:
         print(f"\nError during import: {e}")

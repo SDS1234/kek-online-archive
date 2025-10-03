@@ -277,21 +277,49 @@ CREATE INDEX idx_operation_holder ON operation_relations(holder_squuid);
 CREATE INDEX idx_operation_held ON operation_relations(held_squuid);
 
 -- ============================================================================
+-- DISTRIBUTION TYPES (for platform operators)
+-- ============================================================================
+
+CREATE TABLE distribution_types (
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE distribution_types IS 'Distribution types for platform operators (IPTV, Kabel, OTT, Satellit, etc.) - lookup table for flexibility';
+
+-- Insert with actual squuids from KEK source
+INSERT INTO distribution_types (squuid, name) VALUES
+    ('5be1a6b0-951c-4614-9f9c-49bd5d814a60', 'IPTV'),
+    ('5be1a6b0-6010-48d9-8f4c-8d0a8329d4e6', 'Kabel'),
+    ('5be1a6b0-eeba-4517-af4c-ee038a5da882', 'OTT'),
+    ('5be1a6b0-3401-437f-a41b-7d040eaa1e28', 'Programmplattform'),
+    ('5be1a6b0-e8af-46c2-aeeb-fb68d2d314b0', 'Satellit'),
+    ('5be1a6b0-4dbe-45ef-ab98-fcd1599e57f0', 'Terrestrik');
+
+-- ============================================================================
 -- LANGUAGES
 -- ============================================================================
 
 CREATE TABLE languages (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL UNIQUE
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(100) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+COMMENT ON TABLE languages IS 'Available languages for media - lookup table for flexibility';
+
+-- Insert with actual squuids from KEK source
+INSERT INTO languages (squuid, name) VALUES
+    ('5be1a6ae-6473-44d1-97eb-d7ff6e27a248', 'Deutsch'),
+    ('5be1a6ae-7330-4aba-9ec4-17828ecdb084', 'Englisch');
 
 CREATE TABLE media_languages (
     media_squuid UUID REFERENCES media(squuid) ON DELETE CASCADE,
-    language_id INTEGER REFERENCES languages(id) ON DELETE CASCADE,
-    PRIMARY KEY (media_squuid, language_id)
+    language_squuid UUID REFERENCES languages(squuid) ON DELETE CASCADE,
+    PRIMARY KEY (media_squuid, language_squuid)
 );
 
-COMMENT ON TABLE languages IS 'Available languages for media';
 COMMENT ON TABLE media_languages IS 'Languages available for each media';
 
 -- ============================================================================
@@ -299,14 +327,23 @@ COMMENT ON TABLE media_languages IS 'Languages available for each media';
 -- ============================================================================
 
 CREATE TABLE platform_operators (
-    id SERIAL PRIMARY KEY,
-    media_squuid UUID REFERENCES media(squuid) ON DELETE CASCADE,
+    squuid UUID PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    distribution_type_name VARCHAR(255),
+    type VARCHAR(50) DEFAULT 'platform-operator',
+    state entity_state DEFAULT 'active',
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-COMMENT ON TABLE platform_operators IS 'Platform operators for media distribution';
+COMMENT ON TABLE platform_operators IS 'Platform operators for media distribution - preserves KEK source squuids';
+
+CREATE TABLE media_platform_operators (
+    media_squuid UUID REFERENCES media(squuid) ON DELETE CASCADE,
+    platform_operator_squuid UUID REFERENCES platform_operators(squuid) ON DELETE CASCADE,
+    distribution_type_squuid UUID REFERENCES distribution_types(squuid),
+    PRIMARY KEY (media_squuid, platform_operator_squuid, distribution_type_squuid)
+);
+
+COMMENT ON TABLE media_platform_operators IS 'Platform operators associated with each media and their distribution types';
 
 -- ============================================================================
 -- INDEXES FOR PERFORMANCE

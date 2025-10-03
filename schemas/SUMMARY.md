@@ -20,11 +20,11 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
   - Fully validated against actual data files
 
 ### 2. PostgreSQL Schema
-- **`schemas/postgresql-schema.sql`** (394 lines)
+- **`schemas/postgresql-schema.sql`** (450 lines approx)
   - Complete relational database schema
-  - **14 tables** for entities, relationships, and lookups
+  - **16 tables** for entities, relationships, and lookups
   - **3 ENUMs** for schema-level types (media_type, entity_state, relation_type)
-  - **5 lookup tables** preserving KEK source squuids (press_types, press_magazine_types, online_offer_types, rf_broadcast_statuses, rf_categories)
+  - **8 lookup tables** preserving KEK source squuids (press_types, press_magazine_types, online_offer_types, rf_broadcast_statuses, rf_categories, distribution_types, languages, platform_operators)
   - 3 helper views for common queries
   - Proper indexes for performance
   - Foreign key constraints and referential integrity
@@ -38,8 +38,9 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
 - `ownership_relations` - Who owns whom (shareholder → shareholder)
 - `operation_relations` - Who operates what (shareholder → media)
 - `shareholder_organizations` - Shareholder-organization associations
-- `languages` + `media_languages` - Language support
-- `platform_operators` - Platform distribution
+- `languages` + `media_languages` - Language support (preserves KEK squuids)
+- `distribution_types` - Distribution types for platform operators (preserves KEK squuids)
+- `platform_operators` + `media_platform_operators` - Platform distribution (preserves KEK squuids)
 
 **Lookup Tables (preserving KEK source squuids):**
 - `press_types` - Press types (3 entries)
@@ -47,6 +48,9 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
 - `online_offer_types` - Online offer types (1 entry)
 - `rf_broadcast_statuses` - Broadcast statuses (3 entries)
 - `rf_categories` - Radio/TV categories (9 entries)
+- `distribution_types` - Distribution types (6 entries: IPTV, Kabel, OTT, Programmplattform, Satellit, Terrestrik)
+- `languages` - Languages (2 entries: Deutsch, Englisch)
+- `platform_operators` - Platform operators (dynamically populated from KEK source)
 
 ### 3. Documentation
 - **`schemas/README.md`** (338 lines)
@@ -310,23 +314,26 @@ kek-online-archive/
 
 ## Statistics
 
-- **Total Schema Lines**: ~1,650 lines (SQL + JSON Schema)
-  - PostgreSQL: 394 lines
+- **Total Schema Lines**: ~1,700 lines (SQL + JSON Schema)
+  - PostgreSQL: ~450 lines
   - Media JSON Schema: 359 lines
   - Shareholder JSON Schema: 240 lines
-  - Lookup tables with KEK source squuids: 18 entries
+  - Lookup tables with KEK source squuids: 26 entries across 8 tables
 - **Documentation Lines**: ~1,490 lines
   - README: 338 lines
   - DIAGRAM: 356 lines
   - EXAMPLES: 459 lines
   - SUMMARY: 337 lines
-- **Tool Lines**: ~608 lines
+- **Tool Lines**: ~700 lines
   - validate_schemas.py: 154 lines
-  - import_to_postgres.py: 454 lines
+  - import_to_postgres.py: ~550 lines
 - **Total Fields Mapped**: 71+ unique fields
-- **Database Tables**: 14 (9 main + 5 lookup tables)
+- **Database Tables**: 16 (8 entity/relationship + 8 lookup tables)
 - **ENUM Types**: 3 (schema-level only)
-- **Lookup Tables**: 5 (with KEK source squuids preserved)
+- **Lookup Tables**: 8 (with KEK source squuids preserved)
+  - press_types, press_magazine_types, online_offer_types
+  - rf_broadcast_statuses, rf_categories
+  - distribution_types, languages, platform_operators
 - **Views**: 3 helper views
 - **Relationship Types**: 2 (ownership, operation)
 - **Entity Types**: 3 (media, shareholders, organizations)

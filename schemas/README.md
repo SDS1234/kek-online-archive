@@ -204,6 +204,9 @@ These are core schema-level enumerations that define the fundamental structure a
 - `online_offer_types` - Online offer types (Online Medienangebot)
 - `rf_broadcast_statuses` - Broadcast statuses (auf Sendung, Noch nicht auf Sendung, Sendebetrieb eingestellt)
 - `rf_categories` - Radio/TV categories (Vollprogramm, various Spartenprogramm types, Teleshopping)
+- `distribution_types` - Platform distribution types (IPTV, Kabel, OTT, Programmplattform, Satellit, Terrestrik)
+- `languages` - Available languages (Deutsch, Englisch)
+- `platform_operators` - Platform operators for media distribution
 
 **Why Lookup Tables Instead of ENUMs for KEK Data?**
 
