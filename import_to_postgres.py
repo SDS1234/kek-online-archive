@@ -118,7 +118,7 @@ def collect_organizations_from_media(cursor, data_dir, limit=None):
     seen_orgs = {}
     
     for media_file in media_files:
-        with open(media_file) as f:
+        with open(media_file, encoding='utf-8') as f:
             data = json.load(f)
         
         # Collect organizations
@@ -145,7 +145,7 @@ def import_media(cursor, data_dir, limit=None):
     count = 0
     
     for media_file in media_files:
-        with open(media_file) as f:
+        with open(media_file, encoding='utf-8') as f:
             data = json.load(f)
         
         # Insert media
@@ -254,7 +254,7 @@ def collect_organizations_from_shareholders(cursor, data_dir, limit=None):
     seen_orgs = {}
     
     for shareholder_file in shareholder_files:
-        with open(shareholder_file) as f:
+        with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
         
         # Collect organizations
@@ -276,7 +276,7 @@ def import_shareholders(cursor, data_dir, limit=None):
     count = 0
     
     for shareholder_file in shareholder_files:
-        with open(shareholder_file) as f:
+        with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
         
         # Insert shareholder
@@ -348,7 +348,7 @@ def import_relationships(cursor, data_dir, limit=None):
     
     # Import ownership relationships from shareholders
     for shareholder_file in shareholder_files:
-        with open(shareholder_file) as f:
+        with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
         
         for own in data.get('owns', []):
@@ -386,7 +386,7 @@ def import_relationships(cursor, data_dir, limit=None):
     
     # Import operation relationships from media (operatedBy)
     for media_file in media_files:
-        with open(media_file) as f:
+        with open(media_file, encoding='utf-8') as f:
             data = json.load(f)
         
         for operated_by in data.get('operatedBy', []):
@@ -428,7 +428,7 @@ def import_languages_and_platform_operators(cursor, data_dir, limit=None):
     seen_distribution_types = set()
     
     for media_file in media_files:
-        with open(media_file) as f:
+        with open(media_file, encoding='utf-8') as f:
             data = json.load(f)
         
         media_squuid = data['squuid']
