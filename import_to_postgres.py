@@ -32,6 +32,28 @@ def parse_datetime(date_str: Optional[str]) -> Optional[datetime]:
         return None
 
 
+def get_category_squuid(cursor, category_name: Optional[str]) -> Optional[str]:
+    """Get or create rf_category squuid by name."""
+    if not category_name:
+        return None
+    
+    # Try to find existing category
+    cursor.execute("SELECT squuid FROM rf_categories WHERE name = %s", (category_name,))
+    result = cursor.fetchone()
+    
+    if result:
+        return result[0]
+    
+    # If not found, insert new category
+    cursor.execute("""
+        INSERT INTO rf_categories (squuid, name)
+        VALUES (gen_random_uuid(), %s)
+        RETURNING squuid
+    """, (category_name,))
+    
+    return cursor.fetchone()[0]
+
+
 def import_organizations(cursor, seen_orgs):
     """Import unique organizations."""
     print("Importing organizations...")
@@ -85,15 +107,15 @@ def import_media(cursor, data_dir, limit=None):
                 description, market_reach, matched_names,
                 organization_squuid,
                 accessibility_email, accessibility_url,
-                press_type_name, press_magazine_type_name,
+                press_type, press_magazine_type,
                 press_as_of_date, press_distribution_area,
                 press_editions_comments, press_editions_epaper,
                 press_editions_ivw, press_editions_sold,
                 press_kind, press_publishing_intervals,
-                online_offer_type_name, online_agof,
+                online_offer_type, online_agof,
                 online_as_of_date_agof, online_as_of_date_ivw,
                 online_comments, online_ivwpi, online_visits_ivw,
-                rf_address, rf_broadcast_status_name, rf_category_name,
+                rf_address, rf_broadcast_status, rf_category_squuid,
                 rf_director, rf_free_pay, rf_license_from, rf_license_until,
                 rf_licensed, rf_parental_advisor, rf_public_private,
                 rf_representative, rf_shopping_channel, rf_start_date,
@@ -151,7 +173,8 @@ def import_media(cursor, data_dir, limit=None):
             data.get('onlineVisitsIVW'),
             data.get('rfAddress'),
             data.get('rfBroadcastStatus', {}).get('name'),
-            data.get('rfCategory', {}).get('name'),
+            # Look up rf_category_squuid by name
+            get_category_squuid(cursor, data.get('rfCategory', {}).get('name')) if data.get('rfCategory') else None,
             data.get('rfDirector'),
             data.get('rfFreePay'),
             data.get('rfLicenseFrom'),

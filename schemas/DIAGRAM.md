@@ -55,21 +55,21 @@ media
 │   └── matched_names[]
 │
 ├── [Press Fields]
-│   ├── press_type_*
-│   ├── press_magazine_type_*
+│   ├── press_type (ENUM: Zeitung, Zeitschrift, E-Paper)
+│   ├── press_magazine_type (ENUM: Publikumszeitschrift, Fachzeitschrift)
 │   ├── press_publishing_intervals
 │   ├── press_editions_sold
 │   └── press_distribution_area
 │
 ├── [Online Fields]
-│   ├── online_offer_type_*
+│   ├── online_offer_type (ENUM: Online Medienangebot)
 │   ├── online_ivwpi
 │   ├── online_visits_ivw
 │   └── online_agof
 │
 └── [Radio/TV Fields]
-    ├── rf_broadcast_status_*
-    ├── rf_category_*
+    ├── rf_broadcast_status (ENUM: auf Sendung, Noch nicht auf Sendung, ...)
+    ├── rf_category_squuid (FK → rf_categories)
     ├── rf_public_private
     ├── rf_statewide
     └── rf_supervising_authority_squuid (FK → organizations)
@@ -115,6 +115,10 @@ operation_relations
 ### Support Tables
 
 ```
+rf_categories (Lookup table for Radio/TV categories)
+├── squuid (PK, UUID)
+└── name (UNIQUE)
+
 shareholder_organizations
 ├── shareholder_squuid (FK → shareholders)
 └── organization_squuid (FK → organizations)
@@ -148,6 +152,9 @@ Shareholder ──N:M─► Organizations
 
 Media ──N:1─► Organizations
          (supervising authority)
+
+Media ──N:1─► RF Categories
+         (radio/TV category lookup)
 
 Media ──N:M─► Languages
          (via media_languages)
@@ -215,10 +222,20 @@ INSERT INTO operation_relations (squuid, holder_squuid, held_squuid) VALUES
 - Each relationship has its own UUID
 - Enables temporal tracking and metadata
 
-### 4. Denormalized Lookup References
-- Fields like `press_type_name` alongside `press_type_squuid`
-- Reduces joins for common queries
-- Trade-off: data duplication vs. query performance
+### 4. ENUMs vs Lookup Tables
+**ENUMs used for:**
+- Small, stable value sets (press_type, press_magazine_type, online_offer_type, rf_broadcast_status)
+- Provides type safety and data integrity
+- No joins needed for queries
+- Defined at schema level
+
+**Lookup tables used for:**
+- Larger, potentially growing sets (rf_categories with 7+ values)
+- Allows dynamic addition of new values without schema changes
+- Better for values that may expand over time
+- Provides foreign key relationships
+
+This hybrid approach balances type safety with flexibility.
 
 ### 5. State on Relationships
 - Both entities and relationships have `state` field

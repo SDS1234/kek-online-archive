@@ -187,6 +187,25 @@ All media types share these core fields:
 2. **`shareholder_media_operations`** - Operation relationships with details
 3. **`active_media_with_reach`** - Active media sorted by market reach
 
+### Design Decisions: ENUMs vs Lookup Tables
+
+The PostgreSQL schema uses a hybrid approach for lookup values:
+
+**ENUMs (for small, stable value sets):**
+- `press_type` - 3 values (Zeitung, Zeitschrift, E-Paper)
+- `press_magazine_type` - 2 values (Publikumszeitschrift, Fachzeitschrift)
+- `online_offer_type` - 1 value (Online Medienangebot)
+- `rf_broadcast_status` - 3 values (auf Sendung, Noch nicht auf Sendung, Sendebetrieb eingestellt)
+
+**Lookup Tables (for larger, potentially growing sets):**
+- `rf_categories` - 7+ values (Vollprogramm, various Spartenprogramm types, Teleshopping)
+
+This approach provides:
+- Type safety and data integrity for stable values (ENUMs)
+- Flexibility for categories that may expand (lookup tables)
+- Better query performance (no joins needed for ENUMs)
+- Easy extensibility (new categories can be added without schema changes)
+
 ### Example Queries
 
 #### Find all owners of a media entity (indirect via operators)
