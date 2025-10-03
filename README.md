@@ -34,6 +34,23 @@ All data is copyright:
 
 ---
 
+## Data Schemas
+
+Comprehensive schemas for the KEK data are available in the [`schemas/`](schemas/) directory:
+
+- **[JSON Schema](schemas/)** - Formal validation schemas for media and shareholder entities
+- **[PostgreSQL Schema](schemas/postgresql-schema.sql)** - Complete relational database schema
+- **[Documentation](schemas/README.md)** - Detailed field descriptions and data model
+- **[Examples](schemas/EXAMPLES.md)** - Practical usage examples and sample queries
+- **[Diagram](schemas/DIAGRAM.md)** - Visual representation of entity relationships
+
+Validation script:
+```bash
+python validate_schemas.py --sample 10  # Validate sample files
+```
+
+---
+
 To build the complete graph of shareholders and media, you need
 to parse the individual files in `docs/data/shareholders/` or load
 the `docs/data/graph.dot` file. The `dot` format for graphs is 
