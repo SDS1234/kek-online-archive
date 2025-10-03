@@ -16,10 +16,11 @@ Requirements:
 
 import json
 import sys
+import subprocess
 from pathlib import Path
 from argparse import ArgumentParser
 from datetime import datetime
-from typing import Optional
+from typing import Optional, Tuple
 
 
 def parse_datetime(date_str: Optional[str]) -> Optional[datetime]:
@@ -552,6 +553,226 @@ def import_languages_and_platform_operators(cursor, data_dir, limit=None):
             media_language_count, media_platform_operator_count)
 
 
+def get_git_commit_info() -> Optional[Tuple[str, datetime, str]]:
+    """Get current git commit information.
+    
+    Returns:
+        Tuple of (commit_hash, commit_date, commit_message) or None if not in a git repo
+    """
+    try:
+        # Get commit hash
+        result = subprocess.run(
+            ['git', 'rev-parse', 'HEAD'],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        commit_hash = result.stdout.strip()
+        
+        # Get commit date in ISO format
+        result = subprocess.run(
+            ['git', 'show', '-s', '--format=%cI', commit_hash],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        commit_date_str = result.stdout.strip()
+        commit_date = datetime.fromisoformat(commit_date_str.replace('Z', '+00:00'))
+        
+        # Get commit message
+        result = subprocess.run(
+            ['git', 'show', '-s', '--format=%s', commit_hash],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        commit_message = result.stdout.strip()
+        
+        return (commit_hash, commit_date, commit_message)
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return None
+
+
+def create_snapshot(cursor, git_hash: str, commit_date: datetime, commit_message: str) -> int:
+    """Create a data snapshot entry for the current git commit.
+    
+    Returns:
+        The snapshot_id of the created snapshot
+    """
+    cursor.execute("""
+        INSERT INTO data_snapshots (git_commit_hash, commit_date, commit_message)
+        VALUES (%s, %s, %s)
+        ON CONFLICT (git_commit_hash) DO UPDATE 
+        SET commit_message = EXCLUDED.commit_message
+        RETURNING id
+    """, (git_hash, commit_date, commit_message))
+    result = cursor.fetchone()
+    return result[0]
+
+
+def import_media_history(cursor, snapshot_id: int, data_dir, limit=None):
+    """Import media entities into history table."""
+    print("Importing media history...")
+    
+    media_files = list(Path(data_dir / "media").glob("*.json"))
+    if limit:
+        media_files = media_files[:limit]
+    
+    count = 0
+    
+    for media_file in media_files:
+        with open(media_file, encoding='utf-8') as f:
+            data = json.load(f)
+        
+        cursor.execute("""
+            INSERT INTO media_history (
+                snapshot_id, squuid, name, type, state, control_date,
+                market_reach, organization_squuid, data
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+        """, (
+            snapshot_id,
+            data['squuid'],
+            data['name'],
+            data['type'],
+            data['state'],
+            parse_datetime(data.get('controlDate')),
+            data.get('marketReach'),
+            data.get('organization', {}).get('squuid'),
+            json.dumps(data)  # Store full JSON for future analysis
+        ))
+        count += 1
+        
+        if count % 100 == 0:
+            print(f"  ... imported {count} media history records")
+    
+    print(f"  ✓ Imported {count} media history records")
+    return count
+
+
+def import_shareholders_history(cursor, snapshot_id: int, data_dir, limit=None):
+    """Import shareholder entities into history table."""
+    print("Importing shareholders history...")
+    
+    shareholder_files = list(Path(data_dir / "shareholders").glob("*.json"))
+    if limit:
+        shareholder_files = shareholder_files[:limit]
+    
+    count = 0
+    
+    for shareholder_file in shareholder_files:
+        with open(shareholder_file, encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Handle KEK API validation errors - actual data is in 'value' key
+        if 'errors' in data and 'value' in data:
+            data = data['value']
+        
+        # Skip if no squuid
+        if 'squuid' not in data:
+            continue
+        
+        cursor.execute("""
+            INSERT INTO shareholders_history (
+                snapshot_id, squuid, name, state, control_date,
+                natural_person, data
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s)
+        """, (
+            snapshot_id,
+            data['squuid'],
+            data['name'],
+            data['state'],
+            parse_datetime(data.get('controlDate')),
+            data.get('naturalPerson', False),
+            json.dumps(data)  # Store full JSON for future analysis
+        ))
+        count += 1
+        
+        if count % 100 == 0:
+            print(f"  ... imported {count} shareholders history records")
+    
+    print(f"  ✓ Imported {count} shareholders history records")
+    return count
+
+
+def import_relationships_history(cursor, snapshot_id: int, data_dir, limit=None):
+    """Import ownership and operation relationships into history tables."""
+    print("Importing relationships history...")
+    
+    shareholder_files = list(Path(data_dir / "shareholders").glob("*.json"))
+    media_files = list(Path(data_dir / "media").glob("*.json"))
+    
+    if limit:
+        shareholder_files = shareholder_files[:limit]
+        media_files = media_files[:limit]
+    
+    ownership_count = 0
+    operation_count = 0
+    
+    # Import ownership relationships from shareholders
+    for shareholder_file in shareholder_files:
+        with open(shareholder_file, encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Handle KEK API validation errors
+        if 'errors' in data and 'value' in data:
+            data = data['value']
+        
+        for own in data.get('owns', []):
+            cursor.execute("""
+                INSERT INTO ownership_relations_history (
+                    snapshot_id, squuid, holder_squuid, held_squuid, state,
+                    capital_shares, complementary_partner
+                ) VALUES (%s, %s, %s, %s, %s, %s, %s)
+            """, (
+                snapshot_id,
+                own['squuid'],
+                data['squuid'],
+                own['held']['squuid'],
+                own['state'],
+                own.get('capitalShares'),
+                own.get('complementaryPartner', False)
+            ))
+            ownership_count += 1
+        
+        for operate in data.get('operates', []):
+            cursor.execute("""
+                INSERT INTO operation_relations_history (
+                    snapshot_id, squuid, holder_squuid, held_squuid, state
+                ) VALUES (%s, %s, %s, %s, %s)
+            """, (
+                snapshot_id,
+                operate['squuid'],
+                data['squuid'],
+                operate['held']['squuid'],
+                operate['state']
+            ))
+            operation_count += 1
+    
+    # Import operation relationships from media (operatedBy)
+    for media_file in media_files:
+        with open(media_file, encoding='utf-8') as f:
+            data = json.load(f)
+        
+        for operated_by in data.get('operatedBy', []):
+            cursor.execute("""
+                INSERT INTO operation_relations_history (
+                    snapshot_id, squuid, holder_squuid, held_squuid, state
+                ) VALUES (%s, %s, %s, %s, %s)
+                ON CONFLICT DO NOTHING
+            """, (
+                snapshot_id,
+                operated_by['squuid'],
+                operated_by['holder']['squuid'],
+                data['squuid'],
+                operated_by['state']
+            ))
+            operation_count += 1
+    
+    print(f"  ✓ Imported {ownership_count} ownership relations history")
+    print(f"  ✓ Imported {operation_count} operation relations history")
+    return ownership_count, operation_count
+
+
 def main():
     parser = ArgumentParser(description='Import KEK JSON data into PostgreSQL')
     parser.add_argument('--db', default='kek', help='Database name')
@@ -561,6 +782,8 @@ def main():
     parser.add_argument('--port', type=int, default=5432, help='Database port')
     parser.add_argument('--sample', type=int, metavar='N',
                        help='Import only N files of each type for testing')
+    parser.add_argument('--historical', action='store_true',
+                       help='Import data into historical tables with git commit metadata')
     
     args = parser.parse_args()
     
@@ -590,6 +813,24 @@ def main():
     data_dir = base_dir / "docs" / "data"
     
     try:
+        # If historical mode is enabled, also import to history tables
+        if args.historical:
+            git_info = get_git_commit_info()
+            if git_info is None:
+                print("Warning: Could not get git commit information. Historical import disabled.")
+                print("Make sure you are running this in a git repository.\n")
+                snapshot_id = None
+            else:
+                git_hash, commit_date, commit_message = git_info
+                print(f"Git commit: {git_hash[:8]}")
+                print(f"Commit date: {commit_date}")
+                print(f"Commit message: {commit_message}\n")
+                
+                snapshot_id = create_snapshot(cursor, git_hash, commit_date, commit_message)
+                print(f"Created snapshot with ID: {snapshot_id}\n")
+        else:
+            snapshot_id = None
+        
         # First pass: collect all organizations from media and shareholders
         print("Collecting organizations from data files...")
         media_orgs = collect_organizations_from_media(cursor, data_dir, args.sample)
@@ -611,6 +852,14 @@ def main():
          media_language_count, media_platform_operator_count) = import_languages_and_platform_operators(
             cursor, data_dir, args.sample)
         
+        # Import historical data if enabled
+        if snapshot_id is not None:
+            print("\nImporting historical data...")
+            media_history_count = import_media_history(cursor, snapshot_id, data_dir, args.sample)
+            shareholders_history_count = import_shareholders_history(cursor, snapshot_id, data_dir, args.sample)
+            ownership_history_count, operation_history_count = import_relationships_history(
+                cursor, snapshot_id, data_dir, args.sample)
+        
         # Commit transaction
         conn.commit()
         
@@ -626,6 +875,14 @@ def main():
         print(f"  Platform operators: {platform_operator_count}")
         print(f"  Media-language links: {media_language_count}")
         print(f"  Media-platform-operator links: {media_platform_operator_count}")
+        
+        if snapshot_id is not None:
+            print(f"\nHistorical data:")
+            print(f"  Snapshot ID: {snapshot_id}")
+            print(f"  Media history records: {media_history_count}")
+            print(f"  Shareholders history records: {shareholders_history_count}")
+            print(f"  Ownership relations history: {ownership_history_count}")
+            print(f"  Operation relations history: {operation_history_count}")
         
     except Exception as e:
         print(f"\nError during import: {e}")

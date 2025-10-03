@@ -430,3 +430,230 @@ CREATE TRIGGER update_ownership_updated_at BEFORE UPDATE ON ownership_relations
 
 CREATE TRIGGER update_operation_updated_at BEFORE UPDATE ON operation_relations
     FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
+-- ============================================================================
+-- HISTORICAL DATA TRACKING
+-- ============================================================================
+
+-- Table to track git commits corresponding to data snapshots
+CREATE TABLE data_snapshots (
+    id SERIAL PRIMARY KEY,
+    git_commit_hash VARCHAR(40) NOT NULL UNIQUE,
+    commit_date TIMESTAMP NOT NULL,
+    commit_message TEXT,
+    imported_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT valid_git_hash CHECK (LENGTH(git_commit_hash) = 40)
+);
+
+COMMENT ON TABLE data_snapshots IS 'Git commits that correspond to data snapshots for historical tracking';
+COMMENT ON COLUMN data_snapshots.git_commit_hash IS 'Full SHA-1 hash of the git commit';
+COMMENT ON COLUMN data_snapshots.commit_date IS 'Date when the git commit was created';
+COMMENT ON COLUMN data_snapshots.imported_at IS 'Date when this snapshot was imported into the database';
+
+CREATE INDEX idx_data_snapshots_commit_date ON data_snapshots(commit_date);
+CREATE INDEX idx_data_snapshots_git_hash ON data_snapshots(git_commit_hash);
+
+-- Historical media data
+CREATE TABLE media_history (
+    id BIGSERIAL PRIMARY KEY,
+    snapshot_id INTEGER NOT NULL REFERENCES data_snapshots(id) ON DELETE CASCADE,
+    squuid UUID NOT NULL,
+    name VARCHAR(500) NOT NULL,
+    type media_type NOT NULL,
+    state entity_state NOT NULL DEFAULT 'active',
+    control_date TIMESTAMP,
+    market_reach DECIMAL(10, 6),
+    organization_squuid UUID,
+    
+    -- Store JSON representation of the full entity for flexibility
+    data JSONB NOT NULL,
+    
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE media_history IS 'Historical snapshots of media entities from git commits';
+COMMENT ON COLUMN media_history.snapshot_id IS 'References the git commit when this version existed';
+COMMENT ON COLUMN media_history.data IS 'Full JSON representation of the media entity at this point in time';
+
+CREATE INDEX idx_media_history_snapshot ON media_history(snapshot_id);
+CREATE INDEX idx_media_history_squuid ON media_history(squuid);
+CREATE INDEX idx_media_history_squuid_snapshot ON media_history(squuid, snapshot_id);
+CREATE INDEX idx_media_history_data_gin ON media_history USING gin(data);
+
+-- Historical shareholder data
+CREATE TABLE shareholders_history (
+    id BIGSERIAL PRIMARY KEY,
+    snapshot_id INTEGER NOT NULL REFERENCES data_snapshots(id) ON DELETE CASCADE,
+    squuid UUID NOT NULL,
+    name VARCHAR(500) NOT NULL,
+    state entity_state NOT NULL DEFAULT 'active',
+    control_date TIMESTAMP,
+    natural_person BOOLEAN DEFAULT false,
+    
+    -- Store JSON representation of the full entity for flexibility
+    data JSONB NOT NULL,
+    
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE shareholders_history IS 'Historical snapshots of shareholder entities from git commits';
+COMMENT ON COLUMN shareholders_history.snapshot_id IS 'References the git commit when this version existed';
+COMMENT ON COLUMN shareholders_history.data IS 'Full JSON representation of the shareholder entity at this point in time';
+
+CREATE INDEX idx_shareholders_history_snapshot ON shareholders_history(snapshot_id);
+CREATE INDEX idx_shareholders_history_squuid ON shareholders_history(squuid);
+CREATE INDEX idx_shareholders_history_squuid_snapshot ON shareholders_history(squuid, snapshot_id);
+CREATE INDEX idx_shareholders_history_data_gin ON shareholders_history USING gin(data);
+
+-- Historical ownership relationships
+CREATE TABLE ownership_relations_history (
+    id BIGSERIAL PRIMARY KEY,
+    snapshot_id INTEGER NOT NULL REFERENCES data_snapshots(id) ON DELETE CASCADE,
+    squuid UUID NOT NULL,
+    holder_squuid UUID NOT NULL,
+    held_squuid UUID NOT NULL,
+    state entity_state NOT NULL DEFAULT 'active',
+    capital_shares DECIMAL(5, 2),
+    complementary_partner BOOLEAN DEFAULT false,
+    
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE ownership_relations_history IS 'Historical snapshots of ownership relationships from git commits';
+
+CREATE INDEX idx_ownership_history_snapshot ON ownership_relations_history(snapshot_id);
+CREATE INDEX idx_ownership_history_squuid ON ownership_relations_history(squuid);
+CREATE INDEX idx_ownership_history_holder ON ownership_relations_history(holder_squuid);
+CREATE INDEX idx_ownership_history_held ON ownership_relations_history(held_squuid);
+
+-- Historical operation relationships
+CREATE TABLE operation_relations_history (
+    id BIGSERIAL PRIMARY KEY,
+    snapshot_id INTEGER NOT NULL REFERENCES data_snapshots(id) ON DELETE CASCADE,
+    squuid UUID NOT NULL,
+    holder_squuid UUID NOT NULL,
+    held_squuid UUID NOT NULL,
+    state entity_state NOT NULL DEFAULT 'active',
+    
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE operation_relations_history IS 'Historical snapshots of operation relationships from git commits';
+
+CREATE INDEX idx_operation_history_snapshot ON operation_relations_history(snapshot_id);
+CREATE INDEX idx_operation_history_squuid ON operation_relations_history(squuid);
+CREATE INDEX idx_operation_history_holder ON operation_relations_history(holder_squuid);
+CREATE INDEX idx_operation_history_held ON operation_relations_history(held_squuid);
+
+-- ============================================================================
+-- VIEWS FOR HISTORICAL QUERIES
+-- ============================================================================
+
+-- View to get all snapshots with their metadata
+CREATE VIEW snapshot_timeline AS
+SELECT 
+    id,
+    git_commit_hash,
+    commit_date,
+    commit_message,
+    imported_at,
+    (SELECT COUNT(*) FROM media_history WHERE snapshot_id = ds.id) as media_count,
+    (SELECT COUNT(*) FROM shareholders_history WHERE snapshot_id = ds.id) as shareholders_count,
+    (SELECT COUNT(*) FROM ownership_relations_history WHERE snapshot_id = ds.id) as ownership_relations_count,
+    (SELECT COUNT(*) FROM operation_relations_history WHERE snapshot_id = ds.id) as operation_relations_count
+FROM data_snapshots ds
+ORDER BY commit_date DESC;
+
+COMMENT ON VIEW snapshot_timeline IS 'Overview of all data snapshots with counts of entities';
+
+-- View to compare ownership changes for a media entity over time
+CREATE OR REPLACE FUNCTION get_media_ownership_timeline(media_uuid UUID)
+RETURNS TABLE (
+    snapshot_id INTEGER,
+    commit_date TIMESTAMP,
+    git_commit_hash VARCHAR(40),
+    operator_squuid UUID,
+    operator_name VARCHAR(500),
+    ownership_chain JSONB
+) AS $$
+BEGIN
+    RETURN QUERY
+    SELECT DISTINCT
+        ds.id,
+        ds.commit_date,
+        ds.git_commit_hash,
+        opr.holder_squuid,
+        sh.name,
+        sh.data->'ownedBy' as ownership_chain
+    FROM data_snapshots ds
+    JOIN operation_relations_history opr ON ds.id = opr.snapshot_id
+    JOIN shareholders_history sh ON sh.squuid = opr.holder_squuid AND sh.snapshot_id = ds.id
+    WHERE opr.held_squuid = media_uuid
+        AND opr.state = 'active'
+    ORDER BY ds.commit_date DESC;
+END;
+$$ LANGUAGE plpgsql;
+
+COMMENT ON FUNCTION get_media_ownership_timeline IS 'Get the timeline of ownership changes for a specific media entity';
+
+-- View to compare shareholder portfolio changes over time
+CREATE OR REPLACE FUNCTION get_shareholder_portfolio_timeline(shareholder_uuid UUID)
+RETURNS TABLE (
+    snapshot_id INTEGER,
+    commit_date TIMESTAMP,
+    git_commit_hash VARCHAR(40),
+    media_squuid UUID,
+    media_name VARCHAR(500),
+    media_type media_type,
+    market_reach DECIMAL(10, 6)
+) AS $$
+BEGIN
+    RETURN QUERY
+    SELECT DISTINCT
+        ds.id,
+        ds.commit_date,
+        ds.git_commit_hash,
+        m.squuid,
+        m.name,
+        m.type,
+        m.market_reach
+    FROM data_snapshots ds
+    JOIN operation_relations_history opr ON ds.id = opr.snapshot_id
+    JOIN media_history m ON m.squuid = opr.held_squuid AND m.snapshot_id = ds.id
+    WHERE opr.holder_squuid = shareholder_uuid
+        AND opr.state = 'active'
+        AND m.state = 'active'
+    ORDER BY ds.commit_date DESC, m.name;
+END;
+$$ LANGUAGE plpgsql;
+
+COMMENT ON FUNCTION get_shareholder_portfolio_timeline IS 'Get the timeline of media portfolio for a specific shareholder';
+
+-- Function to find when an ownership relationship changed
+CREATE OR REPLACE FUNCTION get_ownership_change_timeline(holder_uuid UUID, held_uuid UUID)
+RETURNS TABLE (
+    snapshot_id INTEGER,
+    commit_date TIMESTAMP,
+    git_commit_hash VARCHAR(40),
+    capital_shares DECIMAL(5, 2),
+    state entity_state,
+    complementary_partner BOOLEAN
+) AS $$
+BEGIN
+    RETURN QUERY
+    SELECT
+        ds.id,
+        ds.commit_date,
+        ds.git_commit_hash,
+        owr.capital_shares,
+        owr.state,
+        owr.complementary_partner
+    FROM data_snapshots ds
+    JOIN ownership_relations_history owr ON ds.id = owr.snapshot_id
+    WHERE owr.holder_squuid = holder_uuid
+        AND owr.held_squuid = held_uuid
+    ORDER BY ds.commit_date DESC;
+END;
+$$ LANGUAGE plpgsql;
+
+COMMENT ON FUNCTION get_ownership_change_timeline IS 'Get the timeline of changes for a specific ownership relationship';
