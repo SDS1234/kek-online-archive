@@ -7,22 +7,24 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
 ## What Has Been Created
 
 ### 1. JSON Schemas
-- **`schemas/media.schema.json`** (340 lines)
+- **`schemas/media.schema.json`** (359 lines)
   - Validates media entities (print, online, radio, TV)
   - Covers all 48 fields used in the KEK API
   - Includes type-specific fields for each media type
   - Fully validated against actual data files
 
-- **`schemas/shareholder.schema.json`** (230 lines)
+- **`schemas/shareholder.schema.json`** (240 lines)
   - Validates shareholder/holder entities
   - Covers natural persons and companies
   - Includes all 23 fields used in the KEK API
   - Fully validated against actual data files
 
 ### 2. PostgreSQL Schema
-- **`schemas/postgresql-schema.sql`** (350 lines)
+- **`schemas/postgresql-schema.sql`** (394 lines)
   - Complete relational database schema
-  - 9 main tables for entities and relationships
+  - **14 tables** for entities, relationships, and lookups
+  - **3 ENUMs** for schema-level types (media_type, entity_state, relation_type)
+  - **5 lookup tables** preserving KEK source squuids (press_types, press_magazine_types, online_offer_types, rf_broadcast_statuses, rf_categories)
   - 3 helper views for common queries
   - Proper indexes for performance
   - Foreign key constraints and referential integrity
@@ -39,22 +41,30 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
 - `languages` + `media_languages` - Language support
 - `platform_operators` - Platform distribution
 
+**Lookup Tables (preserving KEK source squuids):**
+- `press_types` - Press types (3 entries)
+- `press_magazine_types` - Magazine types (2 entries)
+- `online_offer_types` - Online offer types (1 entry)
+- `rf_broadcast_statuses` - Broadcast statuses (3 entries)
+- `rf_categories` - Radio/TV categories (9 entries)
+
 ### 3. Documentation
-- **`schemas/README.md`** (270 lines)
+- **`schemas/README.md`** (338 lines)
   - Complete field descriptions
   - Data model explanation
   - Example queries
   - Validation instructions
-  - Design decisions
+  - Design decisions and squuid naming convention
+  - Adaptability rationale
 
-- **`schemas/DIAGRAM.md`** (280 lines)
+- **`schemas/DIAGRAM.md`** (356 lines)
   - Visual entity relationship diagrams
   - Schema structure breakdown
   - Cardinality explanations
   - Query patterns
   - Example data flows
 
-- **`schemas/EXAMPLES.md`** (450 lines)
+- **`schemas/EXAMPLES.md`** (459 lines)
   - Practical usage examples
   - Python and JavaScript code samples
   - 20+ SQL queries for common use cases
@@ -62,19 +72,20 @@ This document provides a comprehensive summary of the KEK (Kommission zur Ermitt
   - Data quality checks
 
 ### 4. Tools
-- **`validate_schemas.py`** (150 lines)
+- **`validate_schemas.py`** (154 lines)
   - Validates JSON files against schemas
   - Command-line interface
   - Sample validation option
   - Detailed error reporting
   - Successfully validates all test data
 
-- **`import_to_postgres.py`** (450 lines)
+- **`import_to_postgres.py`** (454 lines)
   - Imports JSON data into PostgreSQL
-  - Handles all entity types
+  - **Strictly uses KEK source squuids** (no UUID generation)
+  - Handles all entity types and lookup tables
   - Manages relationships
   - Sample import option for testing
-  - Complete error handling
+  - Complete error handling with clear messages
 
 ## Schema Structure
 
@@ -282,6 +293,7 @@ Potential improvements not yet implemented:
 kek-online-archive/
 ├── schemas/
 │   ├── README.md                  # Main documentation
+│   ├── SUMMARY.md                 # Comprehensive summary
 │   ├── DIAGRAM.md                 # Visual diagrams
 │   ├── EXAMPLES.md                # Usage examples
 │   ├── media.schema.json          # Media JSON Schema
@@ -298,10 +310,24 @@ kek-online-archive/
 
 ## Statistics
 
-- **Total Schema Lines**: ~1,500 lines (SQL + JSON Schema)
-- **Documentation Lines**: ~1,000 lines
-- **Tool Lines**: ~600 lines
+- **Total Schema Lines**: ~1,650 lines (SQL + JSON Schema)
+  - PostgreSQL: 394 lines
+  - Media JSON Schema: 359 lines
+  - Shareholder JSON Schema: 240 lines
+  - Lookup tables with KEK source squuids: 18 entries
+- **Documentation Lines**: ~1,490 lines
+  - README: 338 lines
+  - DIAGRAM: 356 lines
+  - EXAMPLES: 459 lines
+  - SUMMARY: 337 lines
+- **Tool Lines**: ~608 lines
+  - validate_schemas.py: 154 lines
+  - import_to_postgres.py: 454 lines
 - **Total Fields Mapped**: 71+ unique fields
+- **Database Tables**: 14 (9 main + 5 lookup tables)
+- **ENUM Types**: 3 (schema-level only)
+- **Lookup Tables**: 5 (with KEK source squuids preserved)
+- **Views**: 3 helper views
 - **Relationship Types**: 2 (ownership, operation)
 - **Entity Types**: 3 (media, shareholders, organizations)
 

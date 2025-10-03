@@ -39,14 +39,16 @@ All data is copyright:
 Comprehensive schemas for the KEK data are available in the [`schemas/`](schemas/) directory:
 
 - **[JSON Schema](schemas/)** - Formal validation schemas for media and shareholder entities
-- **[PostgreSQL Schema](schemas/postgresql-schema.sql)** - Complete relational database schema
+- **[PostgreSQL Schema](schemas/postgresql-schema.sql)** - Complete relational database schema with 14 tables
 - **[Documentation](schemas/README.md)** - Detailed field descriptions and data model
+- **[Summary](schemas/SUMMARY.md)** - Comprehensive overview with statistics
 - **[Examples](schemas/EXAMPLES.md)** - Practical usage examples and sample queries
 - **[Diagram](schemas/DIAGRAM.md)** - Visual representation of entity relationships
 
-Validation script:
+Tools:
 ```bash
 python validate_schemas.py --sample 10  # Validate sample files
+python import_to_postgres.py --db kek --sample 100  # Import to PostgreSQL
 ```
 
 ---
