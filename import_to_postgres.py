@@ -109,16 +109,13 @@ def import_organizations(cursor, seen_orgs):
     return count
 
 
-def import_media(cursor, data_dir, limit=None):
-    """Import media entities."""
-    print("Importing media...")
-    
+def collect_organizations_from_media(cursor, data_dir, limit=None):
+    """Collect all organization references from media files."""
     media_files = list(Path(data_dir / "media").glob("*.json"))
     if limit:
         media_files = media_files[:limit]
     
     seen_orgs = {}
-    count = 0
     
     for media_file in media_files:
         with open(media_file) as f:
@@ -132,6 +129,24 @@ def import_media(cursor, data_dir, limit=None):
         if 'rfSupervisingAuthority' in data:
             org = data['rfSupervisingAuthority']
             seen_orgs[org['squuid']] = org
+    
+    print(f"  Found {len(seen_orgs)} unique organizations in media files")
+    return seen_orgs
+
+
+def import_media(cursor, data_dir, limit=None):
+    """Import media entities."""
+    print("Importing media...")
+    
+    media_files = list(Path(data_dir / "media").glob("*.json"))
+    if limit:
+        media_files = media_files[:limit]
+    
+    count = 0
+    
+    for media_file in media_files:
+        with open(media_file) as f:
+            data = json.load(f)
         
         # Insert media
         cursor.execute("""
@@ -227,7 +242,27 @@ def import_media(cursor, data_dir, limit=None):
             print(f"  ... imported {count} media")
     
     print(f"  ✓ Imported {count} media")
-    return count, seen_orgs
+    return count, {}  # Return empty dict since orgs are handled separately
+
+
+def collect_organizations_from_shareholders(cursor, data_dir, limit=None):
+    """Collect all organization references from shareholder files."""
+    shareholder_files = list(Path(data_dir / "shareholders").glob("*.json"))
+    if limit:
+        shareholder_files = shareholder_files[:limit]
+    
+    seen_orgs = {}
+    
+    for shareholder_file in shareholder_files:
+        with open(shareholder_file) as f:
+            data = json.load(f)
+        
+        # Collect organizations
+        for org in data.get('organizations', []):
+            seen_orgs[org['squuid']] = org
+    
+    print(f"  Found {len(seen_orgs)} unique organizations in shareholder files")
+    return seen_orgs
 
 
 def import_shareholders(cursor, data_dir, limit=None):
@@ -238,16 +273,11 @@ def import_shareholders(cursor, data_dir, limit=None):
     if limit:
         shareholder_files = shareholder_files[:limit]
     
-    seen_orgs = {}
     count = 0
     
     for shareholder_file in shareholder_files:
         with open(shareholder_file) as f:
             data = json.load(f)
-        
-        # Collect organizations
-        for org in data.get('organizations', []):
-            seen_orgs[org['squuid']] = org
         
         # Insert shareholder
         cursor.execute("""
@@ -299,7 +329,7 @@ def import_shareholders(cursor, data_dir, limit=None):
             print(f"  ... imported {count} shareholders")
     
     print(f"  ✓ Imported {count} shareholders")
-    return count, seen_orgs
+    return count, {}  # Return empty dict since orgs are handled separately
 
 
 def import_relationships(cursor, data_dir, limit=None):
@@ -522,13 +552,18 @@ def main():
     data_dir = base_dir / "docs" / "data"
     
     try:
-        # Import data
-        media_count, media_orgs = import_media(cursor, data_dir, args.sample)
-        shareholder_count, shareholder_orgs = import_shareholders(cursor, data_dir, args.sample)
+        # First pass: collect all organizations from media and shareholders
+        print("Collecting organizations from data files...")
+        media_orgs = collect_organizations_from_media(cursor, data_dir, args.sample)
+        shareholder_orgs = collect_organizations_from_shareholders(cursor, data_dir, args.sample)
         
-        # Merge organizations and import
+        # Merge and import organizations FIRST
         all_orgs = {**media_orgs, **shareholder_orgs}
         org_count = import_organizations(cursor, all_orgs)
+        
+        # Now import media and shareholders (which reference organizations)
+        media_count, _ = import_media(cursor, data_dir, args.sample)
+        shareholder_count, _ = import_shareholders(cursor, data_dir, args.sample)
         
         # Import relationships
         ownership_count, operation_count = import_relationships(cursor, data_dir, args.sample)
