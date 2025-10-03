@@ -257,6 +257,10 @@ def collect_organizations_from_shareholders(cursor, data_dir, limit=None):
         with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
         
+        # Handle KEK API validation errors - actual data is in 'value' key
+        if 'errors' in data and 'value' in data:
+            data = data['value']
+        
         # Collect organizations
         for org in data.get('organizations', []):
             seen_orgs[org['squuid']] = org
@@ -278,6 +282,14 @@ def import_shareholders(cursor, data_dir, limit=None):
     for shareholder_file in shareholder_files:
         with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
+        
+        # Handle KEK API validation errors - actual data is in 'value' key
+        if 'errors' in data and 'value' in data:
+            data = data['value']
+        
+        # Skip if no squuid (shouldn't happen after above handling)
+        if 'squuid' not in data:
+            continue
         
         # Insert shareholder
         cursor.execute("""
@@ -345,13 +357,25 @@ def import_relationships(cursor, data_dir, limit=None):
     
     ownership_count = 0
     operation_count = 0
+    skipped_ownership = 0
+    skipped_operation = 0
     
     # Import ownership relationships from shareholders
     for shareholder_file in shareholder_files:
         with open(shareholder_file, encoding='utf-8') as f:
             data = json.load(f)
         
+        # Handle KEK API validation errors - actual data is in 'value' key
+        if 'errors' in data and 'value' in data:
+            data = data['value']
+        
         for own in data.get('owns', []):
+            # Check if the held entity exists in database
+            cursor.execute("SELECT 1 FROM shareholders WHERE squuid = %s", (own['held']['squuid'],))
+            if cursor.fetchone() is None:
+                skipped_ownership += 1
+                continue
+            
             cursor.execute("""
                 INSERT INTO ownership_relations (
                     squuid, holder_squuid, held_squuid, state, capital_shares, complementary_partner
@@ -370,6 +394,12 @@ def import_relationships(cursor, data_dir, limit=None):
             ownership_count += 1
         
         for operate in data.get('operates', []):
+            # Check if the held entity (media) exists in database
+            cursor.execute("SELECT 1 FROM media WHERE squuid = %s", (operate['held']['squuid'],))
+            if cursor.fetchone() is None:
+                skipped_operation += 1
+                continue
+            
             cursor.execute("""
                 INSERT INTO operation_relations (
                     squuid, holder_squuid, held_squuid, state
@@ -390,6 +420,12 @@ def import_relationships(cursor, data_dir, limit=None):
             data = json.load(f)
         
         for operated_by in data.get('operatedBy', []):
+            # Check if the holder (shareholder) exists in database
+            cursor.execute("SELECT 1 FROM shareholders WHERE squuid = %s", (operated_by['holder']['squuid'],))
+            if cursor.fetchone() is None:
+                skipped_operation += 1
+                continue
+            
             cursor.execute("""
                 INSERT INTO operation_relations (
                     squuid, holder_squuid, held_squuid, state
@@ -406,6 +442,8 @@ def import_relationships(cursor, data_dir, limit=None):
     
     print(f"  ✓ Imported {ownership_count} ownership relations")
     print(f"  ✓ Imported {operation_count} operation relations")
+    if skipped_ownership > 0 or skipped_operation > 0:
+        print(f"  ⚠ Skipped {skipped_ownership} ownership and {skipped_operation} operation relations (referenced entities not in sample)")
     return ownership_count, operation_count
 
 
@@ -591,6 +629,8 @@ def main():
         
     except Exception as e:
         print(f"\nError during import: {e}")
+        import traceback
+        traceback.print_exc()
         conn.rollback()
         return 1
     finally:

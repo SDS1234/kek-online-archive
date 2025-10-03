@@ -129,7 +129,7 @@ CREATE TABLE media (
     -- Press-specific fields
     press_type_squuid UUID REFERENCES press_types(squuid),
     press_magazine_type_squuid UUID REFERENCES press_magazine_types(squuid),
-    press_as_of_date VARCHAR(50),
+    press_as_of_date VARCHAR(100),
     press_distribution_area TEXT,
     press_editions_comments TEXT,
     press_editions_epaper INTEGER,
@@ -141,8 +141,8 @@ CREATE TABLE media (
     -- Online-specific fields
     online_offer_type_squuid UUID REFERENCES online_offer_types(squuid),
     online_agof DECIMAL(15, 3),
-    online_as_of_date_agof VARCHAR(50),
-    online_as_of_date_ivw VARCHAR(50),
+    online_as_of_date_agof VARCHAR(100),
+    online_as_of_date_ivw VARCHAR(100),
     online_comments TEXT,
     online_ivwpi DECIMAL(15, 3),
     online_visits_ivw BIGINT,
@@ -153,14 +153,14 @@ CREATE TABLE media (
     rf_category_squuid UUID REFERENCES rf_categories(squuid),
     rf_director VARCHAR(255),
     rf_free_pay BOOLEAN,
-    rf_license_from VARCHAR(50),
-    rf_license_until VARCHAR(50),
-    rf_licensed VARCHAR(50),
+    rf_license_from VARCHAR(100),
+    rf_license_until VARCHAR(100),
+    rf_licensed VARCHAR(100),
     rf_parental_advisor VARCHAR(255),
     rf_public_private BOOLEAN,
     rf_representative VARCHAR(255),
     rf_shopping_channel BOOLEAN,
-    rf_start_date VARCHAR(50),
+    rf_start_date VARCHAR(100),
     rf_statewide BOOLEAN,
     rf_supervising_authority_squuid UUID REFERENCES organizations(squuid),
     
@@ -246,9 +246,8 @@ CREATE TABLE ownership_relations (
     capital_shares DECIMAL(5, 2), -- Percentage (0-100)
     complementary_partner BOOLEAN DEFAULT false,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    
-    CONSTRAINT ownership_not_self CHECK (holder_squuid != held_squuid)
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    -- Note: self-ownership is allowed as it exists in KEK source data
 );
 
 COMMENT ON TABLE ownership_relations IS 'Ownership relationships between shareholders (who owns whom)';
