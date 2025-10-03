@@ -10,7 +10,25 @@ The KEK database tracks media entities (newspapers, magazines, radio stations, T
 
 - **`media.schema.json`** - JSON Schema for media entities
 - **`shareholder.schema.json`** - JSON Schema for shareholder entities
-- **`postgresql-schema.sql`** - Complete PostgreSQL database schema
+- **`postgresql-schema.sql`** - Complete PostgreSQL database schema (includes historical tracking)
+- **`HISTORICAL_DATA.md`** - Documentation for historical data tracking feature
+- **`EXAMPLES_USAGE.md`** - Practical examples for using historical data
+- **`TESTING.md`** - Testing guide for the database schema and historical features
+- **`queries/`** - Example SQL queries for common use cases
+
+## Features
+
+### Current Data Model
+The schema tracks the current state of media entities, shareholders, and their relationships.
+
+### Historical Data Tracking (NEW)
+The schema includes tables and functions to track how media ownership has changed over time:
+- **Git-based snapshots**: Each data update from git history is stored as a snapshot
+- **Timeline queries**: Track ownership changes for specific entities over time
+- **Comparison tools**: Compare ownership structures between different dates
+- **Full history**: JSONB storage preserves complete entity data for flexible analysis
+
+See **[HISTORICAL_DATA.md](HISTORICAL_DATA.md)** for detailed documentation.
 
 ## Data Model
 
