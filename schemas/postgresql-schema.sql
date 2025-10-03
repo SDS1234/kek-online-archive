@@ -2,26 +2,67 @@
 -- This schema represents media entities, shareholders, and their relationships
 
 -- ============================================================================
--- ENUM TYPES
+-- ENUM TYPES (for truly stable, schema-level types)
 -- ============================================================================
 
 CREATE TYPE media_type AS ENUM ('print', 'online', 'radio', 'tv');
 CREATE TYPE entity_state AS ENUM ('active', 'archived');
 CREATE TYPE relation_type AS ENUM ('own', 'operate');
 
--- Press-specific enums (small, stable value sets)
-CREATE TYPE press_type_enum AS ENUM ('Zeitung', 'Zeitschrift', 'E-Paper');
-CREATE TYPE press_magazine_type_enum AS ENUM ('Publikumszeitschrift', 'Fachzeitschrift');
-CREATE TYPE online_offer_type_enum AS ENUM ('Online Medienangebot');
-CREATE TYPE rf_broadcast_status_enum AS ENUM (
-    'auf Sendung', 
-    'Noch nicht auf Sendung', 
-    'Sendebetrieb eingestellt'
+-- ============================================================================
+-- LOOKUP TABLES (for KEK-controlled value sets that may change)
+-- ============================================================================
+-- Using lookup tables instead of ENUMs for better adaptability to changes
+-- in the source KEK database which is outside our control
+
+CREATE TABLE press_types (
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- ============================================================================
--- LOOKUP TABLES (for larger, potentially dynamic value sets)
--- ============================================================================
+COMMENT ON TABLE press_types IS 'Press types (Zeitung, Zeitschrift, E-Paper) - lookup table for flexibility';
+
+INSERT INTO press_types (squuid, name) VALUES
+    (gen_random_uuid(), 'Zeitung'),
+    (gen_random_uuid(), 'Zeitschrift'),
+    (gen_random_uuid(), 'E-Paper');
+
+CREATE TABLE press_magazine_types (
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE press_magazine_types IS 'Magazine types (Publikumszeitschrift, Fachzeitschrift) - lookup table for flexibility';
+
+INSERT INTO press_magazine_types (squuid, name) VALUES
+    (gen_random_uuid(), 'Publikumszeitschrift'),
+    (gen_random_uuid(), 'Fachzeitschrift');
+
+CREATE TABLE online_offer_types (
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE online_offer_types IS 'Online offer types - lookup table for flexibility';
+
+INSERT INTO online_offer_types (squuid, name) VALUES
+    (gen_random_uuid(), 'Online Medienangebot');
+
+CREATE TABLE rf_broadcast_statuses (
+    squuid UUID PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+COMMENT ON TABLE rf_broadcast_statuses IS 'Radio/TV broadcast statuses - lookup table for flexibility';
+
+INSERT INTO rf_broadcast_statuses (squuid, name) VALUES
+    (gen_random_uuid(), 'auf Sendung'),
+    (gen_random_uuid(), 'Noch nicht auf Sendung'),
+    (gen_random_uuid(), 'Sendebetrieb eingestellt');
 
 CREATE TABLE rf_categories (
     squuid UUID PRIMARY KEY,
@@ -31,7 +72,6 @@ CREATE TABLE rf_categories (
 
 COMMENT ON TABLE rf_categories IS 'Radio/TV program categories (e.g., Vollprogramm, Spartenprogramm)';
 
--- Insert known categories
 INSERT INTO rf_categories (squuid, name) VALUES
     (gen_random_uuid(), 'Vollprogramm'),
     (gen_random_uuid(), 'Spartenprogramm (Information/Dokumentation)'),
@@ -80,8 +120,8 @@ CREATE TABLE media (
     accessibility_url VARCHAR(500),
     
     -- Press-specific fields
-    press_type press_type_enum,
-    press_magazine_type press_magazine_type_enum,
+    press_type_squuid UUID REFERENCES press_types(squuid),
+    press_magazine_type_squuid UUID REFERENCES press_magazine_types(squuid),
     press_as_of_date VARCHAR(50),
     press_distribution_area TEXT,
     press_editions_comments TEXT,
@@ -92,7 +132,7 @@ CREATE TABLE media (
     press_publishing_intervals INTEGER,
     
     -- Online-specific fields
-    online_offer_type online_offer_type_enum,
+    online_offer_type_squuid UUID REFERENCES online_offer_types(squuid),
     online_agof DECIMAL(15, 3),
     online_as_of_date_agof VARCHAR(50),
     online_as_of_date_ivw VARCHAR(50),
@@ -102,7 +142,7 @@ CREATE TABLE media (
     
     -- Radio/TV-specific fields
     rf_address TEXT,
-    rf_broadcast_status rf_broadcast_status_enum,
+    rf_broadcast_status_squuid UUID REFERENCES rf_broadcast_statuses(squuid),
     rf_category_squuid UUID REFERENCES rf_categories(squuid),
     rf_director VARCHAR(255),
     rf_free_pay BOOLEAN,
@@ -128,11 +168,11 @@ CREATE TABLE media (
 COMMENT ON TABLE media IS 'Media entities including print, online, radio, and TV';
 COMMENT ON COLUMN media.market_reach IS 'Market reach percentage';
 COMMENT ON COLUMN media.press_publishing_intervals IS 'Number of publishing intervals per year';
-COMMENT ON COLUMN media.press_type IS 'Type of press (Zeitung, Zeitschrift, E-Paper) - uses ENUM for small, stable set';
-COMMENT ON COLUMN media.press_magazine_type IS 'Magazine type (Publikumszeitschrift, Fachzeitschrift) - uses ENUM for small set';
-COMMENT ON COLUMN media.online_offer_type IS 'Type of online offer - uses ENUM (currently only one value)';
-COMMENT ON COLUMN media.rf_broadcast_status IS 'Broadcast status - uses ENUM for small, controlled set';
-COMMENT ON COLUMN media.rf_category_squuid IS 'Radio/TV category - uses lookup table for larger, potentially growing set';
+COMMENT ON COLUMN media.press_type_squuid IS 'Type of press - uses lookup table for adaptability to KEK source changes';
+COMMENT ON COLUMN media.press_magazine_type_squuid IS 'Magazine type - uses lookup table for adaptability';
+COMMENT ON COLUMN media.online_offer_type_squuid IS 'Type of online offer - uses lookup table for adaptability';
+COMMENT ON COLUMN media.rf_broadcast_status_squuid IS 'Broadcast status - uses lookup table for adaptability';
+COMMENT ON COLUMN media.rf_category_squuid IS 'Radio/TV category - uses lookup table for adaptability';
 COMMENT ON COLUMN media.rf_public_private IS 'True for public broadcaster, false for private';
 
 -- ============================================================================

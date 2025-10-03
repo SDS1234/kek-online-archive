@@ -32,26 +32,31 @@ def parse_datetime(date_str: Optional[str]) -> Optional[datetime]:
         return None
 
 
-def get_category_squuid(cursor, category_name: Optional[str]) -> Optional[str]:
-    """Get or create rf_category squuid by name."""
-    if not category_name:
+def get_lookup_squuid(cursor, table_name: str, value_name: Optional[str]) -> Optional[str]:
+    """Get or create lookup table squuid by name. Generic function for all lookup tables."""
+    if not value_name:
         return None
     
-    # Try to find existing category
-    cursor.execute("SELECT squuid FROM rf_categories WHERE name = %s", (category_name,))
+    # Try to find existing value
+    cursor.execute(f"SELECT squuid FROM {table_name} WHERE name = %s", (value_name,))
     result = cursor.fetchone()
     
     if result:
         return result[0]
     
-    # If not found, insert new category
-    cursor.execute("""
-        INSERT INTO rf_categories (squuid, name)
+    # If not found, insert new value (allows dynamic adaptation to KEK source changes)
+    cursor.execute(f"""
+        INSERT INTO {table_name} (squuid, name)
         VALUES (gen_random_uuid(), %s)
         RETURNING squuid
-    """, (category_name,))
+    """, (value_name,))
     
     return cursor.fetchone()[0]
+
+
+def get_category_squuid(cursor, category_name: Optional[str]) -> Optional[str]:
+    """Get or create rf_category squuid by name."""
+    return get_lookup_squuid(cursor, 'rf_categories', category_name)
 
 
 def import_organizations(cursor, seen_orgs):
@@ -107,15 +112,15 @@ def import_media(cursor, data_dir, limit=None):
                 description, market_reach, matched_names,
                 organization_squuid,
                 accessibility_email, accessibility_url,
-                press_type, press_magazine_type,
+                press_type_squuid, press_magazine_type_squuid,
                 press_as_of_date, press_distribution_area,
                 press_editions_comments, press_editions_epaper,
                 press_editions_ivw, press_editions_sold,
                 press_kind, press_publishing_intervals,
-                online_offer_type, online_agof,
+                online_offer_type_squuid, online_agof,
                 online_as_of_date_agof, online_as_of_date_ivw,
                 online_comments, online_ivwpi, online_visits_ivw,
-                rf_address, rf_broadcast_status, rf_category_squuid,
+                rf_address, rf_broadcast_status_squuid, rf_category_squuid,
                 rf_director, rf_free_pay, rf_license_from, rf_license_until,
                 rf_licensed, rf_parental_advisor, rf_public_private,
                 rf_representative, rf_shopping_channel, rf_start_date,
@@ -154,8 +159,8 @@ def import_media(cursor, data_dir, limit=None):
             data.get('organization', {}).get('squuid'),
             data.get('accessibilityEmail'),
             data.get('accessibilityUrl'),
-            data.get('pressType', {}).get('name'),
-            data.get('pressMagazineType', {}).get('name'),
+            get_lookup_squuid(cursor, 'press_types', data.get('pressType', {}).get('name')) if data.get('pressType') else None,
+            get_lookup_squuid(cursor, 'press_magazine_types', data.get('pressMagazineType', {}).get('name')) if data.get('pressMagazineType') else None,
             data.get('pressAsOfDate'),
             data.get('pressDistributionArea'),
             data.get('pressEditionsComments'),
@@ -164,7 +169,7 @@ def import_media(cursor, data_dir, limit=None):
             data.get('pressEditionsSold'),
             data.get('pressKind'),
             data.get('pressPublishingIntervals'),
-            data.get('onlineOfferType', {}).get('name'),
+            get_lookup_squuid(cursor, 'online_offer_types', data.get('onlineOfferType', {}).get('name')) if data.get('onlineOfferType') else None,
             data.get('onlineAGOF'),
             data.get('onlineAsOfDateAGOF'),
             data.get('onlineAsOfDateIVW'),
@@ -172,7 +177,7 @@ def import_media(cursor, data_dir, limit=None):
             data.get('onlineIVWPI'),
             data.get('onlineVisitsIVW'),
             data.get('rfAddress'),
-            data.get('rfBroadcastStatus', {}).get('name'),
+            get_lookup_squuid(cursor, 'rf_broadcast_statuses', data.get('rfBroadcastStatus', {}).get('name')) if data.get('rfBroadcastStatus') else None,
             # Look up rf_category_squuid by name
             get_category_squuid(cursor, data.get('rfCategory', {}).get('name')) if data.get('rfCategory') else None,
             data.get('rfDirector'),

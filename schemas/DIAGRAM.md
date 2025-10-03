@@ -55,20 +55,20 @@ media
 │   └── matched_names[]
 │
 ├── [Press Fields]
-│   ├── press_type (ENUM: Zeitung, Zeitschrift, E-Paper)
-│   ├── press_magazine_type (ENUM: Publikumszeitschrift, Fachzeitschrift)
+│   ├── press_type_squuid (FK → press_types)
+│   ├── press_magazine_type_squuid (FK → press_magazine_types)
 │   ├── press_publishing_intervals
 │   ├── press_editions_sold
 │   └── press_distribution_area
 │
 ├── [Online Fields]
-│   ├── online_offer_type (ENUM: Online Medienangebot)
+│   ├── online_offer_type_squuid (FK → online_offer_types)
 │   ├── online_ivwpi
 │   ├── online_visits_ivw
 │   └── online_agof
 │
 └── [Radio/TV Fields]
-    ├── rf_broadcast_status (ENUM: auf Sendung, Noch nicht auf Sendung, ...)
+    ├── rf_broadcast_status_squuid (FK → rf_broadcast_statuses)
     ├── rf_category_squuid (FK → rf_categories)
     ├── rf_public_private
     ├── rf_statewide
@@ -115,7 +115,25 @@ operation_relations
 ### Support Tables
 
 ```
-rf_categories (Lookup table for Radio/TV categories)
+Lookup Tables (for KEK-controlled values):
+
+press_types
+├── squuid (PK, UUID)
+└── name (UNIQUE)
+
+press_magazine_types
+├── squuid (PK, UUID)
+└── name (UNIQUE)
+
+online_offer_types
+├── squuid (PK, UUID)
+└── name (UNIQUE)
+
+rf_broadcast_statuses
+├── squuid (PK, UUID)
+└── name (UNIQUE)
+
+rf_categories
 ├── squuid (PK, UUID)
 └── name (UNIQUE)
 
@@ -152,6 +170,18 @@ Shareholder ──N:M─► Organizations
 
 Media ──N:1─► Organizations
          (supervising authority)
+
+Media ──N:1─► Press Types
+         (press type lookup)
+
+Media ──N:1─► Press Magazine Types
+         (magazine type lookup)
+
+Media ──N:1─► Online Offer Types
+         (online offer type lookup)
+
+Media ──N:1─► RF Broadcast Statuses
+         (broadcast status lookup)
 
 Media ──N:1─► RF Categories
          (radio/TV category lookup)
@@ -222,20 +252,30 @@ INSERT INTO operation_relations (squuid, holder_squuid, held_squuid) VALUES
 - Each relationship has its own UUID
 - Enables temporal tracking and metadata
 
-### 4. ENUMs vs Lookup Tables
-**ENUMs used for:**
-- Small, stable value sets (press_type, press_magazine_type, online_offer_type, rf_broadcast_status)
-- Provides type safety and data integrity
-- No joins needed for queries
-- Defined at schema level
+### 4. Lookup Tables for KEK-Controlled Values
+**Design priority: Adaptability to external data source**
 
-**Lookup tables used for:**
-- Larger, potentially growing sets (rf_categories with 7+ values)
-- Allows dynamic addition of new values without schema changes
-- Better for values that may expand over time
-- Provides foreign key relationships
+The KEK source database is **outside our control**, so the schema prioritizes adaptability:
 
-This hybrid approach balances type safety with flexibility.
+**ENUMs (only for schema-level types):**
+- Core structural types: `media_type`, `entity_state`, `relation_type`
+- These are fundamental to the schema design itself
+- Extremely unlikely to change
+
+**Lookup Tables (for all KEK data):**
+- All KEK-controlled value sets use lookup tables
+- `press_types`, `press_magazine_types`, `online_offer_types`, `rf_broadcast_statuses`, `rf_categories`
+- Import script automatically creates new lookup values
+- No schema changes needed when KEK adds new types
+- Ensures forward compatibility with KEK source changes
+
+**Benefits:**
+- **Adaptability**: New values added automatically during import
+- **No Downtime**: No ALTER TYPE operations required
+- **Forward Compatible**: Handles unexpected changes gracefully
+- **Minimal Maintenance**: Schema evolves with the data
+
+This approach trades minor query performance (join vs enum) for significant operational flexibility and reliability when dealing with an external data source.
 
 ### 5. State on Relationships
 - Both entities and relationships have `state` field

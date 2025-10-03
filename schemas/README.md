@@ -189,22 +189,32 @@ All media types share these core fields:
 
 ### Design Decisions: ENUMs vs Lookup Tables
 
-The PostgreSQL schema uses a hybrid approach for lookup values:
+The PostgreSQL schema uses a strategic approach for lookup values based on **adaptability to the KEK source database**:
 
-**ENUMs (for small, stable value sets):**
-- `press_type` - 3 values (Zeitung, Zeitschrift, E-Paper)
-- `press_magazine_type` - 2 values (Publikumszeitschrift, Fachzeitschrift)
-- `online_offer_type` - 1 value (Online Medienangebot)
-- `rf_broadcast_status` - 3 values (auf Sendung, Noch nicht auf Sendung, Sendebetrieb eingestellt)
+**ENUMs (only for truly stable, schema-level types):**
+- `media_type` - 4 fundamental types (print, online, radio, tv)
+- `entity_state` - 2 states (active, archived)
+- `relation_type` - 2 types (own, operate)
 
-**Lookup Tables (for larger, potentially growing sets):**
-- `rf_categories` - 7+ values (Vollprogramm, various Spartenprogramm types, Teleshopping)
+These are core schema-level enumerations that define the fundamental structure and are unlikely to change.
 
-This approach provides:
-- Type safety and data integrity for stable values (ENUMs)
-- Flexibility for categories that may expand (lookup tables)
-- Better query performance (no joins needed for ENUMs)
-- Easy extensibility (new categories can be added without schema changes)
+**Lookup Tables (for all KEK-controlled value sets):**
+- `press_types` - Press types (Zeitung, Zeitschrift, E-Paper)
+- `press_magazine_types` - Magazine types (Publikumszeitschrift, Fachzeitschrift)
+- `online_offer_types` - Online offer types (Online Medienangebot)
+- `rf_broadcast_statuses` - Broadcast statuses (auf Sendung, Noch nicht auf Sendung, Sendebetrieb eingestellt)
+- `rf_categories` - Radio/TV categories (Vollprogramm, various Spartenprogramm types, Teleshopping)
+
+**Why Lookup Tables Instead of ENUMs for KEK Data?**
+
+The KEK source database is **outside our control**. Using lookup tables provides:
+- **Adaptability**: New values from KEK can be added automatically without schema changes
+- **No Downtime**: Adding new values doesn't require `ALTER TYPE` statements
+- **Forward Compatibility**: Import script automatically creates missing lookup values
+- **Flexibility**: Can handle unexpected changes from the KEK source
+- **Minimal Maintenance**: No schema migrations needed when KEK adds new types
+
+This design prioritizes **compatibility and adaptability** over the minor performance benefit of ENUMs, ensuring the schema can evolve with the external KEK data source.
 
 ### Example Queries
 
