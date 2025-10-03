@@ -216,6 +216,27 @@ The KEK source database is **outside our control**. Using lookup tables provides
 
 This design prioritizes **compatibility and adaptability** over the minor performance benefit of ENUMs, ensuring the schema can evolve with the external KEK data source.
 
+### Naming Convention: `squuid` Usage
+
+The schema consistently uses **`squuid`** (not `id` or `uuid`) for all primary keys to match the KEK source data structure:
+
+- **Main entities**: `media`, `shareholders`, `organizations` use `squuid` as their primary key, matching the KEK API field name
+- **Lookup tables**: `press_types`, `rf_categories`, etc. also use `squuid` because these lookup values come from the KEK source with their own `squuid` values
+
+The KEK source provides embedded lookup values with full entity structure. For example:
+```json
+{
+  "pressType": {
+    "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
+    "name": "Zeitung",
+    "type": "press-type",
+    "state": "active"
+  }
+}
+```
+
+Our lookup tables preserve these `squuid` values from the KEK source, maintaining consistency and enabling proper foreign key relationships. The import script automatically extracts and preserves these `squuid` values when populating lookup tables.
+
 ### Example Queries
 
 #### Find all owners of a media entity (indirect via operators)

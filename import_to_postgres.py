@@ -32,26 +32,53 @@ def parse_datetime(date_str: Optional[str]) -> Optional[datetime]:
         return None
 
 
-def get_lookup_squuid(cursor, table_name: str, value_name: Optional[str]) -> Optional[str]:
-    """Get or create lookup table squuid by name. Generic function for all lookup tables."""
-    if not value_name:
+def get_lookup_squuid(cursor, table_name: str, lookup_data: Optional[dict]) -> Optional[str]:
+    """Get or create lookup table entry using squuid from KEK source. 
+    
+    Args:
+        cursor: Database cursor
+        table_name: Name of the lookup table
+        lookup_data: Dict from KEK source with 'squuid' and 'name' fields
+    
+    Returns:
+        The squuid for the lookup value
+    """
+    if not lookup_data or not lookup_data.get('name'):
         return None
     
-    # Try to find existing value
-    cursor.execute(f"SELECT squuid FROM {table_name} WHERE name = %s", (value_name,))
+    name = lookup_data['name']
+    source_squuid = lookup_data.get('squuid')
+    
+    # Try to find existing value by name
+    cursor.execute(f"SELECT squuid FROM {table_name} WHERE name = %s", (name,))
     result = cursor.fetchone()
     
     if result:
         return result[0]
     
-    # If not found, insert new value (allows dynamic adaptation to KEK source changes)
-    cursor.execute(f"""
-        INSERT INTO {table_name} (squuid, name)
-        VALUES (gen_random_uuid(), %s)
-        RETURNING squuid
-    """, (value_name,))
-    
-    return cursor.fetchone()[0]
+    # If not found, insert new value using squuid from KEK source
+    # This preserves the KEK source squuid for lookup values
+    if source_squuid:
+        cursor.execute(f"""
+            INSERT INTO {table_name} (squuid, name)
+            VALUES (%s, %s)
+            ON CONFLICT (squuid) DO NOTHING
+            RETURNING squuid
+        """, (source_squuid, name))
+        result = cursor.fetchone()
+        if result:
+            return result[0]
+        # If conflict occurred, fetch the existing record
+        cursor.execute(f"SELECT squuid FROM {table_name} WHERE squuid = %s", (source_squuid,))
+        return cursor.fetchone()[0]
+    else:
+        # Fallback: generate UUID if source doesn't provide one (shouldn't happen normally)
+        cursor.execute(f"""
+            INSERT INTO {table_name} (squuid, name)
+            VALUES (gen_random_uuid(), %s)
+            RETURNING squuid
+        """, (name,))
+        return cursor.fetchone()[0]
 
 
 def get_category_squuid(cursor, category_name: Optional[str]) -> Optional[str]:
@@ -159,8 +186,8 @@ def import_media(cursor, data_dir, limit=None):
             data.get('organization', {}).get('squuid'),
             data.get('accessibilityEmail'),
             data.get('accessibilityUrl'),
-            get_lookup_squuid(cursor, 'press_types', data.get('pressType', {}).get('name')) if data.get('pressType') else None,
-            get_lookup_squuid(cursor, 'press_magazine_types', data.get('pressMagazineType', {}).get('name')) if data.get('pressMagazineType') else None,
+            get_lookup_squuid(cursor, 'press_types', data.get('pressType')) if data.get('pressType') else None,
+            get_lookup_squuid(cursor, 'press_magazine_types', data.get('pressMagazineType')) if data.get('pressMagazineType') else None,
             data.get('pressAsOfDate'),
             data.get('pressDistributionArea'),
             data.get('pressEditionsComments'),
@@ -169,7 +196,7 @@ def import_media(cursor, data_dir, limit=None):
             data.get('pressEditionsSold'),
             data.get('pressKind'),
             data.get('pressPublishingIntervals'),
-            get_lookup_squuid(cursor, 'online_offer_types', data.get('onlineOfferType', {}).get('name')) if data.get('onlineOfferType') else None,
+            get_lookup_squuid(cursor, 'online_offer_types', data.get('onlineOfferType')) if data.get('onlineOfferType') else None,
             data.get('onlineAGOF'),
             data.get('onlineAsOfDateAGOF'),
             data.get('onlineAsOfDateIVW'),
@@ -177,9 +204,8 @@ def import_media(cursor, data_dir, limit=None):
             data.get('onlineIVWPI'),
             data.get('onlineVisitsIVW'),
             data.get('rfAddress'),
-            get_lookup_squuid(cursor, 'rf_broadcast_statuses', data.get('rfBroadcastStatus', {}).get('name')) if data.get('rfBroadcastStatus') else None,
-            # Look up rf_category_squuid by name
-            get_category_squuid(cursor, data.get('rfCategory', {}).get('name')) if data.get('rfCategory') else None,
+            get_lookup_squuid(cursor, 'rf_broadcast_statuses', data.get('rfBroadcastStatus')) if data.get('rfBroadcastStatus') else None,
+            get_lookup_squuid(cursor, 'rf_categories', data.get('rfCategory')) if data.get('rfCategory') else None,
             data.get('rfDirector'),
             data.get('rfFreePay'),
             data.get('rfLicenseFrom'),

@@ -23,10 +23,11 @@ CREATE TABLE press_types (
 
 COMMENT ON TABLE press_types IS 'Press types (Zeitung, Zeitschrift, E-Paper) - lookup table for flexibility';
 
+-- Insert with actual squuids from KEK source
 INSERT INTO press_types (squuid, name) VALUES
-    (gen_random_uuid(), 'Zeitung'),
-    (gen_random_uuid(), 'Zeitschrift'),
-    (gen_random_uuid(), 'E-Paper');
+    ('5be1a6b0-4e68-459d-a5ee-da3974114c2a', 'E-Paper'),
+    ('5be1a6b0-8202-4312-8190-cd96a1973f23', 'Zeitschrift'),
+    ('5be1a6b0-e4cc-4064-9625-597855abfd7c', 'Zeitung');
 
 CREATE TABLE press_magazine_types (
     squuid UUID PRIMARY KEY,
@@ -36,9 +37,10 @@ CREATE TABLE press_magazine_types (
 
 COMMENT ON TABLE press_magazine_types IS 'Magazine types (Publikumszeitschrift, Fachzeitschrift) - lookup table for flexibility';
 
+-- Insert with actual squuids from KEK source
 INSERT INTO press_magazine_types (squuid, name) VALUES
-    (gen_random_uuid(), 'Publikumszeitschrift'),
-    (gen_random_uuid(), 'Fachzeitschrift');
+    ('5be1a6b0-015d-43da-8228-4bcff73d397c', 'Fachzeitschrift'),
+    ('5be1a6b0-bff8-40db-a254-72d8fa6d3386', 'Publikumszeitschrift');
 
 CREATE TABLE online_offer_types (
     squuid UUID PRIMARY KEY,
@@ -48,8 +50,9 @@ CREATE TABLE online_offer_types (
 
 COMMENT ON TABLE online_offer_types IS 'Online offer types - lookup table for flexibility';
 
+-- Insert with actual squuids from KEK source
 INSERT INTO online_offer_types (squuid, name) VALUES
-    (gen_random_uuid(), 'Online Medienangebot');
+    ('5be1a6b0-e359-4db0-9c54-8ab7d725db5e', 'Online Medienangebot');
 
 CREATE TABLE rf_broadcast_statuses (
     squuid UUID PRIMARY KEY,
@@ -59,10 +62,11 @@ CREATE TABLE rf_broadcast_statuses (
 
 COMMENT ON TABLE rf_broadcast_statuses IS 'Radio/TV broadcast statuses - lookup table for flexibility';
 
+-- Insert with actual squuids from KEK source
 INSERT INTO rf_broadcast_statuses (squuid, name) VALUES
-    (gen_random_uuid(), 'auf Sendung'),
-    (gen_random_uuid(), 'Noch nicht auf Sendung'),
-    (gen_random_uuid(), 'Sendebetrieb eingestellt');
+    ('5be1a6ad-52de-429b-89ff-5a6ce723e4ab', 'Noch nicht auf Sendung'),
+    ('5be1a6ad-32b3-4ae8-b086-34ac62794f08', 'Sendebetrieb eingestellt'),
+    ('5be1a6ad-6a90-49bf-9940-ae4616389a88', 'auf Sendung');
 
 CREATE TABLE rf_categories (
     squuid UUID PRIMARY KEY,
@@ -72,14 +76,17 @@ CREATE TABLE rf_categories (
 
 COMMENT ON TABLE rf_categories IS 'Radio/TV program categories (e.g., Vollprogramm, Spartenprogramm)';
 
+-- Insert with actual squuids from KEK source
 INSERT INTO rf_categories (squuid, name) VALUES
-    (gen_random_uuid(), 'Vollprogramm'),
-    (gen_random_uuid(), 'Spartenprogramm (Information/Dokumentation)'),
-    (gen_random_uuid(), 'Spartenprogramm (Musik)'),
-    (gen_random_uuid(), 'Spartenprogramm (Sport)'),
-    (gen_random_uuid(), 'Spartenprogramm (Unterhaltung)'),
-    (gen_random_uuid(), 'Spartenprogramm (Sonstiges)'),
-    (gen_random_uuid(), 'Teleshopping');
+    ('5be1a6ad-063c-4208-94e1-5216fef7a724', 'Vollprogramm'),
+    ('5be1a6ad-88f5-40c4-8a67-1f29db7c9aa8', 'Spartenprogramm (Information/Dokumentation)'),
+    ('5be1a6ad-59ef-453a-9d47-fa4b4ab0b1a4', 'Spartenprogramm (Kinder)'),
+    ('5be1a6ad-10a1-4d0f-be3f-dc7e8cdd350a', 'Spartenprogramm (Musik)'),
+    ('5be1a6ad-5d06-4b68-96e4-33a2746127f9', 'Spartenprogramm (Nachrichten)'),
+    ('5be1a6ad-bc95-453f-89a7-4577b71d9c46', 'Spartenprogramm (Sport)'),
+    ('5be1a6ad-211a-4a65-b05a-b318333ba3f5', 'Spartenprogramm (Unterhaltung)'),
+    ('5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0', 'Spartenprogramm (Sonstiges)'),
+    ('5be1a6ad-6b1a-4de6-924f-727ccb20e81b', 'Teleshopping');
 
 -- ============================================================================
 -- ORGANIZATIONS TABLE
