@@ -352,6 +352,8 @@ CREATE INDEX idx_media_type ON media(type);
 CREATE INDEX idx_media_state ON media(state);
 CREATE INDEX idx_media_organization ON media(organization_squuid);
 CREATE INDEX idx_media_market_reach ON media(market_reach);
+CREATE INDEX idx_media_control_date ON media(control_date);
+CREATE INDEX idx_media_name_gin ON media USING gin(to_tsvector('german', name));
 
 CREATE INDEX idx_shareholders_state ON shareholders(state);
 CREATE INDEX idx_shareholders_natural_person ON shareholders(natural_person);
