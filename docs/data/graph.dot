@@ -9318,11 +9318,11 @@ digraph {
     label="Axel Springer Deutschland GmbH"
     num_owners=10
     num_owners_weighted=5.8599
-    num_medias=134
-    num_medias_weighted=37.9678
+    num_medias=136
+    num_medias_weighted=39.9678
     name="5be1a6b6-af30-4d16-b7eb-afb070fc9f88"
     in_degree=1
-    out_degree=32
+    out_degree=34
   ];
   777 [
     type=shareholder
@@ -9366,8 +9366,8 @@ digraph {
     label="Axel Springer Digital Ventures GmbH"
     num_owners=10
     num_owners_weighted=5.8599
-    num_medias=3
-    num_medias_weighted=2.8999
+    num_medias=1
+    num_medias_weighted=0.8999
     name="5be1a6b6-1e66-42a9-8f09-daddb92b637d"
     in_degree=1
     out_degree=2
@@ -21470,15 +21470,15 @@ digraph {
   ];
   1789 [
     type=shareholder
-    state=active
+    state=archived
     label="Business Insider Deutschland GmbH"
-    num_owners=11
-    num_owners_weighted=6.8599
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef0a3e9-f375-41fa-a13f-8b76211254c0"
     in_degree=1
-    out_degree=2
+    out_degree=0
   ];
   1790 [
     type=print
@@ -21808,8 +21808,8 @@ digraph {
     type=shareholder
     state=active
     label="bw family.tv GmbH & Co. KG"
-    num_owners=31
-    num_owners_weighted=8.6326
+    num_owners=27
+    num_owners_weighted=7.5755
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-2eb2-4708-b58a-00d30d4f4ef4"
@@ -21832,8 +21832,8 @@ digraph {
     type=tv
     state=active
     label="bw future.tv"
-    num_owners=32
-    num_owners_weighted=9.6326
+    num_owners=28
+    num_owners_weighted=8.5755
     num_medias=0
     num_medias_weighted=0.0000
     name="5d41923d-80a6-478e-a8b9-eaa828e9e4e9"
@@ -172984,8 +172984,8 @@ digraph {
     type=online
     state=active
     label="www.businessinsider.de"
-    num_owners=12
-    num_owners_weighted=7.8599
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ee74-4837-b3ec-e8f46e6bc484"
@@ -173056,8 +173056,8 @@ digraph {
     type=online
     state=active
     label="www.bw-future.tv"
-    num_owners=32
-    num_owners_weighted=9.6326
+    num_owners=28
+    num_owners_weighted=8.5755
     num_medias=0
     num_medias_weighted=0.0000
     name="6863f0c4-d305-4ac1-a823-cd7b65d14301"
@@ -179079,7 +179079,7 @@ digraph {
   14923 [
     type=online
     state=active
-    label="www.frm.lokal.studio"
+    label="www.frm-tv.de"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=0
@@ -181012,8 +181012,8 @@ digraph {
     type=online
     state=active
     label="www.gruenderszene.de"
-    num_owners=12
-    num_owners_weighted=7.8599
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5c503daa-4b25-46fb-9a04-e4fdb72bee34"
@@ -211169,6 +211169,10 @@ digraph {
     weight=100
     type=operates
   ];
+  776 -> 14415 [
+    weight=100
+    type=operates
+  ];
   776 -> 14428 [
     weight=100
     type=operates
@@ -211178,6 +211182,10 @@ digraph {
     type=operates
   ];
   776 -> 14842 [
+    weight=100
+    type=operates
+  ];
+  776 -> 15084 [
     weight=100
     type=operates
   ];
@@ -216428,14 +216436,6 @@ digraph {
   1783 -> 3332 [
     weight=100
     type=owns
-  ];
-  1789 -> 14415 [
-    weight=100
-    type=operates
-  ];
-  1789 -> 15084 [
-    weight=100
-    type=operates
   ];
   1791 -> 1790 [
     weight=100
