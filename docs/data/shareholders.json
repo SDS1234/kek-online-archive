@@ -8732,7 +8732,7 @@
     "squuid": "5be1a6b6-f5bf-477e-81eb-7e13fe0744b1",
     "name": "CLT-UFA S.A.",
     "state": "active",
-    "controlDate": "2025-05-05T12:25:38.460Z",
+    "controlDate": "2025-10-13T13:07:30.143Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -14899,7 +14899,7 @@
     "squuid": "5be97d05-6cc9-49f7-aca1-9bfb2cecb386",
     "name": "CATO Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:10:53.324Z",
+    "controlDate": "2025-10-13T11:03:49.511Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27534,7 +27534,7 @@
     "name": "Cellesche Zeitung Schweiger & Pick Verlag Pfingsten GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1830-46a1-ac52-73c3fa740a75",
-    "controlDate": "2025-05-05T09:36:34.400Z",
+    "controlDate": "2025-10-13T08:36:16.733Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -28904,13 +28904,8 @@
     "squuid": "5be1a6b6-ed76-469c-be3a-f6412b962c87",
     "name": "L-TV GmbH Landesfernsehen",
     "state": "active",
-    "controlDate": "2025-06-02T10:36:04.738Z",
+    "controlDate": "2025-10-13T15:21:25.226Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
@@ -28926,15 +28921,6 @@
         "held": {
           "squuid": "5d2c70b0-ae96-40d3-aab1-6ae39a17b502",
           "name": "L-TV Landesfernsehen"
-        }
-      },
-      {
-        "squuid": "5f3d119c-654c-4599-ab8e-223a6560257c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f3d10ef-4285-4398-9df3-14059e796573",
-          "name": "www.l-tv.de"
         }
       }
     ]
@@ -33476,7 +33462,7 @@
     "name": "Coesfelder Lokalradio Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a6f3-4efe-8c92-bafa1e1d7f29",
-    "controlDate": "2025-05-05T12:29:55.573Z",
+    "controlDate": "2025-10-13T13:15:56.259Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34899,7 +34885,7 @@
     "squuid": "5be1a6b6-af31-4675-bfe5-541d276d90b2",
     "name": "Comcast Corporation",
     "state": "active",
-    "controlDate": "2025-05-05T12:39:16.746Z",
+    "controlDate": "2025-10-13T13:23:12.253Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39508,7 +39494,7 @@
     "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4",
-    "controlDate": "2025-05-05T11:20:37.557Z",
+    "controlDate": "2025-10-13T12:12:08.544Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58500,7 +58486,7 @@
     "squuid": "5be1a6b6-2303-4669-b8b2-97959a28316b",
     "name": "Channel21 GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:43:10.679Z",
+    "controlDate": "2025-10-13T09:12:34.870Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -63716,7 +63702,7 @@
     "squuid": "5be1a6b6-aa81-402b-901d-15a881b20d04",
     "name": "C. Jos. Laumanns oHG",
     "state": "active",
-    "controlDate": "2025-05-05T08:41:46.163Z",
+    "controlDate": "2025-10-13T10:33:25.233Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -68028,11 +68014,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -68046,11 +68027,6 @@
     "state": "active",
     "controlDate": "2020-08-19T11:51:57.185Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
@@ -73176,7 +73152,7 @@
     "squuid": "5be1a6b6-dc32-4114-9294-1270b077ded8",
     "name": "ClipMyHorse.TV International GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:21:14.782Z",
+    "controlDate": "2025-10-13T13:02:23.187Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73271,7 +73247,7 @@
     "squuid": "5be1a6b6-97ff-4bee-bfe3-027d7a70ae13",
     "name": "Columbia Pictures Corporation Limited",
     "state": "active",
-    "controlDate": "2025-05-05T12:34:27.141Z",
+    "controlDate": "2025-10-13T13:19:52.096Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73309,7 +73285,7 @@
     "squuid": "5be1a6b6-72e2-41db-a450-66b439cab218",
     "name": "Channel21 Holding AG",
     "state": "active",
-    "controlDate": "2025-05-05T09:43:42.491Z",
+    "controlDate": "2025-10-13T09:16:48.920Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -74451,7 +74427,7 @@
     "squuid": "5e68a386-f6cb-4a16-8338-6a0da68389c6",
     "name": "Chronic Capital GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:17:27.774Z",
+    "controlDate": "2025-10-13T09:49:29.670Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -74491,7 +74467,7 @@
     "squuid": "5be1a6b6-a8bb-4854-9f84-2774a3ff8537",
     "name": "C.L. Mettcker & Söhne GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T08:42:49.074Z",
+    "controlDate": "2025-10-13T10:34:38.440Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -74581,7 +74557,7 @@
     "squuid": "5be1a6b6-2335-43c8-8a06-7fa426f65f18",
     "name": "C.K. Buchdruckerei und Zeitungsverlag e.K.",
     "state": "active",
-    "controlDate": "2025-05-05T08:42:28.513Z",
+    "controlDate": "2025-10-13T10:34:19.740Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -81424,7 +81400,7 @@
     "squuid": "5be1a6b6-00b6-44cf-9ceb-11c3e85d9c66",
     "name": "Capital World Investors",
     "state": "active",
-    "controlDate": "2025-05-05T08:54:36.299Z",
+    "controlDate": "2025-10-13T10:44:59.774Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84449,7 +84425,7 @@
     "squuid": "5be1a6b6-c35a-4143-bcd5-fd91e5941b24",
     "name": "CIB Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:17:56.394Z",
+    "controlDate": "2025-10-13T09:50:00.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -90565,7 +90541,7 @@
     "squuid": "5be1a6b6-7007-41df-ab4e-ed7f52e8f110",
     "name": "Capital Group Companies, Inc.",
     "state": "active",
-    "controlDate": "2025-05-05T08:54:17.228Z",
+    "controlDate": "2025-10-13T10:44:46.111Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -92253,7 +92229,7 @@
     "squuid": "5be1a6b6-d27a-4de0-8da4-3db8933b791b",
     "name": "ClipMyHorse.TV Operations GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:22:51.987Z",
+    "controlDate": "2025-10-13T13:02:00.509Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -97107,7 +97083,7 @@
     "squuid": "5be1a6b6-36e5-4fe5-a0fd-c0448be5c392",
     "name": "C.W. Niemeyer GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-05T08:43:49.391Z",
+    "controlDate": "2025-10-13T10:35:12.664Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -101614,6 +101590,15 @@
           "squuid": "68308f04-0c7d-49a9-aef8-0deda94b53e8",
           "name": "www.checky-kinderzeitung.de"
         }
+      },
+      {
+        "squuid": "68ecab70-57d7-4a00-bbbf-11c06408f44e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68ecab51-226d-4f85-9a20-a4c9b252ad08",
+          "name": "www.talzeit.de"
+        }
       }
     ]
   },
@@ -105365,7 +105350,7 @@
     "squuid": "5eb2e68f-75ca-42ab-9976-bd4a90c7f395",
     "name": "CHE KG",
     "state": "active",
-    "controlDate": "2025-05-05T09:47:48.728Z",
+    "controlDate": "2025-10-13T09:21:05.686Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -132259,7 +132244,7 @@
     "name": "Carl Ed. Schünemann KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6ce-4271-92cc-4acc73d12362",
-    "controlDate": "2025-05-05T08:55:43.078Z",
+    "controlDate": "2025-10-13T10:46:11.989Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -147883,7 +147868,7 @@
     "name": "C. H. Wäser KG GmbH & Co",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3dbb-4e6c-a7e2-21bd6034727a",
-    "controlDate": "2025-05-05T08:38:12.543Z",
+    "controlDate": "2025-10-13T10:32:08.716Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148088,7 +148073,7 @@
     "squuid": "5be1a6b6-a32c-4753-8627-e04281f49dc3",
     "name": "C.D.C. Heydorns Immobiliengesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-05T08:42:08.135Z",
+    "controlDate": "2025-10-13T10:33:48.064Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151221,7 +151206,7 @@
     "squuid": "5efc5719-1fdb-4f1f-b192-5fac53b783ce",
     "name": "Claus Wisser Vermögensverwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T11:19:54.367Z",
+    "controlDate": "2025-10-13T12:57:04.262Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151538,7 +151523,7 @@
     "squuid": "5d2df2c5-8330-4a2c-b0bd-d89e069d378c",
     "name": "Checkout Charlie GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:53:33.229Z",
+    "controlDate": "2025-10-13T09:22:02.717Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157710,7 +157695,7 @@
     "squuid": "64a55db2-df0b-4b07-ad58-907657c52248",
     "name": "Capfi Delen Asset Management N.V.",
     "state": "active",
-    "controlDate": "2025-05-05T08:53:27.417Z",
+    "controlDate": "2025-10-13T10:44:04.441Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162735,7 +162720,7 @@
     "squuid": "64ca706c-4897-4a38-ba11-80bb821b4845",
     "name": "Carlsen Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T08:58:14.030Z",
+    "controlDate": "2025-10-13T10:52:00.595Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162920,7 +162905,7 @@
     "squuid": "6200ffd6-72ec-435e-8faf-37abfe455e31",
     "name": "Concentra NV",
     "state": "active",
-    "controlDate": "2025-05-05T13:09:24.913Z",
+    "controlDate": "2025-10-13T14:06:57.493Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182493,7 +182478,7 @@
     "squuid": "5ebbff38-f9b1-47fa-a4f7-8d42b86cefb7",
     "name": "Cellesche Zeitung Schweiger & Pick Verlag Pfingsten Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:36:19.393Z",
+    "controlDate": "2025-10-13T08:06:47.058Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -187310,7 +187295,7 @@
     "squuid": "5f182233-100e-4066-a16a-c3a3bbfbeeb1",
     "name": "Central FM Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:42:04.540Z",
+    "controlDate": "2025-10-13T09:07:41.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188580,7 +188565,7 @@
     "squuid": "5f183736-01e9-487c-be68-a29d396329fc",
     "name": "CM Media & Event GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:28:06.420Z",
+    "controlDate": "2025-10-13T13:13:38.818Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192661,7 +192646,7 @@
     "squuid": "5c0014a5-6fa5-400b-8cc7-caf2a7be6ade",
     "name": "C&C Vermögensverwaltung Beteiligungen GbR",
     "state": "active",
-    "controlDate": "2025-05-05T08:25:08.454Z",
+    "controlDate": "2025-10-13T10:16:25.392Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -193031,6 +193016,19 @@
     ]
   },
   {
+    "squuid": "68ecb9b4-a760-4180-b0ce-7c88c50d3c5c",
+    "name": "Deininger-Friedrich, Daniela",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d3714a6-106a-4153-b11e-b2dc439413eb",
     "name": "Chan, Ray",
     "state": "active",
@@ -193045,6 +193043,19 @@
   {
     "squuid": "5fe1c929-3790-414a-a30a-35cc7d6bbcdd",
     "name": "Palatin Media Film- & Fernseh GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68ecb991-ecdc-4684-8b89-be5d1b7ccaaf",
+    "name": "Maisel, Peter",
     "state": "active",
     "organizations": [
       {
@@ -193752,7 +193763,7 @@
     "squuid": "5f196adc-faf5-4dc2-8f2f-447eae686e8b",
     "name": "CCM Immobilien GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:19:09.399Z",
+    "controlDate": "2025-10-13T11:07:58.460Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -194057,7 +194068,7 @@
     "squuid": "5de77f74-129f-40c7-bcf1-f782ddc4c838",
     "name": "CCG-Commercial Coordination Germany GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:18:12.853Z",
+    "controlDate": "2025-10-13T11:06:28.283Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198958,6 +198969,30 @@
     ]
   },
   {
+    "squuid": "68ed1a0d-c5fe-41ad-9004-f1a96df7eb35",
+    "name": "Living Lab GmbH",
+    "state": "active",
+    "controlDate": "2025-10-13T15:28:49.933Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68ed1a2c-44fd-4355-a52a-a8fc09557a6a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f3d10ef-4285-4398-9df3-14059e796573",
+          "name": "www.l-tv.de"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5f1aa0f1-88e1-4346-87da-fe3359e94ba7",
     "name": "Filter, Joachim",
     "state": "active",
@@ -202091,7 +202126,7 @@
     "squuid": "5d384e9f-4671-4446-86d5-26da1f63943c",
     "name": "Carl-Heinz Scholz GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-05T08:57:57.197Z",
+    "controlDate": "2025-10-13T10:51:34.763Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -204375,7 +204410,7 @@
     "squuid": "63d7d047-2a44-452b-9677-3a85bfd73c03",
     "name": "Celler und Wolfsburger Kurier-Beteiligungs GbR",
     "state": "active",
-    "controlDate": "2025-05-05T09:35:06.202Z",
+    "controlDate": "2025-10-13T08:06:24.682Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -207196,7 +207231,7 @@
     "squuid": "63d7e81d-a65c-405c-a6ad-5e0fd97310b1",
     "name": "Combi Medien Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:36:00.643Z",
+    "controlDate": "2025-10-13T13:20:16.091Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -208222,7 +208257,7 @@
     "squuid": "6762e01c-6a31-427a-997f-46e0a60028cb",
     "name": "Comcast Sky Holdings Inc.",
     "state": "active",
-    "controlDate": "2025-05-05T12:39:54.468Z",
+    "controlDate": "2025-10-13T13:23:21.675Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -209850,7 +209885,7 @@
     "squuid": "5f1edf2d-f0a7-4607-b64a-1e887a66beb5",
     "name": "CityRadio Saarland GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:45:31.497Z",
+    "controlDate": "2025-10-13T12:08:28.618Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217386,7 +217421,7 @@
     "squuid": "5be1a6b6-be5b-4c03-bb0d-27269e9c2568",
     "name": "Bürger-Zentren und Verlagsgesellschaft Erste-Betriebs- und Verwaltungs KG",
     "state": "active",
-    "controlDate": "2025-05-05T08:24:13.577Z",
+    "controlDate": "2025-10-13T10:13:56.841Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -218813,7 +218848,7 @@
     "squuid": "64006d59-62d0-4677-a766-972256725c09",
     "name": "City Anzeigenblatt GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:30:17.285Z",
+    "controlDate": "2025-10-13T09:54:30.790Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221462,7 +221497,7 @@
     "squuid": "61deb085-066b-41f2-88bc-6c2579783382",
     "name": "Carl-Heinz Scholz Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T08:57:34.951Z",
+    "controlDate": "2025-10-13T10:51:27.916Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -224265,7 +224300,7 @@
     "squuid": "5d35ca95-2cf6-42dd-b6dd-f3ab8345aade",
     "name": "CBS Interactive Inc.",
     "state": "active",
-    "controlDate": "2025-05-05T09:11:58.444Z",
+    "controlDate": "2025-10-13T11:05:18.029Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225128,7 +225163,7 @@
     "name": "C. Bösendahl GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-acf0-4fd6-be71-53b996b6faed",
-    "controlDate": "2025-05-05T08:33:38.928Z",
+    "controlDate": "2025-10-13T10:23:47.590Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225322,7 +225357,7 @@
     "name": "Chemnitzer Verlag und Druck GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-cfcd-42de-a2aa-c349ee9aa887",
-    "controlDate": "2025-05-05T09:59:47.499Z",
+    "controlDate": "2025-10-13T09:38:52.590Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225387,7 +225422,7 @@
     "squuid": "5be1a6b6-7c24-4330-98d8-f9421a6a566a",
     "name": "Condé Nast Germany GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T14:18:12.043Z",
+    "controlDate": "2025-10-13T14:14:02.396Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226141,7 +226176,7 @@
     "squuid": "5d35cbc3-4352-473e-a9b6-97835377d88b",
     "name": "CBS Corp.",
     "state": "active",
-    "controlDate": "2025-05-05T09:13:14.652Z",
+    "controlDate": "2025-10-13T11:05:07.684Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -235583,7 +235618,7 @@
     "squuid": "5be1a6b6-5199-4675-9443-c28b03ae254c",
     "name": "Computec Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:48:32.402Z",
+    "controlDate": "2025-10-13T13:25:38.522Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237155,7 +237190,7 @@
     "squuid": "5be1a6b6-0330-43a4-8a16-b7e0a40bb0d1",
     "name": "Cash. Medien AG",
     "state": "active",
-    "controlDate": "2025-05-05T09:09:20.488Z",
+    "controlDate": "2025-10-13T10:53:45.033Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239311,7 +239346,7 @@
     "squuid": "5be1a6b6-5fcd-452f-b646-dedeb01beae3",
     "name": "City-Post Zeitschriftenverlags GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:35:37.192Z",
+    "controlDate": "2025-10-13T11:58:31.549Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239354,15 +239389,6 @@
         "held": {
           "squuid": "6152f410-bf35-4076-9418-70296e2c8f88",
           "name": "www.bau-welt.de"
-        }
-      },
-      {
-        "squuid": "67124e04-7047-4322-8624-325ea2f69e85",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "67124dae-aa83-4e66-b433-73172f04b40f",
-          "name": "wohngesund!"
         }
       }
     ]
@@ -241316,7 +241342,7 @@
     "squuid": "5d35d9f2-8f00-45a3-9796-51a3da6cc9ad",
     "name": "Cable News Network Inc.",
     "state": "active",
-    "controlDate": "2025-05-05T08:49:00.485Z",
+    "controlDate": "2025-10-13T10:42:51.776Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242489,7 +242515,7 @@
     "squuid": "5be1a6b6-7126-47df-ab9a-ec8d3850f579",
     "name": "Chefkoch GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:59:11.407Z",
+    "controlDate": "2025-10-13T09:32:41.357Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243784,7 +243810,7 @@
     "squuid": "5be1a6b6-d3e1-44ad-9c61-eb33f4967af2",
     "name": "chilli Freiburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:03:56.893Z",
+    "controlDate": "2025-10-13T09:41:19.131Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243895,7 +243921,7 @@
     "squuid": "5be1a6b6-9dc0-449d-bf17-b975608fb590",
     "name": "Cicero Kommunikation GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T10:19:50.886Z",
+    "controlDate": "2025-10-13T09:50:24.225Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -248731,7 +248757,7 @@
     "squuid": "5be1a6b6-095d-490b-afb5-58223ad8ec75",
     "name": "Celebrity News AG",
     "state": "active",
-    "controlDate": "2025-05-05T09:19:29.193Z",
+    "controlDate": "2025-10-13T11:08:18.768Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249401,7 +249427,7 @@
     "squuid": "5be1a6b6-8651-478d-8e82-cbb34bbf5070",
     "name": "CommonMedia GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:45:10.443Z",
+    "controlDate": "2025-10-13T13:23:51.324Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249708,7 +249734,7 @@
     "squuid": "5be1a6b6-2aeb-4f2b-8c86-329e5f7be277",
     "name": "ComputerBase GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T13:07:57.660Z",
+    "controlDate": "2025-10-13T13:54:42.834Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251844,7 +251870,7 @@
     "squuid": "5be1a6b6-49b7-431d-8381-98e6c434e0c6",
     "name": "C3 Creative Code and Content GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T08:47:40.520Z",
+    "controlDate": "2025-10-13T10:35:38.315Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254489,7 +254515,7 @@
     "squuid": "5be1a6b6-5c36-4bba-883e-5bd16206650f",
     "name": "CIL Inversiones S.L.",
     "state": "active",
-    "controlDate": "2025-05-05T10:22:04.730Z",
+    "controlDate": "2025-10-13T09:54:00.420Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -260058,7 +260084,7 @@
     "squuid": "6123abb7-7056-45e3-987b-ab554892d001",
     "name": "CLT-UFA Germany GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T12:24:05.748Z",
+    "controlDate": "2025-10-13T13:06:35.424Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -264092,7 +264118,7 @@
     "squuid": "5be1a6b6-ef99-4462-ba31-8059f10de5e9",
     "name": "Cash. Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:00:23.271Z",
+    "controlDate": "2025-10-13T10:53:34.143Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264767,7 +264793,7 @@
     "squuid": "5be1a6b6-d18c-4a64-8e27-a91b0a943c0d",
     "name": "Condé Nast International Ltd.",
     "state": "active",
-    "controlDate": "2025-05-05T14:17:33.602Z",
+    "controlDate": "2025-10-13T14:14:11.548Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -269198,7 +269224,7 @@
     "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967",
     "name": "Claus Wisser Verwaltungs- und Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-05T11:20:19.157Z",
+    "controlDate": "2025-10-13T12:59:13.961Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -271906,7 +271932,7 @@
   },
   {
     "squuid": "5be1a6b6-ef54-4097-82fd-faeb7654d658",
-    "name": "Haak, Friedhelm",
+    "name": "Haak, Dr. Friedhelm",
     "state": "active",
     "controlDate": "2019-06-12T09:54:51.199Z",
     "organizations": [
@@ -275362,7 +275388,7 @@
     "squuid": "5be1a6b6-12c8-49ad-aa5e-d729cef65012",
     "name": "Carl Hinnerwisch Verlag GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-05T08:57:02.922Z",
+    "controlDate": "2025-10-13T10:47:05.550Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -280947,6 +280973,7 @@
     "squuid": "5be1a6b6-7641-43e7-b7e4-3c2e3d462b4b",
     "name": "Catsima Inc.",
     "state": "active",
+    "controlDate": "2025-10-13T11:04:45.862Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -296701,7 +296728,7 @@
     "squuid": "5be1a6b6-5736-4379-870e-7dc77444bbfc",
     "name": "Büro Dr. M. Droste GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-05T08:24:39.739Z",
+    "controlDate": "2025-10-13T10:14:15.581Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -299569,7 +299596,7 @@
     "squuid": "5be1a6b6-d1a6-4371-a917-0b4c45a0a582",
     "name": "concerti Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T14:15:55.050Z",
+    "controlDate": "2025-10-13T14:07:22.574Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299602,7 +299629,7 @@
     "squuid": "5be1a6b6-18f5-4129-b577-a7b106a4ffe0",
     "name": "concerti GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T14:15:40.131Z",
+    "controlDate": "2025-10-13T14:07:17.287Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304441,7 +304468,7 @@
     "squuid": "5be1a6b6-024f-4de0-bf3e-9f19ed79c320",
     "name": "Cerberus Capital Management, L.P.",
     "state": "active",
-    "controlDate": "2025-05-05T09:41:46.722Z",
+    "controlDate": "2025-10-13T09:11:49.894Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313463,7 +313490,7 @@
     "squuid": "5f05927c-cd52-45da-8e94-7482276d4bae",
     "name": "CHECK24 GmbH",
     "state": "active",
-    "controlDate": "2025-05-05T09:52:18.109Z",
+    "controlDate": "2025-10-13T09:21:31.763Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

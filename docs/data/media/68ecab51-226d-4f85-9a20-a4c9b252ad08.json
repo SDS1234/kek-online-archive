@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "65bcff31-c5e3-4c7a-8067-2537b76560c0",
+  "squuid": "68ecab51-226d-4f85-9a20-a4c9b252ad08",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
-        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+        "name": "Funke Medien NRW GmbH",
+        "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0"
       },
-      "squuid": "65bcff47-8463-4687-a774-1a61c488dc23",
+      "squuid": "68ecab70-57d7-4a00-bbbf-11c06408f44e",
       "state": "active"
     }
   ],
-  "name": "www.dingolfinger-anzeiger.de",
+  "name": "www.talzeit.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-10-13T12:26:07.629Z",
+  "controlDate": "2025-10-13T07:33:47.545Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
