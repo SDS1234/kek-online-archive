@@ -3301,7 +3301,7 @@
     "rfStatewide": false,
     "name": "Odenwälder Zeitung",
     "type": "print",
-    "controlDate": "2025-05-07T14:19:29.764Z",
+    "controlDate": "2025-10-16T08:06:17.155Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -8918,7 +8918,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-08T11:17:08.104Z",
+    "controlDate": "2025-10-16T15:23:17.909Z",
     "state": "active"
   },
   {
@@ -8936,7 +8936,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-08T11:16:30.240Z",
+    "controlDate": "2025-10-16T15:23:08.435Z",
     "state": "active"
   },
   {
@@ -8951,7 +8951,7 @@
     "rfStatewide": false,
     "name": "Camper Vans",
     "type": "print",
-    "controlDate": "2025-05-08T11:15:29.623Z",
+    "controlDate": "2025-10-16T15:22:00.224Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11584,7 +11584,7 @@
     "rfStatewide": false,
     "name": "DOCMA Photoshop & Lightroom",
     "type": "print",
-    "controlDate": "2025-05-08T11:09:37.826Z",
+    "controlDate": "2025-10-16T15:19:21.864Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11608,7 +11608,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-08T11:10:08.247Z",
+    "controlDate": "2025-10-16T15:19:30.173Z",
     "state": "active"
   },
   {
@@ -15410,7 +15410,7 @@
     "name": "Weinheimer Nachrichten am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-07T14:20:45.509Z",
+    "controlDate": "2025-10-16T08:07:03.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15650,7 +15650,7 @@
     "name": "Odenwälder Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-07T14:19:40.007Z",
+    "controlDate": "2025-10-16T08:06:29.560Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -16397,7 +16397,7 @@
     "rfStatewide": false,
     "name": "RadWelt",
     "type": "print",
-    "controlDate": "2025-05-07T14:14:49.669Z",
+    "controlDate": "2025-10-16T08:00:33.063Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -34262,7 +34262,7 @@
     "name": "www.fraenkischertag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:13:30.415Z",
+    "controlDate": "2025-10-16T11:12:30.809Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35130,7 +35130,7 @@
     "name": "www.digitalclassix.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-07T14:52:22.650Z",
+    "controlDate": "2025-10-16T11:34:39.038Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35807,7 +35807,7 @@
     "name": "www.diepresse.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-07T14:03:17.887Z",
+    "controlDate": "2025-10-16T07:55:06.112Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36089,7 +36089,7 @@
     "name": "www.radiogalaxy.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-07T14:39:11.419Z",
+    "controlDate": "2025-10-16T11:06:21.037Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36500,7 +36500,7 @@
     "name": "www.mieterzeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-08T09:29:38.072Z",
+    "controlDate": "2025-10-16T12:15:54.215Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -49211,6 +49211,12 @@
     "rfStatewide": false,
     "name": "Donau 3 FM",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -49885,6 +49891,12 @@
     "rfStatewide": false,
     "name": "Radio Alpenwelle",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -49911,6 +49923,12 @@
     "rfStatewide": false,
     "name": "Radio Arabella",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -50333,6 +50351,12 @@
     "rfStatewide": false,
     "name": "Radio Gong 96,3 München",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -50522,6 +50546,12 @@
     "rfStatewide": false,
     "name": "Radio Oberland",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -56217,6 +56247,12 @@
     "rfStatewide": false,
     "name": "Inn-Salzach-Welle",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -58502,6 +58538,12 @@
     "rfStatewide": false,
     "name": "Radio Regenbogen (Rosenheim)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -62740,7 +62782,7 @@
     "name": "www.tlc.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T11:32:03.655Z",
+    "controlDate": "2025-10-16T11:44:25.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -75926,6 +75968,12 @@
     "rfStatewide": false,
     "name": "hitradio rt1 Südschwaben",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -76198,6 +76246,12 @@
     "rfStatewide": false,
     "name": "Radio ISW (Inn-Salzach-Welle)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -80502,7 +80556,7 @@
     "rfStatewide": false,
     "name": "Weinheimer Nachrichten",
     "type": "print",
-    "controlDate": "2025-05-07T14:20:31.606Z",
+    "controlDate": "2025-10-16T08:06:51.974Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80525,7 +80579,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-07T14:21:57.449Z",
+    "controlDate": "2025-10-16T08:07:46.512Z",
     "state": "active"
   },
   {
@@ -82172,7 +82226,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T08:15:08.918Z",
+    "controlDate": "2025-10-16T11:13:09.152Z",
     "state": "active"
   },
   {
@@ -87266,7 +87320,7 @@
     "name": "StadtLandKind",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-07T14:20:08.914Z",
+    "controlDate": "2025-10-16T08:06:42.162Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -87327,7 +87381,7 @@
     "name": "www.stadtlandkind.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-07T14:21:03.124Z",
+    "controlDate": "2025-10-16T08:07:34.540Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88289,7 +88343,7 @@
     "name": "MainKind",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-07T14:18:58.552Z",
+    "controlDate": "2025-10-16T08:06:05.664Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89492,7 +89546,7 @@
     "name": "www.mainkind-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-07T14:20:54.577Z",
+    "controlDate": "2025-10-16T08:07:24.665Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94384,7 +94438,7 @@
     "rfStatewide": false,
     "name": "Reisemobil International",
     "type": "print",
-    "controlDate": "2025-05-08T11:16:01.715Z",
+    "controlDate": "2025-10-16T15:22:48.450Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94405,7 +94459,7 @@
     "rfStatewide": false,
     "name": "Camping Cars & Caravans",
     "type": "print",
-    "controlDate": "2025-05-08T11:15:52.996Z",
+    "controlDate": "2025-10-16T15:22:08.880Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102332,7 +102386,7 @@
     "rfStatewide": false,
     "name": "Delmenhorster Kreisblatt",
     "type": "print",
-    "controlDate": "2025-05-08T09:22:36.369Z",
+    "controlDate": "2025-10-16T12:06:22.837Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -109569,7 +109623,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-08T11:08:54.577Z",
+    "controlDate": "2025-10-16T15:16:22.807Z",
     "state": "active"
   },
   {
@@ -121721,7 +121775,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-08T09:23:18.922Z",
+    "controlDate": "2025-10-16T12:06:41.484Z",
     "state": "active"
   },
   {
@@ -133442,7 +133496,7 @@
     "name": "www.tele5.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T11:30:03.118Z",
+    "controlDate": "2025-10-16T11:44:13.515Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136036,7 +136090,7 @@
     "name": "www.animalplanet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T13:07:33.485Z",
+    "controlDate": "2025-10-16T11:42:07.134Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136891,7 +136945,7 @@
     "name": "www.fraenkischertag.de/saalezeitung",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:14:24.097Z",
+    "controlDate": "2025-10-16T11:12:56.694Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137553,7 +137607,7 @@
     "name": "www.eurosport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T08:05:40.372Z",
+    "controlDate": "2025-10-16T11:43:07.700Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137665,7 +137719,7 @@
     "name": "MieterZeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-08T09:29:29.036Z",
+    "controlDate": "2025-10-16T12:15:15.953Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137708,7 +137762,7 @@
     "name": "www.discoverychannel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T07:57:03.586Z",
+    "controlDate": "2025-10-16T11:42:35.078Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138471,7 +138525,7 @@
     "name": "www.hgtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T08:38:20.112Z",
+    "controlDate": "2025-10-16T11:43:27.908Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140907,7 +140961,7 @@
     "name": "www.krams-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-08T09:23:30.207Z",
+    "controlDate": "2025-10-16T12:07:00.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149382,7 +149436,7 @@
     "name": "www.campervans.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-08T11:16:23.562Z",
+    "controlDate": "2025-10-16T15:23:00.081Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152594,7 +152648,7 @@
     "name": "www.dmax.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T07:58:06.743Z",
+    "controlDate": "2025-10-16T11:42:55.504Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152762,7 +152816,7 @@
     "name": "www.fraenkischertag.de/bayerischerundschau",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:14:03.907Z",
+    "controlDate": "2025-10-16T11:12:39.814Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156246,7 +156300,7 @@
     "name": "www.fraenkischertag.de/coburgertageblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:14:15.648Z",
+    "controlDate": "2025-10-16T11:12:47.349Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
