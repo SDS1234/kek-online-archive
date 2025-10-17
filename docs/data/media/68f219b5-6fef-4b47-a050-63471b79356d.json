@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "63e3ce87-2595-469c-a6a8-de5a9b42536f",
+  "squuid": "68f219b5-6fef-4b47-a050-63471b79356d",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,18 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Druck- und Verlagshaus J.C. Erhardt GmbH",
-        "squuid": "5be1a6b6-dd71-4b69-a2ce-2d279709db97"
+        "name": "CSP Counseling Studio Productions GmbH",
+        "squuid": "6874e949-83e8-48c0-a9e3-c5b96c6805fa"
       },
-      "squuid": "63e3cea0-d591-4496-8cef-8ff8794af235",
+      "squuid": "68f219fd-bb70-4f95-aec3-ef60c5745a6b",
       "state": "active"
     }
   ],
-  "name": "www.aw-hawo.de",
+  "name": "www.spirittv.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-10-17T12:30:22.480Z",
-  "onlineIVWPI": 0,
+  "controlDate": "2025-10-17T10:26:32.863Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
