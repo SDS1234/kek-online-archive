@@ -4778,7 +4778,7 @@
     "squuid": "605b1e42-e00e-46dc-a5ba-25fdb52d435e",
     "name": "Dunkmann GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:14:03.614Z",
+    "controlDate": "2025-10-20T08:52:24.027Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -5066,7 +5066,7 @@
     "squuid": "5d318d6b-b29a-4118-b8eb-f43d90262544",
     "name": "Einbock GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T07:47:28.566Z",
+    "controlDate": "2025-10-20T13:32:42.133Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -5836,24 +5836,14 @@
   {
     "squuid": "63ea1d64-0d77-4063-aee7-90b1a1960d1f",
     "name": "Elzet Verlagsgesellschaft mbH",
-    "state": "active",
-    "controlDate": "2025-05-20T10:54:25.994Z",
+    "state": "archived",
+    "controlDate": "2025-10-20T14:26:38.829Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "63ea1da5-15bf-4516-b8da-2a8efe40d7ec",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63ea1d2b-7c15-4090-9afc-75f523681310",
-          "name": "www.lz-am-sonntag.de"
-        }
       }
     ]
   },
@@ -6201,8 +6191,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -24417,7 +24408,7 @@
     "squuid": "5d31ad30-29ce-451b-a6d3-e1765c0a95a9",
     "name": "egghead Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:22:32.554Z",
+    "controlDate": "2025-10-20T12:24:41.078Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -40530,7 +40521,7 @@
     "squuid": "5be1a6b6-94fe-43fe-8c4d-e45ab2fd47af",
     "name": "Elmar Wibmer OHG",
     "state": "active",
-    "controlDate": "2025-05-20T10:47:04.045Z",
+    "controlDate": "2025-10-20T14:01:02.147Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -44940,7 +44931,7 @@
     "squuid": "5be1a6b6-4388-4b34-b047-6e3d7f3b8ed5",
     "name": "Emmy Riedel Buchdruckerei und Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T10:58:49.844Z",
+    "controlDate": "2025-10-20T14:40:22.048Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -47664,6 +47655,7 @@
     "squuid": "6888a62a-6fe9-40cc-9e9f-cf0affae719a",
     "name": "dunk media group GmbH",
     "state": "active",
+    "controlDate": "2025-10-20T08:45:40.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55854,7 +55846,7 @@
     "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df",
     "name": "Ebner Pressegesellschaft GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-19T13:41:53.151Z",
+    "controlDate": "2025-10-20T11:21:38.822Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -58022,7 +58014,7 @@
     "squuid": "5be1a6b6-5ed8-4639-a346-1c7f7b26f35a",
     "name": "DvH Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:28:26.569Z",
+    "controlDate": "2025-10-20T09:34:45.890Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -60807,7 +60799,7 @@
     "squuid": "5f02dd2f-a75c-4b4f-8bfb-340dd621327e",
     "name": "DWS Group GmbH & Co. KGaA",
     "state": "active",
-    "controlDate": "2025-05-19T11:43:58.619Z",
+    "controlDate": "2025-10-20T09:43:35.502Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -68799,7 +68791,7 @@
     "squuid": "671f9920-013d-4233-b27e-800eb64e5961",
     "name": "emotion GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T11:08:10.697Z",
+    "controlDate": "2025-10-20T14:59:18.019Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -68824,6 +68816,15 @@
         "held": {
           "squuid": "5be1a6b1-fe0b-4ce6-8f0d-a8a54042af25",
           "name": "www.emotion.de"
+        }
+      },
+      {
+        "squuid": "68f64ff9-6070-4f99-a583-e59dc68f6dfe",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68f64f82-c99e-4fbd-9f3e-aa0999e01b69",
+          "name": "Working Women"
         }
       }
     ]
@@ -70466,7 +70467,7 @@
     "squuid": "5be1a6b6-5043-4571-9285-522e3bbdf93d",
     "name": "EGRO-Direktwerbung GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:36:05.279Z",
+    "controlDate": "2025-10-20T13:13:08.515Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -72548,7 +72549,7 @@
     "squuid": "5be1a6b6-c474-4fe8-87d9-642d012c049e",
     "name": "DWS Investment GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:36:16.992Z",
+    "controlDate": "2025-10-20T09:43:46.726Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -83587,7 +83588,7 @@
     "name": "E. Holterdorf GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c488-44e2-a1a2-a1fade69831a",
-    "controlDate": "2025-05-19T13:04:14.292Z",
+    "controlDate": "2025-10-20T10:34:53.618Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84041,7 +84042,7 @@
     "squuid": "5d358404-7971-4624-b3e8-8cb30b5a000c",
     "name": "DWDL.de GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:30:05.545Z",
+    "controlDate": "2025-10-20T09:36:17.056Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85401,7 +85402,7 @@
     "squuid": "5be1a6b6-afe3-4cc8-97e1-981706c8f73b",
     "name": "EnStyle GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T11:26:22.039Z",
+    "controlDate": "2025-10-20T15:19:06.670Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -86117,6 +86118,7 @@
     "squuid": "6852bad3-2c39-427b-bba6-49adc50398c4",
     "name": "Eduardo Gordillo GmbH",
     "state": "active",
+    "controlDate": "2025-10-20T12:03:33.744Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91177,7 +91179,7 @@
     "squuid": "5be1a6b6-0306-4e50-b819-6d4317139843",
     "name": "Embassy of Music GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T10:56:39.743Z",
+    "controlDate": "2025-10-20T14:34:19.123Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -135301,7 +135303,7 @@
     "squuid": "5be1a6b6-4ada-4bb6-a1cc-6c758986d9ef",
     "name": "Dunkmann Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:13:46.782Z",
+    "controlDate": "2025-10-20T08:49:37.898Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -140538,7 +140540,7 @@
     "squuid": "5d244f6b-27a8-4e17-b15a-9cef7848dcdc",
     "name": "ECA Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:44:32.659Z",
+    "controlDate": "2025-10-20T11:41:48.271Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145292,7 +145294,7 @@
     "squuid": "5be1a6b6-0551-4c05-8a64-0f79f20b7890",
     "name": "Inn-Salzach-Welle GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:59:24.773Z",
+    "controlDate": "2025-10-20T14:03:47.642Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146160,7 +146162,7 @@
     "squuid": "5be1a6b6-7b81-4b50-8e0f-4291b6790d20",
     "name": "Echo Zeitungen GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:46:28.112Z",
+    "controlDate": "2025-10-20T11:43:09.522Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -147554,6 +147556,15 @@
         "held": {
           "squuid": "6785154e-620f-4f8d-b081-5571c42e54c8",
           "name": "VRM live"
+        }
+      },
+      {
+        "squuid": "68f64713-7a48-45f4-9bad-9fd67de43134",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63ea1d2b-7c15-4090-9afc-75f523681310",
+          "name": "www.lz-am-sonntag.de"
         }
       }
     ]
@@ -152076,7 +152087,7 @@
     "squuid": "5f1fece6-8741-4d7b-899d-bd816655eee9",
     "name": "DWK Holding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-19T11:34:45.451Z",
+    "controlDate": "2025-10-20T09:42:43.217Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -153311,7 +153322,7 @@
     "squuid": "5eb9384a-2eed-439a-905c-e454adac8b60",
     "name": "DuMont Regionalmedienholding Geschäftsführungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-19T10:59:38.358Z",
+    "controlDate": "2025-10-20T08:20:31.411Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155548,9 +155559,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -161213,8 +161228,9 @@
     "controlDate": "2025-05-30T09:06:26.271Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162493,6 +162509,19 @@
     "name": "mediadock GmbH",
     "state": "active",
     "controlDate": "2020-07-28T14:19:58.651Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68f62595-318e-4ce5-8042-88404450071a",
+    "name": "Gordillo Amado, Eduardo",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -166527,7 +166556,7 @@
     "squuid": "666989ed-47b3-4e14-b34b-0a68285d835e",
     "name": "Elser Immoblilien und Beteiligungen GmbH & Co. KG ",
     "state": "active",
-    "controlDate": "2025-05-20T10:50:15.944Z",
+    "controlDate": "2025-10-20T14:14:31.302Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -167353,7 +167382,7 @@
     "squuid": "620526cb-319b-4925-915c-323e60d74589",
     "name": "Dumrath & Co. GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:09:26.540Z",
+    "controlDate": "2025-10-20T08:23:03.539Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -167367,7 +167396,7 @@
     "name": "Dumrath & Fassnacht KG (GmbH & Co.)",
     "limitedPartnership": true,
     "squuid": "620526aa-92d9-4ff8-9789-da52975886a7",
-    "controlDate": "2025-05-19T11:09:40.211Z",
+    "controlDate": "2025-10-20T08:23:23.820Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -167561,7 +167590,7 @@
     "squuid": "5ebbabf0-1a73-407e-99bc-581090c4a440",
     "name": "Edel Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-05-19T14:11:27.817Z",
+    "controlDate": "2025-10-20T11:55:40.792Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168767,15 +168796,6 @@
         }
       },
       {
-        "squuid": "5ee8bf80-da3c-4cee-b508-33847b8572ce",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6232-420c-aecd-62108ebb2955",
-          "name": "Peppa Pig"
-        }
-      },
-      {
         "squuid": "5ee8c92d-4b95-44d5-9c3b-83a5ef17d9d8",
         "type": "operate",
         "state": "active",
@@ -169282,7 +169302,7 @@
     "squuid": "5ca5f485-2f5b-480e-9ff5-23fe9505c952",
     "name": "ebiz GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:17:51.642Z",
+    "controlDate": "2025-10-20T10:55:04.748Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169325,7 +169345,7 @@
     "squuid": "5d3020b6-b98b-447f-ae74-c9a4b0217bef",
     "name": "Eintracht Frankfurt Fußball AG",
     "state": "active",
-    "controlDate": "2025-05-20T07:58:32.380Z",
+    "controlDate": "2025-10-20T13:41:36.869Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -171125,7 +171145,7 @@
     "squuid": "5d302739-70fc-4041-9297-3f9d4a1352d0",
     "name": "DZ Bank AG",
     "state": "active",
-    "controlDate": "2025-05-19T11:47:50.360Z",
+    "controlDate": "2025-10-20T09:52:03.691Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -172553,7 +172573,7 @@
     "squuid": "5f8072bc-58e8-44e8-a7a2-0176183f1d6d",
     "name": "EICURA Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:38:33.738Z",
+    "controlDate": "2025-10-20T13:18:57.358Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -173865,7 +173885,7 @@
     "squuid": "5f9aa77f-92ed-46fb-9e26-c463aba573b2",
     "name": "Dumrath & Fassnacht Verwaltung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-19T11:11:01.670Z",
+    "controlDate": "2025-10-20T08:38:07.734Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -175874,7 +175894,7 @@
     "squuid": "5f843fe0-3e4a-4179-a857-3ebcaa7f1e2c",
     "name": "EazyBioLive and Vital GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:12:57.044Z",
+    "controlDate": "2025-10-20T10:43:19.014Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180540,7 +180560,7 @@
     "squuid": "5ebd3d24-4dd7-47d5-92ef-61cf0345c6b9",
     "name": "Ebner Ulm MGV GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:42:16.822Z",
+    "controlDate": "2025-10-20T11:02:47.101Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182405,7 +182425,7 @@
     "squuid": "5f2287f0-6a31-42e3-94d3-2df9b19b275f",
     "name": "DWK Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:34:37.475Z",
+    "controlDate": "2025-10-20T09:42:53.543Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188673,7 +188693,7 @@
     "squuid": "5f183709-5091-4549-859e-754174a1af4e",
     "name": "Emsland GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T11:12:18.300Z",
+    "controlDate": "2025-10-20T15:13:29.661Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189168,7 +189188,7 @@
     "squuid": "667d44b1-096e-4471-a191-dc9ec6d09272",
     "name": "Elser IB Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T10:48:06.799Z",
+    "controlDate": "2025-10-20T14:04:31.424Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192959,7 +192979,7 @@
     "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
     "name": "EFa Vermögensverwaltungs KG",
     "state": "active",
-    "controlDate": "2025-05-19T14:18:59.784Z",
+    "controlDate": "2025-10-20T12:08:46.071Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -195188,7 +195208,7 @@
     "squuid": "6012b61d-5329-41da-8d1c-ea883232dce3",
     "name": "ELNT B. V.",
     "state": "active",
-    "controlDate": "2025-05-20T10:47:48.340Z",
+    "controlDate": "2025-10-20T14:04:08.825Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -195201,7 +195221,7 @@
     "squuid": "5d372501-75bd-4cec-ad12-1bdeb34cfdda",
     "name": "EHC Eisbären Management GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:36:21.047Z",
+    "controlDate": "2025-10-20T13:16:44.588Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -195917,7 +195937,7 @@
     "squuid": "5efaedaf-47bf-4056-a1ef-77a33e63fff0",
     "name": "DWS Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:36:08.603Z",
+    "controlDate": "2025-10-20T09:43:17.819Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196526,7 +196546,7 @@
     "squuid": "5d3729ad-71bf-43e4-9461-882027bb315e",
     "name": "EHC Red Bull München GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:36:42.246Z",
+    "controlDate": "2025-10-20T13:17:14.716Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198433,7 +198453,7 @@
     "squuid": "61e57df9-416c-46f8-b68e-4537c3ad0c15",
     "name": "Einstieg GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T07:55:41.024Z",
+    "controlDate": "2025-10-20T13:40:46.503Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200419,7 +200439,7 @@
     "squuid": "5d2db8c6-1f81-4118-9a77-149513270e3b",
     "name": "Ellermann Pyrit GmbH ",
     "state": "active",
-    "controlDate": "2025-05-20T10:45:35.151Z",
+    "controlDate": "2025-10-20T13:56:32.617Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206368,9 +206388,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -206613,9 +206637,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -215910,7 +215938,7 @@
     "squuid": "5ee23fda-d782-4cc2-bc5a-9c10182d804f",
     "name": "Eigenrauch Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T07:40:40.054Z",
+    "controlDate": "2025-10-20T13:22:26.345Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216462,7 +216490,7 @@
     "squuid": "5f1156b1-f5bd-4e71-a905-e9232b56c1d7",
     "name": "DWS Management GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:37:22.363Z",
+    "controlDate": "2025-10-20T09:43:56.093Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -218016,7 +218044,7 @@
     "squuid": "5be1a6b6-4c47-4f29-8bdd-f4d99f00d0cb",
     "name": "Edition Musikant Musikverlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:17:34.225Z",
+    "controlDate": "2025-10-20T11:57:03.010Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218981,7 +219009,7 @@
     "squuid": "5be1a6b6-df41-4c5e-b626-55608893308f",
     "name": "Elite Sports Limited",
     "state": "active",
-    "controlDate": "2025-05-20T10:44:46.510Z",
+    "controlDate": "2025-10-20T13:55:54.422Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -223634,7 +223662,7 @@
     "squuid": "5eb00b6f-51ba-47f3-8424-887cd762ffe0",
     "name": "E. Holterdorf Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:04:07.877Z",
+    "controlDate": "2025-10-20T10:34:47.276Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -223746,7 +223774,7 @@
     "squuid": "5ccac721-2952-4967-9c0f-a95ede0b4cb2",
     "name": "Eishockey News Verlags- und Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T09:03:21.577Z",
+    "controlDate": "2025-10-20T13:43:39.866Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226648,7 +226676,7 @@
     "name": "Ebner Media Group GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2",
-    "controlDate": "2025-05-19T13:21:55.252Z",
+    "controlDate": "2025-10-20T11:04:37.178Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226727,15 +226755,6 @@
         "held": {
           "squuid": "621cc575-c2a1-480b-a834-c67f21063ab4",
           "name": "www.print.de"
-        }
-      },
-      {
-        "squuid": "62b09add-a900-4b4d-8ef6-7c92b6bbe3eb",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5907-4b01-b4aa-4ab2f6442452",
-          "name": "Keyboards"
         }
       },
       {
@@ -226834,7 +226853,7 @@
     "squuid": "5be1a6b6-f3f6-42df-859a-44f666dd9a3e",
     "name": "Egmont Ehapa Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:24:59.958Z",
+    "controlDate": "2025-10-20T12:27:01.687Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227002,7 +227021,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-4ff2-4093-811f-ed896d8f9f8b",
-          "name": "W.I.T.C.H. "
+          "name": "Die Schule der magischen Tiere"
         }
       },
       {
@@ -227058,6 +227077,24 @@
           "squuid": "6659b45a-e706-4707-9359-cd6f80476403",
           "name": "Disney Stars"
         }
+      },
+      {
+        "squuid": "68f62e36-e0aa-4a76-ae00-8c571bba1884",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68f62da9-055d-4189-ac24-162fc3ce7cc9",
+          "name": "Disney Stitch"
+        }
+      },
+      {
+        "squuid": "68f631ff-bb8a-441e-9d41-6b5fe2c9c01e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6232-420c-aecd-62108ebb2955",
+          "name": "Peppa Pig"
+        }
       }
     ]
   },
@@ -227065,7 +227102,7 @@
     "squuid": "5be1a6b6-67f7-4906-9af6-ea355f4919fc",
     "name": "Einhard-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T07:48:36.506Z",
+    "controlDate": "2025-10-20T13:37:03.117Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237634,7 +237671,7 @@
     "squuid": "5eb021e1-5dff-4c26-a5f2-5614fd012f71",
     "name": "Ebner GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:18:44.507Z",
+    "controlDate": "2025-10-20T11:00:57.021Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -243170,33 +243207,14 @@
   {
     "squuid": "5be1a6b6-ec61-4ced-bb02-2847ecb1cc0d",
     "name": "Emotion Verlag GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2024-10-28T13:58:09.590Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-2711-41d2-8174-73b21ed7036a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-46c1-4581-85a6-216e775f6bfa",
-          "name": "Emotion"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-1b1e-4159-ac9b-4a5686332e94",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-fe0b-4ce6-8f0d-a8a54042af25",
-          "name": "www.emotion.de"
-        }
       }
     ]
   },
@@ -244628,7 +244646,7 @@
     "squuid": "5be1a6b6-b18c-4507-8069-c16fdf191746",
     "name": "Ein Herz für Tiere Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T07:42:44.018Z",
+    "controlDate": "2025-10-20T13:24:13.157Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247403,7 +247421,7 @@
     "squuid": "5be1a6b6-fbc3-45de-bee2-dc21435d2fa3",
     "name": "Egmont Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:24:51.949Z",
+    "controlDate": "2025-10-20T12:28:45.425Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247484,7 +247502,7 @@
     "squuid": "5be1a6b6-f6aa-491c-b29e-d227ab5f0e19",
     "name": "Elenxis-Media-Funds-Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T10:43:30.843Z",
+    "controlDate": "2025-10-20T13:51:32.377Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250219,7 +250237,7 @@
     "squuid": "5be1a6b6-a950-4b1a-b4f6-3880b3acd982",
     "name": "e-quadrat communications gmbh",
     "state": "active",
-    "controlDate": "2025-05-19T12:57:34.855Z",
+    "controlDate": "2025-10-20T10:00:37.374Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257663,7 +257681,7 @@
     "squuid": "5c5071dd-4a12-4a02-b4a4-7a843b26139b",
     "name": "Eberle Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:15:23.680Z",
+    "controlDate": "2025-10-20T10:47:38.613Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257772,7 +257790,7 @@
     "name": "Eat Smarter GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-08c9-499d-b377-78178a433d69",
-    "controlDate": "2025-05-19T13:10:20.139Z",
+    "controlDate": "2025-10-20T10:38:42.447Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257995,7 +258013,7 @@
     "squuid": "5be1a6b6-d9d2-4833-8652-b714ad04688a",
     "name": "EMMA Frauenverlags GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T10:57:42.557Z",
+    "controlDate": "2025-10-20T14:34:49.248Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258044,8 +258062,9 @@
     "controlDate": "2019-05-21T14:52:27.382Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -262932,8 +262951,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -270028,7 +270048,7 @@
     "squuid": "5be1a6b6-7953-45d1-91b0-50d5f82fcff0",
     "name": "Engel & Völkers AG",
     "state": "active",
-    "controlDate": "2025-05-20T11:13:00.647Z",
+    "controlDate": "2025-10-20T15:16:57.417Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -272557,7 +272577,7 @@
     "squuid": "5be1a6b6-4b56-4a3b-8d46-1258e0e8d4ab",
     "name": "Entwurf Partner AG",
     "state": "active",
-    "controlDate": "2025-05-20T11:29:00.746Z",
+    "controlDate": "2025-10-20T15:20:15.803Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273208,7 +273228,7 @@
     "squuid": "5be1a6b6-b819-45e6-87ca-dac0f09f4d56",
     "name": "Egmont International Holding A/S",
     "state": "active",
-    "controlDate": "2025-05-19T14:24:42.625Z",
+    "controlDate": "2025-10-20T12:28:56.170Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274018,7 +274038,7 @@
     "squuid": "5be1a6b6-7c0b-48f9-a266-4eafdb443c57",
     "name": "eBay International AG",
     "state": "active",
-    "controlDate": "2025-05-19T13:14:34.153Z",
+    "controlDate": "2025-10-20T10:45:56.662Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276356,7 +276376,7 @@
     "squuid": "5ef9bd3c-9df7-4b77-a582-08401a622a32",
     "name": "Ehrenklau Druck GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:37:39.599Z",
+    "controlDate": "2025-10-20T13:17:41.629Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279174,8 +279194,9 @@
     "controlDate": "2019-05-21T14:52:04.308Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -279187,8 +279208,9 @@
     "controlDate": "2025-06-20T09:25:04.436Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -279213,8 +279235,9 @@
     "controlDate": "2019-05-21T14:52:11.075Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -281513,7 +281536,7 @@
     "squuid": "66910c03-0e27-46ab-b9ca-2c6ecebc3606",
     "name": "Döbelner Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T11:49:02.526Z",
+    "controlDate": "2025-10-20T09:52:28.711Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -286763,7 +286786,7 @@
     "squuid": "5c51b217-a2f5-46f0-88ac-b38d1b3d3589",
     "name": "Echte Mamas GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T14:07:13.525Z",
+    "controlDate": "2025-10-20T11:51:10.783Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300788,7 +300811,7 @@
     "squuid": "5be1a6b6-ef0d-457b-8db1-fea99e30f23e",
     "name": "DuMont Regionalmedienholding GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-10-17T13:41:28.612Z",
+    "controlDate": "2025-10-20T08:20:05.363Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -300814,7 +300837,7 @@
     "squuid": "5be1a6b6-34ef-45b6-9fef-9ac918a32345",
     "name": "DuMont Regional Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-19T10:59:13.783Z",
+    "controlDate": "2025-10-20T08:18:29.123Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307101,7 +307124,7 @@
     "squuid": "5f16c2fd-51a4-4932-9239-3cccfc04da8d",
     "name": "Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T11:12:38.076Z",
+    "controlDate": "2025-10-20T15:13:47.006Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307455,7 +307478,7 @@
     "squuid": "5ec50cd3-35e7-48cb-9dc6-d597bbe8a176",
     "name": "Eat Smarter Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-19T13:09:43.440Z",
+    "controlDate": "2025-10-20T10:37:51.553Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311187,7 +311210,7 @@
     "squuid": "5c52e0ae-6d87-40ce-a121-d08c917021fa",
     "name": "elumeo SE",
     "state": "active",
-    "controlDate": "2025-05-20T10:51:11.919Z",
+    "controlDate": "2025-10-20T14:26:06.436Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -313349,7 +313372,7 @@
     "squuid": "5d14bef7-3599-4e36-ac95-9a445288f28d",
     "name": "E. Albrecht Verlags-KG",
     "state": "active",
-    "controlDate": "2025-05-19T12:57:57.332Z",
+    "controlDate": "2025-10-20T10:03:06.426Z",
     "limitedPartnership": true,
     "organizations": [
       {
