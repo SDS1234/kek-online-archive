@@ -12436,7 +12436,7 @@
     "rfStatewide": false,
     "name": "Evangelische Zeitung für Hamburg",
     "type": "print",
-    "controlDate": "2025-07-05T11:56:22.000Z",
+    "controlDate": "2025-10-21T13:02:01.011Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12460,7 +12460,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T12:39:00.041Z",
+    "controlDate": "2025-10-21T12:44:33.497Z",
     "state": "active"
   },
   {
@@ -12788,7 +12788,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T12:03:07.156Z",
+    "controlDate": "2025-10-21T11:43:03.804Z",
     "state": "active"
   },
   {
@@ -15312,7 +15312,7 @@
     "rfStatewide": false,
     "name": "Mecklenburgische & Pommersche Kirchenzeitung",
     "type": "print",
-    "controlDate": "2025-05-20T13:15:21.705Z",
+    "controlDate": "2025-10-21T13:02:47.241Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16931,7 +16931,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T13:29:08.846Z",
+    "controlDate": "2025-10-21T14:05:41.527Z",
     "state": "active"
   },
   {
@@ -16949,7 +16949,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T13:04:15.303Z",
+    "controlDate": "2025-10-21T12:50:55.561Z",
     "state": "active"
   },
   {
@@ -17220,7 +17220,7 @@
     "rfStatewide": false,
     "name": "Unsere Kirche",
     "type": "print",
-    "controlDate": "2025-05-20T13:06:55.206Z",
+    "controlDate": "2025-10-21T12:52:06.508Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17244,7 +17244,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T13:07:02.029Z",
+    "controlDate": "2025-10-21T12:52:16.607Z",
     "state": "active"
   },
   {
@@ -33206,7 +33206,7 @@
     "name": "www.europa.eu",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:11:29.831Z",
+    "controlDate": "2025-10-21T12:12:05.582Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33341,7 +33341,7 @@
     "name": "www.epochtimes.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T11:32:43.284Z",
+    "controlDate": "2025-10-21T08:17:35.142Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34805,7 +34805,7 @@
     "name": "espresso",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-20T11:55:57.977Z",
+    "controlDate": "2025-10-21T11:32:16.798Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35062,7 +35062,7 @@
     "name": "www.espresso-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T11:56:05.878Z",
+    "controlDate": "2025-10-21T11:32:23.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35154,7 +35154,7 @@
     "name": "www.extra-radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T13:44:02.670Z",
+    "controlDate": "2025-10-21T14:26:54.790Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42588,7 +42588,7 @@
     "name": "www.sonnenklar.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:12:49.080Z",
+    "controlDate": "2025-10-21T12:17:14.652Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -68923,7 +68923,7 @@
     "rfStatewide": false,
     "name": "Obst und Garten",
     "type": "print",
-    "controlDate": "2025-05-20T12:02:33.876Z",
+    "controlDate": "2025-10-21T11:42:26.014Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -68944,7 +68944,7 @@
     "rfStatewide": false,
     "name": "Gartenpraxis",
     "type": "print",
-    "controlDate": "2025-05-20T12:01:48.663Z",
+    "controlDate": "2025-10-21T11:41:34.166Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69217,7 +69217,7 @@
     "name": "www.obst-und-garten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:03:36.874Z",
+    "controlDate": "2025-10-21T11:43:12.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72621,7 +72621,7 @@
     "name": "Evangelische Zeitung für Schleswig-Holstein",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-20T13:15:15.334Z",
+    "controlDate": "2025-10-21T13:02:39.285Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80419,6 +80419,23 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.kitchen.stories. com",
+    "type": "online",
+    "squuid": "68f794c6-2aa4-454a-8950-04994e3dca6c",
+    "state": "archived"
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-1639-453b-b3f8-724806ca22af",
@@ -80459,6 +80476,23 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.kitchenstories. com",
+    "type": "online",
+    "squuid": "68f794c9-901a-4b77-a8a5-3695faa0d183",
+    "state": "active"
   },
   {
     "pressPublishingIntervals": 4,
@@ -85567,7 +85601,7 @@
     "rfStatewide": false,
     "name": "Evangelische Zeitung für Niedersachsen",
     "type": "print",
-    "controlDate": "2025-05-20T13:15:07.247Z",
+    "controlDate": "2025-10-21T13:02:08.441Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93818,7 +93852,7 @@
     "rfStatewide": false,
     "name": "Evangelisches Gemeindeblatt für Württemberg",
     "type": "print",
-    "controlDate": "2025-05-20T12:18:40.391Z",
+    "controlDate": "2025-10-21T12:34:31.510Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93839,7 +93873,7 @@
     "rfStatewide": false,
     "name": "Benjamin",
     "type": "print",
-    "controlDate": "2025-05-20T12:17:53.925Z",
+    "controlDate": "2025-10-21T12:33:47.799Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94631,7 +94665,7 @@
     "rfStatewide": false,
     "name": "Der Sonntag (Leipzig)",
     "type": "print",
-    "controlDate": "2025-05-20T13:29:00.802Z",
+    "controlDate": "2025-10-21T14:05:19.095Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94652,7 +94686,7 @@
     "rfStatewide": false,
     "name": "Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-05-20T13:04:07.648Z",
+    "controlDate": "2025-10-21T12:50:49.315Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115508,7 +115542,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-20T12:20:39.740Z",
+    "controlDate": "2025-10-21T12:34:40.961Z",
     "state": "active"
   },
   {
@@ -125213,7 +125247,7 @@
     "name": "www.emstv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:16:15.453Z",
+    "controlDate": "2025-10-21T12:20:33.285Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -125676,7 +125710,7 @@
     "name": "Jagd in Baden-Württemberg",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-20T12:02:09.428Z",
+    "controlDate": "2025-10-21T11:41:59.838Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132839,7 +132873,7 @@
     "name": "www.firmenauto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:08:35.582Z",
+    "controlDate": "2025-10-21T11:51:46.116Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132907,7 +132941,7 @@
     "name": "www.eurotransport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:08:18.836Z",
+    "controlDate": "2025-10-21T11:51:26.888Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134506,7 +134540,7 @@
     "name": "www.paradiso-nord.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T13:09:35.883Z",
+    "controlDate": "2025-10-21T12:55:18.699Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142813,7 +142847,7 @@
     "name": "BW agrar",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-20T12:01:17.744Z",
+    "controlDate": "2025-10-21T11:41:24.342Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143058,7 +143092,7 @@
     "name": "www.bwagrar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:02:57.597Z",
+    "controlDate": "2025-10-21T11:42:55.444Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145414,7 +145448,7 @@
     "name": "www.ewtn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T13:41:18.857Z",
+    "controlDate": "2025-10-21T14:24:32.588Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145745,7 +145779,7 @@
     "name": "www.erf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T11:34:49.182Z",
+    "controlDate": "2025-10-21T08:23:03.054Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147332,7 +147366,7 @@
     "name": "Fernfahrer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-20T12:08:08.461Z",
+    "controlDate": "2025-10-21T11:51:18.849Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150028,7 +150062,7 @@
     "name": "www.radioerzgebirge.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:10:02.965Z",
+    "controlDate": "2025-10-21T08:41:15.798Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156213,7 +156247,7 @@
     "name": "www.elbe-weser-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T13:39:00.300Z",
+    "controlDate": "2025-10-21T14:23:44.281Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156924,7 +156958,7 @@
     "name": "www.fernfahrer.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-20T12:08:28.704Z",
+    "controlDate": "2025-10-21T11:51:38.037Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
