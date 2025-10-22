@@ -1,9 +1,7 @@
 {
-  "name": "Hoffmann, Armin",
-  "pseudoCompany": false,
-  "squuid": "5f7ef468-2ed7-4dd1-95d1-e6a1ed1f6a10",
-  "city": "Wöllstadt",
-  "state": "archived",
+  "name": "Reger, Dr. Gerald",
+  "squuid": "68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8",
+  "state": "active",
   "organizations": [
     {
       "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -11,6 +9,5 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "naturalPerson": true
+  ]
 }

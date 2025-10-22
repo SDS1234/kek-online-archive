@@ -7,8 +7,7 @@
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "",
-  "squuid": "6017ea20-17e3-47c4-9b67-27b6f2f3f5ea",
+  "squuid": "68f8e20d-c219-4286-8498-04be946ef80e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -18,27 +17,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "falkemedia GmbH & Co KG",
-        "squuid": "5be1a6b6-9183-46c4-90cc-af28ea669864"
+        "name": "Steckenpferd Enterprises UG (haftungsbeschränkt)",
+        "squuid": "5d35beb2-dd5f-4267-b78c-a1dec5e5a850"
       },
-      "squuid": "6017ea97-4881-41f9-994e-7dddc99a624d",
+      "squuid": "68f8e279-8003-490d-b4b8-1eb0e502243d",
       "state": "active"
     }
   ],
-  "name": "Kiel erleben",
+  "name": "Der Postillon",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
-  "pressDistributionArea": "Stadt Kiel",
+  "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2025-10-22T14:45:47.294Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "pressKind": "Regional",
-  "pressEditionsComments": "Auflage laut Verlagsangabe",
-  "pressEditionsSold": 30000,
+  "pressKind": "Magazine",
+  "pressEditionsComments": "neu seit 10/25",
+  "pressEditionsSold": 25000,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",

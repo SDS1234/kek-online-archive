@@ -630,7 +630,7 @@
     "squuid": "63e3cf74-db05-4475-ba94-da6e26fe14af",
     "name": "Extra Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-20T13:48:33.093Z",
+    "controlDate": "2025-10-22T10:49:02.745Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -1773,7 +1773,7 @@
     "squuid": "68763289-ed66-40a6-93c3-fc5ff6a8832c",
     "name": "F-Invest UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-07-15T10:52:15.240Z",
+    "controlDate": "2025-10-22T11:02:50.797Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4348,7 +4348,7 @@
     "squuid": "666bed6a-3e78-4238-833a-7028273d38ec",
     "name": "F-World GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:01:13.824Z",
+    "controlDate": "2025-10-22T11:03:30.090Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49905,7 +49905,7 @@
     "squuid": "5be1a6b6-064d-4865-b9cf-1ed14ee01812",
     "name": "F&M Film und Medien Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:00:11.457Z",
+    "controlDate": "2025-10-22T11:02:34.540Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -56684,7 +56684,7 @@
     "name": "F. Wolff & Sohn KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f96c-4e11-901f-037faf330020",
-    "controlDate": "2025-05-20T14:06:02.290Z",
+    "controlDate": "2025-10-22T12:15:53.950Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -82121,7 +82121,7 @@
     "squuid": "5be1a6b6-cbf4-47d2-9a60-33d8de97af4b",
     "name": "F.i.S.-Fernsehen in Sachsen GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:16:29.806Z",
+    "controlDate": "2025-10-22T12:31:59.656Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85795,7 +85795,7 @@
     "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a",
     "name": "FC Bayern München AG",
     "state": "active",
-    "controlDate": "2025-05-21T14:33:51.868Z",
+    "controlDate": "2025-10-22T15:58:22.874Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -90696,7 +90696,7 @@
     "squuid": "5be1a6b6-9583-4ad6-bfa8-30794f33dbe6",
     "name": "FEG Holdings, LLC",
     "state": "active",
-    "controlDate": "2025-05-21T14:36:18.764Z",
+    "controlDate": "2025-10-22T16:01:38.500Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -111235,7 +111235,7 @@
     "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "62a8b2f5-6e40-411c-9fe5-f07bd55b70ff",
-    "controlDate": "2025-05-20T13:52:57.096Z",
+    "controlDate": "2025-10-22T10:56:50.525Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -113229,7 +113229,7 @@
     "squuid": "5be1a6b6-b042-4d7b-a2db-c2d3138010ea",
     "name": "Familiengesellschaft Dr. Konrad Theiss GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-21T14:16:58.335Z",
+    "controlDate": "2025-10-22T15:12:35.834Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -114387,7 +114387,7 @@
     "squuid": "62a8b365-6b5c-4565-b17a-c8aa869700f5",
     "name": "Extra-Tip Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T13:52:45.075Z",
+    "controlDate": "2025-10-22T10:56:39.777Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -130211,7 +130211,7 @@
     "squuid": "5ee21f31-f385-4bda-8581-d53b2dc3fafa",
     "name": "Fahner Concept & Digital GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:24:39.687Z",
+    "controlDate": "2025-10-22T14:01:53.997Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145931,6 +145931,15 @@
           "squuid": "5d35beab-3e19-4f55-b6ac-2cc01739a5a1",
           "name": "www.der-postillon.com"
         }
+      },
+      {
+        "squuid": "68f8e279-8003-490d-b4b8-1eb0e502243d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68f8e20d-c219-4286-8498-04be946ef80e",
+          "name": "Der Postillon"
+        }
       }
     ]
   },
@@ -146403,7 +146412,7 @@
     "squuid": "5be1a6b6-0522-4ca2-aceb-029214df3ee3",
     "name": "Fazit-Stiftung Gemeinnützige Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:29:11.651Z",
+    "controlDate": "2025-10-22T15:57:45.943Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146447,7 +146456,7 @@
     "name": "Fehmarnsches Tageblatt Burg-Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3857-4d8f-b93f-33512e4cd934",
-    "controlDate": "2025-05-21T15:00:41.381Z",
+    "controlDate": "2025-10-22T16:03:11.103Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151453,7 +151462,7 @@
     "squuid": "5eb91b9f-c515-4cb4-a99c-b31ca6d1eb3b",
     "name": "falkemedia Lifestyle GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T13:20:37.416Z",
+    "controlDate": "2025-10-22T14:17:28.466Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155257,7 +155266,7 @@
     "squuid": "61b77398-7d5c-422d-8006-b71ad7994024",
     "name": "Familie Klein Beteiligungs GbR",
     "state": "active",
-    "controlDate": "2025-05-21T14:12:51.900Z",
+    "controlDate": "2025-10-22T15:03:08.231Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157178,7 +157187,7 @@
     "squuid": "5f9a8866-a194-4014-a962-5cc3cfe959ba",
     "name": "F. Holzer GmbH (Österreich)",
     "state": "active",
-    "controlDate": "2025-05-20T14:03:24.550Z",
+    "controlDate": "2025-10-22T12:13:43.926Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -160627,7 +160636,7 @@
     "squuid": "5f2028e9-bd26-4f95-b774-cafafe1b5d77",
     "name": "FAS GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:26:58.222Z",
+    "controlDate": "2025-10-22T15:48:51.553Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162083,7 +162092,7 @@
   {
     "squuid": "5f7ef468-2ed7-4dd1-95d1-e6a1ed1f6a10",
     "name": "Hoffmann, Armin",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -168911,6 +168920,30 @@
     ]
   },
   {
+    "squuid": "68f8b433-03bc-46bb-aa2c-cd87d15cb3de",
+    "name": "AJNS New Media GmbH",
+    "state": "active",
+    "controlDate": "2025-10-22T10:41:40.980Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68f8b46e-7939-460e-9159-5658e510ef67",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68f794c9-901a-4b77-a8a5-3695faa0d183",
+          "name": "www.kitchenstories. com"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5ecb9c82-43d2-412d-a2db-bdc4985479ce",
     "name": "Ulmer, Matthias",
     "state": "active",
@@ -171716,6 +171749,32 @@
     ]
   },
   {
+    "squuid": "68f8c9e8-3f4a-4aee-a469-fafebab8f377",
+    "name": "Sohler, Armin",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8",
+    "name": "Reger, Dr. Gerald",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ca746a1-fa77-4fa5-bbe6-8042df527f1b",
     "name": "Steinbacher, Werner",
     "state": "active",
@@ -171729,6 +171788,19 @@
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68f8ca57-cece-4bc6-9568-eb9b126e4505",
+    "name": "Hoffmann, Hermann J.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -171797,6 +171869,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68f8c9ba-4d6b-4f50-8d50-1188b9f2a446",
+    "name": "Schwarz, Dieter",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -180792,7 +180877,7 @@
     "squuid": "6851744b-0a40-404f-aee7-4be606d11981",
     "name": "fahrwerkfilm GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T17:19:49.224Z",
+    "controlDate": "2025-10-22T14:03:49.876Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183018,7 +183103,7 @@
     "squuid": "63e37239-be3f-48bc-8921-3feebffc45e0",
     "name": "EXTRA-TIP Werbungs- und Vertriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-20T13:57:15.950Z",
+    "controlDate": "2025-10-22T10:59:00.497Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193125,9 +193210,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -193163,9 +193247,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -198903,7 +198986,7 @@
     "squuid": "5ec78efe-6f8b-4436-9549-c398ecb2cf94",
     "name": "Fehmarnsches Tageblatt Burg-Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:56:16.489Z",
+    "controlDate": "2025-10-22T16:02:56.601Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199595,7 +199678,7 @@
     "squuid": "60192ac8-42d0-4acf-8346-582da6aa1453",
     "name": "Fachverlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T13:09:42.935Z",
+    "controlDate": "2025-10-22T14:00:37.730Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202602,7 +202685,7 @@
     "squuid": "6373b7b3-3d15-4608-880e-5c68a836b267",
     "name": "falkemedia Fräulein Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T13:16:47.940Z",
+    "controlDate": "2025-10-22T14:15:17.158Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -207057,7 +207140,7 @@
     "squuid": "5d3868b2-176f-41eb-9368-bbdc933bd2ad",
     "name": "Feddersen Food GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:35:59.353Z",
+    "controlDate": "2025-10-22T16:00:21.077Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217704,7 +217787,7 @@
     "squuid": "5be1a6b6-2ddb-45c7-a773-78de315d8d94",
     "name": "F.A.Z. Electronic Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:15:24.777Z",
+    "controlDate": "2025-10-22T12:23:23.318Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243211,7 +243294,7 @@
     "squuid": "5be1a6b6-2e7d-4005-98f8-b8cee474afc5",
     "name": "F.A.Z. Business Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:14:41.247Z",
+    "controlDate": "2025-10-22T12:23:13.728Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244205,7 +244288,7 @@
     "name": "falkemedia GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9183-46c4-90cc-af28ea669864",
-    "controlDate": "2025-05-21T13:20:45.585Z",
+    "controlDate": "2025-10-22T14:17:39.418Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244329,15 +244412,6 @@
         "held": {
           "squuid": "600051c3-b217-4237-baaa-39f6ac08b153",
           "name": "My Healthy Life"
-        }
-      },
-      {
-        "squuid": "6000531a-b290-414c-8996-8ad83f20a38f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "600052d5-f0e9-4cff-8f43-852d10d89944",
-          "name": "Healthy Life Low Carb"
         }
       },
       {
@@ -246456,7 +246530,7 @@
     "squuid": "5ec3cfd0-000f-444f-8980-5386b9734d1e",
     "name": "Familie Schoeller Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:14:45.202Z",
+    "controlDate": "2025-10-22T15:04:35.021Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -246837,7 +246911,7 @@
     "squuid": "5be1a6b6-8405-42a4-8dd8-db3a993fbda9",
     "name": "Family Home Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:23:44.009Z",
+    "controlDate": "2025-10-22T15:35:32.216Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247561,11 +247635,6 @@
     "state": "active",
     "controlDate": "2025-05-30T13:39:45.864Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -262546,7 +262615,7 @@
     "squuid": "5be1a6b6-fe51-45c8-bb97-01124f8b3978",
     "name": "falkemedia digital GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T13:10:56.080Z",
+    "controlDate": "2025-10-22T14:07:45.082Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267660,7 +267729,7 @@
     "squuid": "5be1a6b6-76c9-4752-89d6-2802a7271609",
     "name": "Fahner Familienbeteiligungsgesellschaft bR",
     "state": "active",
-    "controlDate": "2025-05-20T14:24:52.186Z",
+    "controlDate": "2025-10-22T14:02:02.743Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287142,7 +287211,7 @@
     "squuid": "5be1a6b6-7453-4db8-b78b-ca15b780aa5a",
     "name": "Familiengesellschaft Doris Giesdorf GbR",
     "state": "active",
-    "controlDate": "2025-05-21T14:16:14.413Z",
+    "controlDate": "2025-10-22T15:10:53.705Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287161,7 +287230,7 @@
     "squuid": "5be1a6b6-e376-4a15-8cbf-104305d98b94",
     "name": "Familiengesellschaft Pietsch GbR",
     "state": "active",
-    "controlDate": "2025-05-21T14:16:30.903Z",
+    "controlDate": "2025-10-22T15:13:02.559Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287180,7 +287249,7 @@
     "squuid": "5be1a6b6-c472-4005-bb05-70ff71976eb4",
     "name": "Familiengesellschaft Rainer Giesdorf KG",
     "state": "active",
-    "controlDate": "2025-05-21T14:19:20.206Z",
+    "controlDate": "2025-10-22T15:14:13.819Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -287213,7 +287282,7 @@
     "squuid": "5be1a6b6-0972-4bc2-94b1-ff1e320f3154",
     "name": "Familiengesellschaft Rolf Giesdorf KG",
     "state": "active",
-    "controlDate": "2025-05-21T14:19:31.664Z",
+    "controlDate": "2025-10-22T15:14:38.648Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -291958,12 +292027,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
       }
     ]
   },
@@ -291987,11 +292050,6 @@
     "state": "active",
     "controlDate": "2019-05-21T15:58:23.763Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -292031,7 +292089,7 @@
     "squuid": "5be1a6b6-5ba4-4327-8027-b721e152d9b4",
     "name": "Falstaff Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:06:59.882Z",
+    "controlDate": "2025-10-22T14:58:04.099Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292064,7 +292122,7 @@
     "squuid": "5be1a6b6-4506-478a-8419-4d7545595f6d",
     "name": "Falstaff Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:08:51.497Z",
+    "controlDate": "2025-10-22T14:59:04.491Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292148,7 +292206,7 @@
     "squuid": "5be1a6b6-abe0-48a7-8958-760e89a8603c",
     "name": "Familienheim und Garten Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-21T14:20:57.761Z",
+    "controlDate": "2025-10-22T15:33:13.966Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -309138,7 +309196,7 @@
     "squuid": "5f96d030-8ab9-44c6-a739-9479f1355cd4",
     "name": "F. Holzer GmbH",
     "state": "active",
-    "controlDate": "2025-05-20T14:02:18.629Z",
+    "controlDate": "2025-10-22T12:13:28.626Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
