@@ -25885,7 +25885,7 @@
     "squuid": "5be1a6b6-a76c-4a73-a403-16840a732d37",
     "name": "Filmpark Babelsberg GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:23:24.925Z",
+    "controlDate": "2025-10-23T08:54:11.198Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -81432,7 +81432,7 @@
     "squuid": "5be1a6b6-e4f9-429d-97ce-7d0673422728",
     "name": "Fidelity Management & Research Company (FMR LLC)",
     "state": "active",
-    "controlDate": "2025-05-21T15:16:07.608Z",
+    "controlDate": "2025-10-23T08:49:56.859Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -88427,7 +88427,7 @@
     "squuid": "64ac2cf5-dcca-427c-9902-38c5b63d620c",
     "name": "Verlagsgruppe Bistumspresse GmbH",
     "state": "active",
-    "controlDate": "2025-06-28T13:55:30.242Z",
+    "controlDate": "2025-10-23T09:50:05.050Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151742,7 +151742,7 @@
     "squuid": "673cbab7-9fb7-4b9b-92ed-20cf58c42889",
     "name": "Fernsehen in Dresden GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:15:49.157Z",
+    "controlDate": "2025-10-23T08:43:20.573Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166573,9 +166573,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -169446,7 +169450,7 @@
   },
   {
     "squuid": "5ce3ba31-2390-4ab5-8a96-a680d98aec69",
-    "name": "Joyn GmbH",
+    "name": "Seven.One Entertainment Group GmbH",
     "state": "active",
     "controlDate": "2025-05-30T14:47:55.994Z",
     "organizations": [
@@ -174696,7 +174700,7 @@
     "squuid": "5d302d9b-82ca-4904-98bf-788efa6c8032",
     "name": "FIDES Alpha GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:20:41.931Z",
+    "controlDate": "2025-10-23T08:50:50.122Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -174757,7 +174761,7 @@
     "squuid": "5d302dad-d63b-4717-93d3-d65822adc2c9",
     "name": "FIDES Beta GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:20:53.794Z",
+    "controlDate": "2025-10-23T08:51:19.442Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -187988,7 +187992,7 @@
     "squuid": "684963c8-4b78-47fa-a99b-1697b34c8188",
     "name": "Filmpark Babelsberg Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T08:05:04.748Z",
+    "controlDate": "2025-10-23T08:53:37.685Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209590,7 +209594,7 @@
     "squuid": "5d2de1e9-343a-4337-b3cd-275fd002750a",
     "name": "FIL Ltd.",
     "state": "active",
-    "controlDate": "2025-05-21T15:21:16.753Z",
+    "controlDate": "2025-10-23T08:52:00.309Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249806,7 +249810,7 @@
     "squuid": "5be1a6b6-0094-4c05-a023-c23c78e2701f",
     "name": "Fem Media GmbH",
     "state": "active",
-    "controlDate": "2025-09-08T08:23:46.307Z",
+    "controlDate": "2025-10-23T08:33:00.696Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254635,7 +254639,7 @@
     "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb",
     "name": "Roularta Media Group N.V.",
     "state": "active",
-    "controlDate": "2025-06-20T09:20:40.387Z",
+    "controlDate": "2025-10-23T11:04:06.233Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
