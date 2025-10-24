@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "61547296-066d-4fce-8855-110ea053c72e",
+  "squuid": "68fb5914-4fbb-4b7e-922a-739b3cdab4db",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "FPM Sportmanagement UG (haftungsbeschränkt)",
-        "squuid": "615472ae-8902-4846-974b-9ff0aa30b448"
+        "name": "Badischer Landwirtschaftsverlag GmbH",
+        "squuid": "68fb5067-4639-4f4b-a9ca-f27fb2cf2c05"
       },
-      "squuid": "615472cc-a77a-44a3-b73d-b1ead9e19980",
+      "squuid": "68fb5949-4bc1-474f-b399-cb50ba1a3155",
       "state": "active"
     }
   ],
-  "name": "www.fupa.net/region/sachsen",
+  "name": "www.badische-bauern-zeitung.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-10-24T13:56:43.456Z",
+  "controlDate": "2025-10-24T10:46:55.944Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

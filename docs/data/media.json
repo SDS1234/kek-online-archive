@@ -715,6 +715,30 @@
     "state": "active"
   },
   {
+    "state": "active",
+    "squuid": "68fb5914-4fbb-4b7e-922a-739b3cdab4db",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.badische-bauern-zeitung.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-10-24T10:46:55.944Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-7433-49ca-aa37-220e45faa753",
@@ -3161,7 +3185,7 @@
     "rfStatewide": false,
     "name": "Brettener Nachrichten",
     "type": "print",
-    "controlDate": "2025-09-18T10:12:49.918Z",
+    "controlDate": "2025-10-24T09:50:24.792Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3181,7 +3205,7 @@
     "rfStatewide": false,
     "name": "Bruchsaler Rundschau",
     "type": "print",
-    "controlDate": "2025-09-18T10:13:12.326Z",
+    "controlDate": "2025-10-24T09:51:31.064Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3201,7 +3225,7 @@
     "rfStatewide": false,
     "name": "Pforzheimer Kurier",
     "type": "print",
-    "controlDate": "2025-09-18T10:13:20.625Z",
+    "controlDate": "2025-10-24T09:55:14.365Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -7687,7 +7711,7 @@
     "rfStatewide": false,
     "name": "BLOOM's Deco",
     "type": "print",
-    "controlDate": "2025-10-02T12:35:20.537Z",
+    "controlDate": "2025-10-24T11:02:02.930Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10578,7 +10602,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T08:11:28.587Z",
+    "controlDate": "2025-10-24T13:52:53.228Z",
     "state": "active"
   },
   {
@@ -17108,7 +17132,7 @@
     "rfStatewide": false,
     "name": "Der Steuerzahler",
     "type": "print",
-    "controlDate": "2025-09-22T16:22:10.451Z",
+    "controlDate": "2025-10-24T10:50:16.139Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24199,7 +24223,7 @@
     "name": "Esquire",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-04-30T14:15:24.625Z",
+    "controlDate": "2025-10-24T12:22:17.719Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29609,7 +29633,7 @@
     "name": "www.finanztip.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-21T15:42:06.371Z",
+    "controlDate": "2025-10-24T12:53:52.543Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -78996,7 +79020,7 @@
     "rfStatewide": false,
     "name": "Badische Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2025-09-18T10:12:34.058Z",
+    "controlDate": "2025-10-24T09:52:26.699Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79016,7 +79040,7 @@
     "rfStatewide": false,
     "name": "Acher- und Bühler Bote",
     "type": "print",
-    "controlDate": "2025-09-18T10:12:23.501Z",
+    "controlDate": "2025-10-24T09:46:05.324Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79036,7 +79060,7 @@
     "rfStatewide": false,
     "name": "Badisches Tagblatt",
     "type": "print",
-    "controlDate": "2025-09-18T10:12:58.047Z",
+    "controlDate": "2025-10-24T09:54:27.016Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79161,7 +79185,7 @@
     "rfStatewide": false,
     "name": "Eßlinger Zeitung",
     "type": "print",
-    "controlDate": "2025-09-22T16:36:07.857Z",
+    "controlDate": "2025-10-24T10:54:52.250Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79347,7 +79371,7 @@
     "rfStatewide": false,
     "name": "Psychologie heute",
     "type": "print",
-    "controlDate": "2025-05-30T14:54:46.924Z",
+    "controlDate": "2025-10-24T10:58:30.811Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81809,7 +81833,7 @@
     "rfStatewide": false,
     "name": "Elle Decoration",
     "type": "print",
-    "controlDate": "2025-04-30T14:15:01.770Z",
+    "controlDate": "2025-10-24T12:20:38.510Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81830,7 +81854,7 @@
     "rfStatewide": false,
     "name": "Harper's Bazaar",
     "type": "print",
-    "controlDate": "2025-04-30T14:15:34.935Z",
+    "controlDate": "2025-10-24T12:22:25.887Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82185,7 +82209,7 @@
     "rfStatewide": false,
     "name": "Flensborg Avis",
     "type": "print",
-    "controlDate": "2025-05-22T07:41:40.179Z",
+    "controlDate": "2025-10-24T13:07:51.476Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84953,7 +84977,7 @@
     "rfStatewide": false,
     "name": "Liebes Land",
     "type": "print",
-    "controlDate": "2025-10-02T12:35:53.261Z",
+    "controlDate": "2025-10-24T11:02:54.185Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90444,7 +90468,7 @@
     "name": "Elle Traveller",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-04-30T14:15:16.201Z",
+    "controlDate": "2025-10-24T12:22:05.304Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -93443,7 +93467,7 @@
     "rfStatewide": false,
     "name": "Freundin Fit for Fun",
     "type": "print",
-    "controlDate": "2025-05-22T07:37:54.943Z",
+    "controlDate": "2025-10-24T13:01:36.245Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93574,7 +93598,7 @@
     "rfStatewide": false,
     "name": "Badische Zeitung",
     "type": "print",
-    "controlDate": "2025-09-18T12:45:27.114Z",
+    "controlDate": "2025-10-24T09:58:37.656Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -93724,7 +93748,7 @@
     "rfStatewide": false,
     "name": "Bayerisches Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-04-25T08:21:34.361Z",
+    "controlDate": "2025-10-24T10:02:27.007Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101119,7 +101143,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-21T15:38:33.354Z",
+    "controlDate": "2025-10-24T12:49:01.266Z",
     "state": "active"
   },
   {
@@ -103324,7 +103348,7 @@
     "rfStatewide": false,
     "name": "Madame",
     "type": "print",
-    "controlDate": "2025-09-22T16:26:04.282Z",
+    "controlDate": "2025-10-24T10:51:56.547Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103845,7 +103869,7 @@
     "rfStatewide": false,
     "name": "Der Hund",
     "type": "print",
-    "controlDate": "2025-05-22T08:11:20.082Z",
+    "controlDate": "2025-10-24T13:52:45.517Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -110002,7 +110026,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-21T15:42:40.629Z",
+    "controlDate": "2025-10-24T12:55:41.966Z",
     "state": "active"
   },
   {
@@ -116541,7 +116565,7 @@
     "rfStatewide": false,
     "name": "Dithmarscher Kurier",
     "type": "print",
-    "controlDate": "2025-10-06T15:06:52.580Z",
+    "controlDate": "2025-10-24T11:45:06.737Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116646,7 +116670,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T07:41:49.197Z",
+    "controlDate": "2025-10-24T13:07:58.528Z",
     "state": "active"
   },
   {
@@ -119801,6 +119825,26 @@
     "state": "active"
   },
   {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "68fb4f8f-3320-45c0-9f3f-6b55b7b3a12f",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Badische Bauern Zeitung",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2025-10-24T10:06:21.248Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Natur"
+  },
+  {
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -121548,6 +121592,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "68fb56b6-9136-43bb-8690-dcfd8074a95b",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.bauernblatt.com",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-10-24T10:41:40.982Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-53e5-4e8c-b0f7-80753796bdce",
@@ -121847,6 +121915,26 @@
     },
     "controlDate": "2025-06-15T13:38:08.563Z",
     "state": "active"
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "68fb5696-ccf0-4644-9901-60a9f01879f6",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "bauernblatt",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2025-10-24T10:37:06.447Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Natur"
   },
   {
     "organization": {
@@ -125544,7 +125632,7 @@
     "name": "Elle Spirit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-04-30T14:15:09.752Z",
+    "controlDate": "2025-10-24T12:21:32.489Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138202,7 +138290,7 @@
     "name": "www.filstalwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-21T15:30:47.871Z",
+    "controlDate": "2025-10-24T12:43:10.732Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161022,7 +161110,7 @@
     "name": "www.fupa.net/region/sachsen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T08:14:41.333Z",
+    "controlDate": "2025-10-24T13:56:43.456Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

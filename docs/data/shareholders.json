@@ -2243,6 +2243,19 @@
     ]
   },
   {
+    "squuid": "68fb66df-0716-4710-bc6b-d6832924eebc",
+    "name": "Eigenanteile Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "64a8060b-93e8-4e39-a321-9a88bfde1c7f",
     "name": "Singener Wochenblatt Verwaltungs-GmbH",
     "state": "active",
@@ -2298,6 +2311,19 @@
     "state": "archived",
     "controlDate": "2025-05-22T15:24:39.529Z",
     "limitedPartnership": true,
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68fb66df-9da8-469e-8519-61981958eb59",
+    "name": "Eigenanteile Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -4388,6 +4414,19 @@
     ]
   },
   {
+    "squuid": "68fb7c22-aed6-49d9-af47-d56cda9e1c29",
+    "name": "Fidelitas BidCo GmbH",
+    "state": "active",
+    "controlDate": "2025-10-24T13:37:05.752Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "687644fc-6ad8-4f96-a7ac-40a74c2bb57c",
     "name": "Stemmle-Przybisch, Carla ",
     "state": "active",
@@ -4527,6 +4566,18 @@
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68fb8190-fb67-499b-a65a-a44cbc5bff64",
+    "name": "Fidelitas TopCo GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -33595,7 +33646,7 @@
     "squuid": "5d31b986-0417-4de7-b1c9-dc089bf560c8",
     "name": "Filstalwelle TV GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:30:10.541Z",
+    "controlDate": "2025-10-24T12:42:11.493Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -47119,7 +47170,7 @@
     "squuid": "5d31caf7-326c-4414-ac94-af7dad8ab366",
     "name": "Finanztip Verbraucherinformation GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:41:45.461Z",
+    "controlDate": "2025-10-24T12:53:47.601Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50663,7 +50714,7 @@
     "squuid": "5be1a6b6-3f8c-43dc-b333-1d4109f613ea",
     "name": "Fox International Channels (US), Inc.",
     "state": "active",
-    "controlDate": "2025-05-22T08:14:08.800Z",
+    "controlDate": "2025-10-24T13:54:41.158Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50687,7 +50738,7 @@
     "squuid": "5be1a6b6-b286-4990-8764-b1b723722988",
     "name": "Fox International, LLC",
     "state": "active",
-    "controlDate": "2025-05-22T08:13:59.561Z",
+    "controlDate": "2025-10-24T13:55:00.028Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50711,7 +50762,7 @@
     "squuid": "5be1a6b6-ef40-4e0e-8a27-5490af7aecfa",
     "name": "Fox Entertainment Group, LLC",
     "state": "active",
-    "controlDate": "2025-05-22T08:13:43.047Z",
+    "controlDate": "2025-10-24T13:54:30.977Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58764,7 +58815,7 @@
     "squuid": "5e5f94fa-7f08-4d4a-aebc-dd5469b2f721",
     "name": "Fimalac S.A.",
     "state": "active",
-    "controlDate": "2025-05-21T15:33:50.820Z",
+    "controlDate": "2025-10-24T12:44:11.330Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84145,7 +84196,7 @@
     "squuid": "5be1a6b6-31ef-439c-942e-1f47b420f897",
     "name": "Fleißig Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T07:39:14.479Z",
+    "controlDate": "2025-10-24T13:05:26.063Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -100180,7 +100231,7 @@
     "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d",
     "name": "Fleißig Pressehaus Immobilien Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T07:40:22.223Z",
+    "controlDate": "2025-10-24T13:07:05.405Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -103447,7 +103498,7 @@
     "squuid": "5cc70c37-5b94-4790-b253-0f68d1d16df7",
     "name": "Fleißig Pressehaus Immobilien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-22T07:40:35.556Z",
+    "controlDate": "2025-10-24T13:06:18.996Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -146612,7 +146663,7 @@
     "squuid": "5be1a6b6-9f6d-4906-b135-0592ed9fcc8e",
     "name": "Flensborg Avis AG",
     "state": "active",
-    "controlDate": "2025-05-22T07:41:32.060Z",
+    "controlDate": "2025-10-24T13:07:21.650Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159235,7 +159286,7 @@
     "squuid": "5c47426b-7513-4efc-aeac-73ea254f112e",
     "name": "Finanztreff GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:42:28.357Z",
+    "controlDate": "2025-10-24T12:55:32.147Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -185518,6 +185569,39 @@
     ]
   },
   {
+    "squuid": "68fb5067-4639-4f4b-a9ca-f27fb2cf2c05",
+    "name": "Badischer Landwirtschaftsverlag GmbH",
+    "state": "active",
+    "controlDate": "2025-10-24T10:11:16.669Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68fb5087-d632-445a-9b20-795b1de64a10",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68fb4f8f-3320-45c0-9f3f-6b55b7b3a12f",
+          "name": "Badische Bauern Zeitung"
+        }
+      },
+      {
+        "squuid": "68fb5949-4bc1-474f-b399-cb50ba1a3155",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68fb5914-4fbb-4b7e-922a-739b3cdab4db",
+          "name": "www.badische-bauern-zeitung.de"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5de8fcbd-e46b-42c5-9fa4-42070769f44e",
     "name": "mylife media Verwaltungsgesellschaft mbH",
     "state": "active",
@@ -185751,6 +185835,18 @@
     ]
   },
   {
+    "squuid": "68fb5215-f2be-481f-85b3-1b3bf9e71ad2",
+    "name": "ZG Raiffeisen eG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "61d2c937-ae49-492d-942a-385033fff7c1",
     "name": "Nawrath, Dr. Axel",
     "state": "active",
@@ -185759,6 +185855,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68fb5238-ee38-4e85-b79b-77ba8c4d6207",
+    "name": "Eigenbesitz der Badischen Landwirtschafatsverlag GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -186318,6 +186426,39 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68fb575c-9b2f-4d36-abec-a983816619e1",
+    "name": "Bauernblatt GmbH",
+    "state": "active",
+    "controlDate": "2025-10-24T10:43:54.403Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68fb57a4-1d54-4ae6-b45f-0d41248d2518",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68fb5696-ccf0-4644-9901-60a9f01879f6",
+          "name": "bauernblatt"
+        }
+      },
+      {
+        "squuid": "68fb5831-b05e-491e-a2b4-dcc7ca01f0e9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68fb56b6-9136-43bb-8690-dcfd8074a95b",
+          "name": "www.bauernblatt.com"
+        }
       }
     ]
   },
@@ -194449,7 +194590,7 @@
     "squuid": "6347ea06-6b8c-4cc2-b1a2-f899e5024540",
     "name": "fons securis aerarium GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T08:04:47.701Z",
+    "controlDate": "2025-10-24T13:09:48.136Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197210,7 +197351,7 @@
     "squuid": "5d372cb8-53cc-4478-bfa6-8090b3a33654",
     "name": "Fischtown Pinguins Bremerhaven SB GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T07:33:56.289Z",
+    "controlDate": "2025-10-24T12:59:32.999Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216061,7 +216202,7 @@
     "squuid": "5be1a6b6-ea96-44de-9112-318e72389935",
     "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-22T08:03:50.737Z",
+    "controlDate": "2025-10-24T13:09:17.455Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220947,7 +221088,7 @@
     "squuid": "6093c16e-a6e9-49b0-aa64-00f6585b0038",
     "name": "FootballCo Services Ltd.",
     "state": "active",
-    "controlDate": "2025-05-22T08:06:32.822Z",
+    "controlDate": "2025-10-24T13:50:03.805Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -236991,7 +237132,7 @@
     "squuid": "6854466f-2ec0-457d-82d7-0794850710f3",
     "name": "FourShare GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T08:26:10.192Z",
+    "controlDate": "2025-10-24T13:53:43.942Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238356,7 +238497,7 @@
     "squuid": "5be1a6b6-ef50-47e6-82e9-624c61250632",
     "name": "Fit for Fun Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T07:34:26.342Z",
+    "controlDate": "2025-10-24T13:00:34.260Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243794,7 +243935,7 @@
     "squuid": "5be1a6b6-2bed-43cc-bba9-9295b799a194",
     "name": "finanzen.net GmbH",
     "state": "active",
-    "controlDate": "2025-05-21T15:37:25.608Z",
+    "controlDate": "2025-10-24T12:44:48.877Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247128,7 +247269,7 @@
     "squuid": "5be1a6b6-a3d2-4371-bb6f-d0d8a9489a84",
     "name": "Forum Zeitschriften und Spezialmedien GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T08:10:12.426Z",
+    "controlDate": "2025-10-24T13:52:36.631Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247535,7 +247676,7 @@
     "squuid": "5be1a6b6-7364-488a-bde8-934b93b9160c",
     "name": "Forum Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T08:08:46.476Z",
+    "controlDate": "2025-10-24T13:51:58.624Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -255418,7 +255559,7 @@
     "squuid": "66585731-c4a2-4d5c-a993-0c5830be2d74",
     "name": "Flyeralarm Industries GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T07:43:17.682Z",
+    "controlDate": "2025-10-24T13:08:58.260Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271631,8 +271772,9 @@
     "controlDate": "2025-09-17T10:42:24.565Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -271657,8 +271799,9 @@
     "controlDate": "2019-05-15T10:13:36.746Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -271670,8 +271813,9 @@
     "controlDate": "2019-05-15T10:13:43.017Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -271701,8 +271845,9 @@
     "controlDate": "2019-05-15T10:13:50.798Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -313184,7 +313329,7 @@
     "squuid": "615472ae-8902-4846-974b-9ff0aa30b448",
     "name": "FPM Sportmanagement UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-05-22T08:14:30.254Z",
+    "controlDate": "2025-10-24T13:56:08.200Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

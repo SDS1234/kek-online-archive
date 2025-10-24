@@ -1,7 +1,6 @@
 {
-  "pressPublishingIntervals": 6,
+  "pressPublishingIntervals": 52,
   "state": "active",
-  "rfShoppingChannel": false,
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
     "name": "Publikumszeitschrift",
@@ -9,37 +8,36 @@
     "state": "active"
   },
   "pressAsOfDate": "III/25",
-  "squuid": "5be1a6b1-3318-4df5-b0ed-b4486d112bc1",
+  "squuid": "68fb4f8f-3320-45c0-9f3f-6b55b7b3a12f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "rfStatewide": false,
   "operatedBy": [
     {
       "type": "operate",
       "holder": {
-        "name": "BLOOM's GmbH Medien Marketing Events",
-        "squuid": "5be1a6b6-7132-4bc4-bf43-24dfc9a78307"
+        "name": "Badischer Landwirtschaftsverlag GmbH",
+        "squuid": "68fb5067-4639-4f4b-a9ca-f27fb2cf2c05"
       },
-      "squuid": "66700387-3762-49f9-bafb-11cb31f4aac4",
+      "squuid": "68fb5087-d632-445a-9b20-795b1de64a10",
       "state": "active"
     }
   ],
-  "name": "Liebes Land",
+  "name": "Badische Bauern Zeitung",
   "pressEditionsIVW": true,
-  "pressDistributionArea": "bundesweit",
+  "rfPublicPrivate": false,
+  "pressDistributionArea": "Region Baden",
   "type": "print",
-  "controlDate": "2025-10-24T11:02:54.185Z",
-  "pressKind": "Wohnen",
-  "onlineOfferType": {
-    "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
-    "name": "Online Medienangebot",
-    "type": "online-offer-type",
-    "state": "active"
+  "controlDate": "2025-10-24T10:06:21.248Z",
+  "rfSupervisingAuthority": {
+    "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+    "name": "DL",
+    "type": "organization"
   },
-  "pressEditionsSold": 14333,
+  "pressKind": "Natur",
+  "pressEditionsSold": 10351,
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
