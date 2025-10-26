@@ -315,7 +315,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T08:21:38.153Z",
+    "controlDate": "2025-10-26T14:18:11.164Z",
     "state": "active"
   },
   {
@@ -12954,7 +12954,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Quarterly",
     "type": "print",
-    "controlDate": "2025-05-22T08:58:58.568Z",
+    "controlDate": "2025-10-26T14:33:22.438Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -25199,7 +25199,7 @@
     "name": "Gluten free",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-22T14:18:43.473Z",
+    "controlDate": "2025-10-26T15:08:26.616Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26568,7 +26568,7 @@
     "name": "www.hofheimer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T09:21:16.079Z",
+    "controlDate": "2025-10-26T14:49:37.483Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26924,7 +26924,7 @@
     "name": "www.hoechster-kreisblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T09:14:13.212Z",
+    "controlDate": "2025-10-26T14:44:51.923Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28457,7 +28457,7 @@
     "name": "www.radio-frei.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T10:17:42.062Z",
+    "controlDate": "2025-10-26T15:16:16.627Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29141,7 +29141,7 @@
     "name": "www.radioslubfurt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T14:50:26.157Z",
+    "controlDate": "2025-10-26T15:14:29.137Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37400,7 +37400,7 @@
     "name": "www.taunus-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T09:15:47.634Z",
+    "controlDate": "2025-10-26T14:45:06.555Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43271,7 +43271,7 @@
     "name": "www.sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:45:34.556Z",
+    "controlDate": "2025-10-26T15:25:29.323Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45289,7 +45289,7 @@
     "name": "www.gemeindeblatt.digital",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T08:36:32.844Z",
+    "controlDate": "2025-10-26T14:18:24.124Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82397,7 +82397,7 @@
     "rfStatewide": false,
     "name": "Frankenpost",
     "type": "print",
-    "controlDate": "2025-05-22T08:21:31.270Z",
+    "controlDate": "2025-10-26T14:17:52.525Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82438,7 +82438,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Metropol",
     "type": "print",
-    "controlDate": "2025-05-22T08:58:45.894Z",
+    "controlDate": "2025-10-26T14:33:10.996Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82498,7 +82498,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2025-05-22T08:59:16.355Z",
+    "controlDate": "2025-10-26T14:33:38.722Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82521,7 +82521,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Allgemeine Sonntagszeitung",
     "type": "print",
-    "controlDate": "2025-05-22T08:59:09.000Z",
+    "controlDate": "2025-10-26T14:33:30.290Z",
     "pressKind": "Sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82545,7 +82545,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T09:00:46.041Z",
+    "controlDate": "2025-10-26T14:33:47.451Z",
     "state": "active"
   },
   {
@@ -82560,7 +82560,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Neue Presse",
     "type": "print",
-    "controlDate": "2025-05-22T09:12:53.618Z",
+    "controlDate": "2025-10-26T14:43:43.013Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97201,7 +97201,7 @@
     "rfStatewide": false,
     "name": "Freizeitwoche",
     "type": "print",
-    "controlDate": "2025-05-22T14:48:15.424Z",
+    "controlDate": "2025-10-26T15:29:49.537Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99595,7 +99595,7 @@
     "rfStatewide": false,
     "name": "Regio Magazin",
     "type": "print",
-    "controlDate": "2025-05-22T14:19:59.411Z",
+    "controlDate": "2025-10-26T15:11:10.608Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99636,7 +99636,7 @@
     "rfStatewide": false,
     "name": "Freiburg aktuell",
     "type": "print",
-    "controlDate": "2025-05-22T14:19:48.650Z",
+    "controlDate": "2025-10-26T15:10:59.651Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101158,7 +101158,7 @@
     "rfStatewide": false,
     "name": "Frankfurter Rundschau",
     "type": "print",
-    "controlDate": "2025-05-22T09:05:38.164Z",
+    "controlDate": "2025-10-26T14:40:41.075Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -101205,7 +101205,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T09:05:52.349Z",
+    "controlDate": "2025-10-26T14:40:53.099Z",
     "state": "active"
   },
   {
@@ -106750,7 +106750,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T14:17:57.202Z",
+    "controlDate": "2025-10-26T15:05:50.520Z",
     "state": "active"
   },
   {
@@ -118221,7 +118221,7 @@
     "rfStatewide": false,
     "name": "Höchster Kreisblatt",
     "type": "print",
-    "controlDate": "2025-05-22T09:13:11.390Z",
+    "controlDate": "2025-10-26T14:44:02.328Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118241,7 +118241,7 @@
     "rfStatewide": false,
     "name": "Taunus Zeitung",
     "type": "print",
-    "controlDate": "2025-05-22T09:13:26.093Z",
+    "controlDate": "2025-10-26T14:44:20.717Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118304,7 +118304,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-22T09:14:00.156Z",
+    "controlDate": "2025-10-26T14:44:35.540Z",
     "state": "active"
   },
   {
@@ -131516,7 +131516,7 @@
     "name": "www.radio-fratz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:22:08.376Z",
+    "controlDate": "2025-10-26T15:14:58.060Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131732,7 +131732,7 @@
     "name": "www.freiesradio-nms.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:32:33.281Z",
+    "controlDate": "2025-10-26T15:21:06.037Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144817,7 +144817,7 @@
     "name": "www.radiofrankfurt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-18T10:37:19.190Z",
+    "controlDate": "2025-10-26T14:28:52.172Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147431,7 +147431,7 @@
     "name": "www.freies-radio-kassel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:31:57.791Z",
+    "controlDate": "2025-10-26T15:19:17.521Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152188,7 +152188,7 @@
     "name": "www.freiburger-wochenbericht.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:20:05.094Z",
+    "controlDate": "2025-10-26T15:11:17.710Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158808,7 +158808,7 @@
     "name": "www.glutenfree-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:18:50.293Z",
+    "controlDate": "2025-10-26T15:08:35.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160842,7 +160842,7 @@
     "name": "www.bermudafunk.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-22T14:35:02.817Z",
+    "controlDate": "2025-10-26T15:22:24.481Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
