@@ -53,7 +53,7 @@
     "squuid": "5c3c877b-5cc8-4321-bfb7-79c27f4f0781",
     "name": "FSF Beteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T08:59:06.658Z",
+    "controlDate": "2025-10-27T09:29:23.418Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -2208,7 +2208,7 @@
     "squuid": "63e4c91f-c652-42ef-9eed-6bf34f9b5685",
     "name": "Frohsinn GbR",
     "state": "active",
-    "controlDate": "2025-05-22T16:08:22.303Z",
+    "controlDate": "2025-10-27T08:52:58.294Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -2542,7 +2542,7 @@
     "squuid": "5f28003a-6cb9-485b-b364-ecf9dd4670f9",
     "name": "Funkhaus Halle Komplementär-GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T11:39:03.791Z",
+    "controlDate": "2025-10-27T15:22:26.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -2762,7 +2762,7 @@
     "squuid": "5f280059-c18c-419b-bbd1-70c628e8b16b",
     "name": "Freundeskreis Radio Brocken Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T15:47:30.384Z",
+    "controlDate": "2025-10-27T08:11:48.906Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12971,7 +12971,7 @@
     "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d53d-429c-b17b-21d935c65e5b",
-    "controlDate": "2025-05-25T12:08:22.819Z",
+    "controlDate": "2025-10-27T16:09:57.798Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -14693,7 +14693,7 @@
     "squuid": "5be1a6b6-01da-4c86-8564-5246716290f4",
     "name": "Funkhaus Nürnberg Studiobetriebs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T11:50:56.426Z",
+    "controlDate": "2025-10-27T15:54:47.506Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15300,6 +15300,30 @@
     ]
   },
   {
+    "squuid": "68ff32f4-0a7b-4779-b266-f0f08fb332a2",
+    "name": "Campusradio Mainz e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
+        "name": "Medienanstalt RLP",
+        "fullName": "Medienanstalt Rheinland-Pfalz",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68ff3482-7c6a-4a4b-8baa-e4269d81131f",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68ff333e-d91d-484c-b5fa-71f2570acd9d",
+          "name": "Campusradio Mainz"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-f66c-46c2-aba5-f90ed684af3c",
     "name": "Gabelli, Mario J.",
     "state": "active",
@@ -15338,6 +15362,19 @@
         "name": "DL",
         "type": "organization"
       },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68ff32f4-f8b9-4818-b75e-60acfa84f684",
+    "name": "Campusradio Mainz e.V.",
+    "state": "active",
+    "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -15394,6 +15431,19 @@
           "squuid": "5f7f1007-e2cb-41cc-8311-13c243a25350",
           "name": "www.silverline.tv"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "68ff32f4-4f0d-434c-8336-d6fc560a5195",
+    "name": "Campusradio Mainz e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -16745,7 +16795,7 @@
     "name": "Funkhaus Straubing GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f68d-49c4-8ee5-4264e52fbef5",
-    "controlDate": "2025-06-18T08:32:53.414Z",
+    "controlDate": "2025-10-27T16:30:38.293Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17376,7 +17426,7 @@
     "name": "Funkhaus Rosenheim GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-040f-4b3c-a4ef-629758453272",
-    "controlDate": "2025-05-25T12:12:31.992Z",
+    "controlDate": "2025-10-27T16:16:48.009Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17477,7 +17527,7 @@
     "name": "Funkhaus Coburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a3d5-49fc-bc72-77b1727e864f",
-    "controlDate": "2025-05-23T15:31:15.029Z",
+    "controlDate": "2025-10-27T15:07:13.256Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17682,7 +17732,7 @@
     "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a605-4423-ae1c-61cdc0b0de95",
-    "controlDate": "2025-05-23T15:26:50.370Z",
+    "controlDate": "2025-10-27T15:01:19.013Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -18437,7 +18487,7 @@
     "name": "Funkhaus Landshut GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6e30-474f-a100-be7d7cf5192f",
-    "controlDate": "2025-05-25T11:48:13.840Z",
+    "controlDate": "2025-10-27T15:44:27.230Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -18501,15 +18551,6 @@
         "held": {
           "squuid": "5f9049a4-51b1-4f49-bed8-bb3e1f66cac7",
           "name": "www.galaxy-landshut.de"
-        }
-      },
-      {
-        "squuid": "5f96bdc4-19ee-4531-9fe7-fad489e60090",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f96bd74-5640-4405-a302-248e26fc4281",
-          "name": "www.radio-trausnitz.de"
         }
       },
       {
@@ -19125,6 +19166,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68ff38e4-bad4-436f-a206-5f0249123a59",
+    "name": "Ruß, Georg",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -20793,7 +20847,7 @@
     "name": "Funkhaus Passau GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f513-4842-a215-498137a17a32",
-    "controlDate": "2025-09-12T09:15:58.133Z",
+    "controlDate": "2025-10-27T16:02:13.849Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20974,7 +21028,7 @@
     "name": "Funkhaus Freiburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398",
-    "controlDate": "2025-05-25T11:37:12.198Z",
+    "controlDate": "2025-10-27T15:12:26.706Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22751,7 +22805,7 @@
     "squuid": "5be1a6b6-692d-4a42-a92b-b1690c291224",
     "name": "Friedrichshafener Lokalrundfunkgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-22T15:59:26.506Z",
+    "controlDate": "2025-10-27T08:20:15.543Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -23405,6 +23459,19 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68ff477a-0b81-43be-9eec-4001fa9c9b3a",
+    "name": "Funke Medien National Brands GmbH",
+    "state": "active",
+    "controlDate": "2025-10-27T10:29:53.913Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -27199,7 +27266,7 @@
     "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653",
     "name": "Funke Mediengruppe GmbH & Co. KGaA",
     "state": "active",
-    "controlDate": "2025-05-23T13:46:03.799Z",
+    "controlDate": "2025-10-27T13:11:06.722Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -30252,7 +30319,7 @@
     "name": "Funk & Fernsehen Nordwestdeutschland GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6d31-40f9-81d9-39e930c9b6cb",
-    "controlDate": "2025-05-23T09:09:05.360Z",
+    "controlDate": "2025-10-27T09:47:42.152Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31951,7 +32018,7 @@
     "name": "Funkhaus Halle GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc",
-    "controlDate": "2025-05-25T11:39:44.536Z",
+    "controlDate": "2025-10-27T15:22:37.831Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32508,7 +32575,7 @@
     "squuid": "5be1a6b6-bb46-4290-bd58-31a66aae8af8",
     "name": "G + D Grafik + Druck GmbH + Co. KG",
     "state": "active",
-    "controlDate": "2025-05-25T13:14:34.393Z",
+    "controlDate": "2025-10-27T17:11:43.281Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -38766,7 +38833,7 @@
     "squuid": "5be1a6b6-0d30-44bc-85af-adea183b75e1",
     "name": "fx-net Internet Based Services GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T12:30:05.536Z",
+    "controlDate": "2025-10-27T16:50:17.269Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -48245,7 +48312,7 @@
     "name": "Funkhaus Ingolstadt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-859b-4b56-9e5d-e4d7cb1f43d6",
-    "controlDate": "2025-05-25T11:43:33.218Z",
+    "controlDate": "2025-10-27T15:38:47.424Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52546,6 +52613,93 @@
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "68ff75e9-e742-40b3-8a1e-7e46ef6605ad",
+    "name": "Funke Women, People & Family GmbH",
+    "state": "active",
+    "controlDate": "2025-10-27T14:02:27.020Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "68ff761c-f8f1-4978-a470-6d6c806f068a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-af03-4aea-ab16-3f1e42fde187",
+          "name": "www.eltern.de"
+        }
+      },
+      {
+        "squuid": "68ff765c-4e2f-481d-987f-c22e60d3f3a2",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5e9a-4c47-9333-406275c8b4bb",
+          "name": "www.urbia.de"
+        }
+      },
+      {
+        "squuid": "68ff768f-2155-4a8d-93f9-47dd45514d35",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "62ea4db3-8b85-4c10-b45f-93ae9850cd11",
+          "name": "www.vorname.com"
+        }
+      },
+      {
+        "squuid": "68ff76c3-e541-495e-9e40-f0303098968e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-e628-493e-80e8-7cc912c013b0",
+          "name": "www.brigitte.de"
+        }
+      },
+      {
+        "squuid": "68ff76ee-8581-4347-b3e3-02ab8cb2f3db",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-0bec-45ce-8bb1-35fcd777421e",
+          "name": "www.gala.de"
+        }
+      },
+      {
+        "squuid": "68ff773a-4d57-46a7-9f5d-d6256a6a95db",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "68ff770e-effa-4d0f-a37b-e43a38c62374",
+          "name": "www.schwangerschaft.de"
+        }
+      },
+      {
+        "squuid": "68ff7776-c4c3-43ec-b1b9-e8d21a11be1e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-991c-4729-b60e-4946b15520f3",
+          "name": "Brigitte"
+        }
+      },
+      {
+        "squuid": "68ff7888-86ca-407a-a49d-0095714e383c",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-1e26-465b-85ba-83d0291d54fe",
+          "name": "Gala"
+        }
       }
     ]
   },
@@ -93315,7 +93469,7 @@
     "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82",
     "name": "Funke Medien Niedersachsen GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T13:18:57.270Z",
+    "controlDate": "2025-10-27T12:28:08.663Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -101349,7 +101503,7 @@
     "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0",
     "name": "Funke Medien NRW GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T13:30:56.175Z",
+    "controlDate": "2025-10-27T12:50:34.849Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -103238,24 +103392,6 @@
         }
       },
       {
-        "squuid": "61dd8fff-e22a-480b-a5c4-a6891fa8b678",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-991c-4729-b60e-4946b15520f3",
-          "name": "Brigitte"
-        }
-      },
-      {
-        "squuid": "61dd9107-9030-434e-b795-f2f65e3e0f59",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-a79e-4993-a0e6-8734486f9778",
-          "name": "Brigitte Woman "
-        }
-      },
-      {
         "squuid": "61dd9275-a2cc-4ee3-a3dd-d8104c1f00ac",
         "type": "operate",
         "state": "active",
@@ -103271,15 +103407,6 @@
         "held": {
           "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e",
           "name": "www.capital.de"
-        }
-      },
-      {
-        "squuid": "61dd949e-a580-48bd-b216-ea4064b271f1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-1e26-465b-85ba-83d0291d54fe",
-          "name": "Gala"
         }
       },
       {
@@ -134072,7 +134199,7 @@
     "squuid": "5f90289c-004d-421f-b1ba-b0aa970fceda",
     "name": "Funkhaus Passau Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:24:11.381Z",
+    "controlDate": "2025-10-27T16:02:06.224Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137924,7 +138051,7 @@
     "squuid": "5f902dc1-8fee-40ae-88c5-9abb0e9cc356",
     "name": "Funkhaus Regensburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T12:08:14.654Z",
+    "controlDate": "2025-10-27T16:09:50.356Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139039,7 +139166,7 @@
     "squuid": "5f903b91-2a11-42b5-b684-303f270d0a9f",
     "name": "Funkhaus Aschaffenburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T15:26:42.574Z",
+    "controlDate": "2025-10-27T14:59:24.377Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140720,7 +140847,7 @@
     "squuid": "5f9041b9-a6e7-4a65-94de-8d988283fa15",
     "name": "Funkhaus Ingolstadt Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T11:43:21.453Z",
+    "controlDate": "2025-10-27T15:38:26.153Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144719,7 +144846,7 @@
     "squuid": "5f904aad-3ea6-49af-8cd6-449bfa3f116e",
     "name": "Funkhaus Landshut Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T11:48:07.227Z",
+    "controlDate": "2025-10-27T15:44:17.305Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155342,7 +155469,7 @@
     "squuid": "5f086df2-3467-4cc5-9015-452a3f036f13",
     "name": "G + D Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T13:14:21.404Z",
+    "controlDate": "2025-10-27T17:11:55.900Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156323,7 +156450,7 @@
     "squuid": "6082ce0d-e395-446b-a145-7b7adbf5a7b2",
     "name": "Funke Harz Kurier GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:39:48.973Z",
+    "controlDate": "2025-10-27T10:46:46.872Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158898,7 +159025,7 @@
     "squuid": "5eba8120-54dc-4e1b-a9b6-48b92cf07a4b",
     "name": "Funke Management GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:53:29.666Z",
+    "controlDate": "2025-10-27T11:21:54.617Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -161506,7 +161633,7 @@
     "squuid": "5eeb6b61-69f5-4e21-be9c-60e7f02b84ac",
     "name": "Funkhaus Freiburg Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T11:36:07.367Z",
+    "controlDate": "2025-10-27T15:12:20.898Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161820,7 +161947,7 @@
     "squuid": "602a9778-652e-45fd-a279-d6da098d36b7",
     "name": "Funke Lifestyle GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:48:45.143Z",
+    "controlDate": "2025-10-27T11:20:12.751Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161881,15 +162008,6 @@
         "held": {
           "squuid": "5be1a6b1-2c7d-491d-a80f-482111cfcc07",
           "name": "Donna"
-        }
-      },
-      {
-        "squuid": "607577a4-24df-4dbe-8fa4-ad705004f837",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6075775c-2a09-436d-9395-d221c8f56dd6",
-          "name": "I AM"
         }
       },
       {
@@ -164714,7 +164832,7 @@
     "squuid": "5eec975c-871b-4fc7-87c5-0319635a4e50",
     "name": "Funk & Fernsehen Nordwestdeutschland Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-23T09:07:09.367Z",
+    "controlDate": "2025-10-27T09:42:13.490Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -166425,7 +166543,7 @@
     "squuid": "62050f0d-72ee-4277-bebc-a7431bcdea5b",
     "name": "Frietsch Milke GbR",
     "state": "active",
-    "controlDate": "2025-05-22T16:07:56.414Z",
+    "controlDate": "2025-10-27T08:29:37.596Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168714,7 +168832,7 @@
     "squuid": "602fb5c5-8a47-4153-ae62-59c8766feea0",
     "name": "Funke Entertain GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:35:44.805Z",
+    "controlDate": "2025-10-27T10:16:05.461Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169118,7 +169236,7 @@
     "squuid": "63e0fbc1-8d59-4580-a5ea-6caca7ff31f7",
     "name": "Funke Media Sales Thüringen GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T12:21:27.668Z",
+    "controlDate": "2025-10-27T11:35:12.517Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170929,7 +171047,7 @@
     "squuid": "5d302689-64bc-442c-9e81-035ecf488688",
     "name": "Freunde des Adlers GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T15:39:43.017Z",
+    "controlDate": "2025-10-27T08:08:54.271Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -171086,7 +171204,7 @@
     "squuid": "5d3026a6-513d-4806-af22-41994926142c",
     "name": "Freunde der Eintracht Frankfurt AG",
     "state": "active",
-    "controlDate": "2025-05-22T15:38:24.778Z",
+    "controlDate": "2025-10-27T08:08:04.738Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -176125,7 +176243,7 @@
     "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06",
     "name": "Funke Media Sales NRW GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T12:01:43.705Z",
+    "controlDate": "2025-10-27T11:35:57.114Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180771,7 +180889,7 @@
     "squuid": "637f9484-c75a-477b-adb9-967d30b559f3",
     "name": "Friesländer Bote Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T16:03:51.596Z",
+    "controlDate": "2025-10-27T08:25:24.270Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180785,7 +180903,7 @@
     "name": "Friesländer Bote GmbH & Co. KG ",
     "limitedPartnership": true,
     "squuid": "637f946d-ee99-4205-aaf9-66e0d032f89c",
-    "controlDate": "2025-05-22T16:04:38.837Z",
+    "controlDate": "2025-10-27T08:26:21.677Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -181543,7 +181661,7 @@
     "squuid": "5c5d6043-ab67-49ca-8a91-21c28160b7e0",
     "name": "Funke Publishing GmbH (vormals Funke Zentralredaktion GmbH) ",
     "state": "active",
-    "controlDate": "2025-05-23T14:38:15.552Z",
+    "controlDate": "2025-10-27T14:10:34.927Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181798,15 +181916,6 @@
         "held": {
           "squuid": "5be1a6b1-4b98-4cf7-8d0a-8768bf84a265",
           "name": "Bergedorfer Zeitung"
-        }
-      },
-      {
-        "squuid": "5c5d6531-baad-491d-a275-01c9c4bfa479",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-3b32-4d0f-85cd-0ee4d4d4be62",
-          "name": "Lauenburgische Landeszeitung"
         }
       },
       {
@@ -182383,15 +182492,6 @@
         "held": {
           "squuid": "63e4faff-bbb9-43d5-a595-29acbb3f125a",
           "name": "Weinheimer Nachrichten am Sonntag"
-        }
-      },
-      {
-        "squuid": "664714c4-cefb-415d-9383-136e086120cf",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "66471496-9661-4f6b-8491-7fe0f2062ec5",
-          "name": "www.lauenburgische-landeszeitung.de"
         }
       },
       {
@@ -182977,7 +183077,7 @@
     "squuid": "5d3073cd-f3cf-41fe-9cc5-455f58f59e69",
     "name": "FUNKE Österreich Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T15:01:47.838Z",
+    "controlDate": "2025-10-27T14:47:45.421Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184630,7 +184730,7 @@
     "squuid": "621ccea6-de20-4280-b3af-3e9ececf13d2",
     "name": "Freyenhagen Vermögensverwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T15:55:16.560Z",
+    "controlDate": "2025-10-27T08:16:28.936Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189983,7 +190083,7 @@
     "squuid": "63d1314c-2da8-4369-a357-e9bc5894af60",
     "name": "Funke Media Sales & Services Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:55:49.311Z",
+    "controlDate": "2025-10-27T11:23:59.125Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190159,7 +190259,7 @@
     "squuid": "63d13228-54a6-40c4-b3ea-2f1978a46efc",
     "name": "Funke Media Sales & Services Hamburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:58:36.183Z",
+    "controlDate": "2025-10-27T11:25:26.384Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193355,8 +193455,85 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+        "name": "brema",
+        "fullName": "Bremische Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+        "name": "MSA",
+        "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+        "name": "NLM",
+        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -193392,8 +193569,85 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+        "name": "brema",
+        "fullName": "Bremische Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+        "name": "MSA",
+        "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+        "name": "NLM",
+        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -194659,7 +194913,7 @@
     "squuid": "66605ad7-8b90-455c-b773-119a2b46688d",
     "name": "Funke Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T12:30:58.475Z",
+    "controlDate": "2025-10-27T12:03:50.915Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196562,7 +196816,7 @@
     "squuid": "61e560a4-792c-41af-8b63-2673ac7ce903",
     "name": "FVW Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T12:28:36.054Z",
+    "controlDate": "2025-10-27T16:48:15.525Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197637,7 +197891,7 @@
     "squuid": "5ff321ac-7209-4fb1-b3ab-c3ec0b850c96",
     "name": "Friede Springer gGmbH",
     "state": "active",
-    "controlDate": "2025-05-22T15:55:45.051Z",
+    "controlDate": "2025-10-27T08:18:24.990Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -210796,7 +211050,7 @@
     "squuid": "6274dd53-1042-4cc5-b19b-82c8cd02ba50",
     "name": "Funke One GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T14:26:18.509Z",
+    "controlDate": "2025-10-27T14:06:44.728Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -222135,7 +222389,7 @@
     "squuid": "5ce69f45-63d2-4b4b-89a9-4ff5f62268e7",
     "name": "Funkhaus Pfaffenhofen GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T12:04:11.180Z",
+    "controlDate": "2025-10-27T16:05:31.481Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -223691,7 +223945,7 @@
     "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3",
     "name": "Funke Digital GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:33:03.217Z",
+    "controlDate": "2025-10-27T10:00:28.067Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227684,7 +227938,7 @@
     "squuid": "5be1a6b6-4a27-4bec-add6-c8af4d2d9a1f",
     "name": "Fränkische Nachrichten Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T08:50:47.757Z",
+    "controlDate": "2025-10-27T09:08:44.135Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227924,7 +228178,7 @@
     "squuid": "5be1a6b6-53f8-4684-b1de-1947f404b78f",
     "name": "Gong Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T11:50:21.284Z",
+    "controlDate": "2025-10-27T14:40:20.052Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231976,105 +232230,14 @@
   {
     "squuid": "6093d9b9-fe17-4ffa-956c-cd26af79a1c1",
     "name": "Funke Thüringen Verlag GmbH",
-    "state": "active",
-    "controlDate": "2025-05-23T14:41:40.879Z",
+    "state": "archived",
+    "controlDate": "2025-10-27T14:11:12.652Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "6093d9d4-3b9e-4919-ba48-bd4b56eca112",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5cff8fe0-89c9-4678-8ea6-686935472e6c",
-          "name": "Mediengruppe Thüringen (MVM)"
-        }
-      },
-      {
-        "squuid": "6093dbf5-3dca-4397-9bef-05d8dc089f18",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-232a-427b-ac09-941b0cde95dc",
-          "name": "Thüringer Allgemeine"
-        }
-      },
-      {
-        "squuid": "6093dc7f-17dd-4d48-a5d0-d1c3d163276a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-2e65-44ce-8fff-bd79caf7ad80",
-          "name": "www.thueringer-allgemeine.de"
-        }
-      },
-      {
-        "squuid": "6093dfb9-030d-4b25-8cda-d888fd319a50",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-90b8-4e0d-820b-14dd888454bc",
-          "name": "TLZ Thüringische Landeszeitung"
-        }
-      },
-      {
-        "squuid": "6093dfd7-cf51-4b7d-9a42-bd3a93e27233",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-92c5-4d51-8dab-290dfbea3d65",
-          "name": "www.tlz.de"
-        }
-      },
-      {
-        "squuid": "6093e038-859f-433d-971b-288e459f6fdc",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-577e-4390-b41a-0fe3c50a807b",
-          "name": "TLZ Eichsfelder Tageblatt"
-        }
-      },
-      {
-        "squuid": "6093e057-0669-4f8b-826f-510b9658dde3",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6fb1-4b36-abaa-6d3f092c6635",
-          "name": "TLZ Eisenacher Presse"
-        }
-      },
-      {
-        "squuid": "6093e074-c7f2-4358-8859-92c84933129c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4263-4014-9d42-5010b8af2f23",
-          "name": "TLZ Gothaer Tagespost"
-        }
-      },
-      {
-        "squuid": "63ee2753-4f99-4e4e-9b98-4e968c5ae06e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63ee2725-492c-4557-9d07-ac0fe56b261a",
-          "name": "TA am Sonntag"
-        }
-      },
-      {
-        "squuid": "63ee2864-7949-4832-95af-9ff3df810929",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63ee283a-1e16-4637-ad52-0590f29e5990",
-          "name": "TLZ am Sonntag"
-        }
       }
     ]
   },
@@ -234160,7 +234323,7 @@
     "squuid": "6093dace-825a-4773-9685-4da57015a822",
     "name": "Funke Medien Thüringen GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T13:43:37.426Z",
+    "controlDate": "2025-10-27T13:09:20.516Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234176,6 +234339,96 @@
         "held": {
           "squuid": "6830930b-978f-45e6-8851-670eda049843",
           "name": "www.takt-magazin.de"
+        }
+      },
+      {
+        "squuid": "68ff7e6d-cbe1-4eab-be20-bfd3f921e6e2",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5cff8fe0-89c9-4678-8ea6-686935472e6c",
+          "name": "Mediengruppe Thüringen (MVM)"
+        }
+      },
+      {
+        "squuid": "68ff7ea9-18a8-4ae3-b049-adf567fc7c6e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63ee2725-492c-4557-9d07-ac0fe56b261a",
+          "name": "TA am Sonntag"
+        }
+      },
+      {
+        "squuid": "68ff7efb-04f8-445d-b76c-c077b0d5fabe",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-577e-4390-b41a-0fe3c50a807b",
+          "name": "TLZ Eichsfelder Tageblatt"
+        }
+      },
+      {
+        "squuid": "68ff7f22-5a6d-4d73-b267-282e1e61cc4e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6fb1-4b36-abaa-6d3f092c6635",
+          "name": "TLZ Eisenacher Presse"
+        }
+      },
+      {
+        "squuid": "68ff7f43-774c-4c28-9c85-23536f408356",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4263-4014-9d42-5010b8af2f23",
+          "name": "TLZ Gothaer Tagespost"
+        }
+      },
+      {
+        "squuid": "68ff7f64-4337-43f3-83a6-4ea28d2fd85b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-90b8-4e0d-820b-14dd888454bc",
+          "name": "TLZ Thüringische Landeszeitung"
+        }
+      },
+      {
+        "squuid": "68ff7f91-cd82-40af-9129-a7b79911155a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63ee283a-1e16-4637-ad52-0590f29e5990",
+          "name": "TLZ am Sonntag"
+        }
+      },
+      {
+        "squuid": "68ff7fbf-9def-4452-8082-f4551ad0b02a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-232a-427b-ac09-941b0cde95dc",
+          "name": "Thüringer Allgemeine"
+        }
+      },
+      {
+        "squuid": "68ff7ff9-72ca-4f6d-b45e-a089101eeccb",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-2e65-44ce-8fff-bd79caf7ad80",
+          "name": "www.thueringer-allgemeine.de"
+        }
+      },
+      {
+        "squuid": "68ff801a-3dad-4ab6-bd00-f728ea7c1d35",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-92c5-4d51-8dab-290dfbea3d65",
+          "name": "www.tlz.de"
         }
       }
     ]
@@ -235245,24 +235498,6 @@
     ],
     "operates": [
       {
-        "squuid": "5be1a6b9-19ff-4ce6-b97a-5492a2786c0e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-e628-493e-80e8-7cc912c013b0",
-          "name": "www.brigitte.de"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-95d9-4095-b742-8c716e53990e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-0bec-45ce-8bb1-35fcd777421e",
-          "name": "www.gala.de"
-        }
-      },
-      {
         "squuid": "5be1a6b9-f778-4293-bdd5-eabcddeb36ea",
         "type": "operate",
         "state": "active",
@@ -235278,24 +235513,6 @@
         "held": {
           "squuid": "5be1a6b1-6260-471c-9eb3-b4c7ce75c764",
           "name": "www.geolino.de"
-        }
-      },
-      {
-        "squuid": "5e21bac8-e68e-4287-af98-b5080b0681f9",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-af03-4aea-ab16-3f1e42fde187",
-          "name": "www.eltern.de"
-        }
-      },
-      {
-        "squuid": "5e2ac279-2b6a-43ae-9043-8f5ef0bc40b7",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5e9a-4c47-9333-406275c8b4bb",
-          "name": "www.urbia.de"
         }
       },
       {
@@ -235323,15 +235540,6 @@
         "held": {
           "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e",
           "name": "www.capital.de"
-        }
-      },
-      {
-        "squuid": "62ea4dd1-0f45-4a53-8fce-db4dc36fce88",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "62ea4db3-8b85-4c10-b45f-93ae9850cd11",
-          "name": "www.vorname.com"
         }
       },
       {
@@ -237090,7 +237298,7 @@
     "squuid": "5be1a6b6-c763-4ca3-85b3-0855878d6055",
     "name": "freundin Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T15:51:28.595Z",
+    "controlDate": "2025-10-27T08:14:01.279Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237464,7 +237672,7 @@
     "squuid": "5be1a6b6-eb02-4cfa-9a0d-4686605539d2",
     "name": "Funke Medien Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T12:26:28.477Z",
+    "controlDate": "2025-10-27T11:56:21.139Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245079,7 +245287,7 @@
     "squuid": "5be1a6b6-f3ae-464c-aceb-c2c79f90ca3b",
     "name": "Funke Medien Hamburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T12:33:45.666Z",
+    "controlDate": "2025-10-27T12:04:20.252Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245134,30 +245342,12 @@
         }
       },
       {
-        "squuid": "664714b9-25bc-473c-80b1-0a55c417cf71",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "66471496-9661-4f6b-8491-7fe0f2062ec5",
-          "name": "www.lauenburgische-landeszeitung.de"
-        }
-      },
-      {
         "squuid": "6706a756-d57e-486d-a5d5-e3b9f5268e8c",
         "type": "operate",
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-4b98-4cf7-8d0a-8768bf84a265",
           "name": "Bergedorfer Zeitung"
-        }
-      },
-      {
-        "squuid": "6706a77d-f679-4fd2-9fe0-ec2d83a0dc04",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-3b32-4d0f-85cd-0ee4d4d4be62",
-          "name": "Lauenburgische Landeszeitung"
         }
       }
     ]
@@ -245204,7 +245394,7 @@
     "squuid": "5be1a6b6-d1b5-4f08-9d05-0f6246e0fca2",
     "name": "Funke TV Guide GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T14:54:27.725Z",
+    "controlDate": "2025-10-27T14:30:08.555Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245501,7 +245691,7 @@
     "squuid": "5be1a6b6-e401-4d54-a358-f0e55ecc7a4d",
     "name": "Funke Life GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T11:44:50.619Z",
+    "controlDate": "2025-10-27T10:55:37.217Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263050,7 +263240,7 @@
     "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454",
     "name": "Funke OTZ Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T14:37:10.313Z",
+    "controlDate": "2025-10-27T14:08:07.417Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267457,7 +267647,7 @@
     "squuid": "5f919e94-9676-4009-8036-fc8fb920c5af",
     "name": "Funkhaus Straubing Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:31:22.146Z",
+    "controlDate": "2025-10-27T16:29:47.331Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -272337,14 +272527,85 @@
     "controlDate": "2019-06-12T09:54:51.199Z",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+        "name": "brema",
+        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+        "name": "MSA",
+        "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+        "name": "NLM",
+        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -276093,7 +276354,7 @@
     "squuid": "5f92ac1a-f936-4dd8-86ae-2ae256189db9",
     "name": "Funkhaus Coburg Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T15:31:08.838Z",
+    "controlDate": "2025-10-27T15:06:20.517Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284722,7 +284983,7 @@
     "squuid": "5be1a6b6-be2a-44db-a527-3a29b1889d4b",
     "name": "FSM Mediendienste GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T09:00:36.159Z",
+    "controlDate": "2025-10-27T09:29:55.977Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300989,7 +301250,7 @@
     "squuid": "5c51c7b5-01f4-4f98-9086-8968e1540cf6",
     "name": "fupa GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T12:26:46.383Z",
+    "controlDate": "2025-10-27T16:31:44.275Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301092,7 +301353,7 @@
     "squuid": "5f3bc86f-7a7a-4c01-a725-9c937c5452a4",
     "name": "G & G Medien Funkhaus GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T13:07:31.727Z",
+    "controlDate": "2025-10-27T17:04:49.930Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -303784,7 +304045,7 @@
     "squuid": "649568bf-f558-4880-b1e1-a02b3c58e55e",
     "name": "Fuldaer Actiendruckerei Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T09:05:17.228Z",
+    "controlDate": "2025-10-27T09:32:53.228Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307441,7 +307702,7 @@
     "squuid": "5f048bd4-6b74-4923-aa55-3ec757f48e58",
     "name": "Friesischer Rundfunk GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T16:02:07.234Z",
+    "controlDate": "2025-10-27T08:22:12.469Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307456,7 +307717,7 @@
         "state": "active",
         "held": {
           "squuid": "5f048b65-9b03-4e8d-9951-9fab3c54a240",
-          "name": "www.frf24.de"
+          "name": "www.frf1.de"
         }
       }
     ]
@@ -310972,7 +311233,7 @@
     "squuid": "5f3d3965-0b19-4b30-9eb6-40260a385d29",
     "name": "Friedrichshafener Lokalrundfunkverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-22T16:00:24.524Z",
+    "controlDate": "2025-10-27T08:20:36.551Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
