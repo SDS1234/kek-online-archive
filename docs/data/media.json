@@ -9305,7 +9305,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T13:01:03.561Z",
+    "controlDate": "2025-10-28T10:52:04.996Z",
     "state": "active"
   },
   {
@@ -12218,7 +12218,7 @@
     "name": "Hildesheimer Allgemeine Zeitung. Sarstedter Anzeiger",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T08:15:08.591Z",
+    "controlDate": "2025-10-28T12:03:26.076Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12258,7 +12258,7 @@
     "rfStatewide": false,
     "name": "epd Film",
     "type": "print",
-    "controlDate": "2025-05-26T09:05:18.524Z",
+    "controlDate": "2025-10-28T13:01:54.124Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12299,7 +12299,7 @@
     "rfStatewide": false,
     "name": "Der Gemeindebrief",
     "type": "print",
-    "controlDate": "2025-05-26T09:04:36.503Z",
+    "controlDate": "2025-10-28T13:01:10.225Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12323,7 +12323,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T09:07:03.820Z",
+    "controlDate": "2025-10-28T13:03:40.549Z",
     "state": "active"
   },
   {
@@ -12338,7 +12338,7 @@
     "rfStatewide": false,
     "name": "chrismon",
     "type": "print",
-    "controlDate": "2025-05-26T09:05:10.705Z",
+    "controlDate": "2025-10-28T13:01:45.700Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12386,7 +12386,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T09:05:46.331Z",
+    "controlDate": "2025-10-28T13:02:34.863Z",
     "state": "active"
   },
   {
@@ -13050,7 +13050,7 @@
     "rfStatewide": false,
     "name": "G.O.L.F. Time",
     "type": "print",
-    "controlDate": "2025-05-25T14:02:42.965Z",
+    "controlDate": "2025-10-28T11:07:04.621Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13074,7 +13074,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T14:02:48.470Z",
+    "controlDate": "2025-10-28T11:07:11.550Z",
     "state": "active"
   },
   {
@@ -26462,7 +26462,7 @@
     "name": "www.sarstedter-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T08:15:34.694Z",
+    "controlDate": "2025-10-28T12:03:45.366Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26486,7 +26486,7 @@
     "name": "www.gevestor.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:57:59.908Z",
+    "controlDate": "2025-10-28T16:08:48.709Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28960,7 +28960,7 @@
     "name": "www.geislinger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T08:27:32.463Z",
+    "controlDate": "2025-10-28T12:16:11.265Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38947,7 +38947,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "611b6ffe-9fe3-4902-9f6b-6fed3fd61031",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38957,7 +38957,7 @@
     "name": "Mein Ländle",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T09:50:48.348Z",
+    "controlDate": "2025-10-28T14:58:40.576Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40406,7 +40406,7 @@
     "name": "www.stern.de/neon",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-25T13:31:37.460Z",
+    "controlDate": "2025-10-28T10:54:11.351Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42323,7 +42323,7 @@
     "name": "Alblust",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T07:57:33.597Z",
+    "controlDate": "2025-10-28T11:51:14.626Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43493,7 +43493,7 @@
     "name": "www.motorvision.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:35:17.831Z",
+    "controlDate": "2025-10-28T15:24:45.621Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47608,7 +47608,7 @@
     "name": "www.deutschland-spielt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-25T14:11:07.571Z",
+    "controlDate": "2025-10-28T11:15:32.761Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79810,7 +79810,7 @@
     "rfStatewide": false,
     "name": "Gießener Anzeiger",
     "type": "print",
-    "controlDate": "2025-05-25T14:05:08.920Z",
+    "controlDate": "2025-10-28T11:10:08.337Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82638,7 +82638,7 @@
     "rfStatewide": false,
     "name": "Gandersheimer Kreisblatt",
     "type": "print",
-    "controlDate": "2025-05-25T14:14:50.604Z",
+    "controlDate": "2025-10-28T11:19:36.143Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82658,7 +82658,7 @@
     "rfStatewide": false,
     "name": "Hildesheimer Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2025-05-26T08:14:57.393Z",
+    "controlDate": "2025-10-28T12:03:14.021Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82717,7 +82717,7 @@
     "rfStatewide": false,
     "name": "Schifferstadter Tagblatt",
     "type": "print",
-    "controlDate": "2025-05-26T08:22:50.891Z",
+    "controlDate": "2025-10-28T12:11:50.642Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82737,7 +82737,7 @@
     "rfStatewide": false,
     "name": "Geislinger Zeitung",
     "type": "print",
-    "controlDate": "2025-05-26T08:26:31.238Z",
+    "controlDate": "2025-10-28T12:15:55.800Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83759,7 +83759,7 @@
     "name": "www.epd-medien.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:06:32.201Z",
+    "controlDate": "2025-10-28T13:02:59.728Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90627,7 +90627,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T10:12:40.506Z",
+    "controlDate": "2025-10-28T10:54:37.805Z",
     "state": "active"
   },
   {
@@ -91964,7 +91964,7 @@
     "name": "HAZ am Sonntag (Hildesheim)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T08:19:50.903Z",
+    "controlDate": "2025-10-28T12:02:59.360Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96617,7 +96617,7 @@
     "rfStatewide": false,
     "name": "General-Anzeiger (Bonn)",
     "type": "print",
-    "controlDate": "2025-05-26T09:12:36.757Z",
+    "controlDate": "2025-10-28T14:03:42.252Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96640,7 +96640,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T09:13:08.915Z",
+    "controlDate": "2025-10-28T14:05:18.485Z",
     "state": "active"
   },
   {
@@ -96919,7 +96919,7 @@
     "rfStatewide": false,
     "name": "Modelleisenbahner",
     "type": "print",
-    "controlDate": "2025-05-26T09:44:21.454Z",
+    "controlDate": "2025-10-28T14:39:10.968Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96985,7 +96985,7 @@
     "rfStatewide": false,
     "name": "MIBA",
     "type": "print",
-    "controlDate": "2025-05-26T09:43:53.936Z",
+    "controlDate": "2025-10-28T14:38:17.978Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97006,7 +97006,7 @@
     "rfStatewide": false,
     "name": "Eisenbahn-Romantik",
     "type": "print",
-    "controlDate": "2025-05-26T09:43:01.337Z",
+    "controlDate": "2025-10-28T14:36:58.299Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102967,7 +102967,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T09:29:50.688Z",
+    "controlDate": "2025-10-28T10:48:18.317Z",
     "state": "active"
   },
   {
@@ -103009,7 +103009,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T13:20:34.828Z",
+    "controlDate": "2025-10-28T10:49:22.113Z",
     "state": "active"
   },
   {
@@ -103027,7 +103027,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T13:18:24.610Z",
+    "controlDate": "2025-10-28T10:47:46.977Z",
     "state": "active"
   },
   {
@@ -103471,7 +103471,7 @@
     "name": "www.german-football-partners.de/fernsehen/gfl-tv/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:38:02.639Z",
+    "controlDate": "2025-10-28T15:25:19.992Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -103516,7 +103516,7 @@
     "rfStatewide": false,
     "name": "Auto classic",
     "type": "print",
-    "controlDate": "2025-05-26T09:41:33.085Z",
+    "controlDate": "2025-10-28T14:36:04.063Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103537,7 +103537,7 @@
     "rfStatewide": false,
     "name": "Militär & Geschichte",
     "type": "print",
-    "controlDate": "2025-05-26T09:44:11.655Z",
+    "controlDate": "2025-10-28T14:38:40.756Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103582,7 +103582,7 @@
     "rfStatewide": false,
     "name": "Flugzeug Classic",
     "type": "print",
-    "controlDate": "2025-05-26T09:43:18.485Z",
+    "controlDate": "2025-10-28T14:37:11.525Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103603,7 +103603,7 @@
     "rfStatewide": false,
     "name": "Modellfan",
     "type": "print",
-    "controlDate": "2025-05-26T09:44:40.026Z",
+    "controlDate": "2025-10-28T14:39:25.681Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103624,7 +103624,7 @@
     "rfStatewide": false,
     "name": "Clausewitz",
     "type": "print",
-    "controlDate": "2025-05-26T09:42:20.974Z",
+    "controlDate": "2025-10-28T14:36:33.316Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105877,7 +105877,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T13:30:57.262Z",
+    "controlDate": "2025-10-28T10:53:59.080Z",
     "state": "active"
   },
   {
@@ -106349,7 +106349,7 @@
     "name": "www.offiziellecharts.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T11:02:17.563Z",
+    "controlDate": "2025-10-28T16:12:29.089Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -111150,7 +111150,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T13:29:43.395Z",
+    "controlDate": "2025-10-28T10:52:55.770Z",
     "state": "active"
   },
   {
@@ -111168,7 +111168,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T13:30:27.368Z",
+    "controlDate": "2025-10-28T10:53:27.311Z",
     "state": "active"
   },
   {
@@ -112699,7 +112699,7 @@
     "rfStatewide": false,
     "name": "Couch",
     "type": "print",
-    "controlDate": "2025-05-25T13:18:11.001Z",
+    "controlDate": "2025-10-28T10:46:57.712Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113847,7 +113847,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T14:19:56.075Z",
+    "controlDate": "2025-10-28T11:24:43.709Z",
     "state": "active"
   },
   {
@@ -114146,7 +114146,7 @@
     "rfStatewide": false,
     "name": "Digitale Modellbahn",
     "type": "print",
-    "controlDate": "2025-05-26T09:42:41.474Z",
+    "controlDate": "2025-10-28T14:36:48.424Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114739,7 +114739,7 @@
     "rfStatewide": false,
     "name": "Schiff classic",
     "type": "print",
-    "controlDate": "2025-05-26T09:45:00.019Z",
+    "controlDate": "2025-10-28T14:39:59.736Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114798,7 +114798,7 @@
     "rfStatewide": false,
     "name": "Traktor classic",
     "type": "print",
-    "controlDate": "2025-05-26T09:45:15.722Z",
+    "controlDate": "2025-10-28T14:41:03.628Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114969,7 +114969,7 @@
     "rfStatewide": false,
     "name": "Bahn Extra",
     "type": "print",
-    "controlDate": "2025-05-26T09:42:12.448Z",
+    "controlDate": "2025-10-28T14:36:14.299Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115008,7 +115008,7 @@
     "rfStatewide": false,
     "name": "Straßenbahn Magazin",
     "type": "print",
-    "controlDate": "2025-05-26T09:45:08.190Z",
+    "controlDate": "2025-10-28T14:40:55.629Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115071,7 +115071,7 @@
     "rfStatewide": false,
     "name": "Lok Magazin",
     "type": "print",
-    "controlDate": "2025-05-26T09:43:43.524Z",
+    "controlDate": "2025-10-28T14:37:38.516Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115110,7 +115110,7 @@
     "rfStatewide": false,
     "name": "Eisenbahn Magazin",
     "type": "print",
-    "controlDate": "2025-05-26T09:50:30.392Z",
+    "controlDate": "2025-10-28T14:58:30.057Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115131,7 +115131,7 @@
     "rfStatewide": false,
     "name": "N-Bahn-Magazin",
     "type": "print",
-    "controlDate": "2025-05-26T09:44:49.671Z",
+    "controlDate": "2025-10-28T14:39:36.113Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115251,7 +115251,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T09:51:05.695Z",
+    "controlDate": "2025-10-28T14:58:59.568Z",
     "state": "active"
   },
   {
@@ -118756,7 +118756,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T14:05:22.355Z",
+    "controlDate": "2025-10-28T11:10:23.452Z",
     "state": "active"
   },
   {
@@ -118864,7 +118864,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T08:22:56.426Z",
+    "controlDate": "2025-10-28T12:12:36.935Z",
     "state": "active"
   },
   {
@@ -120463,7 +120463,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T08:15:24.015Z",
+    "controlDate": "2025-10-28T12:03:36.906Z",
     "state": "active"
   },
   {
@@ -120579,7 +120579,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-25T14:15:03.734Z",
+    "controlDate": "2025-10-28T11:19:48.718Z",
     "state": "active"
   },
   {
@@ -128528,7 +128528,7 @@
     "name": "www.healthtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:38:58.392Z",
+    "controlDate": "2025-10-28T15:27:06.357Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128672,7 +128672,7 @@
     "name": "www.epd.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:06:45.713Z",
+    "controlDate": "2025-10-28T13:03:29.459Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128833,7 +128833,7 @@
     "name": "www.rundfunk.evangelisch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:08:00.230Z",
+    "controlDate": "2025-10-28T13:04:48.092Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128962,7 +128962,7 @@
     "name": "www.epd-film.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:06:19.289Z",
+    "controlDate": "2025-10-28T13:02:50.694Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129188,7 +129188,7 @@
     "name": "www.gemeindebrief.evangelisch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:07:22.772Z",
+    "controlDate": "2025-10-28T13:03:51.035Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129967,10 +129967,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.eisenbahnwelt.de",
+    "name": "www.eisenbahn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:50:56.937Z",
+    "controlDate": "2025-10-28T14:58:51.014Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136132,7 +136132,7 @@
     "name": "www.religionen-entdecken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:07:51.266Z",
+    "controlDate": "2025-10-28T13:04:36.016Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138599,7 +138599,7 @@
     "name": "www.gesund.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:53:18.571Z",
+    "controlDate": "2025-10-28T15:51:30.267Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147846,7 +147846,7 @@
     "name": "www.swp-wochenblatt.weekli.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T10:40:20.966Z",
+    "controlDate": "2025-10-28T12:25:24.480Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148307,7 +148307,7 @@
     "name": "www.radio-bamberg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-04-24T10:23:52.206Z",
+    "controlDate": "2025-10-28T15:38:08.099Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150542,7 +150542,7 @@
     "name": "www.of-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T10:40:56.097Z",
+    "controlDate": "2025-10-28T15:31:40.788Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152573,7 +152573,7 @@
     "name": "www.alblust.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T07:57:42.517Z",
+    "controlDate": "2025-10-28T11:51:20.896Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154019,7 +154019,7 @@
     "name": "General-Anzeiger journal",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T09:12:50.551Z",
+    "controlDate": "2025-10-28T14:05:10.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155079,7 +155079,7 @@
     "name": "www.genius.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T09:24:16.049Z",
+    "controlDate": "2025-10-28T14:15:29.423Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
