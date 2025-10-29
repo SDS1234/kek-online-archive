@@ -1530,8 +1530,8 @@ digraph {
     label="A. Hellendoorn GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=3.0000
-    num_medias=71
-    num_medias_weighted=1.7203
+    num_medias=70
+    num_medias_weighted=1.3873
     name="5be1a6b6-4b6a-4e98-b7be-08aef74cbd1f"
     in_degree=4
     out_degree=2
@@ -5634,7 +5634,7 @@ digraph {
     label="Anderweit, Jochen"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
+    num_medias=70
     num_medias_weighted=0.0000
     name="5ecbcbf1-e337-44fa-939e-78732e80f0ec"
     in_degree=0
@@ -7746,8 +7746,8 @@ digraph {
     label="Aschmann-Kip, Susanne"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=1.1485
+    num_medias=70
+    num_medias_weighted=0.9262
     name="5be1a6b6-fb79-4300-a46d-70153bbb3f72"
     in_degree=0
     out_degree=1
@@ -11766,8 +11766,8 @@ digraph {
     label="Bauer, Prof. Dr. Werner"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-74b7-4360-83bc-f6d4fecbcb5d"
     in_degree=0
     out_degree=1
@@ -14322,8 +14322,8 @@ digraph {
     label="Bertelsmann Capital Holding GmbH"
     num_owners=13
     num_owners_weighted=5.2640
-    num_medias=203
-    num_medias_weighted=68.3627
+    num_medias=201
+    num_medias_weighted=66.8414
     name="5be1a6b6-a85b-4085-9d44-305f43201b7d"
     in_degree=1
     out_degree=1
@@ -14334,7 +14334,7 @@ digraph {
     label="Bertelsmann Management SE"
     num_owners=9
     num_owners_weighted=9.0000
-    num_medias=230
+    num_medias=228
     num_medias_weighted=0.0000
     name="5f070afd-5070-4eb7-beee-4b9bc2c46eb8"
     in_degree=1
@@ -14346,8 +14346,8 @@ digraph {
     label="Bertelsmann SE & Co. KGaA"
     num_owners=12
     num_owners_weighted=4.2640
-    num_medias=230
-    num_medias_weighted=72.1162
+    num_medias=228
+    num_medias_weighted=70.5949
     name="5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76"
     in_degree=4
     out_degree=4
@@ -14358,8 +14358,8 @@ digraph {
     label="Bertelsmann Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=55.9622
+    num_medias=228
+    num_medias_weighted=54.7816
     name="5be1a6b6-bf36-4505-83b4-823c842c8df3"
     in_degree=0
     out_degree=1
@@ -14370,8 +14370,8 @@ digraph {
     label="Bertelsmann Verwaltungsgesellschaft mbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=230
-    num_medias_weighted=2.3798
+    num_medias=228
+    num_medias_weighted=2.3296
     name="5be1a6b6-d5e7-4704-b7d7-fc44101813c3"
     in_degree=8
     out_degree=2
@@ -20010,8 +20010,8 @@ digraph {
     label="Brouwer, Michaela"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.5744
+    num_medias=70
+    num_medias_weighted=0.4632
     name="5be1a6b6-3261-42b7-926e-856c52595ce0"
     in_degree=0
     out_degree=1
@@ -20430,8 +20430,8 @@ digraph {
     label="Buberl, Dr. Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-2e77-4098-a200-baa0e526fbfd"
     in_degree=0
     out_degree=1
@@ -21810,8 +21810,8 @@ digraph {
     label="BVG Familienstiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=1.1899
+    num_medias=228
+    num_medias_weighted=1.1648
     name="65254565-7c66-4b64-a3f6-230a39ffa25a"
     in_degree=0
     out_degree=1
@@ -21822,8 +21822,8 @@ digraph {
     label="BVG Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.6188
+    num_medias=228
+    num_medias_weighted=0.6057
     name="5be1a6b6-69e7-4f06-b067-2d61a6d42a28"
     in_degree=0
     out_degree=1
@@ -25146,8 +25146,8 @@ digraph {
     label="CLT-UFA S.A."
     num_owners=19
     num_owners_weighted=9.9929
-    num_medias=203
-    num_medias_weighted=89.8724
+    num_medias=201
+    num_medias_weighted=87.8724
     name="5be1a6b6-f5bf-477e-81eb-7e13fe0744b1"
     in_degree=2
     out_degree=3
@@ -38682,8 +38682,8 @@ digraph {
     label="Eigenbesitz der RTL Group S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=203
-    num_medias_weighted=0.6811
+    num_medias=201
+    num_medias_weighted=0.6660
     name="5be1a6b6-d50b-4fcf-807c-4af90e264d41"
     in_degree=0
     out_degree=1
@@ -44706,8 +44706,8 @@ digraph {
     label="Familie Mohn"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=13.7742
+    num_medias=228
+    num_medias_weighted=13.4836
     name="5be1a6b6-1245-4680-afa1-9b4de5d743e8"
     in_degree=0
     out_degree=1
@@ -55890,7 +55890,7 @@ digraph {
     label="GN Holding GmbH & Co KG"
     num_owners=14
     num_owners_weighted=8.3340
-    num_medias=71
+    num_medias=70
     num_medias_weighted=0.0000
     name="5be1a6b6-db48-4fae-beae-6550991fa8ca"
     in_degree=3
@@ -56574,11 +56574,11 @@ digraph {
     label="Grafschafter Nachrichten GmbH"
     num_owners=14
     num_owners_weighted=9.3340
-    num_medias=5
-    num_medias_weighted=5.0000
+    num_medias=4
+    num_medias_weighted=4.0000
     name="605b1172-11ac-421d-8b18-0e3d3f823beb"
     in_degree=1
-    out_degree=5
+    out_degree=4
   ];
   4715 [
     type=shareholder
@@ -56586,7 +56586,7 @@ digraph {
     label="Grafschafter Nachrichten Verwaltungs- und Beteiligungs-GmbH"
     num_owners=14
     num_owners_weighted=9.3340
-    num_medias=71
+    num_medias=70
     num_medias_weighted=0.0000
     name="5ecbcaf1-6c34-4fdf-af62-1f5f25bc843d"
     in_degree=1
@@ -56764,8 +56764,8 @@ digraph {
     type=shareholder
     state=active
     label="Gregor Stemmle Verwaltungsgesellschaft mbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=9
     num_medias_weighted=0.0000
     name="68764451-63f3-41ee-9d9d-be277bfa05d1"
@@ -57390,11 +57390,11 @@ digraph {
     label="Gruner + Jahr Deutschland GmbH"
     num_owners=23
     num_owners_weighted=13.9929
-    num_medias=24
-    num_medias_weighted=22.0182
+    num_medias=22
+    num_medias_weighted=20.0182
     name="61dd83e4-35a5-4db5-b2e9-a7ffb22f26fc"
     in_degree=1
-    out_degree=17
+    out_degree=14
   ];
   4783 [
     type=shareholder
@@ -58078,7 +58078,7 @@ digraph {
     num_medias_weighted=0.0000
     name="5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
     in_degree=2
-    out_degree=17
+    out_degree=18
   ];
   4840 [
     type=shareholder
@@ -62178,8 +62178,8 @@ digraph {
     label="Heinr. Kip GmbH & Co KG"
     num_owners=7
     num_owners_weighted=6.0000
-    num_medias=71
-    num_medias_weighted=3.4458
+    num_medias=70
+    num_medias_weighted=2.7788
     name="5be1a6b6-2104-420c-86af-351f3b8f4b0d"
     in_degree=6
     out_degree=2
@@ -62682,7 +62682,7 @@ digraph {
     label="Hellendoorn Verwaltungs-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=71
+    num_medias=70
     num_medias_weighted=0.0000
     name="605b0e23-76ef-4b04-86e0-5f27a90a2f99"
     in_degree=1
@@ -62694,8 +62694,8 @@ digraph {
     label="Hellendoorn, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.5734
+    num_medias=70
+    num_medias_weighted=0.4624
     name="5ecbcd9b-fb9f-461d-802a-7bdefaf3d2eb"
     in_degree=0
     out_degree=1
@@ -62718,8 +62718,8 @@ digraph {
     label="Hellendoorn-Werths, Uta"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.5734
+    num_medias=70
+    num_medias_weighted=0.4624
     name="5be1a6b6-06fc-41e2-8d5a-afc6ffd962ee"
     in_degree=0
     out_degree=1
@@ -75162,7 +75162,7 @@ digraph {
     label="Kip Geschäftsführungs-GmbH"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=71
+    num_medias=70
     num_medias_weighted=0.0000
     name="5ecbcc00-71ab-40b1-9693-040141b9c8ec"
     in_degree=1
@@ -95694,8 +95694,8 @@ digraph {
     label="Mohn, Christoph"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-b02b-4e3c-93fc-8cddd1a3d16e"
     in_degree=0
     out_degree=1
@@ -95706,8 +95706,8 @@ digraph {
     label="Mohn, Dr. Brigitte"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-707c-4a47-8736-5678b37c8407"
     in_degree=0
     out_degree=1
@@ -95718,8 +95718,8 @@ digraph {
     label="Mohn, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-8ddb-4101-bd5b-007be842c305"
     in_degree=0
     out_degree=1
@@ -98733,7 +98733,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.5000
     name="5c9a2dee-b94e-44e5-908a-e4b207c27a01"
-    in_degree=4
+    in_degree=5
     out_degree=1
   ];
   8228 [
@@ -125670,8 +125670,8 @@ digraph {
     label="RTL Deutschland GmbH"
     num_owners=22
     num_owners_weighted=12.9929
-    num_medias=70
-    num_medias_weighted=65.6872
+    num_medias=68
+    num_medias_weighted=63.6872
     name="5be1a6b6-6bb3-4d6e-97ab-81d991235520"
     in_degree=1
     out_degree=2
@@ -125706,8 +125706,8 @@ digraph {
     label="RTL Group GmbH"
     num_owners=20
     num_owners_weighted=10.9929
-    num_medias=201
-    num_medias_weighted=87.8724
+    num_medias=199
+    num_medias_weighted=85.8724
     name="5be1a6b6-8121-4304-890e-61c94a6f08d0"
     in_degree=1
     out_degree=2
@@ -125718,8 +125718,8 @@ digraph {
     label="RTL Group S.A."
     num_owners=17
     num_owners_weighted=8.0154
-    num_medias=203
-    num_medias_weighted=89.6208
+    num_medias=201
+    num_medias_weighted=87.6264
     name="5be1a6b6-7474-4c9a-a706-95e39a65b236"
     in_degree=4
     out_degree=2
@@ -132585,7 +132585,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.8420
     name="68f22160-a307-415b-a32c-1822368b11ad"
-    in_degree=1
+    in_degree=2
     out_degree=1
   ];
   11049 [
@@ -132606,11 +132606,11 @@ digraph {
     label="Schwarz, Dieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.8412
     name="68f8c9ba-4d6b-4f50-8d50-1188b9f2a446"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11051 [
     type=shareholder
@@ -134514,8 +134514,8 @@ digraph {
     label="Seelbach, Dr. Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.5744
+    num_medias=70
+    num_medias_weighted=0.4632
     name="5be1a6b6-8a97-4178-9d35-4dba3be139de"
     in_degree=0
     out_degree=1
@@ -136242,8 +136242,8 @@ digraph {
     label="Silchester International Investors LLP"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=205
-    num_medias_weighted=4.4936
+    num_medias=203
+    num_medias_weighted=4.3937
     name="5f69bc5d-b011-4f36-9f27-1dd656420f87"
     in_degree=0
     out_degree=2
@@ -144390,8 +144390,8 @@ digraph {
     label="Streubesitz an der CLT-UFA S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=203
-    num_medias_weighted=0.2516
+    num_medias=201
+    num_medias_weighted=0.2460
     name="5be1a6b6-bb31-455d-8886-58a46c187534"
     in_degree=0
     out_degree=1
@@ -145098,8 +145098,8 @@ digraph {
     label="Streubesitz an der RTL Group S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=203
-    num_medias_weighted=16.0869
+    num_medias=201
+    num_medias_weighted=15.7289
     name="5be1a6b6-feae-4ddc-a9cf-693499ffac4b"
     in_degree=0
     out_degree=1
@@ -154374,8 +154374,8 @@ digraph {
     label="Uebber, Bodo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=230
-    num_medias_weighted=0.0952
+    num_medias=228
+    num_medias_weighted=0.0932
     name="5be1a6b6-adf6-46b8-902a-e8d6c4ef8318"
     in_degree=0
     out_degree=1
@@ -154398,8 +154398,8 @@ digraph {
     label="UFA Film und Fernseh GmbH"
     num_owners=21
     num_owners_weighted=11.9929
-    num_medias=201
-    num_medias_weighted=87.8724
+    num_medias=199
+    num_medias_weighted=85.8724
     name="5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41"
     in_degree=1
     out_degree=3
@@ -158414,14 +158414,14 @@ digraph {
   ];
   13201 [
     type=print
-    state=active
+    state=archived
     label=View
-    num_owners=24
-    num_owners_weighted=14.9929
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7db3-4043-a3c4-ff9fba048648"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   13202 [
@@ -159702,8 +159702,8 @@ digraph {
     label="von Christen, Marianne"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=1.1485
+    num_medias=70
+    num_medias_weighted=0.9262
     name="5be1a6b6-f475-4baf-b568-658361a70cb0"
     in_degree=0
     out_degree=1
@@ -160206,8 +160206,8 @@ digraph {
     label="vor der Straße, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.5734
+    num_medias=70
+    num_medias_weighted=0.4624
     name="605b0f2a-13cc-4ec2-946b-783f6352a135"
     in_degree=0
     out_degree=1
@@ -170534,14 +170534,14 @@ digraph {
   ];
   14211 [
     type=online
-    state=active
+    state=archived
     label="www.art-magazin.de"
-    num_owners=24
-    num_owners_weighted=14.9929
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="66631b13-14d5-452e-a1ee-1fc6bc6155a4"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14212 [
@@ -173745,7 +173745,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4f39-4517-8037-b63b8e24d57e"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   14479 [
@@ -181142,14 +181142,14 @@ digraph {
   ];
   15095 [
     type=online
-    state=active
+    state=archived
     label="www.gn-mediengruppe.de/sonntagszeitung"
-    num_owners=15
-    num_owners_weighted=10.3340
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e27593-31ac-4088-92d2-db8f72660b95"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   15096 [
@@ -230269,10 +230269,6 @@ digraph {
     weight=100
     type=operates
   ];
-  4714 -> 15095 [
-    weight=100
-    type=operates
-  ];
   4714 -> 15097 [
     weight=100
     type=operates
@@ -230549,23 +230545,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4782 -> 13201 [
-    weight=100
-    type=operates
-  ];
   4782 -> 11909 [
     weight=100
     type=operates
   ];
   4782 -> 11910 [
-    weight=100
-    type=operates
-  ];
-  4782 -> 14211 [
-    weight=100
-    type=operates
-  ];
-  4782 -> 14478 [
     weight=100
     type=operates
   ];
@@ -230790,6 +230774,10 @@ digraph {
     type=owns
   ];
   4839 -> 8226 [
+    weight=1
+    type=owns
+  ];
+  4839 -> 8227 [
     weight=1
     type=owns
   ];
@@ -259939,6 +259927,10 @@ digraph {
   ];
   11049 -> 6150 [
     weight=51
+    type=owns
+  ];
+  11050 -> 11048 [
+    weight=99.9
     type=owns
   ];
   11051 -> 10369 [
