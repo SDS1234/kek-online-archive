@@ -91,7 +91,7 @@
     "squuid": "644a3c8a-21b2-44f0-9a65-c13aafe989f0",
     "name": "HCH GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:53:27.926Z",
+    "controlDate": "2025-10-30T12:38:36.599Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -6055,7 +6055,7 @@
     "squuid": "5f8d7f04-d803-40b1-84e2-394641abaefc",
     "name": "Helmut Weber Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:40:51.602Z",
+    "controlDate": "2025-10-30T09:43:30.241Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7489,7 +7489,7 @@
     "name": "Haufe-Lexware GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5d319d4d-907f-43ca-9d4e-609f2bf047d6",
-    "controlDate": "2025-05-27T10:18:26.772Z",
+    "controlDate": "2025-10-30T12:06:57.350Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -9477,7 +9477,7 @@
     "squuid": "5d319f5a-e1d3-4f58-9a81-a42bb71516e1",
     "name": "Haufe Group SE",
     "state": "active",
-    "controlDate": "2025-05-27T10:16:41.857Z",
+    "controlDate": "2025-10-30T12:04:29.840Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11086,7 +11086,7 @@
     "name": "Hearst Networks Germany GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-691a-4719-a645-ba81919e7449",
-    "controlDate": "2025-06-27T09:06:03.482Z",
+    "controlDate": "2025-10-30T12:52:14.259Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11221,7 +11221,7 @@
     "squuid": "5be1a6b6-6144-45f6-bc05-b9fe666ba0dc",
     "name": "Hearst Communications, Inc.",
     "state": "active",
-    "controlDate": "2025-05-27T11:01:30.428Z",
+    "controlDate": "2025-10-30T12:47:37.101Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -22624,7 +22624,7 @@
     "squuid": "5be1a6b6-4f61-418f-9ce9-6dc269e05d51",
     "name": "HAAS Lokal-Regionalfunk GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:32:06.598Z",
+    "controlDate": "2025-10-30T09:46:22.234Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26931,7 +26931,7 @@
     "squuid": "5be1a6b6-f62c-4b11-ac45-b9fab6580c3a",
     "name": "Handelsblatt GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:18:14.311Z",
+    "controlDate": "2025-10-30T11:32:05.629Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -63076,7 +63076,7 @@
     "squuid": "5e6235e3-af5f-45eb-a497-37177c6f8c3c",
     "name": "Happy Story GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:04:30.674Z",
+    "controlDate": "2025-10-30T11:49:06.101Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -63085,15 +63085,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "5e623654-d34a-45d3-9748-695e79677573",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5e6235fc-1165-404f-a381-29100f86b256",
-          "name": "www.fribbla.de"
-        }
-      },
       {
         "squuid": "639b44e4-51bb-4454-8902-db332b655401",
         "type": "operate",
@@ -72665,7 +72656,7 @@
     "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e",
     "name": "Hearst Holding, Inc.",
     "state": "active",
-    "controlDate": "2025-05-27T11:01:40.428Z",
+    "controlDate": "2025-10-30T12:47:51.213Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -72689,7 +72680,7 @@
     "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6",
     "name": "Hearst LT, Inc.",
     "state": "active",
-    "controlDate": "2025-05-27T11:01:52.052Z",
+    "controlDate": "2025-10-30T12:49:48.700Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -81113,7 +81104,7 @@
     "squuid": "5be1a6b6-c822-4c39-b59a-d10c1fd9268d",
     "name": "Handelsblatt Media Group GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-27T09:18:19.691Z",
+    "controlDate": "2025-10-30T11:34:03.827Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -82172,7 +82163,7 @@
     "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d",
     "name": "Hackmack, Meyer KG",
     "state": "active",
-    "controlDate": "2025-05-26T14:38:34.967Z",
+    "controlDate": "2025-10-30T09:52:59.018Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -84437,7 +84428,7 @@
     "squuid": "5be1a6b6-74c0-4578-9c26-b2c91711672a",
     "name": "Haller Kreisblatt Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:43:45.606Z",
+    "controlDate": "2025-10-30T10:01:42.483Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -86611,7 +86602,7 @@
     "squuid": "5be1a6b6-fc31-451e-8c8e-19a672dd07b6",
     "name": "Happy Ending Holding B.V.",
     "state": "active",
-    "controlDate": "2025-05-27T10:03:01.617Z",
+    "controlDate": "2025-10-30T11:46:04.747Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -95576,7 +95567,7 @@
     "squuid": "5be1a6b6-cc4a-4668-bdf1-7ca63bb4815b",
     "name": "Hanseatische Verlags-Beteiligungs AG",
     "state": "active",
-    "controlDate": "2025-05-27T09:42:59.920Z",
+    "controlDate": "2025-10-30T11:40:33.474Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -103941,69 +103932,15 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       },
       {
-        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-        "name": "MMV",
-        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
         "name": "MA HSH",
         "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-        "name": "MSA",
-        "fullName": "Medienanstalt Sachsen-Anhalt",
         "type": "organization"
       },
       {
@@ -129289,7 +129226,7 @@
     "squuid": "5be1a6b6-5bf9-4e05-8593-c05455dad5de",
     "name": "Haymarket Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:49:31.420Z",
+    "controlDate": "2025-10-30T12:31:50.087Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -130499,7 +130436,7 @@
     "squuid": "5be1a6b6-f17f-41a0-aeb0-97caf9d6b15b",
     "name": "Hammling Hotz-Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-27T09:03:38.119Z",
+    "controlDate": "2025-10-30T11:26:26.176Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -132128,7 +132065,7 @@
     "name": "H. Risius GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8d79-401b-975b-320626692ad3",
-    "controlDate": "2025-05-26T14:23:12.480Z",
+    "controlDate": "2025-10-30T09:37:50.548Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -138983,7 +138920,7 @@
     "squuid": "5be1a6b6-d2c4-4d39-a353-f6df09fdf92d",
     "name": "Hagener Versorgungs- und Verkehrsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:42:30.597Z",
+    "controlDate": "2025-10-30T10:00:46.336Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145587,7 +145524,7 @@
     "squuid": "680a5254-a0c8-4225-9981-b35f5f4915ac",
     "name": "Harris Associates L.P.",
     "state": "active",
-    "controlDate": "2025-05-08T09:06:54.836Z",
+    "controlDate": "2025-10-30T11:59:49.064Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -146940,7 +146877,7 @@
     "name": "Hanauer Anzeiger GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-817b-409a-84f5-03ce0f87fabf",
-    "controlDate": "2025-05-27T09:06:43.901Z",
+    "controlDate": "2025-10-30T11:28:36.416Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148623,7 +148560,7 @@
     "squuid": "5be1a6b6-a309-4585-b5b2-491d732594db",
     "name": "HAESWE GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:40:46.084Z",
+    "controlDate": "2025-10-30T09:58:49.097Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152101,7 +152038,7 @@
     "name": "Hallo-Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63da65c8-14e0-4aa4-931a-b72070fedb21",
-    "controlDate": "2025-05-27T08:46:45.718Z",
+    "controlDate": "2025-10-30T10:07:39.498Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152125,7 +152062,7 @@
     "squuid": "63da65e4-7454-4c76-bed0-2f0d7dd1a543",
     "name": "Hallo-Verlag Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T08:45:23.782Z",
+    "controlDate": "2025-10-30T10:05:59.645Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153340,7 +153277,7 @@
     "name": "Haaner Treff Verlagsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "66449ffd-8407-4916-915e-2bb95ca4c0fa",
-    "controlDate": "2025-05-26T14:30:01.028Z",
+    "controlDate": "2025-10-30T09:43:59.583Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153409,7 +153346,7 @@
     "squuid": "6644a023-dd37-44bc-a871-96372d87a0de",
     "name": "Haaner Treff Verlag-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:29:54.724Z",
+    "controlDate": "2025-10-30T09:43:49.594Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157046,7 +156983,7 @@
     "squuid": "5eb95c10-07ce-4047-8740-6c77f51f896c",
     "name": "Harburger Zeitungsverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:10:40.263Z",
+    "controlDate": "2025-10-30T11:56:17.349Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158419,7 +158356,7 @@
     "squuid": "5ede4069-3368-4ad9-8697-168a5b9b9f42",
     "name": "Hansisches Verlagskontor GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:02:01.275Z",
+    "controlDate": "2025-10-30T11:45:25.339Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163970,7 +163907,7 @@
     "squuid": "5d398b36-ed2f-43ab-84a3-00f5df417659",
     "name": "HATEC GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:14:10.276Z",
+    "controlDate": "2025-10-30T12:00:20.823Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164426,19 +164363,14 @@
   {
     "squuid": "5c9a2dee-b94e-44e5-908a-e4b207c27a01",
     "name": "Münchener Zeitungs-Verlag GmbH & Co. KG",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-06-13T12:07:19.268Z",
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -168430,7 +168362,7 @@
     "squuid": "62052e23-0e53-4918-bc6c-10542cccb41d",
     "name": "Hannover.de Internet GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:26:18.884Z",
+    "controlDate": "2025-10-30T11:37:59.336Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170204,7 +170136,7 @@
     "squuid": "5efdbdcf-cde4-464f-9f82-305b01ace598",
     "name": "Hamburg 1 Fernsehen Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T08:47:35.957Z",
+    "controlDate": "2025-10-30T10:08:40.415Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172024,7 +171956,7 @@
     "squuid": "63e11ed6-cf09-458f-b88a-a1ac8bbfab26",
     "name": "Haas Medienbeteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:33:46.441Z",
+    "controlDate": "2025-10-30T09:49:32.843Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183367,7 +183299,7 @@
     "squuid": "5ebd4c7f-1c12-4182-8c0c-be8f2f5989ff",
     "name": "Handelsblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:18:28.528Z",
+    "controlDate": "2025-10-30T11:33:55.536Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -185709,7 +185641,7 @@
     "squuid": "5caf5bcf-0aa5-427b-90fe-a4413c31b5ea",
     "name": "Happy Sound Rundfunk- und Werbe GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:03:22.812Z",
+    "controlDate": "2025-10-30T11:47:55.570Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204424,7 +204356,7 @@
     "squuid": "5efb38aa-e8f4-4dfa-aea9-1f67b61e1ddc",
     "name": "Haufe-Lexware Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:18:12.581Z",
+    "controlDate": "2025-10-30T12:06:08.636Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204897,7 +204829,7 @@
     "squuid": "5efb3c6c-c8c1-4dca-b166-7bf4bc58a645",
     "name": "Haufe Vermögenswaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:14:46.528Z",
+    "controlDate": "2025-10-30T12:04:44.979Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205578,7 +205510,7 @@
     "squuid": "5efb416b-05ec-49ba-99f9-255697ea4d3b",
     "name": "Headline24 Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:54:20.254Z",
+    "controlDate": "2025-10-30T12:41:09.078Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -208514,9 +208446,38 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
     ]
@@ -209518,7 +209479,7 @@
     "squuid": "5f7c7f34-76bb-4d4d-b5da-09027dd12cc4",
     "name": "H. Weber GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-26T14:28:54.521Z",
+    "controlDate": "2025-10-30T09:43:18.106Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -211996,7 +211957,7 @@
     "squuid": "5be1a6b6-ff3f-4cfc-b7a0-9e1c5b36c0fd",
     "name": "Haring & Höhne GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:12:14.791Z",
+    "controlDate": "2025-10-30T11:58:42.356Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216279,7 +216240,7 @@
     "squuid": "5eafff06-21a8-4f76-89f1-01d6286528db",
     "name": "HB GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:50:29.691Z",
+    "controlDate": "2025-10-30T12:33:55.414Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -216419,6 +216380,19 @@
     ]
   },
   {
+    "squuid": "690335ad-9333-41a8-ada8-e79f1204bf80",
+    "name": "Laskowski, Jörg",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-4e15-4ec3-b644-a4c2ca113e4b",
     "name": "Telefonbuchverlag Sachsen GmbH & Co. KG",
     "state": "active",
@@ -216483,6 +216457,19 @@
         "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
         "name": "MSA",
         "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690335d4-67ac-4052-9ea9-7c611adac808",
+    "name": "Marzen, Stephan",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -244315,7 +244302,7 @@
     "squuid": "5be1a6b6-8d48-4bf1-b54b-b9f8e1bbe4aa",
     "name": "Haas Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:32:23.829Z",
+    "controlDate": "2025-10-30T09:47:43.496Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247436,7 +247423,7 @@
     "squuid": "5be1a6b6-7479-416b-85e7-29d855e94223",
     "name": "Handballwoche GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:15:15.338Z",
+    "controlDate": "2025-10-30T11:29:50.733Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250836,7 +250823,7 @@
     "name": "hamburg.de GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-b1ab-4d6a-ad3e-661836371f0c",
-    "controlDate": "2025-05-27T08:54:03.997Z",
+    "controlDate": "2025-10-30T11:23:02.653Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251476,7 +251463,7 @@
     "squuid": "5fbd204d-75ab-4b1e-8df1-c1b1013a2e0a",
     "name": "Hamburger Adressbuch-Verlag Dumrath & Fassnacht GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:02:19.161Z",
+    "controlDate": "2025-10-30T11:26:00.944Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -254859,7 +254846,7 @@
     "squuid": "5be1a6b6-8f92-48e9-88e7-9719d4fbec16",
     "name": "Haus & Grund Bayern Verlag und Service GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:45:48.866Z",
+    "controlDate": "2025-10-30T12:26:41.549Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263701,7 +263688,7 @@
     "squuid": "5be1a6b6-bffe-4700-965e-7c62c944de69",
     "name": "Haas Venture GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T14:35:40.251Z",
+    "controlDate": "2025-10-30T09:51:24.177Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -272945,7 +272932,7 @@
     "name": "Headline24 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5c519127-37f9-4a1d-9827-6371752cd2d7",
-    "controlDate": "2025-05-27T10:55:04.162Z",
+    "controlDate": "2025-10-30T12:41:59.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288248,26 +288235,9 @@
     "controlDate": "2019-06-27T10:39:09.888Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -290141,7 +290111,7 @@
     "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8",
     "name": "Hearst Networks Holding, Inc.",
     "state": "active",
-    "controlDate": "2025-04-15T10:05:41.310Z",
+    "controlDate": "2025-10-30T12:54:48.600Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -293614,7 +293584,7 @@
     "squuid": "5be1a6b6-9959-4fbb-b5e2-a00480f28916",
     "name": "Haus & Grund Deutschland Verlag und Service GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:46:48.801Z",
+    "controlDate": "2025-10-30T12:27:48.241Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -297054,7 +297024,7 @@
     "squuid": "5be1a6b6-c3b2-4d87-a4a4-2b4285e49898",
     "name": "HBV Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:52:48.777Z",
+    "controlDate": "2025-10-30T12:34:55.365Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298635,7 +298605,7 @@
     "squuid": "5be1a6b6-8e11-4adc-84c9-e5ed5de483f5",
     "name": "HannoverRadio GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:27:01.061Z",
+    "controlDate": "2025-10-30T11:40:13.130Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -310764,7 +310734,7 @@
     "squuid": "5ee772e1-4707-453a-8663-37abf27dc9fa",
     "name": "Harald Zeller GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:08:46.629Z",
+    "controlDate": "2025-10-30T11:54:56.442Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -310939,7 +310909,7 @@
     "squuid": "5df8fa66-b63d-4b8b-b949-c34c941ec95b",
     "name": "Hanauer Anzeiger GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T09:06:34.319Z",
+    "controlDate": "2025-10-30T11:28:24.444Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313876,7 +313846,7 @@
     "squuid": "5ee8a7ef-6b8e-4d3e-b268-531655c111d4",
     "name": "Haymarket Worldwide Ltd.",
     "state": "active",
-    "controlDate": "2025-05-27T10:50:07.684Z",
+    "controlDate": "2025-10-30T12:33:34.112Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

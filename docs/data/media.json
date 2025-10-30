@@ -11731,7 +11731,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T14:32:39.049Z",
+    "controlDate": "2025-10-30T09:48:34.756Z",
     "state": "active"
   },
   {
@@ -13551,7 +13551,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T09:15:28.104Z",
+    "controlDate": "2025-10-30T11:30:56.662Z",
     "state": "active"
   },
   {
@@ -13663,7 +13663,7 @@
     "rfStatewide": false,
     "name": "Haus & Grund",
     "type": "print",
-    "controlDate": "2025-05-27T10:47:04.431Z",
+    "controlDate": "2025-10-30T12:28:37.721Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -23282,7 +23282,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T10:06:23.277Z",
+    "controlDate": "2025-10-30T11:52:34.734Z",
     "state": "active"
   },
   {
@@ -23806,7 +23806,7 @@
     "name": "www.haufe.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T10:18:52.035Z",
+    "controlDate": "2025-10-30T12:07:04.679Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32105,7 +32105,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5e6235fc-1165-404f-a381-29100f86b256",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -42554,7 +42554,7 @@
     "name": "www.hallo-verlag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T08:46:57.519Z",
+    "controlDate": "2025-10-30T10:07:52.193Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43469,7 +43469,7 @@
     "name": "www.haanertreff.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-26T14:30:06.324Z",
+    "controlDate": "2025-10-30T09:44:06.527Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44218,7 +44218,7 @@
     "name": "Der Ravensberger",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T14:43:59.000Z",
+    "controlDate": "2025-10-30T10:02:04.109Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44326,7 +44326,7 @@
     "name": "HK am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-26T14:44:10.910Z",
+    "controlDate": "2025-10-30T10:02:20.422Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79262,7 +79262,7 @@
     "name": "www.hannover.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T09:26:38.671Z",
+    "controlDate": "2025-10-30T11:38:03.822Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83846,7 +83846,7 @@
     "rfStatewide": false,
     "name": "Haller Kreisblatt",
     "type": "print",
-    "controlDate": "2025-05-26T14:44:26.956Z",
+    "controlDate": "2025-10-30T10:02:32.196Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83869,7 +83869,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T14:44:36.398Z",
+    "controlDate": "2025-10-30T10:02:42.175Z",
     "state": "active"
   },
   {
@@ -83884,7 +83884,7 @@
     "rfStatewide": false,
     "name": "Hanauer Anzeiger",
     "type": "print",
-    "controlDate": "2025-05-27T09:06:57.167Z",
+    "controlDate": "2025-10-30T11:28:44.545Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87803,7 +87803,7 @@
     "rfStatewide": false,
     "name": "RZ Rheiderland",
     "type": "print",
-    "controlDate": "2025-05-26T14:23:40.269Z",
+    "controlDate": "2025-10-30T09:38:36.466Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95272,7 +95272,7 @@
     "rfStatewide": false,
     "name": "WirtschaftsWoche",
     "type": "print",
-    "controlDate": "2025-05-27T09:20:06.209Z",
+    "controlDate": "2025-10-30T11:36:14.158Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95293,7 +95293,7 @@
     "rfStatewide": false,
     "name": "Handelsblatt",
     "type": "print",
-    "controlDate": "2025-05-27T09:18:44.418Z",
+    "controlDate": "2025-10-30T11:34:17.008Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95316,7 +95316,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T09:20:15.314Z",
+    "controlDate": "2025-10-30T11:36:25.532Z",
     "state": "active"
   },
   {
@@ -95358,7 +95358,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T09:20:31.944Z",
+    "controlDate": "2025-10-30T11:37:01.883Z",
     "state": "active"
   },
   {
@@ -99488,7 +99488,7 @@
     "rfStatewide": false,
     "name": "econo",
     "type": "print",
-    "controlDate": "2025-05-26T14:32:31.809Z",
+    "controlDate": "2025-10-30T09:47:50.526Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103882,7 +103882,7 @@
     "rfStatewide": false,
     "name": "Handballwoche",
     "type": "print",
-    "controlDate": "2025-05-27T09:15:21.770Z",
+    "controlDate": "2025-10-30T11:30:49.247Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -108185,7 +108185,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T08:56:01.681Z",
+    "controlDate": "2025-10-30T11:23:08.456Z",
     "state": "active"
   },
   {
@@ -115551,7 +115551,7 @@
     "rfStatewide": false,
     "name": "Bayerische Hausbesitzer-Zeitung",
     "type": "print",
-    "controlDate": "2025-05-27T10:45:57.736Z",
+    "controlDate": "2025-10-30T12:27:13.743Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -119281,7 +119281,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T09:07:18.036Z",
+    "controlDate": "2025-10-30T11:28:54.506Z",
     "state": "active"
   },
   {
@@ -121292,7 +121292,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-26T14:25:26.950Z",
+    "controlDate": "2025-10-30T09:38:55.432Z",
     "state": "active"
   },
   {
@@ -132411,7 +132411,7 @@
     "name": "www.crimeandinvestigation.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T09:16:37.614Z",
+    "controlDate": "2025-10-30T12:53:42.201Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138891,7 +138891,7 @@
     "name": "www.history.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T09:16:47.101Z",
+    "controlDate": "2025-10-30T12:54:26.121Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139426,7 +139426,7 @@
     "name": "www.karriere.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T09:20:23.917Z",
+    "controlDate": "2025-10-30T11:36:35.017Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148651,7 +148651,7 @@
     "name": "www.heidelberg24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T10:56:40.627Z",
+    "controlDate": "2025-10-30T12:43:08.375Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149126,7 +149126,7 @@
     "name": "www.mannheim24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T10:56:57.815Z",
+    "controlDate": "2025-10-30T12:43:38.122Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149198,7 +149198,7 @@
     "name": "www.ludwigshafen24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T10:56:50.452Z",
+    "controlDate": "2025-10-30T12:43:16.494Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154160,7 +154160,7 @@
     "name": "Hamburger Grundeigentum",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-27T10:46:57.876Z",
+    "controlDate": "2025-10-30T12:28:28.106Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
