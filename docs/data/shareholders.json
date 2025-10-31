@@ -154238,9 +154238,32 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
     ]
@@ -208444,6 +208467,7 @@
     "squuid": "68f0d16d-a799-4dfc-9a89-995bd0ea457c",
     "name": "Funkhaus Würzburg Studiobetriebs-GmbH",
     "state": "active",
+    "controlDate": "2025-10-31T09:51:02.888Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
