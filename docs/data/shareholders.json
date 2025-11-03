@@ -15150,7 +15150,7 @@
     "squuid": "5be1a6b6-8648-48ef-80fd-95a81989ad79",
     "name": "Heinrich Delp GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:50:03.123Z",
+    "controlDate": "2025-11-03T10:38:08.408Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -25531,9 +25531,44 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -93861,7 +93896,7 @@
     "name": "Heinrich Bauer Verlag KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2",
-    "controlDate": "2025-05-27T13:24:14.087Z",
+    "controlDate": "2025-11-03T10:26:00.164Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -96358,7 +96393,7 @@
     "squuid": "5be1a6b6-2104-420c-86af-351f3b8f4b0d",
     "name": "Heinr. Kip GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-27T13:23:25.868Z",
+    "controlDate": "2025-11-03T10:10:50.890Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -97748,7 +97783,7 @@
     "name": "Heinrich Rüttgerodt GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2158-40cc-b11e-3da6a8b84b46",
-    "controlDate": "2025-05-27T13:52:42.395Z",
+    "controlDate": "2025-11-03T10:38:51.602Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -154236,6 +154271,7 @@
     "squuid": "68f1fdc8-a00a-4999-b702-c18e77d15fc4",
     "name": "Dornier Medien Verwaltungs GmbH",
     "state": "active",
+    "controlDate": "2025-11-03T10:05:59.567Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173922,9 +173958,9 @@
   },
   {
     "squuid": "5f9aa7a3-9bf1-4232-9556-c04acf9556c0",
-    "name": "Heise & Dumrath Medien Geschäftsführung GmbH",
+    "name": "hdm holding geschäftsführung gmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:59:12.827Z",
+    "controlDate": "2025-11-03T10:52:58.614Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181323,7 +181359,7 @@
     "squuid": "5ebbfbfc-1ac1-4259-87d4-ad64cd624e74",
     "name": "Heise Medien Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:11:20.979Z",
+    "controlDate": "2025-11-03T11:13:31.272Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181467,7 +181503,7 @@
     "squuid": "5ebbfc8d-936a-482a-9115-5277fad1b998",
     "name": "Heise Gruppe Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:04:53.709Z",
+    "controlDate": "2025-11-03T11:12:48.501Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -182545,7 +182581,7 @@
     "squuid": "5ebbfd26-c989-49e5-95ba-60de98fed240",
     "name": "Heise Beteiligung Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:03:55.496Z",
+    "controlDate": "2025-11-03T11:03:55.727Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -204340,7 +204376,7 @@
     "squuid": "5d385b85-3ea0-4faa-9c04-bcf229bf3258",
     "name": "HELGE Immobilien GmbH & Co. KG ",
     "state": "active",
-    "controlDate": "2025-05-27T14:33:27.172Z",
+    "controlDate": "2025-11-03T11:29:10.915Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -224189,7 +224225,7 @@
     "squuid": "5be1a6b6-d453-4e56-984c-454d990cc291",
     "name": "Heinrich Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:48:24.956Z",
+    "controlDate": "2025-11-03T10:33:12.028Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239247,7 +239283,7 @@
     "squuid": "5be1a6b6-3657-4eee-a53d-ce2390c2c4e3",
     "name": "Heinrichs-Verlag gGmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:58:06.596Z",
+    "controlDate": "2025-11-03T10:42:16.261Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -248944,7 +248980,7 @@
     "squuid": "5be1a6b6-ab7e-48fe-8e65-e7801311d8df",
     "name": "Heise Gruppe GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-27T14:08:14.841Z",
+    "controlDate": "2025-11-03T11:10:36.513Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -252689,7 +252725,7 @@
     "squuid": "5f042ee7-55bd-4d54-aae9-54297776b22f",
     "name": "Heitmann Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2024-11-08T10:47:52.065Z",
+    "controlDate": "2025-11-03T11:28:09.129Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256898,9 +256934,9 @@
   },
   {
     "squuid": "5be1a6b6-5f02-4475-9c85-ccb2907ae149",
-    "name": "Heise & Dumrath Medien GmbH & Co KG",
+    "name": "hdm holding gmbh & co. kg",
     "state": "active",
-    "controlDate": "2025-05-27T14:00:24.396Z",
+    "controlDate": "2025-11-03T11:00:28.669Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -280448,7 +280484,7 @@
     "name": "Heise Medien GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee",
-    "controlDate": "2025-05-27T14:11:27.290Z",
+    "controlDate": "2025-11-03T11:15:27.038Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -301157,7 +301193,7 @@
     "squuid": "5be1a6b6-72b5-4b80-90aa-d86a471f3a3e",
     "name": "Heise Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-27T14:04:38.902Z",
+    "controlDate": "2025-11-03T11:04:11.342Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -311688,7 +311724,7 @@
     "squuid": "5c52e0ae-6d87-40ce-a121-d08c917021fa",
     "name": "elumeo SE",
     "state": "active",
-    "controlDate": "2025-10-20T14:26:06.436Z",
+    "controlDate": "2025-11-03T11:51:04.341Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -312302,7 +312338,7 @@
     "squuid": "61df0148-a2f0-432b-8b6c-283ba50899ac",
     "name": "HELGE Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:33:20.495Z",
+    "controlDate": "2025-11-03T11:29:04.616Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
