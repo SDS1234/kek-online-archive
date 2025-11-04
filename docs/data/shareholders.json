@@ -34615,7 +34615,7 @@
     "name": "Hellweg Radio Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-813a-45d8-9edf-a4f4a31319a3",
-    "controlDate": "2024-11-12T11:04:46.883Z",
+    "controlDate": "2025-11-04T11:00:58.429Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51504,7 +51504,7 @@
     "squuid": "5f0f1515-4238-4d61-8058-42b44c8d01b6",
     "name": "Hellweg Radio Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:37:50.311Z",
+    "controlDate": "2025-11-04T11:00:50.254Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -58114,7 +58114,7 @@
     "squuid": "5be1a6b6-b9b0-4706-bd6c-15559db4e2d9",
     "name": "Heinen-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:12:08.697Z",
+    "controlDate": "2025-11-04T11:20:16.805Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95676,7 +95676,7 @@
     "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b",
-    "controlDate": "2025-05-27T11:14:38.839Z",
+    "controlDate": "2025-11-04T12:04:07.312Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -166775,9 +166775,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -171830,7 +171835,7 @@
     "squuid": "605338c9-3017-46c0-b0b7-e152f814821c",
     "name": "Heinevetter & Co. GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T13:12:33.268Z",
+    "controlDate": "2025-11-04T11:20:48.892Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220036,7 +220041,7 @@
     "name": "Heilbronner Stimme GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4101-48cc-94c1-224d9edfe288",
-    "controlDate": "2025-05-27T12:42:32.826Z",
+    "controlDate": "2025-11-04T12:10:18.591Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220124,6 +220129,15 @@
         "held": {
           "squuid": "672df452-c18c-4af3-a1bb-936627d78e95",
           "name": "www.hohenloher-zeitung.de"
+        }
+      },
+      {
+        "squuid": "6909ea96-4fcf-4315-ab91-391fbbd2d877",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6909e6c7-2f11-436c-b029-e75c6adc0f06",
+          "name": "Der Sonntag (Heilbronn)"
         }
       }
     ]
@@ -228408,7 +228422,7 @@
     "squuid": "5be1a6b6-a4fe-476a-b466-ee5bb6c5778f",
     "name": "Heel Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T11:04:05.134Z",
+    "controlDate": "2025-11-04T11:04:28.486Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250708,7 +250722,7 @@
     "name": "Heimspiel Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e8d7-496a-9478-2af67aa65220",
-    "controlDate": "2025-05-27T13:09:55.059Z",
+    "controlDate": "2025-11-04T11:15:47.136Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254126,6 +254140,19 @@
     ]
   },
   {
+    "squuid": "6909d5a1-4b1d-4ccf-90dc-9f9eef77d3a0",
+    "name": "Test Zulassungsinhaber",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-5912-4a49-945b-ad3a0676a979",
     "name": "Alexandra Jahr gewerblich GbR",
     "state": "active",
@@ -254152,6 +254179,19 @@
     ]
   },
   {
+    "squuid": "6909d706-6b11-440d-95ef-6068e9a0002b",
+    "name": "Test Beteiligter 1",
+    "state": "archived",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-54e2-4d22-ba69-53626cdff088",
     "name": "Waldbesitzerverband Niedersachsen e.V.",
     "state": "active",
@@ -254169,6 +254209,19 @@
     "name": "Paul Pietsch Holding GmbH & Co KG",
     "state": "active",
     "controlDate": "2019-12-10T10:05:55.008Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6909d72a-9e01-4cb4-a3ca-635fa52cbc28",
+    "name": "Test Beteiligter 2",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -306115,7 +306168,7 @@
     "squuid": "5ece46e2-76dd-469c-8848-d9cbc1c8f016",
     "name": "Heidenheimer Zeitung Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T11:13:34.333Z",
+    "controlDate": "2025-11-04T11:13:14.921Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -311780,13 +311833,9 @@
     "controlDate": "2025-06-16T10:18:18.356Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -311832,13 +311881,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -311868,13 +311913,9 @@
     "controlDate": "2024-12-19T16:40:42.367Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -312257,17 +312298,13 @@
   {
     "squuid": "5c52e4fa-84f8-4ba7-ac4c-613b58bfbbfa",
     "name": "Heliad Equity Partners GmbH & Co. KGaA",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-05-27T14:33:52.273Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -313544,7 +313581,7 @@
     "squuid": "5df9f9f1-5309-4755-ae87-b195136cc806",
     "name": "Heilbronner Stimme Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T12:42:23.256Z",
+    "controlDate": "2025-11-04T12:10:08.490Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
