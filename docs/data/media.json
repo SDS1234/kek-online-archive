@@ -4399,7 +4399,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T14:55:17.185Z",
+    "controlDate": "2025-11-05T15:34:35.168Z",
     "state": "active"
   },
   {
@@ -10992,7 +10992,7 @@
     "name": "www.kreisanzeiger-hersfeld.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:15:45.927Z",
+    "controlDate": "2025-11-05T15:45:32.631Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26203,7 +26203,7 @@
     "name": "www.hersbrucker-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:18:20.864Z",
+    "controlDate": "2025-11-05T15:56:32.068Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85309,7 +85309,7 @@
     "rfStatewide": false,
     "name": "Die Neckarquelle",
     "type": "print",
-    "controlDate": "2025-05-27T14:55:03.802Z",
+    "controlDate": "2025-11-05T15:33:45.128Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87274,7 +87274,7 @@
     "rfStatewide": false,
     "name": "Hersbrucker Zeitung",
     "type": "print",
-    "controlDate": "2025-05-27T15:18:06.066Z",
+    "controlDate": "2025-11-05T15:56:09.980Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",

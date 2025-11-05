@@ -4173,7 +4173,7 @@
     "squuid": "63e4e21d-4bb2-4392-8a82-623979e460b3",
     "name": "Hero Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:15:41.435Z",
+    "controlDate": "2025-11-05T15:43:29.271Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16660,7 +16660,7 @@
     "squuid": "5be1a6b6-4f89-4dd8-a451-4c346bf4b9fa",
     "name": "HeronMedia Werbegesellschaft m.b.H.",
     "state": "active",
-    "controlDate": "2025-05-27T15:16:27.636Z",
+    "controlDate": "2025-11-05T15:47:25.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -42600,7 +42600,7 @@
     "squuid": "5be1a6b6-16d8-494f-adbb-1cecd005fdbc",
     "name": "Heribert Wühr Verlag für noch unbekannte Literatur",
     "state": "active",
-    "controlDate": "2025-05-27T14:51:22.961Z",
+    "controlDate": "2025-11-05T15:22:01.329Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -94527,7 +94527,7 @@
     "squuid": "5eb02c7b-f462-475d-b4f8-26045727ec4b",
     "name": "Herbert Fleißig Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:42:11.305Z",
+    "controlDate": "2025-11-05T13:16:31.653Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96623,7 +96623,7 @@
     "name": "Hermann Kuhn GmbH & Co. KG.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ca33-458a-bf2d-b6ed99151936",
-    "controlDate": "2025-05-27T14:54:54.795Z",
+    "controlDate": "2025-11-05T15:33:36.067Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -107193,7 +107193,7 @@
     "squuid": "5eb2e6ba-84df-4fd1-b689-db8ccb1eca28",
     "name": "Hermann Elstermann GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:52:39.752Z",
+    "controlDate": "2025-11-05T15:22:15.144Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -166650,7 +166650,7 @@
     "squuid": "5ebba3e9-1cb6-48a5-86f4-28db9366cb2f",
     "name": "Schwäbischer Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T07:33:40.414Z",
+    "controlDate": "2025-11-05T15:18:22.429Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166773,6 +166773,7 @@
     "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58",
     "name": "Enote GmbH",
     "state": "active",
+    "controlDate": "2025-11-05T09:41:50.080Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192388,7 +192389,7 @@
     "squuid": "615aeb9b-226b-4aa9-81c9-85a587863c46",
     "name": "Hendricks Factual Media LL.C.",
     "state": "active",
-    "controlDate": "2024-06-11T12:59:35.125Z",
+    "controlDate": "2025-11-05T13:15:36.668Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -263525,7 +263526,7 @@
     "squuid": "5be1a6b6-5976-4b14-acd4-9473568f4fa1",
     "name": "Herder GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:44:08.193Z",
+    "controlDate": "2025-11-05T13:17:45.152Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263543,6 +263544,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690b1da4-1971-4d7a-b240-f0fe04696bbb",
+    "name": "Videnoff, Boian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -263570,6 +263584,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690b1db8-3be7-40d4-bc8b-b3166fc1d7bb",
+    "name": "Tufan, Josef",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -263666,6 +263693,19 @@
     ]
   },
   {
+    "squuid": "690b1dd3-49a6-456a-93c2-a309c35b597e",
+    "name": "Mitichkin, Evgeny",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "state": "active",
     "name": "Natur & Heilen GmbH & Co. KG",
     "limitedPartnership": true,
@@ -263703,6 +263743,19 @@
     "squuid": "5be1a6b6-a0d1-4841-ad95-b84cd7286326",
     "name": "Absolventa GmbH",
     "state": "archived",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690b1de8-4964-49cb-9e91-8733543855c5",
+    "name": "Evans, Daniel James",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -265333,6 +265386,19 @@
     ]
   },
   {
+    "squuid": "690b1ee4-3abc-4bd4-a20f-c9e459f2cb76",
+    "name": "Streubesitz an der Enote GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-b6c7-4bed-9d20-8bc1e0e7c110",
     "name": "Franz-von-Sales-Stiftung",
     "state": "active",
@@ -265481,6 +265547,19 @@
     ]
   },
   {
+    "squuid": "690b1e2e-5991-4f37-a4f1-44363d26f442",
+    "name": "Rudolf Fuchs Kapitalanlage-Gesellschaft mbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-28cd-422d-bc65-ba16167e5ec7",
     "name": "Delius, Franziska",
     "state": "archived",
@@ -265524,6 +265603,19 @@
     ]
   },
   {
+    "squuid": "690b1e58-9e70-4736-aafb-5b6591f345bc",
+    "name": "Dieter von Holtzbrinck Ventures Fonds III GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-a27f-4bec-8548-584ac593361c",
     "name": "Delius, Johann Daniel",
     "state": "archived",
@@ -265552,6 +265644,19 @@
     ]
   },
   {
+    "squuid": "690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b",
+    "name": "Dieter von Holtzbrinck Ventures GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-e9cc-4d7e-87e7-47490faf9310",
     "name": "Höppner, Ulrich",
     "state": "archived",
@@ -265570,6 +265675,19 @@
     "name": "Delius, Erika",
     "state": "archived",
     "controlDate": "2019-05-13T15:03:45.496Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690b1ecc-0d37-4dd7-84a8-417756a52d06",
+    "name": "EIC Fund",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -287626,7 +287744,7 @@
     "squuid": "5be1a6b6-8648-44d6-8332-53de2f2f0afb",
     "name": "Herforder Kreisblatt Busse GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:44:18.549Z",
+    "controlDate": "2025-11-05T13:17:59.052Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -308982,7 +309100,7 @@
     "squuid": "5ece622d-407b-4752-8c14-978522219ca4",
     "name": "Hersbrucker Zeitung GmbH Verlag und Medienservice",
     "state": "active",
-    "controlDate": "2025-05-27T15:17:52.852Z",
+    "controlDate": "2025-11-05T15:54:35.335Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
