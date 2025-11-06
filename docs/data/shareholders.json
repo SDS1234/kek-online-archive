@@ -4716,7 +4716,7 @@
   {
     "squuid": "5d441ba0-b76a-46c5-832b-cc159c4464f4",
     "name": "TEST",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -23464,6 +23464,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -28191,7 +28197,7 @@
     "squuid": "5be1a6b6-e79a-4eb6-a721-0a69e892e6e9",
     "name": "High View GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:29:31.613Z",
+    "controlDate": "2025-11-06T09:16:31.954Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -164002,7 +164008,7 @@
     "squuid": "5d398b0f-dc9f-4425-972d-33af010d8256",
     "name": "HG Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:27:43.652Z",
+    "controlDate": "2025-11-06T09:11:02.182Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -208754,7 +208760,7 @@
     "squuid": "682c44d5-b571-4302-b426-4c4f87423279",
     "name": "Herzschlag Eintracht GmbH",
     "state": "active",
-    "controlDate": "2025-06-05T08:36:18.276Z",
+    "controlDate": "2025-11-06T09:04:02.452Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -234816,14 +234822,9 @@
   {
     "squuid": "5be1a6b6-2cc7-48b6-bdf0-90da1bb163ba",
     "name": "Funke Zeitschriften GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-05-23T15:00:19.338Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -254143,7 +254144,7 @@
   {
     "squuid": "6909d5a1-4b1d-4ccf-90dc-9f9eef77d3a0",
     "name": "Test Zulassungsinhaber",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -254222,7 +254223,7 @@
   {
     "squuid": "6909d72a-9e01-4cb4-a3ca-635fa52cbc28",
     "name": "Test Beteiligter 2",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -259694,7 +259695,7 @@
     "squuid": "5be1a6b6-7b79-44fb-ab3e-a8b5fbb7008c",
     "name": "HiFi.de GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:28:03.875Z",
+    "controlDate": "2025-11-06T09:11:20.398Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274302,6 +274303,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "690c94e8-61b8-42a6-9263-5d57214b2cc5",
+    "name": "Sankt Michaelsbund, Landesverband Bayern e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]

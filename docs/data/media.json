@@ -22739,7 +22739,7 @@
     "name": "www.hr-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:22:59.683Z",
+    "controlDate": "2025-11-06T09:06:34.245Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23502,7 +23502,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T15:22:28.887Z",
+    "controlDate": "2025-11-05T16:02:18.948Z",
     "state": "active"
   },
   {
@@ -109994,7 +109994,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T15:28:48.658Z",
+    "controlDate": "2025-11-06T09:12:00.003Z",
     "state": "active"
   },
   {
@@ -128624,7 +128624,7 @@
     "name": "www.you-fm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:23:52.729Z",
+    "controlDate": "2025-11-06T09:07:42.917Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138867,7 +138867,7 @@
     "name": "www.gutelaunetv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:31:03.246Z",
+    "controlDate": "2025-11-06T09:17:47.478Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138993,7 +138993,7 @@
     "name": "www.hr-fernsehen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:22:38.884Z",
+    "controlDate": "2025-11-06T09:05:31.821Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142306,7 +142306,7 @@
     "name": "www.hr-inforadio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:22:50.260Z",
+    "controlDate": "2025-11-06T09:06:20.783Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142374,7 +142374,7 @@
     "name": "www.hr4.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:23:45.315Z",
+    "controlDate": "2025-11-06T09:07:33.404Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142398,7 +142398,7 @@
     "name": "www.hr3.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:23:31.960Z",
+    "controlDate": "2025-11-06T09:07:23.252Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142453,7 +142453,7 @@
     "name": "www.hr2.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:23:21.755Z",
+    "controlDate": "2025-11-06T09:07:08.667Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142477,7 +142477,7 @@
     "name": "www.hr1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2024-11-12T11:51:39.497Z",
+    "controlDate": "2025-11-06T09:06:58.882Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145644,7 +145644,7 @@
     "name": "www.justcooking.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:31:11.448Z",
+    "controlDate": "2025-11-06T09:18:00.629Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148749,6 +148749,25 @@
     "pressKind": "Regional"
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Münchner Kirchenradio ",
+    "type": "radio",
+    "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "642d8a74-eca2-4db0-bac4-7e182eb1e397",
     "organization": {
@@ -148946,7 +148965,7 @@
     "name": "www.hr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-27T15:23:10.386Z",
+    "controlDate": "2025-11-06T09:06:47.205Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149300,6 +149319,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "unser Radio Passau/Deggendorf",
+    "type": "radio",
+    "squuid": "690cb944-0edf-4745-8e62-9ff51aedf078",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5f3a7808-d0b5-4d63-9338-99e25a9e0ebd",
     "organization": {
@@ -149389,6 +149427,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio Galaxy Passau / Deggendorf",
+    "type": "radio",
+    "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5f92a25c-4540-4772-9cb6-a7654973a0c9",
     "organization": {
@@ -149437,6 +149494,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio Galaxy Passau / Deggendorf",
+    "type": "radio",
+    "squuid": "690cc33c-3cd7-4179-8c62-930ac8d02990",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5f929aaf-e23d-43c0-822b-323f903be029",
     "organization": {
@@ -149459,6 +149535,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio Galaxy Passau / Deggendorf",
+    "type": "radio",
+    "squuid": "690cc340-ddc9-4d99-a847-bc4ae680aa95",
+    "state": "active"
   },
   {
     "state": "active",
