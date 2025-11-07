@@ -18109,7 +18109,7 @@
     "squuid": "5be1a6b6-0b65-4b63-9f8e-e2036840f966",
     "name": "Historic Time Warner, Inc.",
     "state": "active",
-    "controlDate": "2025-05-28T11:48:57.749Z",
+    "controlDate": "2025-11-07T10:26:35.417Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -19559,7 +19559,7 @@
     "name": "Schongauer Nachrichten Karl Motz GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6c5f-4435-9c6a-e8e4d3f95544",
-    "controlDate": "2025-06-20T15:08:40.680Z",
+    "controlDate": "2025-11-07T10:14:56.622Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50926,7 +50926,7 @@
     "squuid": "5be1a6b6-0866-45c9-a7f0-6eaee52c93c9",
     "name": "Highlight Communications AG",
     "state": "active",
-    "controlDate": "2025-05-27T15:46:13.750Z",
+    "controlDate": "2025-11-07T09:36:44.283Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -205847,7 +205847,7 @@
     "squuid": "5d3860d4-5636-4398-b78b-0635b216c39d",
     "name": "Himrich Familien GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:47:28.116Z",
+    "controlDate": "2025-11-07T09:51:18.627Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237891,7 +237891,7 @@
     "squuid": "5ee245d9-6d06-40b0-83fc-efc25f5c4176",
     "name": "Hinnerwisch & Schmidt GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:48:41.754Z",
+    "controlDate": "2025-11-07T10:10:57.085Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -277903,6 +277903,18 @@
     ]
   },
   {
+    "squuid": "690dc5a8-ea1f-45a5-9343-9663aa532bc5",
+    "name": "Wittermann, Hannelore",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-7e06-458a-abf8-0231fd9f4617",
     "name": "Roß, Alexander",
     "state": "archived",
@@ -280828,7 +280840,7 @@
     "squuid": "5be1a6b6-171e-4701-9f8f-4ecd1db2a89f",
     "name": "Highlight Event and Entertainment AG",
     "state": "active",
-    "controlDate": "2025-05-27T15:46:34.836Z",
+    "controlDate": "2025-11-07T09:44:10.717Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -293519,7 +293531,7 @@
     "squuid": "5be1a6b6-7f88-4cae-97e2-965e97a988c6",
     "name": "HIM Holtzbrinck 22 GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:47:07.246Z",
+    "controlDate": "2025-11-07T09:51:04.194Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294202,7 +294214,7 @@
     "squuid": "5be1a6b6-b6ba-4844-a3d4-0a3c3e6dc4a5",
     "name": "Hinz&Kunzt gemeinnützige Verlags- und Vertriebs GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T15:49:02.714Z",
+    "controlDate": "2025-11-07T10:21:28.560Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

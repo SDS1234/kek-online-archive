@@ -13744,7 +13744,7 @@
     "rfStatewide": false,
     "name": "Hinz & Kunzt Das Hamburger Strassenmagazin",
     "type": "print",
-    "controlDate": "2025-05-27T15:49:14.123Z",
+    "controlDate": "2025-11-07T10:17:34.205Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13768,7 +13768,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-27T15:49:20.310Z",
+    "controlDate": "2025-11-07T10:21:37.105Z",
     "state": "active"
   },
   {
@@ -88215,7 +88215,7 @@
     "rfStatewide": false,
     "name": "Schongauer Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-20T15:09:20.274Z",
+    "controlDate": "2025-11-07T10:15:04.460Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -150453,6 +150453,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio Galaxy Allgäu",
+    "type": "radio",
+    "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
+    "state": "active"
   },
   {
     "state": "active",
