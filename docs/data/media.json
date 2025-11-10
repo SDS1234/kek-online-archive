@@ -18158,7 +18158,7 @@
     "name": "www.rt1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-28T12:03:19.832Z",
+    "controlDate": "2025-11-10T13:50:17.022Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26822,7 +26822,7 @@
     "name": "www.hitradio-msone.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T15:11:28.005Z",
+    "controlDate": "2025-11-10T11:31:23.558Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -59747,7 +59747,7 @@
       "fullName": "Medienanstalt Hessen"
     },
     "rfStatewide": false,
-    "name": "Harmony.fm",
+    "name": "80er-Radio harmony",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -78168,7 +78168,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-9ec6-4016-8c81-f093b0778ba2",
     "organization": {
       "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
@@ -141722,7 +141722,7 @@
     "name": "www.imsueden.de/hitradio-rt1",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-28T11:52:37.654Z",
+    "controlDate": "2025-11-10T13:49:53.631Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

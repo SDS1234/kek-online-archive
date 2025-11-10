@@ -30695,7 +30695,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-0810-4788-a07b-b81c7cda7dcc",
-          "name": "Harmony.fm"
+          "name": "80er-Radio harmony"
         }
       },
       {
@@ -52495,7 +52495,7 @@
     "squuid": "5be1a6b6-7179-4d1e-a276-e0773c9d9084",
     "name": "HITRADIO RT1 Südschwaben GmbH",
     "state": "active",
-    "controlDate": "2024-11-12T12:48:36.479Z",
+    "controlDate": "2025-11-10T14:31:03.268Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -58354,12 +58354,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
       }
     ],
     "operates": [
@@ -58370,15 +58364,6 @@
         "held": {
           "squuid": "5be1a6b1-6e8f-41f9-a9bc-fb95593b2b1c",
           "name": "HOPE TV"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-9c81-454d-8aac-3fd5d161d772",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-9ec6-4016-8c81-f093b0778ba2",
-          "name": "HOPE Channel Radio"
         }
       },
       {
@@ -77927,7 +77912,7 @@
     "squuid": "5be1a6b6-bebd-48b2-aa4d-f5997b1217f9",
     "name": "HITRADIO RT1 Augsburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T11:51:32.967Z",
+    "controlDate": "2025-11-10T13:49:27.400Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145230,7 +145215,7 @@
     "squuid": "5be1a6b6-3aee-49bd-b315-e946bc324a67",
     "name": "HITRADIO RT1 Nordschwaben OHG",
     "state": "active",
-    "controlDate": "2024-11-12T12:46:26.663Z",
+    "controlDate": "2025-11-10T14:29:07.276Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -147115,7 +147100,7 @@
   },
   {
     "squuid": "5be1a6b6-2de4-47f0-a027-0764d8812869",
-    "name": "Parzeller & Co KG vormals Fuldaer Actiendruckerei KG",
+    "name": "Parzeller GmbH & Co. KG, vormals Fuldaer Actiendruckerei",
     "state": "active",
     "controlDate": "2025-06-16T11:46:07.311Z",
     "limitedPartnership": true,
@@ -147859,7 +147844,7 @@
   },
   {
     "state": "active",
-    "name": "Pressehaus Bintz Verlag GmbH & Co KG",
+    "name": "Pressehaus Bintz Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754",
     "controlDate": "2025-06-17T11:43:03.064Z",
@@ -148396,7 +148381,7 @@
   },
   {
     "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7",
-    "name": "Gießener Anzeiger Beteiligungs-GmbH & Co KG",
+    "name": "Gießener Anzeiger Beteiligungs-GmbH & Co. KG",
     "state": "active",
     "controlDate": "2025-10-28T16:32:51.099Z",
     "limitedPartnership": true,
@@ -195906,7 +195891,7 @@
     "squuid": "5f198649-bfd6-42b9-a542-012cca9600d6",
     "name": "HITC Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T11:49:31.188Z",
+    "controlDate": "2025-11-10T11:22:30.822Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218676,7 +218661,7 @@
   },
   {
     "squuid": "5be1a6b6-9076-49d5-9623-baf697191974",
-    "name": "MDV Mönchhof Druck- und Verlagsgesellschaft mbH",
+    "name": "M D V, Mönchhof Druck- und Verlagsgesellschaft mbH",
     "state": "active",
     "controlDate": "2025-06-05T11:33:29.244Z",
     "organizations": [
@@ -300252,7 +300237,7 @@
     "squuid": "5be1a6b6-605a-438a-83f7-b251754c47d4",
     "name": "Hitradio MS One Programmanbieter GmbH",
     "state": "active",
-    "controlDate": "2025-07-03T07:54:18.674Z",
+    "controlDate": "2025-11-10T11:26:54.585Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
