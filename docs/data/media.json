@@ -8570,7 +8570,7 @@
     "rfStatewide": false,
     "name": "Tichys Einblick",
     "type": "print",
-    "controlDate": "2025-05-28T12:40:19.054Z",
+    "controlDate": "2025-11-12T13:39:06.726Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24450,7 +24450,7 @@
     "name": "courage",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-28T12:41:01.509Z",
+    "controlDate": "2025-11-12T13:39:46.160Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24469,7 +24469,7 @@
     "name": "www.courage-lounge.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-28T12:41:39.693Z",
+    "controlDate": "2025-11-12T13:40:35.176Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27482,7 +27482,7 @@
     "name": "www.jungerkulturkanal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T08:09:55.649Z",
+    "controlDate": "2025-11-11T11:45:02.510Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28067,7 +28067,7 @@
     "name": "mrlife - Lust auf Leben",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-28T12:18:32.533Z",
+    "controlDate": "2025-11-11T11:30:01.898Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43115,7 +43115,7 @@
     "name": "human",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-28T12:41:12.304Z",
+    "controlDate": "2025-11-12T13:40:24.961Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46127,7 +46127,7 @@
     "name": "www.mrlife.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-28T12:18:39.558Z",
+    "controlDate": "2025-11-11T11:30:11.013Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84148,7 +84148,7 @@
     "rfStatewide": false,
     "name": "Hersfelder Zeitung",
     "type": "print",
-    "controlDate": "2025-05-28T12:28:05.824Z",
+    "controlDate": "2025-11-12T13:33:24.364Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96149,7 +96149,7 @@
     "name": "www.charivari.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-18T09:44:21.265Z",
+    "controlDate": "2025-11-11T10:45:49.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97047,7 +97047,7 @@
     "rfStatewide": false,
     "name": "Oberhessische Presse",
     "type": "print",
-    "controlDate": "2025-05-28T12:18:23.002Z",
+    "controlDate": "2025-11-11T11:29:49.898Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118264,7 +118264,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-28T12:28:16.566Z",
+    "controlDate": "2025-11-12T13:33:35.804Z",
     "state": "active"
   },
   {
@@ -118882,7 +118882,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-28T12:18:47.073Z",
+    "controlDate": "2025-11-11T11:30:27.235Z",
     "state": "active"
   },
   {
@@ -127205,7 +127205,7 @@
     "name": "OP am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-28T12:18:08.047Z",
+    "controlDate": "2025-11-11T11:28:33.823Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142166,7 +142166,7 @@
     "name": "www.hitradio-rtl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:09:16.423Z",
+    "controlDate": "2025-11-11T11:24:05.140Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149738,7 +149738,7 @@
     "name": "TiAM",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-28T12:40:09.278Z",
+    "controlDate": "2025-11-12T13:38:58.045Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
