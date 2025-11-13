@@ -6782,7 +6782,7 @@
     "squuid": "68371057-fef1-41a1-806a-fcffda78d576",
     "name": "HSE24 Multichannel GmbH",
     "state": "active",
-    "controlDate": "2025-06-05T08:04:40.266Z",
+    "controlDate": "2025-11-13T10:02:12.870Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9140,7 +9140,7 @@
     "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a",
     "name": "Hubert Burda Media Holding KG",
     "state": "active",
-    "controlDate": "2025-05-28T13:35:14.945Z",
+    "controlDate": "2025-11-13T10:05:08.453Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -15584,7 +15584,7 @@
     "squuid": "5be1a6b6-398d-47f1-93c6-6ab898a4b5c5",
     "name": "HV Fernsehbetriebs GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:40:10.347Z",
+    "controlDate": "2025-11-13T10:07:16.543Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -17360,7 +17360,7 @@
     "squuid": "5be1a6b6-6b0a-40c6-80c6-8a89d58ab53a",
     "name": "Home Shopping Europe GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:14:03.924Z",
+    "controlDate": "2025-11-13T09:53:48.968Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -19167,9 +19167,62 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -40511,7 +40564,7 @@
     "squuid": "5be1a6b6-5861-44b2-a9ef-7fd1555d039d",
     "name": "Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-28T14:43:07.499Z",
+    "controlDate": "2025-11-13T16:27:05.266Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -102330,6 +102383,36 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -130269,7 +130352,7 @@
     "squuid": "5be1a6b6-adcd-4e69-bbad-0e603672dd58",
     "name": "Hotz GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-28T13:21:32.797Z",
+    "controlDate": "2025-11-13T09:57:33.298Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -140619,7 +140702,7 @@
     "squuid": "5d245008-2996-419f-ab30-85a712fb5805",
     "name": "HY4 Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:59:19.335Z",
+    "controlDate": "2025-11-13T10:13:20.529Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -165746,7 +165829,7 @@
     "squuid": "5efcac7f-76bc-4d7c-ad9b-42e5d8308e16",
     "name": "HP Komplementär GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:26:25.135Z",
+    "controlDate": "2025-11-13T09:58:56.158Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166431,7 +166514,7 @@
     "squuid": "66697d3c-fb60-4aac-8354-4a7c8dde54dc",
     "name": "HSE24 Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:27:13.995Z",
+    "controlDate": "2025-11-13T10:01:34.410Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -183131,7 +183214,7 @@
     "squuid": "5f0d95c1-e956-480f-be63-dc2a13ccc015",
     "name": "Hotz-Hammling Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:21:41.639Z",
+    "controlDate": "2025-11-13T09:57:57.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184610,85 +184693,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-        "name": "MMV",
-        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-        "name": "MSA",
-        "fullName": "Medienanstalt Sachsen-Anhalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -186005,7 +186012,7 @@
     "squuid": "5ec26c73-e6a5-40f1-911a-df180c1a4749",
     "name": "Holzer Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:08:03.572Z",
+    "controlDate": "2025-11-13T09:48:22.734Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -187979,7 +187986,7 @@
     "squuid": "68495b98-c5d7-4f03-aaf8-2bb7d6092eb8",
     "name": "HSE Finance S.à.r.l.",
     "state": "active",
-    "controlDate": "2025-06-19T16:45:00.071Z",
+    "controlDate": "2025-11-13T10:01:15.374Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -189372,7 +189379,7 @@
     "squuid": "667d42a4-c58c-4074-ab5b-335c68fc734a",
     "name": "HSE24 Finance & Service GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:28:57.803Z",
+    "controlDate": "2025-11-13T10:01:42.287Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -190006,7 +190013,7 @@
     "squuid": "684984be-a267-4e90-be3b-593ed182fdf6",
     "name": "Holzer GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-26T08:11:29.640Z",
+    "controlDate": "2025-11-13T09:47:56.184Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -192591,7 +192598,7 @@
     "squuid": "673368a7-2b5e-4506-b542-ec7a67f1ec00",
     "name": "HSE24 Trading GmbH",
     "state": "active",
-    "controlDate": "2025-06-05T08:00:40.807Z",
+    "controlDate": "2025-11-13T10:02:22.879Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196157,7 +196164,7 @@
     "squuid": "685d043f-a708-4a40-9365-c00479232d85",
     "name": "Holzer Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-07-15T11:46:44.273Z",
+    "controlDate": "2025-11-13T09:48:06.710Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202075,7 +202082,7 @@
     "squuid": "5ff43dc0-949a-4670-8b9a-9647c29224c1",
     "name": "HW Beratung + Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-28T13:45:46.723Z",
+    "controlDate": "2025-11-13T10:12:42.107Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -203955,7 +203962,7 @@
     "squuid": "5e172bf9-86ed-4279-8fde-19a1c4dc8e50",
     "name": "Hubert Burda Media Holding Geschäftsführung SE",
     "state": "active",
-    "controlDate": "2025-05-28T13:34:54.356Z",
+    "controlDate": "2025-11-13T10:05:02.953Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -204160,7 +204167,7 @@
     "squuid": "5ec3aa85-5d39-4602-b0e7-e35cd6252a11",
     "name": "Holzmann Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:08:29.579Z",
+    "controlDate": "2025-11-13T09:50:35.376Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209587,7 +209594,7 @@
     "squuid": "5efc450b-6dea-4b7d-97e1-7e2f8bcba9fc",
     "name": "Horst Vatter Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:19:37.524Z",
+    "controlDate": "2025-11-13T09:56:59.343Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216442,9 +216449,85 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+        "name": "brema",
+        "fullName": "Bremische Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+        "name": "MSA",
+        "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+        "name": "NLM",
+        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -216524,9 +216607,85 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
+        "name": "brema",
+        "fullName": "Bremische Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
+        "name": "MSA",
+        "fullName": "Medienanstalt Sachsen-Anhalt",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
+        "name": "NLM",
+        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -216657,85 +216816,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-        "name": "MMV",
-        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-        "name": "MSA",
-        "fullName": "Medienanstalt Sachsen-Anhalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -226040,7 +226123,7 @@
     "name": "Holzer Druck und Medien Druckerei und Zeitungsverlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b28f-4a28-ad6d-26d6e9640c15",
-    "controlDate": "2025-05-28T12:50:56.114Z",
+    "controlDate": "2025-11-13T09:45:54.259Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -228589,7 +228672,7 @@
     "name": "Holzmann Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5e72-4a25-89b4-8eba7a00d090",
-    "controlDate": "2025-05-28T13:11:07.471Z",
+    "controlDate": "2025-11-13T09:49:27.289Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251815,7 +251898,7 @@
     "squuid": "5fbd201f-7ffd-4cbd-928d-84865b1039d1",
     "name": "HUD Beteiligungs KG",
     "state": "active",
-    "controlDate": "2025-05-28T13:36:52.588Z",
+    "controlDate": "2025-11-13T10:05:40.666Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -253225,7 +253308,7 @@
     "squuid": "5f04307f-cc69-401d-b3a7-b5b64001b6ab",
     "name": "Hotz Verwaltungs- und Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:22:32.567Z",
+    "controlDate": "2025-11-13T09:57:43.129Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261031,7 +261114,7 @@
     "squuid": "5ef9a6a5-edbb-4713-aed7-6974a0aba1fb",
     "name": "Horst Vatter Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-28T13:19:47.721Z",
+    "controlDate": "2025-11-13T09:56:33.910Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -261096,7 +261179,7 @@
     "squuid": "68414f80-f190-4f18-be94-0923985a9e12",
     "name": "HSE24 International GmbH",
     "state": "active",
-    "controlDate": "2025-06-11T10:29:50.811Z",
+    "controlDate": "2025-11-13T10:01:58.151Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -284941,7 +285024,7 @@
     "squuid": "5be1a6b6-9f7f-41be-9f6f-d16b4ea85f77",
     "name": "Hoyete Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T13:24:59.914Z",
+    "controlDate": "2025-11-13T09:58:26.413Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304171,7 +304254,7 @@
     "squuid": "5be1a6b6-aa32-48e4-b4b3-92d4a333d5dd",
     "name": "Honeybee s.r.o.",
     "state": "active",
-    "controlDate": "2025-05-28T13:15:50.462Z",
+    "controlDate": "2025-11-13T09:54:58.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
