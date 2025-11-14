@@ -130,7 +130,7 @@
     "squuid": "61d2d908-0fe6-4570-8dbd-bc8a9a8ab4a5",
     "name": "JS Ventura Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T14:48:32.920Z",
+    "controlDate": "2025-11-14T15:33:00.133Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -1932,7 +1932,7 @@
     "name": "J.F. Zeller GmbH & Co.",
     "limitedPartnership": true,
     "squuid": "60fea01f-3407-4894-b613-244aba2e1002",
-    "controlDate": "2025-05-30T11:43:19.805Z",
+    "controlDate": "2025-11-14T13:22:17.453Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -5560,7 +5560,7 @@
     "squuid": "5d318f47-0768-45d6-83c7-da130d2cacd1",
     "name": "IMDb.com Inc.",
     "state": "active",
-    "controlDate": "2025-05-30T08:42:02.321Z",
+    "controlDate": "2025-11-14T10:15:53.392Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11580,7 +11580,7 @@
     "squuid": "5be1a6b6-c855-429c-8ae9-5b86a4951da2",
     "name": "Infobonn Holding GmbH",
     "state": "active",
-    "controlDate": "2024-06-12T13:24:21.112Z",
+    "controlDate": "2025-11-14T10:27:50.765Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26043,7 +26043,7 @@
     "squuid": "5c4ed82a-a196-4c5d-92da-885a88f6c18a",
     "name": "Isartalmedien GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-30T09:41:36.470Z",
+    "controlDate": "2025-11-14T11:35:35.120Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -36360,7 +36360,7 @@
     "squuid": "5be1a6b6-ea36-45ee-bcd7-743522f89b63",
     "name": "Jiji Press Ltd.",
     "state": "active",
-    "controlDate": "2025-05-30T13:39:13.194Z",
+    "controlDate": "2025-11-14T14:40:26.048Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39578,7 +39578,7 @@
     "squuid": "5be1a6b6-59be-4f6f-9049-4c3f5ed381b5",
     "name": "IMCOM Immobilien & Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T08:41:14.777Z",
+    "controlDate": "2025-11-14T10:15:36.347Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -40164,7 +40164,7 @@
     "name": "Jos. Thomann'sche Buchdruckerei Verlag der Landshuter Zeitung KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-28be-407a-b3f2-c6e61df42d74",
-    "controlDate": "2025-05-30T14:20:37.254Z",
+    "controlDate": "2025-11-14T15:23:29.609Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -40998,7 +40998,7 @@
     "squuid": "5c62b52f-57d1-4db6-a05b-c29b77f75810",
     "name": "John Warning Corporate Communications GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T14:16:19.742Z",
+    "controlDate": "2025-11-14T15:05:58.394Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -44170,9 +44170,38 @@
     "controlDate": "2025-06-14T12:32:13.808Z",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
     ],
@@ -44994,7 +45023,7 @@
     "squuid": "5be1a6b6-e31e-4290-ad51-2a7450b31c4d",
     "name": "Johann Wilhelm Naumann Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T14:00:42.548Z",
+    "controlDate": "2025-11-14T14:59:16.307Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48679,7 +48708,7 @@
     "squuid": "5be1a6b6-1568-4fc1-8a93-8feea8e27d7e",
     "name": "IR Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:37:37.435Z",
+    "controlDate": "2025-11-14T11:30:59.510Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51056,7 +51085,7 @@
     "name": "imfernsehen GmbH & Co. KG ",
     "limitedPartnership": true,
     "squuid": "5d35727e-be61-4b4d-a518-f675dde9221b",
-    "controlDate": "2025-05-30T08:44:11.622Z",
+    "controlDate": "2025-11-14T10:19:03.161Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57286,7 +57315,7 @@
     "name": "J. Hoffmann GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f510-4e21-936a-e3cd3b4719a3",
-    "controlDate": "2025-05-30T10:36:25.424Z",
+    "controlDate": "2025-11-14T13:03:58.154Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58600,6 +58629,7 @@
     "squuid": "688b6099-c5bc-4a70-8ff3-c9fd1f3f66bf",
     "name": "Johannesstift Diakonie gAG",
     "state": "active",
+    "controlDate": "2025-11-14T15:02:07.804Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -74270,7 +74300,7 @@
     "squuid": "5c642515-20bc-48a5-9b9a-b3bbb49a9d84",
     "name": "Jasmin Missler Verlag",
     "state": "active",
-    "controlDate": "2025-05-30T13:13:48.410Z",
+    "controlDate": "2025-11-14T14:30:47.503Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -74437,7 +74467,7 @@
     "squuid": "5be1a6b6-4063-4999-aa77-001e69364f76",
     "name": "Jakob Funke Medien Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T13:09:55.454Z",
+    "controlDate": "2025-11-14T14:15:47.614Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -80980,7 +81010,7 @@
     "squuid": "5be1a6b6-fbe5-46cc-a723-ad476f2dbf06",
     "name": "ITEP PICTURES GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:53:03.531Z",
+    "controlDate": "2025-11-14T11:39:54.370Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -83492,7 +83522,7 @@
     "squuid": "5be1a6b6-0221-4080-8a2e-25063d28213e",
     "name": "Immanuel Albertinen Diakonie gGmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:46:42.382Z",
+    "controlDate": "2025-11-14T10:21:55.138Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84177,7 +84207,7 @@
     "squuid": "5be1a6b6-1037-47b7-a3b8-713f5c565218",
     "name": "J.C.C. Bruns GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T11:39:07.790Z",
+    "controlDate": "2025-11-14T13:21:46.217Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -89212,7 +89242,7 @@
     "squuid": "5be1a6b6-b074-4222-8e0f-166999251416",
     "name": "JF Verwaltungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T13:22:34.689Z",
+    "controlDate": "2025-11-14T14:40:06.131Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -96121,7 +96151,7 @@
     "name": "J. Horstmannsche Buchhandlung GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f93f-4c1d-93f6-8035a9bc2def",
-    "controlDate": "2025-05-30T10:46:42.967Z",
+    "controlDate": "2025-11-14T13:06:08.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96169,7 +96199,7 @@
     "squuid": "5be1a6b6-be85-4b8e-98f1-b7af8912eed4",
     "name": "Hüpke & Sohn Verwaltungs-GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-28T14:52:02.999Z",
+    "controlDate": "2025-11-14T09:40:34.593Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -99528,7 +99558,7 @@
     "squuid": "5be1a6b6-6443-4a8e-aead-f3188de25537",
     "name": "J. Walchner Vermögensverwaltung KG",
     "state": "active",
-    "controlDate": "2024-11-13T13:42:04.596Z",
+    "controlDate": "2025-11-14T13:18:31.559Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -102375,9 +102405,11 @@
     ]
   },
   {
-    "squuid": "6900bc03-d546-4c48-b50b-f48224b23bca",
-    "name": "Bamberger Rundfunk GmbH & Co. Studiobetriebs-KG",
     "state": "active",
+    "name": "Bamberger Rundfunk GmbH & Co. Studiobetriebs-KG",
+    "limitedPartnership": true,
+    "squuid": "6900bc03-d546-4c48-b50b-f48224b23bca",
+    "controlDate": "2025-11-14T09:16:37.722Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -103018,8 +103050,9 @@
   },
   {
     "squuid": "6852d6fb-0128-4b2f-9a31-523a15dc4939",
-    "name": "Internationale Gabriele-Stiftung Verwaltungs-GmbH",
+    "name": "Internationale Gabriele-Sophia-Stiftung Verwaltungs-GmbH",
     "state": "active",
+    "controlDate": "2025-11-14T11:16:32.103Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -131256,7 +131289,7 @@
     "squuid": "5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f",
     "name": "J.C.C. Bruns Betriebs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T11:37:27.927Z",
+    "controlDate": "2025-11-14T13:20:29.998Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -131394,7 +131427,7 @@
     "name": "J. Gronemann GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1b9c-4caa-8014-a3a5fb943587",
-    "controlDate": "2025-05-30T10:30:40.756Z",
+    "controlDate": "2025-11-14T12:46:20.546Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -131964,7 +131997,7 @@
     "name": "J. Mergelsberg GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-430f-441d-b020-109fe5c45968",
-    "controlDate": "2025-05-30T11:14:39.155Z",
+    "controlDate": "2025-11-14T13:08:52.559Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -135605,7 +135638,7 @@
     "name": "Jahr Artopé Media GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "609296a5-9ae9-44d6-99a4-26ad69ecedfb",
-    "controlDate": "2025-05-30T12:04:09.674Z",
+    "controlDate": "2025-11-14T13:50:28.817Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -135874,7 +135907,7 @@
     "squuid": "609296f5-b500-48d1-9475-dc42d0d397d7",
     "name": "Jahr Artopé Media Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T12:03:20.966Z",
+    "controlDate": "2025-11-14T13:50:21.856Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144922,7 +144955,7 @@
     "squuid": "5be1a6b6-62a9-4bc1-8b40-6738e1386800",
     "name": "Jansen Plus GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T13:11:04.021Z",
+    "controlDate": "2025-11-14T14:16:45.580Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -145790,7 +145823,7 @@
     "squuid": "5be1a6b6-051b-48ab-802c-861e311ca003",
     "name": "Invesco Ltd.",
     "state": "active",
-    "controlDate": "2025-05-30T09:14:27.953Z",
+    "controlDate": "2025-11-14T11:20:16.479Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -147036,7 +147069,7 @@
     "squuid": "5be1a6b6-04c8-4166-8795-bf0f6b681c02",
     "name": "Ibbenbürener Vereinsdruckerei GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:16:48.839Z",
+    "controlDate": "2025-11-14T09:48:10.881Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152108,7 +152141,7 @@
     "squuid": "5eb9214a-ebc0-4753-ae46-bd0a3219befe",
     "name": "Johann Michael Sailer Verlag Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:52:54.571Z",
+    "controlDate": "2025-11-14T14:49:51.261Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -154143,7 +154176,7 @@
     "squuid": "5eeb2894-9e2a-4b9c-938a-a472a7886f40",
     "name": "Ippen Digital Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:18:10.875Z",
+    "controlDate": "2025-11-14T11:25:29.938Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -154837,7 +154870,7 @@
     "squuid": "61f2a0ba-85ed-4440-a29a-85051545b8eb",
     "name": "Hüthig GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T14:52:54.638Z",
+    "controlDate": "2025-11-14T09:42:12.900Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156790,7 +156823,7 @@
     "squuid": "5eb958ad-b048-4484-b8b1-c63ffc6bdeb9",
     "name": "J. Mergelsberg Vertriebs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T11:15:06.552Z",
+    "controlDate": "2025-11-14T13:08:36.866Z",
     "limitedPartnership": false,
     "organizations": [
       {
@@ -157103,7 +157136,7 @@
     "squuid": "5d3979c4-7865-44a0-b245-dcd129f97beb",
     "name": "Imbau Montagen Bau-Fertigelemente GmbH",
     "state": "active",
-    "controlDate": "2024-11-12T16:26:06.022Z",
+    "controlDate": "2025-11-14T10:15:04.249Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159209,7 +159242,7 @@
     "squuid": "5eba81ed-93ce-49ad-9339-9aecf659ad11",
     "name": "Jakob Funke Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:06:46.378Z",
+    "controlDate": "2025-11-14T14:15:11.152Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -159385,7 +159418,7 @@
     "squuid": "5efc7f91-c0c8-4f43-8c23-58451228d351",
     "name": "J. P. Bachem Beteiligungs-Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T11:31:50.780Z",
+    "controlDate": "2025-11-14T13:16:11.771Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159675,7 +159708,7 @@
     "squuid": "5eba8343-5bc1-4aa0-be29-8ea4f7a2b36d",
     "name": "JF GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:20:57.461Z",
+    "controlDate": "2025-11-14T14:39:21.425Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -159935,9 +159968,38 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
     ]
@@ -161470,7 +161532,7 @@
     "squuid": "5ec529c6-1230-476a-8aec-b8620a4c796a",
     "name": "Inspiring Network Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:06:26.271Z",
+    "controlDate": "2025-11-14T10:57:02.535Z",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -168872,7 +168934,7 @@
     "squuid": "620a14c1-ab98-44c4-994b-24a7f1a06171",
     "name": "iMedia&123tv Holding GmbH",
     "state": "active",
-    "controlDate": "2025-04-14T14:03:01.590Z",
+    "controlDate": "2025-11-14T10:18:03.048Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -169679,7 +169741,7 @@
     "squuid": "5ce3ba31-2390-4ab5-8a96-a680d98aec69",
     "name": "Seven.One Entertainment Group GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T14:47:55.994Z",
+    "controlDate": "2025-11-14T15:32:43.843Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -172730,7 +172792,7 @@
     "squuid": "666abf20-202e-4108-b4a2-8fae566e50e4",
     "name": "INFO - Das Magazin Pforzheim GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:50:57.945Z",
+    "controlDate": "2025-11-14T10:24:02.136Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173517,7 +173579,7 @@
     "squuid": "5f0c5e6a-1f9c-4ec8-b87d-2a41e1faeb99",
     "name": "Josef Lütticke KG",
     "state": "active",
-    "controlDate": "2025-05-30T14:19:39.296Z",
+    "controlDate": "2025-11-14T15:30:06.931Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -175073,7 +175135,7 @@
     "squuid": "620d1f9f-f791-4566-bf58-0a12ea51a74d",
     "name": "ingame GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:57:28.776Z",
+    "controlDate": "2025-11-14T10:28:37.099Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -175304,7 +175366,7 @@
     "squuid": "620d2231-50d7-4c91-9297-3f371dd8b940",
     "name": "IT Verlag für Informationstechnik GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:51:16.048Z",
+    "controlDate": "2025-11-14T11:39:09.150Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189068,7 +189130,7 @@
     "squuid": "5ecf9e45-5259-4d7d-a27d-5ccd000545d0",
     "name": "IVZ Medien Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:58:25.613Z",
+    "controlDate": "2025-11-14T11:41:15.856Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189081,7 +189143,7 @@
     "squuid": "5ef9d83f-5185-466e-9080-74ae4199ec13",
     "name": "imfernsehen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:43:21.761Z",
+    "controlDate": "2025-11-14T10:18:55.577Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191573,7 +191635,7 @@
     "squuid": "5f1944a3-bed7-4080-9979-792bf22e1c42",
     "name": "Investment Global Co., Ltd. (BAIC-Group)",
     "state": "active",
-    "controlDate": "2025-05-30T09:15:15.018Z",
+    "controlDate": "2025-11-14T11:21:43.397Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -192373,7 +192435,7 @@
     "squuid": "5d2c5157-ca8c-43cb-a94f-38609312dd63",
     "name": "I-MAG Beteiligungs GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-28T14:58:18.021Z",
+    "controlDate": "2025-11-14T09:44:43.513Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -195041,7 +195103,7 @@
     "squuid": "5d2c6899-0b71-4a04-b974-f95ea6702015",
     "name": "IAC InterActiveCorp. ",
     "state": "active",
-    "controlDate": "2025-05-28T14:58:34.860Z",
+    "controlDate": "2025-11-14T09:45:23.548Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197296,7 +197358,7 @@
     "squuid": "5ff31565-552e-4741-aa75-94a872365916",
     "name": "JLW Beteiligungsgesellschaft OHG",
     "state": "active",
-    "controlDate": "2025-05-30T13:40:44.824Z",
+    "controlDate": "2025-11-14T14:42:21.012Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198029,7 +198091,7 @@
     "squuid": "5d372e8f-aada-4bfd-9a03-7f40c13a9f3a",
     "name": "Iserlohn Roosters GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T09:50:54.249Z",
+    "controlDate": "2025-11-14T11:38:47.102Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -198679,7 +198741,7 @@
     "squuid": "61e570c3-9c05-4b3f-b398-f6309efd489c",
     "name": "Internet@Venture Gesellschaft für Neue Medien mbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:12:16.262Z",
+    "controlDate": "2025-11-14T11:19:30.771Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205733,7 +205795,7 @@
     "squuid": "5eb3f3ae-1d34-46fb-a31c-89cd054781e1",
     "name": "Isartalmedien Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:41:20.508Z",
+    "controlDate": "2025-11-14T11:35:47.101Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206079,7 +206141,7 @@
     "squuid": "5f06f43d-3d71-4dd4-b185-e33187e3bbdb",
     "name": "Iserlohn Roosters Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:50:47.667Z",
+    "controlDate": "2025-11-14T11:38:43.588Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206918,7 +206980,7 @@
     "squuid": "5ec3bf59-fcbd-49f5-972c-1149f41fc90a",
     "name": "Jaumann Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:16:20.776Z",
+    "controlDate": "2025-11-14T14:34:05.462Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -207708,7 +207770,7 @@
     "squuid": "649d9082-43cc-46a2-8ed3-7c419fcc5228",
     "name": "Imagesound Limited",
     "state": "active",
-    "controlDate": "2025-05-30T08:40:42.797Z",
+    "controlDate": "2025-11-14T10:14:35.587Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209374,7 +209436,7 @@
     "squuid": "5eb53a48-283a-4925-96f3-743ec3226df4",
     "name": "IDS Information-Display-Services GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:58:02.626Z",
+    "controlDate": "2025-11-14T10:12:44.133Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217365,7 +217427,7 @@
     "squuid": "680b51e3-f330-4173-9b84-a97c05cd0f31",
     "name": "Isartal Health Media GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-04-25T09:14:03.895Z",
+    "controlDate": "2025-11-14T11:34:08.394Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -218328,7 +218390,7 @@
   },
   {
     "squuid": "680b5301-55f2-4286-978b-7ff24e2ef8e9",
-    "name": "Isarttal Health Media Beteiligungsgesellschaft mbH",
+    "name": "Isartal Health Media Beteiligungsgesellschaft mbH",
     "state": "active",
     "controlDate": "2025-04-25T09:19:43.197Z",
     "organizations": [
@@ -220221,7 +220283,7 @@
     "squuid": "5eb005c0-21b3-4271-a1cb-6195a51f3da9",
     "name": "Jahr Media Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T12:11:07.129Z",
+    "controlDate": "2025-11-14T13:53:14.760Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220846,7 +220908,7 @@
     "squuid": "5be1a6b6-bc76-4f3b-953a-a3d36f915c96",
     "name": "Investitionsbank Berlin",
     "state": "active",
-    "controlDate": "2020-06-22T09:42:39.678Z",
+    "controlDate": "2025-11-14T11:20:55.774Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -223493,7 +223555,7 @@
     "squuid": "5be1a6b6-fa05-49a9-b979-3b46b97d1c31",
     "name": "Joachim Ditzen-Blanke GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:43:30.311Z",
+    "controlDate": "2025-11-14T14:46:00.470Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -225399,7 +225461,7 @@
     "squuid": "5be1a6b6-908c-4e4c-8e89-2c3cfe69100d",
     "name": "J. P. Bachem Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T11:32:22.301Z",
+    "controlDate": "2025-11-14T13:17:22.726Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225853,10 +225915,10 @@
   },
   {
     "state": "active",
-    "name": "Julius Beltz GmbH & Co. KG",
+    "name": "Beltz Verlagsgruppe GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-380e-451d-a1ce-cdc737a7c466",
-    "controlDate": "2025-05-30T14:54:06.714Z",
+    "controlDate": "2025-11-14T16:10:07.026Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227878,7 +227940,7 @@
     "name": "J. Esslinger GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ca56-4d28-88af-dd06a71b26bc",
-    "controlDate": "2025-05-30T10:09:53.755Z",
+    "controlDate": "2025-11-14T12:40:03.186Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -228753,7 +228815,7 @@
     "squuid": "5be1a6b6-5e2b-47b4-b2e9-d17158004066",
     "name": "Jahreszeiten-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T12:37:33.451Z",
+    "controlDate": "2025-11-14T14:10:19.069Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -228841,7 +228903,7 @@
     "name": "Johann Michael Sailer Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2c69-45c5-9b50-90e192cf8a26",
-    "controlDate": "2025-05-30T13:53:09.009Z",
+    "controlDate": "2025-11-14T14:51:51.277Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229549,7 +229611,7 @@
     "squuid": "5be1a6b6-1066-4e16-b274-b78c32e71974",
     "name": "J. Christian Leidel GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T10:05:39.513Z",
+    "controlDate": "2025-11-14T12:38:46.636Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231995,7 +232057,7 @@
     "name": "J.P. Peter Gebr. Holstein GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-46d8-4276-b369-a914635473c8",
-    "controlDate": "2025-05-30T11:53:27.902Z",
+    "controlDate": "2025-11-14T13:33:32.834Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237585,7 +237647,7 @@
     "squuid": "5be1a6b6-041b-4ecd-9ffb-11b5a1c5cc9a",
     "name": "IDG Tech Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:49:16.960Z",
+    "controlDate": "2025-11-14T10:07:18.166Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237829,7 +237891,7 @@
     "name": "J. Fink Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ed4f-49ba-8aae-2970856491d2",
-    "controlDate": "2025-05-30T10:23:15.756Z",
+    "controlDate": "2025-11-14T12:43:31.518Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238613,7 +238675,7 @@
     "squuid": "5be1a6b6-b2d9-4693-9d34-06c2eb3555f3",
     "name": "ipm magazin-verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:16:21.206Z",
+    "controlDate": "2025-11-14T11:22:46.249Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240579,7 +240641,7 @@
     "squuid": "5be1a6b6-6ec6-4936-a948-98258f580e4e",
     "name": "Weser Wochenblatt Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-30T09:31:53.058Z",
+    "controlDate": "2025-11-14T15:45:50.064Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240654,7 +240716,7 @@
     "squuid": "5c505fc6-5efd-4f9d-bc7d-ddbcb0f015bf",
     "name": "IWW Institut für Wissen in der Wirtschaft GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T10:04:47.156Z",
+    "controlDate": "2025-11-14T12:38:08.878Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -241141,7 +241203,7 @@
     "name": "Jahr Media GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5664-4486-a5c5-07a45ecc7012",
-    "controlDate": "2025-05-30T12:11:13.736Z",
+    "controlDate": "2025-11-14T13:53:55.431Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242256,7 +242318,7 @@
     "name": "IVZ Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-dfab-4422-8051-6cb177731be0",
-    "controlDate": "2025-05-30T09:58:36.285Z",
+    "controlDate": "2025-11-14T11:42:42.985Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -246315,7 +246377,7 @@
     "squuid": "5be1a6b6-9531-49d4-ac7d-3c53b786933e",
     "name": "Impulse Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:47:58.046Z",
+    "controlDate": "2025-11-14T10:23:02.301Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251107,7 +251169,7 @@
     "squuid": "5be1a6b6-c31e-4cfd-b7f0-c5daa53ec42e",
     "name": "IDG Communications Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:50:31.894Z",
+    "controlDate": "2025-11-14T10:04:52.537Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251885,7 +251947,7 @@
     "squuid": "5be1a6b6-0892-44bd-becd-3966e6a646b7",
     "name": "Investmentaktiengesellschaft für langfristige Investoren TGV",
     "state": "active",
-    "controlDate": "2024-11-13T10:41:09.199Z",
+    "controlDate": "2025-11-14T11:22:01.633Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256435,7 +256497,7 @@
     "squuid": "5f117968-04f5-4302-a177-2dcec1077954",
     "name": "Jansen Plus Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:10:56.035Z",
+    "controlDate": "2025-11-14T14:16:32.363Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -258704,7 +258766,7 @@
     "squuid": "5be1a6b6-6e6c-47ed-9293-4e159ad5e155",
     "name": "Impact Ventures GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T08:47:37.602Z",
+    "controlDate": "2025-11-14T10:22:42.047Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261847,7 +261909,7 @@
     "name": "Ippen Digital GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7ddd-47b0-a68d-5da7195c4eff",
-    "controlDate": "2025-05-30T09:22:08.916Z",
+    "controlDate": "2025-11-14T11:25:35.296Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263608,7 +263670,7 @@
     "squuid": "5be1a6b6-eefc-4149-bfb2-f65492d96389",
     "name": "IVG Immobilien Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:55:51.243Z",
+    "controlDate": "2025-11-14T11:41:00.334Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -266248,7 +266310,7 @@
     "squuid": "5be1a6b6-b3a3-44ed-aa2a-79754d6fbe0c",
     "name": "International Publications Holding (IPH) B.V.",
     "state": "active",
-    "controlDate": "2025-05-30T09:10:52.128Z",
+    "controlDate": "2025-11-14T11:03:18.253Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271350,7 +271412,7 @@
     "squuid": "5bf40545-4596-4b19-b5ef-85b703781941",
     "name": "Fränkischer Tag GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T08:56:00.508Z",
+    "controlDate": "2025-11-14T09:14:36.862Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271862,7 +271924,7 @@
     "squuid": "5be1a6b6-c869-4f11-a22c-f6da52ccaad1",
     "name": "IMAG Independent Media AG",
     "state": "active",
-    "controlDate": "2025-05-30T08:40:16.620Z",
+    "controlDate": "2025-11-14T10:14:30.014Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275172,7 +275234,7 @@
     "squuid": "63c57e9c-8ba9-4abe-9105-98ecb3c57bdf",
     "name": "Isartal Ventures GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-30T09:40:55.235Z",
+    "controlDate": "2025-11-14T11:34:30.237Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -275929,7 +275991,7 @@
     "squuid": "5be1a6b6-ca90-4abb-bf2d-338a3e8c4423",
     "name": "IDG Communications, Inc.",
     "state": "active",
-    "controlDate": "2024-11-13T09:14:06.599Z",
+    "controlDate": "2025-11-14T10:05:03.763Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276096,7 +276158,7 @@
     "squuid": "63c580ff-120a-4afe-8e16-3b489bc6c5a5",
     "name": "Isartal Ventures Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:40:43.400Z",
+    "controlDate": "2025-11-14T11:34:19.687Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -281920,6 +281982,7 @@
     "squuid": "5be1a6b6-abd5-4693-a2e4-1f5684fe827f",
     "name": "Investissement Québec",
     "state": "active",
+    "controlDate": "2025-11-14T11:20:35.606Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -290656,7 +290719,7 @@
     "squuid": "5be1a6b6-a3a7-4232-abdd-344fc99cd053",
     "name": "Jappy GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:13:30.055Z",
+    "controlDate": "2025-11-14T14:17:06.947Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292674,7 +292737,7 @@
     "squuid": "5be1a6b6-6ba5-4f5a-9a91-5161c5f5f233",
     "name": "JUGU Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T14:49:30.911Z",
+    "controlDate": "2025-11-14T15:38:00.737Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -293146,7 +293209,7 @@
     "squuid": "5ecd208b-10a0-4243-b07c-696a836bde56",
     "name": "J.C.C. Verlags- und Druckerei-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T11:39:24.373Z",
+    "controlDate": "2025-11-14T13:21:59.126Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294618,7 +294681,7 @@
     "name": "Junge Freiheit Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2a25-4fbb-a23c-182827cc58b4",
-    "controlDate": "2025-05-30T14:59:20.779Z",
+    "controlDate": "2025-11-14T16:16:17.156Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294651,7 +294714,7 @@
     "squuid": "5be1a6b6-0b5a-49ac-af4c-059dbb7b5a6b",
     "name": "Junge Freiheit Treuhand GmbH Gesellschaft für Kapitalbeteiligungen",
     "state": "active",
-    "controlDate": "2025-05-30T14:58:24.528Z",
+    "controlDate": "2025-11-14T16:16:54.664Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294664,7 +294727,7 @@
     "squuid": "5be1a6b6-c1b3-46b6-accb-b5c02976b9de",
     "name": "Junge Freiheit Verwaltungs- und Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-30T15:04:23.828Z",
+    "controlDate": "2025-11-14T16:17:08.584Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294890,7 +294953,7 @@
     "squuid": "5be1a6b6-f7e3-4621-ad43-6e61153fa0d0",
     "name": "J. P. Bachem Beteiligungsgesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-05-30T11:32:11.104Z",
+    "controlDate": "2025-11-14T13:16:24.217Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -295053,7 +295116,7 @@
     "squuid": "5be1a6b6-3bea-4db9-8153-56728bce9100",
     "name": "J. P. Bachem Medien Anteilsverwaltung UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-05-30T11:35:43.731Z",
+    "controlDate": "2025-11-14T13:16:37.804Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295202,7 +295265,7 @@
     "squuid": "5be1a6b6-35bb-4bad-a91a-466213ed36d5",
     "name": "Joh. Heider Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:46:17.605Z",
+    "controlDate": "2025-11-14T14:46:22.131Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295719,7 +295782,7 @@
     "squuid": "5ecd04cd-1105-41ef-a205-d30dc50f8fbd",
     "name": "ID Metropolen News GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:39:03.493Z",
+    "controlDate": "2025-11-14T09:48:36.132Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299486,7 +299549,7 @@
     "name": "JM Verlags GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63c8056e-9aec-49c6-8bb8-df10344e684b",
-    "controlDate": "2025-05-30T13:41:51.389Z",
+    "controlDate": "2025-11-14T14:42:43.915Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301877,6 +301940,19 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6916e599-487a-49f0-817e-b6cc38177d68",
+    "name": "Hans Nolte Familienstiftung",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -305928,7 +306004,7 @@
     "squuid": "5ee74577-1e62-4822-a0cb-28ed7bd1493a",
     "name": "J. Gronemann Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T10:28:22.964Z",
+    "controlDate": "2025-11-14T12:46:13.132Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -306067,7 +306143,7 @@
     "squuid": "5e4fa49e-e973-4f93-be8e-e95d83e7a90c",
     "name": "JES Invest GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:20:00.692Z",
+    "controlDate": "2025-11-14T14:35:55.622Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -309517,7 +309593,7 @@
     "squuid": "5f056134-0378-41d7-b76e-1263eea223e3",
     "name": "Hörpunkt im Oberlinhaus GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T14:50:51.826Z",
+    "controlDate": "2025-11-14T09:39:57.561Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -310128,7 +310204,7 @@
     "squuid": "5f96d0f4-996c-45ec-989e-2bbde6008d3e",
     "name": "JASSU-Reisen GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T13:15:29.125Z",
+    "controlDate": "2025-11-14T14:33:02.908Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310679,6 +310755,7 @@
     "squuid": "61545195-7e31-4416-8649-2dc1cd15f5b9",
     "name": "Irving West Ltd.",
     "state": "active",
+    "controlDate": "2025-11-14T11:32:15.711Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -311260,7 +311337,7 @@
     "squuid": "6441613b-a5ed-499c-9363-3dc1532014b0",
     "name": "Ippen Digital Media GmbH",
     "state": "active",
-    "controlDate": "2025-05-30T09:18:24.512Z",
+    "controlDate": "2025-11-14T11:27:35.649Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311974,6 +312051,19 @@
     ]
   },
   {
+    "squuid": "69174f5e-ce97-4bec-a7d7-08751f376eda",
+    "name": "MegaDruck.de Produktions- und Vertriebs-GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "60e58eab-49d3-4ea1-a73b-591f0926ded3",
     "name": "Société Générale",
     "state": "active",
@@ -311994,6 +312084,19 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69174f1a-3aa4-49c9-8c0c-adf700943727",
+    "name": "Führing, Peter",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
