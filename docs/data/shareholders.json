@@ -940,7 +940,7 @@
     "name": "Krone Multimedia GmbH & Co KG ",
     "limitedPartnership": true,
     "squuid": "5d308bba-fab4-4774-b25b-1880fe9acb59",
-    "controlDate": "2025-06-02T09:14:37.005Z",
+    "controlDate": "2025-11-17T09:20:36.379Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -964,7 +964,7 @@
     "squuid": "5d308c06-9b4a-472a-b7f0-d561c5eb8bb1",
     "name": "Krone-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:22:56.792Z",
+    "controlDate": "2025-11-17T09:21:08.696Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -975,9 +975,9 @@
   },
   {
     "squuid": "5d308be8-db59-467a-b397-514f3763b1b8",
-    "name": "Krone-Verlag GmbH & Co KG",
+    "name": "Krone-Verlag GmbH & Co. Vermögensverwaltung KG",
     "state": "active",
-    "controlDate": "2025-06-02T09:21:31.360Z",
+    "controlDate": "2025-11-17T09:20:19.618Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -4304,7 +4304,7 @@
     "squuid": "5f8d41ab-1d47-443b-b05e-d70059cd39d8",
     "name": "LiveLive Media GmbH",
     "state": "active",
-    "controlDate": "2025-07-03T14:29:58.356Z",
+    "controlDate": "2025-11-18T12:12:32.695Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4343,7 +4343,7 @@
         "state": "active",
         "held": {
           "squuid": "686665d2-cb46-4998-bf02-f0904863e5b3",
-          "name": "www.moinfm.de"
+          "name": "www.radio-livelive.de"
         }
       }
     ]
@@ -21015,7 +21015,7 @@
     "squuid": "5be1a6b6-86b9-494c-a16c-f4bd3bb9b638",
     "name": "Lokalradio Berchtesgadener Land Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:23:52.540Z",
+    "controlDate": "2025-11-18T13:08:07.086Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22206,7 +22206,7 @@
     "name": "Kölner Anzeigenblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63eba576-89e4-4f30-8879-00c13d93c5c3",
-    "controlDate": "2025-06-02T10:22:30.509Z",
+    "controlDate": "2025-11-17T10:37:05.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22992,7 +22992,7 @@
     "name": "Lokalradio Ostwürttemberg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9649-4d0b-807c-a566dc68dff2",
-    "controlDate": "2025-06-03T11:20:14.592Z",
+    "controlDate": "2025-11-18T13:29:56.985Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23031,7 +23031,7 @@
     "squuid": "5f296061-19a8-4460-8577-f4dde104824f",
     "name": "Landeswelle Thüringen Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T11:16:26.923Z",
+    "controlDate": "2025-11-18T10:37:28.183Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24709,7 +24709,7 @@
     "squuid": "63eba619-22d7-4d58-92c6-c8e060601db7",
     "name": "Kölner Anzeigenblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:22:19.061Z",
+    "controlDate": "2025-11-17T10:36:50.332Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -25495,7 +25495,7 @@
     "squuid": "5be1a6b6-9417-45d2-b1c0-971ab49e6394",
     "name": "Lokal-Radio Cottbus GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:27:19.797Z",
+    "controlDate": "2025-11-18T12:26:37.568Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -29402,7 +29402,7 @@
     "squuid": "608be957-3e43-469e-816e-cdcbbdefbf4b",
     "name": "Loft TV GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:24:14.489Z",
+    "controlDate": "2025-11-18T12:25:41.544Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31787,7 +31787,7 @@
     "squuid": "5be1a6b6-b740-46cb-9e6b-2bde3d68f29c",
     "name": "LFS Landesfunk Sachsen GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:45:06.742Z",
+    "controlDate": "2025-11-18T11:49:31.676Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33323,7 +33323,7 @@
     "name": "LandesWelle Thüringen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b0b6-470b-a5ea-c00a71714166",
-    "controlDate": "2025-06-02T11:17:00.999Z",
+    "controlDate": "2025-11-18T10:37:53.013Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33616,7 +33616,7 @@
     "name": "Lokalfunk für den Kreis Borken GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4527-4ef2-9ab7-0f9cd59a6f29",
-    "controlDate": "2025-06-02T14:34:54.088Z",
+    "controlDate": "2025-11-18T12:43:23.289Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33719,7 +33719,7 @@
     "name": "Lokalfunk Dortmund Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5242-4e9a-ba73-f7fe5104a850",
-    "controlDate": "2025-06-02T14:41:50.083Z",
+    "controlDate": "2025-11-18T12:40:59.921Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33861,7 +33861,7 @@
     "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-90d8-456e-afa5-de6b3d327696",
-    "controlDate": "2025-06-02T15:28:33.502Z",
+    "controlDate": "2025-11-18T13:09:28.853Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34229,7 +34229,7 @@
     "name": "Lokalradio Kreis Kleve Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8f94-4224-bda5-7b626865cbf0",
-    "controlDate": "2025-06-02T15:30:39.148Z",
+    "controlDate": "2025-11-18T13:16:05.195Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34340,7 +34340,7 @@
     "name": "Lokalfunk Krefeld-Viersen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9fa4-4094-842a-06d50f2d23d3",
-    "controlDate": "2025-06-02T14:47:18.812Z",
+    "controlDate": "2025-11-18T12:44:55.702Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34460,7 +34460,7 @@
     "name": "Lokalradio Mettmann Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3934-491c-92a0-1bac8a54065b",
-    "controlDate": "2025-06-02T15:41:20.119Z",
+    "controlDate": "2025-11-18T13:20:30.644Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34514,7 +34514,7 @@
     "name": "Lokalradio Mönchengladbach Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-961d-4bde-81d5-a9638d893b48",
-    "controlDate": "2025-06-03T11:15:51.551Z",
+    "controlDate": "2025-11-18T13:27:07.824Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34594,7 +34594,7 @@
     "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7792-448c-8fae-b97e99f0b6b3",
-    "controlDate": "2025-06-02T15:00:35.942Z",
+    "controlDate": "2025-11-18T12:48:57.839Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34714,7 +34714,7 @@
     "name": "Lokalradio Steinfurt Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c7a2-4726-a9b5-0984cc73c7d8",
-    "controlDate": "2025-06-03T11:22:54.096Z",
+    "controlDate": "2025-11-18T13:31:28.927Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35202,7 +35202,7 @@
     "squuid": "5be1a6b6-2f94-4b13-bc6a-674286cee32c",
     "name": "LAWESPA Medienbeteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:05:54.140Z",
+    "controlDate": "2025-11-18T11:03:38.516Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36397,7 +36397,7 @@
     "squuid": "5be1a6b6-a416-41e1-8a00-02bfc3b953e9",
     "name": "Kyodo News",
     "state": "active",
-    "controlDate": "2024-11-19T12:15:12.999Z",
+    "controlDate": "2025-11-17T10:33:55.655Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -41864,7 +41864,7 @@
     "squuid": "5be1a6b6-9b97-49b5-8284-cc7be59405de",
     "name": "Lora Programm- Anbieter Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:30:26.318Z",
+    "controlDate": "2025-11-18T14:06:51.011Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -46794,7 +46794,7 @@
     "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd",
     "name": "LR Medienverlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:34:20.564Z",
+    "controlDate": "2025-11-18T14:14:55.606Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48003,7 +48003,7 @@
     "squuid": "5f0f0acb-fa00-4de6-bac5-2982fca9c213",
     "name": "Lokalradio Kreis Kleve BetriebsverwaItungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:30:33.029Z",
+    "controlDate": "2025-11-18T13:16:55.710Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48898,7 +48898,7 @@
     "squuid": "5f0f0cc4-9cfd-438e-9c33-1f910131cc31",
     "name": "Lokalfunk Kreis Kleve Presse-Beteiligungs-Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:50:10.670Z",
+    "controlDate": "2025-11-18T12:45:58.871Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50167,7 +50167,7 @@
     "squuid": "5be1a6b6-29b8-4ad7-9fdf-7d702b92fb24",
     "name": "L.SU.TV GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:45:17.595Z",
+    "controlDate": "2025-11-17T11:14:22.893Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50439,7 +50439,7 @@
     "squuid": "5f0f0ec5-c993-441f-94d1-996faf6c8b41",
     "name": "Lokalfunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:47:06.182Z",
+    "controlDate": "2025-11-18T12:44:29.691Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -62325,103 +62325,9 @@
     "controlDate": "2019-05-28T09:28:25.759Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-        "name": "Medienanstalt RLP",
-        "fullName": "Medienanstalt Rheinland-Pfalz",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-        "name": "MMV",
-        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-        "name": "MSA",
-        "fullName": "Medienanstalt Sachsen-Anhalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -62574,103 +62480,9 @@
     "controlDate": "2019-05-28T09:28:45.980Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
-        "name": "Medienanstalt RLP",
-        "fullName": "Medienanstalt Rheinland-Pfalz",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
-        "name": "Medienanstalt Hessen",
-        "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
-        "name": "MMV",
-        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
-        "name": "MSA",
-        "fullName": "Medienanstalt Sachsen-Anhalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -70870,7 +70682,7 @@
     "squuid": "5be1a6b6-3825-4410-9145-190995253eaf",
     "name": "Lokalfernsehen Nürnberg GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:31:10.426Z",
+    "controlDate": "2025-11-18T12:27:47.489Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -71901,7 +71713,7 @@
     "squuid": "5be1a6b6-04aa-4c68-94d6-5d60fa510eed",
     "name": "Landesbank Hessen-Thüringen Girozentrale (Helaba)",
     "state": "active",
-    "controlDate": "2024-11-19T13:51:13.961Z",
+    "controlDate": "2025-11-18T10:34:59.354Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -84009,7 +83821,7 @@
     "name": "Lippischer Zeitungsverlag Giesdorf GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c908-47e7-a5ec-492916452d3f",
-    "controlDate": "2025-06-02T14:02:24.583Z",
+    "controlDate": "2025-11-18T12:02:31.805Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85357,7 +85169,7 @@
     "squuid": "5be1a6b6-e6ae-48ea-9de8-c2430c66ca38",
     "name": "Liberty QVC Holding, LLC",
     "state": "active",
-    "controlDate": "2025-06-02T13:47:40.574Z",
+    "controlDate": "2025-11-18T11:52:23.817Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85375,7 +85187,7 @@
     "squuid": "5be1a6b6-15d0-4f64-a724-5cb65b249913",
     "name": "Liberty Interactive LLC",
     "state": "active",
-    "controlDate": "2025-06-02T13:47:22.205Z",
+    "controlDate": "2025-11-18T11:52:13.626Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85393,7 +85205,7 @@
     "squuid": "5be1a6b6-a70f-4d04-96e5-44e9ae1d307e",
     "name": "Liberty Interactive Corporation",
     "state": "active",
-    "controlDate": "2025-06-02T13:47:06.016Z",
+    "controlDate": "2025-11-18T11:51:59.596Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -86395,7 +86207,7 @@
     "squuid": "5be1a6b6-de39-4a11-9404-927d9956f6d6",
     "name": "Kölnische Verlagsdruckerei GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:26:19.960Z",
+    "controlDate": "2025-11-17T10:39:25.019Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91071,7 +90883,7 @@
     "squuid": "5be1a6b6-5680-4dc9-acbf-f82ae4e0e7f1",
     "name": "KW Acquisition GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:18:43.136Z",
+    "controlDate": "2025-11-17T10:24:12.962Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -94963,7 +94775,7 @@
     "squuid": "5be1a6b6-247b-40f5-80f1-0a66263980d0",
     "name": "L.V. Fromm Verwaltungsgesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-02T10:47:29.580Z",
+    "controlDate": "2025-11-17T11:15:47.500Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -96825,7 +96637,7 @@
     "squuid": "5be1a6b6-f3f6-4e7a-b97e-51eec2a6cc2f",
     "name": "Liebel Druck & Verlag GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-02T13:50:43.778Z",
+    "controlDate": "2025-11-18T11:53:00.553Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -98640,7 +98452,7 @@
     "squuid": "5be1a6b6-b39f-4753-82fe-fc42d8434cda",
     "name": "Lorenz Senn GmbH + Co KG",
     "state": "active",
-    "controlDate": "2025-06-03T11:31:59.983Z",
+    "controlDate": "2025-11-18T14:07:50.046Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -102317,7 +102129,7 @@
     "squuid": "5be1a6b6-4393-42f7-a560-3fe0ea52464e",
     "name": "L. Mundschenk GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-02T10:39:55.713Z",
+    "controlDate": "2025-11-17T11:07:32.554Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -102996,7 +102808,7 @@
     "squuid": "5c50277b-db8f-4037-88d8-b0ceddd8bf9b",
     "name": "KW 25 Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:17:39.947Z",
+    "controlDate": "2025-11-17T10:23:12.994Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -106124,7 +105936,7 @@
     "squuid": "5eb2e59f-0282-4d02-897b-c63df0613e81",
     "name": "L.V. Fromm GmbH",
     "state": "active",
-    "controlDate": "2024-11-19T12:57:54.172Z",
+    "controlDate": "2025-11-17T11:14:53.390Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -107619,7 +107431,7 @@
     "squuid": "62a8afd5-1b2b-4ec3-a7da-31a205712516",
     "name": "Kurier Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:54:04.643Z",
+    "controlDate": "2025-11-17T10:03:25.304Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -130659,7 +130471,7 @@
     "squuid": "5f1036dd-792c-4d4c-958c-62e72ea1391d",
     "name": "Lokalfunk Wuppertal Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:07:55.470Z",
+    "controlDate": "2025-11-18T13:06:29.335Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -134461,7 +134273,7 @@
     "squuid": "62a8bbef-9358-422c-b9f4-3a73c65a618b",
     "name": "Kurier Verlag Lennestadt GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:57:16.667Z",
+    "controlDate": "2025-11-17T10:05:28.929Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137240,7 +137052,7 @@
     "squuid": "5f1042d7-b47f-4d84-aa19-040ed7cf4f25",
     "name": "Lokalradio Steinfurt Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:22:38.557Z",
+    "controlDate": "2025-11-18T13:31:15.808Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -138080,7 +137892,7 @@
     "squuid": "66bcaf34-ecac-421f-9e26-6f233ef76207",
     "name": "Localism Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T10:26:00.978Z",
+    "controlDate": "2025-11-18T12:23:22.836Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -138575,7 +138387,7 @@
     "squuid": "5be1a6b6-e417-41c6-9dcb-c14721ec2951",
     "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T14:43:45.960Z",
+    "controlDate": "2025-11-18T12:42:34.813Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -139329,7 +139141,7 @@
     "squuid": "5be1a6b6-e946-4f6c-a97e-4d429dfee0f0",
     "name": "Lokalfunk Kreis Kleve Presse-Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T14:50:17.870Z",
+    "controlDate": "2025-11-18T12:46:14.607Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -139475,7 +139287,7 @@
     "squuid": "5f10489c-c013-4385-a307-0596c6f10bd8",
     "name": "Lokalradio Coesfeld Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:28:14.308Z",
+    "controlDate": "2025-11-18T13:08:48.395Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139819,7 +139631,7 @@
     "name": "Lippischer Rundfunk GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4b3f-4f25-8ecd-85ec1650f50b",
-    "controlDate": "2025-06-02T13:57:38.526Z",
+    "controlDate": "2025-11-18T12:00:10.362Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139931,7 +139743,7 @@
     "squuid": "5be1a6b6-be28-4aff-a9dd-4501ffa63600",
     "name": "Lokalfunk Mettmann Presse-Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2024-11-20T12:53:36.272Z",
+    "controlDate": "2025-11-18T12:47:45.149Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -140407,7 +140219,7 @@
     "squuid": "5be1a6b6-bfca-441c-afe6-97cfabede7e9",
     "name": "Lokalfunk Mönchengladbach Presse-Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T14:59:03.526Z",
+    "controlDate": "2025-11-18T12:48:19.201Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -140504,7 +140316,7 @@
     "name": "Lokalradio Münster Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4442-4dba-906e-7a3bc3bf8a4a",
-    "controlDate": "2025-06-03T11:18:25.218Z",
+    "controlDate": "2025-11-18T13:29:24.300Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140577,7 +140389,7 @@
     "name": "Lokalradio Kreis Neuss GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6ff-4a81-b8c0-cb16b7e7a0cf",
-    "controlDate": "2025-06-02T15:33:03.765Z",
+    "controlDate": "2025-11-18T13:17:59.016Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140660,7 +140472,7 @@
     "squuid": "5be1a6b6-a6f1-45b2-95c7-d6f226766226",
     "name": "Lokalfunk Kreis Neuss GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T14:51:25.095Z",
+    "controlDate": "2025-11-18T12:46:29.906Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -141159,7 +140971,7 @@
     "squuid": "5be1a6b6-c2ec-4eb9-8c24-ef8451f7f62c",
     "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T15:02:22.520Z",
+    "controlDate": "2025-11-18T12:50:32.945Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -141215,7 +141027,7 @@
     "squuid": "5be1a6b6-8f90-42fc-9b85-291e5f15af94",
     "name": "Lokalfunk Siegen Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T15:07:37.977Z",
+    "controlDate": "2025-11-18T12:50:59.415Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -141943,7 +141755,7 @@
     "name": "Lokalfunk Wuppertal GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e8b9-4d02-bff8-329f2ad909cb",
-    "controlDate": "2025-06-02T15:08:45.173Z",
+    "controlDate": "2025-11-18T12:51:41.168Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145379,7 +145191,7 @@
     "squuid": "5be1a6b6-1faf-47a6-aad8-2d0d73176a09",
     "name": "Laute Lora GbR",
     "state": "active",
-    "controlDate": "2025-06-02T12:56:38.964Z",
+    "controlDate": "2025-11-18T11:03:15.116Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146397,7 +146209,7 @@
     "squuid": "63c0003d-809e-463a-830c-5943bb67104a",
     "name": "Kühne Aviation GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:34:49.107Z",
+    "controlDate": "2025-11-17T10:58:14.246Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -152117,7 +151929,7 @@
     "squuid": "61b7537a-ca8c-4627-a7e8-7bbbc32f5718",
     "name": "LigaInsider GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:53:32.934Z",
+    "controlDate": "2025-11-18T11:58:28.492Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152820,7 +152632,7 @@
     "squuid": "5c8931bc-fc27-4745-b8a3-2f1a92d12ebb",
     "name": "Kunze Medien AG",
     "state": "active",
-    "controlDate": "2025-06-02T09:50:07.514Z",
+    "controlDate": "2025-11-17T09:55:16.422Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159071,7 +158883,7 @@
     "squuid": "5c90ea22-749f-4c68-aca4-86778b9c1b0f",
     "name": "Lemke Medical TV GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:36:14.114Z",
+    "controlDate": "2025-11-18T11:31:51.889Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159828,7 +159640,7 @@
     "squuid": "5c10e97e-5f9f-460b-95c8-c7a206bd971e",
     "name": "L.A.CH. SCHULZ Gesellschaft für Anzeigen, Werbung und Verlag mbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:40:41.924Z",
+    "controlDate": "2025-11-17T11:08:26.341Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162294,7 +162106,7 @@
     "squuid": "5efc8b5c-c1bf-4463-acbe-81988b95dbe6",
     "name": "Krone Multimedia GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:14:23.897Z",
+    "controlDate": "2025-11-17T09:19:47.621Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162453,7 +162265,7 @@
     "squuid": "5eeb7483-36ec-4dc1-9e46-dbfa01a986fc",
     "name": "Lokalradio Münster Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:18:17.193Z",
+    "controlDate": "2025-11-18T13:28:45.349Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164334,7 +164146,7 @@
     "squuid": "5f203950-35bb-4d82-9a24-50a9f179c465",
     "name": "LIEPS GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:52:19.824Z",
+    "controlDate": "2025-11-18T11:56:30.414Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168076,7 +167888,7 @@
     "squuid": "5ebbacaf-bd91-471a-ba33-b8b4f029c318",
     "name": "Liebel Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-06-02T13:51:06.656Z",
+    "controlDate": "2025-11-18T11:52:44.063Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169515,7 +169327,7 @@
     "squuid": "63e114ce-f043-4850-91bf-e6a10eb4662a",
     "name": "Kurier-Verlag GmbH (Hildburghausen)",
     "state": "active",
-    "controlDate": "2025-06-02T10:04:41.504Z",
+    "controlDate": "2025-11-17T10:10:37.823Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176902,7 +176714,7 @@
     "squuid": "5ec4fbd9-0542-4628-bc14-54b5c307350d",
     "name": "LLW Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:11:25.127Z",
+    "controlDate": "2025-11-18T12:23:02.678Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178748,7 +178560,7 @@
     "squuid": "5cadbf42-242d-4b34-8e3d-d05e7487c212",
     "name": "Laabs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:53:47.013Z",
+    "controlDate": "2025-11-17T11:17:17.276Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180860,7 +180672,7 @@
     "squuid": "5d3064ca-13e9-42e5-948f-db6d3c0ea7f1",
     "name": "Landwirt.com GmbH  marketplace for agriculture ",
     "state": "active",
-    "controlDate": "2025-06-02T11:19:37.720Z",
+    "controlDate": "2025-11-18T10:39:27.627Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180884,7 +180696,7 @@
     "squuid": "5ebbf849-9b35-4ed8-b5c8-e54398ee0460",
     "name": "Leonhard Mundschenk Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:39:41.256Z",
+    "controlDate": "2025-11-18T11:35:14.004Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181373,7 +181185,7 @@
     "squuid": "5d30699e-3ff6-4124-9699-5379b718210b",
     "name": "Kurier Zeitungsverlag und Druckerei GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:00:25.291Z",
+    "controlDate": "2025-11-17T09:56:26.928Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -181424,7 +181236,7 @@
     "squuid": "5d306a01-279c-47e9-b3e2-145b282dac7d",
     "name": "KURIER Beteiligungs AG ",
     "state": "active",
-    "controlDate": "2025-06-02T09:53:39.801Z",
+    "controlDate": "2025-11-17T09:55:44.658Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184213,7 +184025,7 @@
     "squuid": "5f0d9879-3e0a-4d43-adc4-488d167204e5",
     "name": "Langenberger Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T12:44:18.298Z",
+    "controlDate": "2025-11-18T10:46:51.574Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190647,7 +190459,7 @@
     "squuid": "5e5505eb-610f-4503-8d79-dcc1ff47eccb",
     "name": "LEONINE Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:41:18.118Z",
+    "controlDate": "2025-11-18T11:38:04.602Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -191925,6 +191737,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "691c5ba1-bd43-4b90-9003-df571699ee8c",
+    "name": "M&A HoldCo Breteuil",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -195911,7 +195736,7 @@
     "squuid": "63d154d5-e9b6-4b98-93e0-d42e3a822cd5",
     "name": "Leverkusener Anzeigenblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:44:04.721Z",
+    "controlDate": "2025-11-18T11:46:10.972Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196019,7 +195844,7 @@
     "name": "Leverkusener Anzeigenblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63d1547f-5e1f-4336-bd41-16d7d44569b3",
-    "controlDate": "2025-06-02T13:44:13.422Z",
+    "controlDate": "2025-11-18T11:46:18.522Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196043,7 +195868,7 @@
     "squuid": "5ed0fddb-fb2e-439b-8e12-df0c6476958d",
     "name": "KZW Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:19:12.612Z",
+    "controlDate": "2025-11-17T10:34:17.146Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196529,7 +196354,7 @@
     "squuid": "5ff2fbd6-d5b4-4633-bacd-fb2b62083bed",
     "name": "KRV Verlags-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2024-06-18T11:10:40.935Z",
+    "controlDate": "2025-11-17T09:27:03.038Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197026,7 +196851,7 @@
     "squuid": "5ed105a2-1a3c-419b-8191-af0352dc9fef",
     "name": "Lippischer Zeitungsverlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:59:08.349Z",
+    "controlDate": "2025-11-18T12:02:05.465Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200081,7 +199906,7 @@
   },
   {
     "squuid": "5f9806cf-7056-491a-a672-dfffb4e5da61",
-    "name": "Frank Willer",
+    "name": "Willer, Frank",
     "state": "active",
     "organizations": [
       {
@@ -203039,7 +202864,7 @@
     "squuid": "5d384fba-1b2c-467d-a5e7-4a5912cfcdec",
     "name": "L. Schaible GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T10:40:22.480Z",
+    "controlDate": "2025-11-17T11:07:56.125Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -203746,7 +203571,7 @@
     "squuid": "63a1d286-265d-4016-b08c-fd1836cafd3e",
     "name": "Labhard Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:54:01.547Z",
+    "controlDate": "2025-11-17T11:18:26.591Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204321,7 +204146,7 @@
     "name": "Lippisches Medienhaus Giesdorf GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "618566b1-2e6f-4ec7-9ea9-fba336abd5fc",
-    "controlDate": "2025-06-02T14:06:06.667Z",
+    "controlDate": "2025-11-18T12:06:41.678Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204345,7 +204170,7 @@
     "squuid": "618566c6-42d8-4fdb-badb-0ec371d05d4a",
     "name": "Lippisches Medienhaus Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:05:57.194Z",
+    "controlDate": "2025-11-18T12:06:31.582Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209877,7 +209702,7 @@
     "squuid": "5f7c81fc-2f1c-43a8-a36f-b2cd5e084326",
     "name": "LEventura GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:43:04.612Z",
+    "controlDate": "2025-11-18T11:45:49.957Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210022,7 +209847,7 @@
     "squuid": "5d2de1db-b1e1-45af-b408-1b948789215d",
     "name": "Lazard Asset Management Company LLC",
     "state": "active",
-    "controlDate": "2025-06-02T13:07:13.198Z",
+    "controlDate": "2025-11-18T11:04:35.040Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -215601,7 +215426,7 @@
     "squuid": "680b4dc2-e6e4-4e62-9a0a-a59a3a9301ab",
     "name": "Looping Brand Media GmbH",
     "state": "active",
-    "controlDate": "2025-04-25T09:07:02.743Z",
+    "controlDate": "2025-11-18T14:03:22.256Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218468,7 +218293,7 @@
     "squuid": "5be1a6b6-085f-4d61-b419-2a53e9b99683",
     "name": "Landwirtschaftsverlag Hessen GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T12:41:56.709Z",
+    "controlDate": "2025-11-18T10:46:11.638Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -222786,7 +222611,7 @@
     "squuid": "5be1a6b6-0ef8-4c59-9687-696ab0486334",
     "name": "Langenberger Hotz-Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T12:42:41.061Z",
+    "controlDate": "2025-11-18T10:46:32.426Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -225978,7 +225803,7 @@
     "squuid": "5d35caf0-cf2e-4ffe-b27d-226bbf2093c5",
     "name": "Lucie Invest GmbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:41:01.512Z",
+    "controlDate": "2025-11-18T14:35:52.501Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226476,7 +226301,7 @@
     "squuid": "6400767f-7687-42c6-b281-55e0bf2a0af0",
     "name": "Kurier-Verlag GmbH (Neuss)",
     "state": "active",
-    "controlDate": "2025-06-02T10:09:57.911Z",
+    "controlDate": "2025-11-17T10:13:11.265Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229269,6 +229094,87 @@
           "squuid": "5be1a6b1-db4e-4453-b7f2-8d63deb038f8",
           "name": "OK!"
         }
+      },
+      {
+        "squuid": "691ae09a-3a25-4239-8fff-e0e60459f858",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-cb60-429a-9220-89fedb50a321",
+          "name": "Für Sie"
+        }
+      },
+      {
+        "squuid": "691ae0af-4d25-4fed-91a2-7c32ec864525",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-e4aa-454a-9c82-6362b442a2bd",
+          "name": "Grazia"
+        }
+      },
+      {
+        "squuid": "691ae0c4-7d29-4def-b6ba-73daf0f02695",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-87a7-4337-8cbb-6ec81bd8e634",
+          "name": "Iss dich gesund"
+        }
+      },
+      {
+        "squuid": "691ae0da-c37b-4465-be17-45cf1dbe885f",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-3d66-403b-8361-d8003ecdd563",
+          "name": "petra"
+        }
+      },
+      {
+        "squuid": "691ae0f1-1ded-4011-8b03-5211653d07b9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-0cc0-411b-abb8-23f6a47e4d11",
+          "name": "vital"
+        }
+      },
+      {
+        "squuid": "691ae106-d9e2-4275-b38f-96e0c2d37ba1",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5039-4184-ba2c-d7dfff913ab1",
+          "name": "www.fuersie.de"
+        }
+      },
+      {
+        "squuid": "691ae130-4f04-4ecf-9d0c-4916be3ee896",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5b46-45cd-89a8-feadbeb9b22e",
+          "name": "www.grazia-magazin.de"
+        }
+      },
+      {
+        "squuid": "691ae14d-5f96-4d58-8bfe-5640d4dc577b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-1aba-4e04-8e41-95f32890ddd6",
+          "name": "www.petra.de"
+        }
+      },
+      {
+        "squuid": "691ae167-bd34-4934-b7cc-cc01b56d11af",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6e87-484a-b7f6-d992f0703a06",
+          "name": "www.vital.de"
+        }
       }
     ]
   },
@@ -229455,7 +229361,7 @@
     "squuid": "5be1a6b6-29ea-4b12-aa6d-44fb987f63f1",
     "name": "Landbuch Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2024-11-19T13:32:55.856Z",
+    "controlDate": "2025-11-17T11:33:03.456Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229520,7 +229426,7 @@
     "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291",
     "name": "Landwirtschaftsverlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T12:32:42.055Z",
+    "controlDate": "2025-11-18T10:42:59.896Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -236882,7 +236788,7 @@
     "name": "Leipziger Verlags- und Druckereigesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e3d7-48f4-a702-9fec71b10041",
-    "controlDate": "2025-06-02T13:15:42.809Z",
+    "controlDate": "2025-11-18T11:12:10.233Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238735,7 +238641,7 @@
     "squuid": "5be1a6b6-f18f-49c3-bcf2-fec95b06738c",
     "name": "Lahrer Zeitung GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T11:01:13.363Z",
+    "controlDate": "2025-11-17T11:24:41.042Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240968,7 +240874,7 @@
     "squuid": "5ef5e461-83e8-4ad1-a4d3-c1ac43dc6368",
     "name": "KStA Digitale Medien Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:37:38.928Z",
+    "controlDate": "2025-11-17T09:40:23.537Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242610,7 +242516,7 @@
     "squuid": "5be1a6b6-a845-483a-a347-207126b58b58",
     "name": "Lausitzer VerlagsService GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T12:54:15.666Z",
+    "controlDate": "2025-11-18T10:53:56.979Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243278,99 +243184,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Klambt Style-Verlag GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-f7a7-4dcd-a3c7-bacf1c9f9bbb",
+    "name": "Klambt Style-Verlag GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2025-11-16T10:59:26.315Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-a3e0-4594-b568-b63e2c88672f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-e4aa-454a-9c82-6362b442a2bd",
-          "name": "Grazia"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-b378-414e-a27d-ae9c873f36a1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5b46-45cd-89a8-feadbeb9b22e",
-          "name": "www.grazia-magazin.de"
-        }
-      },
-      {
-        "squuid": "5be2fade-d422-438c-8943-fd6e0f3e6fe4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-3d66-403b-8361-d8003ecdd563",
-          "name": "petra"
-        }
-      },
-      {
-        "squuid": "5be2fcd5-b14d-4398-a0a2-f99ab87a2e14",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-1aba-4e04-8e41-95f32890ddd6",
-          "name": "www.petra.de"
-        }
-      },
-      {
-        "squuid": "5be2fd78-7a73-4672-af0d-0a93fa9e5f0b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-cb60-429a-9220-89fedb50a321",
-          "name": "Für Sie"
-        }
-      },
-      {
-        "squuid": "5be2fe43-4dd3-4df5-9189-0f0aca843e60",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5039-4184-ba2c-d7dfff913ab1",
-          "name": "www.fuersie.de"
-        }
-      },
-      {
-        "squuid": "5be301cb-68ea-45e4-b33e-109ff48fb4f5",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-0cc0-411b-abb8-23f6a47e4d11",
-          "name": "vital"
-        }
-      },
-      {
-        "squuid": "5be3023d-11b4-4b45-bb3e-351599b56b57",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6e87-484a-b7f6-d992f0703a06",
-          "name": "www.vital.de"
-        }
-      },
-      {
-        "squuid": "5be3081e-0d3a-4b73-908b-4cf61d4889f9",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-87a7-4337-8cbb-6ec81bd8e634",
-          "name": "Iss dich gesund"
-        }
       }
     ]
   },
@@ -245221,7 +245045,7 @@
     "squuid": "5be1a6b6-3d61-4f25-841a-a9679d6ff5f1",
     "name": "Kreuzer Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T09:12:41.171Z",
+    "controlDate": "2025-11-17T09:15:49.779Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -248055,7 +247879,7 @@
     "squuid": "5be1a6b6-1127-4c80-97ce-85d6e6cba678",
     "name": "LAWI-Dienstleistungen GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:07:01.506Z",
+    "controlDate": "2025-11-18T11:04:06.215Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249107,7 +248931,7 @@
     "squuid": "5ec504c6-13b0-4ffe-b0b8-9b717b6509b7",
     "name": "Leipziger Verlags-und Druckerei-Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:14:54.849Z",
+    "controlDate": "2025-11-18T11:11:57.649Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251100,7 +250924,7 @@
     "name": "KStA Digitale Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1f57-4ce6-857c-4eb27804b6ef",
-    "controlDate": "2025-06-02T09:38:49.846Z",
+    "controlDate": "2025-11-17T09:40:31.653Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256040,7 +255864,7 @@
     "squuid": "619d1a15-5b66-4eba-aa07-016cd96a9de9",
     "name": "Lokalradios RLP GmbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:24:02.403Z",
+    "controlDate": "2025-11-18T13:32:31.017Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261701,7 +261525,7 @@
     "squuid": "5be1a6b6-ce08-4da5-902d-86815d9eb408",
     "name": "Kurz und Spiegel GbR",
     "state": "active",
-    "controlDate": "2025-06-02T10:16:19.275Z",
+    "controlDate": "2025-11-17T10:21:57.368Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261767,7 +261591,7 @@
     "squuid": "5be1a6b6-92d3-41f7-9672-ad84fe778e5f",
     "name": "Laut AG",
     "state": "active",
-    "controlDate": "2025-06-02T13:01:09.232Z",
+    "controlDate": "2025-11-18T10:57:00.257Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263422,7 +263246,7 @@
     "squuid": "5be1a6b6-35cf-4341-a28b-871cf6cab0f7",
     "name": "Leipziger Medien Beteiligungs GbR",
     "state": "active",
-    "controlDate": "2025-06-02T13:13:35.417Z",
+    "controlDate": "2025-11-18T11:08:49.996Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263616,12 +263440,13 @@
   {
     "squuid": "5be1a6b6-1557-4e45-8446-b6604197a5f5",
     "name": "Klambt Programmzeitschriften Holding GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-06-01T12:06:37.496Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -263913,7 +263738,7 @@
     "squuid": "5f118afc-d5a0-4761-9da5-833f45c9344e",
     "name": "Lokalfunk Betriebsgesellschaft für den Kreis Borken mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:34:46.321Z",
+    "controlDate": "2025-11-18T12:40:44.741Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275001,7 +274826,7 @@
     "squuid": "5ef9b6d0-7208-4b8e-87cb-ffc091c8e45b",
     "name": "LAJ Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T11:09:04.085Z",
+    "controlDate": "2025-11-17T11:30:35.515Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -289375,7 +289200,7 @@
     "squuid": "5f15953d-0462-4959-92c4-6b9da3d8f510",
     "name": "Lokalfunk Dortmund Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:41:34.656Z",
+    "controlDate": "2025-11-18T12:41:50.036Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292243,7 +292068,7 @@
     "squuid": "5f159d2f-335d-41a2-a5ba-a0e6b13a755a",
     "name": "Lokalradio Düsseldorf Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:28:27.576Z",
+    "controlDate": "2025-11-18T13:09:19.707Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292934,7 +292759,7 @@
     "squuid": "5f159e20-0b74-4d7b-84c6-62d252beadbb",
     "name": "Lokalfunk Düsseldorf Presse-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:42:52.473Z",
+    "controlDate": "2025-11-18T12:42:07.899Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294565,12 +294390,13 @@
   {
     "squuid": "5ec78d9d-d728-41e2-83a4-6ab9173a0f40",
     "name": "Klambt Style-Verlag Verwaltungsgesellschaft mbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-11-16T10:57:35.318Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -303747,7 +303573,7 @@
     "squuid": "5be1a6b6-a8e2-484b-aad5-b2810e16e882",
     "name": "Lahrer Anzeiger Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T10:58:23.520Z",
+    "controlDate": "2025-11-17T11:23:22.310Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305734,7 +305560,7 @@
     "squuid": "63c91e82-070e-4a98-bbc6-650d42348ab9",
     "name": "Kühne Holding AG",
     "state": "active",
-    "controlDate": "2025-06-02T10:35:35.995Z",
+    "controlDate": "2025-11-17T10:58:33.004Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -308028,7 +307854,7 @@
     "squuid": "5e4fbf88-4c60-4ec6-8bce-e792c3d29cd2",
     "name": "LEONINE Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:41:23.990Z",
+    "controlDate": "2025-11-18T11:44:59.902Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -310497,7 +310323,7 @@
     "squuid": "5f16e094-9099-4bd2-9574-a7b746b4bf2d",
     "name": "Lippischer Rundfunk Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:57:30.784Z",
+    "controlDate": "2025-11-18T12:00:03.295Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310624,7 +310450,7 @@
     "squuid": "5f16e55c-c211-4ba1-a3fe-c530d02b9edb",
     "name": "Lokalfunk Mettmann Presse-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2024-11-20T12:53:22.188Z",
+    "controlDate": "2025-11-18T12:47:32.107Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310643,7 +310469,7 @@
     "squuid": "5f16e426-ebf3-498d-b504-802cd53d5875",
     "name": "Lokalradio Mettmann Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:35:44.319Z",
+    "controlDate": "2025-11-18T13:19:50.739Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310800,7 +310626,7 @@
     "squuid": "63ce71d0-cc26-4093-ba41-7afe20d323ea",
     "name": "Laumanns Medienservice Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T12:47:40.086Z",
+    "controlDate": "2025-11-18T10:48:59.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310814,7 +310640,7 @@
     "name": "Laumanns Medienservice GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63ce71ba-cddf-4175-9896-c05dd443e51a",
-    "controlDate": "2025-06-02T12:47:51.366Z",
+    "controlDate": "2025-11-18T10:49:10.867Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311025,7 +310851,7 @@
     "squuid": "5f16eded-36fd-4920-a90a-5b73ebd49a33",
     "name": "Lokalfunk Mönchengladbach Presse-Beteiligungs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:58:12.649Z",
+    "controlDate": "2025-11-18T12:48:01.771Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311044,7 +310870,7 @@
     "squuid": "5f16edbd-b2b6-4ce0-980b-77928fb7cd71",
     "name": "Lokalradio Mönchengladbach Betriebs-Verwaltungs-Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-03T11:14:27.162Z",
+    "controlDate": "2025-11-18T13:26:53.098Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311290,7 +311116,7 @@
     "squuid": "5f16f187-1dfb-4f59-a642-69d153d21dce",
     "name": "Lokalradio Kreis Neuss Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:32:11.079Z",
+    "controlDate": "2025-11-18T13:18:13.212Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311483,7 +311309,7 @@
     "squuid": "5f16f1b9-1a6b-4e40-b2f4-32a4cff524a5",
     "name": "Lokalfunk Kreis Neuss Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:50:40.261Z",
+    "controlDate": "2025-11-18T12:46:54.851Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313414,7 +313240,7 @@
     "squuid": "5c52ed32-3c6a-4ba9-8450-2d5bbeb50493",
     "name": "LE Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:07:40.582Z",
+    "controlDate": "2025-11-18T11:05:05.364Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313758,7 +313584,7 @@
     "squuid": "5f058d68-5110-4bbe-99e8-e2804193570e",
     "name": "LEONINE Licensing GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T13:41:47.516Z",
+    "controlDate": "2025-11-18T11:45:11.176Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -313873,7 +313699,7 @@
     "squuid": "5f181066-8eaa-43ba-b644-da791aa030f4",
     "name": "Lokalfunk Remscheid-Solingen Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T14:59:30.310Z",
+    "controlDate": "2025-11-18T12:48:40.112Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -314002,7 +313828,7 @@
     "squuid": "5f18107c-3fcf-4a1b-9d0e-2747457b9cfa",
     "name": "Lokalfunk Remscheid-Solingen Presse-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:02:29.256Z",
+    "controlDate": "2025-11-18T12:50:20.409Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -315028,7 +314854,7 @@
     "squuid": "5f181709-e7c1-44f8-abcc-0fc8f5576dff",
     "name": "Lokalfunk Siegen Beteiligungsgesellschaft-Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-02T15:06:00.243Z",
+    "controlDate": "2025-11-18T12:51:10.685Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -315327,7 +315153,7 @@
     "squuid": "644a36ea-ef7f-46ee-82d2-30afa172f946",
     "name": "Lensing Media GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-02T13:38:38.230Z",
+    "controlDate": "2025-11-18T11:34:41.621Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -315353,7 +315179,7 @@
     "squuid": "644a36fc-6bcf-4074-a8b5-83ad54441d66",
     "name": "Lensing Media Beteiligungs KG",
     "state": "active",
-    "controlDate": "2025-06-02T13:38:20.146Z",
+    "controlDate": "2025-11-18T11:34:27.843Z",
     "limitedPartnership": true,
     "organizations": [
       {
