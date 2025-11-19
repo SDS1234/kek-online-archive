@@ -1,0 +1,19 @@
+{
+  "rfSupervisingAuthority": {
+    "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+    "name": "TLM",
+    "type": "organization",
+    "fullName": "Thüringer Landesmedienanstalt"
+  },
+  "rfPublicPrivate": false,
+  "organization": {
+    "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+    "name": "TLM",
+    "type": "organization",
+    "fullName": "Thüringer Landesmedienanstalt"
+  },
+  "name": "Kyffhäuser Radio Artern",
+  "type": "radio",
+  "squuid": "691dc3ab-0b6d-44e5-83a2-eb7bf9ad43d3",
+  "state": "active"
+}
