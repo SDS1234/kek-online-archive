@@ -31842,11 +31842,11 @@ digraph {
     label="Dieter von Holtzbrinck Ventures Fonds III GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0020
     name="690b1e58-9e70-4736-aafb-5b6591f345bc"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2654 [
     type=shareholder
@@ -31854,11 +31854,11 @@ digraph {
     label="Dieter von Holtzbrinck Ventures GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0038
     name="690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2655 [
     type=shareholder
@@ -37722,11 +37722,11 @@ digraph {
     label="EIC Fund"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0080
     name="690b1ecc-0d37-4dd7-84a8-417756a52d06"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3144 [
     type=shareholder
@@ -40881,7 +40881,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0648
     name="68f7447f-44e3-4079-9be8-cd1a17df8d58"
-    in_degree=0
+    in_degree=9
     out_degree=1
   ];
   3407 [
@@ -43842,11 +43842,11 @@ digraph {
     label="Evans, Daniel James"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0021
     name="690b1de8-4964-49cb-9e91-8733543855c5"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3654 [
     type=print
@@ -95058,11 +95058,11 @@ digraph {
     label="Mitichkin, Evgeny"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0043
     name="690b1dd3-49a6-456a-93c2-a309c35b597e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7922 [
     type=shareholder
@@ -126558,11 +126558,11 @@ digraph {
     label="Rudolf Fuchs Kapitalanlage-Gesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0291
     name="690b1e2e-5991-4f37-a4f1-44363d26f442"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10547 [
     type=shareholder
@@ -144846,11 +144846,11 @@ digraph {
     label="Streubesitz an der Enote GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0004
     name="690b1ee4-3abc-4bd4-a20f-c9e459f2cb76"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12071 [
     type=shareholder
@@ -153246,11 +153246,11 @@ digraph {
     label="Tufan, Josef"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0075
     name="690b1db8-3be7-40d4-bc8b-b3166fc1d7bb"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12771 [
     type=shareholder
@@ -158622,11 +158622,11 @@ digraph {
     label="Videnoff, Boian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0075
     name="690b1da4-1971-4d7a-b240-f0fe04696bbb"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   13219 [
     type=print
@@ -221049,6 +221049,14 @@ digraph {
     weight=33.3
     type=owns
   ];
+  2653 -> 3406 [
+    weight=3.11
+    type=owns
+  ];
+  2654 -> 3406 [
+    weight=5.88
+    type=owns
+  ];
   2656 -> 8766 [
     weight=100
     type=operates
@@ -223589,6 +223597,10 @@ digraph {
     weight=1
     type=owns
   ];
+  3143 -> 3406 [
+    weight=12.33
+    type=owns
+  ];
   3145 -> 3427 [
     weight=40.2
     type=owns
@@ -225111,6 +225123,10 @@ digraph {
   ];
   3652 -> 4474 [
     weight=5.9
+    type=owns
+  ];
+  3653 -> 3406 [
+    weight=3.31
     type=owns
   ];
   3656 -> 2053 [
@@ -244177,6 +244193,10 @@ digraph {
     weight=1
     type=owns
   ];
+  7921 -> 3406 [
+    weight=6.62
+    type=owns
+  ];
   7923 -> 755 [
     weight=15
     type=owns
@@ -258245,6 +258265,10 @@ digraph {
     weight=75.1
     type=owns
   ];
+  10546 -> 3406 [
+    weight=44.98
+    type=owns
+  ];
   10547 -> 5074 [
     weight=100
     type=owns
@@ -264461,6 +264485,10 @@ digraph {
     weight=26.31
     type=owns
   ];
+  12070 -> 3406 [
+    weight=1
+    type=owns
+  ];
   12071 -> 3657 [
     weight=35.7
     type=owns
@@ -267673,6 +267701,10 @@ digraph {
     weight=40
     type=owns
   ];
+  12770 -> 3406 [
+    weight=11.58
+    type=owns
+  ];
   12773 -> 1960 [
     weight=100
     type=operates
@@ -270051,6 +270083,10 @@ digraph {
   ];
   13216 -> 13215 [
     weight=90
+    type=owns
+  ];
+  13218 -> 3406 [
+    weight=11.58
     type=owns
   ];
   13222 -> 15687 [
