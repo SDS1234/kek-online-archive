@@ -2,22 +2,34 @@ name: Scraper
 on:
   workflow_dispatch:
   schedule:
-    # run on the same day as the changes were made
     - cron: '0 * * * *'
+
+concurrency:
+  group: scraper
+  cancel-in-progress: false
 
 jobs:
   main:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           cache: 'pip'
-      - name: pull kek data
+      - name: prepare python
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python update.py
+      - name: pull kek data (with 3 retries)
+        run: |
+          for i in 1 2 3; do
+            echo "Attempt $i to run update.py"
+            python update.py && break
+            echo "update.py failed; sleeping $((i * 30))s before next attempt"
+            sleep $((i * 30))
+          done
       - name: git config user
         run: |
           curl -s -u ${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }} https://api.github.com/users/${GITHUB_ACTOR} > ${GITHUB_ACTOR}.json
@@ -26,7 +38,7 @@ jobs:
       - name: commit changes
         run: |
           git add docs/data
-          git commit -m"commit changes `date -Iseconds`" || true
+          git commit -m "commit changes `date -Iseconds`" || true
       - name: push changes
         run: |
           git push
