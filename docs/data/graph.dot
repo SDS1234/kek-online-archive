@@ -5058,11 +5058,11 @@ digraph {
     label="AMC DMC Holdings B.V."
     num_owners=12
     num_owners_weighted=11.0088
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-61c7-4c2e-b4b4-409e2f021faa"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   422 [
     type=shareholder
@@ -5094,8 +5094,8 @@ digraph {
     label="AMC Global Holdings CV"
     num_owners=8
     num_owners_weighted=7.0088
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5d304b6a-a426-4b17-8455-d1ce7fa77c87"
     in_degree=3
     out_degree=1
@@ -5106,8 +5106,8 @@ digraph {
     label="AMC GP 2 LLC"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0045
+    num_medias=1
+    num_medias_weighted=0.0015
     name="5d304c9b-141b-42e2-b3aa-976e70393ee6"
     in_degree=0
     out_degree=1
@@ -5142,8 +5142,8 @@ digraph {
     label="AMC Networks Inc."
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=3
-    num_medias_weighted=2.4053
+    num_medias=1
+    num_medias_weighted=0.8018
     name="5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
     in_degree=4
     out_degree=1
@@ -5154,8 +5154,8 @@ digraph {
     label="AMC Networks International LLC"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=3
-    num_medias_weighted=2.4053
+    num_medias=1
+    num_medias_weighted=0.8018
     name="5d304b95-05c0-4167-a5dd-9aa11342d24f"
     in_degree=1
     out_degree=1
@@ -5166,8 +5166,8 @@ digraph {
     label="AMC Networks International Zone Holdings Ltd."
     num_owners=11
     num_owners_weighted=10.0088
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d3047f9-4b8a-42f6-9df9-58ac88ceb552"
     in_degree=1
     out_degree=1
@@ -5178,8 +5178,8 @@ digraph {
     label="AMC Networks MovieCo Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.5902
+    num_medias=1
+    num_medias_weighted=0.1967
     name="5d304bb9-68d1-4270-92dd-ea8eba723c91"
     in_degree=0
     out_degree=1
@@ -5202,8 +5202,8 @@ digraph {
     label="AMC UK Midco Ltd."
     num_owners=10
     num_owners_weighted=9.0088
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-85d6-46c9-bc78-6c15ac24b212"
     in_degree=1
     out_degree=2
@@ -5214,8 +5214,8 @@ digraph {
     label="AMC UK Topco Ltd."
     num_owners=9
     num_owners_weighted=8.0088
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-b23b-4f6f-ad8a-4c8ff580848d"
     in_degree=1
     out_degree=1
@@ -16578,8 +16578,8 @@ digraph {
     label="BlackRock, Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=128
-    num_medias_weighted=2.1317
+    num_medias=126
+    num_medias_weighted=1.9526
     name="5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
     in_degree=0
     out_degree=20
@@ -33582,8 +33582,8 @@ digraph {
     label="Dolan Family Group"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.6882
+    num_medias=1
+    num_medias_weighted=0.2294
     name="66605a14-b35f-43c8-a63f-417d0edd13a7"
     in_degree=0
     out_degree=1
@@ -75172,20 +75172,20 @@ digraph {
     type=shareholder
     state=active
     label="Kinowelt Television GmbH"
-    num_owners=14
-    num_owners_weighted=13.0088
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-981e-4738-8602-d42b4ee91a40"
-    in_degree=1
+    in_degree=0
     out_degree=2
   ];
   6265 [
     type=tv
     state=active
     label="Kinowelt TV"
-    num_owners=15
-    num_owners_weighted=14.0088
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a904-4a4f-b0a3-b1146e70c2db"
@@ -80078,15 +80078,15 @@ digraph {
   ];
   6673 [
     type=shareholder
-    state=active
+    state=archived
     label="KW Acquisition GmbH"
-    num_owners=13
-    num_owners_weighted=12.0088
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-5680-4dc9-acbf-f82ae4e0e7f1"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   6674 [
     type=tv
@@ -144462,8 +144462,8 @@ digraph {
     label="Streubesitz an der AMC Networks Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=1.2647
+    num_medias=1
+    num_medias_weighted=0.4216
     name="66605abc-5945-4b27-82d0-2c4ca413f632"
     in_degree=0
     out_degree=1
@@ -150666,8 +150666,8 @@ digraph {
     label="The Vanguard Group, Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=1.8866
+    num_medias=95
+    num_medias_weighted=1.7641
     name="5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
     in_degree=0
     out_degree=10
@@ -185416,8 +185416,8 @@ digraph {
     type=online
     state=active
     label="www.kinowelt.tv"
-    num_owners=15
-    num_owners_weighted=14.0088
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3a5db6-5ca9-45f7-8fce-fa4470e2a4ed"
@@ -210638,10 +210638,6 @@ digraph {
     type=owns
   ];
   420 -> 2013 [
-    weight=100
-    type=owns
-  ];
-  421 -> 6673 [
     weight=100
     type=owns
   ];
@@ -239139,10 +239135,6 @@ digraph {
   ];
   6672 -> 14054 [
     weight=50
-    type=owns
-  ];
-  6673 -> 6264 [
-    weight=100
     type=owns
   ];
   6676 -> 2397 [
