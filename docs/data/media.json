@@ -130262,6 +130262,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Absolut Oldie Classics",
+    "type": "radio",
+    "squuid": "692042be-ca36-4cfd-9471-9179e495f766",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "639c8e0b-630f-495c-b20b-fc4eae96b349",
     "organization": {
@@ -130312,6 +130331,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Absolut Bella",
+    "type": "radio",
+    "squuid": "69204298-79df-4fa9-8693-b88d43d08560",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "667e782d-a3cb-4338-a3e9-9ea10a56b122",
     "organization": {
@@ -130354,6 +130392,25 @@
       "type": "organization"
     },
     "pressKind": "Gesundheit"
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Absolut TOP",
+    "type": "radio",
+    "squuid": "692042ac-c700-4444-ae7f-204a965457fc",
+    "state": "active"
   },
   {
     "state": "active",
