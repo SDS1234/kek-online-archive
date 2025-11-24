@@ -5094,11 +5094,11 @@ digraph {
     label="AMC DMC Holdings B.V."
     num_owners=12
     num_owners_weighted=11.0088
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5be1a6b6-61c7-4c2e-b4b4-409e2f021faa"
     in_degree=1
-    out_degree=0
+    out_degree=1
   ];
   425 [
     type=shareholder
@@ -5130,8 +5130,8 @@ digraph {
     label="AMC Global Holdings CV"
     num_owners=8
     num_owners_weighted=7.0088
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=3
+    num_medias_weighted=3.0000
     name="5d304b6a-a426-4b17-8455-d1ce7fa77c87"
     in_degree=3
     out_degree=1
@@ -5142,8 +5142,8 @@ digraph {
     label="AMC GP 2 LLC"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.0015
+    num_medias=3
+    num_medias_weighted=0.0045
     name="5d304c9b-141b-42e2-b3aa-976e70393ee6"
     in_degree=0
     out_degree=1
@@ -5178,8 +5178,8 @@ digraph {
     label="AMC Networks Inc."
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=1
-    num_medias_weighted=0.8018
+    num_medias=3
+    num_medias_weighted=2.4053
     name="5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7"
     in_degree=4
     out_degree=1
@@ -5190,8 +5190,8 @@ digraph {
     label="AMC Networks International LLC"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=1
-    num_medias_weighted=0.8018
+    num_medias=3
+    num_medias_weighted=2.4053
     name="5d304b95-05c0-4167-a5dd-9aa11342d24f"
     in_degree=1
     out_degree=1
@@ -5202,8 +5202,8 @@ digraph {
     label="AMC Networks International Zone Holdings Ltd."
     num_owners=11
     num_owners_weighted=10.0088
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5d3047f9-4b8a-42f6-9df9-58ac88ceb552"
     in_degree=1
     out_degree=1
@@ -5214,8 +5214,8 @@ digraph {
     label="AMC Networks MovieCo Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.1967
+    num_medias=3
+    num_medias_weighted=0.5902
     name="5d304bb9-68d1-4270-92dd-ea8eba723c91"
     in_degree=0
     out_degree=1
@@ -5238,8 +5238,8 @@ digraph {
     label="AMC UK Midco Ltd."
     num_owners=10
     num_owners_weighted=9.0088
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=3
+    num_medias_weighted=3.0000
     name="5be1a6b6-85d6-46c9-bc78-6c15ac24b212"
     in_degree=1
     out_degree=2
@@ -5250,8 +5250,8 @@ digraph {
     label="AMC UK Topco Ltd."
     num_owners=9
     num_owners_weighted=8.0088
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=3
+    num_medias_weighted=3.0000
     name="5be1a6b6-b23b-4f6f-ad8a-4c8ff580848d"
     in_degree=1
     out_degree=1
@@ -8130,8 +8130,8 @@ digraph {
     label="Atwater Capital Fund I, LP"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0031
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6495385d-bd8e-42d1-b752-7dd2010572aa"
     in_degree=0
     out_degree=1
@@ -8142,8 +8142,8 @@ digraph {
     label="Atwater Show SPV L.P."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0074
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e39476b-943d-4285-9385-2aad04c30ae6"
     in_degree=0
     out_degree=1
@@ -13674,8 +13674,8 @@ digraph {
     label="Berg, Quirin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0004
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6495382c-dbcf-4c9b-940b-1a584dc85333"
     in_degree=0
     out_degree=1
@@ -15474,8 +15474,8 @@ digraph {
     label="BidCo SAS"
     num_owners=15
     num_owners_weighted=8.7344
-    num_medias=2
-    num_medias_weighted=0.0733
+    num_medias=0
+    num_medias_weighted=0.0000
     name="606d7530-27bc-4147-a012-b866a98f6a19"
     in_degree=2
     out_degree=2
@@ -16614,8 +16614,8 @@ digraph {
     label="BlackRock, Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=126
-    num_medias_weighted=1.9526
+    num_medias=128
+    num_medias_weighted=2.1317
     name="5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
     in_degree=0
     out_degree=20
@@ -33618,8 +33618,8 @@ digraph {
     label="Dolan Family Group"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.2294
+    num_medias=3
+    num_medias_weighted=0.6882
     name="66605a14-b35f-43c8-a63f-417d0edd13a7"
     in_degree=0
     out_degree=1
@@ -37938,11 +37938,11 @@ digraph {
     label="Eigenanteile der Internationale Gabriele-Stiftung Verwaltungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1400
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68761bc1-f41b-473f-8737-e2059142f904"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3162 [
     type=shareholder
@@ -39782,15 +39782,15 @@ digraph {
   ];
   3315 [
     type=shareholder
-    state=active
+    state=archived
     label="Elenxis-Media-Funds-Holding GmbH"
-    num_owners=6
-    num_owners_weighted=3.3785
-    num_medias=6
-    num_medias_weighted=2.4000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-f6aa-491c-b29e-d227ab5f0e19"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   3316 [
     type=shareholder
@@ -51786,11 +51786,11 @@ digraph {
     label="Führing, Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=6
+    num_medias_weighted=0.6000
     name="69174f1a-3aa4-49c9-8c0c-adf700943727"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4316 [
     type=shareholder
@@ -69669,7 +69669,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.4000
     name="6852d6fb-0128-4b2f-9a31-523a15dc4939"
-    in_degree=9
+    in_degree=8
     out_degree=1
   ];
   5806 [
@@ -72326,15 +72326,15 @@ digraph {
   ];
   6027 [
     type=shareholder
-    state=active
+    state=archived
     label="JUGU Media GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
-    num_medias=6
-    num_medias_weighted=3.6000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-6ba5-4f5a-9a91-5161c5f5f233"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   6028 [
     type=print
@@ -75213,7 +75213,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-981e-4738-8602-d42b4ee91a40"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   6268 [
@@ -75642,8 +75642,8 @@ digraph {
     label="KKR & Co. Inc."
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=2
-    num_medias_weighted=0.1357
+    num_medias=0
+    num_medias_weighted=0.0000
     name="62737c79-5671-4f78-a66b-a2667fb01a08"
     in_degree=4
     out_degree=1
@@ -75654,8 +75654,8 @@ digraph {
     label="KKR European Fund IV L.P."
     num_owners=6
     num_owners_weighted=6.0000
-    num_medias=2
-    num_medias_weighted=0.1357
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e394566-ea19-40f2-a0bd-825b9189c78d"
     in_degree=1
     out_degree=1
@@ -75666,8 +75666,8 @@ digraph {
     label="KKR Group Co. Inc."
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=2
-    num_medias_weighted=0.1357
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e393d86-e2fc-4607-a91b-2b958b8c3753"
     in_degree=1
     out_degree=3
@@ -75702,7 +75702,7 @@ digraph {
     label="KKR Management LLP"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5e393e0b-9cfa-4236-993d-907b975eef53"
     in_degree=0
@@ -75714,8 +75714,8 @@ digraph {
     label="KKR Show Aggregator GP Limited"
     num_owners=8
     num_owners_weighted=6.0380
-    num_medias=2
-    num_medias_weighted=0.2017
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e3945bd-e9ad-4d52-94e0-cbcd37d6929e"
     in_degree=2
     out_degree=1
@@ -75750,8 +75750,8 @@ digraph {
     label="KKR-Fondsgesellschaften"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0660
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e39452c-1853-43cf-8bf1-d6a58bf5019a"
     in_degree=0
     out_degree=1
@@ -78054,7 +78054,7 @@ digraph {
     label="KPS-Programme Schulenberg GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=6
+    num_medias=0
     num_medias_weighted=0.0000
     name="683d60bc-c8e2-48cf-b994-3117a22b8299"
     in_degree=1
@@ -78066,8 +78066,8 @@ digraph {
     label="KPS-Programme Schulenberg GmbH & Co. KG"
     num_owners=3
     num_owners_weighted=2.0000
-    num_medias=6
-    num_medias_weighted=1.8240
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-de27-480a-aaad-2cd7d1b365e8"
     in_degree=2
     out_degree=2
@@ -78390,8 +78390,8 @@ digraph {
     label="Kravis, Henry R."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0128
+    num_medias=0
+    num_medias_weighted=0.0000
     name="664dcd43-aaef-4dec-9f00-3e91ed359b65"
     in_degree=0
     out_degree=1
@@ -87258,11 +87258,11 @@ digraph {
     label="M&A HoldCo Breteuil"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.3150
     name="691c5ba1-bd43-4b90-9003-df571699ee8c"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7272 [
     type=shareholder
@@ -88590,8 +88590,8 @@ digraph {
     label="Management der SHOW TopCo S.C.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0287
+    num_medias=0
+    num_medias_weighted=0.0000
     name="606d7560-833d-49e9-859b-9202c18136d7"
     in_degree=0
     out_degree=1
@@ -92406,11 +92406,11 @@ digraph {
     label="MegaDruck.de Produktions- und Vertriebs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=6
+    num_medias_weighted=5.4000
     name="69174f5e-ce97-4bec-a7d7-08751f376eda"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7701 [
     type=radio
@@ -124218,8 +124218,8 @@ digraph {
     label="Roberts, George R."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0135
+    num_medias=0
+    num_medias_weighted=0.0000
     name="664dcd2c-12fd-4cea-b22f-4f38bcdee62a"
     in_degree=0
     out_degree=1
@@ -132462,8 +132462,8 @@ digraph {
     label="Schulenberg, Klaus-Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=0.5760
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-27fe-481e-9317-84ad9372803d"
     in_degree=0
     out_degree=2
@@ -136062,11 +136062,11 @@ digraph {
     label="SHOW Holding S.C.A."
     num_owners=17
     num_owners_weighted=10.4804
-    num_medias=2
-    num_medias_weighted=0.3150
+    num_medias=0
+    num_medias_weighted=0.0000
     name="606c643e-3b1d-4708-8ecb-bf88b284fb28"
     in_degree=3
-    out_degree=1
+    out_degree=0
   ];
   11339 [
     type=shareholder
@@ -136098,8 +136098,8 @@ digraph {
     label="Show TopCo S.C.A."
     num_owners=13
     num_owners_weighted=10.7168
-    num_medias=2
-    num_medias_weighted=0.2130
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e393c53-dd59-4de8-b2f0-f7b8b47a0d13"
     in_degree=5
     out_degree=2
@@ -144510,8 +144510,8 @@ digraph {
     label="Streubesitz an der AMC Networks Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.4216
+    num_medias=3
+    num_medias_weighted=1.2647
     name="66605abc-5945-4b27-82d0-2c4ca413f632"
     in_degree=0
     out_degree=1
@@ -145110,8 +145110,8 @@ digraph {
     label="Streubesitz an der KKR & Co. Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1094
+    num_medias=0
+    num_medias_weighted=0.0000
     name="664dcd61-254d-4ea5-ace8-c157f3b8e657"
     in_degree=0
     out_degree=1
@@ -150714,8 +150714,8 @@ digraph {
     label="The Vanguard Group, Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=95
-    num_medias_weighted=1.7641
+    num_medias=97
+    num_medias_weighted=1.8866
     name="5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
     in_degree=0
     out_degree=10
@@ -151590,11 +151590,11 @@ digraph {
     label="Thümmel, Guido"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=1.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-eac3-4e1c-963e-0854fb5e7b78"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12633 [
     type=shareholder
@@ -151602,11 +151602,11 @@ digraph {
     label="Thümmel, Juliane"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=1.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-7365-4c3c-9a9e-016bcc27d636"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12634 [
     type=print
@@ -152466,8 +152466,8 @@ digraph {
     label="TopCo SAS"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0272
+    num_medias=0
+    num_medias_weighted=0.0000
     name="606d7b41-7e18-436f-86d2-83d006109689"
     in_degree=0
     out_degree=1
@@ -157290,11 +157290,11 @@ digraph {
     label="Verlag für Staatsbürgerkunde GmbH"
     num_owners=3
     num_owners_weighted=2.5200
-    num_medias=6
-    num_medias_weighted=2.4000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2f75-4afc-a896-a12987b1cdfc"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   13108 [
     type=shareholder
@@ -164668,8 +164668,8 @@ digraph {
     type=shareholder
     state=active
     label="Weser Wochenblatt Verlagsgesellschaft mbH"
-    num_owners=10
-    num_owners_weighted=4.5514
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=6
     num_medias_weighted=6.0000
     name="5be1a6b6-6ec6-4936-a948-98258f580e4e"
@@ -165606,8 +165606,8 @@ digraph {
     label="Wiedemann, Max"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0004
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6495380e-2129-4936-a1e7-cc90b4f5d64b"
     in_degree=0
     out_degree=1
@@ -169948,8 +169948,8 @@ digraph {
     type=online
     state=active
     label="www.allerreport.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63d27c46-1f58-4c52-8636-fa34bd9d6a2a"
@@ -175276,8 +175276,8 @@ digraph {
     type=online
     state=active
     label="www.das-blv.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="637f9263-ce46-48d7-b506-28b55dad09c1"
@@ -175588,8 +175588,8 @@ digraph {
     type=online
     state=active
     label="www.delmereport.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63d27a95-5ce7-4137-b25a-3a2e667069f9"
@@ -182416,8 +182416,8 @@ digraph {
     type=online
     state=active
     label="www.hammereport.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63d27aa2-63db-44eb-ba81-a9b28be81d61"
@@ -204484,8 +204484,8 @@ digraph {
     type=online
     state=active
     label="www.weserreport.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63d165a8-b0c6-45e0-b324-4d2423ab7622"
@@ -205912,8 +205912,8 @@ digraph {
     type=online
     state=active
     label="www.wuemmereport.de"
-    num_owners=11
-    num_owners_weighted=5.5514
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6488388e-16ad-4cad-b74f-ff99e9f91615"
@@ -210686,6 +210686,10 @@ digraph {
     type=owns
   ];
   423 -> 2016 [
+    weight=100
+    type=owns
+  ];
+  424 -> 6267 [
     weight=100
     type=owns
   ];
@@ -223673,10 +223677,6 @@ digraph {
     weight=33.98
     type=owns
   ];
-  3161 -> 5805 [
-    weight=35
-    type=owns
-  ];
   3166 -> 140 [
     weight=50
     type=owns
@@ -224119,10 +224119,6 @@ digraph {
   ];
   3311 -> 11084 [
     weight=1
-    type=owns
-  ];
-  3315 -> 13722 [
-    weight=40
     type=owns
   ];
   3317 -> 3113 [
@@ -228963,6 +228959,10 @@ digraph {
   ];
   4314 -> 1868 [
     weight=3.85
+    type=owns
+  ];
+  4315 -> 13722 [
+    weight=10
     type=owns
   ];
   4316 -> 7975 [
@@ -236657,10 +236657,6 @@ digraph {
     weight=50
     type=owns
   ];
-  6027 -> 13722 [
-    weight=60
-    type=owns
-  ];
   6031 -> 5997 [
     weight=25
     type=owns
@@ -241177,6 +241173,10 @@ digraph {
     weight=74.9
     type=owns
   ];
+  7271 -> 7010 [
+    weight=100
+    type=owns
+  ];
   7272 -> 197 [
     weight=49
     type=owns
@@ -243519,6 +243519,10 @@ digraph {
   ];
   7699 -> 7698 [
     weight=1
+    type=owns
+  ];
+  7700 -> 13722 [
+    weight=90
     type=owns
   ];
   7703 -> 4193 [
@@ -261953,10 +261957,6 @@ digraph {
     weight=45
     type=owns
   ];
-  11338 -> 7010 [
-    weight=100
-    type=owns
-  ];
   11340 -> 12455 [
     weight=1
     type=owns
@@ -267329,14 +267329,6 @@ digraph {
     weight=20
     type=owns
   ];
-  12632 -> 6027 [
-    weight=50
-    type=owns
-  ];
-  12633 -> 6027 [
-    weight=50
-    type=owns
-  ];
   12635 -> 550 [
     weight=1
     type=owns
@@ -269035,10 +269027,6 @@ digraph {
   ];
   13106 -> 12323 [
     weight=50
-    type=owns
-  ];
-  13107 -> 3315 [
-    weight=100
     type=owns
   ];
   13108 -> 7626 [

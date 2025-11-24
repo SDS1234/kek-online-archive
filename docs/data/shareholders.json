@@ -656,13 +656,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -90900,9 +90896,13 @@
     "controlDate": "2025-09-12T08:30:33.070Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -90968,6 +90968,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       },
       {
@@ -91108,6 +91113,11 @@
         "type": "organization"
       },
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -91124,6 +91134,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       },
       {
@@ -100146,8 +100161,9 @@
     "controlDate": "2025-11-16T12:46:43.473Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -176049,9 +176065,13 @@
     "controlDate": "2025-09-12T08:32:15.675Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -176792,6 +176812,11 @@
         "type": "organization"
       },
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -176824,6 +176849,11 @@
         "type": "organization"
       },
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -176840,6 +176870,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       },
       {
@@ -177076,6 +177111,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       },
       {
@@ -186279,16 +186319,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -186302,16 +186332,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -186324,16 +186344,6 @@
     "name": "Roberts, George R.",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -191700,6 +191710,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -194556,6 +194576,11 @@
         "type": "organization"
       },
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -194701,6 +194726,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       },
       {
@@ -209024,16 +209054,6 @@
     "controlDate": "2025-11-16T10:34:37.568Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -211797,16 +211817,6 @@
     "controlDate": "2025-06-23T10:23:46.260Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -211949,16 +211959,6 @@
     "state": "active",
     "controlDate": "2025-11-16T10:36:01.127Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -212237,16 +212237,6 @@
     "state": "active",
     "controlDate": "2025-11-16T10:35:09.267Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -212984,16 +212974,6 @@
     "controlDate": "2025-11-16T10:36:42.974Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -213617,16 +213597,6 @@
     "controlDate": "2025-11-16T10:36:27.063Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -213709,16 +213679,6 @@
     "controlDate": "2025-11-16T10:34:52.113Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -213746,16 +213706,6 @@
     "state": "active",
     "controlDate": "2025-09-16T11:06:14.886Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -247876,21 +247826,8 @@
   {
     "squuid": "5be1a6b6-f6aa-491c-b29e-d227ab5f0e19",
     "name": "Elenxis-Media-Funds-Holding GmbH",
-    "state": "active",
-    "controlDate": "2025-10-20T13:51:32.377Z",
-    "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      }
-    ]
+    "state": "archived",
+    "controlDate": "2025-10-20T13:51:32.377Z"
   },
   {
     "squuid": "5be1a6b6-fc42-4a4e-9752-e3eabd51c5a4",
@@ -255194,16 +255131,6 @@
     "state": "active",
     "controlDate": "2025-06-23T10:23:31.535Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -275207,16 +275134,6 @@
     "controlDate": "2025-10-01T10:56:55.959Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -275256,16 +275173,6 @@
     "state": "active",
     "controlDate": "2023-11-06T15:57:48.416Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -275832,16 +275739,6 @@
     "state": "active",
     "controlDate": "2025-06-27T10:20:54.086Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -292549,14 +292446,9 @@
   {
     "squuid": "5be1a6b6-6ba5-4f5a-9a91-5161c5f5f233",
     "name": "JUGU Media GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-11-14T15:38:00.737Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -292572,11 +292464,6 @@
     "controlDate": "2019-05-21T15:57:45.997Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -292590,11 +292477,6 @@
     "state": "active",
     "controlDate": "2019-05-21T15:57:52.468Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -292610,8 +292492,9 @@
     "controlDate": "2025-06-28T10:28:31.823Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -292652,8 +292535,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -292665,8 +292549,9 @@
     "controlDate": "2019-05-21T15:58:43.345Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -294220,16 +294105,6 @@
     "controlDate": "2025-09-16T11:05:57.084Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -294308,16 +294183,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -294394,16 +294259,6 @@
     "name": "Berg, Quirin",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -311870,9 +311725,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -311908,9 +311762,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
