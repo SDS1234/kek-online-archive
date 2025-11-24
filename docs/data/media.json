@@ -33453,7 +33453,7 @@
     "name": "Alpin FM",
     "type": "radio",
     "squuid": "5e32f5c2-0dd9-4a9b-af8b-e089c2a75dc3",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -47080,7 +47080,7 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "rfStatewide": false,
-    "name": "Radio PrimaTon",
+    "name": "Radio Gong Schweinfurt",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -48192,23 +48192,30 @@
     ]
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5c94f92d-4b9d-4379-87ba-23f7689dc0b9",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "M94.5",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5c94f92d-4b9d-4379-87ba-23f7689dc0b9",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "archived",
@@ -49202,6 +49209,12 @@
     "rfStatewide": false,
     "name": "Antenne Bayern",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -49271,6 +49284,12 @@
     "rfStatewide": false,
     "name": "Digital Classix",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -49464,8 +49483,14 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "rfStatewide": false,
-    "name": "extra Radio",
+    "name": "extra-radio",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -50199,6 +50224,12 @@
     "rfStatewide": false,
     "name": "Radio Charivari Rosenheim",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -50856,6 +50887,12 @@
     "rfStatewide": false,
     "name": "ROCK ANTENNE",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -56719,6 +56756,12 @@
     "rfStatewide": false,
     "name": "Galaxy Bayern",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -58606,6 +58649,12 @@
     "rfStatewide": false,
     "name": "egoFM (BLM)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -62119,6 +62168,12 @@
     "rfStatewide": false,
     "name": "rt1 in the mix",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -65002,6 +65057,12 @@
     "rfStatewide": false,
     "name": "AllgäuHIT",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -65643,8 +65704,14 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "rfStatewide": false,
-    "name": "Mega Radio Bayern",
+    "name": "MEGARADIOmix",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -65713,9 +65780,15 @@
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
-    "rfStatewide": false,
+    "rfStatewide": true,
     "name": "Absolut Hot",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -65745,6 +65818,12 @@
     "rfStatewide": true,
     "name": "Absolut Relax",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -73864,6 +73943,12 @@
     "rfStatewide": false,
     "name": "Mega Radio (BLM)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -76176,8 +76261,14 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "rfStatewide": false,
-    "name": "Mega Radio 80s (BLM)",
+    "name": "Mega 80s (BLM)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
@@ -130262,23 +130353,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "692042be-ca36-4cfd-9471-9179e495f766",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": true,
     "name": "Absolut Oldie Classics",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "692042be-ca36-4cfd-9471-9179e495f766",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -130331,23 +130429,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "69204298-79df-4fa9-8693-b88d43d08560",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": true,
     "name": "Absolut Bella",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "69204298-79df-4fa9-8693-b88d43d08560",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -130394,23 +130499,30 @@
     "pressKind": "Gesundheit"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "692042ac-c700-4444-ae7f-204a965457fc",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": true,
     "name": "Absolut TOP",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "692042ac-c700-4444-ae7f-204a965457fc",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -130973,23 +131085,30 @@
     "pressKind": "Kinder"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5c76a6e7-b168-4fe2-a3c1-bf20c97a0bf6",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Galaxy Passau/Deggendorf",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5c76a6e7-b168-4fe2-a3c1-bf20c97a0bf6",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -134635,23 +134754,30 @@
     ]
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5c77e773-aa28-4d28-9b8a-57edc6de3d1b",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Galaxy Rosenheim",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5c77e773-aa28-4d28-9b8a-57edc6de3d1b",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -143476,23 +143602,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5ce6a8dc-4d47-4d4d-a377-3ed3499cba2a",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Schwaben",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5ce6a8dc-4d47-4d4d-a377-3ed3499cba2a",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "archived",
@@ -147423,23 +147556,30 @@
     "pressKind": "Frauen"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5d135bd4-5abc-40d5-81f9-6f77dcf2933d",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Alpin FM",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5d135bd4-5abc-40d5-81f9-6f77dcf2933d",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -148832,23 +148972,30 @@
     "pressKind": "Regional"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Münchner Kirchenradio ",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -149402,23 +149549,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "690cb944-0edf-4745-8e62-9ff51aedf078",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "unser Radio Passau/Deggendorf",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "690cb944-0edf-4745-8e62-9ff51aedf078",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -149510,23 +149664,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Galaxy Passau / Deggendorf",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -149593,7 +149754,7 @@
     "name": "Radio Galaxy Passau / Deggendorf",
     "type": "radio",
     "squuid": "690cc33c-3cd7-4179-8c62-930ac8d02990",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -149636,7 +149797,7 @@
     "name": "Radio Galaxy Passau / Deggendorf",
     "type": "radio",
     "squuid": "690cc340-ddc9-4d99-a847-bc4ae680aa95",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -150538,23 +150699,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Galaxy Allgäu",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -151945,13 +152113,8 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5c51b3c2-80d9-45b2-b5ef-c21158647046",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
@@ -151959,10 +152122,21 @@
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "rfStatewide": false,
-    "name": "Radio Hashtag+",
+    "name": "radiohashtag+ ",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5c51b3c2-80d9-45b2-b5ef-c21158647046",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "pressPublishingIntervals": 12,
@@ -154073,23 +154247,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "6915f8b2-f65f-4867-b817-da3a4fcb22c7",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Arabella Bayern",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "6915f8b2-f65f-4867-b817-da3a4fcb22c7",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",
@@ -156622,23 +156803,30 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-      "name": "BLM",
-      "type": "organization",
-      "fullName": "Bayerische Landeszentrale für neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "5d149514-5110-4713-82fc-e1f628bc85a5",
     "organization": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
     },
+    "rfStatewide": false,
     "name": "Radio Teddy (Bayern)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "5d149514-5110-4713-82fc-e1f628bc85a5",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    }
   },
   {
     "state": "active",

@@ -1431,6 +1431,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -1441,6 +1447,15 @@
         "held": {
           "squuid": "5f3e6667-e0df-4522-b7a1-c51ea0673678",
           "name": "www.egofm.de"
+        }
+      },
+      {
+        "squuid": "69160644-0cab-4bc6-b65e-46b174f73126",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-f531-4b55-917e-ae293f87b00c",
+          "name": "egoFM (BLM)"
         }
       }
     ]
@@ -1774,6 +1789,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -2182,6 +2203,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -10548,7 +10575,7 @@
   },
   {
     "squuid": "5be1a6b6-a9de-4f0e-a7cd-bc37dbef3335",
-    "name": "Axel Springer Gesellschaft für Publizistik GmbH & Co. KG",
+    "name": "Axel Springer Gesellschaft für Publizistik GmbH & Co",
     "state": "active",
     "controlDate": "2025-09-17T10:46:18.094Z",
     "limitedPartnership": true,
@@ -12742,7 +12769,7 @@
   },
   {
     "squuid": "5be1a6b6-1f45-422c-9390-75197848d1aa",
-    "name": "extra radio Rundfunkprogramm GmbH",
+    "name": "Extra-Radio Rundfunkprogramm GmbH",
     "state": "active",
     "controlDate": "2025-10-21T14:26:41.715Z",
     "organizations": [
@@ -12765,7 +12792,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-8c05-46f5-b0b2-711ea90a58fc",
-          "name": "extra Radio"
+          "name": "extra-radio"
         }
       },
       {
@@ -12955,7 +12982,7 @@
   },
   {
     "state": "active",
-    "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs KG",
+    "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d53d-429c-b17b-21d935c65e5b",
     "controlDate": "2025-10-27T16:09:57.798Z",
@@ -16096,6 +16123,15 @@
           "squuid": "5f919331-b46c-489f-aeeb-71e28efbe145",
           "name": "www.arabella-bayern.de"
         }
+      },
+      {
+        "squuid": "6915f9cf-3438-4ebe-9545-e01e52bfee2e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6915f8b2-f65f-4867-b817-da3a4fcb22c7",
+          "name": "Radio Arabella Bayern"
+        }
       }
     ]
   },
@@ -17491,7 +17527,7 @@
   },
   {
     "squuid": "5be1a6b6-8860-478f-96d7-8215455248b9",
-    "name": "Radio Chiemgau Programmanbieter GmbH & Co. KG",
+    "name": "RADIO CHIEMGAU Programmanbieter GmbH & Co. KG",
     "state": "active",
     "controlDate": "2025-06-18T10:13:09.041Z",
     "limitedPartnership": true,
@@ -17716,7 +17752,7 @@
   },
   {
     "state": "active",
-    "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs KG",
+    "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a605-4423-ae1c-61cdc0b0de95",
     "controlDate": "2025-10-27T15:01:19.013Z",
@@ -17807,7 +17843,7 @@
   },
   {
     "squuid": "5be1a6b6-c6be-47d9-b8df-ea90ce91cea8",
-    "name": "Radio Primavera Hörfunkprogramm- und Werbegesellschaft GmbH & Co. oHG",
+    "name": "Radio Primavera Hörfunkstudiobetriebs- und Werbegesellschaft GmbH & Co. oHG",
     "state": "active",
     "controlDate": "2025-06-18T14:06:38.681Z",
     "organizations": [
@@ -18652,7 +18688,7 @@
   },
   {
     "squuid": "5be1a6b6-3997-4dea-9ac1-6ab3f4f04f07",
-    "name": "Tele Regional Antenne Passau Hörfunkanbieter GmbH",
+    "name": "Tele Regional - Antenne Passau Hörfunkanbieter GmbH",
     "state": "active",
     "controlDate": "2025-06-26T16:53:31.001Z",
     "organizations": [
@@ -18872,7 +18908,7 @@
   },
   {
     "squuid": "5be1a6b6-92a0-4960-af31-577d040c5612",
-    "name": "Evangelisches Bildungswerk im Dekanat Passau",
+    "name": "Evangelische Bildung in Ostbayern e.V.",
     "state": "active",
     "organizations": [
       {
@@ -19374,7 +19410,7 @@
   },
   {
     "state": "active",
-    "name": "Anbietergemeinschaft Radio Bayreuth GmbH & Co. Mainwelle KG",
+    "name": "Radio Bayreuth GmbH & Co. Mainwelle KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2e50-401c-b5ca-efb6ab7d9437",
     "controlDate": "2025-09-12T09:30:06.490Z",
@@ -19917,6 +19953,26 @@
         "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
+    ],
+    "operates": [
+      {
+        "squuid": "69049697-0e7b-4d6a-93bf-aee1cf1189cc",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5c481ce8-8881-4264-aeaa-809ee319e016",
+          "name": "Radio Gong Schweinfurt"
+        }
+      },
+      {
+        "squuid": "690498dd-373f-4f4c-8109-215cb0f846b8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5c51b3c2-80d9-45b2-b5ef-c21158647046",
+          "name": "radiohashtag+ "
+        }
+      }
     ]
   },
   {
@@ -19928,12 +19984,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -19947,12 +19997,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -19979,12 +20023,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -20960,6 +20998,15 @@
         "held": {
           "squuid": "5f96eb50-fff1-4fbc-8463-b02b810bec55",
           "name": "www.unserradio.de"
+        }
+      },
+      {
+        "squuid": "690cbd37-5dca-4a21-b2de-a71647c2f0f6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "690cb944-0edf-4745-8e62-9ff51aedf078",
+          "name": "unser Radio Passau/Deggendorf"
         }
       }
     ]
@@ -23824,6 +23871,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -24308,7 +24361,7 @@
   },
   {
     "state": "active",
-    "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. KG",
+    "name": "BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. Kommanditgesellschaft",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9140-47b8-9534-b06634d69537",
     "controlDate": "2025-09-22T15:52:35.136Z",
@@ -28981,12 +29034,6 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -29645,6 +29692,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -44613,6 +44666,15 @@
           "squuid": "646f5bc8-1568-40fe-9014-4c32a58ce90d",
           "name": "www.radiogalaxy.de"
         }
+      },
+      {
+        "squuid": "690df5c8-3c18-4aef-a621-684e4fdf39e8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "690df305-112d-440b-bd7e-b366e02d4647",
+          "name": "Radio Galaxy Allgäu"
+        }
       }
     ]
   },
@@ -45249,7 +45311,7 @@
   },
   {
     "state": "active",
-    "name": "Braun & Elbel GmbH & Co. KG",
+    "name": "Braun & Elbel GmbH & Co. K.G.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-311b-4fe2-a7ef-15fbffd2750d",
     "controlDate": "2025-10-07T13:23:02.736Z",
@@ -46497,7 +46559,7 @@
   },
   {
     "squuid": "5be1a6b6-a23e-4bd7-a6a4-6a2ce0b31428",
-    "name": "Neue Welle \"Antenne Aschaffenburg\" Hörfunk- und Fernsehanbietergesellschaft mbH",
+    "name": "Neue Welle \"Antenne Aschaffenburg\" Hörfunk- und Fernsehprogrammanbieter GmbH",
     "state": "active",
     "controlDate": "2025-06-14T12:03:23.833Z",
     "organizations": [
@@ -48231,7 +48293,7 @@
   },
   {
     "squuid": "5be1a6b6-0e00-44b1-bc62-455b0d43b23e",
-    "name": "Dlugi, Marisa",
+    "name": "Dlugi-Wieninger, Marisa",
     "state": "active",
     "organizations": [
       {
@@ -48268,7 +48330,7 @@
   },
   {
     "squuid": "5be1a6b6-c94a-4a8f-b1b7-cebb528cbde7",
-    "name": "Haid, Susanne",
+    "name": "Wieninger-Haid, Susanne",
     "state": "active",
     "organizations": [
       {
@@ -52634,12 +52696,6 @@
     "controlDate": "2025-06-18T13:02:46.769Z",
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -52653,15 +52709,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "5be1a6b9-55a8-42f2-9a35-5b713d6f1701",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-f531-4b55-917e-ae293f87b00c",
-          "name": "egoFM (BLM)"
-        }
-      },
       {
         "squuid": "5d0b505c-bae3-4063-9b25-0ff3c698dee8",
         "type": "operate",
@@ -69345,12 +69392,6 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -69373,12 +69414,6 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -80886,6 +80921,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
       }
     ]
   },
@@ -81271,7 +81312,7 @@
   },
   {
     "squuid": "5be1a6b6-7629-4a2b-ac21-410418220bc8",
-    "name": "Baumann & Häuslinger GbR",
+    "name": "AllgäuHIT e.K.",
     "state": "active",
     "controlDate": "2024-05-16T10:48:02.906Z",
     "organizations": [
@@ -81300,9 +81341,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -83415,7 +83456,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-693a-4952-a18a-40f8944b2a70",
-          "name": "Mega Radio Bayern"
+          "name": "MEGARADIOmix"
         }
       },
       {
@@ -83424,7 +83465,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-ce54-424d-ae21-670f5ab72f93",
-          "name": "Mega Radio 80s (BLM)"
+          "name": "Mega 80s (BLM)"
         }
       },
       {
@@ -84629,6 +84670,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -87919,7 +87966,7 @@
   },
   {
     "squuid": "5eb13a96-25d5-4fec-827c-081c887e1458",
-    "name": "G. T. Werbung GmbH",
+    "name": "G. T. Werbung, Gesellschaft mit beschränkter Haftung",
     "state": "active",
     "controlDate": "2025-10-28T11:04:52.829Z",
     "organizations": [
@@ -92271,6 +92318,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -92690,6 +92743,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -94709,7 +94768,7 @@
   },
   {
     "squuid": "5be1a6b6-e0df-4a8c-b33b-e5096940d889",
-    "name": "W. Engelhard GmbH & Co KG Betriebs- und Verwaltungsgesellschaft",
+    "name": "W. Engelhard GmbH. & Co., Kommanditgesellschaft, Betriebs- und Verwaltungsgesellschaft",
     "state": "active",
     "controlDate": "2025-06-29T12:32:15.111Z",
     "limitedPartnership": true,
@@ -97094,7 +97153,7 @@
   },
   {
     "state": "active",
-    "name": "A. Miller Zeitungsverlag KG",
+    "name": "A. Miller, Zeitungsverlag KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-0cc7-4302-abb6-ee8a98d2fe65",
     "controlDate": "2025-09-10T11:59:52.838Z",
@@ -97492,7 +97551,7 @@
   },
   {
     "state": "active",
-    "name": "Reutlinger Generalanzeiger Verlags-GmbH & Co KG",
+    "name": "Reutlinger Generalanzeiger Verlags- GmbH & Co. Kommanditgesellschaft",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b2a4-4e47-80ab-e7f4b265c112",
     "controlDate": "2025-10-28T11:50:43.258Z",
@@ -100069,6 +100128,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -102260,6 +102325,15 @@
         "held": {
           "squuid": "5f929152-b373-4bd2-a695-debfdb828c0b",
           "name": "www.radio-bamberg.de"
+        }
+      },
+      {
+        "squuid": "6904a017-b59c-4a29-b6a9-6a7dbf5987e7",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-23da-4d7f-ad30-a9f721a595bd",
+          "name": "Radio Bamberg"
         }
       }
     ]
@@ -116920,6 +116994,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -117007,6 +117087,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -117100,6 +117186,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -117190,6 +117282,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
@@ -117277,6 +117375,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -142368,6 +142472,15 @@
           "squuid": "5be1a6b1-9977-4ad6-88c1-b2ea1b63a270",
           "name": "Unser Radio Passau/Deggendorf"
         }
+      },
+      {
+        "squuid": "690ccb07-03e3-46c0-b545-59e3fbd3d775",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
+          "name": "Radio Galaxy Passau / Deggendorf"
+        }
       }
     ]
   },
@@ -142860,6 +142973,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
       }
     ]
   },
@@ -142958,6 +143077,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -142968,6 +143093,33 @@
         "held": {
           "squuid": "5f3a4c4d-415a-42ff-98eb-df3e87db08b6",
           "name": "www.absolutradio.de"
+        }
+      },
+      {
+        "squuid": "6920430d-026c-4b94-9d3e-c1af3190b123",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69204298-79df-4fa9-8693-b88d43d08560",
+          "name": "Absolut Bella"
+        }
+      },
+      {
+        "squuid": "69205849-bce4-410f-88a3-3f934f3b01ca",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "692042ac-c700-4444-ae7f-204a965457fc",
+          "name": "Absolut TOP"
+        }
+      },
+      {
+        "squuid": "6920588d-b07f-4b21-b9f2-59966a8fea4e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "692042be-ca36-4cfd-9471-9179e495f766",
+          "name": "Absolut Oldie Classics"
         }
       }
     ]
@@ -144062,6 +144214,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -146708,6 +146866,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -154533,7 +154697,7 @@
   },
   {
     "squuid": "682df0c5-bef7-4fe7-8b02-4e7b13adfa60",
-    "name": "Brillant 4057. GmbH & Co. Verwaltungs KG",
+    "name": "Filmpark Babelsberg Holding GmbH & Co. KG",
     "state": "active",
     "controlDate": "2025-10-07T14:09:01.846Z",
     "limitedPartnership": true,
@@ -155136,6 +155300,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -157466,6 +157636,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -159926,7 +160102,7 @@
   },
   {
     "squuid": "5c481833-2d15-4e0b-8de1-2ee4254f767a",
-    "name": "ARA Anbietergemeinschaft Radio Aktuell Anbietergesellschaft Mittelstand GmbH",
+    "name": "ARA ANBIETERGEMEINSCHAFT RADIO AKTUELL Anbietergesellschaft Mittelstand GmbH",
     "state": "active",
     "controlDate": "2025-09-15T10:30:10.693Z",
     "organizations": [
@@ -162381,7 +162557,7 @@
   },
   {
     "squuid": "5c94f816-6181-4ca0-b035-881af949a160",
-    "name": "MEDIASCHOOL BAYERN Anbieterverein München e.V.",
+    "name": "MEDIASCHOOL Bayern Anbieterverein München e.V.",
     "state": "active",
     "controlDate": "2021-12-13T15:44:09.194Z",
     "organizations": [
@@ -172646,7 +172822,7 @@
   },
   {
     "squuid": "5ca74ac7-7dd3-4d4b-9d36-d28ff207e130",
-    "name": "Neue Welle Radio Chiemgau Rundfunkprogrammanbietergesellschaft mbH",
+    "name": "Neue Welle Radio Chiemgau Rundfunk - Programmanbietergesellschaft mbH.",
     "state": "active",
     "controlDate": "2025-06-14T12:31:22.609Z",
     "organizations": [
@@ -174590,7 +174766,7 @@
   },
   {
     "squuid": "5ca74fb1-1b75-4829-a299-5ed2562f6000",
-    "name": "Vitek, Monika",
+    "name": "Erben nach Vitek, Joschi",
     "state": "active",
     "organizations": [
       {
@@ -174681,7 +174857,7 @@
   },
   {
     "squuid": "5ca74ffc-cec9-4b47-82fb-3eb544e618d2",
-    "name": "Müller, Gerhard",
+    "name": "Müller, Erika",
     "state": "active",
     "organizations": [
       {
@@ -174699,7 +174875,7 @@
   },
   {
     "squuid": "5ca75018-1196-4aad-8762-2fcd54d28cc1",
-    "name": "Schmidt, Heinz",
+    "name": "Erben nach Schmidt, Heinz",
     "state": "active",
     "organizations": [
       {
@@ -189848,7 +190024,7 @@
   },
   {
     "squuid": "684984be-a267-4e90-be3b-593ed182fdf6",
-    "name": "Holzer GmbH & Co. KG",
+    "name": "HOLZER GmbH + Co. KG",
     "state": "active",
     "controlDate": "2025-11-13T09:47:56.184Z",
     "limitedPartnership": true,
@@ -190600,6 +190776,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -196022,7 +196204,7 @@
   },
   {
     "squuid": "685d043f-a708-4a40-9365-c00479232d85",
-    "name": "Holzer Verwaltungs-GmbH",
+    "name": "HOLZER Verwaltungs GmbH",
     "state": "active",
     "controlDate": "2025-11-13T09:48:06.710Z",
     "organizations": [
@@ -204217,12 +204399,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -205671,6 +205847,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
@@ -205691,6 +205873,15 @@
         "held": {
           "squuid": "5f03232b-8605-4dc3-8ba3-784533b74827",
           "name": "www.rockantenne.de"
+        }
+      },
+      {
+        "squuid": "691f2545-28ee-43c9-b8bf-905935335a02",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-2e58-4a0b-85fd-5295dca15a7b",
+          "name": "ROCK ANTENNE"
         }
       }
     ]
@@ -210963,6 +211154,12 @@
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -219036,6 +219233,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       },
       {
@@ -234155,7 +234358,7 @@
   },
   {
     "state": "active",
-    "name": "Verlag Der Bote Hanns Bollmann GmbH & Co KG",
+    "name": "Verlag \"Der Bote\" Hanns Bollmann GmbH & Co.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f4e2-41cc-bd22-3d15cf142528",
     "controlDate": "2025-06-28T09:40:39.406Z",
@@ -234439,7 +234642,7 @@
   },
   {
     "state": "active",
-    "name": "Verlag Hans Fahner GmbH & Co KG",
+    "name": "Verlag Hans Fahner GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1d03-4bcb-9e43-4bf5c5e6aadd",
     "controlDate": "2025-06-28T10:29:58.734Z",
@@ -251110,6 +251313,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
       }
     ]
   },
@@ -252063,6 +252272,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -254157,6 +254372,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -274183,10 +274404,21 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "690c95c6-a980-4afb-b5c4-64f643004c2e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "690c8497-4d21-4c34-9f05-f8a7c655c0d0",
+          "name": "Münchner Kirchenradio "
+        }
       }
     ]
   },
@@ -276538,7 +276770,7 @@
   },
   {
     "squuid": "60d47eeb-95da-438c-8cd0-fc0d6eccafe2",
-    "name": "Spintler Druck und Verlag GmbH Medienhaus Weiden",
+    "name": "SPINTLER Druck und Verlag GmbH Medienhaus Weiden",
     "state": "active",
     "controlDate": "2025-06-24T12:14:38.141Z",
     "organizations": [
@@ -287142,7 +287374,7 @@
   },
   {
     "state": "active",
-    "name": "mgo Lokale Medien GmbH & Co KG",
+    "name": "mgo Lokale Medien GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952",
     "controlDate": "2025-11-12T13:29:08.996Z",
@@ -287464,33 +287696,9 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
       }
     ],
     "operates": [
-      {
-        "squuid": "5c51b2a9-d54b-4104-af8e-008c3bf091bb",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c481ce8-8881-4264-aeaa-809ee319e016",
-          "name": "Radio PrimaTon"
-        }
-      },
-      {
-        "squuid": "5c51b3da-97a6-4be6-8dc4-14c369f95ca0",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c51b3c2-80d9-45b2-b5ef-c21158647046",
-          "name": "Radio Hashtag+"
-        }
-      },
       {
         "squuid": "5f92c971-d5bb-432d-a8be-fdf748605fb8",
         "type": "operate",
@@ -297742,7 +297950,7 @@
   },
   {
     "squuid": "5be1a6b6-1576-49ad-a2a1-769cecc7a4a7",
-    "name": "Millizer & Riedel GmbH",
+    "name": "MILLIZER + RIEDEL GmbH",
     "state": "active",
     "controlDate": "2025-06-12T08:44:41.295Z",
     "organizations": [
@@ -301590,12 +301798,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -312347,12 +312549,6 @@
     "controlDate": "2025-06-18T13:02:37.937Z",
     "organizations": [
       {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
@@ -312464,12 +312660,6 @@
     "state": "active",
     "controlDate": "2025-06-19T08:21:19.610Z",
     "organizations": [
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
@@ -312647,12 +312837,6 @@
     "state": "active",
     "controlDate": "2025-06-18T12:49:15.089Z",
     "organizations": [
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
@@ -314615,12 +314799,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
       }
     ]
   },
@@ -314668,12 +314846,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
