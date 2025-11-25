@@ -199317,6 +199317,45 @@
     ]
   },
   {
+    "squuid": "6925d315-8b0a-4f53-ab65-2bf3b669d95f",
+    "name": "HAHN Beteiligungsholding GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6925d33d-2545-4180-b6d9-c0319f2aeb9e",
+    "name": "Fuchs, Michael",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6925d363-93ba-483d-b016-0af38f926576",
+    "name": "Michael, Annemarie",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5efb157a-98a0-4ae4-bf66-e26e863f2a85",
     "name": "Digital Business Group GmbH",
     "state": "active",
@@ -199723,6 +199762,19 @@
     ]
   },
   {
+    "squuid": "6925d395-e150-4a0b-b77a-f70adf8a3488",
+    "name": "Müller-Michael, Monika",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "6735e35c-30bb-4c0d-83eb-af7aa92b3683",
     "name": "Heider, Claudio",
     "state": "active",
@@ -199730,6 +199782,45 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6925d3b9-2af7-4092-bdee-c76c51fd5903",
+    "name": "Hühnerbein, Margarete",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6925d3d6-cf5d-4a54-a8b1-765c1abe9725",
+    "name": "Bütting, Hermann",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6925d3f8-61ac-4346-b01b-431b3f3469c9",
+    "name": "Loh, Matthias",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
