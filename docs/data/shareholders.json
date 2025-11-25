@@ -199953,6 +199953,19 @@
     ]
   },
   {
+    "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
+    "name": "Rudolf Fuchs GmbH & Co. KG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "63a04ccc-f8ee-4e19-86b5-892ae44e43f9",
     "name": "AM Portfolio AG",
     "state": "active",
