@@ -2271,9 +2271,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -17518,9 +17523,14 @@
     "controlDate": "2022-07-01T14:54:47.427Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -20135,12 +20145,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
@@ -43843,12 +43847,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -43880,12 +43878,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -43914,12 +43906,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
@@ -44158,12 +44144,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -44177,9 +44157,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -66926,12 +66911,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
@@ -166890,7 +166869,7 @@
     "squuid": "68f7447f-44e3-4079-9be8-cd1a17df8d58",
     "name": "Enote GmbH",
     "state": "active",
-    "controlDate": "2025-11-05T09:41:50.080Z",
+    "controlDate": "2025-11-25T11:34:14.696Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199155,6 +199134,19 @@
     ]
   },
   {
+    "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2",
+    "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "6683b5e3-fe85-43e4-a9e2-227c1be5d513",
     "name": "Petzold, Hannu Immanuel",
     "state": "active",
@@ -199281,6 +199273,32 @@
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0",
+    "name": "crossventures GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69259a6c-f690-4001-bfec-6552d554bdce",
+    "name": "Michael Grabner Media GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -265622,6 +265640,7 @@
     "squuid": "690b1e2e-5991-4f37-a4f1-44363d26f442",
     "name": "Rudolf Fuchs Kapitalanlage-Gesellschaft mbH",
     "state": "active",
+    "controlDate": "2025-11-25T11:41:36.483Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -265729,6 +265748,7 @@
     "squuid": "690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b",
     "name": "Dieter von Holtzbrinck Ventures GmbH",
     "state": "active",
+    "controlDate": "2025-11-25T11:44:08.942Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
