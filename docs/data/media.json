@@ -3748,7 +3748,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Sigmaringen)",
     "type": "print",
-    "controlDate": "2025-06-03T13:22:04.210Z",
+    "controlDate": "2025-11-26T09:18:37.068Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -159967,7 +159967,7 @@
     "name": "www.donau3fm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-03T13:38:35.119Z",
+    "controlDate": "2025-11-26T09:25:17.825Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
