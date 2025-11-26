@@ -81086,24 +81086,14 @@
   {
     "squuid": "5c4f1e97-df88-415a-b84d-09e7c469f6b2",
     "name": "Mamiweb GmbH",
-    "state": "active",
-    "controlDate": "2025-06-05T09:56:35.895Z",
+    "state": "archived",
+    "controlDate": "2025-11-26T14:59:19.080Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5c4f1ef3-b688-44c3-8aaf-5becc45e4839",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c4f1e82-7ad5-4bff-bd26-2002c966bf61",
-          "name": "www.mamiweb.de"
-        }
       }
     ]
   },
@@ -90541,7 +90531,7 @@
     "name": "MAIRDUMONT GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9",
-    "controlDate": "2025-06-05T09:49:41.734Z",
+    "controlDate": "2025-11-26T14:54:41.768Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150960,7 +150950,7 @@
     "squuid": "5eddfe9a-07a3-41a5-bd6b-d6bbcbda2789",
     "name": "MAIRDUMONT Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-05T09:48:42.918Z",
+    "controlDate": "2025-11-26T14:53:19.202Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204762,7 +204752,7 @@
     "squuid": "5f7afd54-6aed-43aa-a1ea-e13f1450c9cc",
     "name": "MAKU Kommunikationstechnik GmbH",
     "state": "active",
-    "controlDate": "2025-07-01T15:15:51.994Z",
+    "controlDate": "2025-11-26T14:57:56.383Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229135,8 +229125,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -257090,7 +257081,7 @@
     "squuid": "5be1a6b6-372d-42bb-a08b-a989accfe158",
     "name": "Maker Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-05T09:55:43.959Z",
+    "controlDate": "2025-11-26T14:56:43.749Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

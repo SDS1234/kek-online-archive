@@ -8750,7 +8750,7 @@
     "rfStatewide": false,
     "name": "Make:",
     "type": "print",
-    "controlDate": "2025-06-05T09:56:21.256Z",
+    "controlDate": "2025-11-26T14:57:26.510Z",
     "pressKind": "Do-It-Yourself",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -33700,7 +33700,7 @@
     "name": "www.mamiweb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T09:58:14.794Z",
+    "controlDate": "2025-11-26T14:59:26.666Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -101434,7 +101434,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T09:50:00.420Z",
+    "controlDate": "2025-11-26T14:56:07.889Z",
     "state": "active"
   },
   {
@@ -106372,7 +106372,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T09:49:53.998Z",
+    "controlDate": "2025-11-26T14:55:18.416Z",
     "state": "active"
   },
   {
@@ -149315,7 +149315,7 @@
     "name": "www.lonelyplanet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T09:54:13.944Z",
+    "controlDate": "2025-11-26T14:55:48.001Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

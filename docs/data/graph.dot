@@ -88622,15 +88622,15 @@ digraph {
   ];
   7385 [
     type=shareholder
-    state=active
+    state=archived
     label="Mamiweb GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5c4f1e97-df88-415a-b84d-09e7c469f6b2"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   7386 [
     type=shareholder
@@ -105102,11 +105102,11 @@ digraph {
     label="Oellinger, Gerhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66754312-168e-4e2f-a4f3-a578a93960c3"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   8759 [
     type=shareholder
@@ -188140,12 +188140,12 @@ digraph {
     type=online
     state=active
     label="www.mamiweb.de"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5c4f1e82-7ad5-4bff-bd26-2002c966bf61"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   15679 [
@@ -241929,10 +241929,6 @@ digraph {
     weight=5
     type=owns
   ];
-  7385 -> 15678 [
-    weight=100
-    type=operates
-  ];
   7386 -> 3346 [
     weight=8.01
     type=owns
@@ -249495,10 +249491,6 @@ digraph {
   ];
   8756 -> 5698 [
     weight=4.478
-    type=owns
-  ];
-  8758 -> 7385 [
-    weight=100
     type=owns
   ];
   8759 -> 2330 [
