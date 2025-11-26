@@ -47249,7 +47249,7 @@
     "name": "www.manager-magazin.de/hbm/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T10:10:11.001Z",
+    "controlDate": "2025-11-26T15:17:27.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86092,7 +86092,7 @@
     "rfStatewide": false,
     "name": "Harvard Business Manager",
     "type": "print",
-    "controlDate": "2025-06-05T10:09:32.647Z",
+    "controlDate": "2025-11-26T15:16:59.872Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86113,7 +86113,7 @@
     "rfStatewide": false,
     "name": "manager magazin",
     "type": "print",
-    "controlDate": "2025-06-05T10:09:43.846Z",
+    "controlDate": "2025-11-26T15:17:13.320Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107928,7 +107928,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:08:40.889Z",
+    "controlDate": "2025-11-26T15:17:19.579Z",
     "state": "active"
   },
   {
