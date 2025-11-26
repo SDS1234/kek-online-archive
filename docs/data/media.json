@@ -2247,7 +2247,7 @@
     "rfStatewide": false,
     "name": "Oberbergischer Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-03T12:53:25.075Z",
+    "controlDate": "2025-11-26T12:22:24.012Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2267,7 +2267,7 @@
     "rfStatewide": false,
     "name": "Rhein-Sieg-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-03T12:53:38.682Z",
+    "controlDate": "2025-11-26T12:23:22.709Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2287,7 +2287,7 @@
     "rfStatewide": false,
     "name": "Leverkusener Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-03T12:53:08.630Z",
+    "controlDate": "2025-11-26T12:21:42.251Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2307,7 +2307,7 @@
     "rfStatewide": false,
     "name": "Bergische Landeszeitung",
     "type": "print",
-    "controlDate": "2025-06-03T12:55:22.386Z",
+    "controlDate": "2025-11-26T12:18:04.267Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2351,7 +2351,7 @@
     "rfStatewide": false,
     "name": "Oberbergische Volkszeitung",
     "type": "print",
-    "controlDate": "2025-06-03T12:56:38.593Z",
+    "controlDate": "2025-11-26T12:22:02.988Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2371,7 +2371,7 @@
     "rfStatewide": false,
     "name": "Rhein-Erft-Rundschau",
     "type": "print",
-    "controlDate": "2025-06-03T12:56:59.691Z",
+    "controlDate": "2025-11-26T12:23:05.127Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2391,7 +2391,7 @@
     "rfStatewide": false,
     "name": "Rhein-Sieg-Rundschau",
     "type": "print",
-    "controlDate": "2025-06-03T12:57:20.511Z",
+    "controlDate": "2025-11-26T12:23:33.184Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2411,7 +2411,7 @@
     "rfStatewide": false,
     "name": "Bonner Rundschau",
     "type": "print",
-    "controlDate": "2025-06-03T12:55:40.244Z",
+    "controlDate": "2025-11-26T12:19:07.108Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -11650,7 +11650,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-03T12:53:57.111Z",
+    "controlDate": "2025-11-26T12:25:20.637Z",
     "state": "active"
   },
   {
@@ -46268,7 +46268,7 @@
     "name": "Kölner Stadt-Anzeiger am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-03T12:52:51.140Z",
+    "controlDate": "2025-11-26T12:20:59.366Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81264,7 +81264,7 @@
     "rfStatewide": false,
     "name": "Düsseldorf Express",
     "type": "print",
-    "controlDate": "2025-06-03T12:51:50.423Z",
+    "controlDate": "2025-11-26T12:19:34.136Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81284,7 +81284,7 @@
     "rfStatewide": false,
     "name": "Duda",
     "type": "print",
-    "controlDate": "2025-06-03T12:51:35.095Z",
+    "controlDate": "2025-11-26T12:19:24.378Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81309,7 +81309,7 @@
     "rfStatewide": false,
     "name": "Kölner Stadt-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-03T12:52:30.368Z",
+    "controlDate": "2025-11-26T12:20:33.303Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81329,7 +81329,7 @@
     "rfStatewide": false,
     "name": "Kölnische Rundschau",
     "type": "print",
-    "controlDate": "2025-06-03T12:56:06.933Z",
+    "controlDate": "2025-11-26T12:21:23.621Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81373,7 +81373,7 @@
     "rfStatewide": false,
     "name": "Express",
     "type": "print",
-    "controlDate": "2025-06-03T12:52:04.342Z",
+    "controlDate": "2025-11-26T12:20:05.231Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81396,7 +81396,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-03T12:55:04.757Z",
+    "controlDate": "2025-11-26T12:25:39.428Z",
     "state": "active"
   },
   {
@@ -143392,7 +143392,7 @@
     "name": "Tag 7 (Köln)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-03T13:28:15.926Z",
+    "controlDate": "2025-11-26T12:24:14.353Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
