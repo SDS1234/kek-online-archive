@@ -65325,7 +65325,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.0000
     name="5f3bf24a-9d74-45bc-ac4f-907f869d3183"
-    in_degree=4
+    in_degree=3
     out_degree=1
   ];
   5444 [
@@ -65346,11 +65346,11 @@ digraph {
     label="Hoepfner, Cordula"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ff449d5-1fbd-4adf-93d8-1a659735854c"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5446 [
     type=shareholder
@@ -233902,10 +233902,6 @@ digraph {
     type=owns
   ];
   5444 -> 5443 [
-    weight=25
-    type=owns
-  ];
-  5445 -> 5443 [
     weight=25
     type=owns
   ];
