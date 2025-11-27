@@ -61363,10 +61363,10 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=5
-    num_medias_weighted=0.9144
+    num_medias_weighted=1.3526
     name="5be1a6b6-7eae-4203-ad99-8e4246afc703"
     in_degree=0
-    out_degree=3
+    out_degree=4
   ];
   5114 [
     type=shareholder
@@ -114666,11 +114666,11 @@ digraph {
     label="Radio B 94 GbR"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=3
-    num_medias_weighted=0.1355
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-abeb-4129-a867-28a4ce0286a9"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   9556 [
     type=radio
@@ -166411,7 +166411,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=3
-    num_medias_weighted=0.0339
+    num_medias_weighted=0.0795
     name="5be1a6b6-5ec0-4eb6-a26f-fac2ce75b748"
     in_degree=0
     out_degree=2
@@ -232317,6 +232317,10 @@ digraph {
     weight=75
     type=owns
   ];
+  5113 -> 9941 [
+    weight=42.24
+    type=owns
+  ];
   5114 -> 5810 [
     weight=5.9
     type=owns
@@ -253211,10 +253215,6 @@ digraph {
   ];
   9554 -> 4289 [
     weight=55
-    type=owns
-  ];
-  9555 -> 9941 [
-    weight=10.6
     type=owns
   ];
   9558 -> 2691 [
