@@ -4567,7 +4567,7 @@
     "name": "www.marktspiegel-verlag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T10:44:30.753Z",
+    "controlDate": "2025-11-27T10:26:12.492Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -6351,7 +6351,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:53:53.446Z",
+    "controlDate": "2025-11-27T11:03:36.367Z",
     "state": "active"
   },
   {
@@ -16505,7 +16505,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:54:01.975Z",
+    "controlDate": "2025-11-27T11:03:41.837Z",
     "state": "active"
   },
   {
@@ -28838,7 +28838,7 @@
     "name": "www.lokale-wochenzeitungen.de/markt/ratzeburg-moelln",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T10:33:26.862Z",
+    "controlDate": "2025-11-27T10:23:11.970Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96575,7 +96575,7 @@
     "rfStatewide": false,
     "name": "Bayerns Pferde Zucht und Sport",
     "type": "print",
-    "controlDate": "2025-06-05T10:53:35.086Z",
+    "controlDate": "2025-11-27T11:03:18.953Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107278,7 +107278,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:40:11.008Z",
+    "controlDate": "2025-11-27T10:20:20.447Z",
     "state": "active"
   },
   {
@@ -112835,7 +112835,7 @@
     "rfStatewide": false,
     "name": "Reiterjournal",
     "type": "print",
-    "controlDate": "2025-06-05T10:53:44.638Z",
+    "controlDate": "2025-11-27T11:03:29.991Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
