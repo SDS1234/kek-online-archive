@@ -3365,7 +3365,7 @@
     "rfStatewide": false,
     "name": "Südhessen Morgen",
     "type": "print",
-    "controlDate": "2025-06-05T10:13:42.000Z",
+    "controlDate": "2025-11-27T10:10:58.175Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3406,7 +3406,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:18:09.222Z",
+    "controlDate": "2025-11-27T10:12:28.028Z",
     "state": "active"
   },
   {
@@ -15169,7 +15169,7 @@
     "rfStatewide": false,
     "name": "mare",
     "type": "print",
-    "controlDate": "2025-06-05T10:30:34.656Z",
+    "controlDate": "2025-11-27T10:18:01.892Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15193,7 +15193,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T10:30:42.528Z",
+    "controlDate": "2025-11-27T10:18:08.765Z",
     "state": "active"
   },
   {
@@ -37122,7 +37122,7 @@
     "name": "www.suedhessen-morgen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T10:18:23.278Z",
+    "controlDate": "2025-11-27T10:13:21.023Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86134,7 +86134,7 @@
     "rfStatewide": false,
     "name": "Ubi Bene",
     "type": "print",
-    "controlDate": "2025-06-05T10:16:52.801Z",
+    "controlDate": "2025-11-27T10:11:29.735Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86155,7 +86155,7 @@
     "rfStatewide": false,
     "name": "Mannheimer Morgen",
     "type": "print",
-    "controlDate": "2025-06-05T10:12:43.220Z",
+    "controlDate": "2025-11-27T10:10:21.815Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -137092,7 +137092,7 @@
     "name": "Zeitungsgruppe Rhein-Neckar (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T10:17:12.167Z",
+    "controlDate": "2025-11-27T10:12:02.673Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140511,7 +140511,7 @@
     "name": "Südhessen Morgen am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T10:13:57.499Z",
+    "controlDate": "2025-11-27T10:11:14.199Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140530,7 +140530,7 @@
     "name": "Mannheimer Morgen am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T10:13:21.630Z",
+    "controlDate": "2025-11-27T10:10:39.272Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155120,7 +155120,7 @@
     "name": "www.marco-polo-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T10:29:34.870Z",
+    "controlDate": "2025-11-27T10:16:21.143Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
