@@ -15498,7 +15498,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T14:52:13.528Z",
+    "controlDate": "2025-11-27T12:20:04.786Z",
     "state": "active"
   },
   {
@@ -15696,7 +15696,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T14:52:25.351Z",
+    "controlDate": "2025-11-27T12:20:13.376Z",
     "state": "active"
   },
   {
@@ -16640,7 +16640,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-05T14:52:33.262Z",
+    "controlDate": "2025-11-27T12:20:20.641Z",
     "state": "active"
   },
   {
@@ -23540,7 +23540,7 @@
     "name": "www.thepioneer.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T14:17:04.682Z",
+    "controlDate": "2025-11-27T12:09:24.669Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43789,7 +43789,7 @@
     "name": "Wirtschaft zwischen Nord- und Ostsee",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T11:15:08.410Z",
+    "controlDate": "2025-11-27T11:24:20.075Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43971,7 +43971,7 @@
     "name": "Wirtschaft Elbe/Weser",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T11:14:58.805Z",
+    "controlDate": "2025-11-27T11:24:05.802Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71472,7 +71472,7 @@
     "name": "www.mpg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T11:18:40.919Z",
+    "controlDate": "2025-11-27T11:25:35.823Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94399,7 +94399,7 @@
     "rfStatewide": false,
     "name": "Mobil + Sicher",
     "type": "print",
-    "controlDate": "2025-06-05T11:14:34.573Z",
+    "controlDate": "2025-11-27T11:23:46.339Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95258,7 +95258,7 @@
     "rfStatewide": false,
     "name": "musikexpress",
     "type": "print",
-    "controlDate": "2025-06-05T14:52:06.337Z",
+    "controlDate": "2025-11-27T12:19:57.697Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95279,7 +95279,7 @@
     "rfStatewide": false,
     "name": "Metal Hammer",
     "type": "print",
-    "controlDate": "2025-06-05T14:51:47.305Z",
+    "controlDate": "2025-11-27T12:19:35.530Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95300,7 +95300,7 @@
     "rfStatewide": false,
     "name": "Rolling Stone",
     "type": "print",
-    "controlDate": "2025-06-05T14:51:58.065Z",
+    "controlDate": "2025-11-27T12:19:47.998Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -136804,7 +136804,7 @@
     "name": "Zeitungsgruppe Nord Gruppe B (Nds/Hamburg) (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T14:24:34.939Z",
+    "controlDate": "2025-11-27T12:16:22.736Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139332,7 +139332,7 @@
     "name": "www.hyperraum.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T11:30:06.456Z",
+    "controlDate": "2025-11-27T11:38:51.902Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143870,7 +143870,7 @@
     "name": "www.blitzverlag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-05T11:42:04.227Z",
+    "controlDate": "2025-11-27T11:50:00.409Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146731,7 +146731,7 @@
     "name": "Wirtschaft - Das IHK-Magazin im Hansebelt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-05T11:14:48.645Z",
+    "controlDate": "2025-11-27T11:23:55.534Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

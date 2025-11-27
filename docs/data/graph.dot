@@ -90475,7 +90475,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=2
-    num_medias_weighted=2.0000
+    num_medias_weighted=0.1000
     name="66bdd1b6-043c-4982-b6c4-6ce30ace91a8"
     in_degree=1
     out_degree=1
@@ -90796,7 +90796,7 @@ digraph {
     type=shareholder
     state=active
     label="Mecklenburger Blitz Verlag und Werbeagentur GmbH & Co. KG"
-    num_owners=132
+    num_owners=148
     num_owners_weighted=1.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -90808,8 +90808,8 @@ digraph {
     type=shareholder
     state=active
     label="Mecklenburger Blitz Verwaltungs GmbH"
-    num_owners=132
-    num_owners_weighted=14.0108
+    num_owners=148
+    num_owners_weighted=21.1538
     num_medias=1
     num_medias_weighted=0.0000
     name="6400bace-772b-4350-9eec-c22b77943273"
@@ -134071,7 +134071,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=2.0000
+    num_medias_weighted=0.1000
     name="66bdd1cb-b5be-4d5c-a55d-c7e0cd0cf956"
     in_degree=0
     out_degree=1
@@ -172924,8 +172924,8 @@ digraph {
     type=online
     state=active
     label="www.blitzverlag.de"
-    num_owners=132
-    num_owners_weighted=14.0108
+    num_owners=148
+    num_owners_weighted=21.1538
     num_medias=0
     num_medias_weighted=0.0000
     name="6400ba15-dc38-4341-b050-d4ee7b95d47d"
@@ -242506,7 +242506,7 @@ digraph {
     type=owns
   ];
   7539 -> 2540 [
-    weight=100
+    weight=5
     type=owns
   ];
   7540 -> 10921 [
