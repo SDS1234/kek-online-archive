@@ -10809,7 +10809,7 @@ digraph {
     num_medias=14
     num_medias_weighted=2.0000
     name="6900bc03-d546-4c48-b50b-f48224b23bca"
-    in_degree=0
+    in_degree=3
     out_degree=4
   ];
   901 [
@@ -10818,11 +10818,11 @@ digraph {
     label="Bamberger Rundfunk Verwaltungs-GmbH"
     num_owners=37
     num_owners_weighted=11.0800
-    num_medias=0
+    num_medias=14
     num_medias_weighted=0.0000
     name="5f902453-07a6-4733-afd6-079f0727e945"
     in_degree=2
-    out_degree=0
+    out_degree=1
   ];
   902 [
     type=shareholder
@@ -16098,7 +16098,7 @@ digraph {
     label="Billesberger, Amadé"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.5853
     name="5bf4088a-930b-4564-8c05-825a36cd026a"
     in_degree=0
@@ -16110,7 +16110,7 @@ digraph {
     label="Billesberger, Gabriele"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.6092
     name="5be1a6b6-1f73-432f-94d0-1d5a4c3f0134"
     in_degree=0
@@ -19710,7 +19710,7 @@ digraph {
     label="Brey, Dominic"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.3162
     name="5bf408d9-0c20-47ed-a10f-19f48b752bc1"
     in_degree=0
@@ -19722,7 +19722,7 @@ digraph {
     label="Brey, Harald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.0731
     name="5be1a6b6-9682-4a66-a02e-47becd788b7e"
     in_degree=0
@@ -29406,7 +29406,7 @@ digraph {
     label="Dercks, Renate von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.6092
     name="5be1a6b6-a2d4-4ca2-ae2d-b7384158ec37"
     in_degree=0
@@ -31314,7 +31314,7 @@ digraph {
     label="Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH"
     num_owners=8
     num_owners_weighted=5.0000
-    num_medias=251
+    num_medias=253
     num_medias_weighted=0.0000
     name="5be1a6b6-91ce-43a5-be72-79eee118b011"
     in_degree=1
@@ -31338,7 +31338,7 @@ digraph {
     label="Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG"
     num_owners=10
     num_owners_weighted=2.0000
-    num_medias=251
+    num_medias=253
     num_medias_weighted=31.2078
     name="5efef438-7c82-454e-beb9-493d1f5ec407"
     in_degree=3
@@ -32178,7 +32178,7 @@ digraph {
     label="Diller, Oliver"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.2925
     name="5be1a6b6-2bcd-4eb1-87f3-92522f1d5bfb"
     in_degree=0
@@ -32190,7 +32190,7 @@ digraph {
     label="Diller, Ursula"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.4388
     name="5be1a6b6-9a3e-428f-99f5-8477c5fb9480"
     in_degree=0
@@ -50442,10 +50442,10 @@ digraph {
     label="Fränkischer Tag GmbH"
     num_owners=17
     num_owners_weighted=17.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=7.0268
     name="5bf40545-4596-4b19-b5ef-85b703781941"
-    in_degree=18
+    in_degree=17
     out_degree=2
   ];
   4204 [
@@ -60270,11 +60270,11 @@ digraph {
     label="Hans Nolte Familienstiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=33
+    num_medias_weighted=8.2011
     name="6916e599-487a-49f0-817e-b6cc38177d68"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5023 [
     type=shareholder
@@ -62754,7 +62754,7 @@ digraph {
     label="Heitbrink-Brey, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.7313
     name="5be1a6b6-03d1-453f-b832-4ac942d7317c"
     in_degree=0
@@ -67710,7 +67710,7 @@ digraph {
     label="Härtl, Barbara Theresia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=272
+    num_medias=274
     num_medias_weighted=0.0000
     name="5efb01b2-c85e-48a8-90cb-224ae737729f"
     in_degree=0
@@ -70770,10 +70770,10 @@ digraph {
     label="J.M. Reindl Buch- und Kunstdruckerei OHG"
     num_owners=17
     num_owners_weighted=17.0000
-    num_medias=59
+    num_medias=61
     num_medias_weighted=7.3030
     name="5be1a6b6-c06e-4e23-86c0-a9062f2be140"
-    in_degree=17
+    in_degree=16
     out_degree=1
   ];
   5898 [
@@ -76986,7 +76986,7 @@ digraph {
     label="Knote, Christina"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.6092
     name="5be1a6b6-9154-4c75-b40f-bf49eb0c414d"
     in_degree=0
@@ -91770,11 +91770,11 @@ digraph {
     label="Mediengruppe Oberfranken - Radioanbieter GmbH"
     num_owners=24
     num_owners_weighted=15.1600
-    num_medias=17
+    num_medias=19
     num_medias_weighted=1.3000
     name="62c5907b-0527-483c-9b0d-1e9ed4599d5a"
     in_degree=1
-    out_degree=6
+    out_degree=7
   ];
   7648 [
     type=shareholder
@@ -91782,7 +91782,7 @@ digraph {
     label="Mediengruppe Oberfranken Digital GmbH & Co. KG"
     num_owners=24
     num_owners_weighted=14.1600
-    num_medias=17
+    num_medias=19
     num_medias_weighted=0.0000
     name="5c890a2f-a3a3-4fce-ae78-799243759958"
     in_degree=2
@@ -91794,7 +91794,7 @@ digraph {
     label="Mediengruppe Oberfranken Digital Verwaltung GmbH"
     num_owners=24
     num_owners_weighted=15.1600
-    num_medias=17
+    num_medias=19
     num_medias_weighted=0.0000
     name="5f902677-bef0-424c-875c-834738a1108e"
     in_degree=1
@@ -91806,7 +91806,7 @@ digraph {
     label="Mediengruppe Oberfranken GmbH & Co. KG"
     num_owners=22
     num_owners_weighted=12.1600
-    num_medias=59
+    num_medias=61
     num_medias_weighted=14.3196
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
     in_degree=3
@@ -91818,7 +91818,7 @@ digraph {
     label="Mediengruppe Oberfranken Verwaltung GmbH"
     num_owners=22
     num_owners_weighted=13.1600
-    num_medias=59
+    num_medias=61
     num_medias_weighted=0.0000
     name="5eb555ce-4bce-4583-81b4-e97104459739"
     in_degree=1
@@ -94962,7 +94962,7 @@ digraph {
     label="Minden, Dr. Stephan von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.1521
     name="5be1a6b6-835b-4a31-9bda-1034f5eedfe6"
     in_degree=0
@@ -94974,7 +94974,7 @@ digraph {
     label="Minden, Hendrik von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.1521
     name="5be1a6b6-cf75-4cfb-b850-333a0213c057"
     in_degree=0
@@ -94986,7 +94986,7 @@ digraph {
     label="Minden, Micaela von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.1521
     name="5be1a6b6-f76c-4083-847a-2179a2666507"
     in_degree=0
@@ -94998,7 +94998,7 @@ digraph {
     label="Minden-Bacher, Dr. Pieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.1521
     name="5be1a6b6-5f69-41f6-8337-9a6a5e6dbe65"
     in_degree=0
@@ -98622,7 +98622,7 @@ digraph {
     label="Müller Medien GmbH & Co. KG"
     num_owners=7
     num_owners_weighted=4.0000
-    num_medias=251
+    num_medias=253
     num_medias_weighted=0.0000
     name="5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c"
     in_degree=5
@@ -98634,7 +98634,7 @@ digraph {
     label="Müller Medien Verwaltungs-GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=251
+    num_medias=253
     num_medias_weighted=0.0000
     name="5eff1bdd-2f05-49d1-8bdc-6a31d8a7f979"
     in_degree=3
@@ -101382,11 +101382,11 @@ digraph {
     label="Neue Welle Oberfranken Mediengesellschaft mbH"
     num_owners=11
     num_owners_weighted=3.0000
-    num_medias=23
+    num_medias=25
     num_medias_weighted=3.6820
     name="5be1a6b6-5526-444b-86b3-9798293679fb"
     in_degree=1
-    out_degree=10
+    out_degree=11
   ];
   8449 [
     type=shareholder
@@ -106242,7 +106242,7 @@ digraph {
     label="Oschmann, Constanze"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=285
+    num_medias=287
     num_medias_weighted=6.2704
     name="5be1a6b6-649e-43f5-ab9a-1ced442fd834"
     in_degree=0
@@ -106254,7 +106254,7 @@ digraph {
     label="Oschmann, Gunther"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=272
+    num_medias=274
     num_medias_weighted=1.4538
     name="5be1a6b6-5e9d-48fa-b088-265055082ac9"
     in_degree=0
@@ -106266,7 +106266,7 @@ digraph {
     label="Oschmann, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=286
+    num_medias=288
     num_medias_weighted=7.1660
     name="5be1a6b6-2941-49b8-ad22-038b5aa868af"
     in_degree=0
@@ -124746,7 +124746,7 @@ digraph {
     label="Rohde, Madeleine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.3162
     name="5bf408bf-d272-415a-ad75-3e0fa4965b62"
     in_degree=0
@@ -127290,7 +127290,7 @@ digraph {
     label="Ruß, Georg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=1.4054
     name="68ff38e4-bad4-436f-a206-5f0249123a59"
     in_degree=0
@@ -140442,7 +140442,7 @@ digraph {
     label="SR Beteiligungs GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=272
+    num_medias=274
     num_medias_weighted=0.0000
     name="5efb014d-25a1-4255-8bb8-6138f8307e74"
     in_degree=2
@@ -140454,7 +140454,7 @@ digraph {
     label="SR Broadcast Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=251
+    num_medias=253
     num_medias_weighted=0.0000
     name="5eeb6bb9-7b98-4b92-9235-53f76ae93224"
     in_degree=4
@@ -140478,7 +140478,7 @@ digraph {
     label="SR Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=272
+    num_medias=274
     num_medias_weighted=0.0000
     name="5f905285-3715-460e-affd-dc041afaea8a"
     in_degree=4
@@ -150777,7 +150777,7 @@ digraph {
     num_medias=33
     num_medias_weighted=31.5425
     name="5be1a6b6-0b31-4cd0-88b2-e247324913be"
-    in_degree=1
+    in_degree=2
     out_degree=8
   ];
   12565 [
@@ -152106,7 +152106,7 @@ digraph {
     label="Tintelnot, Dr. Albrecht"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.3050
     name="5be1a6b6-37c9-401e-aeba-7b99a63d5370"
     in_degree=0
@@ -152130,7 +152130,7 @@ digraph {
     label="Tintelnot, Dr. Kathrin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
+    num_medias=63
     num_medias_weighted=0.3050
     name="5be1a6b6-923a-47cf-88a7-6bd67c98e2da"
     in_degree=0
@@ -166734,11 +166734,11 @@ digraph {
     label="Wirth, Georg Siegfried"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=61
-    num_medias_weighted=1.4626
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-05ad-4012-83e8-766a8ab09c08"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   13895 [
     type=shareholder
@@ -213041,6 +213041,10 @@ digraph {
     weight=100
     type=operates
   ];
+  901 -> 900 [
+    weight=1
+    type=owns
+  ];
   902 -> 815 [
     weight=10
     type=owns
@@ -232069,6 +232073,10 @@ digraph {
     weight=1
     type=owns
   ];
+  5022 -> 12564 [
+    weight=26
+    type=owns
+  ];
   5023 -> 11245 [
     weight=36
     type=owns
@@ -243193,6 +243201,10 @@ digraph {
     weight=100
     type=operates
   ];
+  7647 -> 900 [
+    weight=50
+    type=owns
+  ];
   7647 -> 901 [
     weight=50
     type=owns
@@ -247920,6 +247932,10 @@ digraph {
   8446 -> 9592 [
     weight=100
     type=operates
+  ];
+  8448 -> 900 [
+    weight=50
+    type=owns
   ];
   8448 -> 901 [
     weight=50
@@ -273372,14 +273388,6 @@ digraph {
   13893 -> 17089 [
     weight=100
     type=operates
-  ];
-  13894 -> 4203 [
-    weight=20
-    type=owns
-  ];
-  13894 -> 5897 [
-    weight=20
-    type=owns
   ];
   13895 -> 12821 [
     weight=3.2
