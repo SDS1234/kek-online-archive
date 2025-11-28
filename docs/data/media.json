@@ -1154,7 +1154,7 @@
     "rfStatewide": false,
     "name": "Dattelner Morgenpost",
     "type": "print",
-    "controlDate": "2025-06-11T14:22:32.025Z",
+    "controlDate": "2025-11-28T14:41:47.273Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1174,7 +1174,7 @@
     "rfStatewide": false,
     "name": "Hertener Allgemeine",
     "type": "print",
-    "controlDate": "2025-06-11T14:22:56.542Z",
+    "controlDate": "2025-11-28T14:42:00.124Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1218,7 +1218,7 @@
     "rfStatewide": false,
     "name": "Marler Zeitung",
     "type": "print",
-    "controlDate": "2025-06-11T14:23:13.408Z",
+    "controlDate": "2025-11-28T14:42:08.052Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1238,7 +1238,7 @@
     "rfStatewide": false,
     "name": "Stimberg Zeitung",
     "type": "print",
-    "controlDate": "2025-06-11T14:23:55.817Z",
+    "controlDate": "2025-11-28T14:43:26.846Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1282,7 +1282,7 @@
     "rfStatewide": false,
     "name": "Waltroper Zeitung",
     "type": "print",
-    "controlDate": "2025-06-11T14:24:22.843Z",
+    "controlDate": "2025-11-28T14:43:57.972Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1305,7 +1305,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:25:05.974Z",
+    "controlDate": "2025-11-28T14:46:02.736Z",
     "state": "active"
   },
   {
@@ -1323,7 +1323,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:24:51.110Z",
+    "controlDate": "2025-11-28T14:45:54.413Z",
     "state": "active"
   },
   {
@@ -1358,7 +1358,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:24:42.974Z",
+    "controlDate": "2025-11-28T14:45:44.671Z",
     "state": "active"
   },
   {
@@ -1376,7 +1376,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:25:14.366Z",
+    "controlDate": "2025-11-28T14:46:12.309Z",
     "state": "active"
   },
   {
@@ -1394,7 +1394,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:24:33.251Z",
+    "controlDate": "2025-11-28T14:45:31.773Z",
     "state": "active"
   },
   {
@@ -1412,7 +1412,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:25:22.319Z",
+    "controlDate": "2025-11-28T14:46:21.405Z",
     "state": "active"
   },
   {
@@ -12445,7 +12445,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:41:41.997Z",
+    "controlDate": "2025-11-28T15:02:53.684Z",
     "state": "active"
   },
   {
@@ -26982,7 +26982,7 @@
     "name": "www.luenepost.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T14:45:27.141Z",
+    "controlDate": "2025-11-28T15:05:04.230Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27074,7 +27074,7 @@
     "name": "www.jeversches-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T14:36:42.909Z",
+    "controlDate": "2025-11-28T14:59:11.197Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69954,7 +69954,7 @@
     "rfStatewide": false,
     "name": "Recklinghäuser Zeitung",
     "type": "print",
-    "controlDate": "2025-06-11T14:23:35.996Z",
+    "controlDate": "2025-11-28T14:42:15.957Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85506,7 +85506,7 @@
     "rfStatewide": false,
     "name": "Landeszeitung (Lüneburg)",
     "type": "print",
-    "controlDate": "2025-06-11T14:45:03.200Z",
+    "controlDate": "2025-11-28T15:04:29.536Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95218,7 +95218,7 @@
     "rfStatewide": false,
     "name": "Wilhelmshavener Zeitung",
     "type": "print",
-    "controlDate": "2025-06-11T14:36:32.058Z",
+    "controlDate": "2025-11-28T14:59:01.923Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95238,7 +95238,7 @@
     "rfStatewide": false,
     "name": "Jeversches Wochenblatt",
     "type": "print",
-    "controlDate": "2025-06-11T14:35:50.095Z",
+    "controlDate": "2025-11-28T14:58:54.675Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121913,7 +121913,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T14:45:16.551Z",
+    "controlDate": "2025-11-28T15:04:57.071Z",
     "state": "active"
   },
   {
@@ -127827,7 +127827,7 @@
     "name": "Landeszeitung/Winsener Anzeiger am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-11T15:01:38.414Z",
+    "controlDate": "2025-11-28T15:04:43.905Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143247,7 +143247,7 @@
     "name": "www.wilhelmshavener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T14:37:10.703Z",
+    "controlDate": "2025-11-28T14:59:19.587Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
