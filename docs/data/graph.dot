@@ -91569,7 +91569,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.6352
     name="5be1a6b6-c525-4b11-a1b7-9969a9671afb"
-    in_degree=31
+    in_degree=30
     out_degree=2
   ];
   7631 [
@@ -91726,7 +91726,7 @@ digraph {
     num_medias_weighted=23.0310
     name="5be1a6b6-fd86-43fb-894e-c03676de820a"
     in_degree=1
-    out_degree=4
+    out_degree=3
   ];
   7644 [
     type=shareholder
@@ -243155,10 +243155,6 @@ digraph {
   ];
   7643 -> 7349 [
     weight=100
-    type=owns
-  ];
-  7643 -> 7630 [
-    weight=4.13
     type=owns
   ];
   7643 -> 10273 [
