@@ -91706,7 +91706,7 @@
     "name": "Medienhaus Südwest GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "611a29be-20ab-4a5e-a86b-ef5f24460dda",
-    "controlDate": "2025-06-11T15:05:47.368Z",
+    "controlDate": "2025-11-28T15:20:18.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -92588,7 +92588,7 @@
     "squuid": "611a2a6a-1cd6-4581-af9e-c2f913aa7453",
     "name": "Medienhaus Südwest Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-11T15:05:23.033Z",
+    "controlDate": "2025-11-28T15:20:10.904Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -119102,7 +119102,7 @@
     "squuid": "5ea8233c-4904-4eb4-ac85-9d2361794edf",
     "name": "Medienholding Klambt Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-11T15:09:02.900Z",
+    "controlDate": "2025-11-28T15:24:00.296Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148636,7 +148636,7 @@
     "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6",
     "name": "Medienholding Klambt GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-11T15:09:26.532Z",
+    "controlDate": "2025-11-28T16:09:50.391Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -211143,6 +211143,19 @@
     ]
   },
   {
+    "squuid": "6929be80-ce4a-4dbb-8c99-9b590b751db6",
+    "name": "Salehi, Maryam ",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "61e80a84-17e2-43d2-bdcd-83f79377ba99",
     "name": "Zerena GmbH",
     "state": "archived",
@@ -211215,6 +211228,32 @@
           "squuid": "62fce40b-4467-4b3a-a3c8-26a6f46d9ca8",
           "name": "www.imtest.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6929c5a0-caa3-4e7b-8a9f-35f9ec5706fa",
+    "name": "Rose, Lilian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6929c5be-9cc4-4b30-9830-b2ebbf1cbeae",
+    "name": "Witte, Florian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
