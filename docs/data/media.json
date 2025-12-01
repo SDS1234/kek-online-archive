@@ -29973,7 +29973,7 @@
     "name": "Wirtschaft in Rheinland-Pfalz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T10:46:40.007Z",
+    "controlDate": "2025-12-01T13:10:28.210Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31412,7 +31412,7 @@
     "name": "www.ardkultur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:38:46.460Z",
+    "controlDate": "2025-12-01T13:00:30.858Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42062,7 +42062,7 @@
     "name": "www.mdr.de/tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:20.729Z",
+    "controlDate": "2025-12-01T12:59:08.899Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44676,7 +44676,7 @@
     "name": "www.mdr.de/mdr-aktuell-nachrichtenradio",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:29:26.356Z",
+    "controlDate": "2025-12-01T12:57:09.423Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44844,7 +44844,7 @@
     "name": "www.mdr.de/meine-schlagerwelt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:06.081Z",
+    "controlDate": "2025-12-01T12:58:03.430Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85915,7 +85915,7 @@
     "rfStatewide": false,
     "name": "Magdeburger Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:17:43.249Z",
+    "controlDate": "2025-12-01T12:37:25.564Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86474,7 +86474,7 @@
     "rfStatewide": false,
     "name": "Rhein-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T10:45:57.150Z",
+    "controlDate": "2025-12-01T13:09:51.854Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86521,7 +86521,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T10:47:16.433Z",
+    "controlDate": "2025-12-01T13:10:40.845Z",
     "state": "active"
   },
   {
@@ -98949,7 +98949,7 @@
     "name": "www.wochenspiegel-web.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:22:50.448Z",
+    "controlDate": "2025-12-01T12:42:44.157Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99015,7 +99015,7 @@
     "name": "www.supersonntag-web.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:22:38.054Z",
+    "controlDate": "2025-12-01T12:42:28.188Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99284,7 +99284,7 @@
     "name": "www.generalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:21:50.389Z",
+    "controlDate": "2025-12-01T12:41:53.501Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117279,7 +117279,7 @@
     "rfStatewide": false,
     "name": "Burger Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:10:04.884Z",
+    "controlDate": "2025-12-01T12:35:11.013Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117299,7 +117299,7 @@
     "rfStatewide": false,
     "name": "Genthiner Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:16:07.694Z",
+    "controlDate": "2025-12-01T12:36:00.010Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117367,7 +117367,7 @@
     "rfStatewide": false,
     "name": "Oschersleber Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:17:56.376Z",
+    "controlDate": "2025-12-01T12:37:36.818Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117387,7 +117387,7 @@
     "rfStatewide": false,
     "name": "Wanzleber Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:19:57.037Z",
+    "controlDate": "2025-12-01T12:40:49.032Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117407,7 +117407,7 @@
     "rfStatewide": false,
     "name": "Haldensleber Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:16:30.733Z",
+    "controlDate": "2025-12-01T12:36:19.432Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117427,7 +117427,7 @@
     "rfStatewide": false,
     "name": "Wolmirstädter Volkstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:20:09.559Z",
+    "controlDate": "2025-12-01T12:40:20.950Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117447,7 +117447,7 @@
     "rfStatewide": false,
     "name": "Zerbster Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:20:25.469Z",
+    "controlDate": "2025-12-01T12:41:00.974Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117467,7 +117467,7 @@
     "rfStatewide": false,
     "name": "Schönebecker Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:18:44.001Z",
+    "controlDate": "2025-12-01T12:39:12.553Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117487,7 +117487,7 @@
     "rfStatewide": false,
     "name": "Staßfurter Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:19:00.936Z",
+    "controlDate": "2025-12-01T12:39:33.073Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117507,7 +117507,7 @@
     "rfStatewide": false,
     "name": "Halberstädter Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:16:21.220Z",
+    "controlDate": "2025-12-01T12:36:10.566Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117527,7 +117527,7 @@
     "rfStatewide": false,
     "name": "Harzer Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:16:40.098Z",
+    "controlDate": "2025-12-01T12:36:39.324Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117547,7 +117547,7 @@
     "rfStatewide": false,
     "name": "Salzwedeler Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:18:32.592Z",
+    "controlDate": "2025-12-01T12:38:23.383Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117567,7 +117567,7 @@
     "rfStatewide": false,
     "name": "Gardelegener Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:15:32.168Z",
+    "controlDate": "2025-12-01T12:35:33.844Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117587,7 +117587,7 @@
     "rfStatewide": false,
     "name": "Klötzer Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:17:18.957Z",
+    "controlDate": "2025-12-01T12:37:15.979Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117607,7 +117607,7 @@
     "rfStatewide": false,
     "name": "Stendaler Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:19:42.603Z",
+    "controlDate": "2025-12-01T12:40:00.874Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117627,7 +117627,7 @@
     "rfStatewide": false,
     "name": "Osterburger Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:18:17.920Z",
+    "controlDate": "2025-12-01T12:38:05.062Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117647,7 +117647,7 @@
     "rfStatewide": false,
     "name": "Havelberger Volksstimme",
     "type": "print",
-    "controlDate": "2025-06-12T09:17:06.776Z",
+    "controlDate": "2025-12-01T12:36:49.295Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119407,7 +119407,7 @@
     "rfStatewide": false,
     "name": "Rhein-Lahn-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T10:45:20.465Z",
+    "controlDate": "2025-12-01T13:09:27.694Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119427,7 +119427,7 @@
     "rfStatewide": false,
     "name": "Öffentlicher Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-12T10:47:25.749Z",
+    "controlDate": "2025-12-01T13:11:10.008Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119447,7 +119447,7 @@
     "rfStatewide": false,
     "name": "Westerwälder Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T10:46:23.244Z",
+    "controlDate": "2025-12-01T13:10:02.341Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119491,7 +119491,7 @@
     "rfStatewide": false,
     "name": "Rhein-Hunsrück-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T10:45:12.956Z",
+    "controlDate": "2025-12-01T13:09:19.387Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119511,7 +119511,7 @@
     "rfStatewide": false,
     "name": "Nahe-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T10:45:01.571Z",
+    "controlDate": "2025-12-01T13:08:54.868Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -128667,7 +128667,7 @@
     "name": "www.mdr.de/tweens",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:26.485Z",
+    "controlDate": "2025-12-01T12:59:20.327Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144343,7 +144343,7 @@
     "name": "www.mdr.de/mdr-klassik",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:29:33.545Z",
+    "controlDate": "2025-12-01T12:57:26.885Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144367,7 +144367,7 @@
     "name": "www.mdr.de/kultur/radio",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:28:59.058Z",
+    "controlDate": "2025-12-01T12:56:51.536Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144415,7 +144415,7 @@
     "name": "www.mdr.de/mdr-thueringen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:29:59.370Z",
+    "controlDate": "2025-12-01T12:57:53.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144465,7 +144465,7 @@
     "name": "www.mdr.de/mdr-sachsen-anhalt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:29:50.009Z",
+    "controlDate": "2025-12-01T12:57:41.482Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144489,7 +144489,7 @@
     "name": "www.mdr.de/sachsenradio",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:14.503Z",
+    "controlDate": "2025-12-01T12:58:56.196Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144602,7 +144602,7 @@
     "name": "www.sputnik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:41.630Z",
+    "controlDate": "2025-12-01T12:59:39.356Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144626,7 +144626,7 @@
     "name": "www.mdrjump.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:30:32.374Z",
+    "controlDate": "2025-12-01T12:59:31.411Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149032,7 +149032,7 @@
     "name": "www.mdr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:28:37.242Z",
+    "controlDate": "2025-12-01T12:56:18.295Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159175,7 +159175,7 @@
     "name": "www.fupa.net/region/sachsen-anhalt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:21:30.835Z",
+    "controlDate": "2025-12-01T12:41:37.261Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

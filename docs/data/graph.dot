@@ -8321,7 +8321,7 @@ digraph {
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
     num_owners=968
-    num_owners_weighted=19.6247
+    num_owners_weighted=19.6028
     num_medias=7
     num_medias_weighted=0.0000
     name="6059f9d1-7500-4287-be63-5ed896c0498b"
@@ -15821,7 +15821,7 @@ digraph {
     state=active
     label="bigFM Rheinland-Pfalz"
     num_owners=496
-    num_owners_weighted=22.4315
+    num_owners_weighted=22.3878
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0467-4a76-92f7-bc47d5aaf2d0"
@@ -95523,9 +95523,9 @@ digraph {
   7960 [
     type=shareholder
     state=active
-    label="Mittelrhein LastMileGmbH"
-    num_owners=6
-    num_owners_weighted=3.3332
+    label="Mittelrhein LastMile GmbH"
+    num_owners=5
+    num_owners_weighted=2.3332
     num_medias=10
     num_medias_weighted=0.2841
     name="5be1a6b6-93ad-4f68-8875-b7f7186f450b"
@@ -123197,7 +123197,7 @@ digraph {
     state=active
     label="Rheinland-Pfälzische Rundfunk GmbH & Co. KG"
     num_owners=496
-    num_owners_weighted=15.4559
+    num_owners_weighted=15.4122
     num_medias=10
     num_medias_weighted=3.0000
     name="5be1a6b6-6bb7-4199-8b08-f060dbb3b080"
@@ -123209,7 +123209,7 @@ digraph {
     state=active
     label="Rheinland-Pfälzische Rundfunkbetriebsgesellschaft mbH"
     num_owners=496
-    num_owners_weighted=22.4315
+    num_owners_weighted=22.3878
     num_medias=10
     num_medias_weighted=0.0000
     name="5ef45fe6-e02b-4369-a59b-0da091660770"
@@ -125777,7 +125777,7 @@ digraph {
     state=active
     label="RPR Eins"
     num_owners=496
-    num_owners_weighted=22.4315
+    num_owners_weighted=22.3878
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b889-446f-8c02-ab98d5db224a"
@@ -125801,7 +125801,7 @@ digraph {
     state=active
     label="RPR Rheinland-Pfälzische Rundfunk GmbH & Co. KG"
     num_owners=496
-    num_owners_weighted=22.4315
+    num_owners_weighted=22.3878
     num_medias=0
     num_medias_weighted=0.0000
     name="5c6e6e3f-362a-4dac-b17f-dd486fe39d39"
@@ -128224,7 +128224,7 @@ digraph {
     type=shareholder
     state=active
     label="S-W Verlag GmbH & Co. KG für Lokalinformationen"
-    num_owners=10
+    num_owners=11
     num_owners_weighted=1.0000
     num_medias=11
     num_medias_weighted=1.1885
@@ -128236,8 +128236,8 @@ digraph {
     type=shareholder
     state=active
     label="S-W Verlag Verwaltungsgesellschaft für Lokalinformation mbH"
-    num_owners=9
-    num_owners_weighted=4.1667
+    num_owners=10
+    num_owners_weighted=4.6667
     num_medias=11
     num_medias_weighted=0.0000
     name="5ef46a30-6784-4bb2-a0d7-5af358c38805"
@@ -157444,8 +157444,8 @@ digraph {
     type=shareholder
     state=active
     label="Verlag für Anzeigenblätter GmbH"
-    num_owners=5
-    num_owners_weighted=2.3333
+    num_owners=6
+    num_owners_weighted=3.3333
     num_medias=12
     num_medias_weighted=1.5942
     name="5ef46a4f-538b-468e-b583-e5cb76ab586d"
@@ -167836,7 +167836,7 @@ digraph {
     type=shareholder
     state=active
     label="Wochenblatt-Verlag Limburg GmbH & Co. KG"
-    num_owners=27
+    num_owners=28
     num_owners_weighted=1.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -167848,8 +167848,8 @@ digraph {
     type=shareholder
     state=active
     label="Wochenblatt-Verlag Limburg Verwaltungs-GmbH"
-    num_owners=26
-    num_owners_weighted=5.0593
+    num_owners=27
+    num_owners_weighted=5.9693
     num_medias=1
     num_medias_weighted=0.0000
     name="63ea17e4-933c-40c6-8b52-47468d6faf99"
@@ -175900,8 +175900,8 @@ digraph {
     type=online
     state=active
     label="www.der-lokalanzeiger.de"
-    num_owners=28
-    num_owners_weighted=5.3333
+    num_owners=29
+    num_owners_weighted=6.3333
     num_medias=0
     num_medias_weighted=0.0000
     name="63ea152e-dd02-4143-a8d7-56c04349f893"
@@ -205780,7 +205780,7 @@ digraph {
     type=online
     state=active
     label="www.wochenspiegellive.de"
-    num_owners=15
+    num_owners=16
     num_owners_weighted=9.0000
     num_medias=0
     num_medias_weighted=0.0000
