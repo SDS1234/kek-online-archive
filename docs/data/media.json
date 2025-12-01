@@ -212,7 +212,7 @@
     "rfStatewide": false,
     "name": "Wörther Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-12T09:05:06.175Z",
+    "controlDate": "2025-12-01T12:25:33.728Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -232,7 +232,7 @@
     "rfStatewide": false,
     "name": "Neumarkter Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-12T09:04:38.075Z",
+    "controlDate": "2025-12-01T12:25:24.271Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -252,7 +252,7 @@
     "rfStatewide": false,
     "name": "Bayerwald-Echo",
     "type": "print",
-    "controlDate": "2025-06-12T09:03:23.940Z",
+    "controlDate": "2025-12-01T12:23:45.842Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -272,7 +272,7 @@
     "rfStatewide": false,
     "name": "Kötztinger Umschau",
     "type": "print",
-    "controlDate": "2025-06-12T09:03:34.923Z",
+    "controlDate": "2025-12-01T12:24:39.800Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -13576,7 +13576,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f280ccb-8877-4c67-a017-1f04b2c3c0b2",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -13586,7 +13586,7 @@
     "name": "www.tvhalle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T07:56:57.347Z",
+    "controlDate": "2025-12-01T11:15:38.822Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31289,7 +31289,7 @@
     "name": "www.mittelbayerische.de/anzeigen/rundschau",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:06:06.573Z",
+    "controlDate": "2025-12-01T12:26:12.415Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34344,7 +34344,7 @@
     "name": "www.fraenkischertag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T11:12:30.809Z",
+    "controlDate": "2025-12-01T11:24:49.993Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35913,7 +35913,7 @@
     "name": "www.schwabacher-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:46:10.779Z",
+    "controlDate": "2025-12-01T11:57:58.089Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70402,7 +70402,7 @@
     "rfStatewide": false,
     "name": "Schwabacher Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-12T08:45:47.291Z",
+    "controlDate": "2025-12-01T11:57:35.232Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -75364,7 +75364,7 @@
     "name": "www.mimikama.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:57:12.578Z",
+    "controlDate": "2025-12-01T12:20:46.150Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82438,7 +82438,7 @@
     "rfStatewide": false,
     "name": "Bayerische Rundschau",
     "type": "print",
-    "controlDate": "2025-06-12T08:10:00.158Z",
+    "controlDate": "2025-12-01T11:23:05.385Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82461,7 +82461,7 @@
     "rfStatewide": false,
     "name": "Fränkischer Tag",
     "type": "print",
-    "controlDate": "2025-06-12T08:11:09.507Z",
+    "controlDate": "2025-12-01T11:24:02.117Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82481,7 +82481,7 @@
     "rfStatewide": false,
     "name": "Coburger Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-12T08:10:16.816Z",
+    "controlDate": "2025-12-01T11:23:12.736Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86352,7 +86352,7 @@
     "rfStatewide": false,
     "name": "Mittelbayerische Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T09:04:13.060Z",
+    "controlDate": "2025-12-01T12:24:50.315Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86375,7 +86375,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T09:05:57.547Z",
+    "controlDate": "2025-12-01T12:26:01.297Z",
     "state": "active"
   },
   {
@@ -86436,7 +86436,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T07:56:23.638Z",
+    "controlDate": "2025-12-01T11:11:41.622Z",
     "state": "active"
   },
   {
@@ -93415,7 +93415,7 @@
     "name": "www.marktkorb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:19:56.589Z",
+    "controlDate": "2025-12-01T11:32:57.007Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -93475,7 +93475,7 @@
     "name": "www.wochen-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:20:04.293Z",
+    "controlDate": "2025-12-01T11:33:05.355Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -93787,7 +93787,7 @@
     "name": "www.franken-aktuell.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-15T10:17:58.967Z",
+    "controlDate": "2025-12-01T11:26:34.240Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94287,7 +94287,7 @@
     "name": "www.msn.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:40:22.193Z",
+    "controlDate": "2025-12-01T11:54:27.676Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97118,7 +97118,7 @@
     "rfStatewide": false,
     "name": "Saale-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T08:11:25.131Z",
+    "controlDate": "2025-12-01T11:24:31.724Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106993,7 +106993,7 @@
     "name": "www.inrlp.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:15:35.587Z",
+    "controlDate": "2025-12-01T11:27:13.788Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112966,7 +112966,7 @@
     "name": "www.altmuehl-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:46:01.980Z",
+    "controlDate": "2025-12-01T11:57:48.475Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117261,7 +117261,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T07:57:08.142Z",
+    "controlDate": "2025-12-01T11:16:23.847Z",
     "state": "active"
   },
   {
@@ -123120,7 +123120,7 @@
     "rfStatewide": false,
     "name": "Altmühl-Bote",
     "type": "print",
-    "controlDate": "2025-06-12T08:45:35.003Z",
+    "controlDate": "2025-12-01T11:57:23.537Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -130111,7 +130111,7 @@
     "name": "www.rblive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T08:01:48.560Z",
+    "controlDate": "2025-12-01T11:13:21.256Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133504,7 +133504,7 @@
     "name": "www.sao.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T07:56:44.980Z",
+    "controlDate": "2025-12-01T11:14:12.871Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157622,7 +157622,7 @@
     "name": "www.fupa.net/region/oberpfalz",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:05:30.449Z",
+    "controlDate": "2025-12-01T12:25:46.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

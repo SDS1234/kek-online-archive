@@ -230,15 +230,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "www.tvhalle.de",
-        "squuid": "5f280ccb-8877-4c67-a017-1f04b2c3c0b2"
-      },
-      "squuid": "63b6d840-e755-46c5-8cd6-cfbc95435d68",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "www.generalanzeiger.de",
         "squuid": "63e237c2-3674-4235-8afa-05461895fa71"
       },
