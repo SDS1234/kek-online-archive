@@ -86536,7 +86536,7 @@
     "rfStatewide": false,
     "name": "Hamburger Morgenpost",
     "type": "print",
-    "controlDate": "2025-06-12T14:51:42.655Z",
+    "controlDate": "2025-12-01T15:01:53.271Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86559,7 +86559,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T14:52:13.101Z",
+    "controlDate": "2025-12-01T15:02:07.773Z",
     "state": "active"
   },
   {
@@ -86577,7 +86577,7 @@
     "rfStatewide": false,
     "name": "Dresdner Morgenpost",
     "type": "print",
-    "controlDate": "2025-06-12T14:48:49.908Z",
+    "controlDate": "2025-12-01T14:51:51.369Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -102914,7 +102914,7 @@
     "rfStatewide": false,
     "name": "Astro-Woche",
     "type": "print",
-    "controlDate": "2025-06-12T11:19:44.996Z",
+    "controlDate": "2025-12-01T14:33:22.144Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105620,7 +105620,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T11:07:40.833Z",
+    "controlDate": "2025-12-01T14:26:52.751Z",
     "state": "active"
   },
   {
@@ -106198,7 +106198,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T11:07:49.752Z",
+    "controlDate": "2025-12-01T14:26:59.470Z",
     "state": "active"
   },
   {
@@ -111205,7 +111205,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:12:53.175Z",
+    "controlDate": "2025-12-01T14:11:15.883Z",
     "state": "active"
   },
   {
@@ -117949,7 +117949,7 @@
     "rfStatewide": false,
     "name": "Chemnitzer Morgenpost",
     "type": "print",
-    "controlDate": "2025-06-12T14:48:43.772Z",
+    "controlDate": "2025-12-01T14:51:41.423Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -133786,7 +133786,7 @@
     "name": "www.mopop.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T14:56:28.247Z",
+    "controlDate": "2025-12-01T15:02:18.761Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154047,7 +154047,7 @@
     "name": "www.scinexx.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T10:56:19.834Z",
+    "controlDate": "2025-12-01T14:07:36.204Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

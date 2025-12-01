@@ -1,9 +1,6 @@
 {
-  "name": "Frater, Harald",
-  "pseudoCompany": false,
-  "controlDate": "2019-07-09T10:18:19.276Z",
-  "squuid": "5bf67b80-c87a-4fc1-a4b8-7de9856c8c9a",
-  "city": "Düsseldorf",
+  "name": "Keller, Clara",
+  "squuid": "692da828-e758-452c-9720-1749910665d5",
   "state": "active",
   "organizations": [
     {
@@ -12,6 +9,5 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "naturalPerson": true
+  ]
 }

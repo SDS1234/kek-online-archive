@@ -18732,7 +18732,7 @@
     "squuid": "5be1a6b6-05f4-4f78-be54-b777825a60f4",
     "name": "Moosacher Anzeiger GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T14:29:11.984Z",
+    "controlDate": "2025-12-01T14:50:02.300Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22744,7 +22744,7 @@
     "squuid": "5be1a6b6-cb90-4250-ad44-4516a6493f9a",
     "name": "MOIRA Rundfunk GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:11:54.670Z",
+    "controlDate": "2025-12-01T14:30:10.036Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -30702,7 +30702,7 @@
     "squuid": "5be1a6b6-1e28-46eb-9ebc-d56f9d4057b7",
     "name": "Morgenpost Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T14:50:20.550Z",
+    "controlDate": "2025-12-01T15:00:30.123Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36551,7 +36551,7 @@
     "squuid": "64abe17e-bb33-4e3d-8447-e2d932ac2f37",
     "name": "Morgenroth Capital GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-12T14:59:10.667Z",
+    "controlDate": "2025-12-01T15:03:04.709Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -38894,7 +38894,7 @@
     "squuid": "64abe3bb-0b77-4175-b698-a699b5626500",
     "name": "Morgenroth Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T14:57:53.542Z",
+    "controlDate": "2025-12-01T15:04:33.819Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -39128,7 +39128,7 @@
     "squuid": "64abe3c9-21e9-4256-9dd1-416490369d81",
     "name": "Morgenroth GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-12T14:59:25.587Z",
+    "controlDate": "2025-12-01T15:04:13.549Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -124925,7 +124925,7 @@
     "squuid": "65955e65-bc93-4731-a5e5-15406229a7e0",
     "name": "MMS Madsack Medien Service GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:05:23.143Z",
+    "controlDate": "2025-12-01T14:15:03.436Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155647,9 +155647,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -156324,6 +156323,32 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "692da815-9dc8-4c81-a75b-b1a1fa9a7619",
+    "name": "Keller, Caspar",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "692da828-e758-452c-9720-1749910665d5",
+    "name": "Keller, Clara",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -163607,7 +163632,7 @@
     "squuid": "5c98ee6c-4328-4f2e-9dbb-8bcfcc3b9d68",
     "name": "MMN Mediengesellschaft Mittlerer Neckar GmbH",
     "state": "active",
-    "controlDate": "2024-11-27T14:04:44.524Z",
+    "controlDate": "2025-12-01T14:13:46.403Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166417,7 +166442,7 @@
     "squuid": "5c4867e0-e26e-4779-b412-e823394b81a7",
     "name": "Morus Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T15:02:54.613Z",
+    "controlDate": "2025-12-01T15:04:52.354Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170103,7 +170128,7 @@
     "squuid": "60339caf-5c33-4b4b-88bd-97441fca4c71",
     "name": "Mondhaus Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:19:37.078Z",
+    "controlDate": "2025-12-01T14:32:50.105Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201246,7 +201271,7 @@
     "squuid": "5d2db95e-814b-4ea6-b8fe-4b5d42f64476",
     "name": "Montalto Holding AG",
     "state": "active",
-    "controlDate": "2025-06-12T14:25:18.687Z",
+    "controlDate": "2025-12-01T14:48:41.838Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216249,7 +216274,7 @@
     "squuid": "5be1a6b6-751d-40d8-aa23-f7e307b83696",
     "name": "moggimedia GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:11:01.844Z",
+    "controlDate": "2025-12-01T14:27:42.520Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -224551,7 +224576,7 @@
     "squuid": "5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2",
     "name": "Monika Schoeller Familiengesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-12T14:24:27.719Z",
+    "controlDate": "2025-12-01T14:34:20.458Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -230780,7 +230805,7 @@
     "squuid": "5be1a6b6-6c2c-41de-80a8-fbc32485de4f",
     "name": "Morgenpost Sachsen GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T14:47:42.346Z",
+    "controlDate": "2025-12-01T14:51:35.555Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -248435,7 +248460,7 @@
     "squuid": "5be1a6b6-d183-4164-9890-ea322ee806c3",
     "name": "MMG Gruppe GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T10:57:50.639Z",
+    "controlDate": "2025-12-01T14:13:30.029Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -248920,7 +248945,7 @@
     "squuid": "5be1a6b6-f9c1-4217-b872-dd66c65928e2",
     "name": "mobile.de GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:07:04.682Z",
+    "controlDate": "2025-12-01T14:26:42.640Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251491,7 +251516,7 @@
     "squuid": "5be1a6b6-e2b9-43f3-8e88-b2329115b269",
     "name": "MON.de GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:15:26.799Z",
+    "controlDate": "2025-12-01T14:31:39.819Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -269645,7 +269670,7 @@
     "squuid": "60953a1c-d3f7-4637-b30b-558db13b833d",
     "name": "MoBet Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:06:52.602Z",
+    "controlDate": "2025-12-01T14:15:31.821Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282462,7 +282487,7 @@
     "squuid": "5be1a6b6-4bde-4273-af54-0485e98492bf",
     "name": "Monega Kapitalanlagegesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T11:20:49.635Z",
+    "controlDate": "2025-12-01T14:33:37.165Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -295342,7 +295367,7 @@
     "squuid": "5be1a6b6-7f12-420d-8f75-b4d5fbb0b942",
     "name": "Montagna Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T14:24:52.621Z",
+    "controlDate": "2025-12-01T14:47:50.207Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295671,7 +295696,7 @@
     "squuid": "5bf67afa-4cd1-4f8f-b344-9ab1cb556e20",
     "name": "MMCD NEW MEDIA GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T10:55:28.719Z",
+    "controlDate": "2025-12-01T14:05:39.623Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -297098,8 +297123,9 @@
     "controlDate": "2019-07-09T10:18:19.276Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
