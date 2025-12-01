@@ -10894,7 +10894,7 @@
     "rfStatewide": false,
     "name": "Diabetes Anker",
     "type": "print",
-    "controlDate": "2025-06-11T15:32:58.286Z",
+    "controlDate": "2025-12-01T10:04:28.226Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10918,7 +10918,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T15:33:04.670Z",
+    "controlDate": "2025-12-01T10:04:36.667Z",
     "state": "active"
   },
   {
@@ -22142,7 +22142,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T15:20:33.361Z",
+    "controlDate": "2025-12-01T09:39:57.342Z",
     "state": "active"
   },
   {
@@ -42038,7 +42038,7 @@
     "name": "www.medienwerkstatt-franken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:25:42.282Z",
+    "controlDate": "2025-12-01T09:51:22.770Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -64043,7 +64043,7 @@
     "name": "www.radio-koe.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:39:41.370Z",
+    "controlDate": "2025-12-01T10:08:30.007Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -110359,7 +110359,7 @@
     "name": "www.osthessen-news.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:11:59.013Z",
+    "controlDate": "2025-12-01T09:30:09.220Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144947,7 +144947,7 @@
     "name": "www.megaradiomix.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:39:31.871Z",
+    "controlDate": "2025-12-01T10:08:17.479Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155144,7 +155144,7 @@
     "name": "www.meerradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:33:47.905Z",
+    "controlDate": "2025-12-01T10:06:48.384Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160473,7 +160473,7 @@
     "name": "www.egofm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-18T13:04:01.776Z",
+    "controlDate": "2025-12-01T09:32:17.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
