@@ -14073,7 +14073,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T15:44:32.862Z",
+    "controlDate": "2025-12-01T10:16:02.558Z",
     "state": "active"
   },
   {
@@ -29079,7 +29079,7 @@
     "name": "www.meininger-tageblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-25T15:24:38.256Z",
+    "controlDate": "2025-12-01T10:32:37.022Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31767,7 +31767,7 @@
     "name": "www.freising-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:59:47.021Z",
+    "controlDate": "2025-12-01T10:54:29.679Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31839,7 +31839,7 @@
     "name": "www.dachauer-rundschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:58:44.991Z",
+    "controlDate": "2025-12-01T10:54:17.146Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71707,7 +71707,7 @@
     "rfStatewide": false,
     "name": "Kevelaerer Blatt",
     "type": "print",
-    "controlDate": "2025-06-11T15:44:26.015Z",
+    "controlDate": "2025-12-01T10:15:18.232Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71788,7 +71788,7 @@
     "rfStatewide": false,
     "name": "tz",
     "type": "print",
-    "controlDate": "2025-06-11T16:20:02.807Z",
+    "controlDate": "2025-12-01T10:57:47.560Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -71811,7 +71811,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-11T16:20:17.363Z",
+    "controlDate": "2025-12-01T10:57:36.247Z",
     "state": "active"
   },
   {
@@ -96513,7 +96513,7 @@
     "rfStatewide": false,
     "name": "Meininger Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-25T15:23:16.500Z",
+    "controlDate": "2025-12-01T10:31:45.324Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -126842,7 +126842,7 @@
     "name": "www.daimler.com/live",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:56:02.435Z",
+    "controlDate": "2025-12-01T10:36:13.996Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139611,7 +139611,7 @@
     "name": "www.metropolfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T16:33:41.555Z",
+    "controlDate": "2025-12-01T11:05:13.602Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155240,7 +155240,7 @@
     "name": "www.radio-meilensteine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-11T15:49:26.935Z",
+    "controlDate": "2025-12-01T10:23:33.193Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
