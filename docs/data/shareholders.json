@@ -62936,7 +62936,7 @@
     "squuid": "5e8da6ea-0258-45ab-b266-2d39babd1a76",
     "name": "Mitteldeutsches Druck- und Verlagshaus Geschäftsführungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T09:39:30.802Z",
+    "controlDate": "2025-12-01T13:24:57.716Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -143273,7 +143273,7 @@
     "squuid": "5be1a6b6-4de0-4af5-a3c5-20ff90dd6230",
     "name": "MK Wirtschaftsdienst GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T10:49:21.257Z",
+    "controlDate": "2025-12-01T13:49:00.714Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148835,7 +148835,7 @@
     "squuid": "5be1a6b6-1d1d-431c-b510-9e6855aae819",
     "name": "Mittelhessische Druck- und Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T09:39:58.458Z",
+    "controlDate": "2025-12-01T13:25:28.708Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -151002,7 +151002,7 @@
     "squuid": "5ecbbbc4-dca4-4c45-b930-e8b24cd0a995",
     "name": "Mittelhessische Druck- und Verlagshaus Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-12T09:44:34.615Z",
+    "controlDate": "2025-12-01T13:45:00.207Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155631,6 +155631,19 @@
   {
     "squuid": "645dffd2-58ba-4062-b039-726109c264be",
     "name": "Berthold, Christian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "692da1c3-0a9d-40a0-a8d5-2bbf4e541abb",
+    "name": "Erbengemeinschaft Bettina Jakschik und Ute Kashoa",
     "state": "active",
     "organizations": [
       {
@@ -171055,7 +171068,7 @@
     "squuid": "620ba700-4fbc-4a05-bb46-5f209a1b13c7",
     "name": "mm medizin + medien Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T10:49:40.670Z",
+    "controlDate": "2025-12-01T13:50:00.528Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230590,7 +230603,7 @@
     "name": "Mittelhessische Druck- und Verlagshaus GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f5fa-42a0-9e08-3357bfdc4167",
-    "controlDate": "2025-06-12T09:44:46.254Z",
+    "controlDate": "2025-12-01T13:25:43.460Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238711,7 +238724,7 @@
     "name": "MM-Musik-Media-Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-08c8-4265-8b2c-ee2c7ded6347",
-    "controlDate": "2025-06-12T10:54:31.931Z",
+    "controlDate": "2025-12-01T14:00:51.670Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258979,7 +258992,7 @@
     "squuid": "5be1a6b6-85cb-4649-aafe-e723af670f96",
     "name": "MM New Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-12T10:51:35.294Z",
+    "controlDate": "2025-12-01T13:57:06.778Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

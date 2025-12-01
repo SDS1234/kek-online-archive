@@ -32550,7 +32550,7 @@
     "name": "Wirtschaftsmagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:50:03.538Z",
+    "controlDate": "2025-12-01T13:30:44.983Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32618,7 +32618,7 @@
     "name": "Rabenauer Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:49:02.981Z",
+    "controlDate": "2025-12-01T13:30:07.494Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32701,7 +32701,7 @@
     "name": "Allendorfer Mitteilungen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:45:18.137Z",
+    "controlDate": "2025-12-01T13:26:00.317Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32721,7 +32721,7 @@
     "name": "Mücker Stimme",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:47:52.391Z",
+    "controlDate": "2025-12-01T13:29:24.603Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32741,7 +32741,7 @@
     "name": "Heimat Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:46:43.483Z",
+    "controlDate": "2025-12-01T13:27:53.535Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32761,7 +32761,7 @@
     "name": "Heimat Zeitung Reiskirchener Anzeiger",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:47:07.836Z",
+    "controlDate": "2025-12-01T13:28:06.930Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32781,7 +32781,7 @@
     "name": "Pohlheimer Nachrichten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T09:48:25.569Z",
+    "controlDate": "2025-12-01T13:29:48.146Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -77844,7 +77844,7 @@
     "name": "www.regionalspiegel-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-01T14:42:20.924Z",
+    "controlDate": "2025-12-01T13:57:51.944Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81079,7 +81079,7 @@
     "rfStatewide": false,
     "name": "Butzbacher Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T09:45:56.907Z",
+    "controlDate": "2025-12-01T13:27:05.646Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84550,7 +84550,7 @@
     "name": "www.hausarzt.digital",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T10:50:16.567Z",
+    "controlDate": "2025-12-01T13:50:08.921Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86451,7 +86451,7 @@
     "rfStatewide": false,
     "name": "Gießener Allgemeine",
     "type": "print",
-    "controlDate": "2025-07-05T17:00:20.220Z",
+    "controlDate": "2025-12-01T13:27:44.246Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -104191,7 +104191,7 @@
     "name": "www.licher-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:51:49.494Z",
+    "controlDate": "2025-12-01T13:31:32.331Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -109099,7 +109099,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T10:52:32.715Z",
+    "controlDate": "2025-12-01T13:57:42.055Z",
     "state": "active"
   },
   {
@@ -112364,7 +112364,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T10:53:06.789Z",
+    "controlDate": "2025-12-01T13:58:05.567Z",
     "state": "active"
   },
   {
@@ -115834,7 +115834,7 @@
     "rfStatewide": false,
     "name": "Sound & Recording",
     "type": "print",
-    "controlDate": "2025-06-12T10:54:37.750Z",
+    "controlDate": "2025-12-01T14:00:57.811Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115915,7 +115915,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T10:54:44.623Z",
+    "controlDate": "2025-12-01T14:01:05.339Z",
     "state": "active"
   },
   {
@@ -118937,7 +118937,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T09:50:56.777Z",
+    "controlDate": "2025-12-01T13:31:09.393Z",
     "state": "active"
   },
   {
@@ -119024,7 +119024,7 @@
     "rfStatewide": false,
     "name": "Alsfelder Allgemeine",
     "type": "print",
-    "controlDate": "2025-06-12T09:45:29.725Z",
+    "controlDate": "2025-12-01T13:26:31.370Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119044,7 +119044,7 @@
     "rfStatewide": false,
     "name": "Wetterauer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T09:49:39.012Z",
+    "controlDate": "2025-12-01T13:30:30.775Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119067,7 +119067,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T09:51:19.131Z",
+    "controlDate": "2025-12-01T13:31:20.636Z",
     "state": "active"
   },
   {
@@ -119103,7 +119103,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T09:52:01.148Z",
+    "controlDate": "2025-12-01T13:31:43.461Z",
     "state": "active"
   },
   {
@@ -119747,7 +119747,7 @@
     "rfStatewide": false,
     "name": "Hofheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-12T09:47:43.527Z",
+    "controlDate": "2025-12-01T13:28:32.787Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127180,7 +127180,7 @@
     "name": "www.alsfelder-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T09:50:32.090Z",
+    "controlDate": "2025-12-01T13:30:58.086Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131801,7 +131801,7 @@
     "name": "Laubacher Anzeiger",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T10:00:02.471Z",
+    "controlDate": "2025-12-01T13:29:02.512Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

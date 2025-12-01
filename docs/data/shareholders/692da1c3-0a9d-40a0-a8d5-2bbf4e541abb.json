@@ -1,0 +1,13 @@
+{
+  "name": "Erbengemeinschaft Bettina Jakschik und Ute Kashoa",
+  "squuid": "692da1c3-0a9d-40a0-a8d5-2bbf4e541abb",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ]
+}
