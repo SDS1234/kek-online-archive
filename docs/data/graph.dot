@@ -2572,8 +2572,8 @@ digraph {
     type=print
     state=active
     label="ADAC Reisemagazin"
-    num_owners=6
-    num_owners_weighted=4.5020
+    num_owners=8
+    num_owners_weighted=6.5020
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-af97-4c8e-aa17-8fb239b024d0"

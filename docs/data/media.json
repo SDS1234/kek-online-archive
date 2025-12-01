@@ -6387,7 +6387,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T15:07:28.403Z",
+    "controlDate": "2025-12-01T15:20:36.355Z",
     "state": "active"
   },
   {
@@ -6405,7 +6405,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:10:18.486Z",
+    "controlDate": "2025-12-01T16:06:09.188Z",
     "state": "active"
   },
   {
@@ -6423,7 +6423,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:11:40.573Z",
+    "controlDate": "2025-12-01T16:07:32.760Z",
     "state": "active"
   },
   {
@@ -6482,7 +6482,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:13:16.998Z",
+    "controlDate": "2025-12-01T16:09:03.002Z",
     "state": "active"
   },
   {
@@ -10244,7 +10244,7 @@
     "name": "www.auto-motor-und-sport.de/motorsport-aktuell",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:10:53.496Z",
+    "controlDate": "2025-12-01T16:06:38.623Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -11229,7 +11229,7 @@
     "name": "www.motorradonline.de/motorrad-classic",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:15:49.494Z",
+    "controlDate": "2025-12-01T16:12:31.155Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -11901,7 +11901,7 @@
     "name": "www.motorradonline.de/ride",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:16:07.763Z",
+    "controlDate": "2025-12-01T16:13:03.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12597,7 +12597,7 @@
     "name": "www.1000ps.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:09:49.948Z",
+    "controlDate": "2025-12-01T16:05:27.316Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -22916,7 +22916,7 @@
     "rfStatewide": false,
     "name": "moove",
     "type": "print",
-    "controlDate": "2025-06-14T10:52:56.765Z",
+    "controlDate": "2025-12-01T16:03:27.223Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22940,7 +22940,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:14:40.563Z",
+    "controlDate": "2025-12-01T16:11:12.565Z",
     "state": "active"
   },
   {
@@ -23787,7 +23787,7 @@
     "name": "Soul Sister",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-12T15:06:42.414Z",
+    "controlDate": "2025-12-01T15:19:53.665Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25813,7 +25813,7 @@
     "name": "www.reise-magazin.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:20:24.853Z",
+    "controlDate": "2025-12-01T16:16:02.458Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26121,7 +26121,7 @@
     "name": "www.outdoor-magazin.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:17:07.611Z",
+    "controlDate": "2025-12-01T16:14:03.349Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26266,7 +26266,7 @@
     "name": "www.ps-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:20:03.100Z",
+    "controlDate": "2025-12-01T16:15:41.024Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26290,7 +26290,7 @@
     "name": "www.womenshealth.de/soulsister/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-12T15:07:34.751Z",
+    "controlDate": "2025-12-01T15:20:45.570Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26370,7 +26370,7 @@
     "name": "www.clever-campen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:12:24.577Z",
+    "controlDate": "2025-12-01T16:08:19.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26914,7 +26914,7 @@
     "name": "www.karl-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:13:45.877Z",
+    "controlDate": "2025-12-01T16:09:47.955Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30190,7 +30190,7 @@
     "name": "www.elektrobike-online.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:12:48.882Z",
+    "controlDate": "2025-12-01T16:08:51.456Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34994,7 +34994,7 @@
     "name": "www.bike-x.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:11:14.901Z",
+    "controlDate": "2025-12-01T16:07:17.192Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38047,7 +38047,7 @@
     "name": "www.motor-klassik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:15:10.675Z",
+    "controlDate": "2025-12-01T16:11:48.114Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38105,7 +38105,7 @@
     "name": "www.sportauto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:21:26.059Z",
+    "controlDate": "2025-12-01T16:18:23.276Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38533,7 +38533,7 @@
     "name": "Ride",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-14T11:03:31.300Z",
+    "controlDate": "2025-12-01T15:59:59.379Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69187,7 +69187,7 @@
     "rfStatewide": false,
     "name": "promobil",
     "type": "print",
-    "controlDate": "2025-06-14T11:07:10.162Z",
+    "controlDate": "2025-12-01T16:04:23.031Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69212,7 +69212,7 @@
     "rfStatewide": false,
     "name": "Auto/Straßenverkehr",
     "type": "print",
-    "controlDate": "2025-06-14T10:50:10.948Z",
+    "controlDate": "2025-12-01T15:54:49.490Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69253,7 +69253,7 @@
     "rfStatewide": false,
     "name": "auto motor und sport",
     "type": "print",
-    "controlDate": "2025-06-14T10:52:09.309Z",
+    "controlDate": "2025-12-01T16:01:46.605Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69298,7 +69298,7 @@
     "rfStatewide": false,
     "name": "Motor Klassik",
     "type": "print",
-    "controlDate": "2025-06-14T10:50:46.673Z",
+    "controlDate": "2025-12-01T15:57:28.178Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69319,7 +69319,7 @@
     "rfStatewide": false,
     "name": "sport auto",
     "type": "print",
-    "controlDate": "2025-06-14T10:53:34.907Z",
+    "controlDate": "2025-12-01T16:04:53.326Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69403,7 +69403,7 @@
     "rfStatewide": false,
     "name": "Motorrad",
     "type": "print",
-    "controlDate": "2025-06-14T11:02:16.254Z",
+    "controlDate": "2025-12-01T15:57:55.926Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69424,7 +69424,7 @@
     "rfStatewide": false,
     "name": "Motorrad classic",
     "type": "print",
-    "controlDate": "2025-06-14T11:02:49.328Z",
+    "controlDate": "2025-12-01T15:58:17.805Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69445,7 +69445,7 @@
     "rfStatewide": false,
     "name": "PS",
     "type": "print",
-    "controlDate": "2025-06-14T11:03:01.772Z",
+    "controlDate": "2025-12-01T15:59:25.112Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69466,7 +69466,7 @@
     "rfStatewide": false,
     "name": "Flug Revue",
     "type": "print",
-    "controlDate": "2025-06-14T11:00:56.947Z",
+    "controlDate": "2025-12-01T15:56:49.783Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69487,7 +69487,7 @@
     "rfStatewide": false,
     "name": "aerokurier",
     "type": "print",
-    "controlDate": "2025-06-14T11:01:32.199Z",
+    "controlDate": "2025-12-01T16:01:34.609Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69508,7 +69508,7 @@
     "rfStatewide": false,
     "name": "Caravaning",
     "type": "print",
-    "controlDate": "2025-06-14T11:05:33.577Z",
+    "controlDate": "2025-12-01T15:55:24.229Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69529,7 +69529,7 @@
     "rfStatewide": false,
     "name": "Mountain Bike",
     "type": "print",
-    "controlDate": "2025-06-14T10:58:35.722Z",
+    "controlDate": "2025-12-01T15:59:13.904Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69550,7 +69550,7 @@
     "rfStatewide": false,
     "name": "outdoor",
     "type": "print",
-    "controlDate": "2025-06-14T11:04:44.463Z",
+    "controlDate": "2025-12-01T16:03:51.820Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69571,7 +69571,7 @@
     "rfStatewide": false,
     "name": "Cavallo",
     "type": "print",
-    "controlDate": "2025-06-14T11:07:31.148Z",
+    "controlDate": "2025-12-01T15:55:51.344Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69592,7 +69592,7 @@
     "rfStatewide": false,
     "name": "klettern",
     "type": "print",
-    "controlDate": "2025-06-14T11:04:12.107Z",
+    "controlDate": "2025-12-01T16:02:57.440Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69613,7 +69613,7 @@
     "rfStatewide": false,
     "name": "RoadBike",
     "type": "print",
-    "controlDate": "2025-06-14T10:57:52.696Z",
+    "controlDate": "2025-12-01T16:00:48.794Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69634,7 +69634,7 @@
     "rfStatewide": false,
     "name": "Motorsport aktuell",
     "type": "print",
-    "controlDate": "2025-06-14T10:51:12.689Z",
+    "controlDate": "2025-12-01T15:58:51.636Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69655,7 +69655,7 @@
     "rfStatewide": false,
     "name": "Youngtimer",
     "type": "print",
-    "controlDate": "2025-06-14T10:51:57.349Z",
+    "controlDate": "2025-12-01T16:01:04.954Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69676,7 +69676,7 @@
     "rfStatewide": false,
     "name": "Klassiker der Luftfahrt",
     "type": "print",
-    "controlDate": "2025-06-14T11:01:12.126Z",
+    "controlDate": "2025-12-01T15:57:04.235Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69721,7 +69721,7 @@
     "rfStatewide": false,
     "name": "Clever Campen",
     "type": "print",
-    "controlDate": "2025-06-14T11:05:53.420Z",
+    "controlDate": "2025-12-01T15:56:14.096Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69742,7 +69742,7 @@
     "rfStatewide": false,
     "name": "karl.",
     "type": "print",
-    "controlDate": "2025-06-14T10:57:12.225Z",
+    "controlDate": "2025-12-01T16:02:26.877Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69790,7 +69790,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:10:42.211Z",
+    "controlDate": "2025-12-01T16:06:27.660Z",
     "state": "active",
     "matchedNames": [
       "auto-motor-und-sport.de"
@@ -69811,7 +69811,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:19:15.387Z",
+    "controlDate": "2025-12-01T16:14:36.640Z",
     "state": "active"
   },
   {
@@ -69829,7 +69829,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:15:30.707Z",
+    "controlDate": "2025-12-01T16:12:14.382Z",
     "state": "active"
   },
   {
@@ -69847,7 +69847,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:14:15.051Z",
+    "controlDate": "2025-12-01T16:10:58.014Z",
     "state": "active"
   },
   {
@@ -69883,7 +69883,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:21:11.257Z",
+    "controlDate": "2025-12-01T16:17:29.457Z",
     "state": "active"
   },
   {
@@ -69901,7 +69901,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:16:39.806Z",
+    "controlDate": "2025-12-01T16:13:37.042Z",
     "state": "active"
   },
   {
@@ -69919,7 +69919,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:11:59.159Z",
+    "controlDate": "2025-12-01T16:07:45.102Z",
     "state": "active"
   },
   {
@@ -80209,7 +80209,7 @@
     "rfStatewide": false,
     "name": "ADAC Reisemagazin",
     "type": "print",
-    "controlDate": "2025-06-14T11:08:27.285Z",
+    "controlDate": "2025-12-01T15:19:19.098Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91637,7 +91637,7 @@
     "rfStatewide": false,
     "name": "Runner´s World",
     "type": "print",
-    "controlDate": "2025-06-12T15:06:15.509Z",
+    "controlDate": "2025-12-01T15:19:42.049Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91658,7 +91658,7 @@
     "rfStatewide": false,
     "name": "Men's Health",
     "type": "print",
-    "controlDate": "2025-06-12T15:05:43.104Z",
+    "controlDate": "2025-12-01T15:19:32.612Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91683,7 +91683,7 @@
     "rfStatewide": false,
     "name": "Women´s Health",
     "type": "print",
-    "controlDate": "2025-06-12T15:06:49.979Z",
+    "controlDate": "2025-12-01T15:20:03.849Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91793,7 +91793,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T15:06:59.971Z",
+    "controlDate": "2025-12-01T15:20:18.211Z",
     "state": "active"
   },
   {
@@ -91835,7 +91835,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-12T15:07:16.492Z",
+    "controlDate": "2025-12-01T15:20:26.992Z",
     "state": "active"
   },
   {
@@ -115378,7 +115378,7 @@
     "name": "www.klassiker-der-luftfahrt.de",
     "type": "online",
     "squuid": "5c1781a6-08b2-4fe5-b69f-6831afd70656",
-    "controlDate": "2025-06-14T11:14:02.695Z",
+    "controlDate": "2025-12-01T16:10:28.473Z",
     "state": "active"
   },
   {
