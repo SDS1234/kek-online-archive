@@ -4655,7 +4655,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T13:06:50.462Z",
+    "controlDate": "2025-12-02T14:21:16.976Z",
     "state": "active"
   },
   {
@@ -36380,7 +36380,7 @@
     "name": "www.koeln.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:23:06.174Z",
+    "controlDate": "2025-12-02T14:42:06.949Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37302,7 +37302,7 @@
     "name": "www.energy.de/sachsen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:32:49.614Z",
+    "controlDate": "2025-12-02T14:50:40.843Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46716,7 +46716,7 @@
     "name": "www.netflix.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:23:51.949Z",
+    "controlDate": "2025-12-02T14:43:04.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -54411,7 +54411,7 @@
     "name": "www.neueins.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:36:57.137Z",
+    "controlDate": "2025-12-02T14:51:40.315Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -60171,7 +60171,7 @@
     "name": "www.zdnet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:27:36.390Z",
+    "controlDate": "2025-12-02T14:44:10.889Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86852,7 +86852,7 @@
     "rfStatewide": false,
     "name": "nd.Der Tag (Wochenendausgabe unter dem Titel nd.Die Woche)",
     "type": "print",
-    "controlDate": "2025-06-13T13:06:43.302Z",
+    "controlDate": "2025-12-02T14:19:51.260Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -99576,7 +99576,7 @@
     "rfStatewide": false,
     "name": "Eberbacher Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T13:08:39.124Z",
+    "controlDate": "2025-12-02T14:33:03.439Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107158,7 +107158,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T13:28:12.997Z",
+    "controlDate": "2025-12-02T14:48:00.215Z",
     "state": "active"
   },
   {
@@ -124451,7 +124451,7 @@
     "name": "www.ws-fz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:40:41.650Z",
+    "controlDate": "2025-12-02T14:55:42.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128989,7 +128989,7 @@
     "name": "www.berliner-rundfunk.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:45:58.533Z",
+    "controlDate": "2025-12-02T15:01:50.546Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

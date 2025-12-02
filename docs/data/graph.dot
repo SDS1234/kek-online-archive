@@ -53838,11 +53838,11 @@ digraph {
     label="General Atlantic Service Company L.P."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.2510
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d2dcacc-bc7b-4710-b29f-e42179ac1e9f"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4487 [
     type=shareholder
@@ -100215,21 +100215,21 @@ digraph {
   8351 [
     type=shareholder
     state=active
-    label="NCG - NUCOM Group SE"
-    num_owners=17
-    num_owners_weighted=7.5033
+    label="NCG - NUCOM Group GmbH"
+    num_owners=16
+    num_owners_weighted=8.3476
     num_medias=1
     num_medias_weighted=1.0000
     name="5d2dc61e-3a18-414f-9d1c-4e96145eb44e"
-    in_degree=2
+    in_degree=1
     out_degree=1
   ];
   8352 [
     type=shareholder
     state=active
     label="NCG Commerce GmbH"
-    num_owners=18
-    num_owners_weighted=8.5033
+    num_owners=17
+    num_owners_weighted=9.3476
     num_medias=1
     num_medias_weighted=1.0000
     name="5d2dc5de-dd9d-4ec9-bc5b-0c0def60313a"
@@ -146764,8 +146764,8 @@ digraph {
     type=shareholder
     state=active
     label="Stylight GmbH"
-    num_owners=19
-    num_owners_weighted=9.5033
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=1
     num_medias_weighted=1.0000
     name="5d2dc567-1eb2-4e74-b208-99f88d80b6e2"
@@ -200920,8 +200920,8 @@ digraph {
     type=online
     state=active
     label="www.stylight.de"
-    num_owners=20
-    num_owners_weighted=10.5033
+    num_owners=19
+    num_owners_weighted=11.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2dc552-2719-4690-9dfa-0b6b1d6d01a8"
@@ -229940,10 +229940,6 @@ digraph {
   4483 -> 16458 [
     weight=100
     type=operates
-  ];
-  4486 -> 8351 [
-    weight=25.1
-    type=owns
   ];
   4487 -> 8299 [
     weight=100
