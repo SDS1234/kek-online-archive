@@ -43832,7 +43832,7 @@
     "name": "www.muenchen.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T11:55:04.997Z",
+    "controlDate": "2025-12-02T12:30:47.104Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86680,7 +86680,7 @@
     "rfStatewide": false,
     "name": "Münchner Merkur",
     "type": "print",
-    "controlDate": "2025-06-13T11:56:32.942Z",
+    "controlDate": "2025-12-02T12:34:30.355Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -111578,7 +111578,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T11:58:26.320Z",
+    "controlDate": "2025-12-02T12:36:31.321Z",
     "state": "active"
   },
   {
@@ -135277,7 +135277,7 @@
     "name": "www.wotsch.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T17:04:05.239Z",
+    "controlDate": "2025-12-02T12:31:09.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142465,7 +142465,7 @@
     "name": "Wirtschaft (München/Oberbayern)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2024-11-28T14:31:53.768Z",
+    "controlDate": "2025-12-02T12:36:07.633Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

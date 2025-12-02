@@ -26671,7 +26671,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=403
-    num_medias_weighted=6.7288
+    num_medias_weighted=6.7289
     name="5be1a6b6-7157-40de-8b37-5f951c11fe94"
     in_degree=3
     out_degree=2
@@ -36331,7 +36331,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=409
-    num_medias_weighted=3.2397
+    num_medias_weighted=3.2398
     name="5be1a6b6-449c-496f-990d-3d9dbda76e0a"
     in_degree=0
     out_degree=8
@@ -44395,7 +44395,7 @@ digraph {
     num_owners=12
     num_owners_weighted=6.0000
     num_medias=522
-    num_medias_weighted=73.9223
+    num_medias_weighted=73.9224
     name="5be1a6b6-f96c-4e11-901f-037faf330020"
     in_degree=7
     out_degree=23
@@ -70111,7 +70111,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=527
-    num_medias_weighted=43.1386
+    num_medias_weighted=43.1387
     name="5be1a6b6-6732-4f13-872a-78cb650dabda"
     in_degree=0
     out_degree=10
@@ -99066,11 +99066,11 @@ digraph {
     label="Münchener Zeitungs-Verlag GmbH & Co. KG"
     num_owners=40
     num_owners_weighted=4.7862
-    num_medias=359
+    num_medias=361
     num_medias_weighted=110.7340
     name="5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
     in_degree=6
-    out_degree=60
+    out_degree=61
   ];
   8256 [
     type=shareholder
@@ -99138,7 +99138,7 @@ digraph {
     label="Münchner Merkur Verwaltungs GmbH"
     num_owners=40
     num_owners_weighted=7.7689
-    num_medias=359
+    num_medias=361
     num_medias_weighted=0.0000
     name="5ebe6137-3848-4ad4-8a9c-ee4b15abc711"
     in_degree=5
@@ -115209,7 +115209,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-629f-4f77-8297-f5d0290fd4da"
-    in_degree=3
+    in_degree=4
     out_degree=2
   ];
   9601 [
@@ -164371,7 +164371,7 @@ digraph {
     num_owners=14
     num_owners_weighted=6.7906
     num_medias=403
-    num_medias_weighted=7.4757
+    num_medias_weighted=7.4758
     name="5be1a6b6-69ce-46dd-9aeb-f191984dd6f1"
     in_degree=4
     out_degree=3
@@ -246330,7 +246330,7 @@ digraph {
     type=owns
   ];
   8255 -> 7637 [
-    weight=7.54
+    weight=7.62
     type=owns
   ];
   8255 -> 7638 [
@@ -246359,6 +246359,10 @@ digraph {
   ];
   8255 -> 9554 [
     weight=34.94
+    type=owns
+  ];
+  8255 -> 9600 [
+    weight=25
     type=owns
   ];
   8255 -> 12874 [
