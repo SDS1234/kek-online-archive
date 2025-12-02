@@ -4171,7 +4171,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T09:32:36.691Z",
+    "controlDate": "2025-12-02T10:53:09.486Z",
     "state": "active"
   },
   {
@@ -16898,7 +16898,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T09:26:30.041Z",
+    "controlDate": "2025-12-02T10:44:47.072Z",
     "state": "active"
   },
   {
@@ -22701,7 +22701,7 @@
     "rfStatewide": false,
     "name": "Rute & Rolle",
     "type": "print",
-    "controlDate": "2025-06-13T09:22:37.387Z",
+    "controlDate": "2025-12-02T10:44:24.760Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22725,7 +22725,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T09:26:21.777Z",
+    "controlDate": "2025-12-02T10:44:40.666Z",
     "state": "active"
   },
   {
@@ -22764,7 +22764,7 @@
     "rfStatewide": false,
     "name": "Fisch & Fliege",
     "type": "print",
-    "controlDate": "2025-06-13T09:22:28.090Z",
+    "controlDate": "2025-12-02T10:44:11.971Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -79666,7 +79666,7 @@
     "rfStatewide": false,
     "name": "Böhme-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T09:13:20.376Z",
+    "controlDate": "2025-12-02T10:38:40.657Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86701,7 +86701,7 @@
     "rfStatewide": false,
     "name": "Murrhardter Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T09:32:17.107Z",
+    "controlDate": "2025-12-02T10:52:53.221Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103542,7 +103542,7 @@
     "rfStatewide": false,
     "name": "Skipper Bootshandel",
     "type": "print",
-    "controlDate": "2025-06-13T09:25:05.465Z",
+    "controlDate": "2025-12-02T10:44:33.251Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -121946,7 +121946,7 @@
     "rfStatewide": false,
     "name": "Schneverdinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T09:13:32.927Z",
+    "controlDate": "2025-12-02T10:38:49.175Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121969,7 +121969,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T09:13:56.290Z",
+    "controlDate": "2025-12-02T10:39:05.745Z",
     "state": "active"
   },
   {
@@ -138321,7 +138321,7 @@
     "name": "www.morethansports.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T09:56:16.074Z",
+    "controlDate": "2025-12-02T11:08:45.286Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146100,7 +146100,7 @@
     "name": "www.muxx.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T09:38:14.251Z",
+    "controlDate": "2025-12-02T10:58:09.353Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156741,7 +156741,7 @@
     "name": "www.heide-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T09:13:42.644Z",
+    "controlDate": "2025-12-02T10:39:12.914Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162218,7 +162218,7 @@
     "name": "www.fupa.net/region/oberbayern",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T09:20:05.782Z",
+    "controlDate": "2025-12-02T10:42:39.445Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
