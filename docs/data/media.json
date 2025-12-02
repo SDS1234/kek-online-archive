@@ -2451,7 +2451,7 @@
     "rfStatewide": false,
     "name": "Dorstener Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T12:11:08.455Z",
+    "controlDate": "2025-12-02T13:45:27.297Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2471,7 +2471,7 @@
     "rfStatewide": false,
     "name": "Halterner Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T12:11:45.420Z",
+    "controlDate": "2025-12-02T13:45:14.077Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2491,7 +2491,7 @@
     "rfStatewide": false,
     "name": "Münsterland Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T12:11:59.818Z",
+    "controlDate": "2025-12-02T13:46:27.972Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2604,7 +2604,7 @@
     "name": "www.universaltv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:02:16.933Z",
+    "controlDate": "2025-12-02T14:12:26.433Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -3532,7 +3532,7 @@
     "name": "www.syfy.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:02:09.461Z",
+    "controlDate": "2025-12-02T14:11:59.504Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -8687,7 +8687,7 @@
     "rfStatewide": false,
     "name": "BUNDmagazin",
     "type": "print",
-    "controlDate": "2025-06-13T12:43:28.308Z",
+    "controlDate": "2025-12-02T14:05:04.271Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15732,7 +15732,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T12:40:40.429Z",
+    "controlDate": "2025-12-02T14:04:38.606Z",
     "state": "active"
   },
   {
@@ -15768,7 +15768,7 @@
     "rfStatewide": false,
     "name": "Naturfreundin",
     "type": "print",
-    "controlDate": "2025-06-13T12:44:33.578Z",
+    "controlDate": "2025-12-02T14:06:17.063Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90156,7 +90156,7 @@
     "name": "www.13thstreet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:01:11.998Z",
+    "controlDate": "2025-12-02T14:11:43.009Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97490,7 +97490,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T12:35:19.421Z",
+    "controlDate": "2025-12-02T13:56:43.414Z",
     "state": "active"
   },
   {
@@ -97508,7 +97508,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T12:35:01.308Z",
+    "controlDate": "2025-12-02T13:56:29.821Z",
     "state": "active"
   },
   {
@@ -104139,7 +104139,7 @@
     "name": "www.eonline.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T13:02:01.037Z",
+    "controlDate": "2025-12-02T14:11:50.807Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -111721,7 +111721,7 @@
     "rfStatewide": false,
     "name": "Natur & Heilen",
     "type": "print",
-    "controlDate": "2025-06-13T12:40:33.723Z",
+    "controlDate": "2025-12-02T14:04:01.220Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",

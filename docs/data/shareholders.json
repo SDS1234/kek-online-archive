@@ -15267,7 +15267,7 @@
     "squuid": "5be1a6b6-d3c9-42ef-b1ea-0f36a55e38bd",
     "name": "National Amusements, Inc.",
     "state": "active",
-    "controlDate": "2025-06-13T12:39:03.113Z",
+    "controlDate": "2025-12-02T14:02:36.497Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -37020,9 +37020,9 @@
   },
   {
     "squuid": "5be1a6b6-86f5-4f42-95b0-2c0b050b904e",
-    "name": "NBCUniversal Global Networks Deutschland GmbH",
+    "name": "NBC Universal Global Networks Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T13:00:08.585Z",
+    "controlDate": "2025-12-02T14:09:42.664Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -83896,6 +83896,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -83978,6 +83984,33 @@
         "held": {
           "squuid": "5be1a6b1-99d4-4927-8418-26bcb63a91e8",
           "name": "www.bbv-net.de"
+        }
+      },
+      {
+        "squuid": "692eed20-3fce-41c7-a48e-c39ee1a63bfd",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-39f1-4418-9e3a-312a908789f5",
+          "name": "Dorstener Zeitung"
+        }
+      },
+      {
+        "squuid": "692eed42-6249-4723-8f09-1fe0a4655870",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-2bd0-4a1f-beaf-91f632c003f8",
+          "name": "Halterner Zeitung"
+        }
+      },
+      {
+        "squuid": "692eedab-e252-4025-a779-e58757baae8d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6f37-4022-900c-db6e74ee18fb",
+          "name": "Münsterland Zeitung"
         }
       }
     ]
@@ -142657,7 +142690,7 @@
     "squuid": "5be1a6b6-c8f4-4f4a-bb6f-159238eaffc1",
     "name": "NANO-COMP electronic GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:37:37.926Z",
+    "controlDate": "2025-12-02T13:59:34.437Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151743,7 +151776,7 @@
     "squuid": "62b46904-3ba9-4290-afc8-dc6248e6a6ee",
     "name": "Natur & Heilen Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:40:20.005Z",
+    "controlDate": "2025-12-02T14:03:46.019Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169553,7 +169586,7 @@
     "squuid": "5ebe6137-3848-4ad4-8a9c-ee4b15abc711",
     "name": "Münchner Merkur Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-11T09:59:14.897Z",
+    "controlDate": "2025-12-02T12:41:30.505Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -171960,12 +171993,13 @@
   {
     "squuid": "5edf71a2-cee1-44ff-8c6a-8ff3ea4a7eb1",
     "name": "Münsterland Zeitung Medien Verwaltungsgesellschaft mbH",
-    "state": "active",
-    "controlDate": "2025-06-13T12:10:28.813Z",
+    "state": "archived",
+    "controlDate": "2025-12-02T12:42:21.148Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -172641,7 +172675,7 @@
     "squuid": "5ecba8b2-7c6f-4618-be1a-c2e992719260",
     "name": "Naumann Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2024-06-27T11:11:02.325Z",
+    "controlDate": "2025-12-02T14:08:40.029Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -177103,6 +177137,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -186803,7 +186843,7 @@
     "squuid": "60390dbd-afc8-4fb8-81bd-51abd2a5d4b0",
     "name": "Nau Steuerberatungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:45:21.660Z",
+    "controlDate": "2025-12-02T14:06:58.859Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242908,9 +242948,9 @@
   },
   {
     "squuid": "5be1a6b6-736b-430f-83c3-3a66fa1a2274",
-    "name": "N49 Agentur für Strategie und Performance GmbH",
+    "name": "Orange News GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:34:49.478Z",
+    "controlDate": "2025-12-02T13:53:44.338Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257128,7 +257168,7 @@
     "squuid": "5be1a6b6-03bb-4635-a685-a83335950412",
     "name": "Natur & Umwelt Service- und Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:42:32.618Z",
+    "controlDate": "2025-12-02T14:04:54.618Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263981,7 +264021,7 @@
     "name": "Natur & Heilen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6c95-4176-9852-e089c5077aba",
-    "controlDate": "2025-06-13T12:40:27.718Z",
+    "controlDate": "2025-12-02T14:03:54.408Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288408,45 +288448,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Münsterland Zeitung Medien GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-3a30-4aca-a0ff-255456fc479d",
+    "name": "Münsterland Zeitung Medien GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2025-06-13T12:10:38.384Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-6160-4e37-ba37-537fb6b16e7e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6f37-4022-900c-db6e74ee18fb",
-          "name": "Münsterland Zeitung"
-        }
-      },
-      {
-        "squuid": "634fe031-86c2-4507-ab80-d3d730429c37",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-2bd0-4a1f-beaf-91f632c003f8",
-          "name": "Halterner Zeitung"
-        }
-      },
-      {
-        "squuid": "634fe06f-1ec1-4ab5-abf6-74926c648d95",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-39f1-4418-9e3a-312a908789f5",
-          "name": "Dorstener Zeitung"
-        }
       }
     ]
   },
@@ -289023,7 +289035,7 @@
     "squuid": "5be1a6b6-3f67-4545-94fd-0639f1bbe6b8",
     "name": "Nadja & Wolfgang Poppen GbR",
     "state": "active",
-    "controlDate": "2025-06-13T12:36:53.114Z",
+    "controlDate": "2025-12-02T13:58:31.818Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -297057,7 +297069,7 @@
     "squuid": "5be1a6b6-effa-46c5-a63f-09c7d8933b16",
     "name": "Naturfreunde-Verlag Freizeit und Wandern GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T12:44:04.657Z",
+    "controlDate": "2025-12-02T14:06:12.037Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
