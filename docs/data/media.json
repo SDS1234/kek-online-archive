@@ -1521,7 +1521,7 @@
     "rfStatewide": false,
     "name": "Altenaer Kreisblatt",
     "type": "print",
-    "controlDate": "2025-06-13T10:36:42.231Z",
+    "controlDate": "2025-12-02T11:48:59.640Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1565,7 +1565,7 @@
     "rfStatewide": false,
     "name": "Süderländer Volksfreund",
     "type": "print",
-    "controlDate": "2025-06-13T10:38:03.450Z",
+    "controlDate": "2025-12-02T11:50:56.786Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1585,7 +1585,7 @@
     "rfStatewide": false,
     "name": "Meinerzhagener Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T10:37:25.453Z",
+    "controlDate": "2025-12-02T11:50:00.585Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1605,7 +1605,7 @@
     "rfStatewide": false,
     "name": "Allgemeiner Anzeiger (Halver)",
     "type": "print",
-    "controlDate": "2025-06-13T10:36:29.687Z",
+    "controlDate": "2025-12-02T11:48:48.005Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1628,7 +1628,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T10:41:54.838Z",
+    "controlDate": "2025-12-02T12:00:11.060Z",
     "state": "active"
   },
   {
@@ -2129,7 +2129,7 @@
     "rfStatewide": false,
     "name": "Grevener Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T13:06:16.108Z",
+    "controlDate": "2025-12-02T11:26:23.012Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2152,7 +2152,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T10:13:35.748Z",
+    "controlDate": "2025-12-02T11:27:00.340Z",
     "state": "active"
   },
   {
@@ -24723,7 +24723,7 @@
     "name": "www.gransee-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:50:48.255Z",
+    "controlDate": "2025-12-02T12:07:40.380Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24773,7 +24773,7 @@
     "name": "www.meinerzhagener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:42:32.313Z",
+    "controlDate": "2025-12-02T12:01:22.034Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24797,7 +24797,7 @@
     "name": "www.altenaer-kreisblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:41:41.428Z",
+    "controlDate": "2025-12-02T11:59:54.924Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25882,7 +25882,7 @@
     "name": "www.hennigsdorfer-generalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:50:58.441Z",
+    "controlDate": "2025-12-02T12:07:59.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28380,7 +28380,7 @@
     "name": "MZ Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-13T10:13:13.902Z",
+    "controlDate": "2025-12-02T11:26:36.326Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31791,7 +31791,7 @@
     "name": "www.oranienburger-generalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:53:14.098Z",
+    "controlDate": "2025-12-02T12:09:01.213Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35563,7 +35563,7 @@
     "name": "www.ruppiner-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:53:54.248Z",
+    "controlDate": "2025-12-02T12:10:11.562Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37210,7 +37210,7 @@
     "name": "www.suederlaender-tageblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:42:45.112Z",
+    "controlDate": "2025-12-02T12:01:37.182Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38349,7 +38349,7 @@
     "name": "www.blickpunkt-brandenburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:50:34.008Z",
+    "controlDate": "2025-12-02T12:07:27.996Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38398,7 +38398,7 @@
     "name": "MAZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-13T10:32:47.808Z",
+    "controlDate": "2025-12-02T11:36:02.615Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39158,7 +39158,7 @@
     "name": "www.moz.de/brawo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:52:09.454Z",
+    "controlDate": "2025-12-02T12:08:21.235Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39254,7 +39254,7 @@
     "name": "www.moz.de/thema/maerkischer-sonntag",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:52:46.256Z",
+    "controlDate": "2025-12-02T12:08:52.054Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39302,7 +39302,7 @@
     "name": "www.moz.de/thema/maerkischer-markt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:52:37.934Z",
+    "controlDate": "2025-12-02T12:08:42.796Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39408,7 +39408,7 @@
     "name": "www.moz.de/thema/maerker",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:52:22.739Z",
+    "controlDate": "2025-12-02T12:08:29.951Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45299,7 +45299,7 @@
     "name": "www.pocketpc.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:04:52.782Z",
+    "controlDate": "2025-12-02T11:14:34.552Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46404,7 +46404,7 @@
     "name": "www.boersenblatt.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T09:59:52.965Z",
+    "controlDate": "2025-12-02T11:12:31.397Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47287,6 +47287,23 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Platsch!",
+    "type": "print",
+    "squuid": "692ecb71-fe5a-4d3e-8aba-cbe4678efe18",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5d2f2a15-ce33-4144-9a9a-0e9d78ce2770",
     "organization": {
@@ -47705,6 +47722,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2023-07-13T14:32:39.526Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "692ed374-38f4-4fb7-a725-9390c16a4335",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.lokalstimme.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-12-02T11:55:14.401Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85802,7 +85843,7 @@
     "rfStatewide": false,
     "name": "Lüdenscheider Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-13T10:37:13.571Z",
+    "controlDate": "2025-12-02T11:49:09.960Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85822,7 +85863,7 @@
     "rfStatewide": false,
     "name": "Oranienburger Generalanzeiger",
     "type": "print",
-    "controlDate": "2025-06-13T10:47:16.726Z",
+    "controlDate": "2025-12-02T12:06:28.869Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85845,7 +85886,7 @@
     "rfStatewide": false,
     "name": "Märkische Oderzeitung",
     "type": "print",
-    "controlDate": "2025-06-13T10:46:59.649Z",
+    "controlDate": "2025-12-02T12:06:19.517Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85868,7 +85909,7 @@
     "rfStatewide": false,
     "name": "Märkische Allgemeine",
     "type": "print",
-    "controlDate": "2025-06-13T10:33:02.784Z",
+    "controlDate": "2025-12-02T11:36:16.427Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89039,7 +89080,7 @@
     "rfStatewide": false,
     "name": "Süderländer Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-13T10:37:47.961Z",
+    "controlDate": "2025-12-02T11:50:11.646Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -100357,7 +100398,7 @@
     "name": "www.mytischtennis.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:10:58.465Z",
+    "controlDate": "2025-12-02T11:24:40.975Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -100767,7 +100808,7 @@
     "rfStatewide": false,
     "name": "Platsch!",
     "type": "print",
-    "controlDate": "2025-10-08T14:54:05.293Z",
+    "controlDate": "2025-12-02T11:20:25.882Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102241,7 +102282,7 @@
     "rfStatewide": false,
     "name": "Münstersche Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T13:06:45.002Z",
+    "controlDate": "2025-12-02T11:26:50.307Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112486,7 +112527,7 @@
     "name": "www.luedenscheider-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:42:04.979Z",
+    "controlDate": "2025-12-02T12:01:02.466Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117064,7 +117105,7 @@
     "rfStatewide": false,
     "name": "Hennigsdorfer Generalanzeiger",
     "type": "print",
-    "controlDate": "2025-06-13T10:46:45.728Z",
+    "controlDate": "2025-12-02T12:06:09.317Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117084,7 +117125,7 @@
     "rfStatewide": false,
     "name": "Gransee-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-13T10:46:33.451Z",
+    "controlDate": "2025-12-02T12:05:59.133Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117104,7 +117145,7 @@
     "rfStatewide": false,
     "name": "Ruppiner Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-13T10:47:42.207Z",
+    "controlDate": "2025-12-02T12:06:38.471Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117127,7 +117168,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T10:51:59.639Z",
+    "controlDate": "2025-12-02T12:08:08.107Z",
     "state": "active"
   },
   {
@@ -117205,7 +117246,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-13T10:33:13.270Z",
+    "controlDate": "2025-12-02T11:36:24.257Z",
     "state": "active"
   },
   {
@@ -120205,7 +120246,7 @@
     "name": "my life",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-13T10:07:11.872Z",
+    "controlDate": "2025-12-02T11:17:27.616Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -125390,7 +125431,7 @@
     "name": "www.dawo-dresden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-13T10:03:44.497Z",
+    "controlDate": "2025-12-02T11:13:28.849Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140772,7 +140813,7 @@
     "name": "Gut leben mit Diabetes",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-13T10:07:03.910Z",
+    "controlDate": "2025-12-02T11:17:18.283Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140888,7 +140929,7 @@
     "name": "my life Senioren",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-13T10:07:21.648Z",
+    "controlDate": "2025-12-02T11:17:59.399Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

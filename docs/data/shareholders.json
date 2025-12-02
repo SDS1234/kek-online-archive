@@ -21882,7 +21882,7 @@
     "squuid": "5eff1bdd-2f05-49d1-8bdc-6a31d8a7f979",
     "name": "Müller Medien Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T11:51:54.394Z",
+    "controlDate": "2025-12-02T12:17:20.423Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38445,7 +38445,7 @@
     "squuid": "5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c",
     "name": "Müller Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-13T10:57:34.855Z",
+    "controlDate": "2025-12-02T12:17:49.547Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -57179,7 +57179,7 @@
     "name": "Märkischer Zeitungsverlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9462-4509-81ac-786292d6ac91",
-    "controlDate": "2025-06-13T10:36:17.009Z",
+    "controlDate": "2025-12-02T11:48:37.958Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84150,6 +84150,15 @@
           "squuid": "6863aeab-2a36-4591-835a-a58308dc2e37",
           "name": "IKZ am Sonntag"
         }
+      },
+      {
+        "squuid": "692ed3c8-32a5-49fe-b299-1a153d385051",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "692ed374-38f4-4fb7-a725-9390c16a4335",
+          "name": "www.lokalstimme.de"
+        }
       }
     ]
   },
@@ -96861,7 +96870,7 @@
     "name": "Märkisches Medienhaus GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183",
-    "controlDate": "2025-06-13T10:46:08.699Z",
+    "controlDate": "2025-12-02T12:04:51.155Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156861,7 +156870,7 @@
     "squuid": "5d2f09e9-e563-4c10-9547-662e01f39d81",
     "name": "my PocketPC GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:04:29.725Z",
+    "controlDate": "2025-12-02T11:14:30.302Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158773,7 +158782,7 @@
     "squuid": "61fbda38-61b3-4927-9dc8-31be9b3e23ef",
     "name": "MVB GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T09:59:43.811Z",
+    "controlDate": "2025-12-02T11:12:26.666Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161247,7 +161256,7 @@
     "squuid": "5ecd090c-a260-4468-b4af-08278b387b7b",
     "name": "MZ Medien Holding Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:12:46.163Z",
+    "controlDate": "2025-12-02T11:26:02.931Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164658,7 +164667,7 @@
     "squuid": "602d18d2-81e2-4eb1-a980-1bfbcaf4a637",
     "name": "MZV Moderner Zeitschriften-Vertrieb Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:19:03.460Z",
+    "controlDate": "2025-12-02T11:29:54.392Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168807,7 +168816,7 @@
     "squuid": "5ca5e772-dd34-4944-84ed-e1adb1e884c2",
     "name": "Müller Directories GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-13T10:57:43.456Z",
+    "controlDate": "2025-12-02T12:14:56.417Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -177763,7 +177772,7 @@
     "squuid": "6214d492-d126-47c6-8633-c560929fe4f0",
     "name": "myTischtennis GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:09:50.748Z",
+    "controlDate": "2025-12-02T11:24:34.592Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -185758,7 +185767,7 @@
     "squuid": "5de8fcbd-e46b-42c5-9fa4-42070769f44e",
     "name": "mylife media Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:05:14.833Z",
+    "controlDate": "2025-12-02T11:16:58.002Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -185791,7 +185800,7 @@
     "name": "mylife media GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5de8fca6-c58c-4d17-aa6a-042c49470d9e",
-    "controlDate": "2025-06-13T10:06:55.269Z",
+    "controlDate": "2025-12-02T11:17:05.709Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -185825,6 +185834,15 @@
         "held": {
           "squuid": "6376458b-a51c-4f32-a0ca-bf5276ccc54e",
           "name": "my life Senioren"
+        }
+      },
+      {
+        "squuid": "692ecbfa-7d44-4c18-8199-b1e20e0bf07a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-e75f-4021-bee0-cd94d85a61a7",
+          "name": "Platsch!"
         }
       }
     ]
@@ -188597,7 +188615,7 @@
     "squuid": "639b1039-d26f-4297-891a-19d27c5a21d4",
     "name": "MVD Medien Vertrieb Dresden GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:02:44.491Z",
+    "controlDate": "2025-12-02T11:13:22.026Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189881,7 +189899,7 @@
     "squuid": "639b26f6-4361-428f-bf2e-45a34c3acdda",
     "name": "MVFP Medienverband der freien Presse e. V.",
     "state": "active",
-    "controlDate": "2022-12-30T09:49:24.203Z",
+    "controlDate": "2025-12-02T11:13:58.959Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -208327,7 +208345,7 @@
     "squuid": "5eda32f5-ad97-4991-b9c2-dccf27163245",
     "name": "Märkischer Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:34:47.164Z",
+    "controlDate": "2025-12-02T11:46:22.233Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210948,7 +210966,7 @@
     "squuid": "5eb136c4-0503-4191-9d94-1a81de9093cf",
     "name": "Märkischer Zeitungsverlag und Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:36:06.104Z",
+    "controlDate": "2025-12-02T11:48:13.390Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214173,7 +214191,7 @@
     "squuid": "5f905299-3faa-4d1e-91b4-b50f1cbf1caf",
     "name": "Müller Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T11:52:24.811Z",
+    "controlDate": "2025-12-02T12:17:07.184Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219054,7 +219072,7 @@
     "squuid": "5be1a6b6-cbb1-4abc-9b08-6cdb53d159f7",
     "name": "Mäder Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:28:39.856Z",
+    "controlDate": "2025-12-02T11:33:13.367Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220860,7 +220878,7 @@
     "name": "MZ Medien Holding GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e",
-    "controlDate": "2025-06-13T10:12:53.038Z",
+    "controlDate": "2025-12-02T11:26:11.078Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229859,7 +229877,7 @@
     "squuid": "5be1a6b6-8cd1-46d4-85d9-5e8bbee063fe",
     "name": "Märkische Verlags- und Druck-Gesellschaft mbH Potsdam",
     "state": "active",
-    "controlDate": "2025-06-13T10:29:15.563Z",
+    "controlDate": "2025-12-02T11:35:49.729Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244173,7 +244191,7 @@
     "squuid": "5be1a6b6-d629-4694-9339-4f93a8f1274b",
     "name": "MZV Moderner Zeitschriften-Vertrieb GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-13T10:19:47.829Z",
+    "controlDate": "2025-12-02T11:30:08.151Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -294126,7 +294144,7 @@
     "squuid": "5ecd00f3-4a05-4d13-810d-9c7f05ad4573",
     "name": "Märkisches Medienhaus Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-13T10:46:02.770Z",
+    "controlDate": "2025-12-02T12:04:42.462Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
