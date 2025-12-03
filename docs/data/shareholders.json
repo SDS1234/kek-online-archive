@@ -1137,7 +1137,7 @@
     "squuid": "60fe9878-3c4e-4334-ad7d-09325ac048b3",
     "name": "Nordsee-Zeitung GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T09:28:27.336Z",
+    "controlDate": "2025-12-03T14:41:15.793Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -23838,7 +23838,7 @@
     "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d",
     "name": "Nordwest-Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-16T10:11:11.516Z",
+    "controlDate": "2025-12-03T14:52:04.506Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -131206,7 +131206,7 @@
     "squuid": "5eb2a95e-80c9-4735-9ac2-05236316199a",
     "name": "Nordwest-Zeitung Verlags- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-15T09:57:38.318Z",
+    "controlDate": "2025-12-03T14:53:05.835Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155306,7 +155306,7 @@
     "squuid": "5eb2ab46-0d20-46bd-a0d9-a26dad0d1ada",
     "name": "Nordwest-Medien Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-15T09:50:06.520Z",
+    "controlDate": "2025-12-03T14:50:52.776Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -178657,7 +178657,7 @@
     "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a",
-    "controlDate": "2025-06-15T09:34:13.248Z",
+    "controlDate": "2025-12-03T14:50:02.474Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -179635,7 +179635,7 @@
     "squuid": "637f910d-6993-47ab-bf98-8b5577474922",
     "name": "Nordwest-Wochenzeitungen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-15T09:54:41.369Z",
+    "controlDate": "2025-12-03T14:52:39.166Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180496,7 +180496,7 @@
     "squuid": "5edf9f22-9af4-4e44-aae6-9efbb4c19915",
     "name": "Nordkurier Mediengruppe Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T09:10:40.529Z",
+    "controlDate": "2025-12-03T14:10:13.422Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183422,12 +183422,13 @@
   {
     "squuid": "5ec25554-0ae1-41d5-ab1a-4866f60b12e1",
     "name": "Zeitungsverlag Schwerin Geschäftsführungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-07-01T11:48:59.837Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -205608,7 +205609,7 @@
     "squuid": "5d0ce512-a8b5-4657-b00d-efc4280983f4",
     "name": "Norges Bank Investment Management",
     "state": "active",
-    "controlDate": "2025-06-15T10:14:45.099Z",
+    "controlDate": "2025-12-03T15:02:35.735Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -219628,7 +219629,7 @@
     "squuid": "5be1a6b6-40bb-4639-bd38-924be5c7a61b",
     "name": "noventis-capital Beratungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-15T10:16:14.473Z",
+    "controlDate": "2025-12-03T15:09:30.695Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220060,7 +220061,7 @@
     "squuid": "5fb7dc29-bd80-41d8-ba6a-2c9d1bf83255",
     "name": "Novomatic AG",
     "state": "active",
-    "controlDate": "2025-06-15T10:22:01.953Z",
+    "controlDate": "2025-12-03T15:10:33.156Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -229578,7 +229579,7 @@
     "name": "Nordkurier Mediengruppe GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d",
-    "controlDate": "2025-06-15T09:10:46.936Z",
+    "controlDate": "2025-12-03T14:12:04.492Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229735,36 +229736,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Zeitungsverlag Schwerin GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-e6d3-47f9-840b-22227f54a800",
+    "name": "Zeitungsverlag Schwerin GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2025-07-01T11:49:06.899Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-8573-4fe9-b598-fc7b4a17ad97",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4b6b-49f1-b4e8-53100b72c14f",
-          "name": "Schweriner Volkszeitung"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-9a92-4d27-9f26-908c9b09efc6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-68cd-4e08-97e7-45dcab5a163b",
-          "name": "Der Prignitzer"
-        }
       }
     ]
   },
@@ -231776,7 +231758,7 @@
     "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163",
-    "controlDate": "2025-06-15T09:57:44.728Z",
+    "controlDate": "2025-12-03T14:53:24.364Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274847,7 +274829,7 @@
     "squuid": "63c57eba-fc9e-471a-974f-11904a66fab3",
     "name": "NOVENTI Health SE",
     "state": "active",
-    "controlDate": "2025-06-15T10:16:07.276Z",
+    "controlDate": "2025-12-03T15:08:42.297Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

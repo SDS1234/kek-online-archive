@@ -21556,8 +21556,8 @@ digraph {
     type=print
     state=active
     label="Business & People (Ausgabe Metropolregion Bremen/Bremerhaven/Weser-Ems)"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=5.9675
     num_medias=0
     num_medias_weighted=0.0000
     name="637f725f-d4f0-41a5-ac05-c937f8eb85dc"
@@ -29164,12 +29164,12 @@ digraph {
     type=print
     state=active
     label="Der Prignitzer"
-    num_owners=73
-    num_owners_weighted=4.0000
+    num_owners=71
+    num_owners_weighted=21.6098
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-68cd-4e08-97e7-45dcab5a163b"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   2431 [
@@ -90873,7 +90873,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="6400baaf-f9ad-4287-89cf-b3f540659340"
-    in_degree=6
+    in_degree=5
     out_degree=2
   ];
   7573 [
@@ -102861,7 +102861,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-be68-4197-a55d-a74c3f77a8ce"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   8572 [
@@ -103180,8 +103180,8 @@ digraph {
     type=shareholder
     state=active
     label="nordclick Beteiligungs GmbH"
-    num_owners=167
-    num_owners_weighted=13.6812
+    num_owners=166
+    num_owners_weighted=16.5583
     num_medias=0
     num_medias_weighted=0.0000
     name="6086bb03-2b55-46a4-ab23-9a5ee1b5c4b8"
@@ -103192,12 +103192,12 @@ digraph {
     type=shareholder
     state=active
     label="nordclick GmbH & Co. KG"
-    num_owners=167
-    num_owners_weighted=12.6812
+    num_owners=166
+    num_owners_weighted=15.5583
     num_medias=0
     num_medias_weighted=0.0000
     name="6086baf0-c888-4996-a2e3-7ec0ff1c7b80"
-    in_degree=10
+    in_degree=9
     out_degree=2
   ];
   8600 [
@@ -105820,8 +105820,8 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service Beteiligungsgesellschaft mbH"
-    num_owners=768
-    num_owners_weighted=37.6285
+    num_owners=767
+    num_owners_weighted=37.6226
     num_medias=0
     num_medias_weighted=0.0000
     name="6082ac89-3710-415d-a512-b67fcefe233c"
@@ -105832,7 +105832,7 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service GmbH & Co. KG"
-    num_owners=768
+    num_owners=767
     num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -112300,12 +112300,12 @@ digraph {
     type=shareholder
     state=active
     label="Prisma-Verlag GmbH & Co. KG"
-    num_owners=555
-    num_owners_weighted=42.6074
+    num_owners=554
+    num_owners_weighted=42.5942
     num_medias=1
     num_medias_weighted=1.0000
     name="621cc626-22eb-44c9-b383-2237d947b390"
-    in_degree=45
+    in_degree=44
     out_degree=1
   ];
   9359 [
@@ -133468,12 +133468,12 @@ digraph {
     type=print
     state=active
     label="Schweriner Volkszeitung"
-    num_owners=73
-    num_owners_weighted=4.0000
+    num_owners=71
+    num_owners_weighted=21.6098
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4b6b-49f1-b4e8-53100b72c14f"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   11123 [
@@ -193756,8 +193756,8 @@ digraph {
     type=online
     state=active
     label="www.prisma.de"
-    num_owners=556
-    num_owners_weighted=43.6074
+    num_owners=555
+    num_owners_weighted=43.5942
     num_medias=0
     num_medias_weighted=0.0000
     name="621cc65c-a16c-410d-81a9-97c6dd615279"
@@ -199372,8 +199372,8 @@ digraph {
     type=online
     state=active
     label="www.sonntagsjournal.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=5.9675
     num_medias=0
     num_medias_weighted=0.0000
     name="6400c82b-d641-4025-9d7f-db22badbc9c9"
@@ -208670,27 +208670,27 @@ digraph {
   ];
   17389 [
     type=shareholder
-    state=active
+    state=archived
     label="Zeitungsverlag Schwerin Geschäftsführungs-GmbH"
-    num_owners=69
-    num_owners_weighted=19.6098
-    num_medias=4
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ec25554-0ae1-41d5-ab1a-4866f60b12e1"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   17390 [
     type=shareholder
-    state=active
+    state=archived
     label="Zeitungsverlag Schwerin GmbH & Co KG"
-    num_owners=70
-    num_owners_weighted=1.0000
-    num_medias=4
-    num_medias_weighted=2.2632
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-e6d3-47f9-840b-22227f54a800"
-    in_degree=2
-    out_degree=6
+    in_degree=1
+    out_degree=0
   ];
   17391 [
     type=shareholder
@@ -275058,34 +275058,6 @@ digraph {
     type=operates
   ];
   17388 -> 15804 [
-    weight=100
-    type=operates
-  ];
-  17389 -> 17390 [
-    weight=1
-    type=owns
-  ];
-  17390 -> 7572 [
-    weight=25
-    type=owns
-  ];
-  17390 -> 8571 [
-    weight=100
-    type=owns
-  ];
-  17390 -> 9358 [
-    weight=1.32
-    type=owns
-  ];
-  17390 -> 8599 [
-    weight=15.46
-    type=owns
-  ];
-  17390 -> 2430 [
-    weight=100
-    type=operates
-  ];
-  17390 -> 11122 [
     weight=100
     type=operates
   ];

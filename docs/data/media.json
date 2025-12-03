@@ -33842,7 +33842,7 @@
     "name": "www.business-people-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T10:13:49.931Z",
+    "controlDate": "2025-12-03T14:42:58.904Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45236,7 +45236,7 @@
     "name": "Kompakt Stadtmagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T09:14:43.491Z",
+    "controlDate": "2025-12-03T14:18:21.696Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45395,7 +45395,7 @@
     "name": "www.meckpomm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:16:06.160Z",
+    "controlDate": "2025-12-03T14:20:59.195Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45419,7 +45419,7 @@
     "name": "www.magazine.nordkurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:16:52.039Z",
+    "controlDate": "2025-12-03T14:20:48.244Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80916,7 +80916,7 @@
     "rfStatewide": false,
     "name": "Nordsee-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-15T09:29:33.167Z",
+    "controlDate": "2025-12-03T14:42:36.796Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80939,7 +80939,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T09:31:04.717Z",
+    "controlDate": "2025-12-03T14:44:00.617Z",
     "state": "active"
   },
   {
@@ -85527,7 +85527,7 @@
     "rfStatewide": false,
     "name": "Schweriner Volkszeitung",
     "type": "print",
-    "controlDate": "2025-07-01T11:49:43.684Z",
+    "controlDate": "2025-12-03T14:19:22.313Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87035,7 +87035,7 @@
     "rfStatewide": false,
     "name": "Die Wirtschaft (Oldenburg)",
     "type": "print",
-    "controlDate": "2025-06-15T09:58:35.594Z",
+    "controlDate": "2025-12-03T14:56:15.268Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87059,7 +87059,7 @@
     "rfStatewide": false,
     "name": "Nordwest-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-15T09:59:14.310Z",
+    "controlDate": "2025-12-03T14:56:50.788Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87106,7 +87106,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T10:00:06.670Z",
+    "controlDate": "2025-12-03T14:57:28.270Z",
     "state": "active"
   },
   {
@@ -97907,7 +97907,7 @@
     "name": "www.nordsee-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T09:30:18.742Z",
+    "controlDate": "2025-12-03T14:44:11.982Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99473,7 +99473,7 @@
     "name": "Business & People (Ausgabe Metropolregion Bremen/Bremerhaven/Weser-Ems)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-15T10:12:31.772Z",
+    "controlDate": "2025-12-03T14:42:22.025Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -102215,7 +102215,7 @@
     "name": "www.nordwest-sonntagsblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T08:29:21.304Z",
+    "controlDate": "2025-12-03T14:50:11.929Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -116893,7 +116893,7 @@
     "rfStatewide": false,
     "name": "Der Prignitzer",
     "type": "print",
-    "controlDate": "2025-07-01T11:49:25.636Z",
+    "controlDate": "2025-12-03T14:15:50.888Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116916,7 +116916,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-01-08T13:30:54.394Z",
+    "controlDate": "2025-12-03T14:22:22.468Z",
     "state": "active"
   },
   {
@@ -116934,7 +116934,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T15:20:03.789Z",
+    "controlDate": "2025-12-03T14:21:47.441Z",
     "state": "active"
   },
   {
@@ -116970,7 +116970,7 @@
     "rfStatewide": false,
     "name": "Nordkurier",
     "type": "print",
-    "controlDate": "2025-06-15T09:11:28.340Z",
+    "controlDate": "2025-12-03T14:18:54.409Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117049,7 +117049,7 @@
     "rfStatewide": false,
     "name": "Uckermark Kurier",
     "type": "print",
-    "controlDate": "2025-06-15T09:11:39.776Z",
+    "controlDate": "2025-12-03T14:20:15.783Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117072,7 +117072,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T09:11:55.995Z",
+    "controlDate": "2025-12-03T14:21:34.129Z",
     "state": "active"
   },
   {
@@ -130506,7 +130506,7 @@
     "name": "www.uckermarkkurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T09:12:07.406Z",
+    "controlDate": "2025-12-03T14:22:57.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145012,7 +145012,7 @@
     "name": "www.usedom-aktuell.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T09:12:18.305Z",
+    "controlDate": "2025-12-03T14:23:08.330Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145180,7 +145180,7 @@
     "name": "www.sonntagsjournal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T10:12:40.901Z",
+    "controlDate": "2025-12-03T14:44:26.229Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157557,7 +157557,7 @@
     "name": "www.fupa.net/region/nordwest",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-15T09:59:29.267Z",
+    "controlDate": "2025-12-03T14:57:11.460Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
