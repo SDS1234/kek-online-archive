@@ -3691,7 +3691,7 @@ digraph {
     num_owners=4
     num_owners_weighted=3.0000
     num_medias=203
-    num_medias_weighted=7.4732
+    num_medias_weighted=9.3632
     name="5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
     in_degree=2
     out_degree=11
@@ -10735,7 +10735,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=248
-    num_medias_weighted=24.3920
+    num_medias_weighted=24.8645
     name="5be1a6b6-7447-413b-aed9-4cefee9b1ce2"
     in_degree=0
     out_degree=2
@@ -10747,7 +10747,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=248
-    num_medias_weighted=24.3920
+    num_medias_weighted=24.8645
     name="5c6edd1d-d366-4f77-ae7b-fbb6cf2f299e"
     in_degree=0
     out_degree=3
@@ -24907,7 +24907,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=247
-    num_medias_weighted=47.7840
+    num_medias_weighted=48.7290
     name="5be1a6b6-f22b-4544-889f-d31615692dc4"
     in_degree=2
     out_degree=46
@@ -72223,7 +72223,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=209
-    num_medias_weighted=9.7366
+    num_medias_weighted=10.6816
     name="5be1a6b6-28be-407a-b3f2-c6e61df42d74"
     in_degree=2
     out_degree=11
@@ -102316,8 +102316,8 @@ digraph {
     type=tv
     state=active
     label="Niederbayern TV Deggendorf"
-    num_owners=20
-    num_owners_weighted=10.9000
+    num_owners=17
+    num_owners_weighted=9.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5ccac660-cf4c-41c3-8da7-f57f560f40d9"
@@ -102328,8 +102328,8 @@ digraph {
     type=shareholder
     state=active
     label="Niederbayern TV Deggendorf-Straubing GmbH & Co. KG"
-    num_owners=19
-    num_owners_weighted=9.9000
+    num_owners=16
+    num_owners_weighted=8.2500
     num_medias=5
     num_medias_weighted=3.0800
     name="5ccac6bb-64a5-4968-961e-45b37a85765f"
@@ -102340,8 +102340,8 @@ digraph {
     type=tv
     state=active
     label="Niederbayern TV Landshut"
-    num_owners=19
-    num_owners_weighted=9.9000
+    num_owners=16
+    num_owners_weighted=8.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5ccace1c-38db-4ba2-9b7c-b63612d08065"
@@ -102352,8 +102352,8 @@ digraph {
     type=shareholder
     state=active
     label="Niederbayern TV Landshut GmbH"
-    num_owners=18
-    num_owners_weighted=8.9000
+    num_owners=15
+    num_owners_weighted=7.2500
     num_medias=4
     num_medias_weighted=2.0800
     name="5ccace35-9ed3-4c9c-9524-88d2b18c6009"
@@ -102364,8 +102364,8 @@ digraph {
     type=tv
     state=active
     label="Niederbayern TV Passau"
-    num_owners=19
-    num_owners_weighted=9.9000
+    num_owners=16
+    num_owners_weighted=8.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5ccacbd9-883d-474b-b929-6cb17508e3b6"
@@ -102376,8 +102376,8 @@ digraph {
     type=shareholder
     state=active
     label="Niederbayern TV Passau GmbH"
-    num_owners=18
-    num_owners_weighted=8.9000
+    num_owners=15
+    num_owners_weighted=7.2500
     num_medias=4
     num_medias_weighted=2.0800
     name="5ccacbf6-a59f-42fd-8dcb-8c22e0d52fcb"
@@ -102403,7 +102403,7 @@ digraph {
     num_owners=6
     num_owners_weighted=5.0000
     num_medias=11
-    num_medias_weighted=2.7156
+    num_medias_weighted=4.6056
     name="5cab626e-4766-4537-95c3-64d96fef1fb4"
     in_degree=2
     out_degree=5
@@ -102412,8 +102412,8 @@ digraph {
     type=shareholder
     state=active
     label="Niederbayern TV Verwaltungs-GmbH"
-    num_owners=18
-    num_owners_weighted=8.9000
+    num_owners=15
+    num_owners_weighted=7.2500
     num_medias=5
     num_medias_weighted=0.0000
     name="5f7dd8ac-80e9-4600-a702-e19ee6ce8cf8"
@@ -153712,8 +153712,8 @@ digraph {
     type=shareholder
     state=active
     label="TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft"
-    num_owners=448
-    num_owners_weighted=14.1135
+    num_owners=445
+    num_owners_weighted=13.9485
     num_medias=2
     num_medias_weighted=0.8000
     name="5be1a6b6-515a-406b-b899-999e085ca150"
@@ -153724,8 +153724,8 @@ digraph {
     type=tv
     state=active
     label="TV Bayern Live"
-    num_owners=454
-    num_owners_weighted=11.2380
+    num_owners=451
+    num_owners_weighted=11.1720
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-39c8-4aaa-9993-116e18c3e3a9"
@@ -153736,8 +153736,8 @@ digraph {
     type=shareholder
     state=active
     label="TV Bayern Programmgesellschaft mbH"
-    num_owners=453
-    num_owners_weighted=10.2380
+    num_owners=450
+    num_owners_weighted=10.1720
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-47bf-472c-9f23-e8ac8a66aee1"
@@ -175780,8 +175780,8 @@ digraph {
     type=online
     state=active
     label="www.deggendorf.niederbayerntv.de"
-    num_owners=20
-    num_owners_weighted=10.9000
+    num_owners=17
+    num_owners_weighted=9.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7dd76c-8593-4f74-9292-709aa76651e0"
@@ -186796,8 +186796,8 @@ digraph {
     type=online
     state=active
     label="www.landshut.niederbayerntv.de"
-    num_owners=19
-    num_owners_weighted=9.9000
+    num_owners=16
+    num_owners_weighted=8.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7dcdeb-f4a4-4a70-95e1-e188437a6f81"
@@ -191380,8 +191380,8 @@ digraph {
     type=online
     state=active
     label="www.niederbayerntv.de"
-    num_owners=20
-    num_owners_weighted=10.9000
+    num_owners=17
+    num_owners_weighted=9.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7dca9f-09ac-448e-84c6-e4c4c4e4e914"
@@ -192952,8 +192952,8 @@ digraph {
     type=online
     state=active
     label="www.passau.niederbayerntv.de"
-    num_owners=19
-    num_owners_weighted=9.9000
+    num_owners=16
+    num_owners_weighted=8.2500
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7dd5d8-d5ea-4f74-893a-3a22cf72d99d"
@@ -202852,8 +202852,8 @@ digraph {
     type=online
     state=active
     label="www.tvbayernlive.de"
-    num_owners=454
-    num_owners_weighted=11.2380
+    num_owners=451
+    num_owners_weighted=11.1720
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7f27a6-f433-4a2f-a8fc-4f7f79e460c2"
@@ -248306,19 +248306,19 @@ digraph {
     type=owns
   ];
   8533 -> 8527 [
-    weight=35
+    weight=62
     type=owns
   ];
   8533 -> 8529 [
-    weight=35
+    weight=62
     type=owns
   ];
   8533 -> 8531 [
-    weight=35
+    weight=62
     type=owns
   ];
   8533 -> 8534 [
-    weight=35
+    weight=62
     type=owns
   ];
   8533 -> 12866 [
