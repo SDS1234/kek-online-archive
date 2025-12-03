@@ -38587,7 +38587,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=60
-    num_medias_weighted=8.4706
+    num_medias_weighted=8.4710
     name="5be1a6b6-3bda-45a8-ad57-0838b9d77c45"
     in_degree=0
     out_degree=1
@@ -46591,7 +46591,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=37
-    num_medias_weighted=2.0954
+    num_medias_weighted=2.0959
     name="5c53157d-8489-4626-8045-eaae288b2893"
     in_degree=0
     out_degree=2
@@ -103099,7 +103099,7 @@ digraph {
     num_owners=9
     num_owners_weighted=7.2000
     num_medias=58
-    num_medias_weighted=15.3829
+    num_medias_weighted=15.3836
     name="5be1a6b6-c472-41cd-929b-92ddc54a0324"
     in_degree=1
     out_degree=10
@@ -103135,7 +103135,7 @@ digraph {
     num_owners=256
     num_owners_weighted=4.5248
     num_medias=37
-    num_medias_weighted=4.4352
+    num_medias_weighted=4.4364
     name="5c53152b-b3eb-4f9b-919d-edebc741d132"
     in_degree=2
     out_degree=7
@@ -111895,7 +111895,7 @@ digraph {
     num_owners=8
     num_owners_weighted=6.2000
     num_medias=60
-    num_medias_weighted=15.4011
+    num_medias_weighted=15.4018
     name="5be1a6b6-e093-4174-9a60-584455023300"
     in_degree=5
     out_degree=3
@@ -132019,7 +132019,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=3.5999
+    num_medias_weighted=3.6000
     name="5be1a6b6-2f51-4f1d-8097-b8b478279bb5"
     in_degree=0
     out_degree=3
@@ -132103,7 +132103,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=3.5845
+    num_medias_weighted=3.5846
     name="5be1a6b6-9d1f-4553-a857-d18fd890cce3"
     in_degree=0
     out_degree=3
@@ -248566,7 +248566,7 @@ digraph {
     type=owns
   ];
   8591 -> 7637 [
-    weight=1.35
+    weight=1.36
     type=owns
   ];
   8591 -> 7636 [
@@ -248590,11 +248590,11 @@ digraph {
     type=owns
   ];
   8594 -> 7637 [
-    weight=1.49
+    weight=1.51
     type=owns
   ];
   8594 -> 7636 [
-    weight=1.7
+    weight=1.87
     type=owns
   ];
   8594 -> 8409 [
