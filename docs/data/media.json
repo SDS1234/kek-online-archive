@@ -28516,7 +28516,7 @@
     "name": "acht.neun",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-04T10:15:34.460Z",
+    "controlDate": "2025-12-03T09:19:57.092Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28581,7 +28581,7 @@
     "name": "www.acht-neun.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-09T07:49:26.290Z",
+    "controlDate": "2025-12-03T09:21:36.355Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40765,7 +40765,7 @@
     "name": "www.jazzradio.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T12:40:49.910Z",
+    "controlDate": "2025-12-03T10:14:07.083Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46332,7 +46332,7 @@
     "name": "www.nzz.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T12:34:46.013Z",
+    "controlDate": "2025-12-03T10:05:38.156Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70142,7 +70142,7 @@
     "name": "unternehmen [!]",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-08T14:37:13.987Z",
+    "controlDate": "2025-12-03T09:20:26.704Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86832,7 +86832,7 @@
     "rfStatewide": false,
     "name": "Südwest Presse (Ulm)",
     "type": "print",
-    "controlDate": "2025-06-14T11:32:30.468Z",
+    "controlDate": "2025-12-03T09:19:35.859Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -109473,7 +109473,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T15:47:03.755Z",
+    "controlDate": "2025-12-03T09:23:20.528Z",
     "state": "active"
   },
   {
@@ -133594,7 +133594,7 @@
     "name": "www.airliners.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T12:37:35.260Z",
+    "controlDate": "2025-12-03T10:08:15.510Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143133,7 +143133,7 @@
     "name": "www.wochenblatt-neumarkt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T12:36:43.996Z",
+    "controlDate": "2025-12-03T10:07:36.132Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145084,7 +145084,7 @@
     "name": "www.citystories-ulm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:07:16.909Z",
+    "controlDate": "2025-12-03T09:22:20.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148174,7 +148174,7 @@
     "name": "www.swp-wochenblatt.weekli.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T12:25:24.480Z",
+    "controlDate": "2025-12-03T09:23:08.848Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151702,7 +151702,7 @@
     "name": "www.euroherz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T12:05:55.318Z",
+    "controlDate": "2025-12-03T09:47:24.746Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159312,7 +159312,7 @@
     "name": "www.fupa.net/region/suedwest",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:43:48.147Z",
+    "controlDate": "2025-12-03T09:22:44.548Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

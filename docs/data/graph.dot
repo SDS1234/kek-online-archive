@@ -31711,7 +31711,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=275
-    num_medias_weighted=21.0102
+    num_medias_weighted=20.9881
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -31723,7 +31723,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=275
-    num_medias_weighted=0.2840
+    num_medias_weighted=0.2837
     name="5be1a6b6-54d0-4b4c-8c5a-c8ba81cec96c"
     in_degree=0
     out_degree=2
@@ -31735,7 +31735,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=275
-    num_medias_weighted=0.0947
+    num_medias_weighted=0.0946
     name="5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
     in_degree=0
     out_degree=4
@@ -34375,7 +34375,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=275
-    num_medias_weighted=4.1183
+    num_medias_weighted=4.1139
     name="5be1a6b6-cff0-47a7-aa01-212bd9b8fd63"
     in_degree=0
     out_degree=1
@@ -74383,7 +74383,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=275
-    num_medias_weighted=23.6627
+    num_medias_weighted=23.6377
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -85965,7 +85965,7 @@ digraph {
     num_medias=4
     num_medias_weighted=1.2500
     name="5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
-    in_degree=12
+    in_degree=11
     out_degree=1
   ];
   7164 [
@@ -91641,7 +91641,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.6352
     name="5be1a6b6-c525-4b11-a1b7-9969a9671afb"
-    in_degree=30
+    in_degree=31
     out_degree=2
   ];
   7637 [
@@ -91783,7 +91783,7 @@ digraph {
     num_owners=7
     num_owners_weighted=4.3560
     num_medias=275
-    num_medias_weighted=69.8014
+    num_medias_weighted=69.7279
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -92085,7 +92085,7 @@ digraph {
     num_medias=409
     num_medias_weighted=15.0315
     name="5be1a6b6-19cc-4eda-8d42-c4a7e5a31027"
-    in_degree=2
+    in_degree=3
     out_degree=6
   ];
   7674 [
@@ -101130,11 +101130,11 @@ digraph {
     label="Neue Presse Redaktions GmbH"
     num_owners=8
     num_owners_weighted=5.3560
-    num_medias=52
-    num_medias_weighted=18.1216
+    num_medias=54
+    num_medias_weighted=18.0516
     name="5be1a6b6-25c2-4d47-9c3d-f565bf86f77d"
     in_degree=1
-    out_degree=23
+    out_degree=22
   ];
   8428 [
     type=shareholder
@@ -101170,7 +101170,7 @@ digraph {
     num_medias_weighted=61.3256
     name="5be1a6b6-9a6a-4235-a5d2-f080b726ddef"
     in_degree=3
-    out_degree=59
+    out_degree=60
   ];
   8431 [
     type=print
@@ -101407,7 +101407,7 @@ digraph {
     num_owners=11
     num_owners_weighted=3.0000
     num_medias=30
-    num_medias_weighted=0.4721
+    num_medias_weighted=0.4739
     name="5be1a6b6-d158-42de-a3e5-aefdb7a15325"
     in_degree=1
     out_degree=1
@@ -101419,7 +101419,7 @@ digraph {
     num_owners=12
     num_owners_weighted=1.2613
     num_medias=30
-    num_medias_weighted=5.4206
+    num_medias_weighted=5.4407
     name="5be1a6b6-96a7-4bcb-a4f1-35aa6710c5d5"
     in_degree=3
     out_degree=4
@@ -115329,7 +115329,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.0000
     name="68528d86-b9b2-4e43-8aac-ef11795fbd90"
-    in_degree=2
+    in_degree=3
     out_degree=1
   ];
   9611 [
@@ -115341,7 +115341,7 @@ digraph {
     num_medias=4
     num_medias_weighted=1.2500
     name="5be1a6b6-8860-478f-96d7-8215455248b9"
-    in_degree=7
+    in_degree=6
     out_degree=1
   ];
   9612 [
@@ -115353,7 +115353,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.0000
     name="5f8ed447-e8f9-4b81-870f-2be0bf40f5d0"
-    in_degree=7
+    in_degree=6
     out_degree=1
   ];
   9613 [
@@ -153511,7 +153511,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=275
-    num_medias_weighted=21.0102
+    num_medias_weighted=20.9881
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -247589,19 +247589,15 @@ digraph {
     weight=2
     type=owns
   ];
-  8427 -> 7163 [
-    weight=5.88
-    type=owns
-  ];
   8427 -> 7637 [
     weight=1
     type=owns
   ];
-  8427 -> 9611 [
-    weight=18.2
+  8427 -> 7636 [
+    weight=1
     type=owns
   ];
-  8427 -> 9612 [
+  8427 -> 9610 [
     weight=18.2
     type=owns
   ];
@@ -247703,6 +247699,10 @@ digraph {
   ];
   8430 -> 7640 [
     weight=100
+    type=owns
+  ];
+  8430 -> 7673 [
+    weight=82
     type=owns
   ];
   8430 -> 8669 [
@@ -248022,7 +248022,7 @@ digraph {
     type=owns
   ];
   8451 -> 4281 [
-    weight=30
+    weight=30.18
     type=owns
   ];
   8451 -> 12868 [
