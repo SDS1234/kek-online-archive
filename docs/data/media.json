@@ -29723,7 +29723,7 @@
     "name": "www.triggerfm.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T16:27:08.981Z",
+    "controlDate": "2025-12-03T11:24:39.239Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80498,7 +80498,7 @@
     "name": "°m am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:50:37.315Z",
+    "controlDate": "2025-12-03T12:08:02.080Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86952,7 +86952,7 @@
     "rfStatewide": false,
     "name": "Norddeutsche Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-14T13:29:02.504Z",
+    "controlDate": "2025-12-03T11:40:59.678Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116952,7 +116952,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T13:29:56.427Z",
+    "controlDate": "2025-12-03T11:39:01.899Z",
     "state": "active"
   },
   {
@@ -118451,7 +118451,7 @@
     "rfStatewide": false,
     "name": "Nassauische Neue Presse",
     "type": "print",
-    "controlDate": "2025-06-14T13:34:44.195Z",
+    "controlDate": "2025-12-03T11:45:22.635Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118703,7 +118703,7 @@
     "rfStatewide": false,
     "name": "Weilburger Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-14T13:38:21.897Z",
+    "controlDate": "2025-12-03T11:49:14.779Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118830,7 +118830,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T11:25:16.084Z",
+    "controlDate": "2025-12-03T11:50:19.464Z",
     "state": "active"
   },
   {
@@ -142180,7 +142180,7 @@
     "name": "www.weilburger-tageblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T13:39:04.664Z",
+    "controlDate": "2025-12-03T12:07:41.252Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142344,7 +142344,7 @@
     "name": "www.nnp.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T13:38:55.238Z",
+    "controlDate": "2025-12-03T12:07:17.218Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

@@ -1742,7 +1742,7 @@
     "squuid": "5f0dbdf6-9b4a-4b14-9d0d-1f595c54e0ef",
     "name": "Nippon Life Insurance Company",
     "state": "active",
-    "controlDate": "2025-06-14T13:22:17.520Z",
+    "controlDate": "2025-12-03T11:28:39.939Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -151059,7 +151059,7 @@
     "name": "NNP GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "637b6f8a-10ed-41c5-818a-9e26c01f8f4b",
-    "controlDate": "2025-06-14T13:34:20.790Z",
+    "controlDate": "2025-12-03T11:44:26.631Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151170,7 +151170,7 @@
     "squuid": "637b6fa7-e2c4-4e19-9c8b-816c7f2b32dc",
     "name": "NNP Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-14T13:33:16.926Z",
+    "controlDate": "2025-12-03T11:44:16.413Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229709,6 +229709,15 @@
           "squuid": "684fe074-efc0-43c7-adff-7e2ed70af274",
           "name": "www.magazine.nordkurier.de"
         }
+      },
+      {
+        "squuid": "6930213c-c5f4-4b22-a1b2-cea1af766c4a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-ebc3-4995-8f7a-a83c6a162692",
+          "name": "Norddeutsche Neueste Nachrichten"
+        }
       }
     ]
   },
@@ -231663,33 +231672,14 @@
   {
     "squuid": "5be1a6b6-be68-4197-a55d-a74c3f77a8ce",
     "name": "NNN Norddeutsche Neueste Nachrichten GmbH",
-    "state": "active",
-    "controlDate": "2025-06-14T13:28:06.017Z",
+    "state": "archived",
+    "controlDate": "2025-12-03T11:38:49.560Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-1aff-47cd-8111-661355986486",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-ebc3-4995-8f7a-a83c6a162692",
-          "name": "Norddeutsche Neueste Nachrichten"
-        }
-      },
-      {
-        "squuid": "5d08fe4e-2dc6-4c4e-9b6d-08d61c95f847",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7bdc-48e0-a984-82d695df58a7",
-          "name": "www.nnn.de"
-        }
       }
     ]
   },
@@ -281866,7 +281856,7 @@
     "squuid": "5be1a6b6-f52d-4e2d-8bd3-bc7c08590a8b",
     "name": "Nissan Motor Co., Ltd.",
     "state": "active",
-    "controlDate": "2025-06-14T13:22:33.060Z",
+    "controlDate": "2025-12-03T11:28:51.349Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -313651,6 +313641,7 @@
     "squuid": "6399a41f-9e30-4381-9fca-264aa0bd5311",
     "name": "Niemeyer Rundfunk GmbH",
     "state": "active",
+    "controlDate": "2025-12-03T11:23:35.120Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

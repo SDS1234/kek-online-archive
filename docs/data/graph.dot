@@ -102854,15 +102854,15 @@ digraph {
   ];
   8571 [
     type=shareholder
-    state=active
+    state=archived
     label="NNN Norddeutsche Neueste Nachrichten GmbH"
-    num_owners=71
-    num_owners_weighted=2.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-be68-4197-a55d-a74c3f77a8ce"
     in_degree=1
-    out_degree=2
+    out_degree=0
   ];
   8572 [
     type=shareholder
@@ -103216,8 +103216,8 @@ digraph {
     type=print
     state=active
     label="Norddeutsche Neueste Nachrichten"
-    num_owners=72
-    num_owners_weighted=3.0000
+    num_owners=71
+    num_owners_weighted=21.6098
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ebc3-4995-8f7a-a83c6a162692"
@@ -103410,11 +103410,11 @@ digraph {
     label="Nordkurier Mediengruppe GmbH & Co KG"
     num_owners=71
     num_owners_weighted=20.6098
-    num_medias=15
-    num_medias_weighted=13.0000
+    num_medias=16
+    num_medias_weighted=14.0000
     name="5be1a6b6-2919-4398-9b38-8299ccaf8b7d"
     in_degree=2
-    out_degree=18
+    out_degree=19
   ];
   8618 [
     type=shareholder
@@ -103434,7 +103434,7 @@ digraph {
     label="Nordkurier Mediengruppe Verwaltungs GmbH"
     num_owners=71
     num_owners_weighted=21.6098
-    num_medias=15
+    num_medias=16
     num_medias_weighted=0.0000
     name="5edf9f22-9af4-4e44-aae6-9efbb4c19915"
     in_degree=1
@@ -191464,12 +191464,12 @@ digraph {
     type=online
     state=active
     label="www.nnn.de"
-    num_owners=74
-    num_owners_weighted=5.0000
+    num_owners=71
+    num_owners_weighted=21.6098
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7bdc-48e0-a984-82d695df58a7"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   15956 [
@@ -208674,7 +208674,7 @@ digraph {
     label="Zeitungsverlag Schwerin Geschäftsführungs-GmbH"
     num_owners=69
     num_owners_weighted=19.6098
-    num_medias=6
+    num_medias=4
     num_medias_weighted=0.0000
     name="5ec25554-0ae1-41d5-ab1a-4866f60b12e1"
     in_degree=1
@@ -208686,8 +208686,8 @@ digraph {
     label="Zeitungsverlag Schwerin GmbH & Co KG"
     num_owners=70
     num_owners_weighted=1.0000
-    num_medias=6
-    num_medias_weighted=4.2632
+    num_medias=4
+    num_medias_weighted=2.2632
     name="5be1a6b6-e6d3-47f9-840b-22227f54a800"
     in_degree=2
     out_degree=6
@@ -248465,14 +248465,6 @@ digraph {
     weight=49.5
     type=owns
   ];
-  8571 -> 8601 [
-    weight=100
-    type=operates
-  ];
-  8571 -> 15955 [
-    weight=100
-    type=operates
-  ];
   8572 -> 8573 [
     weight=100
     type=owns
@@ -248790,6 +248782,10 @@ digraph {
     type=operates
   ];
   8617 -> 6477 [
+    weight=100
+    type=operates
+  ];
+  8617 -> 8601 [
     weight=100
     type=operates
   ];
