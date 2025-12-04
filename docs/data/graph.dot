@@ -5969,7 +5969,7 @@ digraph {
     state=active
     label="Antenne 1 Neckarburg Rock und Pop"
     num_owners=310
-    num_owners_weighted=19.1996
+    num_owners_weighted=20.3282
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a2a1-4377-8423-8dc1d045d82b"
@@ -31253,7 +31253,7 @@ digraph {
     state=active
     label="Die Neckarquelle"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5c74-4110-94b7-e7b566802678"
@@ -31361,7 +31361,7 @@ digraph {
     state=active
     label="Die Oberbadische"
     num_owners=92
-    num_owners_weighted=25.9170
+    num_owners_weighted=28.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8d31-4a2a-9dde-652019f9bf92"
@@ -31481,7 +31481,7 @@ digraph {
     state=active
     label="Die Sonntagszeitung"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="642d6785-a2c2-43a6-9369-f01bcc0b69c2"
@@ -63497,7 +63497,7 @@ digraph {
     state=active
     label="Hermann Kuhn GmbH & Co. KG."
     num_owners=90
-    num_owners_weighted=22.9170
+    num_owners_weighted=25.1300
     num_medias=409
     num_medias_weighted=2.0361
     name="5be1a6b6-ca33-458a-bf2d-b6ed99151936"
@@ -71429,7 +71429,7 @@ digraph {
     state=active
     label="Jaumann Verwaltungs GmbH"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=5
     num_medias_weighted=0.0000
     name="5ec3bf59-fcbd-49f5-972c-1149f41fc90a"
@@ -81581,7 +81581,7 @@ digraph {
     state=active
     label="Lahrer Zeitung"
     num_owners=91
-    num_owners_weighted=24.9170
+    num_owners_weighted=27.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f4f3-4ac0-85f1-194a313852ec"
@@ -81593,7 +81593,7 @@ digraph {
     state=active
     label="Lahrer Zeitung GmbH"
     num_owners=88
-    num_owners_weighted=21.9170
+    num_owners_weighted=24.1300
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-f18f-49c3-bcf2-fec95b06738c"
@@ -89237,7 +89237,7 @@ digraph {
     state=active
     label="Markgräfler Tagblatt"
     num_owners=92
-    num_owners_weighted=25.9170
+    num_owners_weighted=28.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7f1c-4b4c-b8c8-d47da888863c"
@@ -104561,7 +104561,7 @@ digraph {
     state=active
     label="Oberbadisches Verlagshaus Georg Jaumann GmbH & Co KG"
     num_owners=90
-    num_owners_weighted=22.9170
+    num_owners_weighted=25.1300
     num_medias=5
     num_medias_weighted=5.0000
     name="5be1a6b6-8244-4014-b06f-ccb9f2ef13e8"
@@ -124169,7 +124169,7 @@ digraph {
     state=active
     label="RNB Radio Neckarburg GmbH"
     num_owners=309
-    num_owners_weighted=18.1996
+    num_owners_weighted=19.3282
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0"
@@ -133217,7 +133217,7 @@ digraph {
     state=active
     label="Schwarzwälder Bote"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-13cd-43ce-8db8-d967641722f2"
@@ -133229,7 +133229,7 @@ digraph {
     state=active
     label="Schwarzwälder Bote (Ausgabe Kinzigtal)"
     num_owners=91
-    num_owners_weighted=24.9170
+    num_owners_weighted=27.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4516-449e-bfa5-5d5147a72fb6"
@@ -133253,12 +133253,12 @@ digraph {
     state=active
     label="Schwarzwälder Bote Mediengesellschaft mbH"
     num_owners=87
-    num_owners_weighted=20.9170
+    num_owners_weighted=23.1300
     num_medias=409
-    num_medias_weighted=13.0325
+    num_medias_weighted=15.0318
     name="5be1a6b6-63c7-407b-b983-bdf7d0a4327d"
     in_degree=2
-    out_degree=18
+    out_degree=20
   ];
   11105 [
     type=shareholder
@@ -143514,11 +143514,11 @@ digraph {
     label="Sternevent GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.5200
     name="69316ec2-35c7-471f-9093-4dac6a089e6f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11960 [
     type=shareholder
@@ -154041,7 +154041,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5f33d935-9fb2-4832-84cd-9a36180205d8"
-    in_degree=5
+    in_degree=4
     out_degree=1
   ];
   12837 [
@@ -162041,7 +162041,7 @@ digraph {
     state=active
     label=Waldrausch
     num_owners=88
-    num_owners_weighted=21.9170
+    num_owners_weighted=24.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="639c88cb-be86-4e75-adfa-f61811801979"
@@ -163349,7 +163349,7 @@ digraph {
     state=active
     label="Weiler Zeitung"
     num_owners=92
-    num_owners_weighted=25.9170
+    num_owners_weighted=28.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-58ae-4148-8efb-510dc18f9743"
@@ -168246,11 +168246,11 @@ digraph {
     label="Wohnungsgenossenschaft Carl Zeiss eG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.4800
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f7c8256-f455-4956-8701-61c0042cf374"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   14021 [
     type=shareholder
@@ -170825,7 +170825,7 @@ digraph {
     state=active
     label="www.antenne1-neckarburg.de"
     num_owners=310
-    num_owners_weighted=19.1996
+    num_owners_weighted=20.3282
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3d3034-1bee-4fbb-babc-13421b222221"
@@ -176525,11 +176525,11 @@ digraph {
     state=active
     label="www.die-oberbadische.de"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="65bcef96-2b9b-4630-9a09-61deafb0b1d5"
-    in_degree=1
+    in_degree=2
     out_degree=0
   ];
   14711 [
@@ -186653,7 +186653,7 @@ digraph {
     state=active
     label="www.lahrer-zeitung.de"
     num_owners=91
-    num_owners_weighted=24.9170
+    num_owners_weighted=27.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="65ca2b7f-9ab8-4adf-b4a3-506e13dfeb50"
@@ -191921,7 +191921,7 @@ digraph {
     state=active
     label="www.nq-online.de"
     num_owners=92
-    num_owners_weighted=25.9170
+    num_owners_weighted=28.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-271d-4c1a-ac1e-cdac551911d5"
@@ -198305,7 +198305,7 @@ digraph {
     state=active
     label="www.schwarzwaelder-bote-mediengruppe.de/wom.php"
     num_owners=88
-    num_owners_weighted=21.9170
+    num_owners_weighted=24.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="6436c44d-bf1b-40f1-82e0-dd8f4c1526cf"
@@ -198317,7 +198317,7 @@ digraph {
     state=active
     label="www.schwarzwaelder-bote.de"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-21f2-456e-a889-c295df9695bd"
@@ -203633,11 +203633,11 @@ digraph {
     state=active
     label="www.verlagshaus-jaumann.de"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-013a-468c-926e-6fb69e159d86"
-    in_degree=1
+    in_degree=2
     out_degree=0
   ];
   16970 [
@@ -208985,7 +208985,7 @@ digraph {
     state=active
     label="Ziegler Verwaltungs GmbH"
     num_owners=90
-    num_owners_weighted=23.9170
+    num_owners_weighted=26.1300
     num_medias=409
     num_medias_weighted=0.0000
     name="5ec3bbfc-b49f-4269-a646-76446410209e"
@@ -260701,6 +260701,10 @@ digraph {
     weight=100
     type=operates
   ];
+  11104 -> 14710 [
+    weight=100
+    type=operates
+  ];
   11104 -> 15554 [
     weight=100
     type=operates
@@ -260714,6 +260718,10 @@ digraph {
     type=operates
   ];
   11104 -> 16526 [
+    weight=100
+    type=operates
+  ];
+  11104 -> 16969 [
     weight=100
     type=operates
   ];
@@ -264375,6 +264383,10 @@ digraph {
   ];
   11951 -> 12578 [
     weight=100
+    type=owns
+  ];
+  11959 -> 12835 [
+    weight=26
     type=owns
   ];
   11961 -> 9885 [
@@ -273788,14 +273800,6 @@ digraph {
   14007 -> 15709 [
     weight=100
     type=operates
-  ];
-  14020 -> 12835 [
-    weight=24
-    type=owns
-  ];
-  14020 -> 12836 [
-    weight=24
-    type=owns
   ];
   14022 -> 1988 [
     weight=50

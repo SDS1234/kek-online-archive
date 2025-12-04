@@ -18028,7 +18028,7 @@
     "squuid": "5be1a6b6-ba6f-4b8d-9817-de768ab3d30c",
     "name": "ntv Nachrichtenfernsehen GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T12:08:54.950Z",
+    "controlDate": "2025-12-04T12:21:48.704Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -23426,6 +23426,24 @@
         "held": {
           "squuid": "5be1a6b1-271d-4c1a-ac1e-cdac551911d5",
           "name": "www.nq-online.de"
+        }
+      },
+      {
+        "squuid": "693194d9-408d-407b-be0d-9568cba2c9f3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-013a-468c-926e-6fb69e159d86",
+          "name": "www.verlagshaus-jaumann.de"
+        }
+      },
+      {
+        "squuid": "693194f4-1006-41f2-bc32-6bc4351895e9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "65bcef96-2b9b-4630-9a09-61deafb0b1d5",
+          "name": "www.die-oberbadische.de"
         }
       }
     ]
@@ -29662,7 +29680,7 @@
     "squuid": "5be1a6b6-e74c-47af-9e67-66b48a57e0a8",
     "name": "NWZ Funk und Fernsehen GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-15T11:22:04.973Z",
+    "controlDate": "2025-12-04T12:34:36.419Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -35511,7 +35529,7 @@
     "squuid": "68663960-f7e2-45a1-8651-87627b8be22d",
     "name": "Nugget Pictures S.à.r.L.",
     "state": "active",
-    "controlDate": "2025-07-03T08:05:41.656Z",
+    "controlDate": "2025-12-04T12:28:33.367Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -92734,7 +92752,7 @@
     "squuid": "5eb2ae39-2a64-4b5a-ac8a-c127889348f4",
     "name": "NWZ-Grundstücksverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-15T11:22:26.898Z",
+    "controlDate": "2025-12-04T12:35:00.928Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -100115,7 +100133,7 @@
     "squuid": "5be1a6b6-08d2-4c51-b8a2-a20e3090b99a",
     "name": "NWZ-Grundstücksgesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-15T11:22:45.109Z",
+    "controlDate": "2025-12-04T12:35:06.496Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -157680,7 +157698,7 @@
     "squuid": "5eb95e88-9f69-4e9c-ac2c-6ca3abfd31b5",
     "name": "NWZ Funk und Fernsehen Verwaltungsgesellschaft mbh",
     "state": "active",
-    "controlDate": "2025-06-15T11:20:09.319Z",
+    "controlDate": "2025-12-04T12:31:54.828Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -172937,9 +172955,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -191290,7 +191313,7 @@
     "squuid": "63d13f5a-b99f-46fa-9aaa-4cfabb878389",
     "name": "Oberbergische Anzeigenblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T12:12:44.343Z",
+    "controlDate": "2025-12-04T14:08:17.991Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191366,7 +191389,7 @@
     "name": "Oberbergische Anzeigenblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63d13ede-6894-431e-8d11-edc05d60aaa7",
-    "controlDate": "2025-06-15T12:12:50.089Z",
+    "controlDate": "2025-12-04T14:08:25.950Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199431,7 +199454,7 @@
     "squuid": "5d381e9f-bffe-4d03-94d4-73118b2e02c5",
     "name": "Nürnberg Ice Tigers Eishockey GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T11:24:09.458Z",
+    "controlDate": "2025-12-04T13:54:05.445Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209874,14 +209897,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -231980,7 +231998,7 @@
     "name": "Oberbadisches Verlagshaus Georg Jaumann GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8244-4014-b06f-ccb9f2ef13e8",
-    "controlDate": "2025-06-15T12:00:23.435Z",
+    "controlDate": "2025-12-04T13:57:22.650Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279487,7 +279505,7 @@
     "squuid": "66597352-82de-466f-9c63-48ce93d12587",
     "name": "NRW Audio Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T08:24:03.246Z",
+    "controlDate": "2025-12-04T13:53:13.361Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306954,7 +306972,7 @@
     "squuid": "5cd41146-9eb5-41d2-98e9-b05c1ad0135e",
     "name": "Oberbayern Medienbeteiligungs- und Vermögensverwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T12:11:50.076Z",
+    "controlDate": "2025-12-04T14:05:47.786Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307246,7 +307264,7 @@
     "squuid": "62e8e7b2-3958-41df-9126-6f19eb15e28a",
     "name": "O. Schmidt Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T11:25:01.263Z",
+    "controlDate": "2025-12-04T13:54:42.958Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
