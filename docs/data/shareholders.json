@@ -25058,7 +25058,7 @@
     "squuid": "5be1a6b6-d59b-4f83-a4a5-c6914ffc5d00",
     "name": "NRJ Group S.A.",
     "state": "active",
-    "controlDate": "2025-06-15T10:50:13.612Z",
+    "controlDate": "2025-12-04T10:43:34.977Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164531,7 +164531,7 @@
     "squuid": "618d063b-33cb-447d-99b9-988e5e617d97",
     "name": "Antenne NRW Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T10:28:28.115Z",
+    "controlDate": "2025-12-04T11:07:16.304Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172927,6 +172927,32 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69316ec2-35c7-471f-9093-4dac6a089e6f",
+    "name": "Sternevent GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69316ec3-d591-4a9b-af48-dfb215bb376b",
+    "name": "Sternevent GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -301949,7 +301975,7 @@
     "name": "NRW Audio GmbH & Co. KG ",
     "limitedPartnership": true,
     "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec",
-    "controlDate": "2025-06-15T11:18:01.816Z",
+    "controlDate": "2025-12-04T12:10:30.824Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

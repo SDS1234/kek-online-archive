@@ -1,0 +1,13 @@
+{
+  "name": "Sternevent GmbH",
+  "squuid": "69316ec2-35c7-471f-9093-4dac6a089e6f",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ]
+}
