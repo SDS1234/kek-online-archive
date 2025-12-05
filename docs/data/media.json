@@ -116764,6 +116764,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Absolut Germany",
+    "type": "radio",
+    "squuid": "6932fa16-a4a2-42c1-8693-143d4b9cb32b",
+    "state": "active"
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-7c9e-40cd-953c-ea2200c43c14",
@@ -117887,6 +117906,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Absolut Radio AI",
+    "type": "radio",
+    "squuid": "6932fd30-6415-4e69-a060-c1c4816d50b4",
+    "state": "active"
   },
   {
     "pressPublishingIntervals": 312,
