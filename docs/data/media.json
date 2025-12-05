@@ -101198,6 +101198,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Gong 96,3 Ingolstadt",
+    "type": "radio",
+    "squuid": "6932b224-29d0-4352-a47a-9801cd475dd1",
+    "state": "active"
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-a530-4afa-9d20-438946c5e0e8",
@@ -101739,6 +101758,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio Fantasy (Allgäu-Donau-Iller)",
+    "type": "radio",
+    "squuid": "6932b505-ebc3-4894-b299-25b0306d6eae",
+    "state": "active"
   },
   {
     "pressPublishingIntervals": 52,
