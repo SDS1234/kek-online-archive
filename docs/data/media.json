@@ -29008,7 +29008,7 @@
     "name": "www.mangfall-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:45:27.599Z",
+    "controlDate": "2025-12-05T12:08:12.329Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29823,7 +29823,7 @@
     "name": "www.muehldorfer-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:45:36.863Z",
+    "controlDate": "2025-12-05T12:08:23.835Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30327,7 +30327,7 @@
     "name": "www.neumarkter-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:46:12.897Z",
+    "controlDate": "2025-12-05T12:08:33.200Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98186,7 +98186,7 @@
     "rfStatewide": false,
     "name": "Oberbayerisches Volksblatt",
     "type": "print",
-    "controlDate": "2025-06-16T10:43:23.882Z",
+    "controlDate": "2025-12-05T12:06:23.689Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103344,6 +103344,25 @@
   {
     "pressPublishingIntervals": 52,
     "state": "active",
+    "squuid": "6932c391-62d9-4899-ae57-4d43090cdcc0",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Tag 7 (Leer/Aurich)",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2025-12-05T11:35:51.838Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
     "squuid": "5be1a6b1-60fc-4263-8acc-75733bc4e348",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -105491,6 +105510,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Kanal C - Augsburgs junges Radio",
+    "type": "radio",
+    "squuid": "6932c5fa-2bcf-4f27-9b34-b4e5cd87b11b",
+    "state": "active"
   },
   {
     "organization": {
@@ -109264,6 +109302,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Radio AREF",
+    "type": "radio",
+    "squuid": "6932cc5b-f596-482c-9c89-7cb034da25f7",
+    "state": "active"
   },
   {
     "organization": {
@@ -122977,7 +123034,7 @@
     "rfStatewide": false,
     "name": "Chiemgau-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T10:40:23.881Z",
+    "controlDate": "2025-12-05T12:04:40.632Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122997,7 +123054,7 @@
     "rfStatewide": false,
     "name": "Mangfall-Bote",
     "type": "print",
-    "controlDate": "2025-06-16T10:42:31.060Z",
+    "controlDate": "2025-12-05T12:04:55.302Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123017,7 +123074,7 @@
     "rfStatewide": false,
     "name": "Mühldorfer Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T10:42:38.412Z",
+    "controlDate": "2025-12-05T12:05:39.014Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123037,7 +123094,7 @@
     "rfStatewide": false,
     "name": "Waldkraiburger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-16T10:44:05.676Z",
+    "controlDate": "2025-12-05T12:06:35.575Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123057,7 +123114,7 @@
     "rfStatewide": false,
     "name": "Neumarkter Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T10:43:09.388Z",
+    "controlDate": "2025-12-05T12:06:02.130Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123077,7 +123134,7 @@
     "rfStatewide": false,
     "name": "Wasserburger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T10:44:18.938Z",
+    "controlDate": "2025-12-05T12:07:16.448Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123124,7 +123181,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T10:46:22.230Z",
+    "controlDate": "2025-12-05T12:08:42.879Z",
     "state": "active"
   },
   {
@@ -133418,7 +133475,7 @@
     "name": "www.rosenheim24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:33:24.451Z",
+    "controlDate": "2025-12-05T12:13:34.087Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133466,7 +133523,7 @@
     "name": "www.wasserburg24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:33:35.899Z",
+    "controlDate": "2025-12-05T12:13:42.964Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133490,7 +133547,7 @@
     "name": "www.mangfall24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:32:49.335Z",
+    "controlDate": "2025-12-05T12:13:12.396Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142058,7 +142115,7 @@
     "name": "www.waldkraiburger-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:46:32.054Z",
+    "controlDate": "2025-12-05T12:08:51.586Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142150,7 +142207,7 @@
     "name": "www.wasserburger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:46:59.153Z",
+    "controlDate": "2025-12-05T12:09:59.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142993,7 +143050,7 @@
     "name": "www.bgland24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T11:28:44.630Z",
+    "controlDate": "2025-12-05T12:11:54.686Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143350,7 +143407,7 @@
     "name": "www.chiemgau24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:32:08.597Z",
+    "controlDate": "2025-12-05T12:12:37.213Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

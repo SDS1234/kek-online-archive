@@ -76710,6 +76710,78 @@
           "squuid": "5be1a6b1-d305-41e0-8dde-b48d93064a2a",
           "name": "Oldenburgische Volkszeitung"
         }
+      },
+      {
+        "squuid": "6932c1eb-7563-44e9-96fd-d8c36a514208",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-045d-494a-9645-32e345c911be",
+          "name": "Ostfriesische Nachrichten"
+        }
+      },
+      {
+        "squuid": "6932c237-d279-4c78-bd0a-1b30856d677a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c",
+          "name": "www.on-online.de"
+        }
+      },
+      {
+        "squuid": "6932c45a-10f8-453b-aed5-f462669880dd",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932c391-62d9-4899-ae57-4d43090cdcc0",
+          "name": "Tag 7 (Leer/Aurich)"
+        }
+      },
+      {
+        "squuid": "6932c4fc-5d0d-4df5-88dc-17f1cbb693ac",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-9cf4-4038-bdf5-5895399d512b",
+          "name": "Borkumer Zeitung"
+        }
+      },
+      {
+        "squuid": "6932c558-faef-4e61-b165-79cb0906100a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-9323-45e8-b60c-a01d83d7034e",
+          "name": "General-Anzeiger (Rhauderfehn)"
+        }
+      },
+      {
+        "squuid": "6932c583-18cb-41b3-8254-92435046b6b8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-1a9b-4902-91bc-19d758f3cf1f",
+          "name": "Ostfriesen-Zeitung"
+        }
+      },
+      {
+        "squuid": "6932c64d-ccb8-4750-9107-34f4b026fd53",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-8fe4-4b66-863e-a1a1486c9d7e",
+          "name": "www.ga-online.de"
+        }
+      },
+      {
+        "squuid": "6932c698-4cf1-42ca-9c35-97b7ee6e602d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-f3b8-4141-b40d-e554de3de88d",
+          "name": "www.oz-online.de"
+        }
       }
     ]
   },
@@ -102153,7 +102225,7 @@
     "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed",
     "name": "OVR Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-16T10:53:59.388Z",
+    "controlDate": "2025-12-05T12:20:03.410Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -130514,7 +130586,7 @@
     "squuid": "5be1a6b6-d3e2-4754-b8d0-461f22dcf2c9",
     "name": "OVB Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T10:33:50.024Z",
+    "controlDate": "2025-12-05T12:04:16.953Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -132114,6 +132186,15 @@
         "held": {
           "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c",
           "name": "www.on-online.de"
+        }
+      },
+      {
+        "squuid": "6932c44f-0e7b-4717-80fb-5dfe6abb8cfc",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932c391-62d9-4899-ae57-4d43090cdcc0",
+          "name": "Tag 7 (Leer/Aurich)"
         }
       }
     ]
@@ -167170,7 +167251,7 @@
     "squuid": "5ebba510-fc42-4a44-8b8f-b74b4dc61426",
     "name": "OVR Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T10:52:28.634Z",
+    "controlDate": "2025-12-05T12:19:54.738Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180853,6 +180934,19 @@
     ]
   },
   {
+    "squuid": "6932c75d-2b74-4e21-8377-5f70b5984bb7",
+    "name": "Kanal C - Studentisches Aus- und Fortbildungsradio Augsburg e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5e14b089-b2e7-47db-a52f-1a6ee5173877",
     "name": "Röhm Verwaltungs-GmbH",
     "state": "active",
@@ -182730,6 +182824,19 @@
           "squuid": "6863aeab-2a36-4591-835a-a58308dc2e37",
           "name": "IKZ am Sonntag"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6932cd7e-e63f-4811-ae95-fa99405ea0d6",
+    "name": "Arbeitsgemeinschaft Rundfunk Evangelischer Freikirchen",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -231876,51 +231983,6 @@
         }
       },
       {
-        "squuid": "5e416c78-7d70-4ee2-b53b-70b1a98b7f42",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-9cf4-4038-bdf5-5895399d512b",
-          "name": "Borkumer Zeitung"
-        }
-      },
-      {
-        "squuid": "5ecbabcf-7995-4168-a645-6d06966e98af",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-9323-45e8-b60c-a01d83d7034e",
-          "name": "General-Anzeiger (Rhauderfehn)"
-        }
-      },
-      {
-        "squuid": "5ee2082b-3a40-40ac-a92b-c3355dc92acc",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-1a9b-4902-91bc-19d758f3cf1f",
-          "name": "Ostfriesen-Zeitung"
-        }
-      },
-      {
-        "squuid": "5eff37e4-e609-4a45-9f8d-4b8bafc9a369",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-f3b8-4141-b40d-e554de3de88d",
-          "name": "www.oz-online.de"
-        }
-      },
-      {
-        "squuid": "60e83e32-3a64-4297-b6f9-b79fc141cf9f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-8fe4-4b66-863e-a1a1486c9d7e",
-          "name": "www.ga-online.de"
-        }
-      },
-      {
         "squuid": "61543492-a0d5-4b06-9e8b-86932397ea2a",
         "type": "operate",
         "state": "active",
@@ -231939,15 +232001,6 @@
         }
       },
       {
-        "squuid": "62b5cb80-6e6f-4d42-b2a9-8a9d8b7f4235",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-045d-494a-9645-32e345c911be",
-          "name": "Ostfriesische Nachrichten"
-        }
-      },
-      {
         "squuid": "65c0ef42-1cd4-47cf-9acd-1bdc05032959",
         "type": "operate",
         "state": "active",
@@ -231963,15 +232016,6 @@
         "held": {
           "squuid": "5be1a6b1-5bca-4e06-b5fd-02f1b31acb08",
           "name": "www.emderzeitung.de"
-        }
-      },
-      {
-        "squuid": "65d367bb-aa64-4d3a-b46a-47898b9b7037",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c",
-          "name": "www.on-online.de"
         }
       },
       {
@@ -259848,7 +259892,7 @@
     "squuid": "5be1a6b6-b027-4a28-8912-711ca5dab766",
     "name": "OVB24 GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T10:31:09.182Z",
+    "controlDate": "2025-12-05T12:11:48.518Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
