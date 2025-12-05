@@ -3976,7 +3976,7 @@
     "rfStatewide": false,
     "name": "Aalener Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-15T14:39:14.182Z",
+    "controlDate": "2025-12-05T09:22:40.609Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3996,7 +3996,7 @@
     "rfStatewide": false,
     "name": "Ipf- und Jagst-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-15T14:39:27.975Z",
+    "controlDate": "2025-12-05T09:23:23.493Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -14886,7 +14886,7 @@
     "rfStatewide": false,
     "name": "Landzauber",
     "type": "print",
-    "controlDate": "2025-06-15T14:33:28.344Z",
+    "controlDate": "2025-12-05T09:20:17.963Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14910,7 +14910,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T14:33:42.795Z",
+    "controlDate": "2025-12-05T09:20:27.909Z",
     "state": "active"
   },
   {
@@ -23454,7 +23454,7 @@
     "name": "www.ora-anzeigenblaetter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:42:12.547Z",
+    "controlDate": "2025-12-05T09:41:39.086Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30772,7 +30772,7 @@
     "name": "OTZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T10:21:48.745Z",
+    "controlDate": "2025-12-05T09:54:25.053Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69054,7 +69054,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T10:23:26.338Z",
+    "controlDate": "2025-12-05T09:55:25.187Z",
     "state": "active"
   },
   {
@@ -81285,7 +81285,7 @@
     "rfStatewide": false,
     "name": "Norderneyer Badezeitung",
     "type": "print",
-    "controlDate": "2025-06-15T14:46:59.587Z",
+    "controlDate": "2025-12-05T09:35:09.995Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87304,7 +87304,7 @@
     "rfStatewide": false,
     "name": "Ostsee-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T09:48:26.734Z",
+    "controlDate": "2025-12-05T09:46:45.376Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87344,7 +87344,7 @@
     "rfStatewide": false,
     "name": "Ostthüringer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T10:22:04.176Z",
+    "controlDate": "2025-12-05T09:54:41.702Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97574,7 +97574,7 @@
     "rfStatewide": false,
     "name": "Ostfriesischer Kurier",
     "type": "print",
-    "controlDate": "2025-06-15T14:47:19.757Z",
+    "controlDate": "2025-12-05T09:35:24.921Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -99744,7 +99744,7 @@
     "rfStatewide": false,
     "name": "Ostfriesische Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-15T14:44:55.058Z",
+    "controlDate": "2025-12-05T09:27:19.851Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116878,7 +116878,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T09:48:38.486Z",
+    "controlDate": "2025-12-05T09:47:03.784Z",
     "state": "active"
   },
   {
@@ -118049,7 +118049,7 @@
     "rfStatewide": false,
     "name": "Schmöllner Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-16T10:22:24.266Z",
+    "controlDate": "2025-12-05T09:55:03.091Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120901,7 +120901,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T14:47:46.324Z",
+    "controlDate": "2025-12-05T09:35:49.240Z",
     "state": "active"
   },
   {
@@ -120919,7 +120919,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-15T14:47:33.806Z",
+    "controlDate": "2025-12-05T09:35:33.265Z",
     "state": "active"
   },
   {
@@ -121442,7 +121442,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T12:09:49.717Z",
+    "controlDate": "2025-12-05T09:27:28.482Z",
     "state": "active"
   },
   {
@@ -139876,7 +139876,7 @@
     "name": "www.kurier-zum-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:39:46.797Z",
+    "controlDate": "2025-12-05T09:41:25.386Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140131,7 +140131,7 @@
     "name": "www.luener-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:42:05.417Z",
+    "controlDate": "2025-12-05T09:41:32.305Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140155,7 +140155,7 @@
     "name": "www.ruhr-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:42:43.851Z",
+    "controlDate": "2025-12-05T09:41:44.871Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140203,7 +140203,7 @@
     "name": "www.sonntagskurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:43:19.280Z",
+    "controlDate": "2025-12-05T09:41:59.014Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140273,7 +140273,7 @@
     "name": "www.stadtspiegel-dorsten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:43:48.208Z",
+    "controlDate": "2025-12-05T09:42:25.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140321,7 +140321,7 @@
     "name": "www.stadtanzeiger-castrop-rauxel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:43:32.254Z",
+    "controlDate": "2025-12-05T09:42:07.890Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140415,7 +140415,7 @@
     "name": "www.stadtanzeiger-dortmund.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:43:39.109Z",
+    "controlDate": "2025-12-05T09:42:14.968Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140439,7 +140439,7 @@
     "name": "www.stadtspiegel-haltern.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T09:43:55.740Z",
+    "controlDate": "2025-12-05T09:42:32.333Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145829,7 +145829,7 @@
     "name": "www.out.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T10:23:58.747Z",
+    "controlDate": "2025-12-05T09:56:03.854Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146233,7 +146233,7 @@
     "name": "OZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T09:47:37.887Z",
+    "controlDate": "2025-12-05T09:46:35.495Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
