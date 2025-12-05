@@ -3867,7 +3867,7 @@
     "name": "www.bayerwald-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:07:57.270Z",
+    "controlDate": "2025-12-05T16:26:52.505Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -4335,7 +4335,7 @@
     "name": "www.deggendorfer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:08:52.508Z",
+    "controlDate": "2025-12-05T16:28:02.122Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -10224,7 +10224,7 @@
     "rfStatewide": false,
     "name": "Wilde Hunde",
     "type": "print",
-    "controlDate": "2025-06-16T12:41:12.319Z",
+    "controlDate": "2025-12-05T16:46:00.093Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10272,7 +10272,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:42:45.812Z",
+    "controlDate": "2025-12-05T16:47:40.764Z",
     "state": "active"
   },
   {
@@ -10290,7 +10290,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:41:43.773Z",
+    "controlDate": "2025-12-05T16:46:29.313Z",
     "state": "active"
   },
   {
@@ -10308,7 +10308,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:42:28.109Z",
+    "controlDate": "2025-12-05T16:47:23.158Z",
     "state": "active"
   },
   {
@@ -10326,7 +10326,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:42:03.675Z",
+    "controlDate": "2025-12-05T16:46:43.809Z",
     "state": "active"
   },
   {
@@ -10344,7 +10344,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:42:38.613Z",
+    "controlDate": "2025-12-05T16:47:31.621Z",
     "state": "active"
   },
   {
@@ -18645,7 +18645,7 @@
     "name": "www.freilassinger-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:09:27.857Z",
+    "controlDate": "2025-12-05T16:28:19.756Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24401,7 +24401,7 @@
     "name": "www.grafenauer-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:09:57.210Z",
+    "controlDate": "2025-12-05T16:28:30.354Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27863,7 +27863,7 @@
     "name": "www.landauer-neue-presse.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:10:37.360Z",
+    "controlDate": "2025-12-05T16:29:52.480Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31975,7 +31975,7 @@
     "name": "www.osterhofener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:11:12.001Z",
+    "controlDate": "2025-12-05T16:30:45.466Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33152,7 +33152,7 @@
     "name": "www.plattlinger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:11:32.023Z",
+    "controlDate": "2025-12-05T16:31:16.527Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33676,7 +33676,7 @@
     "name": "www.reichenhaller-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:12:27.514Z",
+    "controlDate": "2025-12-05T16:32:35.395Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34777,7 +34777,7 @@
     "name": "www.rottaler-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:12:45.551Z",
+    "controlDate": "2025-12-05T16:32:50.541Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37434,7 +37434,7 @@
     "name": "www.suedostbayerische-rundschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:13:14.580Z",
+    "controlDate": "2025-12-05T16:33:32.652Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38023,7 +38023,7 @@
     "name": "www.traunreuter-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:13:37.259Z",
+    "controlDate": "2025-12-05T16:33:52.050Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38416,7 +38416,7 @@
     "name": "www.trostberger-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:14:06.297Z",
+    "controlDate": "2025-12-05T16:34:24.276Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39042,7 +39042,7 @@
     "name": "www.viechtacher-bayerwald-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:14:19.241Z",
+    "controlDate": "2025-12-05T16:34:36.857Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39456,7 +39456,7 @@
     "name": "www.vilshofener-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:14:31.243Z",
+    "controlDate": "2025-12-05T16:34:47.194Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -64201,7 +64201,7 @@
     "name": "www.mein-startup.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:35:50.783Z",
+    "controlDate": "2025-12-05T16:41:13.186Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -64566,7 +64566,7 @@
     "name": "www.fuer-gruender.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:35:43.068Z",
+    "controlDate": "2025-12-05T16:41:02.481Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86765,7 +86765,7 @@
     "rfStatewide": false,
     "name": "Passauer Neue Presse",
     "type": "print",
-    "controlDate": "2025-06-16T12:03:41.745Z",
+    "controlDate": "2025-12-05T16:20:28.041Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90431,7 +90431,7 @@
     "rfStatewide": false,
     "name": "Wild und Hund",
     "type": "print",
-    "controlDate": "2025-06-16T12:41:02.994Z",
+    "controlDate": "2025-12-05T16:45:34.941Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90452,7 +90452,7 @@
     "rfStatewide": false,
     "name": "Fisch und Fang",
     "type": "print",
-    "controlDate": "2025-06-16T12:40:14.035Z",
+    "controlDate": "2025-12-05T16:45:02.972Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90473,7 +90473,7 @@
     "rfStatewide": false,
     "name": "Jagen weltweit",
     "type": "print",
-    "controlDate": "2025-06-16T12:40:21.016Z",
+    "controlDate": "2025-12-05T16:45:24.555Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90494,7 +90494,7 @@
     "rfStatewide": false,
     "name": "Deutsche Jagd-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T12:39:39.529Z",
+    "controlDate": "2025-12-05T16:44:13.260Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90515,7 +90515,7 @@
     "rfStatewide": false,
     "name": "Der Raubfisch",
     "type": "print",
-    "controlDate": "2025-06-16T12:39:32.609Z",
+    "controlDate": "2025-12-05T16:44:04.043Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101188,7 +101188,7 @@
     "rfStatewide": false,
     "name": "Altbayerische Heimatpost",
     "type": "print",
-    "controlDate": "2025-06-16T11:58:58.032Z",
+    "controlDate": "2025-12-05T16:16:45.668Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101228,7 +101228,7 @@
     "rfStatewide": false,
     "name": "Trostberger Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-16T12:06:12.432Z",
+    "controlDate": "2025-12-05T16:23:39.665Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -110185,7 +110185,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T12:11:45.964Z",
+    "controlDate": "2025-12-05T16:31:25.490Z",
     "state": "active"
   },
   {
@@ -121668,7 +121668,7 @@
     "name": "www.alt-neuoettinger-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:07:22.794Z",
+    "controlDate": "2025-12-05T16:25:47.079Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -121732,7 +121732,7 @@
     "name": "www.burghauser-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:08:25.307Z",
+    "controlDate": "2025-12-05T16:27:06.532Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -123353,7 +123353,7 @@
     "rfStatewide": false,
     "name": "Vilshofener Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T12:06:50.971Z",
+    "controlDate": "2025-12-05T16:24:02.873Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123373,7 +123373,7 @@
     "rfStatewide": false,
     "name": "Grafenauer Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T12:01:44.076Z",
+    "controlDate": "2025-12-05T16:19:32.952Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123393,7 +123393,7 @@
     "rfStatewide": false,
     "name": "Rottaler Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T12:04:58.761Z",
+    "controlDate": "2025-12-05T16:22:22.564Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123433,7 +123433,7 @@
     "rfStatewide": false,
     "name": "Alt-Neuöttinger Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T11:58:42.769Z",
+    "controlDate": "2025-12-05T16:15:58.337Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123453,7 +123453,7 @@
     "rfStatewide": false,
     "name": "Burghauser Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T11:59:27.123Z",
+    "controlDate": "2025-12-05T16:17:45.238Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123473,7 +123473,7 @@
     "rfStatewide": false,
     "name": "Deggendorfer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T12:00:27.878Z",
+    "controlDate": "2025-12-05T16:18:14.495Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123493,7 +123493,7 @@
     "rfStatewide": false,
     "name": "Plattlinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T12:04:10.964Z",
+    "controlDate": "2025-12-05T16:21:34.621Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123513,7 +123513,7 @@
     "rfStatewide": false,
     "name": "Osterhofener Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T12:03:20.290Z",
+    "controlDate": "2025-12-05T16:20:15.207Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123533,7 +123533,7 @@
     "rfStatewide": false,
     "name": "Landauer Neue Presse",
     "type": "print",
-    "controlDate": "2025-06-16T12:02:33.868Z",
+    "controlDate": "2025-12-05T16:19:57.332Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123553,7 +123553,7 @@
     "rfStatewide": false,
     "name": "Der Bayerwald-Bote",
     "type": "print",
-    "controlDate": "2025-06-16T12:00:49.997Z",
+    "controlDate": "2025-12-05T16:18:40.448Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123573,7 +123573,7 @@
     "rfStatewide": false,
     "name": "Viechtacher Bayerwald-Bote",
     "type": "print",
-    "controlDate": "2025-06-16T12:06:40.814Z",
+    "controlDate": "2025-12-05T16:23:52.849Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123593,7 +123593,7 @@
     "rfStatewide": false,
     "name": "Traunreuter Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T12:05:56.695Z",
+    "controlDate": "2025-12-05T16:23:19.646Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123613,7 +123613,7 @@
     "rfStatewide": false,
     "name": "Südostbayerische Rundschau",
     "type": "print",
-    "controlDate": "2025-06-16T12:05:24.827Z",
+    "controlDate": "2025-12-05T16:22:36.259Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123659,7 +123659,7 @@
     "rfStatewide": false,
     "name": "Reichenhaller Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-16T12:04:26.672Z",
+    "controlDate": "2025-12-05T16:21:53.000Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123679,7 +123679,7 @@
     "rfStatewide": false,
     "name": "Freilassinger Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-16T12:01:22.136Z",
+    "controlDate": "2025-12-05T16:19:07.771Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -129735,7 +129735,7 @@
     "name": "www.wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:15:19.956Z",
+    "controlDate": "2025-12-05T16:35:31.259Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137936,7 +137936,7 @@
     "name": "www.heimatsport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:10:10.495Z",
+    "controlDate": "2025-12-05T16:29:30.817Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147531,7 +147531,7 @@
     "name": "www.pnp.de/bgl_anzeigenpost",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T12:12:00.834Z",
+    "controlDate": "2025-12-05T16:31:39.085Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
