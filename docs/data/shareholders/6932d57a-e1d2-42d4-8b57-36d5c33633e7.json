@@ -1,8 +1,6 @@
 {
-  "name": "von Moeller, Dr. Krischan",
-  "pseudoCompany": false,
-  "squuid": "5f0c46c6-0679-4008-8394-0c8e92585555",
-  "city": "München",
+  "name": "Evangelischer Presseverband für Bayern eingetragener Verein",
+  "squuid": "6932d57a-e1d2-42d4-8b57-36d5c33633e7",
   "state": "active",
   "organizations": [
     {
@@ -11,6 +9,5 @@
       "type": "organization",
       "fullName": "Gemeinsame Geschaeftsstelle"
     }
-  ],
-  "naturalPerson": true
+  ]
 }

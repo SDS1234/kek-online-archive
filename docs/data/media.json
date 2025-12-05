@@ -7750,7 +7750,7 @@
     "rfStatewide": false,
     "name": "Landkind",
     "type": "print",
-    "controlDate": "2025-06-16T11:18:36.449Z",
+    "controlDate": "2025-12-05T13:06:28.335Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7931,7 +7931,7 @@
     "rfStatewide": false,
     "name": "Feuerwehrmann Sam",
     "type": "print",
-    "controlDate": "2025-06-16T11:17:34.272Z",
+    "controlDate": "2025-12-05T13:05:33.548Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8014,7 +8014,7 @@
     "rfStatewide": false,
     "name": "Paw Patrol - Helfer auf vier Pfoten",
     "type": "print",
-    "controlDate": "2025-06-16T11:19:17.404Z",
+    "controlDate": "2025-12-05T13:07:24.266Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8411,7 +8411,7 @@
     "rfStatewide": false,
     "name": "Deadpool",
     "type": "print",
-    "controlDate": "2025-06-16T11:17:27.491Z",
+    "controlDate": "2025-12-05T13:05:27.099Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8432,7 +8432,7 @@
     "rfStatewide": false,
     "name": "Geek!",
     "type": "print",
-    "controlDate": "2025-06-16T11:17:57.503Z",
+    "controlDate": "2025-12-05T13:05:56.429Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16523,7 +16523,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T11:35:52.648Z",
+    "controlDate": "2025-12-05T13:17:25.039Z",
     "state": "active"
   },
   {
@@ -46880,7 +46880,7 @@
     "name": "www.palstek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T11:06:43.097Z",
+    "controlDate": "2025-12-05T13:01:24.752Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94609,7 +94609,7 @@
     "rfStatewide": false,
     "name": "Palstek",
     "type": "print",
-    "controlDate": "2025-06-16T11:06:19.712Z",
+    "controlDate": "2025-12-05T13:01:18.831Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94842,7 +94842,7 @@
     "rfStatewide": false,
     "name": "Reitsport-Magazin",
     "type": "print",
-    "controlDate": "2025-06-16T11:35:44.961Z",
+    "controlDate": "2025-12-05T13:17:18.573Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104570,7 +104570,7 @@
     "rfStatewide": false,
     "name": "hey! Best Friends",
     "type": "print",
-    "controlDate": "2025-06-16T11:21:32.484Z",
+    "controlDate": "2025-12-05T13:09:05.927Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104612,7 +104612,7 @@
     "rfStatewide": false,
     "name": "Just kick-it!",
     "type": "print",
-    "controlDate": "2025-06-16T11:18:15.880Z",
+    "controlDate": "2025-12-05T13:06:19.213Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104698,7 +104698,7 @@
     "rfStatewide": false,
     "name": "Spider-Man",
     "type": "print",
-    "controlDate": "2025-06-16T11:20:32.167Z",
+    "controlDate": "2025-12-05T13:08:22.488Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104826,7 +104826,7 @@
     "rfStatewide": false,
     "name": "Bob der Baumeister",
     "type": "print",
-    "controlDate": "2025-06-16T11:16:46.981Z",
+    "controlDate": "2025-12-05T13:04:21.129Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104847,7 +104847,7 @@
     "rfStatewide": false,
     "name": "Pokemon",
     "type": "print",
-    "controlDate": "2025-06-16T11:20:02.859Z",
+    "controlDate": "2025-12-05T13:07:51.865Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104868,7 +104868,7 @@
     "rfStatewide": false,
     "name": "Star Wars Magazin",
     "type": "print",
-    "controlDate": "2025-06-16T11:21:01.043Z",
+    "controlDate": "2025-12-05T13:08:44.067Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104889,7 +104889,7 @@
     "rfStatewide": false,
     "name": "Star Wars Comicmagazin",
     "type": "print",
-    "controlDate": "2025-06-16T11:20:44.089Z",
+    "controlDate": "2025-12-05T13:08:35.373Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -111878,6 +111878,25 @@
     },
     "controlDate": "2019-07-08T15:56:01.005Z",
     "state": "archived"
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "Evangelische Funk-Agentur ",
+    "type": "radio",
+    "squuid": "6932d4b2-57c8-4cd3-85e0-fce7714b5edf",
+    "state": "active"
   },
   {
     "pressPublishingIntervals": 312,
@@ -125781,7 +125800,7 @@
     "name": "www.landkind.blog",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T11:21:44.396Z",
+    "controlDate": "2025-12-05T13:09:16.076Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138155,7 +138174,7 @@
     "name": "Das Magazin mit dem Elefanten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T11:17:01.833Z",
+    "controlDate": "2025-12-05T13:04:50.478Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138550,7 +138569,7 @@
     "name": "My best Friend",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T11:18:56.664Z",
+    "controlDate": "2025-12-05T13:07:02.059Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138642,7 +138661,7 @@
     "name": "Avengers",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T11:16:21.176Z",
+    "controlDate": "2025-12-05T13:04:14.756Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

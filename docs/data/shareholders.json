@@ -42688,7 +42688,7 @@
     "squuid": "5be1a6b6-8a5c-4a7a-8e15-f0fdefb2efdd",
     "name": "P2 - Radio Programm GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:01:22.465Z",
+    "controlDate": "2025-12-05T12:59:27.255Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89855,7 +89855,7 @@
     "squuid": "5be1a6b6-8cbc-42a9-8413-c25fd82ddf1a",
     "name": "P + S Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-16T10:58:05.021Z",
+    "controlDate": "2025-12-05T12:55:56.377Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -102922,7 +102922,7 @@
     "squuid": "5be1a6b6-0b45-440e-80ae-66ded3928a70",
     "name": "Panzer Vermögensverwaltung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-16T11:32:14.069Z",
+    "controlDate": "2025-12-05T13:14:32.434Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -121755,7 +121755,7 @@
     "squuid": "5eb29e19-a6cf-4e83-90ae-097064c73c8f",
     "name": "Panzer Vermögensverwaltung Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:32:05.168Z",
+    "controlDate": "2025-12-05T13:13:35.345Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169204,7 +169204,7 @@
     "squuid": "5ebbc427-d277-4257-929e-dad16efd2148",
     "name": "Panini Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:16:07.354Z",
+    "controlDate": "2025-12-05T13:03:55.660Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -171332,7 +171332,7 @@
     "squuid": "5f0c433e-8fbc-4579-bcdb-d619f607e69a",
     "name": "Paragon Partners GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:33:41.644Z",
+    "controlDate": "2025-12-05T13:16:29.837Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172072,8 +172072,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -183120,6 +183121,19 @@
     "state": "active",
     "controlDate": "2023-05-12T10:47:54.116Z",
     "limitedPartnership": true,
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6932d57a-e1d2-42d4-8b57-36d5c33633e7",
+    "name": "Evangelischer Presseverband für Bayern eingetragener Verein",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -196112,7 +196126,7 @@
     "squuid": "6012b5e0-e3d6-4bb7-83f6-dad533716a50",
     "name": "P.J.C. Management Nederland B. V.",
     "state": "active",
-    "controlDate": "2025-06-16T11:00:55.416Z",
+    "controlDate": "2025-12-05T12:58:16.453Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219609,7 +219623,7 @@
     "squuid": "64006d66-cf4e-4c38-9a5f-962b1602e94e",
     "name": "Panorama Anzeigenblatt GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:30:41.170Z",
+    "controlDate": "2025-12-05T13:13:25.406Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240137,7 +240151,7 @@
     "squuid": "5be1a6b6-551c-4a8d-b03f-2e55f100020e",
     "name": "Palstek Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:02:04.997Z",
+    "controlDate": "2025-12-05T13:01:12.384Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240404,7 +240418,7 @@
     "name": "Paragon Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-393d-4485-895c-241cebf05c26",
-    "controlDate": "2025-06-16T11:34:00.393Z",
+    "controlDate": "2025-12-05T13:17:06.199Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244425,7 +244439,7 @@
     "squuid": "5be1a6b6-c99a-4cce-8b12-e4914d17f8a2",
     "name": "P. P. Cahensly GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-16T11:00:32.794Z",
+    "controlDate": "2025-12-05T12:57:59.244Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -274192,7 +274206,7 @@
     "squuid": "5be1a6b6-043d-4665-9dcf-a0f98b30cb02",
     "name": "Panini S.p.A.",
     "state": "active",
-    "controlDate": "2024-12-04T15:14:56.531Z",
+    "controlDate": "2025-12-05T13:03:28.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311885,7 +311899,7 @@
     "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179",
     "name": "OZ Verlagsbeteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T10:55:10.009Z",
+    "controlDate": "2025-12-05T12:44:25.505Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
