@@ -1,18 +1,5 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "PEIQ Publishing GmbH & Co. KG",
-        "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb"
-      },
-      "squuid": "5eff02a5-cfa5-476d-a36e-1b643a840b2a",
-      "state": "active"
-    }
-  ],
-  "state": "active",
+  "state": "archived",
   "city": "Augsburg",
   "pseudoCompany": false,
   "street": "Bismarckstr.",
@@ -23,22 +10,11 @@
   "streetNumber": "19 1/2",
   "organizations": [
     {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
     }
   ],
-  "zipcode": "86159",
-  "ownedBy": [
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "holder": {
-        "name": "PEIQ Publishing GmbH & Co. KG",
-        "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb"
-      },
-      "squuid": "5eff030d-409c-479a-b682-5b5ec8eb6310",
-      "state": "active"
-    }
-  ]
+  "zipcode": "86159"
 }

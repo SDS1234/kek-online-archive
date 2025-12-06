@@ -355,6 +355,30 @@
     ]
   },
   {
+    "squuid": "69343066-2c89-4bc9-b055-af86bc5371d3",
+    "name": "Marketing- & Sales-Service Augsburg GmbH",
+    "state": "active",
+    "controlDate": "2025-12-06T13:40:12.256Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69343126-2a48-4956-969f-36289a34639a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5d2f2d77-92fc-4a89-be17-f4810a14d065",
+          "name": "www.myheimat.de"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "6193b388-f0c8-4a71-81af-6962e22e2a94",
     "name": "Schönbach, Ulli",
     "state": "active",
@@ -3998,12 +4022,13 @@
   {
     "squuid": "5eff0287-7841-4df5-81da-ed5b7c1c5cc9",
     "name": "PEIQ Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-12-06T11:21:26.629Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162369,27 +162394,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "PEIQ Publishing GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "5d2f2d8a-0298-4c6a-a52f-3f9ef20b49cb",
+    "name": "PEIQ Publishing GmbH & Co. KG",
+    "state": "archived",
     "controlDate": "2025-05-26T11:41:43.240Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5d2f2da4-d0fe-48ae-a65c-cc7d913e7566",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5d2f2d77-92fc-4a89-be17-f4810a14d065",
-          "name": "www.myheimat.de"
-        }
       }
     ]
   },
@@ -162676,8 +162691,9 @@
     "controlDate": "2025-09-15T10:26:45.856Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162790,8 +162806,9 @@
     "controlDate": "2019-07-17T14:33:43.199Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162803,8 +162820,9 @@
     "controlDate": "2019-07-17T14:33:01.852Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162816,8 +162834,9 @@
     "controlDate": "2019-07-17T14:31:30.554Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162829,8 +162848,9 @@
     "controlDate": "2019-07-17T14:34:03.705Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162842,8 +162862,9 @@
     "controlDate": "2019-07-17T14:32:06.958Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -162943,8 +162964,9 @@
     "controlDate": "2019-07-17T14:32:32.638Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -166071,7 +166093,7 @@
     "squuid": "68501f60-5180-45ef-8e5e-17738bcd37c1",
     "name": "Peli Energy AG",
     "state": "active",
-    "controlDate": "2025-07-01T10:03:40.815Z",
+    "controlDate": "2025-12-06T13:44:13.202Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253039,7 +253061,7 @@
     "squuid": "5f917dd4-04a9-4fea-93e4-3296f8c8930e",
     "name": "Peli One Investment GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T13:43:06.428Z",
+    "controlDate": "2025-12-06T13:44:26.553Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
