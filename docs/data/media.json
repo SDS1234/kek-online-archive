@@ -8648,7 +8648,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T13:58:14.014Z",
+    "controlDate": "2025-12-08T10:50:13.011Z",
     "state": "active"
   },
   {
@@ -10620,7 +10620,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T13:50:19.004Z",
+    "controlDate": "2025-12-08T10:45:42.407Z",
     "state": "active"
   },
   {
@@ -12718,7 +12718,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-16T15:27:09.414Z",
+    "controlDate": "2025-12-08T10:58:33.889Z",
     "state": "active"
   },
   {
@@ -31931,7 +31931,7 @@
     "name": "www.volleyball.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T15:40:49.110Z",
+    "controlDate": "2025-12-08T11:09:06.527Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82998,7 +82998,7 @@
     "rfStatewide": false,
     "name": "ProfiFoto",
     "type": "print",
-    "controlDate": "2025-06-16T15:27:02.136Z",
+    "controlDate": "2025-12-08T10:58:15.739Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87426,7 +87426,7 @@
     "rfStatewide": false,
     "name": "Volleyball-Magazin",
     "type": "print",
-    "controlDate": "2025-06-16T15:39:50.234Z",
+    "controlDate": "2025-12-08T11:08:30.250Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90384,7 +90384,7 @@
     "rfStatewide": false,
     "name": "DBZ Deutsche Briefmarken-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-16T15:37:12.507Z",
+    "controlDate": "2025-12-08T11:05:34.884Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94630,7 +94630,7 @@
     "rfStatewide": false,
     "name": "der pilger",
     "type": "print",
-    "controlDate": "2025-06-16T13:50:03.201Z",
+    "controlDate": "2025-12-08T10:45:26.697Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103095,7 +103095,7 @@
     "rfStatewide": false,
     "name": "Business Traveller",
     "type": "print",
-    "controlDate": "2025-06-16T13:56:37.673Z",
+    "controlDate": "2025-12-08T10:50:03.519Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114346,7 +114346,7 @@
     "name": "www.phonostar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T15:53:42.709Z",
+    "controlDate": "2025-12-08T11:10:58.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -124186,7 +124186,7 @@
     "name": "der pilger - Magazin für bewusstes Leben",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T13:50:11.045Z",
+    "controlDate": "2025-12-08T10:45:35.114Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134217,7 +134217,7 @@
     "name": "www.pinkchannel.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T16:02:33.173Z",
+    "controlDate": "2025-12-08T11:12:58.851Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160241,7 +160241,7 @@
     "name": "www.philapress.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T15:37:22.394Z",
+    "controlDate": "2025-12-08T11:05:53.355Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160943,7 +160943,7 @@
     "name": "Briefmarken Spiegel",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-16T15:36:26.995Z",
+    "controlDate": "2025-12-08T11:05:28.475Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
