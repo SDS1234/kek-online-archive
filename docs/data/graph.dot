@@ -106780,8 +106780,8 @@ digraph {
     type=radio
     state=active
     label="Ostseewelle HIT-RADIO Hamburg/Schleswig-Holstein"
-    num_owners=366
-    num_owners_weighted=14.7265
+    num_owners=365
+    num_owners_weighted=13.7265
     num_medias=0
     num_medias_weighted=0.0000
     name="606eb5c1-2d7d-4095-a985-3bd9a9978863"
@@ -106792,8 +106792,8 @@ digraph {
     type=radio
     state=active
     label="Ostseewelle HITRADIO Mecklenburg-Vorpommern"
-    num_owners=366
-    num_owners_weighted=14.7265
+    num_owners=365
+    num_owners_weighted=13.7265
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d4f3-43c5-80a1-de49a20d34cb"
@@ -112540,8 +112540,8 @@ digraph {
     type=shareholder
     state=active
     label="Privatradio Landeswelle Mecklenburg-Vorpommern GmbH & Co. Studiobetriebs KG"
-    num_owners=365
-    num_owners_weighted=13.7265
+    num_owners=364
+    num_owners_weighted=12.7265
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-9833-4570-b744-205c3026cdf5"
@@ -191439,6 +191439,18 @@ digraph {
   15953 [
     type=online
     state=active
+    label="www.newstime.joyn.de/themen/sat1-bayern"
+    num_owners=501
+    num_owners_weighted=11.3476
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5f7f18a4-2522-4a73-987e-7a412c9d1648"
+    in_degree=2
+    out_degree=0
+  ];
+  15954 [
+    type=online
+    state=active
     label="www.nextg.tv"
     num_owners=83
     num_owners_weighted=19.0525
@@ -191448,7 +191460,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15954 [
+  15955 [
     type=online
     state=archived
     label="www.nextpit.de"
@@ -191460,7 +191472,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15955 [
+  15956 [
     type=online
     state=archived
     label="www.nez.de"
@@ -191472,7 +191484,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15956 [
+  15957 [
     type=online
     state=active
     label="www.ngum.de"
@@ -191484,7 +191496,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15957 [
+  15958 [
     type=online
     state=active
     label="www.nh-wochenzeitungen.de"
@@ -191496,7 +191508,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15958 [
+  15959 [
     type=online
     state=active
     label="www.nibelungen-kurier.de"
@@ -191508,7 +191520,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15959 [
+  15960 [
     type=online
     state=active
     label="www.nick.de"
@@ -191520,7 +191532,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15960 [
+  15961 [
     type=online
     state=archived
     label="www.nido.de"
@@ -191532,7 +191544,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15961 [
+  15962 [
     type=online
     state=active
     label="www.niederbayerntv.de"
@@ -191544,7 +191556,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15962 [
+  15963 [
     type=online
     state=active
     label="www.niederrheinanzeiger-dinslaken.de"
@@ -191556,7 +191568,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15963 [
+  15964 [
     type=online
     state=active
     label="www.niedersaechsischer-jaeger.de"
@@ -191568,7 +191580,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15964 [
+  15965 [
     type=online
     state=active
     label="www.niendorfer-wochenblatt.de"
@@ -191580,7 +191592,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15965 [
+  15966 [
     type=online
     state=active
     label="www.nitro-tv.de"
@@ -191592,7 +191604,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15966 [
+  15967 [
     type=online
     state=active
     label="www.nius.de"
@@ -191604,7 +191616,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15967 [
+  15968 [
     type=online
     state=active
     label="www.nn.de"
@@ -191616,7 +191628,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15968 [
+  15969 [
     type=online
     state=active
     label="www.nnn.de"
@@ -191628,7 +191640,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15969 [
+  15970 [
     type=online
     state=archived
     label="www.nnn.de"
@@ -191640,7 +191652,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15970 [
+  15971 [
     type=online
     state=archived
     label="www.nnp.de"
@@ -191652,7 +191664,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15971 [
+  15972 [
     type=online
     state=active
     label="www.nnp.de"
@@ -191664,7 +191676,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15972 [
+  15973 [
     type=online
     state=active
     label="www.noa4.de"
@@ -191676,7 +191688,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15973 [
+  15974 [
     type=online
     state=active
     label="www.nobilis.de"
@@ -191688,7 +191700,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15974 [
+  15975 [
     type=online
     state=archived
     label="www.noizz.de"
@@ -191700,7 +191712,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15975 [
+  15976 [
     type=online
     state=active
     label="www.nord24.de"
@@ -191712,7 +191724,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15976 [
+  15977 [
     type=online
     state=active
     label="www.nordbayerische-nachrichten.de"
@@ -191724,7 +191736,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15977 [
+  15978 [
     type=online
     state=active
     label="www.nordbayerischer-kurier.de"
@@ -191736,7 +191748,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15978 [
+  15979 [
     type=online
     state=active
     label="www.nordbayern.de"
@@ -191748,7 +191760,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15979 [
+  15980 [
     type=online
     state=archived
     label="www.nordbuzz.de"
@@ -191760,7 +191772,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15980 [
+  15981 [
     type=online
     state=active
     label="www.norderneyer-badezeitung.de"
@@ -191772,7 +191784,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15981 [
+  15982 [
     type=online
     state=archived
     label="www.nordicsports.de"
@@ -191784,7 +191796,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15982 [
+  15983 [
     type=online
     state=archived
     label="www.nordis.de"
@@ -191796,7 +191808,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15983 [
+  15984 [
     type=online
     state=active
     label="www.nordkurier.de"
@@ -191808,7 +191820,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15984 [
+  15985 [
     type=online
     state=active
     label="www.nordschleswiger.dk"
@@ -191820,7 +191832,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15985 [
+  15986 [
     type=online
     state=active
     label="www.nordsee-zeitung.de"
@@ -191832,7 +191844,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15986 [
+  15987 [
     type=online
     state=archived
     label="www.nordsee-zeitung.de"
@@ -191844,7 +191856,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15987 [
+  15988 [
     type=online
     state=active
     label="www.nordwest-sonntagsblatt.de"
@@ -191856,7 +191868,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15988 [
+  15989 [
     type=online
     state=active
     label="www.nordwirtschaft.de"
@@ -191868,7 +191880,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15989 [
+  15990 [
     type=online
     state=active
     label="www.northeimer-neueste-nachrichten.de"
@@ -191880,7 +191892,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  15990 [
+  15991 [
     type=online
     state=active
     label="www.nostalgie-radio.de"
@@ -191892,7 +191904,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15991 [
+  15992 [
     type=online
     state=archived
     label="www.notebooksbilliger.de"
@@ -191904,7 +191916,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  15992 [
+  15993 [
     type=online
     state=active
     label="www.novumfm.de"
@@ -191916,7 +191928,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15993 [
+  15994 [
     type=online
     state=active
     label="www.noxx.de"
@@ -191928,7 +191940,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15994 [
+  15995 [
     type=online
     state=active
     label="www.noz.de/bersenbruecker-kreisblatt"
@@ -191940,7 +191952,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15995 [
+  15996 [
     type=online
     state=active
     label="www.noz.de/bramscher-nachrichten"
@@ -191952,7 +191964,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15996 [
+  15997 [
     type=online
     state=active
     label="www.noz.de/ems-zeitung"
@@ -191964,7 +191976,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15997 [
+  15998 [
     type=online
     state=active
     label="www.noz.de/lingener-tagespost"
@@ -191976,7 +191988,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15998 [
+  15999 [
     type=online
     state=active
     label="www.noz.de/meller-kreisblatt"
@@ -191988,7 +192000,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  15999 [
+  16000 [
     type=online
     state=active
     label="www.noz.de/meppener-tagespost"
@@ -192000,7 +192012,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16000 [
+  16001 [
     type=online
     state=active
     label="www.noz.de/neue-oz"
@@ -192012,7 +192024,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16001 [
+  16002 [
     type=online
     state=active
     label="www.noz.de/wittlager-kreisblatt"
@@ -192024,7 +192036,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16002 [
+  16003 [
     type=online
     state=active
     label="www.np-coburg.de"
@@ -192036,7 +192048,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16003 [
+  16004 [
     type=online
     state=active
     label="www.nplus-nuertingen.de"
@@ -192048,7 +192060,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16004 [
+  16005 [
     type=online
     state=active
     label="www.nq-online.de"
@@ -192060,7 +192072,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16005 [
+  16006 [
     type=online
     state=active
     label="www.nrw1.de"
@@ -192072,7 +192084,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16006 [
+  16007 [
     type=online
     state=active
     label="www.nrz.de"
@@ -192084,7 +192096,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16007 [
+  16008 [
     type=online
     state=active
     label="www.ntz.de"
@@ -192096,7 +192108,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16008 [
+  16009 [
     type=online
     state=active
     label="www.nuernberg.de"
@@ -192108,7 +192120,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16009 [
+  16010 [
     type=online
     state=archived
     label="www.nurtv.de"
@@ -192120,7 +192132,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16010 [
+  16011 [
     type=online
     state=active
     label="www.nuz.de"
@@ -192132,7 +192144,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16011 [
+  16012 [
     type=online
     state=active
     label="www.nw.de"
@@ -192144,7 +192156,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16012 [
+  16013 [
     type=online
     state=active
     label="www.nwzonline.de"
@@ -192156,7 +192168,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16013 [
+  16014 [
     type=online
     state=active
     label="www.nzz.ch"
@@ -192168,7 +192180,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16014 [
+  16015 [
     type=online
     state=active
     label="www.oberhessische-zeitung.de"
@@ -192180,7 +192192,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16015 [
+  16016 [
     type=online
     state=archived
     label="www.oberlausitztv.de"
@@ -192192,7 +192204,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16016 [
+  16017 [
     type=online
     state=active
     label="www.obermain.de"
@@ -192204,7 +192216,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16017 [
+  16018 [
     type=online
     state=active
     label="www.obst-und-garten.de"
@@ -192216,7 +192228,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16018 [
+  16019 [
     type=online
     state=archived
     label="www.oc-projects.de"
@@ -192228,7 +192240,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16019 [
+  16020 [
     type=online
     state=active
     label="www.oderland.tv"
@@ -192240,7 +192252,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16020 [
+  16021 [
     type=online
     state=active
     label="www.oderwelle.de"
@@ -192252,7 +192264,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16021 [
+  16022 [
     type=online
     state=archived
     label="www.odf-tv.de"
@@ -192264,7 +192276,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16022 [
+  16023 [
     type=online
     state=active
     label="www.odw-journal.de"
@@ -192276,7 +192288,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16023 [
+  16024 [
     type=online
     state=active
     label="www.oeffentlicher-dienst.de"
@@ -192288,7 +192300,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16024 [
+  16025 [
     type=online
     state=archived
     label="www.oekologisch-erfolgreich.de"
@@ -192300,7 +192312,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16025 [
+  16026 [
     type=online
     state=active
     label="www.oekotest.de"
@@ -192312,7 +192324,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16026 [
+  16027 [
     type=online
     state=active
     label="www.of-tv.de"
@@ -192324,7 +192336,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16027 [
+  16028 [
     type=online
     state=archived
     label="www.ofenwelten.de"
@@ -192336,7 +192348,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16028 [
+  16029 [
     type=online
     state=active
     label="www.ofenwelten.de"
@@ -192348,7 +192360,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16029 [
+  16030 [
     type=online
     state=active
     label="www.off-road.de"
@@ -192360,7 +192372,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16030 [
+  16031 [
     type=online
     state=active
     label="www.offiziellecharts.de"
@@ -192372,7 +192384,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16031 [
+  16032 [
     type=online
     state=active
     label="www.ohrfunk.de"
@@ -192384,7 +192396,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16032 [
+  16033 [
     type=online
     state=active
     label="www.ohrsicht-radio.de"
@@ -192396,7 +192408,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16033 [
+  16034 [
     type=online
     state=active
     label="www.ok-magazin.de"
@@ -192408,7 +192420,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16034 [
+  16035 [
     type=online
     state=active
     label="www.olaura.de"
@@ -192420,7 +192432,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16035 [
+  16036 [
     type=online
     state=archived
     label="www.oldenburgerinternational.de"
@@ -192432,7 +192444,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16036 [
+  16037 [
     type=online
     state=active
     label="www.oldie-antenne.de"
@@ -192444,7 +192456,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16037 [
+  16038 [
     type=online
     state=active
     label="www.oldiewelle.com"
@@ -192456,7 +192468,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16038 [
+  16039 [
     type=online
     state=active
     label="www.oldtimer-markt.de"
@@ -192468,7 +192480,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16039 [
+  16040 [
     type=online
     state=archived
     label="www.om-online.de"
@@ -192480,7 +192492,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16040 [
+  16041 [
     type=online
     state=active
     label="www.om-online.de"
@@ -192492,7 +192504,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16041 [
+  16042 [
     type=online
     state=active
     label="www.om-online.de/wochenblatt"
@@ -192504,7 +192516,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16042 [
+  16043 [
     type=online
     state=active
     label="www.omnibusrevue.de"
@@ -192516,7 +192528,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16043 [
+  16044 [
     type=online
     state=active
     label="www.on-online.de"
@@ -192528,7 +192540,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16044 [
+  16045 [
     type=online
     state=archived
     label="www.onefootball.com"
@@ -192540,7 +192552,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16045 [
+  16046 [
     type=online
     state=active
     label="www.onetz.de"
@@ -192552,7 +192564,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16046 [
+  16047 [
     type=online
     state=active
     label="www.onetz.de/owz"
@@ -192564,7 +192576,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16047 [
+  16048 [
     type=online
     state=active
     label="www.onmeda.de"
@@ -192576,7 +192588,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16048 [
+  16049 [
     type=online
     state=archived
     label="www.onpulson.de"
@@ -192588,7 +192600,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16049 [
+  16050 [
     type=online
     state=active
     label="www.onvista.de"
@@ -192600,7 +192612,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16050 [
+  16051 [
     type=online
     state=active
     label="www.op-marburg.de"
@@ -192612,7 +192624,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16051 [
+  16052 [
     type=online
     state=active
     label="www.op-online.de"
@@ -192624,7 +192636,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16052 [
+  16053 [
     type=online
     state=archived
     label="www.opodo.de"
@@ -192636,7 +192648,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16053 [
+  16054 [
     type=online
     state=active
     label="www.ora-anzeigenblaetter.de"
@@ -192648,7 +192660,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16054 [
+  16055 [
     type=online
     state=archived
     label="www.orange.handelsblatt.com"
@@ -192660,7 +192672,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16055 [
+  16056 [
     type=online
     state=active
     label="www.oranienburger-generalanzeiger.de"
@@ -192672,7 +192684,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16056 [
+  16057 [
     type=online
     state=active
     label="www.orf.at"
@@ -192684,7 +192696,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16057 [
+  16058 [
     type=online
     state=archived
     label="www.ortsdienst.de"
@@ -192696,7 +192708,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16058 [
+  16059 [
     type=online
     state=active
     label="www.oscar-am-freitag.de"
@@ -192708,7 +192720,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16059 [
+  16060 [
     type=online
     state=active
     label="www.osftv.de"
@@ -192720,7 +192732,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16060 [
+  16061 [
     type=online
     state=active
     label="www.osnabruecker-nachrichten.de"
@@ -192732,7 +192744,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16061 [
+  16062 [
     type=online
     state=active
     label="www.ossweiler-nachrichten.de"
@@ -192744,7 +192756,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16062 [
+  16063 [
     type=online
     state=active
     label="www.osterhofener-zeitung.de"
@@ -192756,7 +192768,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16063 [
+  16064 [
     type=online
     state=active
     label="www.osterland-sonntag.de"
@@ -192768,7 +192780,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16064 [
+  16065 [
     type=online
     state=active
     label="www.ostfriesischer-kurier.de"
@@ -192780,7 +192792,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16065 [
+  16066 [
     type=online
     state=active
     label="www.ostfriesland-magazin.de"
@@ -192792,7 +192804,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16066 [
+  16067 [
     type=online
     state=active
     label="www.osthessen-news.de"
@@ -192804,7 +192816,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16067 [
+  16068 [
     type=online
     state=active
     label="www.ostsee-zeitung.de"
@@ -192816,19 +192828,19 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16068 [
+  16069 [
     type=online
     state=active
     label="www.ostseewelle.de"
-    num_owners=366
-    num_owners_weighted=14.7265
+    num_owners=365
+    num_owners_weighted=13.7265
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1adabf-694a-43bd-a362-e204be6d2bcf"
     in_degree=1
     out_degree=0
   ];
-  16069 [
+  16070 [
     type=online
     state=active
     label="www.ostwest.tv"
@@ -192840,7 +192852,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16070 [
+  16071 [
     type=online
     state=active
     label="www.otv.de"
@@ -192852,7 +192864,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16071 [
+  16072 [
     type=online
     state=active
     label="www.otz.de"
@@ -192864,7 +192876,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16072 [
+  16073 [
     type=online
     state=active
     label="www.out.tv"
@@ -192876,7 +192888,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16073 [
+  16074 [
     type=online
     state=active
     label="www.outdoor-magazin.com"
@@ -192888,7 +192900,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16074 [
+  16075 [
     type=online
     state=archived
     label="www.outdoor-welten.de"
@@ -192900,7 +192912,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16075 [
+  16076 [
     type=online
     state=archived
     label="www.outdooractive.com"
@@ -192912,7 +192924,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16076 [
+  16077 [
     type=online
     state=active
     label="www.outdoorchannel.de"
@@ -192924,7 +192936,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16077 [
+  16078 [
     type=online
     state=active
     label="www.ovb-online.de"
@@ -192936,7 +192948,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16078 [
+  16079 [
     type=online
     state=archived
     label="www.ovb24.de"
@@ -192948,7 +192960,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16079 [
+  16080 [
     type=online
     state=archived
     label="www.owl-am-sonntag.de"
@@ -192960,7 +192972,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16080 [
+  16081 [
     type=online
     state=active
     label="www.oz-online.de"
@@ -192972,7 +192984,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16081 [
+  16082 [
     type=online
     state=archived
     label="www.p-stadtkultur.de"
@@ -192984,7 +192996,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16082 [
+  16083 [
     type=online
     state=active
     label="www.p-stadtkultur.de"
@@ -192996,7 +193008,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16083 [
+  16084 [
     type=online
     state=active
     label="www.pafnet.tv"
@@ -193008,7 +193020,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16084 [
+  16085 [
     type=online
     state=active
     label="www.page-online.de"
@@ -193020,7 +193032,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16085 [
+  16086 [
     type=online
     state=active
     label="www.palstek.de"
@@ -193032,7 +193044,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16086 [
+  16087 [
     type=online
     state=active
     label="www.panorama-am-sonntag.de"
@@ -193044,7 +193056,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16087 [
+  16088 [
     type=online
     state=active
     label="www.paradisi.de"
@@ -193056,7 +193068,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16088 [
+  16089 [
     type=online
     state=active
     label="www.paradiso-nord.de"
@@ -193068,7 +193080,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16089 [
+  16090 [
     type=online
     state=active
     label="www.paradiso.de"
@@ -193080,7 +193092,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16090 [
+  16091 [
     type=online
     state=active
     label="www.paramountplus.com/de"
@@ -193092,7 +193104,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16091 [
+  16092 [
     type=online
     state=archived
     label="www.pardon-magazin.de"
@@ -193104,7 +193116,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16092 [
+  16093 [
     type=online
     state=archived
     label="www.partner-hund.de"
@@ -193116,7 +193128,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16093 [
+  16094 [
     type=online
     state=active
     label="www.passau.niederbayerntv.de"
@@ -193128,7 +193140,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16094 [
+  16095 [
     type=online
     state=active
     label="www.passauer-bistumsblatt.de"
@@ -193140,7 +193152,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16095 [
+  16096 [
     type=online
     state=active
     label="www.paulinus.de"
@@ -193152,7 +193164,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16096 [
+  16097 [
     type=online
     state=active
     label="www.paz-online.de"
@@ -193164,7 +193176,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16097 [
+  16098 [
     type=online
     state=active
     label="www.pc-magazin.de"
@@ -193176,7 +193188,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16098 [
+  16099 [
     type=online
     state=active
     label="www.pc-magazin.de/pcgo"
@@ -193188,7 +193200,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16099 [
+  16100 [
     type=online
     state=archived
     label="www.pcaction.de"
@@ -193200,7 +193212,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16100 [
+  16101 [
     type=online
     state=active
     label="www.pcgames.de"
@@ -193212,7 +193224,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16101 [
+  16102 [
     type=online
     state=active
     label="www.pcgameshardware.de"
@@ -193224,7 +193236,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16102 [
+  16103 [
     type=online
     state=active
     label="www.pctipp.ch"
@@ -193236,7 +193248,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16103 [
+  16104 [
     type=online
     state=active
     label="www.pcwelt.de"
@@ -193248,7 +193260,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16104 [
+  16105 [
     type=online
     state=active
     label="www.pearl.de/tv"
@@ -193260,7 +193272,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16105 [
+  16106 [
     type=online
     state=active
     label="www.pegnitz-zeitung.de"
@@ -193272,7 +193284,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16106 [
+  16107 [
     type=online
     state=active
     label="www.peiner-nachrichten.de"
@@ -193284,7 +193296,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16107 [
+  16108 [
     type=online
     state=active
     label="www.pelioneradio.de"
@@ -193296,7 +193308,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16108 [
+  16109 [
     type=online
     state=archived
     label="www.penny.de"
@@ -193308,7 +193320,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16109 [
+  16110 [
     type=online
     state=active
     label="www.penzberger-merkur.de"
@@ -193320,7 +193332,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16110 [
+  16111 [
     type=online
     state=archived
     label="www.peoplecheck.de"
@@ -193332,7 +193344,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16111 [
+  16112 [
     type=online
     state=active
     label="www.petbook.de"
@@ -193344,7 +193356,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16112 [
+  16113 [
     type=online
     state=active
     label="www.petra.de"
@@ -193356,7 +193368,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16113 [
+  16114 [
     type=online
     state=archived
     label="www.petspot.de"
@@ -193368,7 +193380,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16114 [
+  16115 [
     type=online
     state=active
     label="www.pf-magazin.de"
@@ -193380,7 +193392,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16115 [
+  16116 [
     type=online
     state=active
     label="www.pfaffenhofener-kurier.de"
@@ -193392,7 +193404,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16116 [
+  16117 [
     type=online
     state=active
     label="www.pferd-und-sport.de"
@@ -193404,7 +193416,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16117 [
+  16118 [
     type=online
     state=active
     label="www.pharma-food.de"
@@ -193416,7 +193428,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16118 [
+  16119 [
     type=online
     state=active
     label="www.pharmazeutische-zeitung.de"
@@ -193428,7 +193440,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16119 [
+  16120 [
     type=online
     state=active
     label="www.philapress.de"
@@ -193440,7 +193452,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16120 [
+  16121 [
     type=online
     state=active
     label="www.phoenix.de"
@@ -193452,7 +193464,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16121 [
+  16122 [
     type=online
     state=active
     label="www.phonostar.de"
@@ -193464,7 +193476,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16122 [
+  16123 [
     type=online
     state=active
     label="www.pilger-speyer.de"
@@ -193476,7 +193488,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16123 [
+  16124 [
     type=online
     state=active
     label="www.pinkchannel.net"
@@ -193488,7 +193500,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16124 [
+  16125 [
     type=online
     state=active
     label="www.pirmasenser-zeitung.de"
@@ -193500,7 +193512,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16125 [
+  16126 [
     type=online
     state=archived
     label="www.pirna-tv.de"
@@ -193512,7 +193524,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16126 [
+  16127 [
     type=online
     state=active
     label="www.pirna-tv.de"
@@ -193524,7 +193536,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16127 [
+  16128 [
     type=online
     state=active
     label="www.pirsch.de"
@@ -193536,7 +193548,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16128 [
+  16129 [
     type=online
     state=archived
     label="www.plaerrer.de"
@@ -193548,7 +193560,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16129 [
+  16130 [
     type=online
     state=active
     label="www.planet-wissen.de"
@@ -193560,7 +193572,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16130 [
+  16131 [
     type=online
     state=active
     label="www.planetoftech.de"
@@ -193572,7 +193584,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16131 [
+  16132 [
     type=online
     state=active
     label="www.planetoutdoor.de"
@@ -193584,7 +193596,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16132 [
+  16133 [
     type=online
     state=active
     label="www.planetradio.de"
@@ -193596,7 +193608,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16133 [
+  16134 [
     type=online
     state=archived
     label="www.planetsnow.de"
@@ -193608,7 +193620,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16134 [
+  16135 [
     type=online
     state=active
     label="www.plattlinger-anzeiger.de"
@@ -193620,7 +193632,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16135 [
+  16136 [
     type=online
     state=active
     label="www.plattlinger-zeitung.de"
@@ -193632,7 +193644,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16136 [
+  16137 [
     type=online
     state=active
     label="www.playboy.de"
@@ -193644,7 +193656,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16137 [
+  16138 [
     type=online
     state=active
     label="www.plus-magazin.com"
@@ -193656,7 +193668,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16138 [
+  16139 [
     type=online
     state=active
     label="www.plus.rtl.de"
@@ -193668,7 +193680,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16139 [
+  16140 [
     type=online
     state=active
     label="www.pluto.tv"
@@ -193680,7 +193692,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16140 [
+  16141 [
     type=online
     state=active
     label="www.pm-wissen.com"
@@ -193692,7 +193704,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16141 [
+  16142 [
     type=online
     state=active
     label="www.pnn.de"
@@ -193704,7 +193716,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16142 [
+  16143 [
     type=online
     state=active
     label="www.pnp.de"
@@ -193716,7 +193728,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16143 [
+  16144 [
     type=online
     state=active
     label="www.pnp.de/bgl_anzeigenpost"
@@ -193728,7 +193740,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16144 [
+  16145 [
     type=online
     state=active
     label="www.pocketpc.ch"
@@ -193740,7 +193752,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16145 [
+  16146 [
     type=online
     state=archived
     label="www.pons.de"
@@ -193752,7 +193764,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16146 [
+  16147 [
     type=online
     state=active
     label="www.power-radio.de"
@@ -193764,7 +193776,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16147 [
+  16148 [
     type=online
     state=archived
     label="www.praktikum.info"
@@ -193776,7 +193788,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16148 [
+  16149 [
     type=online
     state=archived
     label="www.praxisvita.de"
@@ -193788,7 +193800,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16149 [
+  16150 [
     type=online
     state=archived
     label="www.preissuchmaschine.de"
@@ -193800,7 +193812,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16150 [
+  16151 [
     type=online
     state=archived
     label="www.preisvergleich.de"
@@ -193812,7 +193824,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16151 [
+  16152 [
     type=online
     state=active
     label="www.presseportal.de"
@@ -193824,7 +193836,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16152 [
+  16153 [
     type=online
     state=active
     label="www.prignitzer.de"
@@ -193836,7 +193848,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16153 [
+  16154 [
     type=online
     state=active
     label="www.prima-sonntag.de"
@@ -193848,7 +193860,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16154 [
+  16155 [
     type=online
     state=active
     label="www.prima-wochenende.de"
@@ -193860,7 +193872,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16155 [
+  16156 [
     type=online
     state=active
     label="www.primavera24.de"
@@ -193872,7 +193884,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16156 [
+  16157 [
     type=online
     state=archived
     label="www.primavera24.tv"
@@ -193884,7 +193896,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16157 [
+  16158 [
     type=online
     state=archived
     label="www.primoleben.de"
@@ -193896,7 +193908,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16158 [
+  16159 [
     type=online
     state=active
     label="www.print.de"
@@ -193908,7 +193920,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16159 [
+  16160 [
     type=online
     state=active
     label="www.prinz.de"
@@ -193920,7 +193932,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16160 [
+  16161 [
     type=online
     state=active
     label="www.prisma.de"
@@ -193932,7 +193944,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16161 [
+  16162 [
     type=online
     state=active
     label="www.pro-magazin.de"
@@ -193944,7 +193956,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16162 [
+  16163 [
     type=online
     state=active
     label="www.probsteer.de"
@@ -193956,7 +193968,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16163 [
+  16164 [
     type=online
     state=active
     label="www.procontra-online.de"
@@ -193968,7 +193980,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16164 [
+  16165 [
     type=online
     state=archived
     label="www.produits.de"
@@ -193980,7 +193992,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16165 [
+  16166 [
     type=online
     state=archived
     label="www.produktion.de"
@@ -193992,7 +194004,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16166 [
+  16167 [
     type=online
     state=active
     label="www.professional-system.de"
@@ -194004,7 +194016,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16167 [
+  16168 [
     type=online
     state=active
     label="www.profifoto.de"
@@ -194016,7 +194028,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16168 [
+  16169 [
     type=online
     state=active
     label="www.prometheus-tv.de"
@@ -194028,7 +194040,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16169 [
+  16170 [
     type=online
     state=active
     label="www.promiboom.de"
@@ -194040,7 +194052,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16170 [
+  16171 [
     type=online
     state=active
     label="www.promiflash.de"
@@ -194052,7 +194064,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16171 [
+  16172 [
     type=online
     state=active
     label="www.promipool.de"
@@ -194064,7 +194076,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16172 [
+  16173 [
     type=online
     state=archived
     label="www.promivideo.de"
@@ -194076,7 +194088,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16173 [
+  16174 [
     type=online
     state=active
     label="www.promobil.de"
@@ -194088,7 +194100,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16174 [
+  16175 [
     type=online
     state=active
     label="www.prosieben.de"
@@ -194100,7 +194112,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16175 [
+  16176 [
     type=online
     state=active
     label="www.prosiebenfun.de"
@@ -194112,7 +194124,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16176 [
+  16177 [
     type=online
     state=active
     label="www.prosiebengames.de"
@@ -194124,7 +194136,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16177 [
+  16178 [
     type=online
     state=active
     label="www.prosiebenmaxx.de"
@@ -194136,7 +194148,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16178 [
+  16179 [
     type=online
     state=archived
     label="www.prosiebensat1welt.com"
@@ -194148,7 +194160,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16179 [
+  16180 [
     type=online
     state=active
     label="www.ps-online.de"
@@ -194160,7 +194172,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16180 [
+  16181 [
     type=online
     state=active
     label="www.psychologie-heute.de"
@@ -194172,7 +194184,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16181 [
+  16182 [
     type=online
     state=active
     label="www.ptaheute.de"
@@ -194184,7 +194196,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16182 [
+  16183 [
     type=online
     state=active
     label="www.publik-forum.de"
@@ -194196,7 +194208,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16183 [
+  16184 [
     type=online
     state=active
     label="www.publik.verdi.de"
@@ -194208,7 +194220,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16184 [
+  16185 [
     type=online
     state=active
     label="www.puls-gesundheitsmagazin.de"
@@ -194220,7 +194232,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16185 [
+  16186 [
     type=online
     state=active
     label="www.punktum-fernsehen.de"
@@ -194232,7 +194244,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16186 [
+  16187 [
     type=online
     state=archived
     label="www.puppen-und-spielzeug.de"
@@ -194244,7 +194256,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16187 [
+  16188 [
     type=online
     state=active
     label="www.pure-fm.de"
@@ -194256,7 +194268,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16188 [
+  16189 [
     type=online
     state=active
     label="www.pz-news.de"
@@ -194268,7 +194280,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16189 [
+  16190 [
     type=online
     state=archived
     label="www.qiez.de"
@@ -194280,7 +194292,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16190 [
+  16191 [
     type=online
     state=active
     label="www.querfunk.de"
@@ -194292,7 +194304,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16191 [
+  16192 [
     type=online
     state=archived
     label="www.quipp.show"
@@ -194304,7 +194316,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16192 [
+  16193 [
     type=online
     state=active
     label="www.quotenmeter.de"
@@ -194316,7 +194328,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16193 [
+  16194 [
     type=online
     state=active
     label="www.qvc.de"
@@ -194328,7 +194340,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16194 [
+  16195 [
     type=online
     state=archived
     label="www.rad-und-kette.de"
@@ -194340,7 +194352,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16195 [
+  16196 [
     type=online
     state=active
     label="www.radfahren.de"
@@ -194352,7 +194364,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16196 [
+  16197 [
     type=online
     state=active
     label="www.radio-augsburg.de"
@@ -194364,7 +194376,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16197 [
+  16198 [
     type=online
     state=active
     label="www.radio-bamberg.de"
@@ -194376,7 +194388,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16198 [
+  16199 [
     type=online
     state=active
     label="www.radio-charivari.de"
@@ -194388,7 +194400,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16199 [
+  16200 [
     type=online
     state=active
     label="www.radio-enno.de"
@@ -194400,7 +194412,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16200 [
+  16201 [
     type=online
     state=active
     label="www.radio-fds.de"
@@ -194412,7 +194424,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16201 [
+  16202 [
     type=online
     state=active
     label="www.radio-flensburg.de"
@@ -194424,7 +194436,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16202 [
+  16203 [
     type=online
     state=active
     label="www.radio-fratz.de"
@@ -194436,7 +194448,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16203 [
+  16204 [
     type=online
     state=active
     label="www.radio-frei.de"
@@ -194448,7 +194460,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16204 [
+  16205 [
     type=online
     state=active
     label="www.radio-galaxy.com"
@@ -194460,7 +194472,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16205 [
+  16206 [
     type=online
     state=active
     label="www.radio-hannover.de"
@@ -194472,7 +194484,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16206 [
+  16207 [
     type=online
     state=active
     label="www.radio-hbw.de"
@@ -194484,7 +194496,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16207 [
+  16208 [
     type=online
     state=active
     label="www.radio-in.de"
@@ -194496,7 +194508,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16208 [
+  16209 [
     type=online
     state=active
     label="www.radio-koe.com"
@@ -194508,7 +194520,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16209 [
+  16210 [
     type=online
     state=active
     label="www.radio-livelive.de"
@@ -194520,7 +194532,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16210 [
+  16211 [
     type=online
     state=active
     label="www.radio-meilensteine.de"
@@ -194532,7 +194544,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16211 [
+  16212 [
     type=online
     state=archived
     label="www.radio-mittweida.de"
@@ -194544,7 +194556,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16212 [
+  16213 [
     type=online
     state=active
     label="www.radio-nordseewelle.de"
@@ -194556,7 +194568,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16213 [
+  16214 [
     type=online
     state=active
     label="www.radio-oberland.de"
@@ -194568,7 +194580,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16214 [
+  16215 [
     type=online
     state=archived
     label="www.radio-oberlausitz-international.de"
@@ -194580,7 +194592,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16215 [
+  16216 [
     type=online
     state=active
     label="www.radio-okj.de"
@@ -194592,7 +194604,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16216 [
+  16217 [
     type=online
     state=active
     label="www.radio-opera.de"
@@ -194604,7 +194616,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16217 [
+  16218 [
     type=online
     state=active
     label="www.radio-ostrock.de"
@@ -194616,7 +194628,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16218 [
+  16219 [
     type=online
     state=active
     label="www.radio-plassenburg.de"
@@ -194628,7 +194640,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16219 [
+  16220 [
     type=online
     state=active
     label="www.radio-pos.de"
@@ -194640,7 +194652,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16220 [
+  16221 [
     type=online
     state=active
     label="www.radio-potsdam.de"
@@ -194652,7 +194664,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16221 [
+  16222 [
     type=online
     state=active
     label="www.radio-r.de"
@@ -194664,7 +194676,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16222 [
+  16223 [
     type=online
     state=active
     label="www.radio-rb.de"
@@ -194676,7 +194688,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16223 [
+  16224 [
     type=online
     state=active
     label="www.radio-rheinwelle.de"
@@ -194688,7 +194700,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16224 [
+  16225 [
     type=online
     state=active
     label="www.radio-rum.de"
@@ -194700,7 +194712,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16225 [
+  16226 [
     type=online
     state=active
     label="www.radio-santec.com"
@@ -194712,7 +194724,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16226 [
+  16227 [
     type=online
     state=archived
     label="www.radio-trausnitz.de"
@@ -194724,7 +194736,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16227 [
+  16228 [
     type=online
     state=active
     label="www.radio-unicc.de"
@@ -194736,7 +194748,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16228 [
+  16229 [
     type=online
     state=active
     label="www.radio-vhr.de"
@@ -194748,7 +194760,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16229 [
+  16230 [
     type=online
     state=active
     label="www.radio-wellenrausch.de"
@@ -194760,7 +194772,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16230 [
+  16231 [
     type=online
     state=active
     label="www.radio-z.net"
@@ -194772,7 +194784,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16231 [
+  16232 [
     type=online
     state=active
     label="www.radio.de"
@@ -194784,7 +194796,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16232 [
+  16233 [
     type=online
     state=active
     label="www.radio21.de"
@@ -194796,7 +194808,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16233 [
+  16234 [
     type=online
     state=active
     label="www.radio21.de/nrw"
@@ -194808,7 +194820,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16234 [
+  16235 [
     type=online
     state=active
     label="www.radio2day.de"
@@ -194820,7 +194832,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16235 [
+  16236 [
     type=online
     state=active
     label="www.radio38.de"
@@ -194832,7 +194844,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16236 [
+  16237 [
     type=online
     state=active
     label="www.radio7.de"
@@ -194844,7 +194856,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16237 [
+  16238 [
     type=online
     state=active
     label="www.radio8.de"
@@ -194856,7 +194868,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16238 [
+  16239 [
     type=online
     state=active
     label="www.radio901.de"
@@ -194868,7 +194880,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16239 [
+  16240 [
     type=online
     state=archived
     label="www.radio90vier.de"
@@ -194880,7 +194892,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16240 [
+  16241 [
     type=online
     state=active
     label="www.radio912.de"
@@ -194892,7 +194904,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16241 [
+  16242 [
     type=online
     state=active
     label="www.radioaktiv.org"
@@ -194904,7 +194916,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16242 [
+  16243 [
     type=online
     state=active
     label="www.radioarabella.de"
@@ -194916,7 +194928,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16243 [
+  16244 [
     type=online
     state=active
     label="www.radioberg.de"
@@ -194928,7 +194940,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16244 [
+  16245 [
     type=online
     state=active
     label="www.radiobielefeld.de"
@@ -194940,7 +194952,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16245 [
+  16246 [
     type=online
     state=active
     label="www.radioblau.de"
@@ -194952,7 +194964,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16246 [
+  16247 [
     type=online
     state=active
     label="www.radiobob.de"
@@ -194964,7 +194976,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16247 [
+  16248 [
     type=online
     state=active
     label="www.radiobochum.de"
@@ -194976,7 +194988,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16248 [
+  16249 [
     type=online
     state=active
     label="www.radiobollerwagen.de"
@@ -194988,7 +195000,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16249 [
+  16250 [
     type=online
     state=active
     label="www.radiobonn.de"
@@ -195000,7 +195012,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16250 [
+  16251 [
     type=online
     state=active
     label="www.radiobremen.de"
@@ -195012,7 +195024,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16251 [
+  16252 [
     type=online
     state=active
     label="www.radiobrocken.de"
@@ -195024,7 +195036,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16252 [
+  16253 [
     type=online
     state=archived
     label="www.radiobrocken.de"
@@ -195036,7 +195048,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16253 [
+  16254 [
     type=online
     state=active
     label="www.radiochemnitz.de"
@@ -195048,7 +195060,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16254 [
+  16255 [
     type=online
     state=active
     label="www.radiocorax.de"
@@ -195060,7 +195072,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16255 [
+  16256 [
     type=online
     state=active
     label="www.radiocottbus.de"
@@ -195072,7 +195084,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16256 [
+  16257 [
     type=online
     state=active
     label="www.radiodarmstadt.de"
@@ -195084,7 +195096,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16257 [
+  16258 [
     type=online
     state=active
     label="www.radiodeinfm.de"
@@ -195096,7 +195108,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16258 [
+  16259 [
     type=online
     state=active
     label="www.radiodrei.de"
@@ -195108,7 +195120,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16259 [
+  16260 [
     type=online
     state=active
     label="www.radiodresden.de"
@@ -195120,7 +195132,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16260 [
+  16261 [
     type=online
     state=active
     label="www.radioduisburg.de"
@@ -195132,7 +195144,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16261 [
+  16262 [
     type=online
     state=active
     label="www.radioeins.com"
@@ -195144,7 +195156,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16262 [
+  16263 [
     type=online
     state=active
     label="www.radioeins.de"
@@ -195156,7 +195168,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16263 [
+  16264 [
     type=online
     state=active
     label="www.radioemscherlippe.de"
@@ -195168,7 +195180,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16264 [
+  16265 [
     type=online
     state=active
     label="www.radioenneperuhr.de"
@@ -195180,7 +195192,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16265 [
+  16266 [
     type=online
     state=active
     label="www.radioerft.de"
@@ -195192,7 +195204,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16266 [
+  16267 [
     type=online
     state=active
     label="www.radioerzgebirge-online.de"
@@ -195204,7 +195216,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16267 [
+  16268 [
     type=online
     state=active
     label="www.radioerzgebirge.de"
@@ -195216,7 +195228,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16268 [
+  16269 [
     type=online
     state=active
     label="www.radioessen.de"
@@ -195228,7 +195240,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16269 [
+  16270 [
     type=online
     state=active
     label="www.radioeuskirchen.de"
@@ -195240,7 +195252,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16270 [
+  16271 [
     type=online
     state=active
     label="www.radiof.de"
@@ -195252,7 +195264,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16271 [
+  16272 [
     type=online
     state=active
     label="www.radiofrankfurt.de"
@@ -195264,7 +195276,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16272 [
+  16273 [
     type=online
     state=active
     label="www.radiogalaxy.de"
@@ -195276,7 +195288,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16273 [
+  16274 [
     type=online
     state=active
     label="www.radioginseng.de"
@@ -195288,7 +195300,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16274 [
+  16275 [
     type=online
     state=active
     label="www.radiogold.de"
@@ -195300,7 +195312,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16275 [
+  16276 [
     type=online
     state=active
     label="www.radiogong.com"
@@ -195312,7 +195324,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16276 [
+  16277 [
     type=online
     state=active
     label="www.radiogong.de"
@@ -195324,7 +195336,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16277 [
+  16278 [
     type=online
     state=active
     label="www.radioguetersloh.de"
@@ -195336,7 +195348,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16278 [
+  16279 [
     type=online
     state=active
     label="www.radiohagen.de"
@@ -195348,7 +195360,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16279 [
+  16280 [
     type=online
     state=active
     label="www.radiohamburg.de"
@@ -195360,7 +195372,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16280 [
+  16281 [
     type=online
     state=active
     label="www.radiohashtagplus.de"
@@ -195372,7 +195384,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16281 [
+  16282 [
     type=online
     state=active
     label="www.radioherford.de"
@@ -195384,7 +195396,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16282 [
+  16283 [
     type=online
     state=active
     label="www.radioherne.de"
@@ -195396,7 +195408,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16283 [
+  16284 [
     type=online
     state=active
     label="www.radiohochstift.de"
@@ -195408,7 +195420,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16284 [
+  16285 [
     type=online
     state=active
     label="www.radioholiday.de"
@@ -195420,7 +195432,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16285 [
+  16286 [
     type=online
     state=active
     label="www.radioinpulz.de"
@@ -195432,7 +195444,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16286 [
+  16287 [
     type=online
     state=active
     label="www.radiokiepenkerl.de"
@@ -195444,7 +195456,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16287 [
+  16288 [
     type=online
     state=active
     label="www.radiokoeln.de"
@@ -195456,7 +195468,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16288 [
+  16289 [
     type=online
     state=active
     label="www.radiokw.de"
@@ -195468,7 +195480,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16289 [
+  16290 [
     type=online
     state=active
     label="www.radiolausitz.de"
@@ -195480,7 +195492,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16290 [
+  16291 [
     type=online
     state=active
     label="www.radioleipzig.de"
@@ -195492,7 +195504,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16291 [
+  16292 [
     type=online
     state=active
     label="www.radioleverkusen.de"
@@ -195504,7 +195516,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16292 [
+  16293 [
     type=online
     state=active
     label="www.radiolippe.de"
@@ -195516,7 +195528,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16293 [
+  16294 [
     type=online
     state=active
     label="www.radiolotte.de"
@@ -195528,7 +195540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16294 [
+  16295 [
     type=online
     state=active
     label="www.radioluebeck.de"
@@ -195540,7 +195552,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16295 [
+  16296 [
     type=online
     state=active
     label="www.radiome.de"
@@ -195552,7 +195564,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16296 [
+  16297 [
     type=online
     state=active
     label="www.radiomk.de"
@@ -195564,7 +195576,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16297 [
+  16298 [
     type=online
     state=active
     label="www.radiomuelheim.de"
@@ -195576,7 +195588,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16298 [
+  16299 [
     type=online
     state=active
     label="www.radiomuenchen.net"
@@ -195588,7 +195600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16299 [
+  16300 [
     type=online
     state=active
     label="www.radiomw.tv"
@@ -195600,7 +195612,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16300 [
+  16301 [
     type=online
     state=active
     label="www.radioneandertal.de"
@@ -195612,7 +195624,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16301 [
+  16302 [
     type=online
     state=active
     label="www.radionrw.de"
@@ -195624,7 +195636,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16302 [
+  16303 [
     type=online
     state=active
     label="www.radiooberhausen.de"
@@ -195636,7 +195648,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16303 [
+  16304 [
     type=online
     state=active
     label="www.radioosnabrueck.de"
@@ -195648,7 +195660,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16304 [
+  16305 [
     type=online
     state=active
     label="www.radiopaloma.de"
@@ -195660,7 +195672,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16305 [
+  16306 [
     type=online
     state=active
     label="www.radiopark.de"
@@ -195672,7 +195684,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16306 [
+  16307 [
     type=online
     state=active
     label="www.radiopray.de"
@@ -195684,7 +195696,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16307 [
+  16308 [
     type=online
     state=active
     label="www.radioprimaton.de"
@@ -195696,7 +195708,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16308 [
+  16309 [
     type=online
     state=active
     label="www.radiopsr.de"
@@ -195708,7 +195720,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16309 [
+  16310 [
     type=online
     state=active
     label="www.radioregenbogen.de"
@@ -195720,7 +195732,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16310 [
+  16311 [
     type=online
     state=active
     label="www.radioroland.de"
@@ -195732,7 +195744,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16311 [
+  16312 [
     type=online
     state=active
     label="www.radiorsg.de"
@@ -195744,7 +195756,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16312 [
+  16313 [
     type=online
     state=active
     label="www.radiorst.de"
@@ -195756,7 +195768,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16313 [
+  16314 [
     type=online
     state=active
     label="www.radiorur.de"
@@ -195768,7 +195780,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16314 [
+  16315 [
     type=online
     state=active
     label="www.radiosauerland.de"
@@ -195780,7 +195792,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16315 [
+  16316 [
     type=online
     state=active
     label="www.radiosaw.de"
@@ -195792,7 +195804,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16316 [
+  16317 [
     type=online
     state=active
     label="www.radioschwaben.de"
@@ -195804,7 +195816,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16317 [
+  16318 [
     type=online
     state=active
     label="www.radiosiegen.de"
@@ -195816,7 +195828,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16318 [
+  16319 [
     type=online
     state=active
     label="www.radioskw.de"
@@ -195828,7 +195840,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16319 [
+  16320 [
     type=online
     state=active
     label="www.radioslubfurt.de"
@@ -195840,7 +195852,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16320 [
+  16321 [
     type=online
     state=archived
     label="www.radioslubfurt.de"
@@ -195852,7 +195864,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16321 [
+  16322 [
     type=online
     state=active
     label="www.radioteddy.de"
@@ -195864,7 +195876,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16322 [
+  16323 [
     type=online
     state=active
     label="www.radioton.de"
@@ -195876,7 +195888,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16323 [
+  16324 [
     type=online
     state=active
     label="www.radiotop40.de"
@@ -195888,7 +195900,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16324 [
+  16325 [
     type=online
     state=active
     label="www.radiovest.de"
@@ -195900,7 +195912,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16325 [
+  16326 [
     type=online
     state=active
     label="www.radiowaf.de"
@@ -195912,7 +195924,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16326 [
+  16327 [
     type=online
     state=active
     label="www.radiowestfalica.de"
@@ -195924,7 +195936,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16327 [
+  16328 [
     type=online
     state=active
     label="www.radiowmw.de"
@@ -195936,7 +195948,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16328 [
+  16329 [
     type=online
     state=archived
     label="www.radiowsw.de"
@@ -195948,7 +195960,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16329 [
+  16330 [
     type=online
     state=active
     label="www.radiowuppertal.de"
@@ -195960,7 +195972,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16330 [
+  16331 [
     type=online
     state=active
     label="www.radiox.de"
@@ -195972,7 +195984,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16331 [
+  16332 [
     type=online
     state=active
     label="www.radiozwickau.de"
@@ -195984,7 +195996,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16332 [
+  16333 [
     type=online
     state=active
     label="www.radsport-news.com"
@@ -195996,7 +196008,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16333 [
+  16334 [
     type=online
     state=active
     label="www.radsport-rennrad.de"
@@ -196008,7 +196020,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16334 [
+  16335 [
     type=online
     state=active
     label="www.ramasuri.de"
@@ -196020,7 +196032,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16335 [
+  16336 [
     type=online
     state=active
     label="www.ran.de"
@@ -196032,7 +196044,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16336 [
+  16337 [
     type=online
     state=active
     label="www.ran1.de"
@@ -196044,7 +196056,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16337 [
+  16338 [
     type=online
     state=active
     label="www.ranaktive.de"
@@ -196056,7 +196068,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16338 [
+  16339 [
     type=online
     state=archived
     label="www.ranfighting.de"
@@ -196068,7 +196080,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16339 [
+  16340 [
     type=online
     state=archived
     label="www.rap.de"
@@ -196080,7 +196092,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16340 [
+  16341 [
     type=online
     state=archived
     label="www.rapupdate.de"
@@ -196092,7 +196104,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16341 [
+  16342 [
     type=online
     state=active
     label="www.raspberry-pi-geek.de"
@@ -196104,7 +196116,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16342 [
+  16343 [
     type=online
     state=active
     label="www.ratinger-wochenblatt.de"
@@ -196116,7 +196128,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16343 [
+  16344 [
     type=online
     state=active
     label="www.raubfisch.de"
@@ -196128,7 +196140,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16344 [
+  16345 [
     type=online
     state=active
     label="www.rausmagazin.de"
@@ -196140,7 +196152,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16345 [
+  16346 [
     type=online
     state=active
     label="www.rbb-online.de"
@@ -196152,7 +196164,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16346 [
+  16347 [
     type=online
     state=active
     label="www.rbb-online.de/fernsehen"
@@ -196164,7 +196176,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16347 [
+  16348 [
     type=online
     state=active
     label="www.rbb-online.de/rbbkultur"
@@ -196176,7 +196188,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16348 [
+  16349 [
     type=online
     state=active
     label="www.rbb24.de"
@@ -196188,7 +196200,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16349 [
+  16350 [
     type=online
     state=active
     label="www.rbb888.de"
@@ -196200,7 +196212,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16350 [
+  16351 [
     type=online
     state=active
     label="www.rblive.de"
@@ -196212,7 +196224,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16351 [
+  16352 [
     type=online
     state=active
     label="www.rbwonline.de"
@@ -196224,7 +196236,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16352 [
+  16353 [
     type=online
     state=archived
     label="www.rck-tv.de"
@@ -196236,7 +196248,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16353 [
+  16354 [
     type=online
     state=active
     label="www.rdl.de"
@@ -196248,7 +196260,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16354 [
+  16355 [
     type=online
     state=active
     label="www.readersdigest.de"
@@ -196260,7 +196272,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16355 [
+  16356 [
     type=online
     state=archived
     label="www.readmore.de"
@@ -196272,7 +196284,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16356 [
+  16357 [
     type=online
     state=active
     label="www.recklinghaeuser-zeitung.de"
@@ -196284,7 +196296,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16357 [
+  16358 [
     type=online
     state=archived
     label="www.recmag.de"
@@ -196296,7 +196308,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16358 [
+  16359 [
     type=online
     state=active
     label="www.redbull.com"
@@ -196308,7 +196320,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16359 [
+  16360 [
     type=online
     state=active
     label="www.reddit.com"
@@ -196320,7 +196332,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16360 [
+  16361 [
     type=online
     state=active
     label="www.regenbogen.de"
@@ -196332,7 +196344,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16361 [
+  16362 [
     type=online
     state=archived
     label="www.regenbogen2.de"
@@ -196344,7 +196356,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16362 [
+  16363 [
     type=online
     state=active
     label="www.regensburger-zeitung.de"
@@ -196356,7 +196368,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16363 [
+  16364 [
     type=online
     state=active
     label="www.regio-tv.de/regio-tv-bodensee"
@@ -196368,7 +196380,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16364 [
+  16365 [
     type=online
     state=active
     label="www.regio-tv.de/regio-tv-schwaben"
@@ -196380,7 +196392,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16365 [
+  16366 [
     type=online
     state=active
     label="www.regio-tv.de/regio-tv-stuttgart"
@@ -196392,7 +196404,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16366 [
+  16367 [
     type=online
     state=archived
     label="www.regionalfernsehen-coswig.de"
@@ -196404,7 +196416,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16367 [
+  16368 [
     type=online
     state=archived
     label="www.regionalHeute.de"
@@ -196416,7 +196428,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16368 [
+  16369 [
     type=online
     state=active
     label="www.regionalheute.de"
@@ -196428,7 +196440,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16369 [
+  16370 [
     type=online
     state=active
     label="www.regionalspiegel-sachsen.de"
@@ -196440,7 +196452,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16370 [
+  16371 [
     type=online
     state=active
     label="www.regiotv-borna.de"
@@ -196452,7 +196464,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16371 [
+  16372 [
     type=online
     state=active
     label="www.regiotv.de"
@@ -196464,7 +196476,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16372 [
+  16373 [
     type=online
     state=active
     label="www.reichenhaller-tagblatt.de"
@@ -196476,7 +196488,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16373 [
+  16374 [
     type=online
     state=active
     label="www.reise-magazin.com"
@@ -196488,7 +196500,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16374 [
+  16375 [
     type=online
     state=active
     label="www.reise-preise.de"
@@ -196500,7 +196512,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16375 [
+  16376 [
     type=online
     state=archived
     label="www.reise.com"
@@ -196512,7 +196524,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16376 [
+  16377 [
     type=online
     state=active
     label="www.reisefrage.net"
@@ -196524,7 +196536,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16377 [
+  16378 [
     type=online
     state=active
     label="www.reisemobil-international.de"
@@ -196536,7 +196548,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16378 [
+  16379 [
     type=online
     state=archived
     label="www.reisen.de"
@@ -196548,7 +196560,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16379 [
+  16380 [
     type=online
     state=active
     label="www.reisereporter.de"
@@ -196560,7 +196572,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16380 [
+  16381 [
     type=online
     state=archived
     label="www.reiter-pferde.de"
@@ -196572,7 +196584,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16381 [
+  16382 [
     type=online
     state=active
     label="www.reiter-und-pferde.de"
@@ -196584,7 +196596,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16382 [
+  16383 [
     type=online
     state=active
     label="www.reiterjournal.com"
@@ -196596,7 +196608,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16383 [
+  16384 [
     type=online
     state=active
     label="www.reitsport-magazin.net"
@@ -196608,7 +196620,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16384 [
+  16385 [
     type=online
     state=active
     label="www.religionen-entdecken.de"
@@ -196620,7 +196632,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16385 [
+  16386 [
     type=online
     state=active
     label="www.remszeitung.de"
@@ -196632,7 +196644,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16386 [
+  16387 [
     type=online
     state=active
     label="www.rendsburgerleben.de"
@@ -196644,7 +196656,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16387 [
+  16388 [
     type=online
     state=active
     label="www.rennsteig.tv"
@@ -196656,7 +196668,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16388 [
+  16389 [
     type=online
     state=active
     label="www.renovieren.de"
@@ -196668,7 +196680,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16389 [
+  16390 [
     type=online
     state=archived
     label="www.retro-tv.de"
@@ -196680,7 +196692,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16390 [
+  16391 [
     type=online
     state=active
     label="www.reutlinger-nachrichten.de"
@@ -196692,7 +196704,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16391 [
+  16392 [
     type=online
     state=active
     label="www.reutlinger-wochenblatt.de"
@@ -196704,7 +196716,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16392 [
+  16393 [
     type=online
     state=active
     label="www.reviersport.de"
@@ -196716,7 +196728,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16393 [
+  16394 [
     type=online
     state=active
     label="www.rfh-tv.de"
@@ -196728,7 +196740,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16394 [
+  16395 [
     type=online
     state=active
     label="www.rfo.de"
@@ -196740,7 +196752,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16395 [
+  16396 [
     type=online
     state=archived
     label="www.rg-tv.de"
@@ -196752,7 +196764,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16396 [
+  16397 [
     type=online
     state=active
     label="www.rga.de"
@@ -196764,7 +196776,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16397 [
+  16398 [
     type=online
     state=active
     label="www.rheiderland.de"
@@ -196776,7 +196788,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16398 [
+  16399 [
     type=online
     state=archived
     label="www.rhein-main-presse.de"
@@ -196788,7 +196800,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16399 [
+  16400 [
     type=online
     state=active
     label="www.rhein-main-wochenblatt.de"
@@ -196800,7 +196812,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16400 [
+  16401 [
     type=online
     state=active
     label="www.rhein-nahe-direkt.de"
@@ -196812,7 +196824,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16401 [
+  16402 [
     type=online
     state=active
     label="www.rhein-ruhr-magazin.de"
@@ -196824,7 +196836,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16402 [
+  16403 [
     type=online
     state=active
     label="www.rhein-zeitung.de"
@@ -196836,7 +196848,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16403 [
+  16404 [
     type=online
     state=active
     label="www.rheinische-anzeigenblaetter.de"
@@ -196848,7 +196860,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16404 [
+  16405 [
     type=online
     state=archived
     label="www.rheinlandpfalz-fernsehen.de"
@@ -196860,7 +196872,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16405 [
+  16406 [
     type=online
     state=active
     label="www.rheinmaintv.de"
@@ -196872,7 +196884,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16406 [
+  16407 [
     type=online
     state=active
     label="www.rheinmainverlag.de"
@@ -196884,7 +196896,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16407 [
+  16408 [
     type=online
     state=active
     label="www.rheinpfalz.de"
@@ -196896,7 +196908,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16408 [
+  16409 [
     type=online
     state=archived
     label="www.rhoenundsaalepost.de"
@@ -196908,7 +196920,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16409 [
+  16410 [
     type=online
     state=archived
     label="www.rhoenundstreubote.de"
@@ -196920,7 +196932,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16410 [
+  16411 [
     type=online
     state=active
     label="www.rictv.de"
@@ -196932,7 +196944,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16411 [
+  16412 [
     type=online
     state=archived
     label="www.riddim.de"
@@ -196944,7 +196956,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16412 [
+  16413 [
     type=online
     state=active
     label="www.riesa-tv.de"
@@ -196956,7 +196968,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16413 [
+  16414 [
     type=online
     state=active
     label="www.rieser-nachrichten.de"
@@ -196968,7 +196980,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16414 [
+  16415 [
     type=online
     state=active
     label="www.rlptoday.de"
@@ -196980,7 +196992,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16415 [
+  16416 [
     type=online
     state=active
     label="www.rnd.de"
@@ -196992,7 +197004,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16416 [
+  16417 [
     type=online
     state=active
     label="www.rnf.de"
@@ -197004,7 +197016,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16417 [
+  16418 [
     type=online
     state=active
     label="www.rnz.de"
@@ -197016,7 +197028,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16418 [
+  16419 [
     type=online
     state=active
     label="www.roadbike.de"
@@ -197028,7 +197040,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16419 [
+  16420 [
     type=online
     state=active
     label="www.robbreport.de"
@@ -197040,7 +197052,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16420 [
+  16421 [
     type=online
     state=active
     label="www.rockantenne.de"
@@ -197052,7 +197064,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16421 [
+  16422 [
     type=online
     state=active
     label="www.rockantenne.hamburg"
@@ -197064,7 +197076,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16422 [
+  16423 [
     type=online
     state=active
     label="www.rocketbeans.tv"
@@ -197076,7 +197088,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16423 [
+  16424 [
     type=online
     state=active
     label="www.rockfm.de"
@@ -197088,7 +197100,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16424 [
+  16425 [
     type=online
     state=active
     label="www.rockhard.de"
@@ -197100,7 +197112,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16425 [
+  16426 [
     type=online
     state=active
     label="www.rockland.de"
@@ -197112,7 +197124,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16426 [
+  16427 [
     type=online
     state=active
     label="www.rockland.fm"
@@ -197124,7 +197136,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16427 [
+  16428 [
     type=online
     state=active
     label="www.rocks-magazin.de"
@@ -197136,7 +197148,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16428 [
+  16429 [
     type=online
     state=archived
     label="www.rojo.de"
@@ -197148,7 +197160,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16429 [
+  16430 [
     type=online
     state=active
     label="www.rollingstone.de"
@@ -197160,7 +197172,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16430 [
+  16431 [
     type=online
     state=active
     label="www.romance-tv.de"
@@ -197172,7 +197184,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16431 [
+  16432 [
     type=online
     state=active
     label="www.rontv.de"
@@ -197184,7 +197196,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16432 [
+  16433 [
     type=online
     state=active
     label="www.rosenheim24.de"
@@ -197196,7 +197208,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16433 [
+  16434 [
     type=online
     state=archived
     label="www.rosenheimerin.de"
@@ -197208,7 +197220,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16434 [
+  16435 [
     type=online
     state=active
     label="www.rotary.de"
@@ -197220,7 +197232,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16435 [
+  16436 [
     type=online
     state=active
     label="www.rotenburger-kreiszeitung.de"
@@ -197232,7 +197244,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16436 [
+  16437 [
     type=online
     state=active
     label="www.rotenburger-rundschau.de"
@@ -197244,7 +197256,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16437 [
+  16438 [
     type=online
     state=active
     label="www.roth-hilpoltsteiner-volkszeitung.de"
@@ -197256,7 +197268,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16438 [
+  16439 [
     type=online
     state=active
     label="www.rottaler-anzeiger.de"
@@ -197268,7 +197280,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16439 [
+  16440 [
     type=online
     state=active
     label="www.rottenburger-anzeiger.de"
@@ -197280,7 +197292,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16440 [
+  16441 [
     type=online
     state=active
     label="www.rp-online.de"
@@ -197292,7 +197304,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16441 [
+  16442 [
     type=online
     state=active
     label="www.rpr1.de"
@@ -197304,7 +197316,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16442 [
+  16443 [
     type=online
     state=active
     label="www.rs2.de"
@@ -197316,7 +197328,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16443 [
+  16444 [
     type=online
     state=archived
     label="www.rsa-radio.de"
@@ -197328,7 +197340,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16444 [
+  16445 [
     type=online
     state=active
     label="www.rsa-sachsen.de"
@@ -197340,7 +197352,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16445 [
+  16446 [
     type=online
     state=active
     label="www.rsh.de"
@@ -197352,7 +197364,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16446 [
+  16447 [
     type=online
     state=active
     label="www.rt1.de"
@@ -197364,7 +197376,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16447 [
+  16448 [
     type=online
     state=active
     label="www.rtf1.de"
@@ -197376,7 +197388,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16448 [
+  16449 [
     type=online
     state=active
     label="www.rtl-crime.de"
@@ -197388,7 +197400,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16449 [
+  16450 [
     type=online
     state=active
     label="www.rtl-living.de"
@@ -197400,7 +197412,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16450 [
+  16451 [
     type=online
     state=active
     label="www.rtl-passion.de"
@@ -197412,7 +197424,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16451 [
+  16452 [
     type=online
     state=active
     label="www.rtl-super.de"
@@ -197424,7 +197436,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16452 [
+  16453 [
     type=online
     state=active
     label="www.rtl-up.de"
@@ -197436,7 +197448,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16453 [
+  16454 [
     type=online
     state=active
     label="www.rtl.de"
@@ -197448,7 +197460,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16454 [
+  16455 [
     type=online
     state=active
     label="www.rtl.de/news/rtl-nord/hamburg-schleswig-holstein"
@@ -197460,7 +197472,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16455 [
+  16456 [
     type=online
     state=active
     label="www.rtl.de/news/rtl-nord/niedersachsen-bremen"
@@ -197472,7 +197484,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16456 [
+  16457 [
     type=online
     state=active
     label="www.rtl.de/rtl-hessen"
@@ -197484,7 +197496,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16457 [
+  16458 [
     type=online
     state=active
     label="www.rtl.de/rtl-west"
@@ -197496,7 +197508,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16458 [
+  16459 [
     type=online
     state=active
     label="www.rtl2.de"
@@ -197508,7 +197520,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16459 [
+  16460 [
     type=online
     state=active
     label="www.rtlradio.de"
@@ -197520,7 +197532,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16460 [
+  16461 [
     type=online
     state=archived
     label="www.rtlup.de"
@@ -197532,7 +197544,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16461 [
+  16462 [
     type=online
     state=archived
     label="www.rtlup.de"
@@ -197544,7 +197556,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16462 [
+  16463 [
     type=online
     state=archived
     label="www.rtv.de"
@@ -197556,7 +197568,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16463 [
+  16464 [
     type=online
     state=active
     label="www.rudersport-magazin.de"
@@ -197568,7 +197580,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16464 [
+  16465 [
     type=online
     state=active
     label="www.ruegentv.de"
@@ -197580,7 +197592,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16465 [
+  16466 [
     type=online
     state=active
     label="www.ruesselsheimer-echo.de"
@@ -197592,7 +197604,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16466 [
+  16467 [
     type=online
     state=archived
     label="www.ruesselsheimer-echo.de"
@@ -197604,7 +197616,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16467 [
+  16468 [
     type=online
     state=active
     label="www.ruhr-bote.de"
@@ -197616,7 +197628,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16468 [
+  16469 [
     type=online
     state=active
     label="www.ruhr24.de"
@@ -197628,7 +197640,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16469 [
+  16470 [
     type=online
     state=active
     label="www.ruhrnachrichten.de"
@@ -197640,7 +197652,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16470 [
+  16471 [
     type=online
     state=active
     label="www.rund-ums-baby.de"
@@ -197652,7 +197664,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16471 [
+  16472 [
     type=online
     state=active
     label="www.rundfunk-meissner.org"
@@ -197664,7 +197676,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16472 [
+  16473 [
     type=online
     state=active
     label="www.rundfunk.evangelisch.de"
@@ -197676,7 +197688,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16473 [
+  16474 [
     type=online
     state=active
     label="www.rundschau-gaildorf.de"
@@ -197688,7 +197700,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16474 [
+  16475 [
     type=online
     state=active
     label="www.rundschau-online.de"
@@ -197700,7 +197712,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16475 [
+  16476 [
     type=online
     state=active
     label="www.rundschau.info"
@@ -197712,7 +197724,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16476 [
+  16477 [
     type=online
     state=active
     label="www.runnersworld.de"
@@ -197724,7 +197736,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16477 [
+  16478 [
     type=online
     state=archived
     label="www.running-magazin.de"
@@ -197736,7 +197748,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16478 [
+  16479 [
     type=online
     state=active
     label="www.ruppiner-anzeiger.de"
@@ -197748,7 +197760,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16479 [
+  16480 [
     type=online
     state=active
     label="www.ruteundrolle.de"
@@ -197760,7 +197772,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16480 [
+  16481 [
     type=online
     state=active
     label="www.saaleinfo.tv"
@@ -197772,7 +197784,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16481 [
+  16482 [
     type=online
     state=archived
     label="www.saaramateur.de"
@@ -197784,7 +197796,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16482 [
+  16483 [
     type=online
     state=active
     label="www.saarbruecker-zeitung.de"
@@ -197796,7 +197808,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16483 [
+  16484 [
     type=online
     state=active
     label="www.saarbruecker-zeitung.de/pm"
@@ -197808,7 +197820,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16484 [
+  16485 [
     type=online
     state=archived
     label="www.saarland-fernsehen.com"
@@ -197820,7 +197832,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16485 [
+  16486 [
     type=online
     state=active
     label="www.sachsen-anhalt.de"
@@ -197832,7 +197844,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16486 [
+  16487 [
     type=online
     state=active
     label="www.sachsen-fernsehen.de"
@@ -197844,7 +197856,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  16487 [
+  16488 [
     type=online
     state=active
     label="www.sachsen-sonntag.de"
@@ -197856,7 +197868,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16488 [
+  16489 [
     type=online
     state=active
     label="www.sachsen.de"
@@ -197868,7 +197880,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16489 [
+  16490 [
     type=online
     state=active
     label="www.sachsenwald.com"
@@ -197880,7 +197892,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16490 [
+  16491 [
     type=online
     state=active
     label="www.saechsische.de"
@@ -197892,7 +197904,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16491 [
+  16492 [
     type=online
     state=archived
     label="www.sail24.com"
@@ -197904,7 +197916,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16492 [
+  16493 [
     type=online
     state=archived
     label="www.salamandersuche.de"
@@ -197916,7 +197928,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  16493 [
+  16494 [
     type=online
     state=active
     label="www.salon-magazin.de"
@@ -197928,7 +197940,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16494 [
+  16495 [
     type=online
     state=active
     label="www.salue.de"
@@ -197940,7 +197952,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16495 [
+  16496 [
     type=online
     state=active
     label="www.salve.tv"
@@ -197952,7 +197964,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16496 [
+  16497 [
     type=online
     state=active
     label="www.salzgitter-zeitung.de"
@@ -197964,7 +197976,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16497 [
+  16498 [
     type=online
     state=active
     label="www.sao.de"
@@ -197976,7 +197988,7 @@ digraph {
     in_degree=2
     out_degree=0
   ];
-  16498 [
+  16499 [
     type=online
     state=active
     label="www.sarstedter-anzeiger.de"
@@ -197988,7 +198000,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  16499 [
+  16500 [
     type=online
     state=active
     label="www.sat1.de"
@@ -197998,18 +198010,6 @@ digraph {
     num_medias_weighted=0.0000
     name="5c49d4ae-4e8f-4449-86a5-fe17f1e31310"
     in_degree=0
-    out_degree=0
-  ];
-  16500 [
-    type=online
-    state=active
-    label="www.sat1.de/serien/regional-bayern"
-    num_owners=484
-    num_owners_weighted=2.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5f7f18a4-2522-4a73-987e-7a412c9d1648"
-    in_degree=2
     out_degree=0
   ];
   16501 [
@@ -210333,7 +210333,7 @@ digraph {
     weight=100
     type=operates
   ];
-  153 -> 16118 [
+  153 -> 16119 [
     weight=100
     type=operates
   ];
@@ -210497,7 +210497,7 @@ digraph {
     weight=100
     type=operates
   ];
-  235 -> 16124 [
+  235 -> 16125 [
     weight=100
     type=operates
   ];
@@ -210509,7 +210509,7 @@ digraph {
     weight=100
     type=operates
   ];
-  243 -> 16176 [
+  243 -> 16177 [
     weight=100
     type=operates
   ];
@@ -210677,7 +210677,7 @@ digraph {
     weight=100
     type=operates
   ];
-  307 -> 16237 [
+  307 -> 16238 [
     weight=100
     type=operates
   ];
@@ -211017,7 +211017,7 @@ digraph {
     weight=1
     type=owns
   ];
-  390 -> 16163 [
+  390 -> 16164 [
     weight=100
     type=operates
   ];
@@ -211333,7 +211333,7 @@ digraph {
     weight=100
     type=operates
   ];
-  505 -> 16400 [
+  505 -> 16401 [
     weight=100
     type=operates
   ];
@@ -211369,7 +211369,7 @@ digraph {
     weight=100
     type=operates
   ];
-  508 -> 16036 [
+  508 -> 16037 [
     weight=100
     type=operates
   ];
@@ -211537,7 +211537,7 @@ digraph {
     weight=100
     type=operates
   ];
-  552 -> 16323 [
+  552 -> 16324 [
     weight=100
     type=operates
   ];
@@ -211589,7 +211589,7 @@ digraph {
     weight=100
     type=operates
   ];
-  578 -> 16216 [
+  578 -> 16217 [
     weight=100
     type=operates
   ];
@@ -211725,7 +211725,7 @@ digraph {
     weight=100
     type=operates
   ];
-  594 -> 16120 [
+  594 -> 16121 [
     weight=100
     type=operates
   ];
@@ -212149,35 +212149,35 @@ digraph {
     weight=100
     type=owns
   ];
-  690 -> 16244 [
+  690 -> 16245 [
     weight=100
     type=operates
   ];
-  690 -> 16257 [
+  690 -> 16258 [
     weight=100
     type=operates
   ];
-  690 -> 16277 [
+  690 -> 16278 [
     weight=100
     type=operates
   ];
-  690 -> 16281 [
+  690 -> 16282 [
     weight=100
     type=operates
   ];
-  690 -> 16283 [
+  690 -> 16284 [
     weight=100
     type=operates
   ];
-  690 -> 16292 [
-    weight=100
-    type=operates
-  ];
-  690 -> 16325 [
+  690 -> 16293 [
     weight=100
     type=operates
   ];
   690 -> 16326 [
+    weight=100
+    type=operates
+  ];
+  690 -> 16327 [
     weight=100
     type=operates
   ];
@@ -212197,15 +212197,15 @@ digraph {
     weight=100
     type=operates
   ];
-  695 -> 16360 [
+  695 -> 16361 [
     weight=100
     type=operates
   ];
-  695 -> 16423 [
+  695 -> 16424 [
     weight=100
     type=operates
   ];
-  695 -> 16441 [
+  695 -> 16442 [
     weight=100
     type=operates
   ];
@@ -212477,7 +212477,7 @@ digraph {
     weight=100
     type=operates
   ];
-  775 -> 16118 [
+  775 -> 16119 [
     weight=100
     type=operates
   ];
@@ -212645,7 +212645,7 @@ digraph {
     weight=100
     type=operates
   ];
-  784 -> 16111 [
+  784 -> 16112 [
     weight=100
     type=operates
   ];
@@ -212873,7 +212873,7 @@ digraph {
     weight=100
     type=operates
   ];
-  818 -> 16184 [
+  818 -> 16185 [
     weight=100
     type=operates
   ];
@@ -213333,7 +213333,7 @@ digraph {
     weight=100
     type=operates
   ];
-  903 -> 16197 [
+  903 -> 16198 [
     weight=100
     type=operates
   ];
@@ -213933,11 +213933,11 @@ digraph {
     weight=100
     type=operates
   ];
-  1000 -> 16028 [
+  1000 -> 16029 [
     weight=100
     type=operates
   ];
-  1000 -> 16388 [
+  1000 -> 16389 [
     weight=100
     type=operates
   ];
@@ -214137,7 +214137,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1026 -> 16129 [
+  1026 -> 16130 [
     weight=100
     type=operates
   ];
@@ -214237,19 +214237,15 @@ digraph {
     weight=100
     type=operates
   ];
-  1056 -> 16253 [
+  1056 -> 16254 [
     weight=100
     type=operates
   ];
-  1056 -> 16259 [
+  1056 -> 16260 [
     weight=100
     type=operates
   ];
-  1056 -> 16267 [
-    weight=100
-    type=operates
-  ];
-  1056 -> 16289 [
+  1056 -> 16268 [
     weight=100
     type=operates
   ];
@@ -214257,7 +214253,11 @@ digraph {
     weight=100
     type=operates
   ];
-  1056 -> 16331 [
+  1056 -> 16291 [
+    weight=100
+    type=operates
+  ];
+  1056 -> 16332 [
     weight=100
     type=operates
   ];
@@ -214549,7 +214549,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1124 -> 16180 [
+  1124 -> 16181 [
     weight=100
     type=operates
   ];
@@ -214961,7 +214961,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1233 -> 16247 [
+  1233 -> 16248 [
     weight=100
     type=operates
   ];
@@ -214969,7 +214969,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1234 -> 16260 [
+  1234 -> 16261 [
     weight=100
     type=operates
   ];
@@ -214977,7 +214977,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1235 -> 16263 [
+  1235 -> 16264 [
     weight=100
     type=operates
   ];
@@ -214985,7 +214985,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1236 -> 16264 [
+  1236 -> 16265 [
     weight=100
     type=operates
   ];
@@ -214993,7 +214993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1237 -> 16268 [
+  1237 -> 16269 [
     weight=100
     type=operates
   ];
@@ -215001,7 +215001,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1238 -> 16278 [
+  1238 -> 16279 [
     weight=100
     type=operates
   ];
@@ -215009,7 +215009,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1239 -> 16282 [
+  1239 -> 16283 [
     weight=100
     type=operates
   ];
@@ -215017,7 +215017,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1240 -> 16314 [
+  1240 -> 16315 [
     weight=100
     type=operates
   ];
@@ -215029,11 +215029,11 @@ digraph {
     weight=100
     type=operates
   ];
-  1241 -> 16297 [
+  1241 -> 16298 [
     weight=100
     type=operates
   ];
-  1241 -> 16302 [
+  1241 -> 16303 [
     weight=100
     type=operates
   ];
@@ -215041,7 +215041,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1242 -> 16288 [
+  1242 -> 16289 [
     weight=100
     type=operates
   ];
@@ -216621,7 +216621,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1580 -> 16220 [
+  1580 -> 16221 [
     weight=100
     type=operates
   ];
@@ -217013,7 +217013,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1680 -> 16131 [
+  1680 -> 16132 [
     weight=100
     type=operates
   ];
@@ -217241,7 +217241,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1734 -> 15984 [
+  1734 -> 15985 [
     weight=100
     type=operates
   ];
@@ -217973,11 +217973,11 @@ digraph {
     weight=100
     type=operates
   ];
-  1820 -> 16195 [
+  1820 -> 16196 [
     weight=100
     type=operates
   ];
-  1820 -> 16333 [
+  1820 -> 16334 [
     weight=100
     type=operates
   ];
@@ -218329,7 +218329,7 @@ digraph {
     weight=25
     type=owns
   ];
-  1899 -> 16293 [
+  1899 -> 16294 [
     weight=100
     type=operates
   ];
@@ -218637,7 +218637,7 @@ digraph {
     weight=29.2
     type=owns
   ];
-  1984 -> 16170 [
+  1984 -> 16171 [
     weight=100
     type=operates
   ];
@@ -219181,15 +219181,15 @@ digraph {
     weight=100
     type=operates
   ];
-  2078 -> 16134 [
+  2078 -> 16135 [
     weight=100
     type=operates
   ];
-  2078 -> 16362 [
+  2078 -> 16363 [
     weight=100
     type=operates
   ];
-  2078 -> 16439 [
+  2078 -> 16440 [
     weight=100
     type=operates
   ];
@@ -219269,7 +219269,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2103 -> 16459 [
+  2103 -> 16460 [
     weight=100
     type=operates
   ];
@@ -219297,7 +219297,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2113 -> 16286 [
+  2113 -> 16287 [
     weight=100
     type=operates
   ];
@@ -219425,15 +219425,15 @@ digraph {
     weight=100
     type=operates
   ];
-  2139 -> 16100 [
-    weight=100
-    type=operates
-  ];
   2139 -> 16101 [
     weight=100
     type=operates
   ];
-  2139 -> 16341 [
+  2139 -> 16102 [
+    weight=100
+    type=operates
+  ];
+  2139 -> 16342 [
     weight=100
     type=operates
   ];
@@ -219593,7 +219593,7 @@ digraph {
     weight=15
     type=owns
   ];
-  2182 -> 16254 [
+  2182 -> 16255 [
     weight=100
     type=operates
   ];
@@ -219993,7 +219993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2330 -> 16490 [
+  2330 -> 16491 [
     weight=100
     type=operates
   ];
@@ -220701,7 +220701,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2501 -> 16181 [
+  2501 -> 16182 [
     weight=100
     type=operates
   ];
@@ -220861,11 +220861,11 @@ digraph {
     weight=100
     type=operates
   ];
-  2513 -> 15963 [
+  2513 -> 15964 [
     weight=100
     type=operates
   ];
-  2513 -> 16127 [
+  2513 -> 16128 [
     weight=100
     type=operates
   ];
@@ -221545,7 +221545,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2664 -> 16032 [
+  2664 -> 16033 [
     weight=100
     type=operates
   ];
@@ -221585,7 +221585,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2674 -> 16272 [
+  2674 -> 16273 [
     weight=100
     type=operates
   ];
@@ -221941,7 +221941,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2748 -> 16094 [
+  2748 -> 16095 [
     weight=100
     type=operates
   ];
@@ -222177,7 +222177,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2806 -> 16377 [
+  2806 -> 16378 [
     weight=100
     type=operates
   ];
@@ -222325,7 +222325,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2834 -> 16115 [
+  2834 -> 16116 [
     weight=100
     type=operates
   ];
@@ -222549,7 +222549,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2881 -> 16196 [
+  2881 -> 16197 [
     weight=100
     type=operates
   ];
@@ -222761,7 +222761,7 @@ digraph {
     weight=100
     type=operates
   ];
-  2921 -> 16002 [
+  2921 -> 16003 [
     weight=100
     type=operates
   ];
@@ -223517,11 +223517,11 @@ digraph {
     weight=100
     type=operates
   ];
-  3047 -> 16020 [
+  3047 -> 16021 [
     weight=100
     type=operates
   ];
-  3047 -> 16187 [
+  3047 -> 16188 [
     weight=100
     type=operates
   ];
@@ -223649,15 +223649,15 @@ digraph {
     weight=100
     type=operates
   ];
-  3075 -> 16084 [
+  3075 -> 16085 [
     weight=100
     type=operates
   ];
-  3075 -> 16158 [
+  3075 -> 16159 [
     weight=100
     type=operates
   ];
-  3075 -> 16166 [
+  3075 -> 16167 [
     weight=100
     type=operates
   ];
@@ -224801,7 +224801,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3416 -> 16104 [
+  3416 -> 16105 [
     weight=100
     type=operates
   ];
@@ -225105,7 +225105,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3524 -> 16267 [
+  3524 -> 16268 [
     weight=100
     type=operates
   ];
@@ -225217,7 +225217,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3564 -> 16017 [
+  3564 -> 16018 [
     weight=100
     type=operates
   ];
@@ -225561,7 +225561,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3653 -> 16088 [
+  3653 -> 16089 [
     weight=100
     type=operates
   ];
@@ -225849,7 +225849,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3708 -> 16486 [
+  3708 -> 16487 [
     weight=100
     type=operates
   ];
@@ -225969,7 +225969,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3725 -> 16386 [
+  3725 -> 16387 [
     weight=100
     type=operates
   ];
@@ -226141,7 +226141,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3776 -> 16464 [
+  3776 -> 16465 [
     weight=100
     type=operates
   ];
@@ -226245,7 +226245,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3798 -> 16162 [
+  3798 -> 16163 [
     weight=100
     type=operates
   ];
@@ -226301,7 +226301,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3812 -> 16169 [
+  3812 -> 16170 [
     weight=100
     type=operates
   ];
@@ -226345,7 +226345,7 @@ digraph {
     weight=100
     type=operates
   ];
-  3824 -> 16486 [
+  3824 -> 16487 [
     weight=100
     type=operates
   ];
@@ -226789,7 +226789,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4004 -> 16271 [
+  4004 -> 16272 [
     weight=100
     type=operates
   ];
@@ -227069,15 +227069,15 @@ digraph {
     weight=100
     type=operates
   ];
-  4070 -> 16319 [
+  4070 -> 16320 [
     weight=100
     type=operates
   ];
-  4071 -> 16202 [
+  4071 -> 16203 [
     weight=100
     type=operates
   ];
-  4073 -> 16203 [
+  4073 -> 16204 [
     weight=100
     type=operates
   ];
@@ -227113,7 +227113,7 @@ digraph {
     weight=10
     type=owns
   ];
-  4092 -> 16488 [
+  4092 -> 16489 [
     weight=100
     type=operates
   ];
@@ -227157,7 +227157,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4124 -> 16237 [
+  4124 -> 16238 [
     weight=100
     type=operates
   ];
@@ -227329,7 +227329,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4177 -> 15987 [
+  4177 -> 15988 [
     weight=100
     type=operates
   ];
@@ -227593,11 +227593,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4229 -> 16248 [
+  4229 -> 16249 [
     weight=100
     type=operates
   ];
-  4229 -> 16310 [
+  4229 -> 16311 [
     weight=100
     type=operates
   ];
@@ -227789,11 +227789,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4243 -> 15964 [
+  4243 -> 15965 [
     weight=100
     type=operates
   ];
-  4243 -> 16489 [
+  4243 -> 16490 [
     weight=100
     type=operates
   ];
@@ -227809,11 +227809,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4244 -> 15962 [
+  4244 -> 15963 [
     weight=100
     type=operates
   ];
-  4244 -> 16342 [
+  4244 -> 16343 [
     weight=100
     type=operates
   ];
@@ -228097,11 +228097,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4250 -> 16106 [
+  4250 -> 16107 [
     weight=100
     type=operates
   ];
-  4250 -> 16496 [
+  4250 -> 16497 [
     weight=100
     type=operates
   ];
@@ -228293,19 +228293,15 @@ digraph {
     weight=100
     type=operates
   ];
-  4252 -> 16006 [
+  4252 -> 16007 [
     weight=100
     type=operates
   ];
-  4252 -> 16247 [
+  4252 -> 16248 [
     weight=100
     type=operates
   ];
-  4252 -> 16260 [
-    weight=100
-    type=operates
-  ];
-  4252 -> 16263 [
+  4252 -> 16261 [
     weight=100
     type=operates
   ];
@@ -228313,35 +228309,39 @@ digraph {
     weight=100
     type=operates
   ];
-  4252 -> 16268 [
+  4252 -> 16265 [
     weight=100
     type=operates
   ];
-  4252 -> 16278 [
+  4252 -> 16269 [
     weight=100
     type=operates
   ];
-  4252 -> 16282 [
+  4252 -> 16279 [
     weight=100
     type=operates
   ];
-  4252 -> 16288 [
+  4252 -> 16283 [
     weight=100
     type=operates
   ];
-  4252 -> 16297 [
+  4252 -> 16289 [
     weight=100
     type=operates
   ];
-  4252 -> 16302 [
+  4252 -> 16298 [
     weight=100
     type=operates
   ];
-  4252 -> 16314 [
+  4252 -> 16303 [
     weight=100
     type=operates
   ];
-  4252 -> 16392 [
+  4252 -> 16315 [
+    weight=100
+    type=operates
+  ];
+  4252 -> 16393 [
     weight=100
     type=operates
   ];
@@ -228513,7 +228513,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4256 -> 16047 [
+  4256 -> 16048 [
     weight=100
     type=operates
   ];
@@ -228849,19 +228849,19 @@ digraph {
     weight=100
     type=operates
   ];
-  4260 -> 16006 [
+  4260 -> 16007 [
     weight=100
     type=operates
   ];
-  4260 -> 16071 [
+  4260 -> 16072 [
     weight=100
     type=operates
   ];
-  4260 -> 16106 [
+  4260 -> 16107 [
     weight=100
     type=operates
   ];
-  4260 -> 16496 [
+  4260 -> 16497 [
     weight=100
     type=operates
   ];
@@ -229009,11 +229009,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4274 -> 16153 [
+  4274 -> 16154 [
     weight=100
     type=operates
   ];
-  4274 -> 16155 [
+  4274 -> 16156 [
     weight=100
     type=operates
   ];
@@ -229029,7 +229029,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4275 -> 16261 [
+  4275 -> 16262 [
     weight=100
     type=operates
   ];
@@ -229077,7 +229077,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4279 -> 16251 [
+  4279 -> 16252 [
     weight=100
     type=operates
   ];
@@ -229105,11 +229105,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4282 -> 16037 [
+  4282 -> 16038 [
     weight=100
     type=operates
   ];
-  4282 -> 16207 [
+  4282 -> 16208 [
     weight=100
     type=operates
   ];
@@ -229193,7 +229193,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4286 -> 16270 [
+  4286 -> 16271 [
     weight=100
     type=operates
   ];
@@ -229257,7 +229257,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4291 -> 16083 [
+  4291 -> 16084 [
     weight=100
     type=operates
   ];
@@ -229297,11 +229297,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4294 -> 16198 [
+  4294 -> 16199 [
     weight=100
     type=operates
   ];
-  4294 -> 16204 [
+  4294 -> 16205 [
     weight=100
     type=operates
   ];
@@ -229357,7 +229357,7 @@ digraph {
     weight=19.37
     type=owns
   ];
-  4314 -> 16200 [
+  4314 -> 16201 [
     weight=100
     type=operates
   ];
@@ -229841,7 +229841,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4432 -> 16498 [
+  4432 -> 16499 [
     weight=100
     type=operates
   ];
@@ -230089,11 +230089,11 @@ digraph {
     weight=100
     type=operates
   ];
-  4488 -> 16384 [
+  4488 -> 16385 [
     weight=100
     type=operates
   ];
-  4488 -> 16472 [
+  4488 -> 16473 [
     weight=100
     type=operates
   ];
@@ -230393,7 +230393,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4554 -> 16026 [
+  4554 -> 16027 [
     weight=100
     type=operates
   ];
@@ -230565,7 +230565,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4598 -> 16030 [
+  4598 -> 16031 [
     weight=100
     type=operates
   ];
@@ -231049,7 +231049,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4714 -> 16086 [
+  4714 -> 16087 [
     weight=100
     type=operates
   ];
@@ -231585,7 +231585,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4853 -> 16376 [
+  4853 -> 16377 [
     weight=100
     type=operates
   ];
@@ -231857,7 +231857,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4903 -> 16397 [
+  4903 -> 16398 [
     weight=100
     type=operates
   ];
@@ -232777,7 +232777,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5162 -> 16114 [
+  5162 -> 16115 [
     weight=100
     type=operates
   ];
@@ -232993,7 +232993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5205 -> 16474 [
+  5205 -> 16475 [
     weight=100
     type=operates
   ];
@@ -233617,7 +233617,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5297 -> 16004 [
+  5297 -> 16005 [
     weight=100
     type=operates
   ];
@@ -234037,7 +234037,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5415 -> 16446 [
+  5415 -> 16447 [
     weight=100
     type=operates
   ];
@@ -234049,7 +234049,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5418 -> 16446 [
+  5418 -> 16447 [
     weight=100
     type=operates
   ];
@@ -234065,7 +234065,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5420 -> 16446 [
+  5420 -> 16447 [
     weight=100
     type=operates
   ];
@@ -234113,7 +234113,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5426 -> 16050 [
+  5426 -> 16051 [
     weight=100
     type=operates
   ];
@@ -235073,7 +235073,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5699 -> 16117 [
+  5699 -> 16118 [
     weight=100
     type=operates
   ];
@@ -235193,7 +235193,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5725 -> 16103 [
+  5725 -> 16104 [
     weight=100
     type=operates
   ];
@@ -235873,35 +235873,31 @@ digraph {
     weight=100
     type=operates
   ];
-  5845 -> 15953 [
+  5845 -> 15954 [
     weight=100
     type=operates
   ];
-  5845 -> 15989 [
+  5845 -> 15990 [
     weight=100
     type=operates
   ];
-  5845 -> 16014 [
+  5845 -> 16015 [
     weight=100
     type=operates
   ];
-  5845 -> 16051 [
+  5845 -> 16052 [
     weight=100
     type=operates
   ];
-  5845 -> 16077 [
+  5845 -> 16078 [
     weight=100
     type=operates
   ];
-  5845 -> 16109 [
+  5845 -> 16110 [
     weight=100
     type=operates
   ];
-  5845 -> 16432 [
-    weight=100
-    type=operates
-  ];
-  5845 -> 16435 [
+  5845 -> 16433 [
     weight=100
     type=operates
   ];
@@ -235909,7 +235905,11 @@ digraph {
     weight=100
     type=operates
   ];
-  5845 -> 16468 [
+  5845 -> 16437 [
+    weight=100
+    type=operates
+  ];
+  5845 -> 16469 [
     weight=100
     type=operates
   ];
@@ -236253,7 +236253,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5888 -> 16188 [
+  5888 -> 16189 [
     weight=100
     type=operates
   ];
@@ -236277,7 +236277,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5889 -> 15956 [
+  5889 -> 15957 [
     weight=100
     type=operates
   ];
@@ -236721,7 +236721,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5933 -> 16419 [
+  5933 -> 16420 [
     weight=100
     type=operates
   ];
@@ -236773,7 +236773,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5954 -> 15988 [
+  5954 -> 15989 [
     weight=100
     type=operates
   ];
@@ -237445,7 +237445,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6164 -> 16437 [
+  6164 -> 16438 [
     weight=100
     type=operates
   ];
@@ -238205,11 +238205,11 @@ digraph {
     weight=100
     type=operates
   ];
-  6342 -> 16033 [
+  6342 -> 16034 [
     weight=100
     type=operates
   ];
-  6342 -> 16112 [
+  6342 -> 16113 [
     weight=100
     type=operates
   ];
@@ -238245,11 +238245,11 @@ digraph {
     weight=100
     type=operates
   ];
-  6344 -> 16168 [
+  6344 -> 16169 [
     weight=100
     type=operates
   ];
-  6344 -> 16447 [
+  6344 -> 16448 [
     weight=100
     type=operates
   ];
@@ -238421,7 +238421,7 @@ digraph {
     weight=1
     type=owns
   ];
-  6412 -> 16205 [
+  6412 -> 16206 [
     weight=100
     type=operates
   ];
@@ -238745,7 +238745,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6503 -> 16154 [
+  6503 -> 16155 [
     weight=100
     type=operates
   ];
@@ -238821,7 +238821,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6522 -> 16136 [
+  6522 -> 16137 [
     weight=100
     type=operates
   ];
@@ -238861,7 +238861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6535 -> 16228 [
+  6535 -> 16229 [
     weight=100
     type=operates
   ];
@@ -239261,7 +239261,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6599 -> 16435 [
+  6599 -> 16436 [
     weight=100
     type=operates
   ];
@@ -239565,7 +239565,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6682 -> 16475 [
+  6682 -> 16476 [
     weight=100
     type=operates
   ];
@@ -239977,7 +239977,7 @@ digraph {
     weight=64.74
     type=owns
   ];
-  6825 -> 16485 [
+  6825 -> 16486 [
     weight=100
     type=operates
   ];
@@ -240113,7 +240113,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6872 -> 16381 [
+  6872 -> 16382 [
     weight=100
     type=operates
   ];
@@ -240309,7 +240309,7 @@ digraph {
     weight=100
     type=operates
   ];
-  6942 -> 16486 [
+  6942 -> 16487 [
     weight=100
     type=operates
   ];
@@ -240637,7 +240637,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7047 -> 16444 [
+  7047 -> 16445 [
     weight=100
     type=operates
   ];
@@ -240761,7 +240761,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7074 -> 16285 [
+  7074 -> 16286 [
     weight=100
     type=operates
   ];
@@ -240845,7 +240845,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7109 -> 16292 [
+  7109 -> 16293 [
     weight=100
     type=operates
   ];
@@ -240905,7 +240905,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7124 -> 16209 [
+  7124 -> 16210 [
     weight=100
     type=operates
   ];
@@ -240973,7 +240973,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7145 -> 16255 [
+  7145 -> 16256 [
     weight=100
     type=operates
   ];
@@ -240989,7 +240989,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7148 -> 16240 [
+  7148 -> 16241 [
     weight=100
     type=operates
   ];
@@ -241013,7 +241013,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7152 -> 16327 [
+  7152 -> 16328 [
     weight=100
     type=operates
   ];
@@ -241093,7 +241093,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7164 -> 16311 [
+  7164 -> 16312 [
     weight=100
     type=operates
   ];
@@ -241133,7 +241133,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7170 -> 16329 [
+  7170 -> 16330 [
     weight=100
     type=operates
   ];
@@ -241205,7 +241205,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7180 -> 16300 [
+  7180 -> 16301 [
     weight=100
     type=operates
   ];
@@ -241221,7 +241221,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7182 -> 16238 [
+  7182 -> 16239 [
     weight=100
     type=operates
   ];
@@ -241249,7 +241249,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7187 -> 16322 [
+  7187 -> 16323 [
     weight=100
     type=operates
   ];
@@ -241269,7 +241269,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7191 -> 16312 [
+  7191 -> 16313 [
     weight=100
     type=operates
   ];
@@ -241697,7 +241697,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7293 -> 16474 [
+  7293 -> 16475 [
     weight=100
     type=operates
   ];
@@ -241909,7 +241909,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7332 -> 16096 [
+  7332 -> 16097 [
     weight=100
     type=operates
   ];
@@ -241925,7 +241925,7 @@ digraph {
     weight=100
     type=owns
   ];
-  7335 -> 16379 [
+  7335 -> 16380 [
     weight=100
     type=operates
   ];
@@ -242077,7 +242077,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7363 -> 16016 [
+  7363 -> 16017 [
     weight=100
     type=operates
   ];
@@ -242109,7 +242109,7 @@ digraph {
     weight=6
     type=owns
   ];
-  7371 -> 15953 [
+  7371 -> 15954 [
     weight=100
     type=operates
   ];
@@ -242657,7 +242657,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7504 -> 16382 [
+  7504 -> 16383 [
     weight=100
     type=operates
   ];
@@ -242885,7 +242885,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7585 -> 16464 [
+  7585 -> 16465 [
     weight=100
     type=operates
   ];
@@ -242953,7 +242953,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7608 -> 16429 [
+  7608 -> 16430 [
     weight=100
     type=operates
   ];
@@ -243137,7 +243137,7 @@ digraph {
     weight=100
     type=owns
   ];
-  7626 -> 16368 [
+  7626 -> 16369 [
     weight=100
     type=operates
   ];
@@ -243297,7 +243297,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7637 -> 16031 [
+  7637 -> 16032 [
     weight=100
     type=operates
   ];
@@ -243621,7 +243621,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7671 -> 16356 [
+  7671 -> 16357 [
     weight=100
     type=operates
   ];
@@ -243773,7 +243773,7 @@ digraph {
     weight=100
     type=owns
   ];
-  7683 -> 16066 [
+  7683 -> 16067 [
     weight=100
     type=operates
   ];
@@ -243913,7 +243913,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7713 -> 16208 [
+  7713 -> 16209 [
     weight=100
     type=operates
   ];
@@ -243977,7 +243977,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7734 -> 16210 [
+  7734 -> 16211 [
     weight=100
     type=operates
   ];
@@ -244321,11 +244321,11 @@ digraph {
     weight=100
     type=operates
   ];
-  7873 -> 16350 [
+  7873 -> 16351 [
     weight=100
     type=operates
   ];
-  7873 -> 16497 [
+  7873 -> 16498 [
     weight=100
     type=operates
   ];
@@ -244837,11 +244837,11 @@ digraph {
     weight=100
     type=operates
   ];
-  7963 -> 16350 [
+  7963 -> 16351 [
     weight=100
     type=operates
   ];
-  7963 -> 16497 [
+  7963 -> 16498 [
     weight=100
     type=operates
   ];
@@ -245137,7 +245137,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7973 -> 16402 [
+  7973 -> 16403 [
     weight=100
     type=operates
   ];
@@ -245169,7 +245169,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7986 -> 16369 [
+  7986 -> 16370 [
     weight=100
     type=operates
   ];
@@ -245489,7 +245489,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8068 -> 16476 [
+  8068 -> 16477 [
     weight=100
     type=operates
   ];
@@ -245689,27 +245689,27 @@ digraph {
     weight=100
     type=operates
   ];
-  8070 -> 16073 [
+  8070 -> 16074 [
     weight=100
     type=operates
   ];
-  8070 -> 16076 [
+  8070 -> 16077 [
     weight=100
     type=operates
   ];
-  8070 -> 16173 [
+  8070 -> 16174 [
     weight=100
     type=operates
   ];
-  8070 -> 16179 [
+  8070 -> 16180 [
     weight=100
     type=operates
   ];
-  8070 -> 16373 [
+  8070 -> 16374 [
     weight=100
     type=operates
   ];
-  8070 -> 16418 [
+  8070 -> 16419 [
     weight=100
     type=operates
   ];
@@ -245781,7 +245781,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8099 -> 16016 [
+  8099 -> 16017 [
     weight=100
     type=operates
   ];
@@ -245789,7 +245789,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8103 -> 16058 [
+  8103 -> 16059 [
     weight=100
     type=operates
   ];
@@ -245937,7 +245937,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8138 -> 16479 [
+  8138 -> 16480 [
     weight=100
     type=operates
   ];
@@ -246041,7 +246041,7 @@ digraph {
     weight=98
     type=owns
   ];
-  8176 -> 16144 [
+  8176 -> 16145 [
     weight=100
     type=operates
   ];
@@ -246305,11 +246305,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8212 -> 16055 [
+  8212 -> 16056 [
     weight=100
     type=operates
   ];
-  8212 -> 16478 [
+  8212 -> 16479 [
     weight=100
     type=operates
   ];
@@ -246685,7 +246685,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8264 -> 16109 [
+  8264 -> 16110 [
     weight=100
     type=operates
   ];
@@ -247313,19 +247313,19 @@ digraph {
     weight=100
     type=operates
   ];
-  8419 -> 16055 [
+  8419 -> 16056 [
     weight=100
     type=operates
   ];
-  8419 -> 16390 [
+  8419 -> 16391 [
     weight=100
     type=operates
   ];
-  8419 -> 16473 [
+  8419 -> 16474 [
     weight=100
     type=operates
   ];
-  8419 -> 16478 [
+  8419 -> 16479 [
     weight=100
     type=operates
   ];
@@ -247357,7 +247357,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8428 -> 16102 [
+  8428 -> 16103 [
     weight=100
     type=operates
   ];
@@ -247621,10 +247621,6 @@ digraph {
     weight=100
     type=operates
   ];
-  8430 -> 15994 [
-    weight=100
-    type=operates
-  ];
   8430 -> 15995 [
     weight=100
     type=operates
@@ -247653,23 +247649,27 @@ digraph {
     weight=100
     type=operates
   ];
-  8430 -> 16043 [
+  8430 -> 16002 [
     weight=100
     type=operates
   ];
-  8430 -> 16060 [
+  8430 -> 16044 [
     weight=100
     type=operates
   ];
-  8430 -> 16064 [
+  8430 -> 16061 [
     weight=100
     type=operates
   ];
-  8430 -> 16080 [
+  8430 -> 16065 [
     weight=100
     type=operates
   ];
-  8430 -> 16474 [
+  8430 -> 16081 [
+    weight=100
+    type=operates
+  ];
+  8430 -> 16475 [
     weight=100
     type=operates
   ];
@@ -248077,11 +248077,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8439 -> 16390 [
+  8439 -> 16391 [
     weight=100
     type=operates
   ];
-  8439 -> 16473 [
+  8439 -> 16474 [
     weight=100
     type=operates
   ];
@@ -248289,7 +248289,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8472 -> 16013 [
+  8472 -> 16014 [
     weight=100
     type=operates
   ];
@@ -248397,7 +248397,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8507 -> 16151 [
+  8507 -> 16152 [
     weight=100
     type=operates
   ];
@@ -248429,7 +248429,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8521 -> 15957 [
+  8521 -> 15958 [
     weight=100
     type=operates
   ];
@@ -248453,7 +248453,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8536 -> 15961 [
+  8536 -> 15962 [
     weight=100
     type=operates
   ];
@@ -248477,7 +248477,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8540 -> 16093 [
+  8540 -> 16094 [
     weight=100
     type=operates
   ];
@@ -248661,7 +248661,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8581 -> 15971 [
+  8581 -> 15972 [
     weight=100
     type=operates
   ];
@@ -248713,7 +248713,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8594 -> 16246 [
+  8594 -> 16247 [
     weight=100
     type=operates
   ];
@@ -248789,7 +248789,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8603 -> 15977 [
+  8603 -> 15978 [
     weight=100
     type=operates
   ];
@@ -248929,7 +248929,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8622 -> 16401 [
+  8622 -> 16402 [
     weight=100
     type=operates
   ];
@@ -248989,15 +248989,15 @@ digraph {
     weight=100
     type=operates
   ];
-  8626 -> 15968 [
+  8626 -> 15969 [
     weight=100
     type=operates
   ];
-  8626 -> 15983 [
+  8626 -> 15984 [
     weight=100
     type=operates
   ];
-  8626 -> 16152 [
+  8626 -> 16153 [
     weight=100
     type=operates
   ];
@@ -249101,11 +249101,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8640 -> 15975 [
+  8640 -> 15976 [
     weight=100
     type=operates
   ];
-  8640 -> 15985 [
+  8640 -> 15986 [
     weight=100
     type=operates
   ];
@@ -249133,7 +249133,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  8642 -> 15987 [
+  8642 -> 15988 [
     weight=100
     type=operates
   ];
@@ -249237,7 +249237,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8648 -> 16012 [
+  8648 -> 16013 [
     weight=100
     type=operates
   ];
@@ -249333,7 +249333,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8672 -> 16060 [
+  8672 -> 16061 [
     weight=100
     type=operates
   ];
@@ -249385,7 +249385,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8684 -> 16005 [
+  8684 -> 16006 [
     weight=100
     type=operates
   ];
@@ -249589,7 +249589,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8736 -> 16034 [
+  8736 -> 16035 [
     weight=100
     type=operates
   ];
@@ -249633,11 +249633,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8741 -> 16045 [
+  8741 -> 16046 [
     weight=100
     type=operates
   ];
-  8741 -> 16046 [
+  8741 -> 16047 [
     weight=100
     type=operates
   ];
@@ -249657,7 +249657,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8742 -> 16070 [
+  8742 -> 16071 [
     weight=100
     type=operates
   ];
@@ -249689,7 +249689,7 @@ digraph {
     weight=22.49
     type=owns
   ];
-  8750 -> 16087 [
+  8750 -> 16088 [
     weight=100
     type=operates
   ];
@@ -249737,7 +249737,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8751 -> 16344 [
+  8751 -> 16345 [
     weight=100
     type=operates
   ];
@@ -249777,7 +249777,7 @@ digraph {
     weight=20
     type=owns
   ];
-  8762 -> 16022 [
+  8762 -> 16023 [
     weight=100
     type=operates
   ];
@@ -249801,11 +249801,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8779 -> 16029 [
+  8779 -> 16030 [
     weight=100
     type=operates
   ];
-  8783 -> 16199 [
+  8783 -> 16200 [
     weight=100
     type=operates
   ];
@@ -249897,11 +249897,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8821 -> 16040 [
+  8821 -> 16041 [
     weight=100
     type=operates
   ];
-  8821 -> 16041 [
+  8821 -> 16042 [
     weight=100
     type=operates
   ];
@@ -249925,7 +249925,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8823 -> 16041 [
+  8823 -> 16042 [
     weight=100
     type=operates
   ];
@@ -249993,11 +249993,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8829 -> 15972 [
+  8829 -> 15973 [
     weight=100
     type=operates
   ];
-  8838 -> 16049 [
+  8838 -> 16050 [
     weight=100
     type=operates
   ];
@@ -250341,7 +250341,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8882 -> 16043 [
+  8882 -> 16044 [
     weight=100
     type=operates
   ];
@@ -250353,11 +250353,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8884 -> 15980 [
+  8884 -> 15981 [
     weight=100
     type=operates
   ];
-  8884 -> 16064 [
+  8884 -> 16065 [
     weight=100
     type=operates
   ];
@@ -250373,11 +250373,11 @@ digraph {
     weight=100
     type=operates
   ];
-  8891 -> 16053 [
+  8891 -> 16054 [
     weight=100
     type=operates
   ];
-  8891 -> 16467 [
+  8891 -> 16468 [
     weight=100
     type=operates
   ];
@@ -250429,7 +250429,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8896 -> 16067 [
+  8896 -> 16068 [
     weight=100
     type=operates
   ];
@@ -250485,7 +250485,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8921 -> 16071 [
+  8921 -> 16072 [
     weight=100
     type=operates
   ];
@@ -250497,7 +250497,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8928 -> 16072 [
+  8928 -> 16073 [
     weight=100
     type=operates
   ];
@@ -250557,7 +250557,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8930 -> 16077 [
+  8930 -> 16078 [
     weight=100
     type=operates
   ];
@@ -250589,7 +250589,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8932 -> 16432 [
+  8932 -> 16433 [
     weight=100
     type=operates
   ];
@@ -250673,7 +250673,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8968 -> 16085 [
+  8968 -> 16086 [
     weight=100
     type=operates
   ];
@@ -250801,7 +250801,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8985 -> 16383 [
+  8985 -> 16384 [
     weight=100
     type=operates
   ];
@@ -251121,19 +251121,15 @@ digraph {
     weight=100
     type=operates
   ];
-  9003 -> 16062 [
+  9003 -> 16063 [
     weight=100
     type=operates
   ];
-  9003 -> 16115 [
+  9003 -> 16116 [
     weight=100
     type=operates
   ];
-  9003 -> 16135 [
-    weight=100
-    type=operates
-  ];
-  9003 -> 16142 [
+  9003 -> 16136 [
     weight=100
     type=operates
   ];
@@ -251141,11 +251137,15 @@ digraph {
     weight=100
     type=operates
   ];
-  9003 -> 16372 [
+  9003 -> 16144 [
     weight=100
     type=operates
   ];
-  9003 -> 16438 [
+  9003 -> 16373 [
+    weight=100
+    type=operates
+  ];
+  9003 -> 16439 [
     weight=100
     type=operates
   ];
@@ -251237,7 +251237,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9015 -> 16343 [
+  9015 -> 16344 [
     weight=100
     type=operates
   ];
@@ -251249,7 +251249,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9020 -> 16095 [
+  9020 -> 16096 [
     weight=100
     type=operates
   ];
@@ -251381,7 +251381,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9061 -> 16107 [
+  9061 -> 16108 [
     weight=100
     type=operates
   ];
@@ -251409,7 +251409,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9072 -> 16122 [
+  9072 -> 16123 [
     weight=100
     type=operates
   ];
@@ -251517,7 +251517,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9102 -> 16167 [
+  9102 -> 16168 [
     weight=100
     type=operates
   ];
@@ -251781,7 +251781,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9139 -> 16119 [
+  9139 -> 16120 [
     weight=100
     type=operates
   ];
@@ -251813,7 +251813,7 @@ digraph {
     weight=1
     type=owns
   ];
-  9148 -> 16121 [
+  9148 -> 16122 [
     weight=100
     type=operates
   ];
@@ -251909,7 +251909,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9170 -> 16123 [
+  9170 -> 16124 [
     weight=100
     type=operates
   ];
@@ -251993,7 +251993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9218 -> 16139 [
+  9218 -> 16140 [
     weight=100
     type=operates
   ];
@@ -252053,7 +252053,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9229 -> 16140 [
+  9229 -> 16141 [
     weight=100
     type=operates
   ];
@@ -252065,7 +252065,7 @@ digraph {
     weight=50
     type=owns
   ];
-  9233 -> 16083 [
+  9233 -> 16084 [
     weight=100
     type=operates
   ];
@@ -252225,7 +252225,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9286 -> 16141 [
+  9286 -> 16142 [
     weight=100
     type=operates
   ];
@@ -252241,7 +252241,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9290 -> 16146 [
+  9290 -> 16147 [
     weight=100
     type=operates
   ];
@@ -252301,7 +252301,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9311 -> 16306 [
+  9311 -> 16307 [
     weight=100
     type=operates
   ];
@@ -252357,7 +252357,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9321 -> 16485 [
+  9321 -> 16486 [
     weight=100
     type=operates
   ];
@@ -252593,11 +252593,11 @@ digraph {
     weight=100
     type=operates
   ];
-  9324 -> 16010 [
+  9324 -> 16011 [
     weight=100
     type=operates
   ];
-  9324 -> 16413 [
+  9324 -> 16414 [
     weight=100
     type=operates
   ];
@@ -252649,7 +252649,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9325 -> 16061 [
+  9325 -> 16062 [
     weight=100
     type=operates
   ];
@@ -252709,7 +252709,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9332 -> 16051 [
+  9332 -> 16052 [
     weight=100
     type=operates
   ];
@@ -252745,7 +252745,7 @@ digraph {
     weight=12.5
     type=owns
   ];
-  9343 -> 16059 [
+  9343 -> 16060 [
     weight=100
     type=operates
   ];
@@ -252805,7 +252805,7 @@ digraph {
     weight=1
     type=owns
   ];
-  9367 -> 16160 [
+  9367 -> 16161 [
     weight=100
     type=operates
   ];
@@ -252861,7 +252861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9373 -> 16308 [
+  9373 -> 16309 [
     weight=100
     type=operates
   ];
@@ -252869,7 +252869,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9375 -> 16500 [
+  9375 -> 15953 [
     weight=100
     type=operates
   ];
@@ -252889,7 +252889,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9378 -> 16068 [
+  9378 -> 16069 [
     weight=100
     type=operates
   ];
@@ -252933,7 +252933,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9400 -> 16171 [
+  9400 -> 16172 [
     weight=100
     type=operates
   ];
@@ -253025,7 +253025,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9432 -> 16126 [
+  9432 -> 16127 [
     weight=100
     type=operates
   ];
@@ -253033,7 +253033,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9435 -> 16182 [
+  9435 -> 16183 [
     weight=100
     type=operates
   ];
@@ -253073,7 +253073,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9443 -> 16185 [
+  9443 -> 16186 [
     weight=100
     type=operates
   ];
@@ -253097,7 +253097,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9453 -> 16161 [
+  9453 -> 16162 [
     weight=100
     type=operates
   ];
@@ -253157,7 +253157,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9465 -> 16217 [
+  9465 -> 16218 [
     weight=100
     type=operates
   ];
@@ -253197,7 +253197,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9481 -> 16190 [
+  9481 -> 16191 [
     weight=100
     type=operates
   ];
@@ -253213,7 +253213,7 @@ digraph {
     weight=1.4
     type=owns
   ];
-  9488 -> 16192 [
+  9488 -> 16193 [
     weight=100
     type=operates
   ];
@@ -253237,7 +253237,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9493 -> 16193 [
+  9493 -> 16194 [
     weight=100
     type=operates
   ];
@@ -253297,7 +253297,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9513 -> 16256 [
+  9513 -> 16257 [
     weight=100
     type=operates
   ];
@@ -253377,11 +253377,11 @@ digraph {
     weight=100
     type=operates
   ];
-  9527 -> 16232 [
+  9527 -> 16233 [
     weight=100
     type=operates
   ];
-  9527 -> 16233 [
+  9527 -> 16234 [
     weight=100
     type=operates
   ];
@@ -253393,7 +253393,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9531 -> 16234 [
+  9531 -> 16235 [
     weight=100
     type=operates
   ];
@@ -253433,7 +253433,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9541 -> 16236 [
+  9541 -> 16237 [
     weight=100
     type=operates
   ];
@@ -253513,7 +253513,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9563 -> 16242 [
+  9563 -> 16243 [
     weight=100
     type=operates
   ];
@@ -253601,7 +253601,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9576 -> 16274 [
+  9576 -> 16275 [
     weight=100
     type=operates
   ];
@@ -253665,7 +253665,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9586 -> 16243 [
+  9586 -> 16244 [
     weight=100
     type=operates
   ];
@@ -253681,7 +253681,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9593 -> 16244 [
+  9593 -> 16245 [
     weight=100
     type=operates
   ];
@@ -253693,7 +253693,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9595 -> 16246 [
+  9595 -> 16247 [
     weight=100
     type=operates
   ];
@@ -253713,7 +253713,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9603 -> 16249 [
+  9603 -> 16250 [
     weight=100
     type=operates
   ];
@@ -253757,7 +253757,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9604 -> 16250 [
+  9604 -> 16251 [
     weight=100
     type=operates
   ];
@@ -253793,7 +253793,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9619 -> 16253 [
+  9619 -> 16254 [
     weight=100
     type=operates
   ];
@@ -253849,7 +253849,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9634 -> 16259 [
+  9634 -> 16260 [
     weight=100
     type=operates
   ];
@@ -253857,7 +253857,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9636 -> 16353 [
+  9636 -> 16354 [
     weight=100
     type=operates
   ];
@@ -253913,7 +253913,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9650 -> 16265 [
+  9650 -> 16266 [
     weight=100
     type=operates
   ];
@@ -253929,7 +253929,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9657 -> 16269 [
+  9657 -> 16270 [
     weight=100
     type=operates
   ];
@@ -253961,7 +253961,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9671 -> 16201 [
+  9671 -> 16202 [
     weight=100
     type=operates
   ];
@@ -253969,7 +253969,7 @@ digraph {
     weight=44.25
     type=owns
   ];
-  9674 -> 16271 [
+  9674 -> 16272 [
     weight=100
     type=operates
   ];
@@ -253981,7 +253981,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9699 -> 16222 [
+  9699 -> 16223 [
     weight=100
     type=operates
   ];
@@ -253993,7 +253993,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9702 -> 16276 [
+  9702 -> 16277 [
     weight=100
     type=operates
   ];
@@ -254013,7 +254013,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9710 -> 16289 [
+  9710 -> 16290 [
     weight=100
     type=operates
   ];
@@ -254033,7 +254033,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9714 -> 16277 [
+  9714 -> 16278 [
     weight=100
     type=operates
   ];
@@ -254057,7 +254057,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9716 -> 16279 [
+  9716 -> 16280 [
     weight=100
     type=operates
   ];
@@ -254081,7 +254081,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9720 -> 16205 [
+  9720 -> 16206 [
     weight=100
     type=operates
   ];
@@ -254105,7 +254105,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9727 -> 16281 [
+  9727 -> 16282 [
     weight=100
     type=operates
   ];
@@ -254177,7 +254177,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9755 -> 16287 [
+  9755 -> 16288 [
     weight=100
     type=operates
   ];
@@ -254209,7 +254209,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9765 -> 16291 [
+  9765 -> 16292 [
     weight=100
     type=operates
   ];
@@ -254221,7 +254221,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9772 -> 16294 [
+  9772 -> 16295 [
     weight=100
     type=operates
   ];
@@ -254253,7 +254253,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9778 -> 16296 [
+  9778 -> 16297 [
     weight=100
     type=operates
   ];
@@ -254285,7 +254285,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9786 -> 16326 [
+  9786 -> 16327 [
     weight=100
     type=operates
   ];
@@ -254293,7 +254293,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9792 -> 16298 [
+  9792 -> 16299 [
     weight=100
     type=operates
   ];
@@ -254345,7 +254345,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9805 -> 16299 [
+  9805 -> 16300 [
     weight=100
     type=operates
   ];
@@ -254361,7 +254361,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9808 -> 16212 [
+  9808 -> 16213 [
     weight=100
     type=operates
   ];
@@ -254425,7 +254425,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9813 -> 15990 [
+  9813 -> 15991 [
     weight=100
     type=operates
   ];
@@ -254441,11 +254441,11 @@ digraph {
     weight=100
     type=operates
   ];
-  9815 -> 15993 [
+  9815 -> 15994 [
     weight=100
     type=operates
   ];
-  9815 -> 16301 [
+  9815 -> 16302 [
     weight=100
     type=operates
   ];
@@ -254457,7 +254457,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9817 -> 16213 [
+  9817 -> 16214 [
     weight=100
     type=operates
   ];
@@ -254465,11 +254465,11 @@ digraph {
     weight=50
     type=owns
   ];
-  9820 -> 16266 [
+  9820 -> 16267 [
     weight=100
     type=operates
   ];
-  9822 -> 16215 [
+  9822 -> 16216 [
     weight=100
     type=operates
   ];
@@ -254485,7 +254485,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9829 -> 16283 [
+  9829 -> 16284 [
     weight=100
     type=operates
   ];
@@ -254493,11 +254493,11 @@ digraph {
     weight=100
     type=operates
   ];
-  9835 -> 16088 [
+  9835 -> 16089 [
     weight=100
     type=operates
   ];
-  9835 -> 16089 [
+  9835 -> 16090 [
     weight=100
     type=operates
   ];
@@ -254529,7 +254529,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9841 -> 16218 [
+  9841 -> 16219 [
     weight=100
     type=operates
   ];
@@ -254549,7 +254549,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9844 -> 16219 [
+  9844 -> 16220 [
     weight=100
     type=operates
   ];
@@ -254597,7 +254597,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9853 -> 16334 [
+  9853 -> 16335 [
     weight=100
     type=operates
   ];
@@ -254645,7 +254645,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9860 -> 16309 [
+  9860 -> 16310 [
     weight=100
     type=operates
   ];
@@ -254665,7 +254665,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9863 -> 16425 [
+  9863 -> 16426 [
     weight=100
     type=operates
   ];
@@ -254697,7 +254697,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9873 -> 16313 [
+  9873 -> 16314 [
     weight=100
     type=operates
   ];
@@ -254705,7 +254705,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9876 -> 16221 [
+  9876 -> 16222 [
     weight=100
     type=operates
   ];
@@ -254745,7 +254745,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9880 -> 16494 [
+  9880 -> 16495 [
     weight=100
     type=operates
   ];
@@ -254753,7 +254753,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9884 -> 16225 [
+  9884 -> 16226 [
     weight=100
     type=operates
   ];
@@ -254761,7 +254761,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9889 -> 16316 [
+  9889 -> 16317 [
     weight=100
     type=operates
   ];
@@ -254789,7 +254789,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9894 -> 16317 [
+  9894 -> 16318 [
     weight=100
     type=operates
   ];
@@ -254861,7 +254861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9913 -> 16321 [
+  9913 -> 16322 [
     weight=100
     type=operates
   ];
@@ -254893,7 +254893,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9921 -> 16322 [
+  9921 -> 16323 [
     weight=100
     type=operates
   ];
@@ -254905,7 +254905,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9926 -> 16224 [
+  9926 -> 16225 [
     weight=100
     type=operates
   ];
@@ -254913,7 +254913,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9928 -> 16227 [
+  9928 -> 16228 [
     weight=100
     type=operates
   ];
@@ -254933,7 +254933,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9936 -> 16325 [
+  9936 -> 16326 [
     weight=100
     type=operates
   ];
@@ -254949,7 +254949,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9940 -> 16229 [
+  9940 -> 16230 [
     weight=100
     type=operates
   ];
@@ -254965,7 +254965,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9951 -> 16330 [
+  9951 -> 16331 [
     weight=100
     type=operates
   ];
@@ -254977,7 +254977,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9955 -> 16331 [
+  9955 -> 16332 [
     weight=100
     type=operates
   ];
@@ -255001,7 +255001,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9957 -> 16442 [
+  9957 -> 16443 [
     weight=100
     type=operates
   ];
@@ -255033,15 +255033,15 @@ digraph {
     weight=100
     type=operates
   ];
-  9963 -> 16245 [
+  9963 -> 16246 [
     weight=100
     type=operates
   ];
-  9964 -> 16231 [
+  9964 -> 16232 [
     weight=100
     type=operates
   ];
-  9964 -> 16295 [
+  9964 -> 16296 [
     weight=100
     type=operates
   ];
@@ -255085,7 +255085,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9966 -> 16132 [
+  9966 -> 16133 [
     weight=100
     type=operates
   ];
@@ -255097,7 +255097,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9968 -> 16235 [
+  9968 -> 16236 [
     weight=100
     type=operates
   ];
@@ -255109,7 +255109,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9971 -> 16241 [
+  9971 -> 16242 [
     weight=100
     type=operates
   ];
@@ -255125,7 +255125,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9975 -> 16233 [
+  9975 -> 16234 [
     weight=100
     type=operates
   ];
@@ -255169,7 +255169,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9990 -> 16305 [
+  9990 -> 16306 [
     weight=100
     type=operates
   ];
@@ -255205,7 +255205,7 @@ digraph {
     weight=2.65
     type=owns
   ];
-  10004 -> 16403 [
+  10004 -> 16404 [
     weight=100
     type=operates
   ];
@@ -255277,7 +255277,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10027 -> 15992 [
+  10027 -> 15993 [
     weight=100
     type=operates
   ];
@@ -255361,7 +255361,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10047 -> 16116 [
+  10047 -> 16117 [
     weight=100
     type=operates
   ];
@@ -255409,7 +255409,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10063 -> 16351 [
+  10063 -> 16352 [
     weight=100
     type=operates
   ];
@@ -255489,7 +255489,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10084 -> 16324 [
+  10084 -> 16325 [
     weight=100
     type=operates
   ];
@@ -255529,7 +255529,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10090 -> 16358 [
+  10090 -> 16359 [
     weight=100
     type=operates
   ];
@@ -255553,7 +255553,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10092 -> 16273 [
+  10092 -> 16274 [
     weight=100
     type=operates
   ];
@@ -255565,7 +255565,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10093 -> 16130 [
+  10093 -> 16131 [
     weight=100
     type=operates
   ];
@@ -255613,7 +255613,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10095 -> 16011 [
+  10095 -> 16012 [
     weight=100
     type=operates
   ];
@@ -255625,7 +255625,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10098 -> 16359 [
+  10098 -> 16360 [
     weight=100
     type=operates
   ];
@@ -255645,7 +255645,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10110 -> 16363 [
+  10110 -> 16364 [
     weight=100
     type=operates
   ];
@@ -255665,7 +255665,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10119 -> 16364 [
+  10119 -> 16365 [
     weight=100
     type=operates
   ];
@@ -255681,7 +255681,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10122 -> 16365 [
+  10122 -> 16366 [
     weight=100
     type=operates
   ];
@@ -255789,7 +255789,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10124 -> 16445 [
+  10124 -> 16446 [
     weight=100
     type=operates
   ];
@@ -255813,7 +255813,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10134 -> 16371 [
+  10134 -> 16372 [
     weight=100
     type=operates
   ];
@@ -255949,7 +255949,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10164 -> 16374 [
+  10164 -> 16375 [
     weight=100
     type=operates
   ];
@@ -256033,11 +256033,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10183 -> 16184 [
+  10183 -> 16185 [
     weight=100
     type=operates
   ];
-  10183 -> 16396 [
+  10183 -> 16397 [
     weight=100
     type=operates
   ];
@@ -256061,7 +256061,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10185 -> 16385 [
+  10185 -> 16386 [
     weight=100
     type=operates
   ];
@@ -256081,7 +256081,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10192 -> 16387 [
+  10192 -> 16388 [
     weight=100
     type=operates
   ];
@@ -256245,7 +256245,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10223 -> 16391 [
+  10223 -> 16392 [
     weight=100
     type=operates
   ];
@@ -256281,7 +256281,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10240 -> 16393 [
+  10240 -> 16394 [
     weight=100
     type=operates
   ];
@@ -256293,7 +256293,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10243 -> 16394 [
+  10243 -> 16395 [
     weight=100
     type=operates
   ];
@@ -256301,7 +256301,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10248 -> 16406 [
+  10248 -> 16407 [
     weight=100
     type=operates
   ];
@@ -256325,7 +256325,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10256 -> 16405 [
+  10256 -> 16406 [
     weight=100
     type=operates
   ];
@@ -256361,7 +256361,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10259 -> 16417 [
+  10259 -> 16418 [
     weight=100
     type=operates
   ];
@@ -256585,7 +256585,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10277 -> 16440 [
+  10277 -> 16441 [
     weight=100
     type=operates
   ];
@@ -256673,7 +256673,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10287 -> 16407 [
+  10287 -> 16408 [
     weight=100
     type=operates
   ];
@@ -256685,7 +256685,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10289 -> 16223 [
+  10289 -> 16224 [
     weight=100
     type=operates
   ];
@@ -256873,7 +256873,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10348 -> 16318 [
+  10348 -> 16319 [
     weight=100
     type=operates
   ];
@@ -257477,39 +257477,39 @@ digraph {
     weight=100
     type=operates
   ];
-  10360 -> 16050 [
+  10360 -> 16051 [
     weight=100
     type=operates
   ];
-  10360 -> 16067 [
+  10360 -> 16068 [
     weight=100
     type=operates
   ];
-  10360 -> 16096 [
+  10360 -> 16097 [
     weight=100
     type=operates
   ];
-  10360 -> 16231 [
+  10360 -> 16232 [
     weight=100
     type=operates
   ];
-  10360 -> 16379 [
+  10360 -> 16380 [
     weight=100
     type=operates
   ];
-  10360 -> 16385 [
+  10360 -> 16386 [
     weight=100
     type=operates
   ];
-  10360 -> 16396 [
+  10360 -> 16397 [
     weight=100
     type=operates
   ];
-  10360 -> 16415 [
+  10360 -> 16416 [
     weight=100
     type=operates
   ];
-  10360 -> 16490 [
+  10360 -> 16491 [
     weight=100
     type=operates
   ];
@@ -257561,7 +257561,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10364 -> 16416 [
+  10364 -> 16417 [
     weight=100
     type=operates
   ];
@@ -257641,7 +257641,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10370 -> 16469 [
+  10370 -> 16470 [
     weight=100
     type=operates
   ];
@@ -257717,7 +257717,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10388 -> 16420 [
+  10388 -> 16421 [
     weight=100
     type=operates
   ];
@@ -257733,7 +257733,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10390 -> 16421 [
+  10390 -> 16422 [
     weight=100
     type=operates
   ];
@@ -257749,7 +257749,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10395 -> 16424 [
+  10395 -> 16425 [
     weight=100
     type=operates
   ];
@@ -257765,7 +257765,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10400 -> 16422 [
+  10400 -> 16423 [
     weight=100
     type=operates
   ];
@@ -257773,7 +257773,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10407 -> 16427 [
+  10407 -> 16428 [
     weight=100
     type=operates
   ];
@@ -257833,7 +257833,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10425 -> 16430 [
+  10425 -> 16431 [
     weight=100
     type=operates
   ];
@@ -257933,7 +257933,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10458 -> 16434 [
+  10458 -> 16435 [
     weight=100
     type=operates
   ];
@@ -258065,11 +258065,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10489 -> 16137 [
+  10489 -> 16138 [
     weight=100
     type=operates
   ];
-  10490 -> 16480 [
+  10490 -> 16481 [
     weight=100
     type=operates
   ];
@@ -258097,15 +258097,15 @@ digraph {
     weight=100
     type=operates
   ];
-  10494 -> 16440 [
-    weight=100
-    type=operates
-  ];
-  10494 -> 16482 [
+  10494 -> 16441 [
     weight=100
     type=operates
   ];
   10494 -> 16483 [
+    weight=100
+    type=operates
+  ];
+  10494 -> 16484 [
     weight=100
     type=operates
   ];
@@ -258365,7 +258365,7 @@ digraph {
     weight=99.72
     type=owns
   ];
-  10530 -> 16456 [
+  10530 -> 16457 [
     weight=100
     type=operates
   ];
@@ -258377,15 +258377,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10532 -> 15965 [
+  10532 -> 15966 [
     weight=100
     type=operates
   ];
-  10532 -> 16138 [
-    weight=100
-    type=operates
-  ];
-  10532 -> 16453 [
+  10532 -> 16139 [
     weight=100
     type=operates
   ];
@@ -258402,6 +258398,10 @@ digraph {
     type=operates
   ];
   10532 -> 16457 [
+    weight=100
+    type=operates
+  ];
+  10532 -> 16458 [
     weight=100
     type=operates
   ];
@@ -258437,11 +258437,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10538 -> 16454 [
+  10538 -> 16455 [
     weight=100
     type=operates
   ];
-  10538 -> 16455 [
+  10538 -> 16456 [
     weight=100
     type=operates
   ];
@@ -258641,11 +258641,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10548 -> 15965 [
-    weight=100
-    type=operates
-  ];
-  10548 -> 16448 [
+  10548 -> 15966 [
     weight=100
     type=operates
   ];
@@ -258665,11 +258661,15 @@ digraph {
     weight=100
     type=operates
   ];
+  10548 -> 16453 [
+    weight=100
+    type=operates
+  ];
   10550 -> 10549 [
     weight=100
     type=operates
   ];
-  10550 -> 16457 [
+  10550 -> 16458 [
     weight=100
     type=operates
   ];
@@ -258681,7 +258681,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10556 -> 16458 [
+  10556 -> 16459 [
     weight=100
     type=operates
   ];
@@ -258705,7 +258705,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10558 -> 16069 [
+  10558 -> 16070 [
     weight=100
     type=operates
   ];
@@ -258909,7 +258909,7 @@ digraph {
     weight=5
     type=owns
   ];
-  10592 -> 16468 [
+  10592 -> 16469 [
     weight=100
     type=operates
   ];
@@ -258957,7 +258957,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10602 -> 16230 [
+  10602 -> 16231 [
     weight=100
     type=operates
   ];
@@ -259001,15 +259001,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10603 -> 16258 [
+  10603 -> 16259 [
     weight=100
     type=operates
   ];
-  10603 -> 16262 [
-    weight=100
-    type=operates
-  ];
-  10603 -> 16345 [
+  10603 -> 16263 [
     weight=100
     type=operates
   ];
@@ -259029,6 +259025,10 @@ digraph {
     weight=100
     type=operates
   ];
+  10603 -> 16350 [
+    weight=100
+    type=operates
+  ];
   10604 -> 3280 [
     weight=100
     type=owns
@@ -259041,7 +259041,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10606 -> 16471 [
+  10606 -> 16472 [
     weight=100
     type=operates
   ];
@@ -259077,7 +259077,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10613 -> 16336 [
+  10613 -> 16337 [
     weight=100
     type=operates
   ];
@@ -259137,7 +259137,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10637 -> 16019 [
+  10637 -> 16020 [
     weight=100
     type=operates
   ];
@@ -259517,11 +259517,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10716 -> 16482 [
+  10716 -> 16483 [
     weight=100
     type=operates
   ];
-  10716 -> 16483 [
+  10716 -> 16484 [
     weight=100
     type=operates
   ];
@@ -259613,11 +259613,11 @@ digraph {
     weight=100
     type=operates
   ];
-  10751 -> 16063 [
+  10751 -> 16064 [
     weight=100
     type=operates
   ];
-  10751 -> 16487 [
+  10751 -> 16488 [
     weight=100
     type=operates
   ];
@@ -259637,7 +259637,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10760 -> 16493 [
+  10760 -> 16494 [
     weight=100
     type=operates
   ];
@@ -259645,7 +259645,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10763 -> 16495 [
+  10763 -> 16496 [
     weight=100
     type=operates
   ];
@@ -259849,7 +259849,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10814 -> 16412 [
+  10814 -> 16413 [
     weight=100
     type=operates
   ];
@@ -260181,7 +260181,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10941 -> 15973 [
+  10941 -> 15974 [
     weight=100
     type=operates
   ];
@@ -260869,7 +260869,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11115 -> 16004 [
+  11115 -> 16005 [
     weight=100
     type=operates
   ];
@@ -260893,11 +260893,11 @@ digraph {
     weight=50
     type=owns
   ];
-  11123 -> 16280 [
+  11123 -> 16281 [
     weight=100
     type=operates
   ];
-  11123 -> 16307 [
+  11123 -> 16308 [
     weight=100
     type=operates
   ];
@@ -262005,11 +262005,11 @@ digraph {
     weight=100
     type=operates
   ];
-  11322 -> 16003 [
+  11322 -> 16004 [
     weight=100
     type=operates
   ];
-  11322 -> 16007 [
+  11322 -> 16008 [
     weight=100
     type=operates
   ];
@@ -262033,7 +262033,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11335 -> 16183 [
+  11335 -> 16184 [
     weight=100
     type=operates
   ];
@@ -262141,7 +262141,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11344 -> 16174 [
+  11344 -> 15953 [
     weight=100
     type=operates
   ];
@@ -262149,19 +262149,19 @@ digraph {
     weight=100
     type=operates
   ];
-  11344 -> 16177 [
+  11344 -> 16176 [
     weight=100
     type=operates
   ];
-  11344 -> 16335 [
+  11344 -> 16178 [
     weight=100
     type=operates
   ];
-  11344 -> 16337 [
+  11344 -> 16336 [
     weight=100
     type=operates
   ];
-  11344 -> 16500 [
+  11344 -> 16338 [
     weight=100
     type=operates
   ];
@@ -262617,7 +262617,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11411 -> 16304 [
+  11411 -> 16305 [
     weight=100
     type=operates
   ];
@@ -262689,7 +262689,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11441 -> 16065 [
+  11441 -> 16066 [
     weight=100
     type=operates
   ];
@@ -263377,7 +263377,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11653 -> 16332 [
+  11653 -> 16333 [
     weight=100
     type=operates
   ];
@@ -263509,7 +263509,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11696 -> 16463 [
+  11696 -> 16464 [
     weight=100
     type=operates
   ];
@@ -264065,7 +264065,7 @@ digraph {
     weight=7
     type=owns
   ];
-  11816 -> 16008 [
+  11816 -> 16009 [
     weight=100
     type=operates
   ];
@@ -265669,7 +265669,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12227 -> 16290 [
+  12227 -> 16291 [
     weight=100
     type=operates
   ];
@@ -265929,19 +265929,19 @@ digraph {
     weight=100
     type=operates
   ];
-  12237 -> 15977 [
+  12237 -> 15978 [
     weight=100
     type=operates
   ];
-  12237 -> 16002 [
+  12237 -> 16003 [
     weight=100
     type=operates
   ];
-  12237 -> 16004 [
+  12237 -> 16005 [
     weight=100
     type=operates
   ];
-  12237 -> 16007 [
+  12237 -> 16008 [
     weight=100
     type=operates
   ];
@@ -266429,7 +266429,7 @@ digraph {
     weight=1
     type=owns
   ];
-  12357 -> 16488 [
+  12357 -> 16489 [
     weight=100
     type=operates
   ];
@@ -266729,7 +266729,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12405 -> 16129 [
+  12405 -> 16130 [
     weight=100
     type=operates
   ];
@@ -267001,7 +267001,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12472 -> 16042 [
+  12472 -> 16043 [
     weight=100
     type=operates
   ];
@@ -267197,7 +267197,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12565 -> 16303 [
+  12565 -> 16304 [
     weight=100
     type=operates
   ];
@@ -267337,7 +267337,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12585 -> 16284 [
+  12585 -> 16285 [
     weight=100
     type=operates
   ];
@@ -268169,7 +268169,7 @@ digraph {
     weight=100
     type=operates
   ];
-  12799 -> 16206 [
+  12799 -> 16207 [
     weight=100
     type=operates
   ];
@@ -268885,7 +268885,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13007 -> 16037 [
+  13007 -> 16038 [
     weight=100
     type=operates
   ];
@@ -268917,7 +268917,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  13032 -> 16159 [
+  13032 -> 16160 [
     weight=100
     type=operates
   ];
@@ -268929,7 +268929,7 @@ digraph {
     weight=1
     type=owns
   ];
-  13042 -> 16470 [
+  13042 -> 16471 [
     weight=100
     type=operates
   ];
@@ -269245,7 +269245,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13128 -> 16354 [
+  13128 -> 16355 [
     weight=100
     type=operates
   ];
@@ -269269,7 +269269,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13132 -> 16141 [
+  13132 -> 16142 [
     weight=100
     type=operates
   ];
@@ -269421,7 +269421,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13133 -> 15989 [
+  13133 -> 15990 [
     weight=100
     type=operates
   ];
@@ -269533,7 +269533,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13141 -> 16105 [
+  13141 -> 16106 [
     weight=100
     type=operates
   ];
@@ -269645,7 +269645,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13151 -> 16469 [
+  13151 -> 16470 [
     weight=100
     type=operates
   ];
@@ -269705,7 +269705,7 @@ digraph {
     weight=3.01
     type=owns
   ];
-  13160 -> 15958 [
+  13160 -> 15959 [
     weight=100
     type=operates
   ];
@@ -269853,23 +269853,23 @@ digraph {
     weight=100
     type=operates
   ];
-  13161 -> 15967 [
+  13161 -> 15968 [
     weight=100
     type=operates
   ];
-  13161 -> 15976 [
+  13161 -> 15977 [
     weight=100
     type=operates
   ];
-  13161 -> 15978 [
+  13161 -> 15979 [
     weight=100
     type=operates
   ];
-  13161 -> 16105 [
+  13161 -> 16106 [
     weight=100
     type=operates
   ];
-  13161 -> 16437 [
+  13161 -> 16438 [
     weight=100
     type=operates
   ];
@@ -270229,7 +270229,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13183 -> 16436 [
+  13183 -> 16437 [
     weight=100
     type=operates
   ];
@@ -270249,7 +270249,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13185 -> 16014 [
+  13185 -> 16015 [
     weight=100
     type=operates
   ];
@@ -270493,7 +270493,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13231 -> 16038 [
+  13231 -> 16039 [
     weight=100
     type=operates
   ];
@@ -270661,11 +270661,11 @@ digraph {
     weight=100
     type=operates
   ];
-  13277 -> 15959 [
+  13277 -> 15960 [
     weight=100
     type=operates
   ];
-  13277 -> 16090 [
+  13277 -> 16091 [
     weight=100
     type=operates
   ];
@@ -270769,7 +270769,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13301 -> 15966 [
+  13301 -> 15967 [
     weight=100
     type=operates
   ];
@@ -270813,11 +270813,11 @@ digraph {
     weight=100
     type=operates
   ];
-  13315 -> 16315 [
+  13315 -> 16316 [
     weight=100
     type=operates
   ];
-  13315 -> 16426 [
+  13315 -> 16427 [
     weight=100
     type=operates
   ];
@@ -271521,23 +271521,23 @@ digraph {
     weight=100
     type=operates
   ];
-  13446 -> 15971 [
+  13446 -> 15972 [
     weight=100
     type=operates
   ];
-  13446 -> 16082 [
+  13446 -> 16083 [
     weight=100
     type=operates
   ];
-  13446 -> 16399 [
+  13446 -> 16400 [
     weight=100
     type=operates
   ];
-  13446 -> 16414 [
+  13446 -> 16415 [
     weight=100
     type=operates
   ];
-  13446 -> 16465 [
+  13446 -> 16466 [
     weight=100
     type=operates
   ];
@@ -272177,7 +272177,7 @@ digraph {
     weight=18.9
     type=owns
   ];
-  13616 -> 16023 [
+  13616 -> 16024 [
     weight=100
     type=operates
   ];
@@ -272445,11 +272445,11 @@ digraph {
     weight=100
     type=operates
   ];
-  13671 -> 16097 [
+  13671 -> 16098 [
     weight=100
     type=operates
   ];
-  13671 -> 16098 [
+  13671 -> 16099 [
     weight=100
     type=operates
   ];
@@ -272945,7 +272945,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13772 -> 16129 [
+  13772 -> 16130 [
     weight=100
     type=operates
   ];
@@ -274613,7 +274613,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17331 -> 16410 [
+  17331 -> 16411 [
     weight=100
     type=operates
   ];
@@ -275005,7 +275005,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17396 -> 16011 [
+  17396 -> 16012 [
     weight=100
     type=operates
   ];
@@ -275385,11 +275385,11 @@ digraph {
     weight=100
     type=operates
   ];
-  17418 -> 16043 [
+  17418 -> 16044 [
     weight=100
     type=operates
   ];
-  17418 -> 16080 [
+  17418 -> 16081 [
     weight=100
     type=operates
   ];
@@ -275533,7 +275533,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17452 -> 16431 [
+  17452 -> 16432 [
     weight=100
     type=operates
   ];
@@ -275641,7 +275641,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17475 -> 16120 [
+  17475 -> 16121 [
     weight=100
     type=operates
   ];
@@ -275689,7 +275689,7 @@ digraph {
     weight=100
     type=owns
   ];
-  17486 -> 16025 [
+  17486 -> 16026 [
     weight=100
     type=operates
   ];
@@ -275709,7 +275709,7 @@ digraph {
     weight=1
     type=owns
   ];
-  17491 -> 16056 [
+  17491 -> 16057 [
     weight=100
     type=operates
   ];
