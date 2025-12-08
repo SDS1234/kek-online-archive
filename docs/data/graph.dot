@@ -17767,7 +17767,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.3145
+    num_medias_weighted=0.3168
     name="60e58d66-6e5a-4aae-a010-164d9f2255a1"
     in_degree=0
     out_degree=1
@@ -18607,7 +18607,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0375
+    num_medias_weighted=0.0378
     name="60e58e1d-25a7-487c-90f9-acd78336901a"
     in_degree=0
     out_degree=1
@@ -37027,7 +37027,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=4
-    num_medias_weighted=0.5299
+    num_medias_weighted=0.5303
     name="63ce980b-bddb-48c4-b65f-36ec34f6b16e"
     in_degree=0
     out_degree=1
@@ -38563,7 +38563,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.7661
+    num_medias_weighted=0.7716
     name="6093bde5-43f4-4cfa-a6c0-67fbfa691ec1"
     in_degree=0
     out_degree=1
@@ -38659,7 +38659,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0279
+    num_medias_weighted=0.0282
     name="5be1a6b6-dfaa-4fce-bcf0-b3356fcf2e98"
     in_degree=0
     out_degree=1
@@ -39067,7 +39067,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0137
+    num_medias_weighted=0.0138
     name="60e58ce5-4e1e-426a-be5f-48f216151895"
     in_degree=0
     out_degree=1
@@ -44815,7 +44815,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=12.8381
+    num_medias_weighted=12.9303
     name="607ea08d-b286-4394-9f37-8bccc08d640f"
     in_degree=0
     out_degree=1
@@ -46483,7 +46483,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=38
-    num_medias_weighted=12.8381
+    num_medias_weighted=12.9303
     name="5e5901c8-6ef8-4ea0-abff-097a0598557b"
     in_degree=1
     out_degree=1
@@ -50515,7 +50515,7 @@ digraph {
     num_owners=17
     num_owners_weighted=17.0000
     num_medias=63
-    num_medias_weighted=7.0268
+    num_medias_weighted=7.0269
     name="5bf40545-4596-4b19-b5ef-85b703781941"
     in_degree=17
     out_degree=2
@@ -70891,7 +70891,7 @@ digraph {
     num_owners=17
     num_owners_weighted=17.0000
     num_medias=61
-    num_medias_weighted=7.3030
+    num_medias_weighted=7.3031
     name="5be1a6b6-c06e-4e23-86c0-a9062f2be140"
     in_degree=16
     out_degree=1
@@ -91987,7 +91987,7 @@ digraph {
     num_owners=22
     num_owners_weighted=12.1600
     num_medias=61
-    num_medias_weighted=14.3196
+    num_medias_weighted=14.3199
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
     in_degree=3
     out_degree=8
@@ -94423,7 +94423,7 @@ digraph {
     num_owners=12
     num_owners_weighted=5.7500
     num_medias=38
-    num_medias_weighted=26.4159
+    num_medias_weighted=26.6056
     name="5e303067-ee73-4e4c-9496-f3aec4626bc0"
     in_degree=5
     out_degree=2
@@ -108547,7 +108547,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0343
+    num_medias_weighted=0.0345
     name="60e58d73-8ac5-4f0b-af28-791ed119cab4"
     in_degree=0
     out_degree=1
@@ -112805,7 +112805,7 @@ digraph {
     state=active
     label="Promipool GmbH"
     num_owners=12
-    num_owners_weighted=5.3769
+    num_owners_weighted=5.4605
     num_medias=2
     num_medias_weighted=2.0000
     name="5c4f01d3-f83a-4f27-9a0e-959fee8b5b22"
@@ -113011,7 +113011,7 @@ digraph {
     num_owners=15
     num_owners_weighted=7.3476
     num_medias=38
-    num_medias_weighted=34.9370
+    num_medias_weighted=35.1880
     name="5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
     in_degree=3
     out_degree=6
@@ -113023,7 +113023,7 @@ digraph {
     num_owners=27
     num_owners_weighted=8.0528
     num_medias=4
-    num_medias_weighted=1.5900
+    num_medias_weighted=1.5910
     name="63ce97bf-2d00-4afc-8155-46e90e225226"
     in_degree=3
     out_degree=3
@@ -113035,7 +113035,7 @@ digraph {
     num_owners=39
     num_owners_weighted=9.3867
     num_medias=4
-    num_medias_weighted=0.0211
+    num_medias_weighted=0.0208
     name="5ca74f5d-6f11-433b-8b2d-b8885581572d"
     in_degree=1
     out_degree=1
@@ -136987,7 +136987,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=4.8869
+    num_medias_weighted=4.9220
     name="5e59024e-f14d-4bcc-b302-9231919623dc"
     in_degree=0
     out_degree=1
@@ -138175,7 +138175,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0615
+    num_medias_weighted=0.0619
     name="5be1a6b6-d9aa-40d2-a3a4-ac54136202f6"
     in_degree=0
     out_degree=1
@@ -145639,7 +145639,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=6.7625
+    num_medias_weighted=6.8110
     name="6093bdf7-7900-48a6-8bd8-9174908f1955"
     in_degree=0
     out_degree=1
@@ -145735,7 +145735,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=6.6555
+    num_medias_weighted=6.7033
     name="5be1a6b6-dde6-410a-af8a-29b4043c49e9"
     in_degree=0
     out_degree=1
@@ -146047,7 +146047,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.7009
+    num_medias_weighted=0.7059
     name="60e58cd3-45b9-4311-84e3-1bca5fb91acb"
     in_degree=0
     out_degree=1
@@ -155395,7 +155395,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=4
-    num_medias_weighted=0.5299
+    num_medias_weighted=0.5303
     name="63ce97e4-311f-42ce-a9b6-48240deaf82e"
     in_degree=0
     out_degree=1
@@ -159703,7 +159703,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=38
-    num_medias_weighted=1.1623
+    num_medias_weighted=1.1706
     name="5e5901fa-23fb-457f-a85b-a43eafa3e2c1"
     in_degree=6
     out_degree=1
@@ -169111,7 +169111,7 @@ digraph {
     num_owners=24
     num_owners_weighted=15.1600
     num_medias=14
-    num_medias_weighted=2.0999
+    num_medias_weighted=2.1003
     name="5be1a6b6-066f-451c-b247-87acd547bf32"
     in_degree=1
     out_degree=3
@@ -185009,7 +185009,7 @@ digraph {
     state=active
     label="www.itsintv.de"
     num_owners=13
-    num_owners_weighted=6.3769
+    num_owners_weighted=6.4605
     num_medias=0
     num_medias_weighted=0.0000
     name="61e56c2c-4a1d-4c81-a5f3-5fc14903565e"
@@ -194069,7 +194069,7 @@ digraph {
     state=active
     label="www.promipool.de"
     num_owners=13
-    num_owners_weighted=6.3769
+    num_owners_weighted=6.4605
     num_medias=0
     num_medias_weighted=0.0000
     name="5c4f01c7-c9e8-4359-9900-00109fb5d657"
@@ -252954,7 +252954,7 @@ digraph {
     type=owns
   ];
   9417 -> 8360 [
-    weight=74.9
+    weight=100
     type=owns
   ];
   9417 -> 8955 [
@@ -252982,7 +252982,7 @@ digraph {
     type=owns
   ];
   9418 -> 6682 [
-    weight=9
+    weight=9.1
     type=owns
   ];
   9418 -> 14017 [
@@ -252990,7 +252990,7 @@ digraph {
     type=owns
   ];
   9419 -> 9728 [
-    weight=9.5
+    weight=9.36
     type=owns
   ];
   9420 -> 3434 [

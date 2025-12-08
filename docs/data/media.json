@@ -9203,7 +9203,7 @@
     "rfStatewide": false,
     "name": "marryMAG",
     "type": "print",
-    "controlDate": "2025-06-17T14:30:35.358Z",
+    "controlDate": "2025-12-08T14:47:29.352Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13684,7 +13684,7 @@
     "rfStatewide": false,
     "name": "ProMagazin",
     "type": "print",
-    "controlDate": "2025-06-18T07:03:02.663Z",
+    "controlDate": "2025-12-08T15:06:52.749Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13708,7 +13708,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-18T07:03:16.474Z",
+    "controlDate": "2025-12-08T15:06:59.206Z",
     "state": "active"
   },
   {
@@ -14521,7 +14521,7 @@
     "name": "www.punktum-fernsehen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T14:38:04.937Z",
+    "controlDate": "2025-12-08T15:03:34.933Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15063,7 +15063,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-17T14:52:26.951Z",
+    "controlDate": "2025-12-08T15:06:12.975Z",
     "state": "active"
   },
   {
@@ -15207,7 +15207,7 @@
     "name": "www.klickdasvideo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T13:50:17.921Z",
+    "controlDate": "2025-12-08T14:43:08.299Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -16406,7 +16406,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-17T14:24:21.099Z",
+    "controlDate": "2025-12-08T14:46:18.053Z",
     "state": "active"
   },
   {
@@ -30303,7 +30303,7 @@
     "name": "www.promipool.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T13:04:52.034Z",
+    "controlDate": "2025-12-08T14:39:00.881Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94050,7 +94050,7 @@
     "rfStatewide": false,
     "name": "Chrom und Flammen",
     "type": "print",
-    "controlDate": "2025-06-17T14:28:23.428Z",
+    "controlDate": "2025-12-08T14:47:22.522Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94377,7 +94377,7 @@
     "rfStatewide": false,
     "name": "Lift (Stuttgart)",
     "type": "print",
-    "controlDate": "2025-06-17T14:51:44.790Z",
+    "controlDate": "2025-12-08T15:05:28.401Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94672,7 +94672,7 @@
     "rfStatewide": false,
     "name": "Publik-Forum",
     "type": "print",
-    "controlDate": "2025-06-17T14:24:04.961Z",
+    "controlDate": "2025-12-08T14:46:12.130Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -106237,7 +106237,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-17T13:02:18.435Z",
+    "controlDate": "2025-12-08T14:34:57.159Z",
     "state": "active"
   },
   {
@@ -132830,7 +132830,7 @@
     "name": "www.itsintv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T13:04:10.756Z",
+    "controlDate": "2025-12-08T14:38:50.282Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144891,7 +144891,7 @@
     "name": "www.marrymag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T14:31:00.989Z",
+    "controlDate": "2025-12-08T14:47:41.665Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144959,7 +144959,7 @@
     "name": "www.chromundflammen-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T14:30:53.837Z",
+    "controlDate": "2025-12-08T14:47:36.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160746,7 +160746,7 @@
     "name": "www.pirna-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-17T14:04:26.120Z",
+    "controlDate": "2025-12-08T14:45:10.548Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
