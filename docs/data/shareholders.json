@@ -2581,7 +2581,7 @@
     "squuid": "5eff0035-09f9-4876-bede-ae6efb064583",
     "name": "Portal München Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:34:18.327Z",
+    "controlDate": "2025-12-08T11:33:54.803Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -8601,7 +8601,7 @@
     "squuid": "5be1a6b6-4dcb-4243-9296-0269946f3264",
     "name": "PREMIUM-GRUPPE GmbH ",
     "state": "active",
-    "controlDate": "2025-06-30T08:58:33.917Z",
+    "controlDate": "2025-12-08T11:47:35.296Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -14021,7 +14021,7 @@
     "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6",
     "name": "Presse-Druck- und Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-06-17T10:45:54.351Z",
+    "controlDate": "2025-12-08T11:57:21.624Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25228,7 +25228,7 @@
     "squuid": "5be1a6b6-e3b8-42d0-91b7-8c0229f78830",
     "name": "Power Radio GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:43:27.352Z",
+    "controlDate": "2025-12-08T11:37:54.895Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -25474,7 +25474,7 @@
     "squuid": "5be1a6b6-74f2-4b0c-b4a2-df3bb96f2492",
     "name": "Plattform für regionale Musikwirtschaft GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:16:19.880Z",
+    "controlDate": "2025-12-08T11:18:06.573Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -25773,7 +25773,7 @@
     "squuid": "5be1a6b6-d03b-4ddc-b2d8-ad84e164f978",
     "name": "PMM Private Media Management GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:20:50.593Z",
+    "controlDate": "2025-12-08T11:21:39.316Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85580,7 +85580,7 @@
     "squuid": "5be1a6b6-75fa-4176-91ad-ce26bdcbe025",
     "name": "Presse-Druck GmbH",
     "state": "active",
-    "controlDate": "2025-06-17T10:45:39.991Z",
+    "controlDate": "2025-12-08T11:57:14.432Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140638,7 +140638,7 @@
     "squuid": "5ee229be-2863-4b6b-990c-060f877bf7ba",
     "name": "Potsdamer Zeitungsverlagsgesellschaft Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:38:12.468Z",
+    "controlDate": "2025-12-08T11:35:35.728Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145541,7 +145541,7 @@
     "squuid": "5be1a6b6-1954-4555-8d73-75140891eee2",
     "name": "PN Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:23:35.403Z",
+    "controlDate": "2025-12-08T11:22:00.970Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145556,7 +145556,7 @@
         "state": "active",
         "held": {
           "squuid": "5f914ff1-eddf-47b5-b54f-8864b00f1046",
-          "name": "www.ilmwelle.de"
+          "name": "www.pafnet.tv"
         }
       }
     ]
@@ -157981,7 +157981,7 @@
     "squuid": "5d397e4f-c585-47b8-a2ce-9f04c5a77912",
     "name": "Praunsmändtl Holding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-17T10:23:40.922Z",
+    "controlDate": "2025-12-08T11:46:14.550Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -164878,7 +164878,7 @@
     "name": "Portal München Betriebs-GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5d2f340f-3a21-4940-ad62-ac0c75f0ecf4",
-    "controlDate": "2025-06-16T16:34:26.237Z",
+    "controlDate": "2025-12-08T11:34:04.579Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -185603,7 +185603,7 @@
     "squuid": "6380c015-b701-4d38-bb75-db8f87bcdae8",
     "name": "Pons Aeni Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:29:19.789Z",
+    "controlDate": "2025-12-08T11:32:53.448Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198738,7 +198738,7 @@
     "squuid": "63727792-ec53-4152-b782-ec1b36dae91b",
     "name": "Presse-Verlag Aktuell GmbH",
     "state": "active",
-    "controlDate": "2025-06-17T11:26:53.239Z",
+    "controlDate": "2025-12-08T12:24:48.698Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200120,7 +200120,7 @@
     "squuid": "5d2da03f-a05a-4b02-9821-ec379e855ce8",
     "name": "Press Acquisitions Ltd.",
     "state": "active",
-    "controlDate": "2025-06-17T10:25:42.208Z",
+    "controlDate": "2025-12-08T11:49:01.218Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -203360,7 +203360,7 @@
     "squuid": "5ea6e475-afae-42ca-a42e-026a1ea45a45",
     "name": "Praise Media Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-17T10:00:57.000Z",
+    "controlDate": "2025-12-08T11:45:17.010Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219002,7 +219002,7 @@
     "squuid": "683ee874-3f71-41df-b158-a12acfe2e63f",
     "name": "Prange Beteiligungen AG",
     "state": "active",
-    "controlDate": "2025-06-03T12:24:59.017Z",
+    "controlDate": "2025-12-08T11:45:43.504Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -223031,7 +223031,7 @@
         "state": "active",
         "held": {
           "squuid": "5f914ff1-eddf-47b5-b54f-8864b00f1046",
-          "name": "www.ilmwelle.de"
+          "name": "www.pafnet.tv"
         }
       }
     ]
@@ -232563,7 +232563,7 @@
     "squuid": "5be1a6b6-5e1b-4cfe-aef4-c2532f4ae36d",
     "name": "Poppen & Ortmann Druckerei und Verlag KG",
     "state": "active",
-    "controlDate": "2025-06-16T16:32:27.945Z",
+    "controlDate": "2025-12-08T11:33:39.390Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -232578,7 +232578,7 @@
     "name": "Potsdamer Zeitungsverlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8510-4beb-9eed-3216a050ae74",
-    "controlDate": "2025-06-16T16:38:19.652Z",
+    "controlDate": "2025-12-08T11:36:10.475Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232638,7 +232638,7 @@
     "squuid": "5be1a6b6-7e72-4932-af77-47b3ac6d9d14",
     "name": "Presse Verlagsgesellschaft für Zeitschriften und Neue Medien mbH",
     "state": "active",
-    "controlDate": "2025-06-17T10:29:09.215Z",
+    "controlDate": "2025-12-08T11:49:23.818Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232954,7 +232954,7 @@
     "squuid": "5ec3c73e-0a98-4966-a84c-0a92c508001c",
     "name": "Pirmasenser Zeitung Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:13:20.720Z",
+    "controlDate": "2025-12-08T11:17:47.222Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243200,7 +243200,7 @@
     "squuid": "5be1a6b6-268b-497f-b082-2fe19d36afae",
     "name": "Piranha Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:10:42.283Z",
+    "controlDate": "2025-12-08T11:15:52.977Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245833,7 +245833,7 @@
     "squuid": "5be1a6b6-3611-4039-a10f-f3f6b071fc64",
     "name": "Praise Media GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-17T10:23:08.113Z",
+    "controlDate": "2025-12-08T11:45:25.358Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -254320,7 +254320,7 @@
     "squuid": "659699f4-6600-44cf-8791-f3fafd3a148c",
     "name": "PM Wissen Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T16:17:15.792Z",
+    "controlDate": "2025-12-08T11:19:57.027Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313564,7 +313564,7 @@
     "squuid": "5fd8af14-4a38-46be-846e-a4c3b4b5878b",
     "name": "Pluto TV Europe GmbH",
     "state": "active",
-    "controlDate": "2025-07-02T10:12:24.985Z",
+    "controlDate": "2025-12-08T11:18:57.708Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -313921,6 +313921,7 @@
     "squuid": "5fd8b8d8-440d-4c21-8add-5bbf74dfec46",
     "name": "Pluto Inc.",
     "state": "active",
+    "controlDate": "2025-12-08T11:19:02.839Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
