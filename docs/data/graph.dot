@@ -3715,7 +3715,7 @@ digraph {
     num_owners=4
     num_owners_weighted=3.0000
     num_medias=203
-    num_medias_weighted=9.3632
+    num_medias_weighted=9.3640
     name="5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
     in_degree=2
     out_degree=11
@@ -4327,7 +4327,7 @@ digraph {
     num_owners=7
     num_owners_weighted=4.5000
     num_medias=215
-    num_medias_weighted=22.3810
+    num_medias_weighted=22.3817
     name="5be1a6b6-9e2f-4de5-839b-a9064817ea96"
     in_degree=2
     out_degree=24
@@ -4576,8 +4576,8 @@ digraph {
     type=radio
     state=active
     label="Alpin FM"
-    num_owners=116
-    num_owners_weighted=11.4460
+    num_owners=117
+    num_owners_weighted=11.2982
     num_medias=0
     num_medias_weighted=0.0000
     name="5d135bd4-5abc-40d5-81f9-6f77dcf2933d"
@@ -4600,8 +4600,8 @@ digraph {
     type=shareholder
     state=active
     label="Alpin FM GmbH & Co. KG"
-    num_owners=116
-    num_owners_weighted=10.4460
+    num_owners=117
+    num_owners_weighted=10.2982
     num_medias=2
     num_medias_weighted=2.0000
     name="5d135d04-96c3-4f58-9108-97216d41f6ba"
@@ -4612,8 +4612,8 @@ digraph {
     type=shareholder
     state=active
     label="Alpin FM Verwaltungs GmbH"
-    num_owners=116
-    num_owners_weighted=11.4460
+    num_owners=117
+    num_owners_weighted=11.2982
     num_medias=2
     num_medias_weighted=0.0000
     name="5f8450ca-3550-47c4-a0ac-a05c9e0c159a"
@@ -10771,7 +10771,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=248
-    num_medias_weighted=24.8645
+    num_medias_weighted=24.8647
     name="5be1a6b6-7447-413b-aed9-4cefee9b1ce2"
     in_degree=0
     out_degree=2
@@ -10783,7 +10783,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=248
-    num_medias_weighted=24.8645
+    num_medias_weighted=24.8647
     name="5c6edd1d-d366-4f77-ae7b-fbb6cf2f299e"
     in_degree=0
     out_degree=3
@@ -12484,8 +12484,8 @@ digraph {
     type=radio
     state=active
     label="Bayernwelle Südost"
-    num_owners=100
-    num_owners_weighted=14.4240
+    num_owners=101
+    num_owners_weighted=13.8330
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0110-4da4-a487-40747352bea0"
@@ -20131,7 +20131,7 @@ digraph {
     num_owners=8
     num_owners_weighted=8.0000
     num_medias=409
-    num_medias_weighted=1.1757
+    num_medias_weighted=1.1758
     name="5be1a6b6-7e41-48b3-87f3-b6511bdf62df"
     in_degree=8
     out_degree=1
@@ -21043,7 +21043,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=186
-    num_medias_weighted=16.7446
+    num_medias_weighted=16.7528
     name="5be1a6b6-36c9-4097-9471-8ac9ef5c6024"
     in_degree=2
     out_degree=10
@@ -21223,7 +21223,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=383
-    num_medias_weighted=61.8724
+    num_medias_weighted=61.8755
     name="5be1a6b6-8819-481b-a0d5-01ea21be004c"
     in_degree=0
     out_degree=1
@@ -21235,7 +21235,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=383
-    num_medias_weighted=41.5568
+    num_medias_weighted=41.5589
     name="5be1a6b6-dfdd-4292-932f-9992520ba051"
     in_degree=0
     out_degree=2
@@ -24667,7 +24667,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=2.1541
+    num_medias_weighted=2.1543
     name="5be1a6b6-8735-445c-bdb1-342bd1b6bbc5"
     in_degree=0
     out_degree=1
@@ -24943,7 +24943,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=247
-    num_medias_weighted=48.7290
+    num_medias_weighted=48.7294
     name="5be1a6b6-f22b-4544-889f-d31615692dc4"
     in_degree=2
     out_degree=46
@@ -26707,7 +26707,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=403
-    num_medias_weighted=6.7289
+    num_medias_weighted=6.7290
     name="5be1a6b6-7157-40de-8b37-5f951c11fe94"
     in_degree=3
     out_degree=2
@@ -27823,7 +27823,7 @@ digraph {
     num_owners=5
     num_owners_weighted=3.0000
     num_medias=409
-    num_medias_weighted=5.1948
+    num_medias_weighted=5.1949
     name="5be1a6b6-de82-42c3-bf0f-5bd7fb95c6d7"
     in_degree=4
     out_degree=2
@@ -31375,7 +31375,7 @@ digraph {
     num_owners=10
     num_owners_weighted=2.0000
     num_medias=253
-    num_medias_weighted=31.2078
+    num_medias_weighted=31.2099
     name="5efef438-7c82-454e-beb9-493d1f5ec407"
     in_degree=3
     out_degree=36
@@ -31747,7 +31747,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=272
-    num_medias_weighted=20.8981
+    num_medias_weighted=20.8982
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -33067,7 +33067,7 @@ digraph {
     num_owners=11
     num_owners_weighted=8.3560
     num_medias=186
-    num_medias_weighted=0.7541
+    num_medias_weighted=0.7546
     name="5d10973b-3a7b-4603-85c9-243e23d9f890"
     in_degree=2
     out_degree=4
@@ -34015,7 +34015,7 @@ digraph {
     num_owners=9
     num_owners_weighted=6.3560
     num_medias=209
-    num_medias_weighted=18.5045
+    num_medias_weighted=18.5050
     name="5be1a6b6-3086-4afb-99e1-7a3fbde55347"
     in_degree=1
     out_degree=18
@@ -35263,7 +35263,7 @@ digraph {
     num_owners=8
     num_owners_weighted=6.2000
     num_medias=88
-    num_medias_weighted=26.8522
+    num_medias_weighted=26.8601
     name="5cb74c22-0d93-4491-a253-f98685ffbc69"
     in_degree=6
     out_degree=1
@@ -36499,7 +36499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=2.1541
+    num_medias_weighted=2.1543
     name="5be1a6b6-a22c-4e32-9cf3-663df5badf1b"
     in_degree=0
     out_degree=1
@@ -38287,7 +38287,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=14.7956
+    num_medias_weighted=14.7999
     name="5d08bf81-f743-4414-80f1-c2a18051c68f"
     in_degree=0
     out_degree=1
@@ -38623,7 +38623,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=60
-    num_medias_weighted=8.4710
+    num_medias_weighted=8.4731
     name="5be1a6b6-3bda-45a8-ad57-0838b9d77c45"
     in_degree=0
     out_degree=1
@@ -38947,7 +38947,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=409
-    num_medias_weighted=1.2400
+    num_medias_weighted=1.2401
     name="5be1a6b6-ba2a-4109-b163-6a779e4f7c7f"
     in_degree=0
     out_degree=1
@@ -41671,7 +41671,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=2.2287
+    num_medias_weighted=2.2294
     name="67b74d46-98c7-483e-8765-d99bf29791ac"
     in_degree=0
     out_degree=1
@@ -51631,7 +51631,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=383
-    num_medias_weighted=61.8724
+    num_medias_weighted=61.8755
     name="5be1a6b6-e129-41bf-960a-7ce68fdd3549"
     in_degree=0
     out_degree=1
@@ -55135,7 +55135,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=412
-    num_medias_weighted=4.4329
+    num_medias_weighted=4.4330
     name="5be1a6b6-e76e-4e4d-b935-b2ad38477d9c"
     in_degree=5
     out_degree=7
@@ -58303,7 +58303,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=403
-    num_medias_weighted=2.9552
+    num_medias_weighted=2.9553
     name="5be1a6b6-f72a-4e6b-b517-41d91fea9591"
     in_degree=5
     out_degree=1
@@ -58615,7 +58615,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=186
-    num_medias_weighted=0.3060
+    num_medias_weighted=0.3062
     name="5be1a6b6-0403-42c9-8727-424f6e7c143e"
     in_degree=0
     out_degree=1
@@ -66079,7 +66079,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=303
-    num_medias_weighted=47.2628
+    num_medias_weighted=47.2630
     name="5be1a6b6-e4a8-43b9-9b8b-d928c7d64d0e"
     in_degree=0
     out_degree=1
@@ -67279,7 +67279,7 @@ digraph {
     num_owners=5
     num_owners_weighted=4.0000
     num_medias=383
-    num_medias_weighted=165.3016
+    num_medias_weighted=165.3098
     name="5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a"
     in_degree=4
     out_degree=6
@@ -67495,7 +67495,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=4.3082
+    num_medias_weighted=4.3086
     name="5be1a6b6-02cb-4f9a-9832-3fcc27788176"
     in_degree=0
     out_degree=3
@@ -69019,7 +69019,7 @@ digraph {
     num_owners=3
     num_owners_weighted=2.0000
     num_medias=186
-    num_medias_weighted=0.3060
+    num_medias_weighted=0.3062
     name="5be1a6b6-59be-4f6f-9049-4c3f5ed381b5"
     in_degree=2
     out_degree=5
@@ -72295,7 +72295,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=209
-    num_medias_weighted=10.6816
+    num_medias_weighted=10.6820
     name="5be1a6b6-28be-407a-b3f2-c6e61df42d74"
     in_degree=2
     out_degree=11
@@ -74479,7 +74479,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=272
-    num_medias_weighted=23.5364
+    num_medias_weighted=23.5365
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -89503,7 +89503,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=186
-    num_medias_weighted=1.5381
+    num_medias_weighted=1.5391
     name="5be1a6b6-a3da-4c83-8d87-89bc892204a0"
     in_degree=0
     out_degree=3
@@ -91603,7 +91603,7 @@ digraph {
     num_owners=21
     num_owners_weighted=19.0483
     num_medias=455
-    num_medias_weighted=68.3401
+    num_medias_weighted=68.3403
     name="5be1a6b6-c7c8-4983-84f6-ada451aec436"
     in_degree=18
     out_degree=13
@@ -91891,7 +91891,7 @@ digraph {
     num_owners=7
     num_owners_weighted=4.3560
     num_medias=272
-    num_medias_weighted=69.4288
+    num_medias_weighted=69.4293
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -92239,7 +92239,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=186
-    num_medias_weighted=1.5345
+    num_medias_weighted=1.5355
     name="5d80ac94-d98a-4b31-8b94-be898e229a35"
     in_degree=2
     out_degree=3
@@ -99175,7 +99175,7 @@ digraph {
     num_owners=41
     num_owners_weighted=4.7953
     num_medias=361
-    num_medias_weighted=110.7340
+    num_medias_weighted=110.7358
     name="5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
     in_degree=7
     out_degree=61
@@ -103207,7 +103207,7 @@ digraph {
     num_owners=9
     num_owners_weighted=7.2000
     num_medias=58
-    num_medias_weighted=15.3836
+    num_medias_weighted=15.3875
     name="5be1a6b6-c472-41cd-929b-92ddc54a0324"
     in_degree=1
     out_degree=10
@@ -105823,7 +105823,7 @@ digraph {
     num_owners=14
     num_owners_weighted=11.3626
     num_medias=29
-    num_medias_weighted=5.5224
+    num_medias_weighted=5.5248
     name="5be1a6b6-7bf8-4f0c-a3cd-eafbcbdcc5e0"
     in_degree=1
     out_degree=6
@@ -108043,7 +108043,7 @@ digraph {
     num_owners=8
     num_owners_weighted=5.3560
     num_medias=268
-    num_medias_weighted=69.4288
+    num_medias_weighted=69.4293
     name="5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
     in_degree=1
     out_degree=66
@@ -111895,7 +111895,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=303
-    num_medias_weighted=94.5256
+    num_medias_weighted=94.5260
     name="5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
     in_degree=5
     out_degree=61
@@ -112003,7 +112003,7 @@ digraph {
     num_owners=8
     num_owners_weighted=6.2000
     num_medias=60
-    num_medias_weighted=15.4018
+    num_medias_weighted=15.4057
     name="5be1a6b6-e093-4174-9a60-584455023300"
     in_degree=5
     out_degree=3
@@ -115000,8 +115000,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Berchtesgadener Land & Chiemgau GmbH"
-    num_owners=99
-    num_owners_weighted=13.4240
+    num_owners=100
+    num_owners_weighted=12.8330
     num_medias=4
     num_medias_weighted=2.5000
     name="5be1a6b6-9c7b-46c8-a4ef-36952eb2d3d9"
@@ -115444,8 +115444,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Chiemgau Geschäftsanteils GmbH & Co.. eGbR"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=74
+    num_owners_weighted=12.0593
     num_medias=4
     num_medias_weighted=0.0000
     name="68528d86-b9b2-4e43-8aac-ef11795fbd90"
@@ -115456,8 +115456,8 @@ digraph {
     type=shareholder
     state=active
     label="RADIO CHIEMGAU Programmanbieter GmbH & Co. KG"
-    num_owners=77
-    num_owners_weighted=12.5539
+    num_owners=78
+    num_owners_weighted=11.3719
     num_medias=4
     num_medias_weighted=1.2500
     name="5be1a6b6-8860-478f-96d7-8215455248b9"
@@ -115468,8 +115468,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Chiemgau Programmanbieter Verwaltungs GmbH"
-    num_owners=74
-    num_owners_weighted=12.3467
+    num_owners=77
+    num_owners_weighted=13.0323
     num_medias=4
     num_medias_weighted=0.0000
     name="5f8ed447-e8f9-4b81-870f-2be0bf40f5d0"
@@ -115915,7 +115915,7 @@ digraph {
     num_owners=18
     num_owners_weighted=8.2413
     num_medias=24
-    num_medias_weighted=4.3532
+    num_medias_weighted=4.3733
     name="5be1a6b6-a243-444e-b8c1-ef6403e3afda"
     in_degree=3
     out_degree=2
@@ -116429,7 +116429,7 @@ digraph {
     state=active
     label="Radio Gong 2000 Programmanbieter GmbH & Co. Hörfunk für München KG"
     num_owners=350
-    num_owners_weighted=12.8632
+    num_owners_weighted=11.8632
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-afdb-4d8d-9a1a-2837b541b32e"
@@ -116441,7 +116441,7 @@ digraph {
     state=active
     label="Radio Gong 96,3 München"
     num_owners=351
-    num_owners_weighted=13.8632
+    num_owners_weighted=12.8632
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0ed7-41ad-bc5e-79babee95a0d"
@@ -116479,7 +116479,7 @@ digraph {
     num_owners=349
     num_owners_weighted=15.9014
     num_medias=24
-    num_medias_weighted=4.3532
+    num_medias_weighted=4.3733
     name="5be1a6b6-47c7-4c53-8de8-7eee915730cc"
     in_degree=2
     out_degree=2
@@ -120751,7 +120751,7 @@ digraph {
     num_owners=321
     num_owners_weighted=12.1619
     num_medias=186
-    num_medias_weighted=12.2607
+    num_medias_weighted=12.2690
     name="5be1a6b6-19d7-49b9-ac09-cfabcce4bb70"
     in_degree=9
     out_degree=1
@@ -126163,7 +126163,7 @@ digraph {
     num_owners=7
     num_owners_weighted=7.0000
     num_medias=189
-    num_medias_weighted=4.4999
+    num_medias_weighted=4.5013
     name="5be1a6b6-85f0-48b9-9138-215258d455f7"
     in_degree=1
     out_degree=9
@@ -126187,7 +126187,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=207
-    num_medias_weighted=14.1712
+    num_medias_weighted=14.1726
     name="5be1a6b6-05c6-4179-a1c8-b801560b1815"
     in_degree=1
     out_degree=20
@@ -130219,7 +130219,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=455
-    num_medias_weighted=34.8954
+    num_medias_weighted=34.8955
     name="5be1a6b6-12e6-485e-abb2-3d422ec5d60f"
     in_degree=0
     out_degree=2
@@ -130495,7 +130495,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=303
-    num_medias_weighted=47.2628
+    num_medias_weighted=47.2630
     name="5be1a6b6-7e99-44bf-a402-968de38d5ca6"
     in_degree=0
     out_degree=1
@@ -132151,7 +132151,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=3.6000
+    num_medias_weighted=3.6003
     name="5be1a6b6-2f51-4f1d-8097-b8b478279bb5"
     in_degree=0
     out_degree=3
@@ -132163,7 +132163,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=0.8644
+    num_medias_weighted=0.8647
     name="67f39958-de32-4bc9-8ad0-85b28e483b84"
     in_degree=0
     out_degree=1
@@ -132175,7 +132175,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=0.8644
+    num_medias_weighted=0.8647
     name="67f39965-07f9-453b-a7be-956b6af40563"
     in_degree=0
     out_degree=1
@@ -132199,7 +132199,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=0.8644
+    num_medias_weighted=0.8647
     name="67f39981-4d4b-4f78-b13a-33650c591056"
     in_degree=0
     out_degree=1
@@ -132223,7 +132223,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=88
-    num_medias_weighted=0.8644
+    num_medias_weighted=0.8647
     name="67f39974-0aaa-43fe-acc9-0b7e7f16e1be"
     in_degree=0
     out_degree=1
@@ -132235,7 +132235,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=94
-    num_medias_weighted=3.5846
+    num_medias_weighted=3.5849
     name="5be1a6b6-9d1f-4553-a857-d18fd890cce3"
     in_degree=0
     out_degree=3
@@ -146671,7 +146671,7 @@ digraph {
     num_owners=348
     num_owners_weighted=11.5888
     num_medias=186
-    num_medias_weighted=29.4234
+    num_medias_weighted=29.4432
     name="5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
     in_degree=6
     out_degree=47
@@ -146875,7 +146875,7 @@ digraph {
     num_owners=88
     num_owners_weighted=24.1300
     num_medias=409
-    num_medias_weighted=2.4019
+    num_medias_weighted=2.4020
     name="5be1a6b6-72ca-4ac8-b084-1a14b9cab2e3"
     in_degree=1
     out_degree=3
@@ -146911,7 +146911,7 @@ digraph {
     num_owners=87
     num_owners_weighted=23.1300
     num_medias=409
-    num_medias_weighted=69.1164
+    num_medias_weighted=69.1165
     name="5be1a6b6-ef3b-43ce-979a-eddf7669f94f"
     in_degree=1
     out_degree=18
@@ -147691,7 +147691,7 @@ digraph {
     num_owners=248
     num_owners_weighted=4.0879
     num_medias=232
-    num_medias_weighted=5.0616
+    num_medias_weighted=5.0617
     name="5be1a6b6-0ad0-4132-8515-b78e0f972259"
     in_degree=4
     out_degree=1
@@ -148567,7 +148567,7 @@ digraph {
     num_owners=249
     num_owners_weighted=1.7665
     num_medias=232
-    num_medias_weighted=26.9950
+    num_medias_weighted=26.9956
     name="5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed"
     in_degree=2
     out_degree=10
@@ -148579,7 +148579,7 @@ digraph {
     num_owners=250
     num_owners_weighted=2.7665
     num_medias=192
-    num_medias_weighted=6.8779
+    num_medias_weighted=6.8785
     name="61f2a1b5-f8e6-4940-baee-f38226ebe808"
     in_degree=1
     out_degree=3
@@ -148855,7 +148855,7 @@ digraph {
     num_owners=242
     num_owners_weighted=46.6967
     num_medias=409
-    num_medias_weighted=91.8554
+    num_medias_weighted=91.8559
     name="5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
     in_degree=38
     out_degree=3
@@ -150055,7 +150055,7 @@ digraph {
     num_owners=250
     num_owners_weighted=2.7665
     num_medias=186
-    num_medias_weighted=0.8779
+    num_medias_weighted=0.8785
     name="5c88e412-1106-4678-9ff8-f648146dac1d"
     in_degree=2
     out_degree=1
@@ -153679,7 +153679,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=272
-    num_medias_weighted=20.8981
+    num_medias_weighted=20.8982
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -157939,7 +157939,7 @@ digraph {
     num_owners=13
     num_owners_weighted=10.3626
     num_medias=88
-    num_medias_weighted=45.4968
+    num_medias_weighted=45.5102
     name="5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
     in_degree=9
     out_degree=44
@@ -158527,7 +158527,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=455
-    num_medias_weighted=35.6804
+    num_medias_weighted=35.6805
     name="5be1a6b6-767c-430d-9a82-3d39477a29f3"
     in_degree=2
     out_degree=2
@@ -162079,7 +162079,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=288
-    num_medias_weighted=20.8218
+    num_medias_weighted=20.8221
     name="5be1a6b6-3585-4224-8872-a3554fbd2a8e"
     in_degree=0
     out_degree=4
@@ -162295,7 +162295,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=94
-    num_medias_weighted=4.3082
+    num_medias_weighted=4.3086
     name="5be1a6b6-f944-4eec-a6bd-195c68d65997"
     in_degree=2
     out_degree=3
@@ -164539,7 +164539,7 @@ digraph {
     num_owners=15
     num_owners_weighted=6.7906
     num_medias=403
-    num_medias_weighted=7.4758
+    num_medias_weighted=7.4760
     name="5be1a6b6-69ce-46dd-9aeb-f191984dd6f1"
     in_degree=4
     out_degree=3
@@ -165583,7 +165583,7 @@ digraph {
     num_owners=16
     num_owners_weighted=9.8800
     num_medias=436
-    num_medias_weighted=29.9685
+    num_medias_weighted=29.9686
     name="5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
     in_degree=6
     out_degree=32
@@ -166087,7 +166087,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=403
-    num_medias_weighted=3.4558
+    num_medias_weighted=3.4559
     name="5be1a6b6-6ea8-42c4-b1c1-c5e800cde258"
     in_degree=0
     out_degree=4
@@ -166111,7 +166111,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=403
-    num_medias_weighted=3.3644
+    num_medias_weighted=3.3645
     name="5be1a6b6-b71a-4b73-93b4-ff944c87c49d"
     in_degree=0
     out_degree=2
@@ -170524,8 +170524,8 @@ digraph {
     type=online
     state=active
     label="www.alpin.fm"
-    num_owners=116
-    num_owners_weighted=11.4460
+    num_owners=117
+    num_owners_weighted=11.2982
     num_medias=0
     num_medias_weighted=0.0000
     name="5f844ef4-f531-45f6-8116-41dc83b178fa"
@@ -172276,8 +172276,8 @@ digraph {
     type=online
     state=active
     label="www.bayernwelle.de"
-    num_owners=100
-    num_owners_weighted=14.4240
+    num_owners=101
+    num_owners_weighted=13.8330
     num_medias=0
     num_medias_weighted=0.0000
     name="5f8ed227-7ba6-43d1-ba93-2f0149db2054"
@@ -195353,7 +195353,7 @@ digraph {
     state=active
     label="www.radiogong.de"
     num_owners=351
-    num_owners_weighted=13.8632
+    num_owners_weighted=12.8632
     num_medias=0
     num_medias_weighted=0.0000
     name="5f92bdd7-8dfb-4fc9-a33a-9265fa3b7a03"
@@ -207367,7 +207367,7 @@ digraph {
     num_owners=39
     num_owners_weighted=3.6959
     num_medias=403
-    num_medias_weighted=12.4390
+    num_medias_weighted=12.4391
     name="5be1a6b6-af92-4839-96f4-2d8d9e234c83"
     in_degree=6
     out_degree=27
@@ -208831,7 +208831,7 @@ digraph {
     num_owners=39
     num_owners_weighted=3.7928
     num_medias=403
-    num_medias_weighted=25.4405
+    num_medias_weighted=25.4407
     name="5be1a6b6-baa5-4644-bd90-1f917d261023"
     in_degree=7
     out_degree=35
@@ -253998,7 +253998,7 @@ digraph {
     type=operates
   ];
   9659 -> 4286 [
-    weight=30
+    weight=30.18
     type=owns
   ];
   9659 -> 9658 [
@@ -254062,7 +254062,7 @@ digraph {
     type=operates
   ];
   9706 -> 4286 [
-    weight=30
+    weight=30.18
     type=owns
   ];
   9706 -> 9705 [
