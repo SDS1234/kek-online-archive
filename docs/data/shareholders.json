@@ -12335,6 +12335,19 @@
     ]
   },
   {
+    "squuid": "69380cc3-5f4f-48f7-88af-3cbab96e94ce",
+    "name": "WGB Handels- und Beteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-1f1d-464c-ad85-465abc77cf7a",
     "name": "RSG Rundfunk Service GmbH",
     "state": "active",
