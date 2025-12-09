@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f92bd02-934a-43f3-b496-53260c7afe3c",
+  "squuid": "69381db5-9c74-4b0b-9177-7820c7ff2004",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -13,14 +13,14 @@
         "name": "radio B2 GmbH",
         "squuid": "5be1a6b6-03f0-4d87-841b-249e957d36cc"
       },
-      "squuid": "5f92bd54-498c-4f93-a3b5-cf8555e75b55",
+      "squuid": "69381de3-636e-436c-b05d-c4f8138e5467",
       "state": "active"
     }
   ],
-  "name": "www.radiogold.de",
+  "name": "www.discofox-antenne.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-12-09T12:59:24.521Z",
+  "controlDate": "2025-12-09T13:02:04.595Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

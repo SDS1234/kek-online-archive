@@ -284,7 +284,7 @@
     "squuid": "5de914b1-8fcf-4d26-b486-e736eb5ef69a",
     "name": "Radio 5.0 GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-18T08:07:32.184Z",
+    "controlDate": "2025-12-09T12:39:33.082Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -12063,7 +12063,7 @@
     "squuid": "5be1a6b6-f0c2-4361-be47-7b5c58200674",
     "name": "Radio Bavaria Rundfunkprogrammgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:23:52.435Z",
+    "controlDate": "2025-12-09T13:04:57.216Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12663,7 +12663,7 @@
     "squuid": "5be1a6b6-5151-4299-a7c6-6c51184510ef",
     "name": "Radio 93,3 MHz München GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:21:11.626Z",
+    "controlDate": "2025-12-09T12:42:21.577Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15750,7 +15750,7 @@
     "squuid": "5be1a6b6-5348-4fb4-9a9c-c74fea5b6161",
     "name": "Radio Alpenwelle Programmanbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:44:37.052Z",
+    "controlDate": "2025-12-09T12:48:40.656Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16111,7 +16111,7 @@
     "squuid": "5be1a6b6-f3bd-45e3-b96d-215a52c21535",
     "name": "Radio Arabella Studiobetriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:45:21.816Z",
+    "controlDate": "2025-12-09T12:49:33.263Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16895,7 +16895,7 @@
     "squuid": "5be1a6b6-805c-446e-86e9-b73cddf22859",
     "name": "Radio AWN Straubing GmbH & Co. Hörfunk KG",
     "state": "active",
-    "controlDate": "2025-06-18T08:51:00.085Z",
+    "controlDate": "2025-12-09T12:53:49.127Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -18314,7 +18314,7 @@
     "squuid": "5be1a6b6-0018-4435-88ca-30ebde43cdf4",
     "name": "RADIO IN Rundfunk- und Fernseh Anbieter GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:07:18.093Z",
+    "controlDate": "2025-12-09T11:46:05.265Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -18628,7 +18628,7 @@
     "squuid": "5be1a6b6-7468-4efc-9786-db3b43561958",
     "name": "Radio AWN Landshut GmbH & Co. Hörfunk KG",
     "state": "active",
-    "controlDate": "2025-06-18T08:50:15.357Z",
+    "controlDate": "2025-12-09T12:53:19.329Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -19450,7 +19450,7 @@
     "name": "Radio Bayreuth GmbH & Co. Mainwelle KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2e50-401c-b5ca-efb6ab7d9437",
-    "controlDate": "2025-09-12T09:30:06.490Z",
+    "controlDate": "2025-12-09T13:08:24.868Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22066,7 +22066,7 @@
     "squuid": "5be1a6b6-03f0-4d87-841b-249e957d36cc",
     "name": "radio B2 GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:13:22.567Z",
+    "controlDate": "2025-12-09T12:54:47.097Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22271,6 +22271,15 @@
         "held": {
           "squuid": "688caa89-2056-4c4a-8340-4ad2205fa88d",
           "name": "Discofox Antenne"
+        }
+      },
+      {
+        "squuid": "69381de3-636e-436c-b05d-c4f8138e5467",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69381db5-9c74-4b0b-9177-7820c7ff2004",
+          "name": "www.discofox-antenne.de"
         }
       }
     ]
@@ -23125,7 +23134,7 @@
     "name": "Radio 7 Hörfunk GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5099-4f12-8db6-65b375706e61",
-    "controlDate": "2025-06-18T08:11:53.774Z",
+    "controlDate": "2025-12-09T12:40:15.721Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23164,7 +23173,7 @@
     "squuid": "5cb759be-230a-4359-ba99-bebb2fb38070",
     "name": "Radio A Rundfunkanbieter GmbH",
     "state": "active",
-    "controlDate": "2024-12-11T17:51:51.088Z",
+    "controlDate": "2025-12-09T12:48:22.440Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30184,7 +30193,7 @@
     "name": "Radio 95.0 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6da-4887-812d-d70ca5478073",
-    "controlDate": "2025-06-18T08:22:11.646Z",
+    "controlDate": "2025-12-09T12:43:27.801Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30901,7 +30910,7 @@
     "name": "RADIO BOB GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-51b1-4fb3-a60d-beb902046915",
-    "controlDate": "2025-06-18T09:32:41.813Z",
+    "controlDate": "2025-12-09T13:15:24.951Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33558,7 +33567,7 @@
     "name": "Radio Bielefeld Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4a8f-4158-a3d4-22aad2f1e1b3",
-    "controlDate": "2025-06-18T09:30:39.959Z",
+    "controlDate": "2025-12-09T13:14:27.159Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33651,7 +33660,7 @@
     "name": "Radio Bonn/Rhein-Sieg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-cedf-42cf-96c2-9455aebbb02f",
-    "controlDate": "2025-06-18T09:35:13.139Z",
+    "controlDate": "2025-12-09T13:23:36.892Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34652,7 +34661,7 @@
     "name": "Radio Berg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7164-45a6-b867-324087fd69eb",
-    "controlDate": "2025-06-18T09:28:46.309Z",
+    "controlDate": "2025-12-09T13:13:13.660Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49151,7 +49160,7 @@
     "squuid": "5be1a6b6-3ed8-40c9-8b37-5f9b5048ed6a",
     "name": "Radio 97.1 MHz Hamburg GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:23:44.685Z",
+    "controlDate": "2025-12-09T12:46:33.766Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -77484,7 +77493,7 @@
     "squuid": "5be1a6b6-9c7b-46c8-a4ef-36952eb2d3d9",
     "name": "Radio Berchtesgadener Land & Chiemgau GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:26:20.430Z",
+    "controlDate": "2025-12-09T13:12:08.173Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91530,7 +91539,7 @@
     "squuid": "5de91604-da9d-4f72-b99f-3b6be0da043a",
     "name": "Radio 5.0 Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:06:31.486Z",
+    "controlDate": "2025-12-09T12:39:24.637Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146280,7 +146289,7 @@
     "squuid": "5f904c3e-4361-4c19-96ca-f5faa4bec9a8",
     "name": "Radio AWN Landshut GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:49:56.348Z",
+    "controlDate": "2025-12-09T12:53:06.917Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150820,7 +150829,7 @@
     "squuid": "5f1063c4-c03d-413d-887e-488b2de86cb5",
     "name": "Radio Bonn/Rhein-Sieg Geschäftsführungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:35:04.336Z",
+    "controlDate": "2025-12-09T13:23:27.688Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163178,7 +163187,7 @@
     "squuid": "5eeb7c61-5c9a-433f-8235-daca331846ce",
     "name": "Radio Bielefeld Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:30:30.510Z",
+    "controlDate": "2025-12-09T13:14:22.528Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -165878,7 +165887,7 @@
     "squuid": "5efca907-9329-4e3a-8469-4c119897eeb4",
     "name": "Radio 7 Hörfunk Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:11:18.058Z",
+    "controlDate": "2025-12-09T12:40:00.854Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -215311,7 +215320,7 @@
     "squuid": "5f3552dc-5c10-42a1-aba5-0cc69a12ef91",
     "name": "RADIO BOB Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:31:43.203Z",
+    "controlDate": "2025-12-09T13:15:19.465Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242895,7 +242904,7 @@
     "squuid": "5f3676a4-7221-4dba-be65-4439d46fe8ae",
     "name": "Radio Karlsruhe Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:07:53.602Z",
+    "controlDate": "2025-12-09T11:49:51.052Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247323,7 +247332,7 @@
     "squuid": "5f369448-2d46-4344-a897-23daa7cea714",
     "name": "Radio 4 in 1 Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:01:24.393Z",
+    "controlDate": "2025-12-09T12:38:58.019Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -268899,7 +268908,7 @@
     "squuid": "5f919fb9-c3bb-4526-a5c1-6f90f951858b",
     "name": "Radio AWN Straubing GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T08:50:32.956Z",
+    "controlDate": "2025-12-09T12:53:38.269Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304414,7 +304423,7 @@
     "squuid": "5f92d9db-6207-40ae-a704-caab1c312e3a",
     "name": "Radio Bayreuth GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:25:17.923Z",
+    "controlDate": "2025-12-09T13:05:26.983Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -314606,7 +314615,7 @@
     "squuid": "5f181333-7767-4b02-a114-b09445394395",
     "name": "Radio Berg GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T09:28:31.213Z",
+    "controlDate": "2025-12-09T13:13:00.972Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
