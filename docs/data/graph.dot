@@ -22830,11 +22830,11 @@ digraph {
     label="Bütting, Hermann"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0001
     name="6925d3d6-cf5d-4a54-a8b1-765c1abe9725"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1903 [
     type=shareholder
@@ -26658,11 +26658,11 @@ digraph {
     label="crossventures GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0011
     name="69259a5b-0699-4c53-984c-7c79781b93e0"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2222 [
     type=shareholder
@@ -31929,7 +31929,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0020
     name="690b1e58-9e70-4736-aafb-5b6591f345bc"
-    in_degree=0
+    in_degree=7
     out_degree=1
   ];
   2661 [
@@ -31941,7 +31941,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0038
     name="690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
-    in_degree=0
+    in_degree=3
     out_degree=1
   ];
   2662 [
@@ -31950,11 +31950,11 @@ digraph {
     label="Dieter von Holtzbrinck Vermögensverwaltung GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0023
     name="69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2663 [
     type=shareholder
@@ -40965,7 +40965,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0648
     name="68f7447f-44e3-4079-9be8-cd1a17df8d58"
-    in_degree=9
+    in_degree=7
     out_degree=1
   ];
   3414 [
@@ -50634,11 +50634,11 @@ digraph {
     label="Fuchs, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0003
     name="6925d33d-2545-4180-b6d9-c0319f2aeb9e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4220 [
     type=print
@@ -59382,11 +59382,11 @@ digraph {
     label="HAHN Beteiligungsholding GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="6925d315-8b0a-4f53-ab65-2bf3b669d95f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4949 [
     type=shareholder
@@ -68298,11 +68298,11 @@ digraph {
     label="Hühnerbein, Margarete"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0005
     name="6925d3b9-2af7-4092-bdee-c76c51fd5903"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5692 [
     type=print
@@ -85650,11 +85650,11 @@ digraph {
     label="Loh, Matthias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0001
     name="6925d3f8-61ac-4346-b01b-431b3f3469c9"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7138 [
     type=shareholder
@@ -94770,11 +94770,11 @@ digraph {
     label="Michael Grabner Media GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0004
     name="69259a6c-f690-4001-bfec-6552d554bdce"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7898 [
     type=shareholder
@@ -94794,11 +94794,11 @@ digraph {
     label="Michael, Annemarie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0002
     name="6925d363-93ba-483d-b016-0af38f926576"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7900 [
     type=shareholder
@@ -95370,11 +95370,11 @@ digraph {
     label="Mitichkin, Evgeny"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0043
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1dd3-49a6-456a-93c2-a309c35b597e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   7948 [
     type=shareholder
@@ -99090,11 +99090,11 @@ digraph {
     label="Müller-Michael, Monika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0001
     name="6925d395-e150-4a0b-b77a-f70adf8a3488"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8258 [
     type=shareholder
@@ -126954,11 +126954,11 @@ digraph {
     label="Rudolf Fuchs GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0291
     name="6925d8ab-7107-47fe-9214-672efc2447d3"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10580 [
     type=shareholder
@@ -126969,7 +126969,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0291
     name="690b1e2e-5991-4f37-a4f1-44363d26f442"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   10581 [
@@ -153690,11 +153690,11 @@ digraph {
     label="Tufan, Josef"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0075
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1db8-3be7-40d4-bc8b-b3166fc1d7bb"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12808 [
     type=shareholder
@@ -218337,6 +218337,10 @@ digraph {
     weight=13.72
     type=owns
   ];
+  1902 -> 2660 [
+    weight=6.38
+    type=owns
+  ];
   1903 -> 5422 [
     weight=1
     type=owns
@@ -219660,6 +219664,10 @@ digraph {
   2220 -> 10453 [
     weight=100
     type=operates
+  ];
+  2221 -> 2661 [
+    weight=30
+    type=owns
   ];
   2223 -> 552 [
     weight=1
@@ -221539,6 +221547,10 @@ digraph {
   ];
   2661 -> 3413 [
     weight=5.88
+    type=owns
+  ];
+  2662 -> 2661 [
+    weight=60
     type=owns
   ];
   2664 -> 8792 [
@@ -227493,6 +227505,10 @@ digraph {
     weight=1
     type=owns
   ];
+  4219 -> 2660 [
+    weight=12.76
+    type=owns
+  ];
   4221 -> 9443 [
     weight=25
     type=owns
@@ -232077,6 +232093,10 @@ digraph {
     weight=13.29
     type=owns
   ];
+  4948 -> 2660 [
+    weight=2.13
+    type=owns
+  ];
   4950 -> 9443 [
     weight=27
     type=owns
@@ -235023,6 +235043,10 @@ digraph {
   ];
   5690 -> 647 [
     weight=21.43
+    type=owns
+  ];
+  5691 -> 2660 [
+    weight=25.53
     type=owns
   ];
   5694 -> 2927 [
@@ -240953,6 +240977,10 @@ digraph {
     weight=1
     type=owns
   ];
+  7137 -> 2660 [
+    weight=4.26
+    type=owns
+  ];
   7138 -> 118 [
     weight=6.25
     type=owns
@@ -244505,6 +244533,14 @@ digraph {
     weight=1
     type=owns
   ];
+  7897 -> 2661 [
+    weight=10
+    type=owns
+  ];
+  7899 -> 2660 [
+    weight=10.64
+    type=owns
+  ];
   7901 -> 170 [
     weight=15
     type=owns
@@ -244651,10 +244687,6 @@ digraph {
   ];
   7946 -> 8682 [
     weight=1
-    type=owns
-  ];
-  7947 -> 3413 [
-    weight=6.62
     type=owns
   ];
   7949 -> 761 [
@@ -246439,6 +246471,10 @@ digraph {
   ];
   8255 -> 17418 [
     weight=4
+    type=owns
+  ];
+  8257 -> 2660 [
+    weight=4.26
     type=owns
   ];
   8260 -> 12825 [
@@ -258781,6 +258817,10 @@ digraph {
     weight=75.1
     type=owns
   ];
+  10579 -> 10580 [
+    weight=100
+    type=owns
+  ];
   10580 -> 3413 [
     weight=44.98
     type=owns
@@ -268207,10 +268247,6 @@ digraph {
   ];
   12806 -> 8849 [
     weight=40
-    type=owns
-  ];
-  12807 -> 3413 [
-    weight=11.58
     type=owns
   ];
   12810 -> 1966 [
