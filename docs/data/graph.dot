@@ -118036,8 +118036,8 @@ digraph {
     type=radio
     state=active
     label="Radio Paradiso 98.2 (Berlin-Brandenburg)"
-    num_owners=73
-    num_owners_weighted=21.8488
+    num_owners=77
+    num_owners_weighted=25.7395
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-298a-48a7-bc83-986d96bc7ac2"
@@ -118048,8 +118048,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Paradiso GmbH & Co. KG"
-    num_owners=72
-    num_owners_weighted=20.8488
+    num_owners=76
+    num_owners_weighted=24.7395
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
@@ -193156,8 +193156,8 @@ digraph {
     type=online
     state=active
     label="www.paradiso-nord.de"
-    num_owners=73
-    num_owners_weighted=37.7849
+    num_owners=77
+    num_owners_weighted=41.6795
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1abf27-1c06-4196-893b-1b1682f586f5"
@@ -193168,8 +193168,8 @@ digraph {
     type=online
     state=active
     label="www.paradiso.de"
-    num_owners=73
-    num_owners_weighted=21.8488
+    num_owners=77
+    num_owners_weighted=25.7395
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1abaf9-d927-40c1-aba7-cf9f9688ea28"
