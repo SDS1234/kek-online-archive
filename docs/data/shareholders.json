@@ -16177,7 +16177,7 @@
     "squuid": "5be1a6b6-092d-4584-9a84-0485b244ae95",
     "name": "Radio M1 Rundfunkbetriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:28:58.529Z",
+    "controlDate": "2025-12-09T15:33:23.414Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21460,7 +21460,7 @@
     "squuid": "5be1a6b6-fbf8-4b3a-b83b-552f26cc61a6",
     "name": "Radio NRJ GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T13:21:51.147Z",
+    "controlDate": "2025-12-09T15:59:37.633Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32913,7 +32913,7 @@
     "squuid": "5be1a6b6-8d51-46ee-8894-d41b7bdef7b6",
     "name": "Radio Neptun Rundfunk-Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T13:01:39.332Z",
+    "controlDate": "2025-12-09T15:59:09.244Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33469,7 +33469,7 @@
     "squuid": "5be1a6b6-4e8f-44fd-b055-21d0337b962b",
     "name": "radio NRW GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T13:25:00.899Z",
+    "controlDate": "2025-12-09T16:02:02.976Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34551,7 +34551,7 @@
     "name": "Radio Mark Betriebs GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2037-416d-a589-f2a697b6f9f4",
-    "controlDate": "2025-06-18T12:44:31.487Z",
+    "controlDate": "2025-12-09T15:35:33.463Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35150,6 +35150,7 @@
     "squuid": "69383cb1-63ca-4590-ba49-52c106895c0d",
     "name": "von Bismarck Beteiligungs GmbH",
     "state": "active",
+    "controlDate": "2025-12-09T15:26:03.698Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35843,6 +35844,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69383fec-90e2-4c41-833c-d86fd5b27935",
+    "name": "von Bismarck, Sebastian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -50851,7 +50864,7 @@
     "squuid": "5ce55eb8-e7c6-46fc-bc24-abaad6f642dd",
     "name": "Radio N1 Anbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:52:53.604Z",
+    "controlDate": "2025-12-09T15:44:24.395Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -211258,7 +211271,7 @@
     "squuid": "5c891134-4acd-4b30-b625-6eadf066402f",
     "name": "Radio Management GmbH & Co. Hörfunk-Beteiligungs-KG",
     "state": "active",
-    "controlDate": "2025-06-18T12:42:23.694Z",
+    "controlDate": "2025-12-09T15:35:13.532Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -215497,7 +215510,7 @@
     "squuid": "5be1a6b6-b076-49a8-8d9d-a72b62d75d54",
     "name": "Radio Mainz Live Rundfunk GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:29:55.941Z",
+    "controlDate": "2025-12-09T15:34:04.991Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300636,7 +300649,7 @@
     "name": "Radio Neckaralb Live GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-0ccb-4b26-8b8f-1715a4913a70",
-    "controlDate": "2025-06-18T12:56:03.188Z",
+    "controlDate": "2025-12-09T15:57:07.228Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305956,7 +305969,7 @@
     "squuid": "5f92dddc-2512-43d7-b865-48a694c606d2",
     "name": "Radio München gUG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-06-18T12:50:09.947Z",
+    "controlDate": "2025-12-09T15:45:08.811Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310941,7 +310954,7 @@
     "squuid": "5f16e1e0-e44c-4426-95d7-39c82cf59960",
     "name": "Radio Mark Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:44:14.270Z",
+    "controlDate": "2025-12-09T15:35:25.531Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311378,7 +311391,7 @@
     "squuid": "5f16ea09-f838-4e83-9781-a140740296c3",
     "name": "Radio Minden-Lübbecke GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:45:37.411Z",
+    "controlDate": "2025-12-09T15:40:33.274Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -312683,7 +312696,7 @@
     "squuid": "5f3e60af-feb7-480a-8e8f-21cbcecdae53",
     "name": "Radio Neckaralb Live Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:55:31.184Z",
+    "controlDate": "2025-12-09T15:57:02.625Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
