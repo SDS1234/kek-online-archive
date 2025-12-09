@@ -21272,7 +21272,7 @@
     "name": "Radio L12 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7bbf-407e-8496-2a066492e027",
-    "controlDate": "2025-06-18T12:20:56.429Z",
+    "controlDate": "2025-12-09T14:55:13.983Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21863,7 +21863,7 @@
     "name": "Radio Karlsruhe GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-db3d-4f4f-813b-126e135cf064",
-    "controlDate": "2025-06-18T12:09:43.296Z",
+    "controlDate": "2025-12-09T14:47:07.066Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30233,7 +30233,7 @@
     "name": "Radio Hamburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-afbf-4f56-89af-d512d75aaf49",
-    "controlDate": "2025-06-18T11:49:46.869Z",
+    "controlDate": "2025-12-09T14:13:46.464Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34176,7 +34176,7 @@
     "name": "Radio Gütersloh Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8678-4c3a-80a8-a1e585c9889a",
-    "controlDate": "2025-06-18T11:47:29.108Z",
+    "controlDate": "2025-12-09T14:13:15.195Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34216,7 +34216,7 @@
     "name": "Radio Hamm Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7ea2-4236-b420-b889ca581e81",
-    "controlDate": "2025-06-18T11:51:39.883Z",
+    "controlDate": "2025-12-09T14:14:47.931Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34252,11 +34252,35 @@
     ]
   },
   {
+    "squuid": "69383a4a-4138-476b-b09e-5136b333cde9",
+    "name": "HL-Radio Betriebsgesellschaft mbH",
+    "state": "active",
+    "controlDate": "2025-12-09T15:08:22.401Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69383abd-9b2e-47d0-a496-92dd0ce15147",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f1ab22b-d43b-429e-b6f2-58583c16b090",
+          "name": "www.radioluebeck.de"
+        }
+      }
+    ]
+  },
+  {
     "state": "active",
     "name": "Radio Herford Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d921-4cea-99f5-626673062b59",
-    "controlDate": "2025-06-18T11:58:09.847Z",
+    "controlDate": "2025-12-09T14:17:14.802Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34407,7 +34431,7 @@
     "name": "Radio Köln GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-db8e-49f4-ac46-b7d5e3444a14",
-    "controlDate": "2025-06-18T12:13:05.794Z",
+    "controlDate": "2025-12-09T14:54:27.963Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34487,7 +34511,7 @@
     "name": "Radio Leverkusen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d425-4ae7-ab48-785336c7af25",
-    "controlDate": "2025-06-18T12:13:48.330Z",
+    "controlDate": "2025-12-09T14:56:36.054Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35123,6 +35147,18 @@
     ]
   },
   {
+    "squuid": "69383cb1-63ca-4590-ba49-52c106895c0d",
+    "name": "von Bismarck Beteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-7f96-41cf-a5ad-418aca8ac0a7",
     "name": "Evangelische Hochschule Ludwigsburg",
     "state": "active",
@@ -35469,6 +35505,18 @@
     ]
   },
   {
+    "squuid": "69383c6e-4330-4c74-bb40-2fc8daf18a59",
+    "name": "Rehder, Thomas",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-8b1d-41b5-8d31-8dd21949e03a",
     "name": "WDR Mediagroup GmbH",
     "state": "active",
@@ -35504,6 +35552,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69383c87-f1d3-4756-8b93-4d4721d92b7a",
+    "name": "Dittmer, Kai",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -140673,7 +140733,7 @@
     "squuid": "5f1049af-6d3e-467a-bc7a-d61a3e2b903e",
     "name": "Radio Hamm Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T11:51:34.324Z",
+    "controlDate": "2025-12-09T14:14:40.064Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140742,7 +140802,7 @@
     "squuid": "5f1049ab-67e5-49a8-ae35-7ede027abdb8",
     "name": "Radio Gütersloh Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T11:45:58.559Z",
+    "controlDate": "2025-12-09T14:12:40.688Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -165972,7 +166032,7 @@
     "squuid": "5efcaba3-bf44-4a82-a1e9-9a8294ba7128",
     "name": "Radio L 12 Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:16:50.949Z",
+    "controlDate": "2025-12-09T14:55:04.176Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -174706,7 +174766,7 @@
     "squuid": "5ca74dbc-986a-4419-8abb-912c04846271",
     "name": "Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:05:29.330Z",
+    "controlDate": "2025-12-09T14:37:08.030Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200956,7 +201016,7 @@
     "squuid": "5f1ab44d-9f35-4103-80f3-5dee482eac8c",
     "name": "Radio Lübeck GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:23:56.733Z",
+    "controlDate": "2025-12-09T15:01:51.078Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216562,7 +216622,7 @@
     "name": "Radio Lübeck Lokalfunk GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9cef-449c-a857-44179bdc803c",
-    "controlDate": "2025-06-18T12:25:12.856Z",
+    "controlDate": "2025-12-09T15:04:24.442Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306711,7 +306771,7 @@
     "squuid": "5f16bba8-e67e-47e9-8ec6-02ab3c73ce59",
     "name": "Radio Herford Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-18T11:57:16.589Z",
+    "controlDate": "2025-12-09T14:17:07.092Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -309174,7 +309234,7 @@
     "squuid": "5f16d30b-f50b-4bb7-8339-9d88ad1c053b",
     "name": "Radio Köln GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:13:01.274Z",
+    "controlDate": "2025-12-09T14:52:48.136Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -309967,7 +310027,7 @@
     "squuid": "5f16d83e-a742-4213-b540-7f09a01a0790",
     "name": "Radio Leverkusen GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T12:13:36.016Z",
+    "controlDate": "2025-12-09T14:56:00.546Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
