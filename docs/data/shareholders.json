@@ -48907,6 +48907,19 @@
     ]
   },
   {
+    "squuid": "6939699a-f33a-441d-a9b0-6264dfcfe4d1",
+    "name": "HAHN-Immobilien-Beteiligungs AG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-8dde-4c06-b3b9-aab28b13e701",
     "name": "Thimme-Schmidt GbR",
     "state": "active",
@@ -50458,6 +50471,19 @@
     ]
   },
   {
+    "squuid": "69396c38-731d-43e2-b04a-0334a792b810",
+    "name": "Sixt Management Holding GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-ed38-4f53-b56b-88471b7ce351",
     "name": "Evangelische Landeskirche in Baden",
     "state": "active",
@@ -51554,6 +51580,19 @@
     ]
   },
   {
+    "squuid": "69396c52-2fc5-492d-bc3d-57f682e7b03b",
+    "name": "radical moves GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-d6c6-41d2-9422-c204d7704524",
     "name": "BNP PARIBAS Fortis Private Equity Belgium N.V.",
     "state": "active",
@@ -51611,6 +51650,19 @@
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69396c70-5032-4564-a97e-db8d908cae3e",
+    "name": "VHB digital GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -54105,6 +54157,19 @@
     ]
   },
   {
+    "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7",
+    "name": "Rudolf Fuchs Verwaltungs SE",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-a782-4205-b10c-7ac4f1be2f95",
     "name": "Hannover Radio GmbH",
     "state": "active",
@@ -54123,6 +54188,19 @@
     "name": "Klambt Medien GmbH",
     "state": "active",
     "controlDate": "2023-11-02T10:41:46.796Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69396f00-cc78-4ad6-94f5-c298233f6a32",
+    "name": "Streubesitz an der Rudolf Fuch SE & Co. KG",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -199562,6 +199640,7 @@
     "squuid": "69259acb-e9a5-4a04-9040-0e7edfc9a5b2",
     "name": "Dieter von Holtzbrinck Vermögensverwaltung GmbH",
     "state": "active",
+    "controlDate": "2025-12-10T12:43:30.779Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199711,6 +199790,7 @@
     "squuid": "69259a5b-0699-4c53-984c-7c79781b93e0",
     "name": "crossventures GmbH",
     "state": "active",
+    "controlDate": "2025-12-10T12:46:33.366Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199729,6 +199809,7 @@
     "squuid": "69259a6c-f690-4001-bfec-6552d554bdce",
     "name": "Michael Grabner Media GmbH",
     "state": "active",
+    "controlDate": "2025-12-10T12:42:05.319Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199760,6 +199841,7 @@
     "squuid": "6925d315-8b0a-4f53-ab65-2bf3b669d95f",
     "name": "HAHN Beteiligungsholding GmbH",
     "state": "active",
+    "controlDate": "2025-12-10T12:35:33.127Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200429,8 +200511,10 @@
   },
   {
     "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
-    "name": "Rudolf Fuchs GmbH & Co. KG",
+    "name": "Rudolf Fuchs SE & Co. KG",
     "state": "active",
+    "controlDate": "2025-12-10T12:59:59.682Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -212636,7 +212720,7 @@
   },
   {
     "squuid": "5be1a6b6-ba9c-402b-8773-5f4c91dcf54b",
-    "name": "Georg Dieter von Holtzbrinck Familiengesellschaft bR",
+    "name": "Georg Dieter von Holtzbrinck Familiengesellschaft GbR",
     "state": "active",
     "controlDate": "2025-10-28T14:22:36.871Z",
     "organizations": [
