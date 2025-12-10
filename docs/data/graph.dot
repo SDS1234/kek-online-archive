@@ -377,7 +377,7 @@ digraph {
     state=active
     label="107.8 Antenne AC Rundfunkbetriebsgesellschaft mbH & Co. KG"
     num_owners=70
-    num_owners_weighted=9.3075
+    num_owners_weighted=10.0375
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-4d01-454e-b4e2-6e293a5c2a46"
@@ -389,7 +389,7 @@ digraph {
     state=active
     label="107.8 Antenne AC Rundfunkverwaltungsgesellschaft mbH"
     num_owners=70
-    num_owners_weighted=10.3075
+    num_owners_weighted=11.0375
     num_medias=2
     num_medias_weighted=0.0000
     name="5f105862-cf51-49ec-9aeb-b426023adbac"
@@ -6041,7 +6041,7 @@ digraph {
     state=active
     label="Antenne AC"
     num_owners=70
-    num_owners_weighted=10.3075
+    num_owners_weighted=11.0375
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4c3a-43bf-a078-ee39dfec2ebf"
@@ -24977,7 +24977,7 @@ digraph {
     state=active
     label="Classic Rock Radio"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8eab-4582-b9a8-b8125bce6453"
@@ -24989,7 +24989,7 @@ digraph {
     state=active
     label="CLASSIC ROCK RADIO Best of Rock"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e6a0-fae6-4092-8d9a-8c70c8f7ca0c"
@@ -25001,7 +25001,7 @@ digraph {
     state=active
     label="CLASSIC ROCK RADIO Hard & Heavy"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e61e-4ac5-4bab-b673-f8851debfe65"
@@ -118577,7 +118577,7 @@ digraph {
     state=active
     label="Radio Salü"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5148-45c8-94e7-63d27350e1f4"
@@ -118589,7 +118589,7 @@ digraph {
     state=active
     label="RADIO SALÜ - Euro-Radio Saar GmbH"
     num_owners=57
-    num_owners_weighted=7.6052
+    num_owners_weighted=9.2645
     num_medias=11
     num_medias_weighted=9.8800
     name="5be1a6b6-c416-473b-9edc-b68307c0e478"
@@ -118601,7 +118601,7 @@ digraph {
     state=active
     label="RADIO SALÜ 90er"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="6870ddd0-ad10-463c-9b88-3a0e5d7d2dbb"
@@ -118613,7 +118613,7 @@ digraph {
     state=active
     label="RADIO SALÜ Chill Out Only"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e536-906c-4569-a714-a023884e8073"
@@ -118625,7 +118625,7 @@ digraph {
     state=active
     label="RADIO SALÜ Die 2000er"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e4a5-5e7a-4cf6-9ced-e63cb134ad86"
@@ -118636,8 +118636,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio SANTEC GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=12
+    num_owners_weighted=4.8000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-8b99-447e-a438-2ed91e37195f"
@@ -138820,8 +138820,8 @@ digraph {
     type=tv
     state=active
     label="Sophia TV"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=13
+    num_owners_weighted=5.8000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a6ec-4f94-b34c-8733694b0542"
@@ -171101,7 +171101,7 @@ digraph {
     state=active
     label="www.antenneac.de"
     num_owners=70
-    num_owners_weighted=10.3075
+    num_owners_weighted=11.0375
     num_medias=0
     num_medias_weighted=0.0000
     name="5f10576b-fa43-48b7-9dfc-26b4682f322c"
@@ -175181,7 +175181,7 @@ digraph {
     state=active
     label="www.classicrock-radio.de"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1ed9f8-a3ab-49f4-ba84-b97b17936fc6"
@@ -194836,8 +194836,8 @@ digraph {
     type=online
     state=active
     label="www.radio-santec.com"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=13
+    num_owners_weighted=5.8000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f117fc1-c89c-4a62-9a11-c5113e4b4a6a"
@@ -198065,7 +198065,7 @@ digraph {
     state=active
     label="www.salue.de"
     num_owners=58
-    num_owners_weighted=8.6052
+    num_owners_weighted=10.2645
     num_medias=0
     num_medias_weighted=0.0000
     name="5e874e46-4f72-4ba2-a233-8aa620ea997d"
