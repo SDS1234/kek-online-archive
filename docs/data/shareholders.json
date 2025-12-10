@@ -21734,7 +21734,7 @@
     "squuid": "5be1a6b6-9b4d-477d-a78f-afbcd4c7dee1",
     "name": "RADIO RT 4 Programm- und Lizenzgesellschaft - Regionaler Hörfunk - GmbH & Co. OHG",
     "state": "active",
-    "controlDate": "2025-06-18T14:42:04.906Z",
+    "controlDate": "2025-12-10T09:15:39.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -45202,6 +45202,19 @@
     ]
   },
   {
+    "squuid": "69393bbc-db72-49a9-8a20-1bdeac9e039b",
+    "name": "Rall, Dr. Claudius Alexander",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-e31e-4290-ad51-2a7450b31c4d",
     "name": "Johann Wilhelm Naumann Verlag GmbH",
     "state": "active",
@@ -45290,6 +45303,19 @@
     ]
   },
   {
+    "squuid": "69393bcf-25a9-4ff6-a341-7a31a887cdb2",
+    "name": "Rall, Titus Armin",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-576c-405d-a5d6-b0f16a30a9ac",
     "name": "Hoermann Verlag GmbH & Co KG",
     "state": "active",
@@ -45338,6 +45364,19 @@
           "squuid": "5d31c848-efb9-4098-b211-c39dcd8f9942",
           "name": "www.frankfurt.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69393bfc-d198-4f00-a2a0-66178af98ae9",
+    "name": "Rall, Dr. Marcus Christian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -92457,7 +92496,7 @@
     "squuid": "5ef314c8-cb90-4e80-83ba-bb85608e5223",
     "name": "Radio RT 4 Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T14:42:19.490Z",
+    "controlDate": "2025-12-10T09:24:49.643Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163629,7 +163668,7 @@
     "squuid": "5c98ece2-cbcf-4b69-b373-0f1117ff5746",
     "name": "Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG",
     "state": "active",
-    "controlDate": "2025-06-18T14:34:51.713Z",
+    "controlDate": "2025-12-10T09:15:02.233Z",
     "limitedPartnership": true,
     "organizations": [
       {
