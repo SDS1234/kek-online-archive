@@ -31878,6 +31878,30 @@
   },
   {
     "state": "active",
+    "squuid": "69398360-2eea-475b-8641-b323a1d42364",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.radio-zett.org",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-12-10T14:28:02.107Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "6749cd61-5d0f-4ba2-862c-b24dfc3f9e4d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34825,7 +34849,7 @@
     "name": "www.coloradio.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:36:54.441Z",
+    "controlDate": "2025-12-10T14:29:40.662Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35284,7 +35308,7 @@
     "name": "www.planetradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:57:47.304Z",
+    "controlDate": "2025-12-10T14:44:01.703Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37825,7 +37849,7 @@
     "name": "www.ffh.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:57:10.057Z",
+    "controlDate": "2025-12-10T14:42:56.441Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41237,7 +41261,7 @@
     "name": "www.radiome.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:48:13.405Z",
+    "controlDate": "2025-12-10T14:36:28.309Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44676,7 +44700,7 @@
     "name": "www.radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:46:50.285Z",
+    "controlDate": "2025-12-10T14:36:03.624Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145236,7 +145260,7 @@
     "name": "www.harmonyfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:57:20.866Z",
+    "controlDate": "2025-12-10T14:43:41.383Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149364,7 +149388,7 @@
     "name": "www.radioblau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T07:45:04.656Z",
+    "controlDate": "2025-12-10T14:34:03.626Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157211,7 +157235,7 @@
     "name": "www.radio-z.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T11:19:56.138Z",
+    "controlDate": "2025-12-10T14:27:23.049Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

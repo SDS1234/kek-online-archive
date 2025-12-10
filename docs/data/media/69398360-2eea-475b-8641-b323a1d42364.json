@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "638f4372-1de1-4d20-82e9-e91fe347b575",
+  "squuid": "69398360-2eea-475b-8641-b323a1d42364",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "radio.de GmbH",
-        "squuid": "5d2f052c-f1a8-4cdb-9094-8dc779145056"
+        "name": "Radio-Initiative Dreiländereck e.V.",
+        "squuid": "64f98158-d0b0-4ff2-8fac-04c312f56353"
       },
-      "squuid": "638f4390-c1f8-46a3-9c1c-ff4f628b3d96",
+      "squuid": "69398396-166b-43ce-9ff9-2e822d57c46d",
       "state": "active"
     }
   ],
-  "name": "www.radiome.de",
+  "name": "www.radio-zett.org",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-12-10T14:36:28.309Z",
+  "controlDate": "2025-12-10T14:28:02.107Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

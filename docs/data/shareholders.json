@@ -13309,7 +13309,7 @@
     "squuid": "5be1a6b6-aeca-4413-b5b9-890c4687a717",
     "name": "Radio-Inn-Salzach-Welle-Programmanbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-19T07:40:45.847Z",
+    "controlDate": "2025-12-10T14:30:00.766Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30810,7 +30810,7 @@
     "name": "RADIO/TELE FFH GmbH & Co. Betriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2ff0-4d6a-87d5-4a0611385f4f",
-    "controlDate": "2025-06-19T08:00:38.793Z",
+    "controlDate": "2025-12-10T14:40:47.526Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156222,7 +156222,7 @@
     "squuid": "5d2f052c-f1a8-4cdb-9094-8dc779145056",
     "name": "radio.de GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T07:46:13.782Z",
+    "controlDate": "2025-12-10T14:35:29.647Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178602,6 +178602,11 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -178616,6 +178621,15 @@
         "held": {
           "squuid": "64f972c7-44bd-479e-a6b3-8c54c4abeb8d",
           "name": "Radio Zett"
+        }
+      },
+      {
+        "squuid": "69398396-166b-43ce-9ff9-2e822d57c46d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69398360-2eea-475b-8641-b323a1d42364",
+          "name": "www.radio-zett.org"
         }
       }
     ]
@@ -180206,7 +180220,7 @@
     "squuid": "5f84598b-8f49-4d5d-aaf8-af075d4308d2",
     "name": "Radio-Programmanbietergemeinschaft Oberland Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T07:43:34.955Z",
+    "controlDate": "2025-12-10T14:33:10.595Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249863,7 +249877,7 @@
     "squuid": "5ef60647-9f38-436d-ae1e-fca2e2e73da1",
     "name": "RADIO/TELE FFH GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T07:51:51.212Z",
+    "controlDate": "2025-12-10T14:40:39.902Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
