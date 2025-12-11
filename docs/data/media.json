@@ -6977,7 +6977,7 @@
     "rfStatewide": false,
     "name": "Servus in Stadt & Land (Deutschland-Ausgabe)",
     "type": "print",
-    "controlDate": "2025-06-19T10:23:00.943Z",
+    "controlDate": "2025-12-11T09:50:34.903Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7016,7 +7016,7 @@
     "rfStatewide": false,
     "name": "Terra Mater",
     "type": "print",
-    "controlDate": "2025-06-19T10:23:09.087Z",
+    "controlDate": "2025-12-11T09:50:41.014Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7040,7 +7040,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:25:23.903Z",
+    "controlDate": "2025-12-11T09:52:24.963Z",
     "state": "active"
   },
   {
@@ -7055,7 +7055,7 @@
     "rfStatewide": false,
     "name": "The Red Bulletin",
     "type": "print",
-    "controlDate": "2025-06-19T10:23:38.286Z",
+    "controlDate": "2025-12-11T09:51:19.520Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7079,7 +7079,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:24:27.517Z",
+    "controlDate": "2025-12-11T09:52:06.082Z",
     "state": "active"
   },
   {
@@ -15315,7 +15315,7 @@
     "rfStatewide": false,
     "name": "Der Trakehner",
     "type": "print",
-    "controlDate": "2025-06-19T09:59:13.560Z",
+    "controlDate": "2025-12-11T09:24:52.507Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20839,7 +20839,7 @@
     "name": "www.rbwonline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:10:34.714Z",
+    "controlDate": "2025-12-11T09:31:59.847Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -22294,7 +22294,7 @@
     "rfStatewide": false,
     "name": "Pferdesport International",
     "type": "print",
-    "controlDate": "2025-06-19T10:00:14.499Z",
+    "controlDate": "2025-12-11T09:25:12.038Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -28720,7 +28720,7 @@
     "name": "www.radioginseng.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T10:36:59.831Z",
+    "controlDate": "2025-12-11T10:03:27.877Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32862,6 +32862,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "rt1 relax",
+    "type": "radio",
+    "squuid": "693a9185-0879-4f0d-a974-85c4d41684a0",
+    "state": "active"
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "archived",
     "squuid": "646f1baa-6ad4-4514-b2e5-bdc11db5617a",
@@ -33324,6 +33343,30 @@
       "type": "organization"
     },
     "pressKind": "Regional"
+  },
+  {
+    "state": "active",
+    "squuid": "693a9840-b357-408a-990b-b213c54b35c9",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.gesuendernet.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-12-11T10:09:23.163Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "state": "active",
@@ -43469,7 +43512,7 @@
     "name": "www.reddit.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:42:46.039Z",
+    "controlDate": "2025-12-11T10:11:37.487Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -58293,7 +58336,7 @@
     "name": "www.servustv.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:25:14.880Z",
+    "controlDate": "2025-12-11T09:52:17.744Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105366,7 +105409,7 @@
     "rfStatewide": false,
     "name": "Pferd + Sport",
     "type": "print",
-    "controlDate": "2025-06-19T10:00:05.756Z",
+    "controlDate": "2025-12-11T09:25:02.250Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105821,7 +105864,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:29:49.226Z",
+    "controlDate": "2025-12-11T10:05:04.114Z",
     "state": "active"
   },
   {
@@ -105839,7 +105882,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:29:41.907Z",
+    "controlDate": "2025-12-11T10:04:54.746Z",
     "state": "active"
   },
   {
@@ -105857,7 +105900,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:29:54.958Z",
+    "controlDate": "2025-12-11T10:05:10.970Z",
     "state": "active"
   },
   {
@@ -105875,7 +105918,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:29:34.042Z",
+    "controlDate": "2025-12-11T10:04:46.966Z",
     "state": "active"
   },
   {
@@ -105911,7 +105954,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:29:25.186Z",
+    "controlDate": "2025-12-11T10:04:35.823Z",
     "state": "active"
   },
   {
@@ -116211,7 +116254,7 @@
     "rfStatewide": false,
     "name": "Bergwelten",
     "type": "print",
-    "controlDate": "2025-06-19T10:22:39.116Z",
+    "controlDate": "2025-12-11T09:50:22.343Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116235,7 +116278,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T10:24:05.165Z",
+    "controlDate": "2025-12-11T09:51:31.285Z",
     "state": "active"
   },
   {
@@ -121464,7 +121507,7 @@
     "name": "www.dertrakehner.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:00:44.181Z",
+    "controlDate": "2025-12-11T09:25:18.782Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126859,7 +126902,7 @@
     "name": "www.pferd-und-sport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:00:51.638Z",
+    "controlDate": "2025-12-11T09:25:27.296Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131000,7 +131043,7 @@
     "name": "www.speedweek.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:26:50.140Z",
+    "controlDate": "2025-12-11T10:03:12.566Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155221,7 +155264,7 @@
     "name": "www.funky.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:03:25.842Z",
+    "controlDate": "2025-12-11T09:29:14.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161469,7 +161512,7 @@
     "name": "www.radiovest.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:19:20.355Z",
+    "controlDate": "2025-12-11T09:45:12.040Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

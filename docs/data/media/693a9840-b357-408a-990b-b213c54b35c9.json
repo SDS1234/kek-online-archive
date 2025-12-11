@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f7f0f3c-82ea-486c-b7eb-1b1bd9140b60",
+  "squuid": "693a9840-b357-408a-990b-b213c54b35c9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Red Bull Media House GmbH",
-        "squuid": "5be1a6b6-34f5-424d-8db5-27a7125e7b17"
+        "name": "Redaktionsbüro Derk Hoberg",
+        "squuid": "61a788e1-4c8f-4037-9094-29cbc0dd6aa4"
       },
-      "squuid": "5f7f0f6e-76c5-4b06-a2be-7499edcb1152",
+      "squuid": "693a986a-8519-42a5-94fc-ffbac014bab8",
       "state": "active"
     }
   ],
-  "name": "www.servustv.com",
+  "name": "www.gesuendernet.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-12-11T09:52:17.744Z",
+  "controlDate": "2025-12-11T10:09:23.163Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
