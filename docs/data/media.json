@@ -34648,6 +34648,30 @@
   },
   {
     "state": "active",
+    "squuid": "693a9d84-37b7-4e13-9201-3128faaef2ec",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.barbaradio.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-12-11T10:32:57.094Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "65ddd321-f815-4262-9f9b-7e5358ee0094",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34808,6 +34832,25 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
+      "type": "organization",
+      "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    "name": "089 Kult",
+    "type": "radio",
+    "squuid": "693aa1ef-0a0a-4184-891f-1dadcb2ceaff",
+    "state": "active"
   },
   {
     "state": "active",
@@ -128129,7 +128172,7 @@
     "name": "www.schlagerplanetradio.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T11:01:01.734Z",
+    "controlDate": "2025-12-11T10:26:47.998Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131019,7 +131062,7 @@
     "name": "www.90s90s.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:59:54.548Z",
+    "controlDate": "2025-12-11T10:26:28.090Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133363,7 +133406,7 @@
     "name": "www.regiotv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T11:13:13.570Z",
+    "controlDate": "2025-12-11T10:40:11.522Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134420,7 +134463,7 @@
     "name": "www.rsh.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T11:00:06.285Z",
+    "controlDate": "2025-12-11T10:26:38.043Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141580,7 +141623,7 @@
     "name": "www.tvrostock.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:53:44.421Z",
+    "controlDate": "2025-12-11T10:19:28.793Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157510,7 +157553,7 @@
     "name": "www.regio-tv.de/regio-tv-bodensee",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:51:25.141Z",
+    "controlDate": "2025-12-11T10:16:42.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157665,7 +157708,7 @@
     "name": "www.regio-tv.de/regio-tv-schwaben",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:52:36.167Z",
+    "controlDate": "2025-12-11T10:17:33.795Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157954,7 +157997,7 @@
     "name": "www.regio-tv.de/regio-tv-stuttgart",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T10:53:34.322Z",
+    "controlDate": "2025-12-11T10:19:08.975Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
