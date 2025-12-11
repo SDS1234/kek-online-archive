@@ -91641,7 +91641,7 @@ digraph {
     num_medias=455
     num_medias_weighted=68.3403
     name="5be1a6b6-c7c8-4983-84f6-ada451aec436"
-    in_degree=18
+    in_degree=19
     out_degree=13
   ];
   7637 [
@@ -164130,11 +164130,11 @@ digraph {
     label="Weiß, Nina Marie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=10
-    num_medias_weighted=0.0035
+    num_medias=455
+    num_medias_weighted=0.0342
     name="69285186-ef79-46c2-8ddf-0032b282c5d6"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   13678 [
     type=shareholder
@@ -272627,6 +272627,10 @@ digraph {
   ];
   13676 -> 10295 [
     weight=3.33
+    type=owns
+  ];
+  13677 -> 7636 [
+    weight=1
     type=owns
   ];
   13677 -> 10295 [
