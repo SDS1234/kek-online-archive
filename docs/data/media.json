@@ -37602,6 +37602,30 @@
   },
   {
     "state": "active",
+    "squuid": "693adc97-580b-49a9-aac0-7b5e6d1be277",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.rmnradio.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2025-12-11T15:00:46.854Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "65e5e1b0-e22b-4b62-892f-95b14a82e097",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -41014,7 +41038,7 @@
     "name": "www.radioskw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T07:57:18.578Z",
+    "controlDate": "2025-12-11T14:43:40.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88132,7 +88156,7 @@
     "rfStatewide": false,
     "name": "Rhön- und Saalepost",
     "type": "print",
-    "controlDate": "2025-11-26T13:03:17.392Z",
+    "controlDate": "2025-12-11T14:36:43.975Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -126294,7 +126318,7 @@
     "name": "www.blick.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T07:53:01.413Z",
+    "controlDate": "2025-12-11T14:40:20.051Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126753,7 +126777,7 @@
     "name": "Rhön-Spiegel",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-19T16:38:02.612Z",
+    "controlDate": "2025-12-11T14:38:13.044Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148503,7 +148527,7 @@
     "name": "www.radio-rheinwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T16:36:57.111Z",
+    "controlDate": "2025-12-11T14:34:38.403Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153051,7 +153075,7 @@
     "name": "www.rnf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T08:11:36.631Z",
+    "controlDate": "2025-12-11T15:15:22.690Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159593,7 +159617,7 @@
     "name": "www.antenne1-neckarburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T08:04:28.814Z",
+    "controlDate": "2025-12-11T15:03:50.051Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

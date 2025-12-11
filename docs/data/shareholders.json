@@ -567,20 +567,10 @@
     "controlDate": "2025-06-20T08:10:05.498Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "62cfdd9d-a99c-460e-be84-a9e13071b928",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f3ba858-a329-4e18-8b6b-e558bacf5e8d",
-          "name": "www.rnf.de"
-        }
       }
     ]
   },
@@ -760,8 +750,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -787,8 +778,9 @@
     "controlDate": "2025-06-30T13:07:07.907Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -1076,8 +1068,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -1088,8 +1081,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -1947,8 +1941,9 @@
     "controlDate": "2025-12-08T15:29:33.266Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -2326,8 +2321,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -2351,8 +2347,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -8110,7 +8107,7 @@
     "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e",
     "name": "RM Hamburg Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T07:59:03.385Z",
+    "controlDate": "2025-12-11T14:53:51.828Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -22657,7 +22654,7 @@
     "name": "RNB Radio Neckarburg GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0",
-    "controlDate": "2025-06-20T08:04:20.405Z",
+    "controlDate": "2025-12-11T15:03:00.242Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26263,7 +26260,7 @@
     "name": "rkw - Radio Königs Wusterhausen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7",
-    "controlDate": "2025-06-20T07:56:03.237Z",
+    "controlDate": "2025-12-11T14:42:29.769Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -63136,7 +63133,7 @@
     "squuid": "5ef20252-f1e5-4c11-aab8-a053eb601e8a",
     "name": "RM Radio Management Consultants GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T07:59:32.503Z",
+    "controlDate": "2025-12-11T14:57:49.852Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -99224,7 +99221,7 @@
     "squuid": "61978125-5ec4-4779-9c2e-80df374d2488",
     "name": "RM Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T08:01:24.284Z",
+    "controlDate": "2025-12-11T14:58:07.467Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -108307,8 +108304,9 @@
     "controlDate": "2025-06-30T13:07:20.834Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -125215,7 +125213,7 @@
     "squuid": "5be1a6b6-5450-4125-9159-c95ea5cae0f4",
     "name": "Riesenbuhei Entertainment GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T07:50:19.802Z",
+    "controlDate": "2025-12-11T14:38:50.634Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -190210,7 +190208,7 @@
     "squuid": "5d36efd1-6b65-457f-b785-032685f2647e",
     "name": "Ringier AG",
     "state": "active",
-    "controlDate": "2025-06-20T07:52:55.533Z",
+    "controlDate": "2025-12-11T14:39:41.251Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -209491,7 +209489,7 @@
     "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b",
     "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T07:55:48.209Z",
+    "controlDate": "2025-12-11T14:42:23.320Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219530,7 +219528,7 @@
     "squuid": "5be1a6b6-908b-4a55-8cc7-a955e0f52671",
     "name": "Richard und Willy Martin GbR Vermögensverwaltung",
     "state": "active",
-    "controlDate": "2025-06-19T16:39:48.942Z",
+    "controlDate": "2025-12-11T14:38:35.589Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264186,7 +264184,7 @@
     "squuid": "5be1a6b6-34e1-407c-92e9-da1d1fd0e17e",
     "name": "Rhön Med-Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T16:37:21.965Z",
+    "controlDate": "2025-12-11T14:36:36.872Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284053,7 +284051,7 @@
     "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d",
     "name": "RND RedaktionsNetzwerk Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T08:06:05.009Z",
+    "controlDate": "2025-12-11T15:04:17.040Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287080,7 +287078,7 @@
     "name": "Rieser Zeitungs GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-931c-4185-ad34-43c3c92ee2a2",
-    "controlDate": "2025-06-20T07:51:48.255Z",
+    "controlDate": "2025-12-11T14:39:13.768Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310023,7 +310021,7 @@
     "squuid": "5cd43baf-4aec-453b-9df1-3e7fcffd6929",
     "name": "RND Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T08:05:57.049Z",
+    "controlDate": "2025-12-11T15:04:04.745Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310517,7 +310515,7 @@
     "squuid": "5f96d06c-5990-4fac-bbe7-d4677d5d0018",
     "name": "RMNradio GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T08:02:26.883Z",
+    "controlDate": "2025-12-11T15:00:09.196Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310539,6 +310537,15 @@
         "held": {
           "squuid": "686f9d60-1677-491f-ab0b-fc253c6daba0",
           "name": "RMNradio"
+        }
+      },
+      {
+        "squuid": "693adcba-ffe0-4e23-a648-e8ef2618c272",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "693adc97-580b-49a9-aac0-7b5e6d1be277",
+          "name": "www.rmnradio.de"
         }
       }
     ]

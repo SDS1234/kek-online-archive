@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "squuid": "5d36efc5-d48b-498c-b9bc-bbd3bc19b19b",
-  "marketReach": 0.07583944227851996,
+  "squuid": "693adc97-580b-49a9-aac0-7b5e6d1be277",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Ringier AG",
-        "squuid": "5d36efd1-6b65-457f-b785-032685f2647e"
+        "name": "RMNradio GmbH",
+        "squuid": "5f96d06c-5990-4fac-bbe7-d4677d5d0018"
       },
-      "squuid": "5d36f006-7249-45ee-a00e-0d4aa8f55fe6",
+      "squuid": "693adcba-ffe0-4e23-a648-e8ef2618c272",
       "state": "active"
     }
   ],
-  "name": "www.blick.ch",
+  "name": "www.rmnradio.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2025-12-11T14:40:20.051Z",
+  "controlDate": "2025-12-11T15:00:46.854Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
