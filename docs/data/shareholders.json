@@ -5758,7 +5758,7 @@
     "squuid": "5f2818c8-67c8-4784-bab3-d5d7ae9b6af8",
     "name": "RFH Regionalfernsehen Harz GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:13:01.914Z",
+    "controlDate": "2025-12-11T12:21:10.455Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7035,7 +7035,7 @@
     "squuid": "5be1a6b6-2c92-41ea-9a78-9fb6792a8c00",
     "name": "Rentrop-Stiftung gGmbH",
     "state": "active",
-    "controlDate": "2025-06-19T14:18:59.175Z",
+    "controlDate": "2025-12-11T11:43:28.565Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31300,7 +31300,7 @@
     "squuid": "5cb882e7-726b-4b2c-8fb0-5844b2365670",
     "name": "RFO Regional Fernsehen Oberbayern GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:15:35.783Z",
+    "controlDate": "2025-12-11T12:22:19.540Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -70793,7 +70793,7 @@
     "name": "Rhein-Main TV GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6d1-414a-912d-773b2d0ee4f2",
-    "controlDate": "2025-06-19T15:21:43.507Z",
+    "controlDate": "2025-12-11T12:28:48.944Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91062,6 +91062,19 @@
     ]
   },
   {
+    "squuid": "693aade5-263b-45bf-b97d-bbb7dbdd3b1d",
+    "name": "Erbengemeinschaft nach Andreas Witter (Christel Witter, Annette Witter, Nicole Witter)",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-04e5-4ab5-8e72-b1371ad61c50",
     "name": "Hoffbauer-Stiftung",
     "state": "active",
@@ -97765,7 +97778,7 @@
     "name": "Remsdruckerei Sigg, Härtel u. Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8699-472e-9e13-7df732016d24",
-    "controlDate": "2025-06-19T14:04:27.815Z",
+    "controlDate": "2025-12-11T11:34:46.705Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -97903,7 +97916,7 @@
     "name": "Reutlinger Generalanzeiger Verlags- GmbH & Co. Kommanditgesellschaft",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b2a4-4e47-80ab-e7f4b265c112",
-    "controlDate": "2025-10-28T11:50:43.258Z",
+    "controlDate": "2025-12-11T11:51:52.289Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -102691,7 +102704,7 @@
     "squuid": "5be1a6b6-93ac-4f77-a227-441f9298f8ac",
     "name": "Reiff Beteiligungen KG",
     "state": "active",
-    "controlDate": "2025-06-19T11:19:01.764Z",
+    "controlDate": "2025-12-11T11:18:42.314Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -106841,7 +106854,7 @@
     "squuid": "5f33d697-ddcf-49c8-bb4b-dc7fd975963a",
     "name": "Rennsteig TV GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T14:16:47.387Z",
+    "controlDate": "2025-12-11T11:39:56.060Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -133699,7 +133712,7 @@
     "name": "Remscheider Medienhaus GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2e57-495f-afbc-e091b08abc00",
-    "controlDate": "2025-06-19T13:38:35.640Z",
+    "controlDate": "2025-12-11T11:29:27.832Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -141478,7 +141491,7 @@
     "squuid": "5eaae148-5631-425c-b58a-05178cbaaa6d",
     "name": "Reiff GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T11:19:56.551Z",
+    "controlDate": "2025-12-11T11:18:57.946Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151952,7 +151965,7 @@
     "squuid": "63da4c58-ce49-4611-8165-3b25c060fb1e",
     "name": "Rhein Main Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:17:07.093Z",
+    "controlDate": "2025-12-11T12:26:56.970Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155632,7 +155645,7 @@
     "squuid": "5eb94c1b-ab67-4d30-87d4-5889c2aa0a3a",
     "name": "Remscheider Medienhaus Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-19T13:38:28.404Z",
+    "controlDate": "2025-12-11T11:29:17.141Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172994,7 +173007,7 @@
     "squuid": "5ec3dead-ced3-409c-9341-ffc764376d50",
     "name": "Rhein Main Verlags- & Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:20:22.653Z",
+    "controlDate": "2025-12-11T12:28:01.802Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220043,6 +220056,17 @@
         "name": "DL",
         "type": "organization"
       }
+    ],
+    "operates": [
+      {
+        "squuid": "693aaecb-19c3-42ce-9df3-091971163e84",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6436a2a8-da32-467a-9a21-35a1f14a89d8",
+          "name": "www.extra-tipp-am-sonntag.de"
+        }
+      }
     ]
   },
   {
@@ -233095,7 +233119,7 @@
     "name": "Reiff Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3278-4c05-9688-8d598bffe272",
-    "controlDate": "2025-06-19T11:21:39.639Z",
+    "controlDate": "2025-12-11T11:19:18.701Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -233175,7 +233199,7 @@
     "squuid": "5be1a6b6-b9c0-487b-8083-5168201bcbac",
     "name": "REWE-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:10:56.318Z",
+    "controlDate": "2025-12-11T12:20:00.483Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239463,7 +239487,7 @@
     "squuid": "5be1a6b6-d030-4d4a-af2f-1567f868f1a3",
     "name": "REWE-Zentral-Aktiengesellschaft",
     "state": "active",
-    "controlDate": "2024-07-08T07:54:18.581Z",
+    "controlDate": "2025-12-11T12:20:48.683Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239532,7 +239556,7 @@
     "squuid": "5be1a6b6-c431-43fe-97e2-4a0518f30668",
     "name": "Reiner H. Nitschke Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T11:25:33.714Z",
+    "controlDate": "2025-12-11T11:24:16.767Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240728,7 +240752,7 @@
     "squuid": "5be1a6b6-44b9-4aa0-8678-ddbae0ebf42a",
     "name": "Reise + Preise Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T11:26:36.671Z",
+    "controlDate": "2025-12-11T11:25:12.492Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258160,7 +258184,7 @@
     "squuid": "5be1a6b6-9747-4917-ad59-20145241c5bf",
     "name": "Res Publica Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T14:22:45.688Z",
+    "controlDate": "2025-12-11T11:45:48.850Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280094,7 +280118,7 @@
     "squuid": "5f3a87f9-7774-4d25-81a0-c974612fa1c3",
     "name": "Rhein-Main Ballungsraumfernsehen Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T15:21:37.345Z",
+    "controlDate": "2025-12-11T12:28:30.013Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -289055,7 +289079,7 @@
     "squuid": "5be1a6b6-d8f4-4cf2-b351-c578675936d0",
     "name": "Reutlinger Generalanzeiger Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T14:30:15.410Z",
+    "controlDate": "2025-12-11T11:51:41.194Z",
     "limitedPartnership": false,
     "organizations": [
       {
@@ -291780,7 +291804,7 @@
     "squuid": "6391e7a4-c7c9-488c-a1bb-ee4fcd17ac3e",
     "name": "Reutlinger Wochenblatt GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T14:38:37.109Z",
+    "controlDate": "2025-12-11T11:48:32.241Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292035,24 +292059,14 @@
   {
     "squuid": "6436a2b8-3632-49e4-9385-645d12a79872",
     "name": "Report Anzeigenblatt GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-06-19T14:19:51.397Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "6436a2d4-2de6-42c8-bdbc-fa243e6279d3",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6436a2a8-da32-467a-9a21-35a1f14a89d8",
-          "name": "www.extra-tipp-am-sonntag.de"
-        }
       }
     ]
   },
@@ -296528,7 +296542,7 @@
     "squuid": "5be1a6b6-a8d7-4de2-8c4b-0faeb870eb55",
     "name": "Revue Verlag GbR",
     "state": "active",
-    "controlDate": "2025-06-19T15:08:44.660Z",
+    "controlDate": "2025-12-11T12:18:46.275Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

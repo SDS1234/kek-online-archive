@@ -1427,7 +1427,7 @@
     "rfStatewide": false,
     "name": "Wermelskirchener General-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-19T13:42:08.836Z",
+    "controlDate": "2025-12-11T11:32:17.294Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1470,7 +1470,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T13:45:39.897Z",
+    "controlDate": "2025-12-11T11:33:49.069Z",
     "state": "active"
   },
   {
@@ -2819,7 +2819,7 @@
     "rfStatewide": false,
     "name": "Metzinger-Uracher General-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-19T14:31:15.418Z",
+    "controlDate": "2025-12-11T11:52:08.940Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2839,7 +2839,7 @@
     "rfStatewide": false,
     "name": "Echaz-Bote",
     "type": "print",
-    "controlDate": "2025-06-19T14:30:53.315Z",
+    "controlDate": "2025-12-11T11:52:01.023Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2862,7 +2862,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T14:32:02.522Z",
+    "controlDate": "2025-12-11T11:52:32.880Z",
     "state": "active"
   },
   {
@@ -2951,7 +2951,7 @@
     "rfStatewide": false,
     "name": "Kehler Zeitung",
     "type": "print",
-    "controlDate": "2025-06-19T11:21:49.783Z",
+    "controlDate": "2025-12-11T11:19:28.508Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4043,7 +4043,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T14:14:55.882Z",
+    "controlDate": "2025-12-11T11:37:28.980Z",
     "state": "active"
   },
   {
@@ -9224,7 +9224,7 @@
     "rfStatewide": false,
     "name": "Cicero",
     "type": "print",
-    "controlDate": "2025-06-19T14:23:29.600Z",
+    "controlDate": "2025-12-11T11:45:53.755Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9248,7 +9248,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T14:23:46.000Z",
+    "controlDate": "2025-12-11T11:47:15.264Z",
     "state": "active"
   },
   {
@@ -9263,7 +9263,7 @@
     "rfStatewide": false,
     "name": "monopol - Magazin für Kunst und Leben",
     "type": "print",
-    "controlDate": "2025-06-19T14:23:38.492Z",
+    "controlDate": "2025-12-11T11:47:05.619Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9287,7 +9287,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T14:23:52.403Z",
+    "controlDate": "2025-12-11T11:47:23.098Z",
     "state": "active"
   },
   {
@@ -15413,7 +15413,7 @@
     "rfStatewide": false,
     "name": "Meine Revue",
     "type": "print",
-    "controlDate": "2025-06-19T15:08:50.353Z",
+    "controlDate": "2025-12-11T12:18:56.258Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15453,7 +15453,7 @@
     "rfStatewide": false,
     "name": "Woche exklusiv",
     "type": "print",
-    "controlDate": "2025-06-19T15:09:05.801Z",
+    "controlDate": "2025-12-11T12:19:12.376Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15474,7 +15474,7 @@
     "rfStatewide": false,
     "name": "Welt von heute",
     "type": "print",
-    "controlDate": "2025-06-19T15:08:58.226Z",
+    "controlDate": "2025-12-11T12:19:05.237Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16445,7 +16445,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T11:27:34.107Z",
+    "controlDate": "2025-12-11T11:25:55.608Z",
     "state": "active"
   },
   {
@@ -18867,7 +18867,7 @@
     "name": "www.rfh-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T15:13:14.336Z",
+    "controlDate": "2025-12-11T12:21:43.718Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31021,7 +31021,7 @@
     "name": "www.reutlinger-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T15:22:32.055Z",
+    "controlDate": "2025-12-11T11:48:45.191Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36538,7 +36538,7 @@
     "name": "www.rennsteig.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T14:18:01.369Z",
+    "controlDate": "2025-12-11T11:39:12.774Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41832,7 +41832,7 @@
     "name": "www.rheinmainverlag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T15:17:19.669Z",
+    "controlDate": "2025-12-11T12:27:11.734Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42100,7 +42100,7 @@
     "name": "www.der-frankfurter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T15:17:13.232Z",
+    "controlDate": "2025-12-11T12:27:05.675Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -49434,7 +49434,7 @@
     "name": "www.rfo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T15:15:43.954Z",
+    "controlDate": "2025-12-11T12:22:26.148Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -78943,7 +78943,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T11:22:34.620Z",
+    "controlDate": "2025-12-11T11:22:49.700Z",
     "state": "active"
   },
   {
@@ -87859,7 +87859,7 @@
     "rfStatewide": false,
     "name": "Offenburger Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-19T11:22:23.225Z",
+    "controlDate": "2025-12-11T11:19:52.810Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87923,7 +87923,7 @@
     "rfStatewide": false,
     "name": "Rems-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-19T14:14:30.014Z",
+    "controlDate": "2025-12-11T11:36:26.644Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87946,7 +87946,7 @@
     "rfStatewide": false,
     "name": "Reutlinger General-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-19T14:31:35.692Z",
+    "controlDate": "2025-12-11T11:52:14.647Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87966,7 +87966,7 @@
     "rfStatewide": false,
     "name": "Laviva",
     "type": "print",
-    "controlDate": "2025-06-26T17:26:46.631Z",
+    "controlDate": "2025-12-11T12:20:09.960Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93507,7 +93507,7 @@
     "rfStatewide": false,
     "name": "drums & percussion",
     "type": "print",
-    "controlDate": "2025-06-19T11:26:11.640Z",
+    "controlDate": "2025-12-11T11:24:21.493Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93987,7 +93987,7 @@
     "name": "RGA am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-19T13:41:17.023Z",
+    "controlDate": "2025-12-11T11:31:39.447Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94889,7 +94889,7 @@
     "rfStatewide": false,
     "name": "Reise und Preise",
     "type": "print",
-    "controlDate": "2025-06-19T11:27:25.699Z",
+    "controlDate": "2025-12-11T11:25:16.524Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100578,7 +100578,7 @@
     "rfStatewide": false,
     "name": "Remscheider General-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-19T13:41:56.652Z",
+    "controlDate": "2025-12-11T11:32:07.820Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107909,7 +107909,7 @@
     "name": "www.gmuenderwoche.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T14:14:41.319Z",
+    "controlDate": "2025-12-11T11:37:15.458Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -116222,7 +116222,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-19T11:26:19.853Z",
+    "controlDate": "2025-12-11T11:25:00.842Z",
     "state": "active"
   },
   {
@@ -135931,7 +135931,7 @@
     "name": "Mittelbadische Presse (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-19T11:22:12.286Z",
+    "controlDate": "2025-12-11T11:19:40.538Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141792,7 +141792,7 @@
     "name": "Engelbert",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-18T09:19:19.776Z",
+    "controlDate": "2025-12-11T11:31:25.693Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141883,7 +141883,7 @@
     "name": "www.puls-gesundheitsmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:23:44.387Z",
+    "controlDate": "2025-12-11T11:33:31.225Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150718,7 +150718,7 @@
     "name": "www.rheinmaintv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T15:22:37.525Z",
+    "controlDate": "2025-12-11T12:28:57.785Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152613,7 +152613,7 @@
     "name": "Stadtmagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-19T14:37:56.817Z",
+    "controlDate": "2025-12-11T11:48:38.605Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152651,7 +152651,7 @@
     "name": "www.extra-tipp-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-19T14:19:58.915Z",
+    "controlDate": "2025-12-11T11:45:02.812Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
