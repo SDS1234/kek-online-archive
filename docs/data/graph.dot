@@ -40854,8 +40854,8 @@ digraph {
     label="Engelhard, Gerald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=38
-    num_medias_weighted=2.6837
+    num_medias=8
+    num_medias_weighted=2.6704
     name="5be1a6b6-3871-4a7c-9a6a-5c25f6666b63"
     in_degree=0
     out_degree=2
@@ -44370,8 +44370,8 @@ digraph {
     label="Eymann, Ulrich"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=38
-    num_medias_weighted=0.4824
+    num_medias=8
+    num_medias_weighted=0.4800
     name="5d10b3eb-19a5-4112-b659-b93c6b00792b"
     in_degree=0
     out_degree=4
@@ -67146,8 +67146,8 @@ digraph {
     label="Hub, Björn"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=38
-    num_medias_weighted=0.2434
+    num_medias=8
+    num_medias_weighted=0.2421
     name="5be1a6b6-7581-4cc9-bba7-b1ce1353e83f"
     in_degree=0
     out_degree=2
@@ -67158,8 +67158,8 @@ digraph {
     label="Hub, Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=38
-    num_medias_weighted=0.2434
+    num_medias=8
+    num_medias_weighted=0.2421
     name="5be1a6b6-4500-4b0a-8074-fc59eca6496d"
     in_degree=0
     out_degree=2
@@ -88398,7 +88398,7 @@ digraph {
     label="Main-Echo Verlags- und Verwaltungs GmbH"
     num_owners=6
     num_owners_weighted=5.7600
-    num_medias=38
+    num_medias=8
     num_medias_weighted=0.0000
     name="5dfbb2f4-263f-48ba-b481-53154bb258cc"
     in_degree=2
@@ -91821,7 +91821,7 @@ digraph {
     num_medias=30
     num_medias_weighted=1.2890
     name="5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
-    in_degree=34
+    in_degree=33
     out_degree=4
   ];
   7652 [
@@ -125406,11 +125406,11 @@ digraph {
     label="Rose, Lilian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=82
+    num_medias_weighted=0.3124
     name="6929c5a0-caa3-4e7b-8a9f-35f9ec5706fa"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10451 [
     type=shareholder
@@ -132666,11 +132666,11 @@ digraph {
     label="Schrader, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=82
-    num_medias_weighted=5.4978
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-f42b-4513-ad15-712b39ff38fc"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11056 [
     type=shareholder
@@ -158202,11 +158202,11 @@ digraph {
     label="Verlag und Druckerei Main-Echo GmbH & Co. KG"
     num_owners=7
     num_owners_weighted=6.7000
-    num_medias=38
-    num_medias_weighted=8.0401
+    num_medias=8
+    num_medias_weighted=8.0000
     name="5be1a6b6-febc-46b6-8547-fe5c8cf40624"
     in_degree=3
-    out_degree=10
+    out_degree=9
   ];
   13184 [
     type=shareholder
@@ -161958,7 +161958,7 @@ digraph {
     label="W. Engelhard GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=38
+    num_medias=8
     num_medias_weighted=0.0000
     name="5dfbb428-13f8-42dd-8678-4521f1295f9f"
     in_degree=4
@@ -161970,8 +161970,8 @@ digraph {
     label="W. Engelhard GmbH. & Co., Kommanditgesellschaft, Betriebs- und Verwaltungsgesellschaft"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=38
-    num_medias_weighted=7.5577
+    num_medias=8
+    num_medias_weighted=7.5200
     name="5be1a6b6-e0df-4a8c-b33b-e5096940d889"
     in_degree=5
     out_degree=2
@@ -167778,11 +167778,11 @@ digraph {
     label="Witte, Florian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=82
+    num_medias_weighted=1.8743
     name="6929c5be-9cc4-4b30-9830-b2ebbf1cbeae"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   13982 [
     type=shareholder
@@ -167802,11 +167802,11 @@ digraph {
     label="Witte, Ingeborg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=82
-    num_medias_weighted=1.8743
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-b314-4c1f-8ce4-7dd9ff094e2d"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   13984 [
     type=shareholder
@@ -258273,6 +258273,10 @@ digraph {
     weight=12.44
     type=owns
   ];
+  10450 -> 7685 [
+    weight=1
+    type=owns
+  ];
   10452 -> 7685 [
     weight=2
     type=owns
@@ -260959,10 +260963,6 @@ digraph {
   ];
   11054 -> 14020 [
     weight=1
-    type=owns
-  ];
-  11055 -> 7685 [
-    weight=8.8
     type=owns
   ];
   11056 -> 7475 [
@@ -270361,10 +270361,6 @@ digraph {
     weight=100
     type=owns
   ];
-  13183 -> 7651 [
-    weight=3.11
-    type=owns
-  ];
   13183 -> 1528 [
     weight=100
     type=operates
@@ -274141,12 +274137,12 @@ digraph {
     weight=50
     type=owns
   ];
-  13982 -> 8002 [
-    weight=10
+  13981 -> 7685 [
+    weight=3
     type=owns
   ];
-  13983 -> 7685 [
-    weight=3
+  13982 -> 8002 [
+    weight=10
     type=owns
   ];
   13984 -> 6774 [
