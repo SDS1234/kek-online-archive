@@ -41646,11 +41646,11 @@ digraph {
     label="Erbengemeinschaft nach Andreas Witter (Christel Witter, Annette Witter, Nicole Witter)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.8000
     name="693aade5-263b-45bf-b97d-bbb7dbdd3b1d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3471 [
     type=shareholder
@@ -167838,11 +167838,11 @@ digraph {
     label="Witter, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f33d774-3677-4a1e-90c3-1697e9317482"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   13987 [
     type=shareholder
@@ -225273,6 +225273,10 @@ digraph {
     weight=4.13
     type=owns
   ];
+  3470 -> 10204 [
+    weight=40
+    type=owns
+  ];
   3471 -> 660 [
     weight=100
     type=owns
@@ -274159,10 +274163,6 @@ digraph {
   ];
   13984 -> 6775 [
     weight=49
-    type=owns
-  ];
-  13986 -> 10204 [
-    weight=40
     type=owns
   ];
   13987 -> 5396 [
