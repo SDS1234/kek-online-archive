@@ -4076,7 +4076,7 @@
     "rfStatewide": false,
     "name": "Sindelfinger Zeitung - Böblinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-20T11:51:50.131Z",
+    "controlDate": "2025-12-15T15:36:48.796Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4099,7 +4099,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T11:52:40.773Z",
+    "controlDate": "2025-12-15T15:37:04.170Z",
     "state": "active"
   },
   {
@@ -16880,7 +16880,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T11:52:30.157Z",
+    "controlDate": "2025-12-15T15:36:58.660Z",
     "state": "active"
   },
   {
@@ -34863,7 +34863,7 @@
     "name": "www.dasgelbeblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T11:38:50.486Z",
+    "controlDate": "2025-12-15T15:26:13.690Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37200,7 +37200,7 @@
     "name": "PiG",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-20T11:51:12.393Z",
+    "controlDate": "2025-12-15T15:34:12.094Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112021,7 +112021,7 @@
     "rfStatewide": false,
     "name": "Sindelfinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-20T11:51:40.601Z",
+    "controlDate": "2025-12-15T15:36:32.430Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -148034,7 +148034,7 @@
     "name": "www.wuppertaler-rundschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T11:37:55.757Z",
+    "controlDate": "2025-12-15T15:24:29.355Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
