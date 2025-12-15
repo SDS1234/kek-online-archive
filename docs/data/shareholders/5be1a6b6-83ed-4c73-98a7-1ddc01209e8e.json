@@ -18,7 +18,7 @@
   "name": "RTL interactive GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e",
-  "controlDate": "2025-06-20T10:08:02.444Z",
+  "controlDate": "2025-12-15T13:15:13.456Z",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -53,15 +53,6 @@
         "squuid": "5be1a6b1-0374-4e9c-ac4a-f4d8a7d43dca"
       },
       "squuid": "5be1a6b9-7cac-4236-85d5-9bda7f09d359",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "www.kochbar.de",
-        "squuid": "5be1a6b1-8932-4366-ace3-de52a9136893"
-      },
-      "squuid": "5be1a6b9-3fc8-4652-a3d6-2eaa2af70198",
       "state": "active"
     },
     {

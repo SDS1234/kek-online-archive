@@ -9540,7 +9540,7 @@
     "squuid": "5be1a6b6-8121-4304-890e-61c94a6f08d0",
     "name": "RTL Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:55:15.654Z",
+    "controlDate": "2025-12-15T13:06:16.406Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9655,7 +9655,7 @@
     "squuid": "5be1a6b6-7474-4c9a-a706-95e39a65b236",
     "name": "RTL Group S.A.",
     "state": "active",
-    "controlDate": "2025-06-20T09:57:47.347Z",
+    "controlDate": "2025-12-15T13:06:44.577Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -12348,7 +12348,7 @@
     "squuid": "5be1a6b6-1f1d-464c-ad85-465abc77cf7a",
     "name": "RSG Rundfunk Service GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:35:21.078Z",
+    "controlDate": "2025-12-15T12:36:33.056Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -19044,7 +19044,7 @@
     "squuid": "5be1a6b6-85f0-48b9-9138-215258d455f7",
     "name": "rt1.broadcast management GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:40:47.305Z",
+    "controlDate": "2025-12-15T12:42:33.626Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -21308,7 +21308,7 @@
     "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61",
     "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-20T09:36:19.182Z",
+    "controlDate": "2025-12-15T12:37:11.472Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -37647,7 +37647,7 @@
     "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e",
     "name": "RT.15 GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:36:41.962Z",
+    "controlDate": "2025-12-15T12:41:17.110Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52713,7 +52713,7 @@
     "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815",
     "name": "rt1.media group GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:47:34.540Z",
+    "controlDate": "2025-12-15T12:47:04.763Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -53296,7 +53296,7 @@
     "squuid": "5be1a6b6-835d-4817-ab25-5f64286c4824",
     "name": "rta.media GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:47:48.315Z",
+    "controlDate": "2025-12-15T12:54:55.922Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -78190,7 +78190,7 @@
     "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f",
     "name": "rt1.digital broadcast GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:41:10.275Z",
+    "controlDate": "2025-12-15T12:43:02.987Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91410,7 +91410,7 @@
     "squuid": "5be1a6b6-6bb3-4d6e-97ab-81d991235520",
     "name": "RTL Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:53:50.502Z",
+    "controlDate": "2025-12-15T13:05:38.535Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -237663,7 +237663,7 @@
     "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e",
     "name": "RTL interactive GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T10:08:02.444Z",
+    "controlDate": "2025-12-15T13:15:13.456Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237697,15 +237697,6 @@
         "held": {
           "squuid": "5be1a6b1-0374-4e9c-ac4a-f4d8a7d43dca",
           "name": "www.vox.de"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-3fc8-4652-a3d6-2eaa2af70198",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-8932-4366-ace3-de52a9136893",
-          "name": "www.kochbar.de"
         }
       },
       {
@@ -243836,6 +243827,15 @@
           "squuid": "5be1a6b1-2d3e-49f0-a81e-dcf6b0aec7f6",
           "name": "www.essen-und-trinken.de"
         }
+      },
+      {
+        "squuid": "69400a33-9c66-4a24-be63-809a49b0355e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-8932-4366-ace3-de52a9136893",
+          "name": "www.kochbar.de"
+        }
       }
     ]
   },
@@ -249797,7 +249797,7 @@
     "squuid": "5be1a6b6-0812-4100-b36e-793f33daf6b0",
     "name": "RP Digital GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:20:56.298Z",
+    "controlDate": "2025-12-15T12:31:07.135Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -277102,7 +277102,7 @@
     "squuid": "5f3a81c4-fd74-405b-94b6-d70c86a044e7",
     "name": "RTL Hessen GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:58:48.351Z",
+    "controlDate": "2025-12-15T13:12:04.057Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280491,7 +280491,7 @@
     "squuid": "5be1a6b6-1212-4881-897e-2753c250a9f2",
     "name": "RPC Beteiligungen GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:25:04.436Z",
+    "controlDate": "2025-12-15T12:36:15.780Z",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -312359,7 +312359,7 @@
     "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3",
     "name": "RT/Raiffeisen Touristik Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:38:17.555Z",
+    "controlDate": "2025-12-15T12:41:50.548Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
