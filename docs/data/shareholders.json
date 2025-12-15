@@ -24578,7 +24578,7 @@
     "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d",
     "name": "RTL Radio Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T10:24:29.986Z",
+    "controlDate": "2025-12-15T14:03:02.846Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -28644,7 +28644,7 @@
     "squuid": "5be1a6b6-47dc-4077-b376-a8d2229ae26b",
     "name": "RTL Nord GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T10:22:58.222Z",
+    "controlDate": "2025-12-15T13:47:49.906Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -58062,7 +58062,7 @@
     "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9",
     "name": "RTL Radio Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T09:48:51.644Z",
+    "controlDate": "2025-12-15T13:48:41.139Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -58083,15 +58083,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "5f354da6-88cd-43a9-a98e-84018c048751",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f354cd4-bd61-41e8-95d4-83898f231afe",
-          "name": "www.spreeradio.de"
-        }
-      },
       {
         "squuid": "5f354e6a-e368-4006-981f-39ff9ad8a17d",
         "type": "operate",
@@ -237673,15 +237664,6 @@
     ],
     "operates": [
       {
-        "squuid": "5be1a6b9-743c-4241-97dd-31d18873bed4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-93db-4123-8dcd-9dfcabf8a6f4",
-          "name": "www.watchbox.de"
-        }
-      },
-      {
         "squuid": "5be1a6b9-e9e7-4b3a-a73b-032ab4a67a14",
         "type": "operate",
         "state": "active",
@@ -237769,15 +237751,6 @@
         "held": {
           "squuid": "668be701-26c7-400c-8b1c-f6098e122c7e",
           "name": "www.plus.rtl.de"
-        }
-      },
-      {
-        "squuid": "6900a1bb-a0a2-40a7-b9ac-5565bcee2364",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-01fe-4d54-9379-6236165752cb",
-          "name": "www.vip.de"
         }
       }
     ]
@@ -270919,6 +270892,30 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "694012a8-0c38-450a-8926-4c477f526370",
+    "name": "RTL Audio Center Berlin GmbH",
+    "state": "active",
+    "controlDate": "2025-12-15T13:56:45.502Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "694012f0-403d-48f8-9608-33cb02fba2d8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f354cd4-bd61-41e8-95d4-83898f231afe",
+          "name": "www.spreeradio.de"
+        }
       }
     ]
   },
@@ -314252,6 +314249,7 @@
     "squuid": "68de6a87-02d2-4068-989d-cae776ea8273",
     "name": "RTL Radio-Beteiligungsgesellschaft mbH",
     "state": "active",
+    "controlDate": "2025-12-15T14:10:07.701Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
