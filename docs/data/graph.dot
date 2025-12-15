@@ -7593,7 +7593,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5be1a6b6-c54b-4406-bde3-230c746b3f1f"
-    in_degree=2
+    in_degree=3
     out_degree=1
   ];
   633 [
@@ -127410,11 +127410,11 @@ digraph {
     label="Rundfunk Berlin-Brandenburg (RBB)"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=17
+    num_medias=19
     num_medias_weighted=17.0000
     name="5be1a6b6-397d-4361-8635-4e42f797be3d"
     in_degree=1
-    out_degree=17
+    out_degree=18
   ];
   10618 [
     type=shareholder
@@ -259384,6 +259384,10 @@ digraph {
   10616 -> 16256 [
     weight=100
     type=operates
+  ];
+  10617 -> 632 [
+    weight=4
+    type=owns
   ];
   10617 -> 512 [
     weight=100
