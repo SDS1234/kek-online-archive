@@ -61950,11 +61950,11 @@ digraph {
     label="Heck, Dr. Clarissa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=5
+    num_medias_weighted=1.4979
     name="692d7fc4-d03d-4679-b4dd-ec90c59353ab"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5163 [
     type=shareholder
@@ -61962,11 +61962,11 @@ digraph {
     label="Heck, Dr. Victoria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=5
+    num_medias_weighted=1.4979
     name="692d7fdc-1949-49cb-ba71-6a3e430ccb66"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5164 [
     type=shareholder
@@ -61974,11 +61974,11 @@ digraph {
     label="Heck, Kolja"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=5
+    num_medias_weighted=1.4979
     name="692d7f86-adfe-46eb-bc30-9d53f22f4f8b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5165 [
     type=shareholder
@@ -61986,11 +61986,11 @@ digraph {
     label="Heck, Ralph"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
-    num_medias_weighted=2.4965
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-a21b-4da4-8f4a-aeac4026066e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5166 [
     type=shareholder
@@ -74670,11 +74670,11 @@ digraph {
     label="Keller, Caspar"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=49
+    num_medias_weighted=4.5552
     name="692da815-9dc8-4c81-a75b-b1a1fa9a7619"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   6223 [
     type=shareholder
@@ -74682,11 +74682,11 @@ digraph {
     label="Keller, Clara"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=49
+    num_medias_weighted=4.5552
     name="692da828-e758-452c-9720-1749910665d5"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   6224 [
     type=shareholder
@@ -94749,7 +94749,7 @@ digraph {
     num_medias=5
     num_medias_weighted=4.9930
     name="5be1a6b6-156f-455f-ba2a-6e3b6510ae1b"
-    in_degree=3
+    in_degree=4
     out_degree=1
   ];
   7896 [
@@ -96441,7 +96441,7 @@ digraph {
     num_medias=49
     num_medias_weighted=9.4900
     name="5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2"
-    in_degree=2
+    in_degree=4
     out_degree=2
   ];
   8037 [
@@ -153990,11 +153990,11 @@ digraph {
     label="Turner, Sebastian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
-    num_medias_weighted=1.2483
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-1cba-484e-be44-d296931b6a4e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12833 [
     type=shareholder
@@ -233093,8 +233093,16 @@ digraph {
     weight=100
     type=owns
   ];
-  5165 -> 7895 [
-    weight=50
+  5162 -> 7895 [
+    weight=30
+    type=owns
+  ];
+  5163 -> 7895 [
+    weight=30
+    type=owns
+  ];
+  5164 -> 7895 [
+    weight=30
     type=owns
   ];
   5166 -> 13197 [
@@ -238003,6 +238011,14 @@ digraph {
   ];
   6220 -> 5786 [
     weight=100
+    type=owns
+  ];
+  6222 -> 8036 [
+    weight=48
+    type=owns
+  ];
+  6223 -> 8036 [
+    weight=48
     type=owns
   ];
   6228 -> 6031 [
@@ -268667,10 +268683,6 @@ digraph {
   ];
   12831 -> 12828 [
     weight=100
-    type=owns
-  ];
-  12832 -> 7895 [
-    weight=25
     type=owns
   ];
   12833 -> 9784 [
