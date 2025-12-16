@@ -101516,7 +101516,7 @@
     "squuid": "5be1a6b6-2858-4d3f-bb6e-8a1ca59a86a4",
     "name": "Pressehaus Krause GmbH & Co KG (Goslar)",
     "state": "active",
-    "controlDate": "2025-06-17T11:50:10.303Z",
+    "controlDate": "2025-12-16T12:16:07.179Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -129495,7 +129495,7 @@
     "squuid": "5be1a6b6-bf35-4199-9236-ac814bfb4dc8",
     "name": "Presse Dienstleistungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-17T10:28:42.543Z",
+    "controlDate": "2025-12-16T12:08:21.058Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -131753,7 +131753,7 @@
     "squuid": "5be1a6b6-d580-48f8-954f-8f0fb3adcaa1",
     "name": "Pressehaus Krause GmbH & Co KG (Stade)",
     "state": "active",
-    "controlDate": "2025-06-17T11:50:27.675Z",
+    "controlDate": "2025-12-16T12:17:33.929Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -148744,7 +148744,7 @@
     "squuid": "5f0315d3-1d3f-4c75-9f37-2c14ae18c571",
     "name": "pen point GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T13:48:21.394Z",
+    "controlDate": "2025-12-16T12:05:19.760Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -165704,7 +165704,7 @@
     "squuid": "5eec9820-cb95-4209-b09f-09ef8cade474",
     "name": "Presse-Zentrum Winsen (Luhe) Ravens & Maack GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-17T11:35:24.639Z",
+    "controlDate": "2025-12-16T12:13:02.265Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -190975,7 +190975,7 @@
     "squuid": "60a4f0e3-a8a2-4d9f-9b42-ca19e76c572d",
     "name": "PW Garrel Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-18T07:04:11.954Z",
+    "controlDate": "2025-12-16T12:19:44.058Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279628,6 +279628,19 @@
     ]
   },
   {
+    "squuid": "69414cc3-5aa2-4a70-abec-3aa162d0ecbb",
+    "name": "Maack, Doris",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-fdac-493a-b920-b8d2eab830cf",
     "name": "Heusgen, Georg",
     "state": "archived",
@@ -292528,7 +292541,7 @@
     "squuid": "5be1a6b6-8a5a-4e19-a1a2-ddaf1ff4fb4c",
     "name": "PWG Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-18T07:04:28.158Z",
+    "controlDate": "2025-12-16T12:21:50.385Z",
     "limitedPartnership": true,
     "organizations": [
       {
