@@ -117556,8 +117556,8 @@ digraph {
     type=radio
     state=active
     label="radio mittelweser"
-    num_owners=59
-    num_owners_weighted=11.7312
+    num_owners=9
+    num_owners_weighted=8.1429
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c32b-49f8-b619-99611e5f040b"
@@ -117772,8 +117772,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Nienburg Mittelweser GmbH"
-    num_owners=58
-    num_owners_weighted=10.7312
+    num_owners=8
+    num_owners_weighted=7.1429
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-edc9-4eae-9693-34628b69f0fc"
@@ -195928,8 +195928,8 @@ digraph {
     type=online
     state=active
     label="www.radiomw.tv"
-    num_owners=59
-    num_owners_weighted=11.7312
+    num_owners=9
+    num_owners_weighted=8.1429
     num_medias=0
     num_medias_weighted=0.0000
     name="5f04719b-ae3e-4df4-bd47-20e211b43a7c"
