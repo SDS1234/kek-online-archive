@@ -143834,7 +143834,7 @@ digraph {
   ];
   11986 [
     type=shareholder
-    state=active
+    state=archived
     label="Sternevent GmbH"
     num_owners=0
     num_owners_weighted=0.0000
