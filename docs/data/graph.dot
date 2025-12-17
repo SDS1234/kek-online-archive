@@ -4269,7 +4269,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-bbfa-4258-b8b4-19e51536bbc4"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   356 [
@@ -6724,8 +6724,8 @@ digraph {
     type=shareholder
     state=active
     label="Antennengemeinschaft Erznet AG"
-    num_owners=9
-    num_owners_weighted=5.3033
+    num_owners=11
+    num_owners_weighted=5.5255
     num_medias=4
     num_medias_weighted=2.0000
     name="5e4fac7e-f26c-4322-a1f6-3a92c681b28f"
@@ -32994,8 +32994,8 @@ digraph {
     label="Diözese Augsburg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=21
-    num_medias_weighted=8.1860
+    num_medias=19
+    num_medias_weighted=8.5260
     name="5be1a6b6-701f-4467-841c-82815a588fc5"
     in_degree=0
     out_degree=1
@@ -42352,8 +42352,8 @@ digraph {
     type=shareholder
     state=active
     label="erznext GmbH"
-    num_owners=7
-    num_owners_weighted=6.6066
+    num_owners=9
+    num_owners_weighted=7.0510
     num_medias=4
     num_medias_weighted=1.0000
     name="5e4fad2d-75c9-4328-8aa5-9b5a1d8c900b"
@@ -56032,8 +56032,8 @@ digraph {
     type=tv
     state=active
     label="Glück Auf! TV - Kanal 9 Erzgebirge"
-    num_owners=14
-    num_owners_weighted=7.6517
+    num_owners=16
+    num_owners_weighted=7.7627
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3a9a-426a-a60f-518b51493645"
@@ -56044,8 +56044,8 @@ digraph {
     type=tv
     state=active
     label="Glück Auf! TV - MITTEL ERZGEBIRGS FERNSEHEN"
-    num_owners=13
-    num_owners_weighted=6.6517
+    num_owners=15
+    num_owners_weighted=6.7627
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ab77-4ab6-8f0b-1de6c1747087"
@@ -56056,8 +56056,8 @@ digraph {
     type=shareholder
     state=active
     label="Glück Auf! TV GmbH"
-    num_owners=12
-    num_owners_weighted=5.6517
+    num_owners=14
+    num_owners_weighted=5.7627
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-ff9b-45da-a4e0-ab327e1f0577"
@@ -65109,7 +65109,7 @@ digraph {
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-7179-4d1e-a276-e0773c9d9084"
-    in_degree=4
+    in_degree=3
     out_degree=4
   ];
   5426 [
@@ -129570,11 +129570,11 @@ digraph {
     label="Sankt Ulrich Verlag GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=21
-    num_medias_weighted=8.1860
+    num_medias=19
+    num_medias_weighted=8.5260
     name="5be1a6b6-cac1-420a-b40c-87452e0ab6f4"
     in_degree=1
-    out_degree=15
+    out_degree=13
   ];
   10798 [
     type=shareholder
@@ -129760,8 +129760,8 @@ digraph {
     type=shareholder
     state=active
     label="Sat.1 Norddeutschland GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=17
+    num_owners_weighted=9.3476
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-ec1a-4819-97d4-b7b0a7c10ff1"
@@ -129796,8 +129796,8 @@ digraph {
     type=tv
     state=active
     label="Sat.1 Regional"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2f325f-ea0e-4a54-be7f-3ce0023ac9ef"
@@ -130036,8 +130036,8 @@ digraph {
     type=shareholder
     state=active
     label="SC-Kapitalbeteiligungsgesellschaft mbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=4
     num_medias_weighted=0.2222
     name="682c6bfd-3b51-42be-828b-85b967c0c9b7"
@@ -182212,8 +182212,8 @@ digraph {
     type=online
     state=active
     label="www.glueckauftv.de"
-    num_owners=13
-    num_owners_weighted=6.6517
+    num_owners=15
+    num_owners_weighted=6.7627
     num_medias=0
     num_medias_weighted=0.0000
     name="675db017-bb56-465b-b517-a1b0c2f3e189"
@@ -189340,8 +189340,8 @@ digraph {
     type=online
     state=active
     label="www.mef-line.de"
-    num_owners=13
-    num_owners_weighted=6.6517
+    num_owners=15
+    num_owners_weighted=6.7627
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7dafd4-b7df-4c59-894e-5064c65b29d9"
@@ -198388,8 +198388,8 @@ digraph {
     type=online
     state=active
     label="www.sat1regional.de"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="5f183314-0d92-4f60-9d6a-3ee3872722b0"
@@ -260109,10 +260109,6 @@ digraph {
     weight=100
     type=operates
   ];
-  10797 -> 355 [
-    weight=30
-    type=owns
-  ];
   10797 -> 356 [
     weight=30
     type=owns
@@ -260131,10 +260127,6 @@ digraph {
   ];
   10797 -> 5423 [
     weight=37
-    type=owns
-  ];
-  10797 -> 5425 [
-    weight=10
     type=owns
   ];
   10797 -> 10517 [

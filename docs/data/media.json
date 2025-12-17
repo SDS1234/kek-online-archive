@@ -9673,7 +9673,7 @@
     "rfStatewide": false,
     "name": "Salon",
     "type": "print",
-    "controlDate": "2025-06-20T13:07:10.595Z",
+    "controlDate": "2025-12-17T11:24:49.972Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14010,7 +14010,7 @@
     "rfStatewide": false,
     "name": "Katholische SonntagsZeitung",
     "type": "print",
-    "controlDate": "2025-06-20T13:19:11.307Z",
+    "controlDate": "2025-12-17T11:31:25.198Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14034,7 +14034,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T13:19:27.175Z",
+    "controlDate": "2025-12-17T11:31:38.294Z",
     "state": "active"
   },
   {
@@ -14049,7 +14049,7 @@
     "rfStatewide": false,
     "name": "Neue Bildpost",
     "type": "print",
-    "controlDate": "2025-06-20T13:19:20.189Z",
+    "controlDate": "2025-12-17T11:31:32.379Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15659,7 +15659,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T13:16:03.954Z",
+    "controlDate": "2025-12-17T11:30:06.414Z",
     "state": "active"
   },
   {
@@ -16736,7 +16736,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T13:52:14.643Z",
+    "controlDate": "2025-12-17T11:39:14.561Z",
     "state": "active"
   },
   {
@@ -26650,7 +26650,7 @@
     "name": "www.salve.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:08:57.721Z",
+    "controlDate": "2025-12-17T11:26:35.297Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41698,7 +41698,7 @@
     "name": "www.salon-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:07:21.627Z",
+    "controlDate": "2025-12-17T11:24:58.295Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43243,7 +43243,7 @@
     "name": "www.saulustig.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:50:11.606Z",
+    "controlDate": "2025-12-17T11:36:32.225Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43810,7 +43810,7 @@
     "name": "www.sachsen-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-02T13:12:35.713Z",
+    "controlDate": "2025-12-17T11:19:14.957Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -52926,7 +52926,7 @@
     "name": "www.riesa-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:55:21.459Z",
+    "controlDate": "2025-12-17T11:40:08.514Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94749,7 +94749,7 @@
     "rfStatewide": false,
     "name": "Münchner Kirchenzeitung",
     "type": "print",
-    "controlDate": "2025-06-20T13:15:57.216Z",
+    "controlDate": "2025-12-17T11:29:58.222Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95730,7 +95730,7 @@
     "rfStatewide": false,
     "name": "Schaumburger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-20T14:13:23.211Z",
+    "controlDate": "2025-12-17T12:03:11.491Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -101351,7 +101351,7 @@
     "rfStatewide": false,
     "name": "WIRtschaft in Sachsen",
     "type": "print",
-    "controlDate": "2025-10-14T12:35:05.441Z",
+    "controlDate": "2025-12-17T11:19:01.235Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101809,7 +101809,7 @@
     "rfStatewide": false,
     "name": "Sax - Das Dresdner Stadtmagazin",
     "type": "print",
-    "controlDate": "2025-06-20T13:52:07.076Z",
+    "controlDate": "2025-12-17T11:38:35.963Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -120880,7 +120880,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T14:13:32.838Z",
+    "controlDate": "2025-12-17T12:03:23.794Z",
     "state": "active"
   },
   {
@@ -125444,7 +125444,7 @@
     "name": "www.augusto-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:56:16.786Z",
+    "controlDate": "2025-12-17T11:42:10.126Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -125856,7 +125856,7 @@
     "name": "www.sat1regional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:47:35.099Z",
+    "controlDate": "2025-12-17T11:36:10.438Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126087,7 +126087,7 @@
     "name": "www.wirtschaft-in-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T12:35:21.127Z",
+    "controlDate": "2025-12-17T11:19:21.803Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126294,7 +126294,7 @@
     "name": "www.top10berlin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:45:17.673Z",
+    "controlDate": "2025-12-17T11:34:20.888Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132602,7 +132602,7 @@
     "name": "www.dailydose.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T14:10:21.602Z",
+    "controlDate": "2025-12-17T12:01:09.709Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145738,7 +145738,7 @@
     "name": "www.osterland-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-02T13:12:27.231Z",
+    "controlDate": "2025-12-17T11:19:08.599Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148533,7 +148533,7 @@
     "name": "SN am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-20T14:13:09.733Z",
+    "controlDate": "2025-12-17T12:03:01.234Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149426,7 +149426,7 @@
     "name": "www.sw-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T13:58:27.820Z",
+    "controlDate": "2025-12-17T11:46:11.818Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
