@@ -15886,7 +15886,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T14:29:56.368Z",
+    "controlDate": "2025-12-17T12:34:58.615Z",
     "state": "active"
   },
   {
@@ -15983,7 +15983,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T14:29:49.595Z",
+    "controlDate": "2025-12-17T12:33:25.547Z",
     "state": "active"
   },
   {
@@ -19664,7 +19664,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T15:37:00.484Z",
+    "controlDate": "2025-12-17T13:19:25.990Z",
     "state": "active"
   },
   {
@@ -56561,7 +56561,7 @@
     "name": "www.schoenstatt-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T15:39:12.717Z",
+    "controlDate": "2025-12-17T12:52:44.393Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88466,7 +88466,7 @@
     "rfStatewide": false,
     "name": "Norddeutsches Handwerk",
     "type": "print",
-    "controlDate": "2025-06-20T14:29:38.443Z",
+    "controlDate": "2025-12-17T12:33:13.554Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88487,7 +88487,7 @@
     "rfStatewide": false,
     "name": "Nobilis",
     "type": "print",
-    "controlDate": "2025-06-20T14:29:13.169Z",
+    "controlDate": "2025-12-17T12:33:03.294Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88572,7 +88572,7 @@
     "rfStatewide": false,
     "name": "Schongauer Nachrichten",
     "type": "print",
-    "controlDate": "2025-11-07T10:15:04.460Z",
+    "controlDate": "2025-12-17T12:56:23.505Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88592,7 +88592,7 @@
     "rfStatewide": false,
     "name": "Katholisches Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-06-20T15:36:31.926Z",
+    "controlDate": "2025-12-17T13:18:36.075Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -155311,7 +155311,7 @@
     "name": "L'Osservatore Romano (Wochenausgabe in deutscher Sprache) ",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-20T15:36:49.756Z",
+    "controlDate": "2025-12-17T13:18:50.396Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158286,7 +158286,7 @@
     "name": "www.schlagerparadies.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T14:24:31.195Z",
+    "controlDate": "2025-12-17T12:29:01.904Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
