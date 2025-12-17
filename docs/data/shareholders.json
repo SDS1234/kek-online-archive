@@ -4971,7 +4971,7 @@
     "squuid": "668cf9ba-0723-4236-8183-495c36b246f9",
     "name": "S.D.U.S. GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:36:49.359Z",
+    "controlDate": "2025-12-17T09:09:49.705Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -44846,14 +44846,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -46435,7 +46430,7 @@
     "squuid": "5be1a6b6-7b22-4bc2-abdb-c97a7151bc88",
     "name": "Saarbrücker Zeitung Medienhaus GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:40:12.968Z",
+    "controlDate": "2025-12-17T09:14:20.451Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -47026,18 +47021,13 @@
   {
     "squuid": "6866a3b9-d838-4afa-94b2-d5738e437a45",
     "name": "Stöcker Flughafen Verwaltungs GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-07-15T11:34:41.485Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -47166,6 +47156,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
@@ -77101,7 +77097,7 @@
     "squuid": "5be1a6b6-4363-49e9-b3b1-086c4d081168",
     "name": "Rüttgerodt Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:20:36.795Z",
+    "controlDate": "2025-12-17T08:34:20.457Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -81867,14 +81863,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -142341,14 +142332,9 @@
     "controlDate": "2025-10-26T15:02:19.013Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -158240,7 +158226,7 @@
     "squuid": "64a55d8b-30a3-4bc2-8112-92d67f3e2c3c",
     "name": "SA West Investment Holding",
     "state": "active",
-    "controlDate": "2025-06-20T12:37:48.623Z",
+    "controlDate": "2025-12-17T09:10:21.536Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158841,7 +158827,7 @@
     "squuid": "5f9a8d9c-a369-47dc-85b2-7062b5cb7e9d",
     "name": "IBMVG mbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:26:54.890Z",
+    "controlDate": "2025-12-17T08:57:56.282Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197510,7 +197496,7 @@
     "squuid": "5ed1088f-0b97-48e6-aff7-d4fffd769620",
     "name": "S & A Beteiligungs UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-06-20T12:22:57.208Z",
+    "controlDate": "2025-12-17T08:35:30.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201082,14 +201068,9 @@
     "controlDate": "2025-12-09T15:01:51.078Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -216458,10 +216439,10 @@
   },
   {
     "state": "active",
-    "name": "S-W Verlag GmbH & Co. KG für Lokalinformationen",
+    "name": "S-W Verlag GmbH & Co. KG für Lokalinformation",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9dfa-4e7a-a187-34251fc1bcf5",
-    "controlDate": "2025-06-20T12:28:14.574Z",
+    "controlDate": "2025-12-17T09:04:17.833Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216762,42 +216743,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Radio Lübeck Lokalfunk GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-9cef-449c-a857-44179bdc803c",
+    "name": "Radio Lübeck Lokalfunk GmbH & Co. KG",
+    "state": "archived",
     "controlDate": "2025-12-09T15:04:24.442Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-5758-4fd7-9cef-be8a7adfc465",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-6746-408b-91b0-363b37b8cfa9",
-          "name": "Radio Lübeck"
-        }
-      },
-      {
-        "squuid": "5f1ab258-a778-44f3-92b8-56f3c50e4b41",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f1ab22b-d43b-429e-b6f2-58583c16b090",
-          "name": "www.radioluebeck.de"
-        }
       }
     ]
   },
@@ -216808,14 +216764,9 @@
     "controlDate": "2025-12-01T14:27:42.520Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -216826,14 +216777,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -218581,7 +218527,7 @@
     "squuid": "5fa031e0-2ae8-47d2-8468-b78e60c50818",
     "name": "S-R GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:27:49.213Z",
+    "controlDate": "2025-12-17T08:58:05.672Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257664,14 +257610,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -257734,14 +257675,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -257781,14 +257717,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -259088,14 +259019,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -259988,7 +259914,7 @@
     "squuid": "640a1077-9f6f-4bf0-a164-071b40e90129",
     "name": "Saarländische Wochenblatt Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:49:03.422Z",
+    "controlDate": "2025-12-17T09:16:34.061Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288505,7 +288431,7 @@
     "squuid": "5be1a6b6-7d39-4ccb-a169-0f48c21d4216",
     "name": "S & A Verwaltungs UG (haftungsbeschränkt) & Co KG",
     "state": "active",
-    "controlDate": "2025-06-20T12:23:10.171Z",
+    "controlDate": "2025-12-17T08:35:51.388Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -307893,7 +307819,7 @@
     "squuid": "62e8e83f-4e2c-4085-b922-03aa05381f02",
     "name": "S + R Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T12:25:20.018Z",
+    "controlDate": "2025-12-17T08:39:34.686Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

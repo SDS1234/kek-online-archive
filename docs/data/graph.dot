@@ -13231,7 +13231,7 @@ digraph {
     num_owners=13
     num_owners_weighted=13.0000
     num_medias=120
-    num_medias_weighted=11.7968
+    num_medias_weighted=12.0326
     name="5be1a6b6-5b2e-4f62-a1f7-425546d7d953"
     in_degree=13
     out_degree=1
@@ -13795,7 +13795,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.7078
+    num_medias_weighted=0.7220
     name="5be1a6b6-fa4f-4989-9229-c4fe86fcc008"
     in_degree=0
     out_degree=1
@@ -13807,7 +13807,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.7078
+    num_medias_weighted=0.7220
     name="5be1a6b6-26b1-4631-aa20-2ddb789ae462"
     in_degree=0
     out_degree=1
@@ -13831,7 +13831,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.7078
+    num_medias_weighted=0.7220
     name="5be1a6b6-ed63-4143-bb2e-291d5630945c"
     in_degree=0
     out_degree=1
@@ -14755,7 +14755,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=36
-    num_medias_weighted=2.1102
+    num_medias_weighted=2.3324
     name="5be1a6b6-3a0b-446c-88f2-5d1ad6e255fb"
     in_degree=1
     out_degree=1
@@ -15091,7 +15091,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.1180
+    num_medias_weighted=0.1203
     name="5be1a6b6-cb8d-4e2b-bb99-adbe3e77ed41"
     in_degree=0
     out_degree=1
@@ -19447,7 +19447,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.8076
+    num_medias_weighted=2.8637
     name="5eb94536-2508-414c-92f7-84ef9387b667"
     in_degree=0
     out_degree=2
@@ -22375,7 +22375,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.2059
+    num_medias_weighted=0.2076
     name="5be1a6b6-a705-4afc-93ae-ca12ab7efc51"
     in_degree=0
     out_degree=2
@@ -22831,7 +22831,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=120
-    num_medias_weighted=5.3241
+    num_medias_weighted=5.4305
     name="5be1a6b6-5736-4379-870e-7dc77444bbfc"
     in_degree=5
     out_degree=1
@@ -23059,7 +23059,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=36
-    num_medias_weighted=2.1102
+    num_medias_weighted=2.3324
     name="5be1a6b6-399a-4dc6-8cac-635baddec9c4"
     in_degree=0
     out_degree=1
@@ -28831,7 +28831,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=36
-    num_medias_weighted=1.4633
+    num_medias_weighted=1.6175
     name="5be1a6b6-0d00-4f2e-956f-f281852b8fcd"
     in_degree=0
     out_degree=1
@@ -32838,11 +32838,11 @@ digraph {
     label="Ditscheid, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0800
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66bdf5a4-75ad-41b9-881d-45b9f51a79b4"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   2737 [
     type=shareholder
@@ -33678,8 +33678,8 @@ digraph {
     label="Dohmen, Fred"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=1.2000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-5506-4a07-9736-58dc053031c7"
     in_degree=0
     out_degree=1
@@ -34951,7 +34951,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.7889
+    num_medias_weighted=1.8247
     name="5be1a6b6-206a-4a13-9a42-56d19481cd9a"
     in_degree=0
     out_degree=3
@@ -34963,7 +34963,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.7889
+    num_medias_weighted=1.8247
     name="5be1a6b6-ddc7-4c0f-82e0-c16879053470"
     in_degree=0
     out_degree=3
@@ -34987,7 +34987,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.7889
+    num_medias_weighted=1.8247
     name="5be1a6b6-cf56-4ecd-b343-773da1ff1377"
     in_degree=0
     out_degree=3
@@ -34999,7 +34999,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.7889
+    num_medias_weighted=1.8247
     name="5be1a6b6-ac93-4e9b-baf9-c26cb3022992"
     in_degree=0
     out_degree=3
@@ -36739,7 +36739,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.8076
+    num_medias_weighted=2.8637
     name="5be1a6b6-db90-4f35-9fcc-0dc84fd45c89"
     in_degree=0
     out_degree=2
@@ -36751,7 +36751,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.8076
+    num_medias_weighted=2.8637
     name="5be1a6b6-8c00-4ef2-920c-a00bc203976c"
     in_degree=0
     out_degree=2
@@ -36763,7 +36763,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.8076
+    num_medias_weighted=2.8637
     name="5be1a6b6-eccb-4b73-9405-9e26af621f84"
     in_degree=0
     out_degree=2
@@ -48546,11 +48546,11 @@ digraph {
     label="Fred Dohmen Medien GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=1.2000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-3bd6-44af-9cb1-290a8291883d"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   4046 [
     type=shareholder
@@ -54931,7 +54931,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=36
-    num_medias_weighted=3.6583
+    num_medias_weighted=4.0437
     name="5be1a6b6-50d5-4cd3-b4de-333282d1a07f"
     in_degree=3
     out_degree=1
@@ -55579,7 +55579,7 @@ digraph {
     num_owners=40
     num_owners_weighted=2.8209
     num_medias=120
-    num_medias_weighted=3.2907
+    num_medias_weighted=3.3565
     name="5be1a6b6-ff67-4dcc-b8b6-874d94ac176f"
     in_degree=10
     out_degree=4
@@ -55615,7 +55615,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.6493
+    num_medias_weighted=0.6547
     name="5be1a6b6-6f50-4132-986b-17ad585d306a"
     in_degree=0
     out_degree=2
@@ -55627,7 +55627,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.8349
+    num_medias_weighted=2.8585
     name="5be1a6b6-825f-4b2f-862c-d39d391208cf"
     in_degree=0
     out_degree=1
@@ -55639,7 +55639,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.6493
+    num_medias_weighted=0.6547
     name="5be1a6b6-d088-472b-9aa4-5c2bb809e552"
     in_degree=0
     out_degree=2
@@ -55651,7 +55651,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.2172
+    num_medias_weighted=2.2357
     name="5be1a6b6-a2e1-4c86-928a-e040497d2927"
     in_degree=0
     out_degree=2
@@ -55663,7 +55663,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.2059
+    num_medias_weighted=0.2076
     name="5be1a6b6-0449-4141-8a64-445295b1c5b6"
     in_degree=0
     out_degree=2
@@ -64014,11 +64014,11 @@ digraph {
     label="Hess, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1520
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68669e92-c97b-4ec4-8be6-64cd98e08201"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5335 [
     type=shareholder
@@ -71082,8 +71082,8 @@ digraph {
     label="Jacobsen, Britt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-e9c1-4cec-b4de-456aa7e994c2"
     in_degree=0
     out_degree=1
@@ -72115,7 +72115,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.2059
+    num_medias_weighted=0.2076
     name="5be1a6b6-9fc4-4021-a81b-c1daa46bae51"
     in_degree=0
     out_degree=2
@@ -93522,11 +93522,11 @@ digraph {
     label="Meiser, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.4720
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66bdf474-b904-424b-b33e-37ff4492eec5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   7794 [
     type=shareholder
@@ -93943,7 +93943,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.3271
+    num_medias_weighted=1.3537
     name="5be1a6b6-ced6-45b6-9189-d98637135b7b"
     in_degree=0
     out_degree=1
@@ -93955,7 +93955,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.3271
+    num_medias_weighted=1.3537
     name="5be1a6b6-1883-440b-b94b-7504fd1cf1c0"
     in_degree=0
     out_degree=1
@@ -93967,7 +93967,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=2.6071
+    num_medias_weighted=2.6592
     name="5be1a6b6-7f92-453c-9df0-f6e66b013ed5"
     in_degree=0
     out_degree=1
@@ -96210,11 +96210,11 @@ digraph {
     label="moggimedia GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=0.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-751d-40d8-aa23-f7e307b83696"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   8018 [
     type=shareholder
@@ -117352,12 +117352,12 @@ digraph {
     type=radio
     state=active
     label="Radio Lübeck"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6746-408b-91b0-363b37b8cfa9"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9780 [
@@ -117366,23 +117366,23 @@ digraph {
     label="Radio Lübeck GmbH"
     num_owners=4
     num_owners_weighted=3.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f1ab44d-9f35-4103-80f3-5dee482eac8c"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   9781 [
     type=shareholder
-    state=active
+    state=archived
     label="Radio Lübeck Lokalfunk GmbH & Co. KG"
-    num_owners=5
-    num_owners_weighted=4.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-9cef-449c-a857-44179bdc803c"
-    in_degree=3
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   9782 [
     type=shareholder
@@ -119380,8 +119380,8 @@ digraph {
     type=radio
     state=active
     label="Radio Wellenrausch"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=6.6410
     num_medias=0
     num_medias_weighted=0.0000
     name="66bdf24b-c3b4-4f52-847c-3d9bf591454d"
@@ -119392,12 +119392,12 @@ digraph {
     type=shareholder
     state=active
     label="Radio Wellenrausch GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=5.6410
     num_medias=2
     num_medias_weighted=2.0000
     name="66bdf279-af02-496a-b611-ab29ffa89a12"
-    in_degree=5
+    in_degree=1
     out_degree=2
   ];
   9950 [
@@ -123475,7 +123475,7 @@ digraph {
     num_owners=40
     num_owners_weighted=1.9002
     num_medias=120
-    num_medias_weighted=19.1344
+    num_medias_weighted=19.1424
     name="5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
     in_degree=8
     out_degree=10
@@ -123487,7 +123487,7 @@ digraph {
     num_owners=40
     num_owners_weighted=15.0100
     num_medias=120
-    num_medias_weighted=14.8212
+    num_medias_weighted=14.8293
     name="5be1a6b6-4061-47cb-94a3-bca00300d22a"
     in_degree=1
     out_degree=20
@@ -128583,7 +128583,7 @@ digraph {
   10715 [
     type=shareholder
     state=active
-    label="S-W Verlag GmbH & Co. KG für Lokalinformationen"
+    label="S-W Verlag GmbH & Co. KG für Lokalinformation"
     num_owners=11
     num_owners_weighted=1.0000
     num_medias=11
@@ -128779,7 +128779,7 @@ digraph {
     num_owners=46
     num_owners_weighted=11.8519
     num_medias=36
-    num_medias_weighted=13.1311
+    num_medias_weighted=14.5143
     name="5be1a6b6-7b22-4bc2-abdb-c97a7151bc88"
     in_degree=3
     out_degree=15
@@ -129223,7 +129223,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=1.3271
+    num_medias_weighted=1.3537
     name="5be1a6b6-0d4e-466a-9fcf-d1a9e95b3b86"
     in_degree=0
     out_degree=1
@@ -144199,7 +144199,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.4660
+    num_medias_weighted=0.4753
     name="5be1a6b6-1d32-4601-bdcf-e12e8d95f034"
     in_degree=0
     out_degree=1
@@ -144211,7 +144211,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.8258
+    num_medias_weighted=0.8423
     name="5be1a6b6-7542-46d8-8a07-3a174444016a"
     in_degree=0
     out_degree=1
@@ -144223,7 +144223,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.2182
+    num_medias_weighted=0.2226
     name="5be1a6b6-c6b9-4c69-856c-10885bf0698c"
     in_degree=0
     out_degree=1
@@ -144235,7 +144235,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.8258
+    num_medias_weighted=0.8423
     name="5be1a6b6-3bbf-4e70-bef7-1b6e0e7b7f99"
     in_degree=0
     out_degree=1
@@ -144247,7 +144247,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=120
-    num_medias_weighted=0.6311
+    num_medias_weighted=0.6437
     name="5be1a6b6-c9b8-4707-b6d2-883907c70743"
     in_degree=0
     out_degree=1
@@ -147208,25 +147208,25 @@ digraph {
     type=shareholder
     state=active
     label="Stöcker Flughafen GmbH & Co. KG"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.4720
+    num_owners=1
+    num_owners_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66bdf446-472b-4c27-8c7b-90adea203a7d"
-    in_degree=2
-    out_degree=1
+    in_degree=1
+    out_degree=0
   ];
   12268 [
     type=shareholder
-    state=active
+    state=archived
     label="Stöcker Flughafen Verwaltungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="6866a3b9-d838-4afa-94b2-d5738e437a45"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12269 [
     type=shareholder
@@ -147235,10 +147235,10 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.4720
+    num_medias_weighted=2.0000
     name="6866a3e8-71aa-46cb-b507-137fd502ef93"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   12270 [
     type=shareholder
@@ -151914,11 +151914,11 @@ digraph {
     label="Thoma, Harald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.4720
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66bdf552-8882-4bb9-aa6e-a79797577a48"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12660 [
     type=shareholder
@@ -155755,7 +155755,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=36
-    num_medias_weighted=1.4633
+    num_medias_weighted=1.6175
     name="5be1a6b6-a1f1-4173-b8fb-9bf83c6246e2"
     in_degree=0
     out_degree=1
@@ -159463,7 +159463,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=36
-    num_medias_weighted=0.7317
+    num_medias_weighted=0.8087
     name="5be1a6b6-cfcf-4204-813d-2c300ca98a89"
     in_degree=0
     out_degree=1
@@ -164803,7 +164803,7 @@ digraph {
     num_owners=6
     num_owners_weighted=4.0000
     num_medias=120
-    num_medias_weighted=11.2303
+    num_medias_weighted=11.4547
     name="5be1a6b6-02f9-4c3c-bcd7-bc0823545469"
     in_degree=5
     out_degree=1
@@ -195076,8 +195076,8 @@ digraph {
     type=online
     state=active
     label="www.radio-wellenrausch.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=6.6410
     num_medias=0
     num_medias_weighted=0.0000
     name="68669bba-f826-4206-91e8-eb3c6fb71aed"
@@ -195868,12 +195868,12 @@ digraph {
     type=online
     state=active
     label="www.radioluebeck.de"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1ab22b-d43b-429e-b6f2-58583c16b090"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   16323 [
@@ -222245,10 +222245,6 @@ digraph {
     weight=49
     type=owns
   ];
-  2736 -> 9949 [
-    weight=4
-    type=owns
-  ];
   2739 -> 9882 [
     weight=25
     type=owns
@@ -227366,10 +227362,6 @@ digraph {
     type=owns
   ];
   4045 -> 9780 [
-    weight=60
-    type=owns
-  ];
-  4045 -> 9781 [
     weight=60
     type=owns
   ];
@@ -234103,10 +234095,6 @@ digraph {
   ];
   5332 -> 3285 [
     weight=5
-    type=owns
-  ];
-  5334 -> 9949 [
-    weight=7.6
     type=owns
   ];
   5335 -> 5440 [
@@ -244437,10 +244425,6 @@ digraph {
     weight=1
     type=owns
   ];
-  7793 -> 9949 [
-    weight=23.6
-    type=owns
-  ];
   7795 -> 9908 [
     weight=97
     type=owns
@@ -245654,10 +245638,6 @@ digraph {
     type=operates
   ];
   8017 -> 9780 [
-    weight=40
-    type=owns
-  ];
-  8017 -> 9781 [
     weight=40
     type=owns
   ];
@@ -254633,18 +254613,6 @@ digraph {
     weight=100
     type=operates
   ];
-  9780 -> 9781 [
-    weight=1
-    type=owns
-  ];
-  9781 -> 9779 [
-    weight=100
-    type=operates
-  ];
-  9781 -> 16322 [
-    weight=100
-    type=operates
-  ];
   9782 -> 9572 [
     weight=42.5
     type=owns
@@ -259922,7 +259890,7 @@ digraph {
     type=owns
   ];
   10731 -> 9889 [
-    weight=10
+    weight=24
     type=owns
   ];
   10731 -> 10294 [
@@ -266517,12 +266485,8 @@ digraph {
     weight=14
     type=owns
   ];
-  12267 -> 9949 [
-    weight=23.6
-    type=owns
-  ];
-  12268 -> 12267 [
-    weight=1
+  12269 -> 9949 [
+    weight=100
     type=owns
   ];
   12269 -> 12267 [
@@ -268160,10 +268124,6 @@ digraph {
   12656 -> 16890 [
     weight=100
     type=operates
-  ];
-  12659 -> 9949 [
-    weight=23.6
-    type=owns
   ];
   12660 -> 12822 [
     weight=100

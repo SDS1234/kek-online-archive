@@ -45292,7 +45292,7 @@
     "name": "www.wochenspiegellive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:28:25.694Z",
+    "controlDate": "2025-12-17T09:04:29.004Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -62225,7 +62225,7 @@
     "name": "www.sr.de/sr/fernsehen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:53:18.165Z",
+    "controlDate": "2025-12-17T09:20:28.419Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72255,7 +72255,7 @@
     "rfStatewide": false,
     "name": "Pfälzischer Merkur",
     "type": "print",
-    "controlDate": "2025-06-20T12:40:26.838Z",
+    "controlDate": "2025-12-17T09:14:32.450Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88389,7 +88389,7 @@
     "rfStatewide": false,
     "name": "Saarbrücker Zeitung",
     "type": "print",
-    "controlDate": "2025-06-20T12:41:01.597Z",
+    "controlDate": "2025-12-17T09:14:46.951Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120426,7 +120426,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T12:33:58.888Z",
+    "controlDate": "2025-12-17T09:15:03.798Z",
     "state": "active"
   },
   {
@@ -120444,7 +120444,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T12:34:14.014Z",
+    "controlDate": "2025-12-17T09:16:19.771Z",
     "state": "active"
   },
   {
@@ -147804,7 +147804,7 @@
     "name": "www.wochenspiegelonline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:49:08.178Z",
+    "controlDate": "2025-12-17T09:16:40.363Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149709,7 +149709,7 @@
     "name": "www.sr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:52:55.510Z",
+    "controlDate": "2025-12-17T09:19:26.141Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159211,7 +159211,7 @@
     "name": "www.fupa.net/region/saarland",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:41:09.790Z",
+    "controlDate": "2025-12-17T09:14:56.404Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161834,7 +161834,7 @@
     "name": "www.sr.de/sr/sr1",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:53:29.308Z",
+    "controlDate": "2025-12-17T09:20:38.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162004,7 +162004,7 @@
     "name": "www.sr.de/sr/srkultur",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:53:35.929Z",
+    "controlDate": "2025-12-17T09:21:00.034Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162226,7 +162226,7 @@
     "name": "www.sr.de/sr/sr3",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:53:43.510Z",
+    "controlDate": "2025-12-17T09:20:49.897Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162520,7 +162520,7 @@
     "name": "www.unserding.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:54:10.068Z",
+    "controlDate": "2025-12-17T09:21:08.417Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162756,7 +162756,7 @@
     "name": "www.sr.de/sr/antennesaar",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T12:53:09.092Z",
+    "controlDate": "2025-12-17T09:20:19.711Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
