@@ -1,5 +1,5 @@
 {
-  "pressPublishingIntervals": 312,
+  "pressPublishingIntervals": 365,
   "state": "active",
   "rfShoppingChannel": false,
   "pressAsOfDate": "I/25",
@@ -42,7 +42,7 @@
     "type": "online-offer-type",
     "state": "active"
   },
-  "pressEditionsComments": "Auflage inkl. Heuberger Bote und Trossinger Zeitung; Zeitungsmantel (überregionale Inhalte) von der Schwäbischen Zeitung",
+  "pressEditionsComments": "Sonntagsausgabe nur als ePaper; Auflage inkl. Heuberger Bote und Trossinger Zeitung; Zeitungsmantel (überregionale Inhalte) von der Schwäbischen Zeitung",
   "pressEditionsSold": 13333,
   "pressType": {
     "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
