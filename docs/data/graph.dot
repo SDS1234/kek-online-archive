@@ -133648,8 +133648,8 @@ digraph {
     type=shareholder
     state=active
     label="Schweinfurter Rundfunk Administration GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=12
+    num_owners_weighted=4.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="6942b905-a342-4f8c-b61a-ff16b30f9139"
@@ -133735,7 +133735,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=33
-    num_medias_weighted=31.5425
+    num_medias_weighted=23.3414
     name="5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0"
     in_degree=1
     out_degree=1
@@ -133747,7 +133747,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=35
-    num_medias_weighted=31.9864
+    num_medias_weighted=23.7854
     name="5be1a6b6-fb21-4b9a-9e14-d7e66a4720bb"
     in_degree=0
     out_degree=2
@@ -134386,7 +134386,7 @@ digraph {
     num_medias_weighted=26.0275
     name="5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
     in_degree=24
-    out_degree=81
+    out_degree=79
   ];
   11199 [
     type=shareholder
@@ -209217,7 +209217,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5ec25554-0ae1-41d5-ab1a-4866f60b12e1"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   17435 [
@@ -209229,7 +209229,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-e6d3-47f9-840b-22227f54a800"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   17436 [
@@ -261342,7 +261342,7 @@ digraph {
     type=owns
   ];
   11144 -> 12605 [
-    weight=100
+    weight=74
     type=owns
   ];
   11145 -> 1582 [
@@ -261723,14 +261723,6 @@ digraph {
   ];
   11198 -> 13198 [
     weight=1
-    type=owns
-  ];
-  11198 -> 17434 [
-    weight=100
-    type=owns
-  ];
-  11198 -> 17435 [
-    weight=100
     type=owns
   ];
   11198 -> 312 [

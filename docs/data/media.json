@@ -3345,7 +3345,7 @@
     "rfStatewide": false,
     "name": "Hockenheimer Tageszeitung",
     "type": "print",
-    "controlDate": "2025-06-20T16:10:50.901Z",
+    "controlDate": "2025-12-17T14:34:18.485Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3442,7 +3442,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-20T16:12:44.348Z",
+    "controlDate": "2025-12-17T14:35:11.959Z",
     "state": "active"
   },
   {
@@ -3560,7 +3560,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)",
     "type": "print",
-    "controlDate": "2025-06-20T16:17:29.390Z",
+    "controlDate": "2025-12-17T14:43:05.852Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3708,7 +3708,7 @@
     "rfStatewide": false,
     "name": "Lindauer Zeitung",
     "type": "print",
-    "controlDate": "2025-07-06T12:27:30.599Z",
+    "controlDate": "2025-12-17T14:42:37.921Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3728,7 +3728,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Bad Saulgau)",
     "type": "print",
-    "controlDate": "2025-06-23T07:12:33.671Z",
+    "controlDate": "2025-12-17T14:42:51.468Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3892,7 +3892,7 @@
     "rfStatewide": false,
     "name": "Gränzbote",
     "type": "print",
-    "controlDate": "2025-06-28T13:21:56.110Z",
+    "controlDate": "2025-12-17T14:41:36.415Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3912,7 +3912,7 @@
     "rfStatewide": false,
     "name": "Heuberger Bote",
     "type": "print",
-    "controlDate": "2025-06-28T13:22:34.498Z",
+    "controlDate": "2025-12-17T14:41:58.717Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3932,7 +3932,7 @@
     "rfStatewide": false,
     "name": "Trossinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T13:22:48.613Z",
+    "controlDate": "2025-12-17T14:43:53.486Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3965,7 +3965,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-e306-4973-aa97-4ca405c5c61d",
     "organization": {
@@ -3985,7 +3985,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-c66f-4faa-bde9-bb2aa3dbc41c",
     "organization": {
@@ -12848,7 +12848,7 @@
     "name": "Schwetzinger Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-20T16:11:23.780Z",
+    "controlDate": "2025-12-17T14:34:52.665Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13991,7 +13991,7 @@
     "name": "Hockenheimer Tageszeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-20T16:11:01.864Z",
+    "controlDate": "2025-12-17T14:34:30.327Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37544,7 +37544,7 @@
     "name": "Business today",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-04T14:25:33.267Z",
+    "controlDate": "2025-12-17T14:41:02.601Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97093,7 +97093,7 @@
     "rfStatewide": false,
     "name": "Schwetzinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-20T16:11:13.401Z",
+    "controlDate": "2025-12-17T14:34:45.034Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -109811,7 +109811,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T08:39:50.122Z",
+    "controlDate": "2025-12-17T14:44:53.715Z",
     "state": "active"
   },
   {
@@ -137309,7 +137309,7 @@
     "name": "aktiv",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-04T10:34:45.779Z",
+    "controlDate": "2025-12-17T14:44:40.456Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142162,7 +142162,7 @@
     "name": "www.srf.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T16:05:26.915Z",
+    "controlDate": "2025-12-17T14:21:25.225Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161213,7 +161213,7 @@
     "name": "www.suedfinder.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T15:46:34.604Z",
+    "controlDate": "2025-12-17T14:45:06.929Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
