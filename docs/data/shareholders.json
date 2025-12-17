@@ -19982,6 +19982,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -20019,6 +20025,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -20029,8 +20041,9 @@
     "controlDate": "2025-11-26T08:29:00.442Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -20057,6 +20070,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -23251,7 +23270,7 @@
     "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d",
     "name": "Schwarzwälder Bote Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-08-07T11:28:19.044Z",
+    "controlDate": "2025-12-17T13:42:53.544Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -98674,7 +98693,7 @@
     "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7",
     "name": "Schwarzwälder Bote GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-09-15T15:40:31.789Z",
+    "controlDate": "2025-12-17T13:33:38.362Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -145120,7 +145139,7 @@
     "squuid": "5eaae72d-7956-46c0-9270-0f4afc1710f2",
     "name": "Schwarzwaldverlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T15:39:37.856Z",
+    "controlDate": "2025-12-17T13:22:02.279Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166789,7 +166808,7 @@
     "squuid": "5ec7a2ee-51db-42f1-8a49-789b1bf8da87",
     "name": "Schwarzwälder Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T15:56:31.045Z",
+    "controlDate": "2025-12-17T14:01:48.067Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -288111,7 +288130,7 @@
     "name": "Schweinfurter Rundfunk GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5c51b278-e414-4b62-823b-a24e62ac37e5",
-    "controlDate": "2025-06-20T15:59:48.959Z",
+    "controlDate": "2025-12-17T14:06:08.487Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295509,6 +295528,19 @@
     ]
   },
   {
+    "squuid": "6942b098-e2e1-4bc2-9f3f-a2e8f5f49611",
+    "name": "Wolf, Marion",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-f993-44e0-83d9-deb246ddcabf",
     "name": "Bucher, Holger",
     "state": "active",
@@ -295542,6 +295574,19 @@
           "squuid": "5be1a6b1-6240-4664-ae10-7f7f0d3f1eb7",
           "name": "Lebenshilfe Zeitung"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6942b0c4-74ec-4c09-9d93-bb3a7fa17766",
+    "name": "Wicky, Heidi",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -298252,6 +298297,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6942b905-a342-4f8c-b61a-ff16b30f9139",
+    "name": "Schweinfurter Rundfunk Administration GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -302177,11 +302234,12 @@
     "squuid": "5f92cac9-0bb3-479b-9460-c9762f6611a5",
     "name": "Schweinfurter Rundfunk Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-20T15:59:39.642Z",
+    "controlDate": "2025-12-17T14:06:00.361Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -315243,8 +315301,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -315293,6 +315352,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
