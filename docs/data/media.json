@@ -32292,7 +32292,7 @@
     "name": "Landgang",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T10:34:00.606Z",
+    "controlDate": "2025-12-18T10:20:00.972Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32912,7 +32912,7 @@
     "name": "Nord Sport",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T10:34:31.500Z",
+    "controlDate": "2025-12-18T10:20:25.764Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33147,7 +33147,7 @@
     "name": "Die Wirtschaft im Norden",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T10:32:11.625Z",
+    "controlDate": "2025-12-18T10:15:50.128Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98623,7 +98623,7 @@
     "rfStatewide": false,
     "name": "Flensburger Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-23T10:32:40.948Z",
+    "controlDate": "2025-12-18T10:18:25.709Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98643,7 +98643,7 @@
     "rfStatewide": false,
     "name": "Eckernförder Zeitung",
     "type": "print",
-    "controlDate": "2025-06-23T10:32:24.274Z",
+    "controlDate": "2025-12-18T10:16:10.138Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98683,7 +98683,7 @@
     "rfStatewide": false,
     "name": "Stormarner Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-23T10:36:32.025Z",
+    "controlDate": "2025-12-18T10:22:49.921Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98727,7 +98727,7 @@
     "rfStatewide": false,
     "name": "Ostholsteiner Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-23T10:35:19.098Z",
+    "controlDate": "2025-12-18T10:21:18.187Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98747,7 +98747,7 @@
     "rfStatewide": false,
     "name": "Holsteinischer Courier",
     "type": "print",
-    "controlDate": "2025-06-23T10:33:16.882Z",
+    "controlDate": "2025-12-18T10:19:04.891Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98770,7 +98770,7 @@
     "rfStatewide": false,
     "name": "Schleswig-Holsteinische Landeszeitung",
     "type": "print",
-    "controlDate": "2025-06-23T10:36:08.729Z",
+    "controlDate": "2025-12-18T10:22:00.142Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98793,7 +98793,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:45:26.401Z",
+    "controlDate": "2025-12-18T10:31:08.958Z",
     "state": "active"
   },
   {
@@ -114113,7 +114113,7 @@
     "rfStatewide": false,
     "name": "Nordfriesland Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-23T10:34:44.688Z",
+    "controlDate": "2025-12-18T10:20:48.799Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114157,7 +114157,7 @@
     "rfStatewide": false,
     "name": "Sylter Rundschau",
     "type": "print",
-    "controlDate": "2025-06-23T10:37:26.529Z",
+    "controlDate": "2025-12-18T10:22:58.817Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114177,7 +114177,7 @@
     "rfStatewide": false,
     "name": "Der Insel-Bote",
     "type": "print",
-    "controlDate": "2025-06-23T10:31:34.725Z",
+    "controlDate": "2025-12-18T10:15:32.934Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114197,7 +114197,7 @@
     "rfStatewide": false,
     "name": "Husumer Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-23T10:33:43.209Z",
+    "controlDate": "2025-12-18T10:19:44.954Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114217,7 +114217,7 @@
     "rfStatewide": false,
     "name": "Schleswiger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-23T10:36:18.986Z",
+    "controlDate": "2025-12-18T10:22:39.055Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114237,7 +114237,7 @@
     "rfStatewide": false,
     "name": "Schlei-Bote",
     "type": "print",
-    "controlDate": "2025-06-23T10:35:35.802Z",
+    "controlDate": "2025-12-18T10:21:30.416Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114257,7 +114257,7 @@
     "rfStatewide": false,
     "name": "Norddeutsche Rundschau",
     "type": "print",
-    "controlDate": "2024-12-18T09:44:33.319Z",
+    "controlDate": "2025-12-18T10:20:35.083Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -114277,7 +114277,7 @@
     "rfStatewide": false,
     "name": "Glückstädter Fortuna",
     "type": "print",
-    "controlDate": "2025-06-23T10:33:06.261Z",
+    "controlDate": "2025-12-18T10:18:55.665Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116427,7 +116427,7 @@
     "rfStatewide": false,
     "name": "Wilstersche Zeitung",
     "type": "print",
-    "controlDate": "2025-06-23T10:37:52.406Z",
+    "controlDate": "2025-12-18T10:23:11.252Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -116450,7 +116450,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:19.516Z",
+    "controlDate": "2025-12-18T10:32:42.770Z",
     "state": "active"
   },
   {
@@ -116468,7 +116468,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:54.897Z",
+    "controlDate": "2025-12-18T10:34:28.999Z",
     "state": "active"
   },
   {
@@ -116486,7 +116486,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:48.987Z",
+    "controlDate": "2025-12-18T10:33:14.754Z",
     "state": "active"
   },
   {
@@ -116504,7 +116504,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:40.733Z",
+    "controlDate": "2025-12-18T10:33:08.489Z",
     "state": "active"
   },
   {
@@ -116522,7 +116522,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:41.818Z",
+    "controlDate": "2025-12-18T10:34:13.232Z",
     "state": "active"
   },
   {
@@ -116540,7 +116540,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:32.434Z",
+    "controlDate": "2025-12-18T10:33:58.471Z",
     "state": "active"
   },
   {
@@ -116558,7 +116558,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:57.331Z",
+    "controlDate": "2025-12-18T10:33:24.072Z",
     "state": "active"
   },
   {
@@ -116600,7 +116600,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:07.333Z",
+    "controlDate": "2025-12-18T10:33:30.560Z",
     "state": "active"
   },
   {
@@ -116618,7 +116618,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:26.677Z",
+    "controlDate": "2025-12-18T10:32:48.746Z",
     "state": "active"
   },
   {
@@ -116636,7 +116636,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:49:06.076Z",
+    "controlDate": "2025-12-18T10:34:34.517Z",
     "state": "active"
   },
   {
@@ -116678,7 +116678,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:47:33.875Z",
+    "controlDate": "2025-12-18T10:33:02.642Z",
     "state": "active"
   },
   {
@@ -116696,7 +116696,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:46:38.014Z",
+    "controlDate": "2025-12-18T10:32:18.292Z",
     "state": "active"
   },
   {
@@ -116714,7 +116714,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:21.999Z",
+    "controlDate": "2025-12-18T10:33:47.123Z",
     "state": "active"
   },
   {
@@ -116732,7 +116732,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:48.123Z",
+    "controlDate": "2025-12-18T10:34:20.358Z",
     "state": "active"
   },
   {
@@ -116925,7 +116925,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T10:48:14.513Z",
+    "controlDate": "2025-12-18T10:33:37.763Z",
     "state": "active"
   },
   {
@@ -136173,7 +136173,7 @@
     "name": "Schleswig-Holstein-Presse (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-04-29T13:44:23.004Z",
+    "controlDate": "2025-12-18T10:21:41.271Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
