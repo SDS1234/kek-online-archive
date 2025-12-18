@@ -24911,7 +24911,7 @@
     "squuid": "5be1a6b6-d37e-4bc1-afed-a58e7e365862",
     "name": "SGS Rundfunkgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-23T10:21:07.672Z",
+    "controlDate": "2025-12-18T09:43:24.447Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55289,7 +55289,7 @@
     "squuid": "5ee0f205-2e6d-4603-ac11-10c73f369e4a",
     "name": "Senner-Druck Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T09:25:29.961Z",
+    "controlDate": "2025-12-18T09:34:21.410Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55939,7 +55939,7 @@
     "squuid": "5ef1f820-bfc2-45af-b8cd-827e56db13ba",
     "name": "Service-GmbH Bau-Ausbau",
     "state": "active",
-    "controlDate": "2025-06-23T09:36:18.442Z",
+    "controlDate": "2025-12-18T09:42:30.020Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161973,7 +161973,7 @@
     "squuid": "5d39863b-6136-4842-8352-3cfe9c1b9aa0",
     "name": "Sennebogen Maschinenfabrik GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T09:19:34.392Z",
+    "controlDate": "2025-12-18T09:32:20.279Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162127,7 +162127,7 @@
     "squuid": "5d3986b8-dc84-4f38-86af-f727f5fb7bc5",
     "name": "Sennebogen Erich Holding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-23T09:19:41.984Z",
+    "controlDate": "2025-12-18T09:32:13.571Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -168474,7 +168474,7 @@
     "squuid": "5ebbad51-cab3-48f3-9de6-7b557b03d719",
     "name": "Senn Verwaltungsgesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-06-23T09:17:23.457Z",
+    "controlDate": "2025-12-18T09:31:00.207Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170029,7 +170029,7 @@
     "squuid": "5ce3ba31-2390-4ab5-8a96-a680d98aec69",
     "name": "Seven.One Entertainment Group GmbH",
     "state": "active",
-    "controlDate": "2025-11-14T15:32:43.843Z",
+    "controlDate": "2025-12-18T10:02:00.965Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170302,6 +170302,15 @@
         "held": {
           "squuid": "5be1a6b1-3c27-4d6a-9acf-1ddd8b42ebdf",
           "name": "www.sixx.de"
+        }
+      },
+      {
+        "squuid": "6943d2a7-3e23-433a-a95e-5372274a04d3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5c49d4ae-4e8f-4449-86a5-fe17f1e31310",
+          "name": "www.sat1.de"
         }
       }
     ]
@@ -200883,7 +200892,7 @@
     "squuid": "5d3837f6-a6bc-466a-9324-16b74cb3e6da",
     "name": "SERC Wild Wings Vermarktungs- und Betriebs GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T09:34:12.806Z",
+    "controlDate": "2025-12-18T09:40:06.841Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -233019,7 +233028,7 @@
     "squuid": "5be1a6b6-e299-4cb4-a84a-a2be3abd7f94",
     "name": "Senner Medien GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-23T09:25:18.447Z",
+    "controlDate": "2025-12-18T09:33:14.685Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -246443,7 +246452,7 @@
     "squuid": "5be1a6b6-d97c-4b83-9572-81ccbce26d91",
     "name": "Selbermachen Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T08:32:43.660Z",
+    "controlDate": "2025-12-18T09:24:50.324Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -246929,7 +246938,7 @@
     "squuid": "5be1a6b6-416b-4a39-8424-a143b2992b69",
     "name": "Senner Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T09:25:42.672Z",
+    "controlDate": "2025-12-18T09:34:39.358Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253146,7 +253155,7 @@
     "squuid": "5be1a6b6-a8ee-483d-a761-176ef8c53ab9",
     "name": "Seitenbau GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T08:30:20.762Z",
+    "controlDate": "2025-12-18T09:22:43.490Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -266464,7 +266473,7 @@
     "squuid": "5ee36955-d83f-4813-970d-6604f4c0c4e8",
     "name": "Segeberger Zeitung GmbH",
     "state": "active",
-    "controlDate": "2024-12-17T16:21:17.976Z",
+    "controlDate": "2025-12-18T09:20:29.495Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301302,7 +301311,7 @@
     "squuid": "5be1a6b6-f45a-4391-88b2-78df2553885f",
     "name": "Service und Dienstleistungen der ver.di  GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T09:34:50.714Z",
+    "controlDate": "2025-12-18T09:40:34.033Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306525,7 +306534,7 @@
     "squuid": "6075a411-1af3-4be1-b3e7-be0f1100da92",
     "name": "SeitWerk GmbH",
     "state": "active",
-    "controlDate": "2025-06-23T08:32:21.348Z",
+    "controlDate": "2025-12-18T09:23:27.905Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

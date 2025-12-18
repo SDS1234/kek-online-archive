@@ -4246,7 +4246,7 @@
     "rfStatewide": false,
     "name": "Wendlinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-23T09:26:14.503Z",
+    "controlDate": "2025-12-18T09:35:48.453Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4269,7 +4269,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T09:26:55.687Z",
+    "controlDate": "2025-12-18T09:38:43.524Z",
     "state": "active"
   },
   {
@@ -20882,7 +20882,7 @@
     "rfStatewide": false,
     "name": "ver.di Publik",
     "type": "print",
-    "controlDate": "2025-06-23T09:35:26.883Z",
+    "controlDate": "2025-12-18T09:40:45.847Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20932,7 +20932,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T09:35:35.785Z",
+    "controlDate": "2025-12-18T09:41:34.609Z",
     "state": "active"
   },
   {
@@ -28792,7 +28792,7 @@
     "name": "www.galileo.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:44:53.358Z",
+    "controlDate": "2025-12-18T10:01:49.824Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30094,7 +30094,7 @@
     "name": "www.prosieben.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:05:19.955Z",
+    "controlDate": "2025-12-18T10:04:34.201Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31747,7 +31747,7 @@
     "name": "www.ran.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:08:39.014Z",
+    "controlDate": "2025-12-18T10:05:05.266Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35813,7 +35813,7 @@
     "name": "www.kabeleins.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T09:55:41.211Z",
+    "controlDate": "2025-12-18T10:03:50.028Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36233,7 +36233,7 @@
     "name": "www.segeberger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-01T11:42:15.725Z",
+    "controlDate": "2025-12-18T09:21:10.394Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37155,7 +37155,7 @@
     "name": "www.sat1gold.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:12:01.764Z",
+    "controlDate": "2025-12-18T10:07:23.312Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37251,7 +37251,7 @@
     "name": "www.sat1emotions.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:11:48.870Z",
+    "controlDate": "2025-12-18T10:07:12.424Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37659,7 +37659,7 @@
     "name": "www.prosiebenfun.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:05:38.886Z",
+    "controlDate": "2025-12-18T10:04:43.039Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40655,7 +40655,7 @@
     "name": "www.lausitzwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:21:12.898Z",
+    "controlDate": "2025-12-18T09:44:29.790Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45316,7 +45316,7 @@
     "name": "www.prosiebenmaxx.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:06:22.176Z",
+    "controlDate": "2025-12-18T10:04:52.739Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84910,7 +84910,7 @@
     "rfStatewide": false,
     "name": "Zuhause wohnen",
     "type": "print",
-    "controlDate": "2025-06-23T08:34:20.465Z",
+    "controlDate": "2025-12-18T09:25:17.496Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101696,7 +101696,7 @@
     "rfStatewide": false,
     "name": "Nürtinger Zeitung",
     "type": "print",
-    "controlDate": "2025-06-23T09:25:58.287Z",
+    "controlDate": "2025-12-18T09:35:38.038Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103709,7 +103709,7 @@
     "rfStatewide": false,
     "name": "selber machen",
     "type": "print",
-    "controlDate": "2025-06-23T08:34:06.295Z",
+    "controlDate": "2025-12-18T09:25:24.923Z",
     "pressKind": "Do-It-Yourself",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103730,7 +103730,7 @@
     "rfStatewide": false,
     "name": "Living & More",
     "type": "print",
-    "controlDate": "2025-06-23T08:33:17.286Z",
+    "controlDate": "2025-12-18T09:24:59.188Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107381,7 +107381,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T15:41:27.626Z",
+    "controlDate": "2025-12-18T10:07:33.359Z",
     "state": "active"
   },
   {
@@ -109033,7 +109033,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:36:11.967Z",
+    "controlDate": "2025-12-18T09:25:58.651Z",
     "state": "active"
   },
   {
@@ -114434,7 +114434,7 @@
     "name": "www.sat1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:11:11.500Z",
+    "controlDate": "2025-12-18T10:08:20.174Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115740,7 +115740,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:35:50.559Z",
+    "controlDate": "2025-12-18T09:25:43.587Z",
     "state": "active"
   },
   {
@@ -115776,7 +115776,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:35:40.384Z",
+    "controlDate": "2025-12-18T09:25:32.606Z",
     "state": "active"
   },
   {
@@ -115815,7 +115815,7 @@
     "rfStatewide": false,
     "name": "Selbst gemacht",
     "type": "print",
-    "controlDate": "2025-06-23T08:33:39.524Z",
+    "controlDate": "2025-12-18T09:25:08.618Z",
     "pressKind": "Do-It-Yourself",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115839,7 +115839,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:36:00.744Z",
+    "controlDate": "2025-12-18T09:25:52.634Z",
     "state": "active"
   },
   {
@@ -129447,7 +129447,7 @@
     "name": "www.kabeleinsdoku.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T09:56:08.345Z",
+    "controlDate": "2025-12-18T10:04:20.864Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141482,7 +141482,7 @@
     "name": "www.kabeleinsclassics.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T09:55:55.098Z",
+    "controlDate": "2025-12-18T10:04:05.719Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141738,7 +141738,7 @@
     "name": "www.gewinnarena.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T09:50:41.091Z",
+    "controlDate": "2025-12-18T10:02:15.163Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145909,7 +145909,7 @@
     "name": "www.nplus-nuertingen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T09:26:44.520Z",
+    "controlDate": "2025-12-18T09:38:33.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151079,7 +151079,7 @@
     "name": "www.ranaktive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T10:10:08.149Z",
+    "controlDate": "2025-12-18T10:06:03.474Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159509,6 +159509,23 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.sat1.de",
+    "type": "online",
+    "squuid": "6943d278-b828-4c2d-a97d-c655c2477a5f",
+    "state": "archived"
   },
   {
     "state": "active",
