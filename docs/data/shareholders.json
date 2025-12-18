@@ -164760,11 +164760,6 @@
     "controlDate": "2025-09-12T10:28:18.755Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
@@ -164826,11 +164821,6 @@
     "state": "active",
     "controlDate": "2025-12-04T11:07:16.304Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
