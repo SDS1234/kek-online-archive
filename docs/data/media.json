@@ -7911,7 +7911,7 @@
     "name": "Absatzwirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T09:50:54.955Z",
+    "controlDate": "2025-12-18T13:04:42.871Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12179,7 +12179,7 @@
     "rfStatewide": false,
     "name": "enorm",
     "type": "print",
-    "controlDate": "2025-06-24T09:46:26.192Z",
+    "controlDate": "2025-12-18T12:57:41.017Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12203,7 +12203,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T09:46:33.228Z",
+    "controlDate": "2025-12-18T12:57:52.236Z",
     "state": "active"
   },
   {
@@ -13209,7 +13209,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T10:16:04.360Z",
+    "controlDate": "2025-12-18T13:29:36.409Z",
     "state": "active"
   },
   {
@@ -16913,7 +16913,7 @@
     "rfStatewide": false,
     "name": "so gesund",
     "type": "print",
-    "controlDate": "2025-06-24T09:44:43.986Z",
+    "controlDate": "2025-12-18T12:56:51.041Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16937,7 +16937,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T09:44:53.906Z",
+    "controlDate": "2025-12-18T12:57:04.534Z",
     "state": "active"
   },
   {
@@ -17325,7 +17325,7 @@
     "rfStatewide": false,
     "name": "VdK-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-24T10:07:25.665Z",
+    "controlDate": "2025-12-18T13:15:46.825Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -33605,7 +33605,7 @@
     "name": "www.skysport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:33:16.105Z",
+    "controlDate": "2025-12-18T12:27:55.375Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41062,7 +41062,7 @@
     "name": "www.jam.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:36:16.281Z",
+    "controlDate": "2025-12-18T12:52:30.900Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42731,7 +42731,7 @@
     "name": "www.sonypictures.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T10:04:12.930Z",
+    "controlDate": "2025-12-18T13:12:46.872Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45596,7 +45596,7 @@
     "name": "www.wowtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:34:04.771Z",
+    "controlDate": "2025-12-18T12:28:20.416Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88697,7 +88697,7 @@
     "name": "Spektrum Die Woche",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:15:17.572Z",
+    "controlDate": "2025-12-18T13:28:42.562Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88717,7 +88717,7 @@
     "rfStatewide": false,
     "name": "Spektrum der Wissenschaft",
     "type": "print",
-    "controlDate": "2025-06-24T10:15:05.259Z",
+    "controlDate": "2025-12-18T13:29:16.635Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88738,7 +88738,7 @@
     "rfStatewide": false,
     "name": "Gehirn & Geist",
     "type": "print",
-    "controlDate": "2025-06-24T10:14:29.808Z",
+    "controlDate": "2025-12-18T13:28:31.728Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88759,7 +88759,7 @@
     "name": "Spektrum Geschichte",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:14:41.546Z",
+    "controlDate": "2025-12-18T13:28:51.479Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88803,7 +88803,7 @@
     "rfStatewide": false,
     "name": "Sterne und Weltraum",
     "type": "print",
-    "controlDate": "2025-06-24T10:15:26.710Z",
+    "controlDate": "2025-12-18T13:29:27.062Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104251,7 +104251,7 @@
     "rfStatewide": false,
     "name": "Wohnglück",
     "type": "print",
-    "controlDate": "2025-06-24T09:52:08.577Z",
+    "controlDate": "2025-12-18T13:05:01.261Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116103,7 +116103,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T09:52:49.348Z",
+    "controlDate": "2025-12-18T13:06:42.160Z",
     "state": "active"
   },
   {
@@ -129846,7 +129846,7 @@
     "name": "Spektrum Gesundheit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:14:49.179Z",
+    "controlDate": "2025-12-18T13:28:57.135Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130248,7 +130248,7 @@
     "name": "www.sky.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:33:03.707Z",
+    "controlDate": "2025-12-18T12:27:46.529Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135006,7 +135006,7 @@
     "name": "www.absatzwirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:52:21.460Z",
+    "controlDate": "2025-12-18T13:05:09.934Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146446,7 +146446,7 @@
     "name": "www.sonntags-report.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:57:44.953Z",
+    "controlDate": "2025-12-18T13:11:55.068Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147627,7 +147627,7 @@
     "name": "Spektrum Psychologie",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:14:55.018Z",
+    "controlDate": "2025-12-18T13:29:06.725Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147780,7 +147780,7 @@
     "name": "www.souvenirsfromearth.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T10:07:06.485Z",
+    "controlDate": "2025-12-18T13:15:30.619Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162364,7 +162364,7 @@
     "name": "Creditreform",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T09:51:24.826Z",
+    "controlDate": "2025-12-18T13:04:52.164Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162605,7 +162605,7 @@
     "name": "www.creditreform.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:52:32.576Z",
+    "controlDate": "2025-12-18T13:05:16.507Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
