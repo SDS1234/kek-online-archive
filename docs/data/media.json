@@ -4363,7 +4363,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:58:51.114Z",
+    "controlDate": "2025-12-18T09:05:36.664Z",
     "state": "active"
   },
   {
@@ -4381,7 +4381,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-14T11:58:21.410Z",
+    "controlDate": "2025-12-18T09:05:21.553Z",
     "state": "active"
   },
   {
@@ -11485,7 +11485,7 @@
     "name": "www.seenluft24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T10:48:51.277Z",
+    "controlDate": "2025-12-18T09:15:53.729Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15081,7 +15081,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:09:36.247Z",
+    "controlDate": "2025-12-18T08:59:24.432Z",
     "state": "active"
   },
   {
@@ -19995,7 +19995,7 @@
     "rfStatewide": false,
     "name": "Family",
     "type": "print",
-    "controlDate": "2025-06-23T08:00:23.277Z",
+    "controlDate": "2025-12-18T08:53:22.589Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20016,7 +20016,7 @@
     "rfStatewide": false,
     "name": "Family next",
     "type": "print",
-    "controlDate": "2025-06-23T08:01:07.256Z",
+    "controlDate": "2025-12-18T08:54:00.358Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20037,7 +20037,7 @@
     "rfStatewide": false,
     "name": "Joyce",
     "type": "print",
-    "controlDate": "2025-06-23T08:02:26.674Z",
+    "controlDate": "2025-12-18T08:54:44.034Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20058,7 +20058,7 @@
     "rfStatewide": false,
     "name": "Movo",
     "type": "print",
-    "controlDate": "2025-06-23T08:04:10.264Z",
+    "controlDate": "2025-12-18T08:55:23.752Z",
     "pressKind": "Männer",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20079,7 +20079,7 @@
     "rfStatewide": false,
     "name": "Teensmag",
     "type": "print",
-    "controlDate": "2025-06-23T08:04:28.405Z",
+    "controlDate": "2025-12-18T08:55:35.029Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20100,7 +20100,7 @@
     "rfStatewide": false,
     "name": "Kläx",
     "type": "print",
-    "controlDate": "2025-06-23T08:03:00.883Z",
+    "controlDate": "2025-12-18T08:54:55.627Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20121,7 +20121,7 @@
     "rfStatewide": false,
     "name": "LebensLauf",
     "type": "print",
-    "controlDate": "2025-06-23T08:03:18.161Z",
+    "controlDate": "2025-12-18T08:55:07.505Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20174,7 +20174,7 @@
     "rfStatewide": false,
     "name": "lebenslust",
     "type": "print",
-    "controlDate": "2025-06-23T08:03:41.571Z",
+    "controlDate": "2025-12-18T08:56:01.727Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20195,7 +20195,7 @@
     "rfStatewide": false,
     "name": "Faszination Bibel",
     "type": "print",
-    "controlDate": "2025-06-23T08:01:19.756Z",
+    "controlDate": "2025-12-18T08:54:15.716Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20216,7 +20216,7 @@
     "rfStatewide": false,
     "name": "Dran ",
     "type": "print",
-    "controlDate": "2025-06-23T08:00:08.295Z",
+    "controlDate": "2025-12-18T08:53:12.646Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20240,7 +20240,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T08:04:37.616Z",
+    "controlDate": "2025-12-18T08:56:11.672Z",
     "state": "active"
   },
   {
@@ -22315,7 +22315,7 @@
     "rfStatewide": false,
     "name": "3E",
     "type": "print",
-    "controlDate": "2025-06-23T07:57:56.042Z",
+    "controlDate": "2025-12-18T08:52:32.803Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22336,7 +22336,7 @@
     "rfStatewide": false,
     "name": "Aufatmen",
     "type": "print",
-    "controlDate": "2025-06-23T07:58:54.670Z",
+    "controlDate": "2025-12-18T08:52:41.631Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24203,7 +24203,7 @@
     "name": "Hauskreismagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T08:01:53.285Z",
+    "controlDate": "2025-12-18T08:54:27.730Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29224,7 +29224,7 @@
     "name": "Family Fips",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T08:00:37.235Z",
+    "controlDate": "2025-12-18T08:53:42.196Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29244,7 +29244,7 @@
     "name": "Christ sein heute",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T07:59:31.486Z",
+    "controlDate": "2025-12-18T08:52:50.471Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38908,7 +38908,7 @@
     "name": "Wirtschaft regional",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-14T11:54:12.904Z",
+    "controlDate": "2025-12-18T09:03:58.527Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39072,7 +39072,7 @@
     "name": "Xaver",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-14T11:54:32.164Z",
+    "controlDate": "2025-12-18T09:04:52.504Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44239,7 +44239,7 @@
     "name": "www.xaver.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-16T07:27:48.444Z",
+    "controlDate": "2025-12-18T09:07:05.333Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97113,7 +97113,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Post",
     "type": "print",
-    "controlDate": "2025-06-14T11:57:12.372Z",
+    "controlDate": "2025-12-18T09:03:17.286Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97176,7 +97176,7 @@
     "rfStatewide": false,
     "name": "Gmünder Tagespost",
     "type": "print",
-    "controlDate": "2025-06-14T11:51:46.590Z",
+    "controlDate": "2025-12-18T09:03:00.258Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98028,7 +98028,7 @@
     "rfStatewide": false,
     "name": "Gute Laune",
     "type": "print",
-    "controlDate": "2025-06-23T08:21:38.076Z",
+    "controlDate": "2025-12-18T09:18:01.810Z",
     "pressKind": "Frauen, zweiwö¶.",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98049,7 +98049,7 @@
     "rfStatewide": false,
     "name": "Meine Pause",
     "type": "print",
-    "controlDate": "2025-06-23T08:22:21.723Z",
+    "controlDate": "2025-12-18T09:18:24.693Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98070,7 +98070,7 @@
     "rfStatewide": false,
     "name": "Lecker Kochen & Backen",
     "type": "print",
-    "controlDate": "2025-06-23T08:22:01.156Z",
+    "controlDate": "2025-12-18T09:18:12.500Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104209,7 +104209,7 @@
     "rfStatewide": false,
     "name": "Lydia",
     "type": "print",
-    "controlDate": "2025-06-23T08:09:25.063Z",
+    "controlDate": "2025-12-18T08:59:16.756Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -109005,7 +109005,7 @@
     "name": "www.gmuender-anzeiger.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:57:05.359Z",
+    "controlDate": "2025-12-18T09:05:09.148Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -109065,7 +109065,7 @@
     "name": "www.wochenpost.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-14T11:59:05.397Z",
+    "controlDate": "2025-12-18T09:06:56.300Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158944,7 +158944,7 @@
     "name": "anders leben",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T07:59:07.143Z",
+    "controlDate": "2025-12-18T08:55:45.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
