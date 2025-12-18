@@ -5451,7 +5451,7 @@
     "rfStatewide": false,
     "name": "triathlon",
     "type": "print",
-    "controlDate": "2025-06-24T12:18:40.654Z",
+    "controlDate": "2025-12-18T14:14:27.022Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -5475,7 +5475,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T12:18:55.793Z",
+    "controlDate": "2025-12-18T14:14:38.120Z",
     "state": "active"
   },
   {
@@ -5510,7 +5510,7 @@
     "rfStatewide": false,
     "name": "swim",
     "type": "print",
-    "controlDate": "2025-06-24T12:18:32.507Z",
+    "controlDate": "2025-12-18T14:13:10.406Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -5534,7 +5534,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T12:18:47.009Z",
+    "controlDate": "2025-12-18T14:14:32.596Z",
     "state": "active"
   },
   {
@@ -8495,7 +8495,7 @@
     "rfStatewide": false,
     "name": "Effilee",
     "type": "print",
-    "controlDate": "2025-06-24T12:02:41.147Z",
+    "controlDate": "2025-12-18T13:49:08.543Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8519,7 +8519,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-24T10:40:51.256Z",
+    "controlDate": "2025-12-18T13:50:27.507Z",
     "state": "active"
   },
   {
@@ -10359,7 +10359,7 @@
     "rfStatewide": false,
     "name": "S-Magazin",
     "type": "print",
-    "controlDate": "2025-06-24T10:41:58.894Z",
+    "controlDate": "2025-12-18T13:49:25.659Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10443,7 +10443,7 @@
     "name": "Spiegel Bestseller",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:41:11.015Z",
+    "controlDate": "2025-12-18T13:49:37.447Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42827,7 +42827,7 @@
     "name": "www.tv.spiegel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T15:51:37.882Z",
+    "controlDate": "2025-12-18T13:46:57.654Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88824,7 +88824,7 @@
     "rfStatewide": false,
     "name": "Der Spiegel",
     "type": "print",
-    "controlDate": "2025-06-24T10:40:04.481Z",
+    "controlDate": "2025-12-18T13:48:57.488Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88845,7 +88845,7 @@
     "rfStatewide": false,
     "name": "Spiegel Geschichte",
     "type": "print",
-    "controlDate": "2025-06-24T10:41:45.131Z",
+    "controlDate": "2025-12-18T13:50:04.376Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88866,7 +88866,7 @@
     "rfStatewide": false,
     "name": "Dein Spiegel",
     "type": "print",
-    "controlDate": "2025-06-24T10:39:52.734Z",
+    "controlDate": "2025-12-18T13:48:47.848Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88931,7 +88931,7 @@
     "rfStatewide": false,
     "name": "Spiegel Wissen",
     "type": "print",
-    "controlDate": "2025-06-24T10:42:16.990Z",
+    "controlDate": "2025-12-18T13:50:16.774Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105902,7 +105902,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T08:24:35.077Z",
+    "controlDate": "2025-12-18T13:50:40.689Z",
     "state": "active"
   },
   {
@@ -126219,7 +126219,7 @@
     "name": "Spiegel Coaching",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-24T10:41:00.121Z",
+    "controlDate": "2025-12-18T13:49:48.562Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130328,7 +130328,7 @@
     "name": "www.spiegel-geschichte.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T10:34:24.232Z",
+    "controlDate": "2025-12-18T13:46:13.840Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130585,7 +130585,7 @@
     "name": "www.curiositychannel.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T10:34:16.287Z",
+    "controlDate": "2025-12-18T13:46:06.943Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
