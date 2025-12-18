@@ -1061,7 +1061,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-23T12:14:06.245Z",
+    "controlDate": "2025-12-18T11:38:06.326Z",
     "state": "active"
   },
   {
@@ -6766,7 +6766,7 @@
     "name": "www.wochenblatt.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:16:10.832Z",
+    "controlDate": "2025-12-18T12:16:21.819Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13351,7 +13351,7 @@
     "name": "www.ostfriesland-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:23:06.386Z",
+    "controlDate": "2025-12-18T12:21:51.007Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28960,7 +28960,7 @@
     "name": "www.radiopaloma.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T14:42:07.068Z",
+    "controlDate": "2025-12-18T12:11:02.299Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -59112,7 +59112,7 @@
     "name": "www.silverline.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:09:01.852Z",
+    "controlDate": "2025-12-18T12:13:10.652Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70969,7 +70969,7 @@
     "rfStatewide": false,
     "name": "Siegener Zeitung",
     "type": "print",
-    "controlDate": "2025-06-23T12:13:44.318Z",
+    "controlDate": "2025-12-18T11:37:16.245Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81489,7 +81489,7 @@
     "rfStatewide": false,
     "name": "Ostfriesland Magazin",
     "type": "print",
-    "controlDate": "2025-06-24T09:22:59.988Z",
+    "controlDate": "2025-12-18T12:20:58.320Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -129673,7 +129673,7 @@
     "name": "www.sweb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-24T09:20:59.138Z",
+    "controlDate": "2025-12-18T12:19:17.134Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150551,7 +150551,7 @@
     "name": "www.swa-siegerland.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-23T12:09:50.365Z",
+    "controlDate": "2025-12-18T11:41:25.401Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157959,7 +157959,7 @@
     "name": "SZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-23T12:14:54.204Z",
+    "controlDate": "2025-12-18T11:37:02.382Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
