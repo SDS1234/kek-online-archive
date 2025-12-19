@@ -20700,7 +20700,7 @@
     "name": "Star FM GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0",
-    "controlDate": "2025-06-25T09:28:05.935Z",
+    "controlDate": "2025-12-19T11:58:39.258Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26574,7 +26574,7 @@
     "name": "STAR FM GmbH & Co. KG (Niederlassung Berlin)",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-fd71-4dcf-95ea-d597070a15e0",
-    "controlDate": "2025-06-25T09:30:15.734Z",
+    "controlDate": "2025-12-19T12:01:16.606Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -81765,7 +81765,7 @@
     "squuid": "5be1a6b6-ff23-4b28-b464-b186ff05a914",
     "name": "State Street Global Advisors (US)",
     "state": "active",
-    "controlDate": "2025-06-25T09:41:09.194Z",
+    "controlDate": "2025-12-19T12:02:00.878Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -100498,7 +100498,7 @@
     "squuid": "668e904f-3418-4481-a6e9-837e815a8fe9",
     "name": "Statista GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T09:41:46.626Z",
+    "controlDate": "2025-12-19T12:02:28.380Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166424,7 +166424,7 @@
     "squuid": "5d3ae59d-b832-4477-93eb-3421c0f77b0b",
     "name": "State Street Corporation",
     "state": "active",
-    "controlDate": "2025-06-25T09:41:03.063Z",
+    "controlDate": "2025-12-19T12:01:52.586Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188802,6 +188802,32 @@
           "squuid": "639b0ee5-c34b-4c09-88a2-906a5ff4e6ad",
           "name": "www.augusto-sachsen.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "694541bc-9d15-4a23-8c4a-8cdf1b2ae06e",
+    "name": "Südbauträger Wohn- und Siedlungsbaugesellschaft mbH ",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69454270-a40f-4362-8b6d-9b1cf1895366",
+    "name": "Südbauträger Wohn- und Siedlungsbaugesellschaft mbH ",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
