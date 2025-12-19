@@ -20310,7 +20310,7 @@ digraph {
     label="Bruns Verlags Beteiligungs-GmbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=6
+    num_medias=21
     num_medias_weighted=0.0000
     name="5ede1ecb-8cf0-4078-a6a3-5c303e672c89"
     in_degree=1
@@ -20322,11 +20322,11 @@ digraph {
     label="Bruns Verlags-GmbH & Co. KG"
     num_owners=8
     num_owners_weighted=7.0000
-    num_medias=6
+    num_medias=21
     num_medias_weighted=6.0000
     name="5ede1ead-78f1-4fed-93b9-6e5a9eb97367"
     in_degree=2
-    out_degree=8
+    out_degree=11
   ];
   1694 [
     type=print
@@ -70914,8 +70914,8 @@ digraph {
     label="J.C.C. Bruns Betriebs-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=16
-    num_medias_weighted=6.8100
+    num_medias=22
+    num_medias_weighted=6.8302
     name="5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
     in_degree=1
     out_degree=4
@@ -112089,7 +112089,7 @@ digraph {
     num_medias=6
     num_medias_weighted=2.5270
     name="5be1a6b6-8c11-4526-af08-275ec93dea8b"
-    in_degree=35
+    in_degree=36
     out_degree=2
   ];
   9341 [
@@ -117561,7 +117561,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
-    in_degree=14
+    in_degree=15
     out_degree=3
   ];
   9797 [
@@ -121305,7 +121305,7 @@ digraph {
     num_medias=9
     num_medias_weighted=9.0000
     name="5de7ab4e-e35a-4fc7-8289-dd27e04bb28b"
-    in_degree=4
+    in_degree=5
     out_degree=10
   ];
   10109 [
@@ -217503,6 +217503,18 @@ digraph {
   ];
   1693 -> 1692 [
     weight=100
+    type=owns
+  ];
+  1693 -> 9340 [
+    weight=1
+    type=owns
+  ];
+  1693 -> 9796 [
+    weight=48
+    type=owns
+  ];
+  1693 -> 10108 [
+    weight=14
     type=owns
   ];
   1693 -> 13779 [
