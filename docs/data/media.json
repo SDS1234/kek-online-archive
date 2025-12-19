@@ -17093,7 +17093,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-25T08:52:35.788Z",
+    "controlDate": "2025-12-19T10:20:51.112Z",
     "state": "active"
   },
   {
@@ -27074,7 +27074,7 @@
     "name": "www.muenster-magazin.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-25T08:55:13.831Z",
+    "controlDate": "2025-12-19T10:22:49.892Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38733,7 +38733,7 @@
     "name": "www.derstandard.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-25T09:22:59.917Z",
+    "controlDate": "2025-12-19T10:45:16.892Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89204,7 +89204,7 @@
     "rfStatewide": false,
     "name": "StadtRevue",
     "type": "print",
-    "controlDate": "2025-06-25T08:52:26.098Z",
+    "controlDate": "2025-12-19T10:20:31.957Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101654,7 +101654,7 @@
     "rfStatewide": false,
     "name": "Münster!",
     "type": "print",
-    "controlDate": "2025-06-25T08:55:07.451Z",
+    "controlDate": "2025-12-19T10:22:43.289Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
