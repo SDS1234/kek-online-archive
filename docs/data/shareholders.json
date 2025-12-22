@@ -12365,7 +12365,7 @@
   },
   {
     "squuid": "5be1a6b6-db2a-42ff-9ded-50416e7a4f2a",
-    "name": "Christliche Medienarbeit Franken e.V. (CMF)",
+    "name": "christliche Medienarbeit Franken e.V.",
     "state": "active",
     "organizations": [
       {
@@ -13675,7 +13675,7 @@
   },
   {
     "squuid": "5be1a6b6-b68f-4431-8181-4cd915282e8d",
-    "name": "Jazzstudio Nürnberg e.V.",
+    "name": "Jazz Studio Nürnberg e.V. - Vereinigung zur Pflege der Jazzmusik",
     "state": "active",
     "controlDate": "2021-12-10T09:50:11.275Z",
     "organizations": [
@@ -14562,7 +14562,7 @@
   },
   {
     "squuid": "5be1a6b6-2b13-4e2a-bed0-094a318d7e36",
-    "name": "PRAY Nürnberg e.V.",
+    "name": "Pray Nürnberg e.V.",
     "state": "active",
     "organizations": [
       {
@@ -14796,7 +14796,7 @@
         "state": "active",
         "held": {
           "squuid": "5ce562d3-e523-4f5d-b67d-cfe32861b092",
-          "name": "Mein Lieblingsradio"
+          "name": "Fiesta Mania Radio"
         }
       },
       {
@@ -17503,15 +17503,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-9e5a-4a9b-bdcc-8705b43a57ca",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4240-4afa-a916-753db78dc673",
-          "name": "Galaxy Rosenheim"
-        }
-      },
-      {
         "squuid": "5c77e849-8987-460a-84bd-e5450fb6d5a4",
         "type": "operate",
         "state": "active",
@@ -19019,6 +19010,24 @@
           "squuid": "5f92bdd7-8dfb-4fc9-a33a-9265fa3b7a03",
           "name": "www.radiogong.de"
         }
+      },
+      {
+        "squuid": "6932b311-536d-4c83-83ce-ab05b986e056",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932b224-29d0-4352-a47a-9801cd475dd1",
+          "name": "Gong 96.3 in Ingolstadt"
+        }
+      },
+      {
+        "squuid": "693aa247-7de5-425a-9a97-058bd0a644e8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "693aa1ef-0a0a-4184-891f-1dadcb2ceaff",
+          "name": "089 Kult"
+        }
       }
     ]
   },
@@ -19366,7 +19375,7 @@
   },
   {
     "squuid": "5be1a6b6-48df-4a08-8beb-1b5540eae2fa",
-    "name": "Internationale Christliche Rundfunkgemeinschaft (ICR) e.V.",
+    "name": "Internationale Christliche Rundfunkgemeinschaft e.V.",
     "state": "active",
     "controlDate": "2024-11-13T09:14:46.887Z",
     "organizations": [
@@ -20935,17 +20944,6 @@
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5c7fb811-9a26-4902-9947-e339a5affa0e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5016-4552-bfba-e3bdfdf29307",
-          "name": "gong fm"
-        }
       }
     ]
   },
@@ -42678,7 +42676,7 @@
   },
   {
     "squuid": "5be1a6b6-3941-45d7-bbc2-4119345ee40c",
-    "name": "Ippen, Marlene",
+    "name": "Ippen, Magdalene",
     "state": "active",
     "controlDate": "2019-06-06T09:35:19.770Z",
     "organizations": [
@@ -48727,6 +48725,15 @@
           "squuid": "5f9177bf-127f-4f91-9b9f-01bbc6deae08",
           "name": "www.oldiewelle.com"
         }
+      },
+      {
+        "squuid": "693acb6f-fa19-4248-8c43-acc12644b24f",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "693aca51-b458-4364-b2a8-0618a5268f23",
+          "name": "Oldie Welle Ingolstadt"
+        }
       }
     ]
   },
@@ -52681,11 +52688,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-d962-4606-bf04-a078630276b8",
-    "name": "Radio Donauspatz Programmanbieter GmbH & Co. Hörfunk KG",
     "state": "active",
-    "controlDate": "2025-12-09T13:46:12.113Z",
+    "name": "Radio Donauspatz Programmanbieter GmbH & Co. Hörfunk KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-d962-4606-bf04-a078630276b8",
+    "controlDate": "2025-12-09T13:46:12.113Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52721,6 +52728,17 @@
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "692852e9-9356-4846-a470-259d5c5ad714",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5016-4552-bfba-e3bdfdf29307",
+          "name": "gong fm"
+        }
       }
     ]
   },
@@ -53268,15 +53286,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "5c7fb803-0277-401d-bdbb-cf10a6b3588f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5016-4552-bfba-e3bdfdf29307",
-          "name": "gong fm"
-        }
-      },
       {
         "squuid": "6874eed4-f871-497b-a3f4-55752431632e",
         "type": "operate",
@@ -78254,6 +78263,15 @@
         "held": {
           "squuid": "62c7fea7-22fa-4403-907a-7f4c1a3be7ac",
           "name": "www.imsueden.de/top-fm"
+        }
+      },
+      {
+        "squuid": "693a91fc-94be-4bbc-9e08-cb43540549e8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "693a9185-0879-4f0d-a974-85c4d41684a0",
+          "name": "rt1 relax"
         }
       }
     ]
@@ -142775,6 +142793,15 @@
           "squuid": "690cc340-20ad-4491-b623-812b22bee9b6",
           "name": "Radio Galaxy Passau / Deggendorf"
         }
+      },
+      {
+        "squuid": "693acf21-8eb9-4eb7-9be3-acd6bf4ce787",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5c76a88c-acf8-4237-976e-d2dcb7641681",
+          "name": "Oldiewelle Niederbayern"
+        }
       }
     ]
   },
@@ -143414,6 +143441,24 @@
         "held": {
           "squuid": "692042be-ca36-4cfd-9471-9179e495f766",
           "name": "Absolut Oldie Classics"
+        }
+      },
+      {
+        "squuid": "6932fa6e-4ccc-4662-80f1-09ec1ca393b9",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932fa16-a4a2-42c1-8693-143d4b9cb32b",
+          "name": "Absolut Germany"
+        }
+      },
+      {
+        "squuid": "6932fdb3-59bf-4860-9aa1-d02fce5d0013",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932fd30-6415-4e69-a060-c1c4816d50b4",
+          "name": "Absolut Radio AI"
         }
       }
     ]
@@ -144501,7 +144546,7 @@
   },
   {
     "squuid": "60095594-c018-4e37-9252-6018555043cd",
-    "name": "Media Broadcast GmbH",
+    "name": "MEDIA BROADCAST GmbH",
     "state": "active",
     "controlDate": "2025-11-27T12:08:04.491Z",
     "organizations": [
@@ -234724,6 +234769,15 @@
         "held": {
           "squuid": "5f92b583-4e77-441b-a559-5549a4a30798",
           "name": "www.fantasy.de"
+        }
+      },
+      {
+        "squuid": "6932b621-8d29-4196-aa72-2aa909c471b5",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6932b505-ebc3-4894-b299-25b0306d6eae",
+          "name": "Radio Fantasy (Allgäu-Donau-Iller)"
         }
       }
     ]
