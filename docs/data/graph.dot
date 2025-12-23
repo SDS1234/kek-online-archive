@@ -8356,7 +8356,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=971
+    num_owners=979
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8368,8 +8368,8 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=970
-    num_owners_weighted=19.6028
+    num_owners=978
+    num_owners_weighted=19.6142
     num_medias=7
     num_medias_weighted=0.0000
     name="6059f9d1-7500-4287-be63-5ed896c0498b"
@@ -15784,8 +15784,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=901
-    num_owners_weighted=17.6246
+    num_owners=909
+    num_owners_weighted=17.6424
     num_medias=7
     num_medias_weighted=1.3300
     name="66fd2eb7-3324-4b3c-bc5d-6b986f5223db"
@@ -15796,8 +15796,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=901
-    num_owners_weighted=18.6246
+    num_owners=909
+    num_owners_weighted=18.6424
     num_medias=7
     num_medias_weighted=0.0000
     name="5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
@@ -15904,7 +15904,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=973
+    num_owners=981
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -57102,10 +57102,10 @@ digraph {
     label="Gregor Stemmle Verwaltungsgesellschaft mbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=9
+    num_medias=0
     num_medias_weighted=0.0000
     name="68764451-63f3-41ee-9d9d-be277bfa05d1"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   4759 [
@@ -57186,11 +57186,11 @@ digraph {
     label="Grenke, Wolfgang"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
-    num_medias_weighted=1.7624
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-4989-4ef4-aaef-affba20e99a6"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   4766 [
     type=shareholder
@@ -63462,8 +63462,8 @@ digraph {
     label="Hepp, Matthias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0211
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef207d9-9392-427b-975d-b44b5621c90a"
     in_degree=0
     out_degree=1
@@ -86680,8 +86680,8 @@ digraph {
     type=shareholder
     state=active
     label="LRM LokalRadio Mannheim GmbH"
-    num_owners=279
-    num_owners_weighted=27.1149
+    num_owners=287
+    num_owners_weighted=27.1517
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-f71b-4dda-9c18-b54ae82b981b"
@@ -96114,8 +96114,8 @@ digraph {
     label="Moch, Guido"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0105
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef207ea-bb2d-40b0-8fad-3f0fac3aa15b"
     in_degree=0
     out_degree=1
@@ -96138,8 +96138,8 @@ digraph {
     label="Moch, Ralph Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0105
+    num_medias=0
+    num_medias_weighted=0.0000
     name="64a82193-b230-463d-a889-0af873bbcb9e"
     in_degree=0
     out_degree=1
@@ -118384,8 +118384,8 @@ digraph {
     type=radio
     state=active
     label="Radio Regenbogen (Mannheim)"
-    num_owners=279
-    num_owners_weighted=27.1149
+    num_owners=287
+    num_owners_weighted=27.1517
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0406-49b0-91ee-c09c6d5809a3"
@@ -118420,8 +118420,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden Geschäftsführungs-GmbH"
-    num_owners=279
-    num_owners_weighted=27.1149
+    num_owners=287
+    num_owners_weighted=27.1517
     num_medias=9
     num_medias_weighted=0.0000
     name="5ef1f2a2-c1d0-4ab9-9672-daa7b297b23f"
@@ -118432,12 +118432,12 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden GmbH & Co. KG"
-    num_owners=279
-    num_owners_weighted=26.1149
+    num_owners=287
+    num_owners_weighted=26.1517
     num_medias=9
     num_medias_weighted=2.0000
     name="5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
-    in_degree=13
+    in_degree=12
     out_degree=6
   ];
   9870 [
@@ -121396,8 +121396,8 @@ digraph {
     type=radio
     state=active
     label="Regenbogen 2"
-    num_owners=280
-    num_owners_weighted=28.1149
+    num_owners=288
+    num_owners_weighted=28.1517
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-59f0-4a74-893e-57e588483f7d"
@@ -138064,7 +138064,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=972
+    num_owners=980
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -143608,10 +143608,10 @@ digraph {
     type=shareholder
     state=active
     label="Stemmle Familiengesellschaft mbH & Co. KG"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0219
+    num_owners=8
+    num_owners_weighted=7.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="685d0861-7ac1-4358-818f-95cf68fae911"
     in_degree=8
     out_degree=1
@@ -143622,8 +143622,8 @@ digraph {
     label="Stemmle, Ben-Arthur"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6876446f-b778-4cd7-bfa1-ba85a609dec2"
     in_degree=0
     out_degree=1
@@ -143634,11 +143634,11 @@ digraph {
     label="Stemmle, Gregor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0114
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef2079e-f328-4165-b6d3-18d678166442"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   11970 [
     type=shareholder
@@ -143646,8 +143646,8 @@ digraph {
     label="Stemmle, John"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68764487-d566-49f0-a679-1ffbe1b4e6be"
     in_degree=0
     out_degree=1
@@ -143658,8 +143658,8 @@ digraph {
     label="Stemmle, Julia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0202
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef207b4-44e4-492a-b4d5-95fc7a65175c"
     in_degree=0
     out_degree=1
@@ -143670,8 +143670,8 @@ digraph {
     label="Stemmle, Leopold"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68764493-451a-4232-a513-9f0532386bcd"
     in_degree=0
     out_degree=1
@@ -143682,8 +143682,8 @@ digraph {
     label="Stemmle, Paula"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="687644ae-cdb8-4bc6-b44a-4d99d79e7f45"
     in_degree=0
     out_degree=1
@@ -143694,8 +143694,8 @@ digraph {
     label="Stemmle, Tassilo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="687644b9-cbb8-4528-bb46-3ebc1df569f5"
     in_degree=0
     out_degree=1
@@ -143706,8 +143706,8 @@ digraph {
     label="Stemmle-Przybisch, Carla"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0018
+    num_medias=0
+    num_medias_weighted=0.0000
     name="687644fc-6ad8-4f96-a7ac-40a74c2bb57c"
     in_degree=0
     out_degree=1
@@ -147988,13 +147988,13 @@ digraph {
     type=shareholder
     state=active
     label="SVD Invest GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
-    num_medias=9
-    num_medias_weighted=0.0842
+    num_owners=13
+    num_owners_weighted=6.8200
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e53f3f4-baa1-4cec-af75-7f7d30d6751d"
     in_degree=5
-    out_degree=1
+    out_degree=0
   ];
   12333 [
     type=shareholder
@@ -166134,11 +166134,11 @@ digraph {
     label="WGB Handels- und Beteiligungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=5
     num_medias_weighted=0.0000
     name="69380cc3-5f4f-48f7-88af-3cbab96e94ce"
     in_degree=0
-    out_degree=0
+    out_degree=2
   ];
   13845 [
     type=shareholder
@@ -173236,7 +173236,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=972
+    num_owners=980
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -196756,7 +196756,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=972
+    num_owners=980
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -197524,7 +197524,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=972
+    num_owners=980
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -197740,7 +197740,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=972
+    num_owners=980
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -231685,14 +231685,6 @@ digraph {
     weight=33
     type=owns
   ];
-  4765 -> 9756 [
-    weight=40.67
-    type=owns
-  ];
-  4765 -> 9757 [
-    weight=40.67
-    type=owns
-  ];
   4766 -> 7226 [
     weight=80
     type=owns
@@ -265033,6 +265025,10 @@ digraph {
     weight=8
     type=owns
   ];
+  11969 -> 4758 [
+    weight=100
+    type=owns
+  ];
   11969 -> 11967 [
     weight=52
     type=owns
@@ -266799,10 +266795,6 @@ digraph {
   ];
   12331 -> 12327 [
     weight=1
-    type=owns
-  ];
-  12332 -> 9869 [
-    weight=2.02
     type=owns
   ];
   12335 -> 11203 [
@@ -273848,6 +273840,14 @@ digraph {
   13843 -> 14522 [
     weight=100
     type=operates
+  ];
+  13844 -> 9756 [
+    weight=40.67
+    type=owns
+  ];
+  13844 -> 9757 [
+    weight=40.67
+    type=owns
   ];
   13847 -> 3342 [
     weight=20
