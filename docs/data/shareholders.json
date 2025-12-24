@@ -45070,9 +45070,26 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
       }
     ]
@@ -45171,9 +45188,26 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
       }
     ]
@@ -45236,9 +45270,26 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
       }
     ]
@@ -47045,12 +47096,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
         "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
         "name": "MA HSH",
         "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
@@ -48785,9 +48830,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -50349,9 +50399,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -51458,9 +51513,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -51533,9 +51593,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -53334,23 +53399,12 @@
   {
     "squuid": "5e874f8d-f834-42df-8158-98aa227c10ca",
     "name": "Eigenbesitz der Radio Salü - Euro-Radio Saar GmbH",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -54037,9 +54091,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -54078,9 +54137,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -81164,6 +81228,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
       }
     ]
   },
@@ -92048,6 +92118,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
       }
     ]
   },
@@ -92078,6 +92154,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -92111,6 +92193,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
       }
     ]
   },
@@ -92128,6 +92216,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -190836,6 +190930,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
       }
     ]
   },
@@ -197670,6 +197770,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -212599,6 +212705,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -257599,7 +257711,7 @@
   {
     "squuid": "66bdf446-472b-4c27-8c7b-90adea203a7d",
     "name": "Stöcker Flughafen GmbH & Co. KG",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-07-03T15:36:37.809Z",
     "limitedPartnership": true,
     "organizations": [

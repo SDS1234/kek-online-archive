@@ -26697,7 +26697,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0011
     name="69259a5b-0699-4c53-984c-7c79781b93e0"
-    in_degree=0
+    in_degree=3
     out_degree=1
   ];
   2225 [
@@ -31950,8 +31950,8 @@ digraph {
     label="Dieter von Holtzbrinck Stiftung GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=45
-    num_medias_weighted=9.9961
+    num_medias=48
+    num_medias_weighted=9.9968
     name="5be1a6b6-7982-4f28-8639-7bf2b4c8bf7a"
     in_degree=5
     out_degree=1
@@ -31989,7 +31989,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0023
     name="69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   2666 [
@@ -38786,15 +38786,15 @@ digraph {
   ];
   3232 [
     type=shareholder
-    state=active
+    state=archived
     label="Eigenbesitz der Radio Salü - Euro-Radio Saar GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=11
-    num_medias_weighted=1.3832
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e874f8d-f834-42df-8158-98aa227c10ca"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3233 [
     type=shareholder
@@ -54342,11 +54342,11 @@ digraph {
     label="Georg Dieter von Holtzbrinck Familiengesellschaft GbR"
     num_owners=7
     num_owners_weighted=4.3320
-    num_medias=45
-    num_medias_weighted=30.0182
+    num_medias=48
+    num_medias_weighted=30.0205
     name="5be1a6b6-ba9c-402b-8773-5f4c91dcf54b"
     in_degree=3
-    out_degree=1
+    out_degree=2
   ];
   4529 [
     type=shareholder
@@ -56850,8 +56850,8 @@ digraph {
     label="Grabner, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=1.9992
+    num_medias=48
+    num_medias_weighted=1.9994
     name="634572a4-3675-455d-bc44-4ef91241b53f"
     in_degree=0
     out_degree=1
@@ -59457,7 +59457,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0000
     name="6925d315-8b0a-4f53-ab65-2bf3b669d95f"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   4955 [
@@ -59478,11 +59478,11 @@ digraph {
     label="HAHN-Immobilien-Beteiligungs AG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="6939699a-f33a-441d-a9b0-6264dfcfe4d1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4957 [
     type=shareholder
@@ -114306,11 +114306,11 @@ digraph {
     label="radical moves GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0001
     name="69396c52-2fc5-492d-bc3d-57f682e7b03b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9526 [
     type=shareholder
@@ -118569,7 +118569,7 @@ digraph {
     num_medias=16
     num_medias_weighted=0.0000
     name="5ef314c8-cb90-4e80-83ba-bb85608e5223"
-    in_degree=8
+    in_degree=11
     out_degree=1
   ];
   9881 [
@@ -118689,7 +118689,7 @@ digraph {
     num_medias=11
     num_medias_weighted=9.8800
     name="5be1a6b6-c416-473b-9edc-b68307c0e478"
-    in_degree=6
+    in_degree=5
     out_degree=10
   ];
   9891 [
@@ -119392,8 +119392,8 @@ digraph {
     type=radio
     state=active
     label="Radio Wellenrausch"
-    num_owners=7
-    num_owners_weighted=6.6410
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="66bdf24b-c3b4-4f52-847c-3d9bf591454d"
@@ -119404,8 +119404,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Wellenrausch GmbH"
-    num_owners=6
-    num_owners_weighted=5.6410
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="66bdf279-af02-496a-b611-ab29ffa89a12"
@@ -120366,11 +120366,11 @@ digraph {
     label="Rall, Dr. Claudius Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=16
     num_medias_weighted=0.0000
     name="69393bbc-db72-49a9-8a20-1bdeac9e039b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10031 [
     type=shareholder
@@ -120378,11 +120378,11 @@ digraph {
     label="Rall, Dr. Marcus Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=16
     num_medias_weighted=0.0000
     name="69393bfc-d198-4f00-a2a0-66178af98ae9"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10032 [
     type=shareholder
@@ -120390,11 +120390,11 @@ digraph {
     label="Rall, Titus Armin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=16
     num_medias_weighted=0.0000
     name="69393bcf-25a9-4ff6-a341-7a31a887cdb2"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10033 [
     type=tv
@@ -127149,7 +127149,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0291
     name="6925d8ab-7107-47fe-9214-672efc2447d3"
-    in_degree=0
+    in_degree=2
     out_degree=1
   ];
   10596 [
@@ -127158,11 +127158,11 @@ digraph {
     label="Rudolf Fuchs Verwaltungs SE"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="69396ee7-ec08-4cd9-8cc6-77385221e8e7"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10597 [
     type=shareholder
@@ -136938,8 +136938,8 @@ digraph {
     label="Sigle, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=1.9992
+    num_medias=48
+    num_medias_weighted=1.9994
     name="5be1a6b6-4b0c-4deb-840b-632078c37947"
     in_degree=0
     out_degree=1
@@ -137358,11 +137358,11 @@ digraph {
     label="Sixt Management Holding GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0009
     name="69396c38-731d-43e2-b04a-0334a792b810"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11447 [
     type=shareholder
@@ -137370,8 +137370,8 @@ digraph {
     label="Sixt, Sven C."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=1.9992
+    num_medias=48
+    num_medias_weighted=1.9994
     name="5be1a6b6-a25a-45a8-b4b8-7dbfb5cc426c"
     in_degree=0
     out_degree=1
@@ -146034,11 +146034,11 @@ digraph {
     label="Streubesitz an der Rudolf Fuch SE & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0291
     name="69396f00-cc78-4ad6-94f5-c298233f6a32"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12170 [
     type=shareholder
@@ -147242,14 +147242,14 @@ digraph {
   ];
   12270 [
     type=shareholder
-    state=active
+    state=archived
     label="Stöcker Flughafen GmbH & Co. KG"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="66bdf446-472b-4c27-8c7b-90adea203a7d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12271 [
@@ -147274,7 +147274,7 @@ digraph {
     num_medias_weighted=2.0000
     name="6866a3e8-71aa-46cb-b507-137fd502ef93"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   12273 [
     type=shareholder
@@ -159162,11 +159162,11 @@ digraph {
     label="VHB digital GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.0001
     name="69396c70-5032-4564-a97e-db8d908cae3e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   13264 [
     type=shareholder
@@ -160902,8 +160902,8 @@ digraph {
     label="von Holtzbrinck, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=9.9961
+    num_medias=48
+    num_medias_weighted=9.9968
     name="5be1a6b6-1391-4545-b24b-020d6b6f6ee8"
     in_degree=0
     out_degree=1
@@ -160914,8 +160914,8 @@ digraph {
     label="von Holtzbrinck, Dieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=1.9992
+    num_medias=48
+    num_medias_weighted=1.9994
     name="5be1a6b6-9a1a-40e5-a212-4f53d008fb52"
     in_degree=0
     out_degree=2
@@ -165342,8 +165342,8 @@ digraph {
     label="Werwigk, Dr. Claudius"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=45
-    num_medias_weighted=1.9992
+    num_medias=48
+    num_medias_weighted=1.9994
     name="681b6ed4-b39f-489b-baa4-827a0af9c6ad"
     in_degree=0
     out_degree=1
@@ -195172,8 +195172,8 @@ digraph {
     type=online
     state=active
     label="www.radio-wellenrausch.de"
-    num_owners=7
-    num_owners_weighted=6.6410
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="68669bba-f826-4206-91e8-eb3c6fb71aed"
@@ -224785,10 +224785,6 @@ digraph {
     weight=23
     type=owns
   ];
-  3232 -> 9890 [
-    weight=14
-    type=owns
-  ];
   3233 -> 10037 [
     weight=1
     type=owns
@@ -230653,6 +230649,10 @@ digraph {
     weight=11
     type=owns
   ];
+  4528 -> 2665 [
+    weight=100
+    type=owns
+  ];
   4528 -> 3002 [
     weight=100
     type=owns
@@ -232555,6 +232555,10 @@ digraph {
   ];
   4954 -> 2663 [
     weight=2.13
+    type=owns
+  ];
+  4956 -> 4954 [
+    weight=100
     type=owns
   ];
   4957 -> 9452 [
@@ -253797,6 +253801,10 @@ digraph {
     weight=100
     type=operates
   ];
+  9525 -> 2224 [
+    weight=10
+    type=owns
+  ];
   9526 -> 6292 [
     weight=100
     type=operates
@@ -255767,6 +255775,18 @@ digraph {
   ];
   10029 -> 9880 [
     weight=5.26
+    type=owns
+  ];
+  10030 -> 9880 [
+    weight=1.76
+    type=owns
+  ];
+  10031 -> 9880 [
+    weight=1.75
+    type=owns
+  ];
+  10032 -> 9880 [
+    weight=1.75
     type=owns
   ];
   10034 -> 1523 [
@@ -259311,6 +259331,10 @@ digraph {
   ];
   10595 -> 10594 [
     weight=100
+    type=owns
+  ];
+  10596 -> 10595 [
+    weight=1
     type=owns
   ];
   10597 -> 5096 [
@@ -263177,6 +263201,10 @@ digraph {
     weight=2.2
     type=owns
   ];
+  11446 -> 2224 [
+    weight=80
+    type=owns
+  ];
   11447 -> 2662 [
     weight=20
     type=owns
@@ -265681,6 +265709,10 @@ digraph {
     weight=17.95
     type=owns
   ];
+  12169 -> 10595 [
+    weight=100
+    type=owns
+  ];
   12170 -> 11110 [
     weight=13.62
     type=owns
@@ -266598,10 +266630,6 @@ digraph {
     type=owns
   ];
   12272 -> 9950 [
-    weight=100
-    type=owns
-  ];
-  12272 -> 12270 [
     weight=100
     type=owns
   ];
@@ -271036,6 +271064,10 @@ digraph {
   13260 -> 15431 [
     weight=100
     type=operates
+  ];
+  13263 -> 2224 [
+    weight=10
+    type=owns
   ];
   13264 -> 12745 [
     weight=100
