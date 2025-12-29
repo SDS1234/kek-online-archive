@@ -4277,11 +4277,11 @@ digraph {
     state=active
     label="Allgäu-TV Beteiligungs- und Verwaltungs GmbH"
     num_owners=16
-    num_owners_weighted=6.7098
+    num_owners_weighted=4.2657
     num_medias=2
     num_medias_weighted=0.0000
     name="5f7721ce-3b10-4b61-bd97-b6e5b9ee8fdd"
-    in_degree=3
+    in_degree=2
     out_degree=1
   ];
   357 [
@@ -4289,11 +4289,11 @@ digraph {
     state=active
     label="Allgäu-TV GmbH & Co. KG"
     num_owners=17
-    num_owners_weighted=7.7098
+    num_owners_weighted=5.2657
     num_medias=2
     num_medias_weighted=2.0000
     name="5cab6a19-b235-49e1-abfe-578e329004c0"
-    in_degree=4
+    in_degree=3
     out_degree=2
   ];
   358 [
@@ -4301,7 +4301,7 @@ digraph {
     state=active
     label="allgäu.tv"
     num_owners=18
-    num_owners_weighted=8.7098
+    num_owners_weighted=6.2657
     num_medias=0
     num_medias_weighted=0.0000
     name="5cab69c3-6580-4d5f-acd7-83de757ad71a"
@@ -4338,8 +4338,8 @@ digraph {
     label="Allgäuer Zeitungsverlag GmbH"
     num_owners=7
     num_owners_weighted=4.5000
-    num_medias=221
-    num_medias_weighted=22.4252
+    num_medias=215
+    num_medias_weighted=17.1830
     name="5be1a6b6-9e2f-4de5-839b-a9064817ea96"
     in_degree=2
     out_degree=24
@@ -66174,8 +66174,8 @@ digraph {
     label="Holland, Alexandra"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=310
-    num_medias_weighted=47.7739
+    num_medias=304
+    num_medias_weighted=46.4633
     name="5be1a6b6-e4a8-43b9-9b8b-d928c7d64d0e"
     in_degree=0
     out_degree=1
@@ -112002,8 +112002,8 @@ digraph {
     label="Presse-Druck- und Verlags-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=310
-    num_medias_weighted=95.5477
+    num_medias=304
+    num_medias_weighted=92.9266
     name="5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
     in_degree=5
     out_degree=61
@@ -116356,8 +116356,8 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Kempten"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3330-4da7-a949-79bc5d29d59f"
@@ -126160,8 +126160,8 @@ digraph {
     type=radio
     state=active
     label="RSA - Allgäuer Heimatmelodie"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e33e-459e-bc59-0e532e77b3b4"
@@ -126172,8 +126172,8 @@ digraph {
     type=radio
     state=active
     label="RSA - Griaß di Allgäu"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8125-4036-9246-3f3a9a6b4a14"
@@ -126184,8 +126184,8 @@ digraph {
     type=radio
     state=active
     label="RSA - Lindau"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5f7a-4aeb-ae66-aa621cb71abe"
@@ -126196,8 +126196,8 @@ digraph {
     type=radio
     state=active
     label="RSA - Ostallgäu"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e388-4c10-808d-56bc76260bf9"
@@ -126208,8 +126208,8 @@ digraph {
     type=radio
     state=active
     label="RSA - Radio Session Allgäu"
-    num_owners=13
-    num_owners_weighted=8.1500
+    num_owners=5
+    num_owners_weighted=4.3000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f5b4-4c81-9e92-bcefb923b2b0"
@@ -126220,24 +126220,24 @@ digraph {
     type=shareholder
     state=active
     label="RSA Radio Beteiligungs GmbH"
-    num_owners=11
-    num_owners_weighted=6.1500
+    num_owners=3
+    num_owners_weighted=2.3000
     num_medias=6
     num_medias_weighted=0.0000
     name="5f96caef-7c46-4b27-b62c-532b76bfd906"
-    in_degree=2
+    in_degree=1
     out_degree=1
   ];
   10519 [
     type=shareholder
     state=active
     label="RSA Radio GmbH & Co. KG"
-    num_owners=12
-    num_owners_weighted=7.1500
+    num_owners=4
+    num_owners_weighted=3.3000
     num_medias=6
     num_medias_weighted=6.0000
     name="5be1a6b6-7545-4838-8317-b3d9812ff6f1"
-    in_degree=3
+    in_degree=2
     out_degree=6
   ];
   10520 [
@@ -126386,15 +126386,15 @@ digraph {
   ];
   10532 [
     type=shareholder
-    state=active
+    state=archived
     label="rta.media GmbH"
-    num_owners=8
-    num_owners_weighted=5.5000
-    num_medias=8
-    num_medias_weighted=5.3200
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-835d-4817-ab25-5f64286c4824"
     in_degree=1
-    out_degree=4
+    out_degree=0
   ];
   10533 [
     type=tv
@@ -130662,8 +130662,8 @@ digraph {
     label="Scherer, Antonia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=310
-    num_medias_weighted=6.3730
+    num_medias=304
+    num_medias_weighted=6.1982
     name="67530b43-6b59-4fe5-86ae-6e19b63aae34"
     in_degree=0
     out_degree=1
@@ -130674,8 +130674,8 @@ digraph {
     label="Scherer, Benedikt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=310
-    num_medias_weighted=6.3730
+    num_medias=304
+    num_medias_weighted=6.1982
     name="67530b35-3318-426c-b7c5-9fcb152531c6"
     in_degree=0
     out_degree=1
@@ -130686,8 +130686,8 @@ digraph {
     label="Scherer, Ellinor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=310
-    num_medias_weighted=47.7739
+    num_medias=304
+    num_medias_weighted=46.4633
     name="5be1a6b6-7e99-44bf-a402-968de38d5ca6"
     in_degree=0
     out_degree=1
@@ -130698,8 +130698,8 @@ digraph {
     label="Scherer, Viktoria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=310
-    num_medias_weighted=6.3730
+    num_medias=304
+    num_medias_weighted=6.1982
     name="67530b27-e2d3-4600-b431-a9525f0d7465"
     in_degree=0
     out_degree=1
@@ -162390,8 +162390,8 @@ digraph {
     label="Waldburg zu Zeil und Trauchburg, Erich Fürst von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=294
-    num_medias_weighted=20.8439
+    num_medias=288
+    num_medias_weighted=18.2228
     name="5be1a6b6-3585-4224-8872-a3554fbd2a8e"
     in_degree=0
     out_degree=4
@@ -170837,7 +170837,7 @@ digraph {
     state=active
     label="www.allgäu.tv"
     num_owners=18
-    num_owners_weighted=8.7098
+    num_owners_weighted=6.2657
     num_medias=0
     num_medias_weighted=0.0000
     name="5f772051-04dc-4eb9-a2de-313706a7fb5a"
@@ -258880,22 +258880,6 @@ digraph {
   10529 -> 5423 [
     weight=100
     type=operates
-  ];
-  10532 -> 356 [
-    weight=56
-    type=owns
-  ];
-  10532 -> 357 [
-    weight=56
-    type=owns
-  ];
-  10532 -> 10518 [
-    weight=70
-    type=owns
-  ];
-  10532 -> 10519 [
-    weight=70
-    type=owns
   ];
   10535 -> 16712 [
     weight=100
