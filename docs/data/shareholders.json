@@ -194381,6 +194381,30 @@
     ]
   },
   {
+    "squuid": "6953dcce-71c4-4d26-a65c-e4e0e1bd9316",
+    "name": "Anbietergemeinschaft Radio Nord e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6953dddd-504c-42ff-bfb6-9eec55f004e1",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6953dc48-4ac9-41f8-a9d0-bd521dbe5d81",
+          "name": "Radio Deck 1"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5d2c61de-7378-4a77-b8ce-6dc0dd88d8d0",
     "name": "Zender, Stefan",
     "state": "active",

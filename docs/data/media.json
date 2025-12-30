@@ -130567,6 +130567,26 @@
     ]
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfStatewide": false,
+    "name": "Radio Deck 1",
+    "type": "radio",
+    "squuid": "6953dc48-4ac9-41f8-a9d0-bd521dbe5d81",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "691dc3ab-0b6d-44e5-83a2-eb7bf9ad43d3",
     "organization": {
