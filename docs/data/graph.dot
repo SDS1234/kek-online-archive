@@ -87774,11 +87774,11 @@ digraph {
     label="Maack, Doris"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=67
+    num_medias_weighted=0.0319
     name="69414cc3-5aa2-4a70-abec-3aa162d0ecbb"
     in_degree=0
-    out_degree=0
+    out_degree=2
   ];
   7315 [
     type=shareholder
@@ -87786,11 +87786,11 @@ digraph {
     label="Maack, Lebrecht"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=67
-    num_medias_weighted=0.0319
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2776-40b9-9699-04e4e705f7b6"
     in_degree=0
-    out_degree=3
+    out_degree=1
   ];
   7316 [
     type=shareholder
@@ -242257,11 +242257,11 @@ digraph {
     weight=100
     type=operates
   ];
-  7315 -> 9335 [
+  7314 -> 9335 [
     weight=50
     type=owns
   ];
-  7315 -> 10069 [
+  7314 -> 10069 [
     weight=50
     type=owns
   ];
