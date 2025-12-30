@@ -25289,6 +25289,12 @@
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
+      },
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -25371,6 +25377,15 @@
         "held": {
           "squuid": "5f2be88e-3164-40f6-ace4-91698958095e",
           "name": "METROPOL FM (Hessen)"
+        }
+      },
+      {
+        "squuid": "6953e9a5-bf29-4119-a10d-93dee5a1191e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6953e8ae-2cdb-4a4a-8c0b-5911882b2c76",
+          "name": "METROPOL FM (Hamburg)"
         }
       }
     ]

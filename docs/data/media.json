@@ -130633,6 +130633,26 @@
     "pressKind": "sonstige Zeitschriften"
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfStatewide": false,
+    "name": "METROPOL FM (Hamburg)",
+    "type": "radio",
+    "squuid": "6953e8ae-2cdb-4a4a-8c0b-5911882b2c76",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "647f368a-64ec-4174-8dcd-84ba7c5ff0d5",
     "organization": {
