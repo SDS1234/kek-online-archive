@@ -95382,11 +95382,11 @@ digraph {
     label="Mira Schott, Henrique"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=88
-    num_medias_weighted=0.6199
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68557c77-0cc2-4197-8738-18a8ece82b1d"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   7949 [
     type=print
@@ -132693,7 +132693,7 @@ digraph {
     num_medias=88
     num_medias_weighted=13.2730
     name="5be1a6b6-fc1b-4061-94c7-cf068169fce4"
-    in_degree=6
+    in_degree=5
     out_degree=3
   ];
   11058 [
@@ -133605,7 +133605,7 @@ digraph {
     num_medias=415
     num_medias_weighted=1.4334
     name="5be1a6b6-dcac-4e4f-aa84-e3c808d26df7"
-    in_degree=64
+    in_degree=65
     out_degree=5
   ];
   11134 [
@@ -166326,11 +166326,11 @@ digraph {
     label="Wicky, Heidi"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=415
+    num_medias_weighted=0.0097
     name="6942b0c4-74ec-4c09-9d93-bb3a7fa17766"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   13861 [
     type=print
@@ -168894,11 +168894,11 @@ digraph {
     label="Wolf, Marion"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=415
+    num_medias_weighted=0.0097
     name="6942b098-e2e1-4bc2-9f3f-a2e8f5f49611"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   14075 [
     type=shareholder
@@ -168978,11 +168978,11 @@ digraph {
     label="Wolf, Uwe Jens"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=415
-    num_medias_weighted=0.0196
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-fa8c-444f-bb18-cbca57315a03"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   14082 [
     type=shareholder
@@ -245185,10 +245185,6 @@ digraph {
     weight=17.1
     type=owns
   ];
-  7948 -> 11057 [
-    weight=4.67
-    type=owns
-  ];
   7953 -> 5963 [
     weight=100
     type=owns
@@ -273965,6 +273961,10 @@ digraph {
     weight=100
     type=owns
   ];
+  13860 -> 11133 [
+    weight=1
+    type=owns
+  ];
   13862 -> 243 [
     weight=43
     type=owns
@@ -274561,6 +274561,10 @@ digraph {
     weight=1.37
     type=owns
   ];
+  14074 -> 11133 [
+    weight=1
+    type=owns
+  ];
   14075 -> 11133 [
     weight=1
     type=owns
@@ -274579,10 +274583,6 @@ digraph {
   ];
   14080 -> 11133 [
     weight=2.74
-    type=owns
-  ];
-  14081 -> 11133 [
-    weight=1.37
     type=owns
   ];
   14082 -> 5529 [
