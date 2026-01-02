@@ -142122,11 +142122,11 @@ digraph {
     label="Stadt Pößmeck"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0223
     name="69452914-afc0-4655-9227-f04d92d830c7"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11844 [
     type=shareholder
@@ -142605,7 +142605,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0223
     name="685bbd1d-3598-4b4d-ba35-12788af40818"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11884 [
@@ -264663,6 +264663,10 @@ digraph {
   ];
   11842 -> 9663 [
     weight=1.25
+    type=owns
+  ];
+  11843 -> 11883 [
+    weight=100
     type=owns
   ];
   11844 -> 9799 [
