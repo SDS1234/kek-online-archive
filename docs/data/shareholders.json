@@ -12235,38 +12235,13 @@
   {
     "squuid": "5be1a6b6-db2a-42ff-9ded-50416e7a4f2a",
     "name": "christliche Medienarbeit Franken e.V.",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-a3ea-4d88-a376-534b54fec32c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7cb0-4c45-acc8-7b51e294b37d",
-          "name": "Camillo 92,9"
-        }
-      },
-      {
-        "squuid": "5f8eedfe-2093-4646-87b9-99bdfee2fadf",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f8eedd5-6349-4910-a62d-0f86665464a9",
-          "name": "www.camillo929.de"
-        }
       }
     ]
   },
@@ -13545,39 +13520,14 @@
   {
     "squuid": "5be1a6b6-b68f-4431-8181-4cd915282e8d",
     "name": "Jazz Studio Nürnberg e.V. - Vereinigung zur Pflege der Jazzmusik",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2021-12-10T09:50:11.275Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-d94a-4447-9dd0-979587fe0af6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-262a-44fd-bec1-b495c115e26b",
-          "name": "Jazztime Nürnberg"
-        }
-      },
-      {
-        "squuid": "5f915a32-1212-48c1-b0fe-c8233e486291",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f9159ff-6065-4a3c-ad0e-b1cad8758b71",
-          "name": "www.jazzstudio.de"
-        }
       }
     ]
   },
@@ -14432,38 +14382,13 @@
   {
     "squuid": "5be1a6b6-2b13-4e2a-bed0-094a318d7e36",
     "name": "Pray Nürnberg e.V.",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-f190-4c22-963b-fd47d6b34a16",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-16ec-4797-a735-4c7ec0c7d5f0",
-          "name": "Pray 92,9"
-        }
-      },
-      {
-        "squuid": "5f918574-c254-4401-8264-863904176456",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f91839d-625f-4fc5-88fc-3154f9c8668d",
-          "name": "www.radiopray.de"
-        }
       }
     ]
   },
@@ -14509,14 +14434,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -14527,14 +14447,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -19387,38 +19302,13 @@
   {
     "squuid": "5be1a6b6-8afd-40f7-a3c7-fb354e78883f",
     "name": "Meilensteine Medien e.V.",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-4519-495a-bad6-143def698167",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-d7af-4407-81a4-967477c45e95",
-          "name": "Radio Meilensteine"
-        }
-      },
-      {
-        "squuid": "5f92dbd5-5c4b-40ad-94fa-0f5a8b2c4a7e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f92dba4-af20-4ff5-931b-e07fb064fbee",
-          "name": "www.radio-meilensteine.de"
-        }
       }
     ]
   },
@@ -19579,38 +19469,13 @@
   {
     "squuid": "5be1a6b6-67a3-4c56-887b-eb560cb9d6e3",
     "name": "Apostolov, Dr. Blagoy",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-f327-4c37-a650-93ad4f6c1943",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-cd75-4904-8a8e-5594ab9c7f20",
-          "name": "Radio Opera"
-        }
-      },
-      {
-        "squuid": "5f969ba7-a31b-443f-b588-946ca538669d",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f969b7c-7687-4d3b-ae92-3125a1a3b7ba",
-          "name": "www.radio-opera.de"
-        }
       }
     ]
   },
@@ -188679,9 +188544,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]

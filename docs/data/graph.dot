@@ -6962,15 +6962,15 @@ digraph {
   ];
   580 [
     type=shareholder
-    state=active
+    state=archived
     label="Apostolov, Dr. Blagoy"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-67a3-4c56-887b-eb560cb9d6e3"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   581 [
     type=print
@@ -23193,7 +23193,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7cb0-4c45-acc8-7b51e294b37d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   1933 [
@@ -24554,15 +24554,15 @@ digraph {
   ];
   2046 [
     type=shareholder
-    state=active
+    state=archived
     label="christliche Medienarbeit Franken e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-db2a-42ff-9ded-50416e7a4f2a"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   2047 [
     type=print
@@ -71642,15 +71642,15 @@ digraph {
   ];
   5970 [
     type=shareholder
-    state=active
+    state=archived
     label="Jazz Studio Nürnberg e.V. - Vereinigung zur Pflege der Jazzmusik"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-b68f-4431-8181-4cd915282e8d"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   5971 [
     type=radio
@@ -71685,7 +71685,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-262a-44fd-bec1-b495c115e26b"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   5974 [
@@ -76506,11 +76506,11 @@ digraph {
     label="Klauss, Jochen"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-871a-4267-a335-eba2c5cf286a"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6376 [
     type=shareholder
@@ -92930,15 +92930,15 @@ digraph {
   ];
   7744 [
     type=shareholder
-    state=active
+    state=archived
     label="Meilensteine Medien e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-8afd-40f7-a3c7-fb354e78883f"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   7745 [
     type=shareholder
@@ -99249,7 +99249,7 @@ digraph {
     num_medias=8
     num_medias_weighted=6.8000
     name="5be1a6b6-528c-4d6f-a94d-5b2d81a28258"
-    in_degree=2
+    in_degree=3
     out_degree=6
   ];
   8271 [
@@ -111856,25 +111856,25 @@ digraph {
     type=radio
     state=active
     label="Pray 92,9"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-16ec-4797-a735-4c7ec0c7d5f0"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9322 [
     type=shareholder
-    state=active
+    state=archived
     label="Pray Nürnberg e.V."
-    num_owners=2
-    num_owners_weighted=2.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2b13-4e2a-bed0-094a318d7e36"
-    in_degree=2
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   9323 [
     type=shareholder
@@ -117525,7 +117525,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d7af-4407-81a4-967477c45e95"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9794 [
@@ -118041,7 +118041,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-cd75-4904-8a8e-5594ab9c7f20"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9837 [
@@ -122142,11 +122142,11 @@ digraph {
     label="Reinhold, Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-883f-46b2-8d88-d6521aa8332b"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   10179 [
     type=shareholder
@@ -148734,11 +148734,11 @@ digraph {
     label="Südbauträger Wohn- und Siedlungsbaugesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=8
+    num_medias_weighted=6.8000
     name="694541bc-9d15-4a23-8c4a-8cdf1b2ae06e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12395 [
     type=shareholder
@@ -174945,7 +174945,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5f8eedd5-6349-4910-a62d-0f86665464a9"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14579 [
@@ -185577,7 +185577,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5f9159ff-6065-4a3c-ad0e-b1cad8758b71"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   15465 [
@@ -194985,7 +194985,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5f92dba4-af20-4ff5-931b-e07fb064fbee"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16249 [
@@ -195057,7 +195057,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5f969b7c-7687-4d3b-ae92-3125a1a3b7ba"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16255 [
@@ -196144,12 +196144,12 @@ digraph {
     type=online
     state=active
     label="www.radiopray.de"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f91839d-625f-4fc5-88fc-3154f9c8668d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16346 [
@@ -212069,14 +212069,6 @@ digraph {
     weight=1
     type=owns
   ];
-  580 -> 9836 [
-    weight=100
-    type=operates
-  ];
-  580 -> 16254 [
-    weight=100
-    type=operates
-  ];
   586 -> 614 [
     weight=100
     type=operates
@@ -219386,14 +219378,6 @@ digraph {
     type=owns
   ];
   2045 -> 2050 [
-    weight=100
-    type=operates
-  ];
-  2046 -> 1932 [
-    weight=100
-    type=operates
-  ];
-  2046 -> 14578 [
     weight=100
     type=operates
   ];
@@ -237321,14 +237305,6 @@ digraph {
     weight=1
     type=owns
   ];
-  5970 -> 5973 [
-    weight=100
-    type=operates
-  ];
-  5970 -> 15464 [
-    weight=100
-    type=operates
-  ];
   5975 -> 8186 [
     weight=100
     type=owns
@@ -238854,10 +238830,6 @@ digraph {
     type=operates
   ];
   6374 -> 6373 [
-    weight=1
-    type=owns
-  ];
-  6375 -> 9322 [
     weight=1
     type=owns
   ];
@@ -244516,14 +244488,6 @@ digraph {
   7743 -> 276 [
     weight=100
     type=owns
-  ];
-  7744 -> 9793 [
-    weight=100
-    type=operates
-  ];
-  7744 -> 16248 [
-    weight=100
-    type=operates
   ];
   7771 -> 2759 [
     weight=50
@@ -252841,14 +252805,6 @@ digraph {
     weight=16
     type=owns
   ];
-  9322 -> 9321 [
-    weight=100
-    type=operates
-  ];
-  9322 -> 16345 [
-    weight=100
-    type=operates
-  ];
   9323 -> 6118 [
     weight=50
     type=owns
@@ -256527,10 +256483,6 @@ digraph {
   ];
   10177 -> 9873 [
     weight=2.8
-    type=owns
-  ];
-  10178 -> 9322 [
-    weight=1
     type=owns
   ];
   10179 -> 8833 [
@@ -267026,6 +266978,10 @@ digraph {
     type=owns
   ];
   12393 -> 219 [
+    weight=100
+    type=owns
+  ];
+  12394 -> 8270 [
     weight=100
     type=owns
   ];
