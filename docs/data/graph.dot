@@ -95481,7 +95481,7 @@ digraph {
     num_medias=26
     num_medias_weighted=0.0294
     name="5be1a6b6-2d57-42f1-817c-72d734d98ed4"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   7957 [
@@ -129318,11 +129318,11 @@ digraph {
     label="Salehi, Maryam"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=26
+    num_medias_weighted=0.0294
     name="6929be80-ce4a-4dbb-8c99-9b590b751db6"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10777 [
     type=shareholder
@@ -260163,6 +260163,10 @@ digraph {
   ];
   10772 -> 1104 [
     weight=11.25
+    type=owns
+  ];
+  10776 -> 7956 [
+    weight=100
     type=owns
   ];
   10777 -> 13818 [
