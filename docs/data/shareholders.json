@@ -9977,7 +9977,7 @@
     "name": "Super RTL Fernsehen GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-2cfa-4d35-9bcc-0908e5e2773e",
-    "controlDate": "2025-06-25T15:40:34.296Z",
+    "controlDate": "2026-01-05T16:05:09.779Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -200099,6 +200099,19 @@
     ]
   },
   {
+    "squuid": "695be457-459b-4df9-9228-c2832a2e18fb",
+    "name": "Werner Friedmann Familienstiftung",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f1aa17b-0a12-489a-b610-1ab363bb8e19",
     "name": "Burg Schwarzenstein Verwaltungsgesellschaft mbH",
     "state": "active",
@@ -219252,7 +219265,7 @@
     "squuid": "64006796-aa8b-47ac-aa94-931b4d36566d",
     "name": "Super Tipp Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T15:41:38.070Z",
+    "controlDate": "2026-01-05T16:07:21.587Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313226,7 +313239,7 @@
     "squuid": "5f17fc11-8ab6-45eb-b46c-66ae4967d0a5",
     "name": "Supreme Universal Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-06-25T15:42:56.422Z",
+    "controlDate": "2026-01-05T16:08:27.747Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
