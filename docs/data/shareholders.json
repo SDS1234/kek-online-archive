@@ -48708,6 +48708,7 @@
     "squuid": "6939699a-f33a-441d-a9b0-6264dfcfe4d1",
     "name": "HAHN-Immobilien-Beteiligungs AG",
     "state": "active",
+    "controlDate": "2026-01-05T10:51:35.970Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -53964,6 +53965,7 @@
     "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7",
     "name": "Rudolf Fuchs Verwaltungs SE",
     "state": "active",
+    "controlDate": "2026-01-05T11:09:07.272Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -98476,7 +98478,7 @@
     "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7",
     "name": "Schwarzwälder Bote GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-17T13:33:38.362Z",
+    "controlDate": "2026-01-05T10:30:36.227Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -195063,6 +195065,19 @@
     ]
   },
   {
+    "squuid": "695b934b-aa58-4ef3-8056-4c15c818616d",
+    "name": "Wein, Heidrun",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d2c660a-9a5b-4347-a1c2-d5e304465b02",
     "name": "Vimeo Inc.",
     "state": "active",
@@ -195087,6 +195102,32 @@
     ]
   },
   {
+    "squuid": "695b92fe-5a99-40d2-ab9d-6e81ddb9776d",
+    "name": "Wein, Freya",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "695b931b-b38d-4dff-9f25-979dc318b030",
+    "name": "Wein, Markolf",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "6347ea06-6b8c-4cc2-b1a2-f899e5024540",
     "name": "fons securis aerarium GmbH",
     "state": "active",
@@ -195101,6 +195142,19 @@
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "695b9331-232b-4898-85c5-6135e351b3d5",
+    "name": "Wein, Arnleif",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -195798,6 +195852,19 @@
     "name": "Cosmopolitan Property Schweiz AG",
     "state": "active",
     "controlDate": "2024-05-24T10:48:52.883Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "695b9ba8-6461-4a61-8ca7-d34ff631ef52",
+    "name": "Blitzstart Gründungs SE",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
