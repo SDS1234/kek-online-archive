@@ -12199,6 +12199,7 @@
     "squuid": "69380cc3-5f4f-48f7-88af-3cbab96e94ce",
     "name": "WGB Handels- und Beteiligungs GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T11:26:43.699Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36856,9 +36857,9 @@
   },
   {
     "squuid": "5d31bee0-54c4-454f-8671-32ae10073d3d",
-    "name": "StepStone GmbH",
+    "name": "The StepStone Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T09:52:39.905Z",
+    "controlDate": "2026-01-05T12:19:38.727Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50278,6 +50279,7 @@
     "squuid": "69396c38-731d-43e2-b04a-0334a792b810",
     "name": "Sixt Management Holding GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T11:14:01.261Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50478,6 +50480,7 @@
     "squuid": "5be1a6b6-b5eb-453d-94dc-961e093c7c18",
     "name": "Stingray Digital International Ltd.",
     "state": "active",
+    "controlDate": "2026-01-05T11:58:04.236Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -51392,6 +51395,7 @@
     "squuid": "69396c52-2fc5-492d-bc3d-57f682e7b03b",
     "name": "radical moves GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T11:16:37.234Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51470,8 +51474,9 @@
   },
   {
     "squuid": "69396c70-5032-4564-a97e-db8d908cae3e",
-    "name": "VHB digital GmbH",
+    "name": "VHB ventures GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T11:20:28.884Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -92663,6 +92668,7 @@
     "squuid": "5be1a6b6-5a59-42bc-9ea4-8899488115f8",
     "name": "Stingray Digital Group, Inc.",
     "state": "active",
+    "controlDate": "2026-01-05T11:57:52.927Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -104792,7 +104798,7 @@
     "squuid": "5eb03cfa-1b7a-4248-b668-88f5c24aee10",
     "name": "Strecker GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:09:31.727Z",
+    "controlDate": "2026-01-05T12:07:00.927Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -151665,7 +151671,7 @@
     "squuid": "5ede0b18-f7ae-44d6-bde2-8f1300580d6e",
     "name": "Stein Consult GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T09:49:50.847Z",
+    "controlDate": "2026-01-05T12:09:42.703Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158951,7 +158957,7 @@
     "squuid": "5d398207-cc1c-4fb0-8152-5f28ae95ff03",
     "name": "Straubing Tigers Beteiligungs UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-06-25T10:06:30.990Z",
+    "controlDate": "2026-01-05T12:04:56.769Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163238,7 +163244,7 @@
     "squuid": "5d39890e-bcdd-48b1-85cd-454a4ecdbe29",
     "name": "Stoffel Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T09:53:23.455Z",
+    "controlDate": "2026-01-05T12:03:06.630Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -174450,7 +174456,7 @@
     "squuid": "6357f1bd-f791-4136-b57d-600d30e61fdd",
     "name": "Steger-Ohnesorge GbR",
     "state": "active",
-    "controlDate": "2025-06-25T09:49:19.422Z",
+    "controlDate": "2026-01-05T12:09:14.164Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -195947,6 +195953,19 @@
     ]
   },
   {
+    "squuid": "695b9d53-9f7f-4bf4-9ed6-6d1142a0bd3f",
+    "name": "Sixt, Sven",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d2c6cf1-c283-4f24-9f95-1da1190f89b0",
     "name": "VD Verbraucherschutz Deutschland online e.V.",
     "state": "active",
@@ -196262,6 +196281,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "695b9e2a-ac0e-4711-9134-f0ec955d6e21",
+    "name": "Richarz, Peter",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -200349,7 +200381,7 @@
     "squuid": "5d382b46-6762-4913-82a0-0d0fe24409d9",
     "name": "Straubing Tigers GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-25T10:06:43.282Z",
+    "controlDate": "2026-01-05T12:05:06.316Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -207275,7 +207307,7 @@
     "squuid": "5f06f678-f6df-4a75-bccf-bb2ccec1a9bb",
     "name": "Straubing Tigers Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:06:50.010Z",
+    "controlDate": "2026-01-05T12:05:42.195Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214273,7 +214305,7 @@
     "squuid": "5beed69e-60df-4fa6-b732-a79616af9282",
     "name": "Strecker Stiftung Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:09:44.780Z",
+    "controlDate": "2026-01-05T12:07:17.170Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -216646,7 +216678,7 @@
     "squuid": "5ef5c92e-331b-47ab-8629-9b0215273730",
     "name": "Ströer Management SE",
     "state": "active",
-    "controlDate": "2025-06-25T10:18:35.795Z",
+    "controlDate": "2026-01-05T12:27:30.295Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239184,7 +239216,7 @@
     "squuid": "5be1a6b6-4687-4e9d-be50-4d96ad36af0e",
     "name": "Stroh Druck und Medien GmbH Backnang",
     "state": "active",
-    "controlDate": "2025-06-25T10:13:21.085Z",
+    "controlDate": "2026-01-05T12:22:00.904Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250367,7 +250399,7 @@
     "squuid": "5be1a6b6-03e4-4007-9948-74e88cb1e596",
     "name": "Ströer media brands GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:18:46.387Z",
+    "controlDate": "2026-01-05T12:27:45.488Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264681,7 +264713,7 @@
     "squuid": "5be1a6b6-bcab-4cbe-82df-bf0be2b34cd8",
     "name": "Ströer Digital Publishing GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:17:08.361Z",
+    "controlDate": "2026-01-05T12:25:56.436Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280919,7 +280951,7 @@
     "squuid": "5be1a6b6-710a-4e14-ad65-f50014a6c653",
     "name": "Ströer Content Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:16:56.006Z",
+    "controlDate": "2026-01-05T12:25:43.712Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294068,7 +294100,7 @@
     "squuid": "5be1a6b6-43ee-44de-9553-c946116b08dd",
     "name": "Steingart, Gabor (& Management der Media Pioneer Publishing AG)",
     "state": "active",
-    "controlDate": "2024-07-10T12:46:15.210Z",
+    "controlDate": "2026-01-05T12:09:58.627Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -302837,7 +302869,7 @@
     "squuid": "5be1a6b6-2014-4f1a-9166-a8561d2ee571",
     "name": "Stella Finanz AG",
     "state": "active",
-    "controlDate": "2025-06-25T09:51:24.506Z",
+    "controlDate": "2026-01-05T12:10:37.405Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -308287,7 +308319,7 @@
     "squuid": "5e4fad5d-e90b-497f-a499-881e76ed9e4c",
     "name": "Stone FH GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T10:04:37.310Z",
+    "controlDate": "2026-01-05T12:03:56.608Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -309374,7 +309406,7 @@
     "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0",
     "name": "Steger-Bruhn GbR",
     "state": "active",
-    "controlDate": "2025-06-25T09:49:01.574Z",
+    "controlDate": "2026-01-05T12:08:57.597Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -310688,6 +310720,7 @@
     "squuid": "61544865-7df5-4578-968a-828e93f8c0ba",
     "name": "Stingray Germany GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T11:59:33.126Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
