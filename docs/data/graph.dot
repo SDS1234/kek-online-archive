@@ -146863,7 +146863,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=3
-    num_medias_weighted=0.1978
+    num_medias_weighted=0.1499
     name="5be1a6b6-c496-445d-ad48-efda55221d96"
     in_degree=0
     out_degree=1
@@ -148219,7 +148219,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=3
-    num_medias_weighted=0.1978
+    num_medias_weighted=0.1499
     name="5be1a6b6-3468-4148-a435-08704e52004f"
     in_degree=1
     out_degree=1
@@ -266950,7 +266950,7 @@ digraph {
     type=owns
   ];
   12351 -> 5380 [
-    weight=26.38
+    weight=19.99
     type=owns
   ];
   12354 -> 1012 [
