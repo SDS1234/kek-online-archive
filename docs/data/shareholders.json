@@ -26425,7 +26425,7 @@
     "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed",
     "name": "Süddeutscher Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T10:38:15.990Z",
+    "controlDate": "2026-01-05T17:21:50.307Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -154561,7 +154561,7 @@
     "squuid": "61f2a1b5-f8e6-4940-baee-f38226ebe808",
     "name": "Süddeutscher Verlag Hüthig Fachinformationen GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T10:40:26.445Z",
+    "controlDate": "2026-01-05T17:27:04.260Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -180769,7 +180769,7 @@
     "squuid": "5dea6fc9-e5fd-4dbc-b9eb-52b5e6657157",
     "name": "Süddeutsche Zeitung GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T10:32:44.447Z",
+    "controlDate": "2026-01-05T17:12:55.598Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201608,6 +201608,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "695bf519-25dd-4c3f-a861-2180a2103f1c",
+    "name": "Kurpfälzische Verlagsbeteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -305584,7 +305597,7 @@
     "squuid": "5be1a6b6-5776-4e25-a11e-81ab43a31280",
     "name": "Süddeutsche Zeitung Digitale Medien GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T10:26:22.035Z",
+    "controlDate": "2026-01-05T17:12:00.149Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

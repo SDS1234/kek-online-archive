@@ -21197,7 +21197,7 @@
     "rfStatewide": false,
     "name": "Süddeutsche Zeitung Langstrecke",
     "type": "print",
-    "controlDate": "2025-06-26T10:33:17.670Z",
+    "controlDate": "2026-01-05T17:14:45.142Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -46363,7 +46363,7 @@
     "name": "www.sz-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T10:36:04.362Z",
+    "controlDate": "2026-01-05T17:16:51.147Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46616,7 +46616,7 @@
     "name": "www.sz-dossier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T10:35:56.162Z",
+    "controlDate": "2026-01-05T17:16:41.933Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -95432,7 +95432,7 @@
     "rfStatewide": false,
     "name": "Süddeutsche Zeitung",
     "type": "print",
-    "controlDate": "2025-06-26T10:32:54.887Z",
+    "controlDate": "2026-01-05T17:14:29.138Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95475,7 +95475,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T10:26:29.236Z",
+    "controlDate": "2026-01-05T17:16:24.368Z",
     "state": "active"
   },
   {
@@ -135640,7 +135640,7 @@
     "name": "www.jetzt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T10:35:37.438Z",
+    "controlDate": "2026-01-05T17:15:41.920Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
