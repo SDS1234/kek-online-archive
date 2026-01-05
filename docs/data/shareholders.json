@@ -70805,7 +70805,7 @@
     "name": "München Live TV Fernsehen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-528c-4d6f-a94d-5b2d81a28258",
-    "controlDate": "2025-12-02T12:28:45.033Z",
+    "controlDate": "2026-01-05T09:33:00.691Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194976,6 +194976,19 @@
     ]
   },
   {
+    "squuid": "695b8d09-b1af-4738-9afa-111e57db1067",
+    "name": "Kindler, Thomas",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f197128-f788-4c1e-b89b-a824841088fa",
     "name": "Knörrer GmbH",
     "state": "active",
@@ -312653,7 +312666,7 @@
   },
   {
     "squuid": "6943ebfb-8f28-4415-af9e-171789776eac",
-    "name": "Traue, Wolfhard",
+    "name": "Träue, Wolfhard",
     "state": "active",
     "organizations": [
       {
@@ -312744,6 +312757,7 @@
     "squuid": "6943ec09-3ea2-422f-8aa4-05ec45777d85",
     "name": "Automatenmüller GmbH",
     "state": "active",
+    "controlDate": "2026-01-05T10:04:20.364Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
