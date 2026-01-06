@@ -3287,7 +3287,7 @@
     "rfStatewide": false,
     "name": "Alb Bote (Waldshut)",
     "type": "print",
-    "controlDate": "2025-06-26T10:49:37.158Z",
+    "controlDate": "2026-01-06T11:06:31.325Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89420,7 +89420,7 @@
     "rfStatewide": false,
     "name": "Südkurier",
     "type": "print",
-    "controlDate": "2025-06-26T10:51:47.734Z",
+    "controlDate": "2026-01-06T11:06:41.455Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89462,7 +89462,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T10:56:16.159Z",
+    "controlDate": "2026-01-06T11:06:57.815Z",
     "state": "active"
   },
   {
@@ -110856,7 +110856,7 @@
     "name": "www.albbote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T10:56:05.477Z",
+    "controlDate": "2026-01-06T11:06:48.488Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
