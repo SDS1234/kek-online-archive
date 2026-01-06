@@ -18500,7 +18500,7 @@
     "squuid": "5be1a6b6-3997-4dea-9ac1-6ab3f4f04f07",
     "name": "Tele Regional - Antenne Passau Hörfunkanbieter GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T16:53:31.001Z",
+    "controlDate": "2026-01-06T13:09:26.711Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38541,15 +38541,6 @@
         "held": {
           "squuid": "5be1a6b1-69c1-4b01-800b-20e67e807b17",
           "name": "Nickelodeon"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-c044-4485-b4f8-51c15b2225ff",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-d8f4-493f-9c94-7df55636cf3a",
-          "name": "MTV"
         }
       },
       {
@@ -69410,7 +69401,7 @@
     "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23",
     "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
     "state": "active",
-    "controlDate": "2025-06-26T16:57:58.296Z",
+    "controlDate": "2026-01-06T13:12:24.387Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -200249,7 +200240,7 @@
     "squuid": "5d2d9fe2-0af2-434e-89bb-90055ca1b8dc",
     "name": "Telegraph Media Group Ltd.",
     "state": "active",
-    "controlDate": "2025-06-26T16:58:25.267Z",
+    "controlDate": "2026-01-06T13:12:52.202Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -208469,7 +208460,7 @@
     "squuid": "62712a29-16f0-4513-ae9d-1f2a532ee2b6",
     "name": "Telco.Media Creations Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T16:35:56.876Z",
+    "controlDate": "2026-01-06T13:07:32.503Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -210040,7 +210031,7 @@
     "squuid": "5c88e412-1106-4678-9ff8-f648146dac1d",
     "name": "Teleradio-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-26T17:00:57.575Z",
+    "controlDate": "2026-01-06T13:13:32.931Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -217409,7 +217400,7 @@
     "squuid": "5be1a6b6-2fd6-4fa9-98ca-3745cc69da43",
     "name": "TeleVision Zwickau GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T16:55:05.150Z",
+    "controlDate": "2026-01-06T13:16:07.563Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230788,7 +230779,7 @@
     "squuid": "5f032a2a-cd7a-4df6-916c-23dc6024cfda",
     "name": "Tele-München Fernseh-GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T16:57:23.880Z",
+    "controlDate": "2026-01-06T13:10:28.178Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -256191,7 +256182,7 @@
     "squuid": "5be1a6b6-6094-4054-9cf9-a01fca2f5286",
     "name": "Tecvia GmbH",
     "state": "active",
-    "controlDate": "2025-06-26T16:29:49.335Z",
+    "controlDate": "2026-01-06T12:58:33.437Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282026,6 +282017,7 @@
     "squuid": "5be1a6b6-2cbe-4187-8d1e-8b527e4c283f",
     "name": "Telesystem Media Can Inc.",
     "state": "active",
+    "controlDate": "2026-01-06T13:15:43.882Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
