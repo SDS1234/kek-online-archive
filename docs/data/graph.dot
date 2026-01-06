@@ -6076,8 +6076,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Bad Kreuznach 88,3"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=5.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-daff-4da1-a57a-13eb623791cf"
@@ -6208,8 +6208,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Frankfurt 95.1"
-    num_owners=16
-    num_owners_weighted=11.7410
+    num_owners=17
+    num_owners_weighted=12.0685
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7faf-41eb-91a7-71fe507f55af"
@@ -6220,8 +6220,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Idar Oberstein 87.6"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=5.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-18c5-4f72-b9ad-b9b029e86832"
@@ -6256,8 +6256,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Koblenz 98.0"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-44f9-4ad5-8d4a-7032caf8ae0d"
@@ -6520,8 +6520,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Pfalz 94.2"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4fe8-4a0b-9d49-75fcee13ca97"
@@ -6676,8 +6676,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Trier"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5c73c06e-0668-446e-8dfb-819d85ebe16e"
@@ -8085,7 +8085,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-e89f-4606-870e-ff1fd525b50f"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   674 [
@@ -24904,8 +24904,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio Homburg"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="686f6e86-f42b-4e61-b27d-d6c33d72594f"
@@ -24916,8 +24916,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio Neunkirchen"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="686f6ea5-c1d6-4212-b05d-7c69f8581bdf"
@@ -24928,8 +24928,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio Saarbrücken"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="686f6eba-e195-472e-bc4e-133c9d685e39"
@@ -24940,8 +24940,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio Saarland"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="68766ff7-a8c5-4f19-88f3-3de6adc8314e"
@@ -24964,8 +24964,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio Saarlouis"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="686f6e6e-0e97-41f9-946f-cbbd99d8eb39"
@@ -24988,8 +24988,8 @@ digraph {
     type=radio
     state=active
     label="CityRadio St. Wendel"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="686f6e3d-8401-4d4c-aaf2-f20a2d8f512a"
@@ -48148,8 +48148,8 @@ digraph {
     type=shareholder
     state=active
     label="Frankfurt Business Radio GmbH & Co. Betriebs KG"
-    num_owners=16
-    num_owners_weighted=10.7410
+    num_owners=17
+    num_owners_weighted=11.0685
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-459f-4276-9a2e-c2715db219a5"
@@ -85912,8 +85912,8 @@ digraph {
     type=shareholder
     state=active
     label="Lokal-Radio Cottbus GmbH"
-    num_owners=100
-    num_owners_weighted=10.8899
+    num_owners=101
+    num_owners_weighted=11.2969
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-9417-45d2-b1c0-971ab49e6394"
@@ -86476,8 +86476,8 @@ digraph {
     type=shareholder
     state=active
     label="Lokalradios RLP GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=3
     num_medias_weighted=3.0000
     name="619d1a15-5b66-4eba-aa07-016cd96a9de9"
@@ -114640,8 +114640,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio 4 in 1 Geschäftsführungs GmbH"
-    num_owners=16
-    num_owners_weighted=11.7410
+    num_owners=17
+    num_owners_weighted=12.0685
     num_medias=2
     num_medias_weighted=0.0000
     name="5f369448-2d46-4344-a897-23daa7cea714"
@@ -115708,8 +115708,8 @@ digraph {
     type=radio
     state=active
     label="Radio Cottbus (Brandenburg)"
-    num_owners=101
-    num_owners_weighted=11.8899
+    num_owners=102
+    num_owners_weighted=12.2969
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d9f7-415b-8dc0-bfb7ac216dae"
@@ -116308,8 +116308,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Frankfurt Media GmbH"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=2
     num_medias_weighted=1.4425
     name="5be1a6b6-6873-41c3-9937-cc5b685c758f"
@@ -116980,8 +116980,8 @@ digraph {
     type=radio
     state=active
     label="RADIO HOLIDAY"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="6870c684-9c03-4f09-9857-1367dc66d379"
@@ -116992,8 +116992,8 @@ digraph {
     type=radio
     state=active
     label="Radio Holiday"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="61669008-016d-44bd-9f82-61b62263df3e"
@@ -117004,8 +117004,8 @@ digraph {
     type=radio
     state=active
     label="RADIO HOLIDAY (Berlin)"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="63c54cb1-c38d-4981-9a77-b279e8239cc9"
@@ -117016,8 +117016,8 @@ digraph {
     type=radio
     state=active
     label="Radio Holiday (SLM)"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="634ebc43-c3bb-495f-82c5-6ed805be67b7"
@@ -117028,8 +117028,8 @@ digraph {
     type=radio
     state=active
     label="Radio Holiday (Thüringen)"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="685131de-b9cb-4f4c-aea3-18893bccd17c"
@@ -117040,8 +117040,8 @@ digraph {
     type=radio
     state=active
     label="Radio Homburg"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5939-4023-813e-15687d25e437"
@@ -117844,8 +117844,8 @@ digraph {
     type=radio
     state=active
     label="Radio Neunkirchen 94.6"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-291b-43fc-ae21-db0b44407fa8"
@@ -151348,8 +151348,8 @@ digraph {
     type=shareholder
     state=active
     label="The Radio Group GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-1e78-44d0-ab3c-dc3f9a827c64"
@@ -151384,8 +151384,8 @@ digraph {
     type=shareholder
     state=active
     label="The Radio Group GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=23
     num_medias_weighted=22.4425
     name="5be1a6b6-412b-4ae5-b2e9-ec72b2cdc4d3"
@@ -151408,8 +151408,8 @@ digraph {
     type=shareholder
     state=active
     label="The Radio Group Holding GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=3
+    num_owners_weighted=2.7400
     num_medias=33
     num_medias_weighted=31.5425
     name="5be1a6b6-0b31-4cd0-88b2-e247324913be"
@@ -151486,7 +151486,7 @@ digraph {
     num_medias_weighted=1.8866
     name="5be1a6b6-eb02-41f1-8b69-58db68c8db1f"
     in_degree=0
-    out_degree=10
+    out_degree=9
   ];
   12624 [
     type=shareholder
@@ -171352,8 +171352,8 @@ digraph {
     type=online
     state=active
     label="www.antenne-kl.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="645d0f9a-401d-463e-91a1-f51324f8a2c6"
@@ -171376,8 +171376,8 @@ digraph {
     type=online
     state=active
     label="www.antenne-koblenz.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3bbd41-4e1d-47de-93b4-84a0322b84d5"
@@ -171388,8 +171388,8 @@ digraph {
     type=online
     state=active
     label="www.antenne-landau.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3bc12c-d7d0-4bb7-b904-5baa9a699ade"
@@ -171412,8 +171412,8 @@ digraph {
     type=online
     state=active
     label="www.antenne-pfalz.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="6672bb9a-a7aa-4e82-bd5f-ece23044ff28"
@@ -171448,8 +171448,8 @@ digraph {
     type=online
     state=active
     label="www.antenne-trier.com"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3bc5c9-9fda-4966-abbb-1e6dfad93428"
@@ -171496,8 +171496,8 @@ digraph {
     type=online
     state=active
     label="www.antenne.nrw"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=3.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="618d065d-0ca8-48d0-aaf5-7e279bc50107"
@@ -195664,8 +195664,8 @@ digraph {
     type=online
     state=active
     label="www.radiocottbus.de"
-    num_owners=101
-    num_owners_weighted=11.8899
+    num_owners=102
+    num_owners_weighted=12.2969
     num_medias=0
     num_medias_weighted=0.0000
     name="5f33f276-2be6-4ceb-bc85-d9dae8b2cb24"
@@ -195856,8 +195856,8 @@ digraph {
     type=online
     state=active
     label="www.radiofrankfurt.de"
-    num_owners=16
-    num_owners_weighted=11.7410
+    num_owners=17
+    num_owners_weighted=12.0685
     num_medias=0
     num_medias_weighted=0.0000
     name="5f369128-3772-4f36-99b6-28556dceb7a8"
@@ -196012,8 +196012,8 @@ digraph {
     type=online
     state=active
     label="www.radioholiday.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=4.7400
     num_medias=0
     num_medias_weighted=0.0000
     name="61ee9437-b4cf-44ab-8729-9d53fae3d165"
@@ -268039,10 +268039,6 @@ digraph {
   ];
   12623 -> 435 [
     weight=7.64
-    type=owns
-  ];
-  12623 -> 673 [
-    weight=7.15
     type=owns
   ];
   12623 -> 423 [
