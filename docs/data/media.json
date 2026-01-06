@@ -103,7 +103,7 @@
     "name": "Südwest Presse Zolleralbkreis/Schmiecha Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T11:06:29.028Z",
+    "controlDate": "2026-01-06T11:33:13.095Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -11290,7 +11290,7 @@
     "rfStatewide": false,
     "name": "Schwarzweiß",
     "type": "print",
-    "controlDate": "2025-06-26T16:14:58.120Z",
+    "controlDate": "2026-01-06T12:25:54.064Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -25774,7 +25774,7 @@
     "name": "Der Steinfurter",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T16:13:39.701Z",
+    "controlDate": "2026-01-06T12:25:31.792Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32110,7 +32110,7 @@
     "name": "RegioBusiness",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T11:00:03.148Z",
+    "controlDate": "2026-01-06T11:27:57.609Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36640,7 +36640,7 @@
     "name": "www.dasding.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:36:14.052Z",
+    "controlDate": "2026-01-06T11:43:00.522Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -62621,7 +62621,7 @@
     "name": "www.swrfernsehen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:39:02.861Z",
+    "controlDate": "2026-01-06T11:45:19.543Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -63634,7 +63634,7 @@
     "name": "www.naturfoto-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T16:15:53.744Z",
+    "controlDate": "2026-01-06T12:26:20.831Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70265,7 +70265,7 @@
     "rfStatewide": false,
     "name": "Alb Bote (Münsingen)",
     "type": "print",
-    "controlDate": "2025-06-14T11:46:41.460Z",
+    "controlDate": "2026-01-06T11:31:26.995Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -71095,7 +71095,7 @@
     "name": "Hohenlohe Trends",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T10:59:12.841Z",
+    "controlDate": "2026-01-06T11:27:15.673Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80258,7 +80258,7 @@
     "rfStatewide": false,
     "name": "Usinger Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-26T15:59:50.101Z",
+    "controlDate": "2026-01-06T12:07:10.563Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84352,7 +84352,7 @@
     "rfStatewide": false,
     "name": "Südwest Presse/Metzinger-Uracher Volksblatt",
     "type": "print",
-    "controlDate": "2025-06-26T11:07:05.097Z",
+    "controlDate": "2026-01-06T11:33:40.921Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84372,7 +84372,7 @@
     "rfStatewide": false,
     "name": "Reutlinger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-26T11:06:15.169Z",
+    "controlDate": "2026-01-06T11:33:03.647Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84725,7 +84725,7 @@
     "rfStatewide": false,
     "name": "Hohenzollerische Zeitung",
     "type": "print",
-    "controlDate": "2025-06-26T11:05:24.832Z",
+    "controlDate": "2026-01-06T11:32:46.800Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86937,7 +86937,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T15:53:39.151Z",
+    "controlDate": "2026-01-06T11:57:22.859Z",
     "state": "active"
   },
   {
@@ -89700,7 +89700,7 @@
     "rfStatewide": false,
     "name": "taz. die tageszeitung",
     "type": "print",
-    "controlDate": "2025-06-26T16:02:58.845Z",
+    "controlDate": "2026-01-06T12:15:52.906Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89771,7 +89771,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T16:03:10.062Z",
+    "controlDate": "2026-01-06T12:16:03.718Z",
     "state": "active"
   },
   {
@@ -89786,7 +89786,7 @@
     "rfStatewide": false,
     "name": "NaturFoto",
     "type": "print",
-    "controlDate": "2025-06-26T16:14:37.427Z",
+    "controlDate": "2026-01-06T12:25:47.975Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89807,7 +89807,7 @@
     "rfStatewide": false,
     "name": "Münsterland",
     "type": "print",
-    "controlDate": "2025-06-26T16:14:17.211Z",
+    "controlDate": "2026-01-06T12:25:42.224Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89828,7 +89828,7 @@
     "rfStatewide": false,
     "name": "terra",
     "type": "print",
-    "controlDate": "2025-06-26T16:15:45.505Z",
+    "controlDate": "2026-01-06T12:26:13.235Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89918,7 +89918,7 @@
     "rfStatewide": false,
     "name": "Wirtschaft Münsterland",
     "type": "print",
-    "controlDate": "2025-06-26T16:15:33.686Z",
+    "controlDate": "2026-01-06T12:26:03.232Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112358,7 +112358,7 @@
     "rfStatewide": false,
     "name": "Haller Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-26T10:58:56.456Z",
+    "controlDate": "2026-01-06T11:27:02.409Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112378,7 +112378,7 @@
     "rfStatewide": false,
     "name": "Hohenloher Tagblatt",
     "type": "print",
-    "controlDate": "2025-06-26T10:59:39.693Z",
+    "controlDate": "2026-01-06T11:27:31.738Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112398,7 +112398,7 @@
     "rfStatewide": false,
     "name": "Rundschau",
     "type": "print",
-    "controlDate": "2025-06-26T11:01:04.583Z",
+    "controlDate": "2026-01-06T11:28:57.787Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119395,7 +119395,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-26T16:00:05.169Z",
+    "controlDate": "2026-01-06T12:07:25.131Z",
     "state": "active"
   },
   {
@@ -126109,7 +126109,7 @@
     "name": "www.suedwest24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T11:18:29.268Z",
+    "controlDate": "2026-01-06T11:37:39.584Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128148,7 +128148,7 @@
     "name": "www.swr.de/swr1/bw",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:37:44.217Z",
+    "controlDate": "2026-01-06T11:44:07.223Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128216,7 +128216,7 @@
     "name": "www.swr.de/swr1/rp",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:37:52.393Z",
+    "controlDate": "2026-01-06T11:44:18.614Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128288,7 +128288,7 @@
     "name": "www.swr.de/swraktuell",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:38:39.249Z",
+    "controlDate": "2026-01-06T11:44:58.877Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128405,7 +128405,7 @@
     "name": "www.swr.de/swr4/bw",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:38:16.102Z",
+    "controlDate": "2026-01-06T11:44:39.565Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128429,7 +128429,7 @@
     "name": "www.swr.de/swr4/rp",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:38:28.000Z",
+    "controlDate": "2026-01-06T11:44:48.925Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128477,7 +128477,7 @@
     "name": "www.swr.de/swr2",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:38:04.206Z",
+    "controlDate": "2026-01-06T11:44:30.248Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128917,7 +128917,7 @@
     "name": "www.baden24.de",
     "type": "online",
     "squuid": "6634f8bc-b0f0-49c6-9d64-278a2ac03bbb",
-    "controlDate": "2025-06-26T11:17:29.197Z",
+    "controlDate": "2026-01-06T11:35:48.213Z",
     "state": "active"
   },
   {
@@ -128932,7 +128932,7 @@
     "name": "Meier - Taste of Culture",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T15:44:53.700Z",
+    "controlDate": "2026-01-06T11:51:18.868Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129107,7 +129107,7 @@
     "name": "www.wochenblatt-reporter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:45:53.766Z",
+    "controlDate": "2026-01-06T11:51:37.948Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132519,7 +132519,7 @@
     "name": "www.tk.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T16:10:48.656Z",
+    "controlDate": "2026-01-06T12:21:26.679Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137045,7 +137045,7 @@
     "name": "taz FUTURZWEI",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T16:02:46.518Z",
+    "controlDate": "2026-01-06T12:14:19.745Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137867,7 +137867,7 @@
     "name": "www.swrmediathek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:39:10.615Z",
+    "controlDate": "2026-01-06T11:45:29.092Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137949,7 +137949,7 @@
     "name": "www.swr3.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:38:50.650Z",
+    "controlDate": "2026-01-06T11:45:10.157Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149986,7 +149986,7 @@
     "name": "www.swr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-26T15:37:05.409Z",
+    "controlDate": "2026-01-06T11:43:26.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156584,7 +156584,7 @@
     "name": "WALD/E/MAR",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T15:45:05.084Z",
+    "controlDate": "2026-01-06T11:51:29.092Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156648,7 +156648,7 @@
     "name": "Dehäm",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T15:43:58.457Z",
+    "controlDate": "2026-01-06T11:51:09.380Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156732,7 +156732,7 @@
     "name": "Wochentaz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-26T16:02:33.965Z",
+    "controlDate": "2026-01-06T12:12:02.408Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
