@@ -4173,7 +4173,7 @@
     "squuid": "5d309384-5fa8-475a-9b1a-5154c85d1934",
     "name": "TILEO Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:03:25.020Z",
+    "controlDate": "2026-01-07T10:39:41.875Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -5534,7 +5534,7 @@
     "squuid": "6087d720-52ba-40db-8566-6031ef6a7797",
     "name": "Trampas Vermögensverwaltungs und Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-27T10:40:23.671Z",
+    "controlDate": "2026-01-07T11:08:34.448Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -6793,7 +6793,7 @@
     "squuid": "5be1a6b6-69bb-4f9a-9f1d-2977263dc31a",
     "name": "tmc Content Group AG",
     "state": "active",
-    "controlDate": "2025-06-27T10:20:23.846Z",
+    "controlDate": "2026-01-07T10:50:59.134Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -28766,7 +28766,7 @@
     "squuid": "5f2970c2-5984-4eab-b1aa-fed84bbf7cc8",
     "name": "Toskanaworld AG",
     "state": "active",
-    "controlDate": "2025-06-27T10:34:42.577Z",
+    "controlDate": "2026-01-07T11:07:19.612Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -48719,7 +48719,7 @@
     "squuid": "5be1a6b6-8dde-4c06-b3b9-aab28b13e701",
     "name": "Thimme-Schmidt GbR",
     "state": "active",
-    "controlDate": "2025-06-27T09:53:03.460Z",
+    "controlDate": "2026-01-07T09:47:56.365Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51486,7 +51486,7 @@
     "squuid": "5be1a6b6-44e1-422c-ba9a-315508c4cf22",
     "name": "tmc Content Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:18:40.691Z",
+    "controlDate": "2026-01-07T10:51:05.010Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -69035,7 +69035,7 @@
     "squuid": "5be1a6b6-8579-452c-af92-6700f936c40c",
     "name": "Time Warner London Ltd.",
     "state": "active",
-    "controlDate": "2025-06-27T10:04:35.611Z",
+    "controlDate": "2026-01-07T10:40:43.990Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -69053,7 +69053,7 @@
     "squuid": "5be1a6b6-0963-48c7-a32b-6b57a1b02818",
     "name": "Time Warner Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-06-27T10:04:19.692Z",
+    "controlDate": "2026-01-07T10:40:33.597Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -81294,7 +81294,7 @@
     "squuid": "5be1a6b6-3a6e-45f5-936e-4d3d5fead399",
     "name": "Time Warner UK Holdings, Inc.",
     "state": "active",
-    "controlDate": "2025-06-27T10:04:56.800Z",
+    "controlDate": "2026-01-07T10:40:56.532Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -161422,7 +161422,7 @@
     "squuid": "670e3ccc-8d31-4ed6-a4c1-44a3fe730d06",
     "name": "TM Vision GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:16:34.491Z",
+    "controlDate": "2026-01-07T10:50:34.227Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -187772,7 +187772,7 @@
     "squuid": "5f059c15-7f0b-46a8-b827-84b0a532a129",
     "name": "Transfermarkt Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:41:23.888Z",
+    "controlDate": "2026-01-07T11:09:36.194Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191718,6 +191718,7 @@
     "squuid": "685bbcec-6195-4636-bf95-36a5489c2686",
     "name": "Thüga AG",
     "state": "active",
+    "controlDate": "2026-01-07T10:28:19.715Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204943,6 +204944,19 @@
     ]
   },
   {
+    "squuid": "695e36aa-95b3-4561-959f-1b9d8ea4a01f",
+    "name": "Thüga Holding GmbH & Co. KGaA",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "63d7cc7a-7981-4914-b26f-86f6c57fd114",
     "name": "Verlag Nibelungen Kurier GmbH",
     "state": "active",
@@ -204972,6 +204986,19 @@
           "squuid": "6777d6e9-c61a-424a-baf7-0c96680fe40a",
           "name": "www.nibelungen-kurier.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "695e36ef-ea3b-4ba9-9a05-fc8e02a0a5d7",
+    "name": "CONTIGAS Deutsche Energie-AG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -206487,7 +206514,7 @@
     "squuid": "5ee9fe85-5fd7-4f8b-a07e-3dceb5731543",
     "name": "Titanic GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:14:10.156Z",
+    "controlDate": "2026-01-07T10:47:39.120Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225606,7 +225633,7 @@
     "squuid": "5be1a6b6-b807-4b4e-bf8c-6f883898e5fe",
     "name": "thinXpool TV GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T09:53:57.795Z",
+    "controlDate": "2026-01-07T09:49:12.987Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -234261,7 +234288,7 @@
     "name": "Torgauer Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2f2c-4982-bfbd-7745651ec2df",
-    "controlDate": "2025-06-27T10:24:51.181Z",
+    "controlDate": "2026-01-07T11:00:16.806Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247308,7 +247335,7 @@
     "squuid": "5be1a6b6-1833-4087-91be-d030f3078caf",
     "name": "Tip Berlin Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:05:47.647Z",
+    "controlDate": "2026-01-07T10:41:08.377Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250947,7 +250974,7 @@
     "name": "Transfermarkt GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e50d-423a-bf4d-ed907211e84c",
-    "controlDate": "2025-06-27T10:41:32.296Z",
+    "controlDate": "2026-01-07T11:10:39.036Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251979,7 +252006,7 @@
     "squuid": "5be1a6b6-b6c7-4aa3-9969-372094de1b91",
     "name": "Tiburon Unternehmensaufbau GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:01:12.835Z",
+    "controlDate": "2026-01-07T10:37:22.521Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253668,7 +253695,7 @@
     "squuid": "5be1a6b6-da9e-4e13-97c0-31429fc8f8b0",
     "name": "Thywissen MV-Familiengesellschaft KG",
     "state": "active",
-    "controlDate": "2025-06-27T09:57:25.059Z",
+    "controlDate": "2026-01-07T10:26:47.729Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -280400,7 +280427,7 @@
     "squuid": "5ee38924-0e82-484a-a560-fd26772a3be3",
     "name": "Torgauer Verlag Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:24:17.707Z",
+    "controlDate": "2026-01-07T10:59:20.561Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -302211,7 +302238,7 @@
     "squuid": "5be1a6b6-c445-40b6-a418-85de6c9601db",
     "name": "Tichys Einblick GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T09:58:44.105Z",
+    "controlDate": "2026-01-07T10:37:44.901Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305214,7 +305241,7 @@
     "name": "TITANIC Verlag Georg-Büchner-Verlagsbuchhandlung GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9567-4eea-a7e2-defeec5bbcbc",
-    "controlDate": "2025-06-27T10:14:47.439Z",
+    "controlDate": "2026-01-07T10:47:50.764Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305299,7 +305326,7 @@
     "squuid": "5be1a6b6-1c15-410b-bf80-0bc9957173ce",
     "name": "Titanic GbR",
     "state": "active",
-    "controlDate": "2025-06-27T10:13:43.340Z",
+    "controlDate": "2026-01-07T10:45:54.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -311929,7 +311956,7 @@
     "squuid": "62ebc334-a4ad-4d37-bbb7-29faa0dab75a",
     "name": "tracdelight GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T10:35:12.473Z",
+    "controlDate": "2026-01-07T11:07:42.442Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
