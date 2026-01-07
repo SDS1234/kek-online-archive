@@ -154576,7 +154576,7 @@ digraph {
     type=shareholder
     state=active
     label="TV Produktions- und Betriebsgesellschaft mbH & Co. KG, Jena"
-    num_owners=12
+    num_owners=11
     num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
@@ -154588,8 +154588,8 @@ digraph {
     type=shareholder
     state=active
     label="TV Produktions- und Betriebsverwaltungs-GmbH"
-    num_owners=11
-    num_owners_weighted=6.7800
+    num_owners=10
+    num_owners_weighted=6.1600
     num_medias=2
     num_medias_weighted=0.0000
     name="5f33d935-9fb2-4832-84cd-9a36180205d8"
@@ -185740,7 +185740,7 @@ digraph {
     type=online
     state=active
     label="www.jenatv.de"
-    num_owners=13
+    num_owners=12
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
