@@ -134647,7 +134647,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=249
-    num_medias_weighted=2.4905
+    num_medias_weighted=2.4971
     name="5be1a6b6-efd2-452d-8297-8b440d2989b9"
     in_degree=0
     out_degree=3
@@ -134659,7 +134659,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=248
-    num_medias_weighted=0.7391
+    num_medias_weighted=0.7412
     name="61718e49-6e8d-4aac-936e-5b1bd08a4358"
     in_degree=0
     out_degree=1
@@ -148504,7 +148504,7 @@ digraph {
     type=shareholder
     state=active
     label="SZ Beteiligungs GmbH & Co. KG"
-    num_owners=12
+    num_owners=13
     num_owners_weighted=12.0000
     num_medias=247
     num_medias_weighted=0.0000
@@ -151624,8 +151624,8 @@ digraph {
     type=shareholder
     state=active
     label="Theiss & Binkowski Aalen Verwaltungs-GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=13
+    num_owners_weighted=13.0000
     num_medias=247
     num_medias_weighted=0.0000
     name="685d1052-bf6f-48e3-870a-6d67a34a1d42"
@@ -151843,7 +151843,7 @@ digraph {
     num_owners=4
     num_owners_weighted=2.0000
     num_medias=248
-    num_medias_weighted=3.0796
+    num_medias_weighted=3.0883
     name="5be1a6b6-2d9f-4cd2-a3ef-b4fa144d995e"
     in_degree=3
     out_degree=7
