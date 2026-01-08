@@ -645,7 +645,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-a391-42c5-8957-780578e6eb63"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   54 [
@@ -112696,7 +112696,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern GmbH & Co. KG"
-    num_owners=485
+    num_owners=501
     num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
@@ -112708,8 +112708,8 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern Verwaltungs-GmbH"
-    num_owners=484
-    num_owners_weighted=17.8616
+    num_owners=500
+    num_owners_weighted=18.6963
     num_medias=2
     num_medias_weighted=0.0000
     name="60bf33f1-d3f1-46a9-b894-e9d883037faf"
@@ -129796,7 +129796,7 @@ digraph {
     type=tv
     state=active
     label="Sat.1 17:30 live für Bayern (Regionalfenster)"
-    num_owners=486
+    num_owners=502
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -129820,8 +129820,8 @@ digraph {
     type=shareholder
     state=active
     label="Sat.1 Bayern GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-8c9c-42d1-b7f0-9e708d37c69f"
@@ -154696,8 +154696,8 @@ digraph {
     type=shareholder
     state=active
     label="tv weiss-blau Rundfunkprogrammanbieter GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=17
+    num_owners_weighted=9.3476
     num_medias=2
     num_medias_weighted=0.2000
     name="5be1a6b6-6cca-4e9f-8aa9-dc6529f65bc5"
@@ -154746,11 +154746,11 @@ digraph {
     label="TV-BB / Fernsehen in Brandenburg GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68359340-d35c-4977-8db4-cb5ce467ba8d"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   12896 [
     type=tv
@@ -155090,27 +155090,27 @@ digraph {
   ];
   12924 [
     type=shareholder
-    state=active
+    state=archived
     label="TW Wochenspiegel GmbH & Co. KG"
-    num_owners=5
-    num_owners_weighted=4.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="63da9599-bde4-4ab3-ad47-82cd6eee4bcb"
-    in_degree=2
-    out_degree=2
+    in_degree=1
+    out_degree=0
   ];
   12925 [
     type=shareholder
-    state=active
+    state=archived
     label="TW Wochenspiegel Verwaltungs-GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
-    num_medias=1
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="63da95ac-8dce-4900-8cc2-327704ab48ed"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   12926 [
     type=shareholder
@@ -155170,7 +155170,7 @@ digraph {
     num_medias_weighted=1.0020
     name="5be1a6b6-2d20-4299-aca2-0cd9d45607e2"
     in_degree=1
-    out_degree=3
+    out_degree=2
   ];
   12931 [
     type=shareholder
@@ -192040,8 +192040,8 @@ digraph {
     type=online
     state=active
     label="www.newstime.joyn.de/themen/sat1-bayern"
-    num_owners=503
-    num_owners_weighted=11.3476
+    num_owners=502
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f7f18a4-2522-4a73-987e-7a412c9d1648"
@@ -203666,14 +203666,14 @@ digraph {
   ];
   16972 [
     type=online
-    state=active
+    state=archived
     label="www.tvbb.online"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f217827-fc38-42bf-a461-3f2833b3c77d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16973 [
@@ -206644,12 +206644,12 @@ digraph {
     type=online
     state=active
     label="www.wochenspiegellive.de"
-    num_owners=16
-    num_owners_weighted=9.0000
+    num_owners=14
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63da945d-6ae6-4a24-9ea1-1f5e5db5504c"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   17221 [
@@ -208458,8 +208458,8 @@ digraph {
     label="Yigit, Dursun"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="65b2570b-11e4-461e-914a-2e3c3462a74f"
     in_degree=0
     out_degree=1
@@ -269077,10 +269077,6 @@ digraph {
     weight=100
     type=owns
   ];
-  12895 -> 16972 [
-    weight=100
-    type=operates
-  ];
   12898 -> 7861 [
     weight=100
     type=operates
@@ -269141,18 +269137,6 @@ digraph {
     weight=13
     type=owns
   ];
-  12924 -> 12925 [
-    weight=100
-    type=owns
-  ];
-  12924 -> 17220 [
-    weight=100
-    type=operates
-  ];
-  12925 -> 12924 [
-    weight=1
-    type=owns
-  ];
   12926 -> 3310 [
     weight=100
     type=operates
@@ -269162,10 +269146,6 @@ digraph {
     type=owns
   ];
   12930 -> 51 [
-    weight=100
-    type=owns
-  ];
-  12930 -> 53 [
     weight=100
     type=owns
   ];

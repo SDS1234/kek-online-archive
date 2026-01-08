@@ -395,23 +395,13 @@
     "squuid": "68359340-d35c-4977-8db4-cb5ce467ba8d",
     "name": "TV-BB / Fernsehen in Brandenburg GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T10:34:10.759Z",
+    "controlDate": "2026-01-08T11:14:20.067Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "683593e6-c37b-4fa4-8356-b096e1c7b3c8",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f217827-fc38-42bf-a461-3f2833b3c77d",
-          "name": "www.tvbb.online"
-        }
       }
     ]
   },
@@ -8801,7 +8791,7 @@
     "squuid": "5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41",
     "name": "UFA Film und Fernseh GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:36:17.010Z",
+    "controlDate": "2026-01-08T12:04:43.869Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -10859,7 +10849,7 @@
     "squuid": "5be1a6b6-6cca-4e9f-8aa9-dc6529f65bc5",
     "name": "tv weiss-blau Rundfunkprogrammanbieter GmbH",
     "state": "active",
-    "controlDate": "2025-09-08T08:20:58.815Z",
+    "controlDate": "2026-01-08T11:12:49.551Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -11832,7 +11822,7 @@
     "squuid": "5be1a6b6-20c3-464e-8bc8-d7295109b19e",
     "name": "Ufa Radio-Programmgesellschaft in Bayern mbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:36:35.330Z",
+    "controlDate": "2026-01-08T12:04:59.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34845,6 +34835,7 @@
     "squuid": "5be1a6b6-9ca8-4349-ad90-5b982eda1d40",
     "name": "Universität Stuttgart",
     "state": "active",
+    "controlDate": "2026-01-08T12:28:03.784Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -39135,7 +39126,7 @@
     "squuid": "5be1a6b6-2d20-4299-aca2-0cd9d45607e2",
     "name": "Twenty-First Century Fox, Inc.",
     "state": "active",
-    "controlDate": "2025-06-27T13:12:04.453Z",
+    "controlDate": "2026-01-08T11:47:26.154Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -48127,7 +48118,7 @@
     "name": "tv.ingolstadt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "60c7721a-28bc-4472-849a-a1704773ccb6",
-    "controlDate": "2025-06-27T12:54:37.091Z",
+    "controlDate": "2026-01-08T11:27:12.004Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52018,7 +52009,7 @@
     "squuid": "5be1a6b6-86c1-497f-b329-762e91bfc6b8",
     "name": "Union Druck und Zeitungsverlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:03:46.105Z",
+    "controlDate": "2026-01-08T12:20:09.991Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -69336,7 +69327,7 @@
     "squuid": "5be1a6b6-494c-479e-b840-fd16916f9cc7",
     "name": "TVF Fernsehen in Franken Programm GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:01:46.209Z",
+    "controlDate": "2026-01-08T11:32:22.827Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -70783,7 +70774,7 @@
     "squuid": "5be1a6b6-a60c-4397-80e6-9e8b1156d0b1",
     "name": "TVN Fernseh-Beteiligungsgesellschaft mbH Nürnberg",
     "state": "active",
-    "controlDate": "2025-06-27T13:06:45.507Z",
+    "controlDate": "2026-01-08T11:36:30.868Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -100032,7 +100023,7 @@
     "name": "Ulrich'sche Buchdruckerei und Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8f6c-4f1f-89de-457741369f4d",
-    "controlDate": "2025-06-27T13:19:43.278Z",
+    "controlDate": "2026-01-08T12:07:00.383Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156947,39 +156938,30 @@
     ]
   },
   {
-    "state": "active",
-    "name": "TW Wochenspiegel GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "63da9599-bde4-4ab3-ad47-82cd6eee4bcb",
-    "controlDate": "2025-06-27T13:07:24.316Z",
+    "name": "TW Wochenspiegel GmbH & Co. KG",
+    "state": "archived",
+    "controlDate": "2026-01-08T11:40:56.177Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "63da95be-120e-4713-9f49-e5d6e98f1ba0",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63da945d-6ae6-4a24-9ea1-1f5e5db5504c",
-          "name": "www.wochenspiegellive.de"
-        }
       }
     ]
   },
   {
     "squuid": "63da95ac-8dce-4900-8cc2-327704ab48ed",
     "name": "TW Wochenspiegel Verwaltungs-GmbH",
-    "state": "active",
-    "controlDate": "2025-06-27T13:07:15.245Z",
+    "state": "archived",
+    "controlDate": "2026-01-08T11:40:45.290Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -168140,7 +168122,7 @@
     "squuid": "5f80490c-f70d-4775-a6c6-c388791b3f4f",
     "name": "TVA Ostbayern Fernsehprogrammgesellschaft Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:00:28.499Z",
+    "controlDate": "2026-01-08T11:30:06.271Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168395,7 +168377,7 @@
     "squuid": "5ebbafbb-a826-4637-83ac-a6d65967b0df",
     "name": "UBV Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:19:35.041Z",
+    "controlDate": "2026-01-08T11:59:58.041Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176129,7 +176111,7 @@
     "name": "TVA Ostbayern Fernsehprogrammgesellschaft mbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5cab5d68-1576-4194-9733-75dce03e44ad",
-    "controlDate": "2025-06-27T13:00:35.162Z",
+    "controlDate": "2026-01-08T11:30:49.903Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180578,11 +180560,6 @@
     "name": "Yigit, Dursun",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -191934,7 +191911,7 @@
     "squuid": "5d2c4b69-082e-4993-87e3-0706faf8b63a",
     "name": "TV-Medien Rhein-Neckar GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T12:42:32.287Z",
+    "controlDate": "2026-01-08T11:25:52.592Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200846,7 +200823,7 @@
     "squuid": "5d2da7fa-4d39-41c6-9a5a-89f1957dd336",
     "name": "TX Group AG",
     "state": "active",
-    "controlDate": "2025-06-27T13:17:09.565Z",
+    "controlDate": "2026-01-08T11:51:36.168Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201582,7 +201559,7 @@
     "squuid": "5d2db94c-a747-4328-b132-a0e5e82e790d",
     "name": "Tweedy Browne Company LLC",
     "state": "active",
-    "controlDate": "2025-06-27T13:11:33.073Z",
+    "controlDate": "2026-01-08T11:46:59.305Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201634,7 +201611,7 @@
     "squuid": "61852ac6-0e83-4670-b5bb-66d85dae17a2",
     "name": "TV Verwaltungs GmbH ",
     "state": "active",
-    "controlDate": "2025-06-27T12:40:54.676Z",
+    "controlDate": "2026-01-08T11:11:56.208Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234437,7 +234414,7 @@
     "name": "Ungeheuer + Ulmer KG GmbH & Co",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7378-450c-ae7a-862391423157",
-    "controlDate": "2025-06-27T13:41:07.733Z",
+    "controlDate": "2026-01-08T12:08:40.907Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251704,7 +251681,7 @@
     "squuid": "5be1a6b6-fbfa-4d7c-9ece-9c8f4dbee3d1",
     "name": "TVinfo Internet GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:04:06.034Z",
+    "controlDate": "2026-01-08T11:34:33.447Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261998,7 +261975,7 @@
     "squuid": "5be1a6b6-f826-4d36-83ee-efc4188b7838",
     "name": "Universal Music GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:11:14.368Z",
+    "controlDate": "2026-01-08T12:26:30.111Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264264,7 +264241,7 @@
     "squuid": "5be1a6b6-fd2b-42ff-b525-4bf988ab61af",
     "name": "Twer Beteiligungen GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-27T13:12:30.014Z",
+    "controlDate": "2026-01-08T11:49:41.073Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -264940,7 +264917,7 @@
     "squuid": "5be1a6b6-c448-4f0d-a26c-d8908506307f",
     "name": "United Vertical Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:10:26.442Z",
+    "controlDate": "2026-01-08T12:21:59.436Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -279194,7 +279171,7 @@
     "squuid": "5be1a6b6-0a9f-4f47-b15a-5acae7215fd7",
     "name": "Universal Music Entertainmant GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:11:05.132Z",
+    "controlDate": "2026-01-08T12:26:21.051Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299345,7 +299322,7 @@
     "squuid": "5be1a6b6-76b5-4e2e-9a08-f9a4e7e5ab52",
     "name": "Universal International Music B.V.",
     "state": "active",
-    "controlDate": "2025-06-27T14:10:49.512Z",
+    "controlDate": "2026-01-08T12:26:00.232Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307521,7 +307498,7 @@
     "squuid": "62e8e7e2-40a7-4c62-bcbf-8f760a4af884",
     "name": "U. Schmidt Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T13:18:00.921Z",
+    "controlDate": "2026-01-08T11:59:44.643Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -309157,7 +309134,7 @@
     "squuid": "639859dd-2541-4f10-a7b4-fa03af96cbbc",
     "name": "Universal Music Group N.V.",
     "state": "active",
-    "controlDate": "2025-06-27T14:12:05.608Z",
+    "controlDate": "2026-01-08T12:27:06.700Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

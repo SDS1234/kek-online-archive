@@ -2781,7 +2781,7 @@
     "rfStatewide": false,
     "name": "Neckar- und Enzbote",
     "type": "print",
-    "controlDate": "2025-06-27T13:43:37.297Z",
+    "controlDate": "2026-01-08T12:12:49.710Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2804,7 +2804,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-27T13:44:27.268Z",
+    "controlDate": "2026-01-08T12:13:07.903Z",
     "state": "active"
   },
   {
@@ -30262,7 +30262,7 @@
     "name": "www.neckar-und-enzbote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T13:44:36.426Z",
+    "controlDate": "2026-01-08T12:15:34.792Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43254,7 +43254,7 @@
     "name": "www.metropolregion.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T12:43:18.802Z",
+    "controlDate": "2026-01-08T11:26:44.221Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45327,7 +45327,7 @@
     "name": "www.wochenspiegellive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:04:29.004Z",
+    "controlDate": "2026-01-08T11:41:00.048Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69457,7 +69457,7 @@
     "rfStatewide": false,
     "name": "Ludwigsburger Kreiszeitung",
     "type": "print",
-    "controlDate": "2025-06-27T13:42:32.590Z",
+    "controlDate": "2026-01-08T12:12:30.152Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -76178,7 +76178,7 @@
     "name": "www.tvaktuell.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T13:01:30.544Z",
+    "controlDate": "2026-01-08T11:31:26.398Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99012,7 +99012,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f217827-fc38-42bf-a461-3f2833b3c77d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -109490,7 +109490,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-27T13:05:13.337Z",
+    "controlDate": "2026-01-08T11:35:06.525Z",
     "state": "active"
   },
   {
@@ -111748,7 +111748,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-27T14:11:37.911Z",
+    "controlDate": "2026-01-08T12:26:33.718Z",
     "state": "active"
   },
   {
@@ -130318,7 +130318,7 @@
     "name": "www.20min.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T13:17:18.525Z",
+    "controlDate": "2026-01-08T11:51:42.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132403,7 +132403,7 @@
     "name": "www.uefa.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T14:04:42.158Z",
+    "controlDate": "2026-01-08T12:20:49.712Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133893,7 +133893,7 @@
     "name": "Markgröninger Nachrichten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-27T13:43:13.698Z",
+    "controlDate": "2026-01-08T12:12:42.636Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134949,7 +134949,7 @@
     "name": "www.tagesanzeiger.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T13:17:25.504Z",
+    "controlDate": "2026-01-08T11:51:49.722Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139226,7 +139226,7 @@
     "name": "www.frankenfernsehen.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T13:01:51.865Z",
+    "controlDate": "2026-01-08T11:32:42.500Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139299,7 +139299,7 @@
     "name": "Ludwig",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-27T13:49:04.548Z",
+    "controlDate": "2026-01-08T12:09:06.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139478,7 +139478,7 @@
     "name": "BiBi",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-27T13:56:28.414Z",
+    "controlDate": "2026-01-08T12:08:51.709Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145718,7 +145718,7 @@
     "name": "www.mephisto976.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T14:14:36.797Z",
+    "controlDate": "2026-01-08T12:27:48.040Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161487,7 +161487,7 @@
     "name": "www.tvingolstadt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-27T12:58:08.847Z",
+    "controlDate": "2026-01-08T11:28:35.707Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
