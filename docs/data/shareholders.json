@@ -157482,7 +157482,7 @@
     "squuid": "5f9a88a0-b158-4030-8b86-20b258b0deba",
     "name": "URSAPHARM Arzneimittel Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:03:29.396Z",
+    "controlDate": "2026-01-08T13:59:22.071Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180048,7 +180048,7 @@
     "squuid": "5c5c4983-2403-496d-96c1-20185d53dd83",
     "name": "Urbanite Location Based Media GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:59:10.106Z",
+    "controlDate": "2026-01-08T13:57:59.563Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188520,14 +188520,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -190071,7 +190066,7 @@
     "squuid": "5f05a950-0d76-4ec8-81b1-c8dc6e53e66e",
     "name": "upday Management GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T14:19:56.235Z",
+    "controlDate": "2026-01-08T13:53:38.636Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -213606,7 +213601,7 @@
     "squuid": "5e393fe0-696c-4e7e-ae72-3acaa597ac03",
     "name": "ValueAct Capital MFB Holdings L.P.",
     "state": "active",
-    "controlDate": "2025-06-27T15:09:41.106Z",
+    "controlDate": "2026-01-08T14:13:42.256Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234541,7 +234536,7 @@
     "squuid": "5be1a6b6-e817-48ed-8158-191067a7bbd1",
     "name": "VDI Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:10:51.729Z",
+    "controlDate": "2026-01-08T14:15:00.282Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237578,7 +237573,7 @@
     "squuid": "5f032eb2-dfa4-4682-9e07-d4aaeef780a5",
     "name": "USMedia GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:05:22.927Z",
+    "controlDate": "2026-01-08T14:00:19.270Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264014,7 +264009,7 @@
     "squuid": "5be1a6b6-ed9c-46f6-8b95-96a9dc9d32e3",
     "name": "VDI GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:10:47.265Z",
+    "controlDate": "2026-01-08T14:14:55.537Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275070,7 +275065,7 @@
     "squuid": "5ee37b6b-e641-4bab-856b-a62f160d4afa",
     "name": "Vaihinger Kreiszeitung GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:06:34.596Z",
+    "controlDate": "2026-01-08T14:08:00.385Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282524,7 +282519,7 @@
     "squuid": "672a002c-3fff-4386-ac17-537ee1394a86",
     "name": "Vajparani Ltd.",
     "state": "active",
-    "controlDate": "2024-11-05T11:33:17.891Z",
+    "controlDate": "2026-01-08T14:10:36.808Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301928,7 +301923,7 @@
     "name": "upday GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e92b-4de5-a02b-3e8ad615dc84",
-    "controlDate": "2025-06-27T14:20:09.389Z",
+    "controlDate": "2026-01-08T13:52:34.281Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -313599,9 +313594,9 @@
   },
   {
     "squuid": "5c52e614-1cbb-4bd1-a06f-d61c2abeaf8a",
-    "name": "UV Interactive Services GmbH",
+    "name": "Blackflint GmbH",
     "state": "active",
-    "controlDate": "2025-06-27T15:06:17.279Z",
+    "controlDate": "2026-01-08T14:06:53.752Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
