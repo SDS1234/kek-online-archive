@@ -1,5 +1,5 @@
 {
-  "pressPublishingIntervals": 52,
+  "pressPublishingIntervals": 6,
   "state": "active",
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
@@ -7,8 +7,7 @@
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "",
-  "squuid": "5c658922-1446-4074-beff-6bc9d66fb120",
+  "squuid": "6960f2e7-e0a8-48c1-b681-4f42fd377a09",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -18,27 +17,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Verlag Bayerische Staatszeitung GmbH ",
-        "squuid": "5c65895c-cb1c-4eab-afc8-d99bc31d0f5a"
+        "name": "Blue Ocean Entertainment AG",
+        "squuid": "60feac43-da34-4698-92e1-5fbda8d09ded"
       },
-      "squuid": "5c658a18-7d01-4824-9f12-5cbc9dcb92f2",
+      "squuid": "6960f341-bcd1-43bc-b602-3d5aee4f4ade",
       "state": "active"
     }
   ],
-  "name": "BSZ Bayerische Staatszeitung",
+  "name": "Brainzone",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
-  "pressDistributionArea": "Freistaat Bayern",
+  "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2026-01-09T11:36:54.713Z",
+  "controlDate": "2026-01-09T12:22:06.291Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "pressKind": "Regional",
-  "pressEditionsComments": "Auflage laut Verlagsangabe",
-  "pressEditionsSold": 15000,
+  "pressKind": "Kinder",
+  "pressEditionsComments": "neu seit Januar 2026",
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",

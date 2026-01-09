@@ -3704,6 +3704,15 @@
           "squuid": "68e6746e-6512-49f4-b2bd-93f8c8ed32e8",
           "name": "CupCakeCats"
         }
+      },
+      {
+        "squuid": "6960f341-bcd1-43bc-b602-3d5aee4f4ade",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6960f2e7-e0a8-48c1-b681-4f42fd377a09",
+          "name": "Brainzone"
+        }
       }
     ]
   },
@@ -138178,7 +138187,7 @@
     "squuid": "5c65895c-cb1c-4eab-afc8-d99bc31d0f5a",
     "name": "Verlag Bayerische Staatszeitung GmbH ",
     "state": "active",
-    "controlDate": "2025-06-28T09:33:12.735Z",
+    "controlDate": "2026-01-09T11:36:44.613Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151178,6 +151187,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -179184,7 +179199,7 @@
     "squuid": "5ebe87f7-fd67-4a0d-878c-3ee007d2ba76",
     "name": "Verlag Der Bote Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-28T09:39:59.363Z",
+    "controlDate": "2026-01-09T11:58:16.594Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184180,7 +184195,7 @@
     "squuid": "638095d4-d347-4705-9307-527050e27ccb",
     "name": "Verlag Der Marktspiegel GmbH",
     "state": "active",
-    "controlDate": "2025-06-28T09:42:25.594Z",
+    "controlDate": "2026-01-09T12:06:08.303Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234736,7 +234751,7 @@
     "squuid": "5be1a6b6-9be2-4fb8-8131-58a0f5e4b117",
     "name": "Verlag Beleke GmbH",
     "state": "active",
-    "controlDate": "2025-06-28T09:35:36.856Z",
+    "controlDate": "2026-01-09T11:39:32.657Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234749,7 +234764,7 @@
     "squuid": "5be1a6b6-7e6c-41e2-89dc-ca7555e15ae3",
     "name": "Verlag Das Beste GmbH",
     "state": "active",
-    "controlDate": "2025-06-28T09:37:48.820Z",
+    "controlDate": "2026-01-09T11:51:57.811Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234806,7 +234821,7 @@
     "name": "Verlag \"Der Bote\" Hanns Bollmann GmbH & Co.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f4e2-41cc-bd22-3d15cf142528",
-    "controlDate": "2025-06-28T09:40:39.406Z",
+    "controlDate": "2026-01-09T11:58:26.083Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -235184,6 +235199,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ],
@@ -255437,24 +255458,14 @@
   {
     "squuid": "5be1a6b6-8ed9-4bb4-becb-71869b0b6dd9",
     "name": "Verlag Christliche Woche GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-06-28T09:37:20.894Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-039b-4200-b7ba-ed47945138a8",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-3201-454b-99e8-0969f97aa726",
-          "name": "Christliche Woche"
-        }
       }
     ]
   },
@@ -268798,6 +268809,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
