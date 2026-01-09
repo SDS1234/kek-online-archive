@@ -13782,7 +13782,7 @@
     "name": "www.nibelungen-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T11:23:12.653Z",
+    "controlDate": "2026-01-09T15:18:49.327Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -16234,7 +16234,7 @@
     "name": "www.erlanger-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:02:22.454Z",
+    "controlDate": "2026-01-09T15:31:35.192Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23632,7 +23632,7 @@
     "name": "www.fuerther-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:02:49.884Z",
+    "controlDate": "2026-01-09T15:32:25.022Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23682,7 +23682,7 @@
     "name": "www.nordbayerische-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:03:47.794Z",
+    "controlDate": "2026-01-09T15:34:52.847Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30576,7 +30576,7 @@
     "name": "www.neumarkter-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:03:09.796Z",
+    "controlDate": "2026-01-09T15:33:11.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -53645,7 +53645,7 @@
     "name": "Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T07:59:12.906Z",
+    "controlDate": "2026-01-09T15:27:29.485Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70670,7 +70670,7 @@
     "rfStatewide": false,
     "name": "Erlanger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T11:59:15.483Z",
+    "controlDate": "2026-01-09T15:26:03.894Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70693,7 +70693,7 @@
     "rfStatewide": false,
     "name": "Nürnberger Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T12:00:49.736Z",
+    "controlDate": "2026-01-09T15:29:16.088Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70756,7 +70756,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T12:04:03.427Z",
+    "controlDate": "2026-01-09T15:35:08.156Z",
     "state": "active"
   },
   {
@@ -70771,7 +70771,7 @@
     "rfStatewide": false,
     "name": "Schlitzer Bote",
     "type": "print",
-    "controlDate": "2025-06-28T12:40:40.912Z",
+    "controlDate": "2026-01-09T15:59:55.202Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70791,7 +70791,7 @@
     "rfStatewide": false,
     "name": "Fuldaer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T12:39:45.044Z",
+    "controlDate": "2026-01-09T15:58:55.700Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96686,7 +96686,7 @@
     "name": "Fuldaer Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:39:51.565Z",
+    "controlDate": "2026-01-09T15:59:08.331Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96747,7 +96747,7 @@
     "name": "Hünfelder Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:40:07.477Z",
+    "controlDate": "2026-01-09T15:59:21.725Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96996,7 +96996,7 @@
     "name": "Kinzigtal Nachrichten am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:40:31.996Z",
+    "controlDate": "2026-01-09T15:59:42.483Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97107,7 +97107,7 @@
     "name": "Schlitzer Bote am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:40:50.013Z",
+    "controlDate": "2026-01-09T16:00:03.058Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -114230,7 +114230,7 @@
     "name": "www.nn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:03:30.043Z",
+    "controlDate": "2026-01-09T15:34:35.081Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -117238,7 +117238,7 @@
     "name": "nanu!?",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:01:58.034Z",
+    "controlDate": "2026-01-09T15:30:33.953Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -119648,7 +119648,7 @@
     "rfStatewide": false,
     "name": "Hünfelder Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T12:39:58.605Z",
+    "controlDate": "2026-01-09T15:59:14.490Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119707,7 +119707,7 @@
     "rfStatewide": false,
     "name": "Kinzigtal Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T12:40:21.732Z",
+    "controlDate": "2026-01-09T15:59:29.532Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119730,7 +119730,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T12:41:03.694Z",
+    "controlDate": "2026-01-09T16:01:33.357Z",
     "state": "active"
   },
   {
@@ -123596,7 +123596,7 @@
     "rfStatewide": false,
     "name": "Fürther Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T11:59:46.092Z",
+    "controlDate": "2026-01-09T15:26:32.291Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123616,7 +123616,7 @@
     "rfStatewide": false,
     "name": "Neumarkter Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T12:00:11.830Z",
+    "controlDate": "2026-01-09T15:28:12.706Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123636,7 +123636,7 @@
     "rfStatewide": false,
     "name": "Nordbayerische Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T12:00:28.866Z",
+    "controlDate": "2026-01-09T15:28:35.180Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125998,7 +125998,7 @@
     "name": "www.torgranate.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:41:13.771Z",
+    "controlDate": "2026-01-09T16:01:57.511Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133116,7 +133116,7 @@
     "name": "www.fein-raus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:02:37.936Z",
+    "controlDate": "2026-01-09T15:31:49.302Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137973,7 +137973,7 @@
     "name": "www.tip-suedhessen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T11:23:26.251Z",
+    "controlDate": "2026-01-09T15:18:58.520Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138132,7 +138132,7 @@
     "name": "www.celler-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T11:21:33.640Z",
+    "controlDate": "2026-01-09T15:14:44.854Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153772,7 +153772,7 @@
     "name": "Wirtschaft in Mittelfranken",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:01:23.599Z",
+    "controlDate": "2026-01-09T15:30:16.467Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154626,7 +154626,7 @@
     "name": "www.schaufenster-wf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T12:47:00.383Z",
+    "controlDate": "2026-01-09T16:05:30.700Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

@@ -35371,7 +35371,7 @@ digraph {
     num_owners=8
     num_owners_weighted=6.2000
     num_medias=90
-    num_medias_weighted=26.8601
+    num_medias_weighted=26.8626
     name="5cb74c22-0d93-4491-a253-f98685ffbc69"
     in_degree=6
     out_degree=1
@@ -38395,7 +38395,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=14.7999
+    num_medias_weighted=14.8013
     name="5d08bf81-f743-4414-80f1-c2a18051c68f"
     in_degree=0
     out_degree=1
@@ -41779,7 +41779,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=2.2294
+    num_medias_weighted=2.2296
     name="67b74d46-98c7-483e-8765-d99bf29791ac"
     in_degree=0
     out_degree=1
@@ -132487,7 +132487,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=0.8647
+    num_medias_weighted=0.8648
     name="67f39958-de32-4bc9-8ad0-85b28e483b84"
     in_degree=0
     out_degree=1
@@ -132499,7 +132499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=0.8647
+    num_medias_weighted=0.8648
     name="67f39965-07f9-453b-a7be-956b6af40563"
     in_degree=0
     out_degree=1
@@ -132523,7 +132523,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=0.8647
+    num_medias_weighted=0.8648
     name="67f39981-4d4b-4f78-b13a-33650c591056"
     in_degree=0
     out_degree=1
@@ -132547,7 +132547,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=90
-    num_medias_weighted=0.8647
+    num_medias_weighted=0.8648
     name="67f39974-0aaa-43fe-acc9-0b7e7f16e1be"
     in_degree=0
     out_degree=1
@@ -158347,7 +158347,7 @@ digraph {
     num_owners=13
     num_owners_weighted=10.3626
     num_medias=90
-    num_medias_weighted=45.5102
+    num_medias_weighted=45.5143
     name="5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
     in_degree=9
     out_degree=44
@@ -270382,7 +270382,7 @@ digraph {
     type=owns
   ];
   13195 -> 7663 [
-    weight=9.9
+    weight=10.22
     type=owns
   ];
   13195 -> 7664 [
