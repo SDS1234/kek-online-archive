@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "638e1a7d-e703-4226-9944-1c7053b251a5",
+  "squuid": "6961145f-76da-40d8-815c-540a0c5ecf86",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Verlag Lensing-Wolff GmbH & Co. KG",
-        "squuid": "5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
+        "name": "Verlag Herder GmbH",
+        "squuid": "5be1a6b6-67c8-402e-a9d5-4d73d774e6a3"
       },
-      "squuid": "638e1b1b-ca90-48a7-aa75-d95ac74dcf30",
+      "squuid": "69611488-ccd3-4888-b35a-f78e0d66e300",
       "state": "active"
     }
   ],
-  "name": "www.coolibri.de",
+  "name": "www.herder.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-01-09T14:58:57.926Z",
+  "controlDate": "2026-01-09T14:44:54.932Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

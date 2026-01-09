@@ -2047,7 +2047,7 @@
     "rfStatewide": false,
     "name": "Billerbecker Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-28T10:40:49.333Z",
+    "controlDate": "2026-01-09T14:47:47.417Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2067,7 +2067,7 @@
     "rfStatewide": false,
     "name": "Gescherer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T10:41:00.223Z",
+    "controlDate": "2026-01-09T14:47:55.633Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2090,7 +2090,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T10:41:11.972Z",
+    "controlDate": "2026-01-09T14:48:08.562Z",
     "state": "active"
   },
   {
@@ -2514,7 +2514,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:11:23.498Z",
+    "controlDate": "2026-01-09T15:00:40.408Z",
     "state": "active"
   },
   {
@@ -2532,7 +2532,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:11:39.125Z",
+    "controlDate": "2026-01-09T15:00:49.577Z",
     "state": "active"
   },
   {
@@ -2550,7 +2550,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:11:53.214Z",
+    "controlDate": "2026-01-09T15:00:59.799Z",
     "state": "active"
   },
   {
@@ -9161,7 +9161,7 @@
     "rfStatewide": false,
     "name": "Gemeinsam Glauben mit dem Papst",
     "type": "print",
-    "controlDate": "2025-06-28T10:33:18.621Z",
+    "controlDate": "2026-01-09T14:41:13.578Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15844,7 +15844,7 @@
     "rfStatewide": false,
     "name": "Neues Ruhr-Wort",
     "type": "print",
-    "controlDate": "2025-06-28T11:17:59.058Z",
+    "controlDate": "2026-01-09T15:10:50.112Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15868,7 +15868,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:18:50.358Z",
+    "controlDate": "2026-01-09T15:11:28.010Z",
     "state": "active"
   },
   {
@@ -16813,7 +16813,7 @@
     "name": "www.der-lokalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:25:44.172Z",
+    "controlDate": "2026-01-09T14:35:22.781Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17970,7 +17970,7 @@
     "name": "www.frankenberger-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:00:41.957Z",
+    "controlDate": "2026-01-09T14:14:34.945Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26558,7 +26558,7 @@
     "name": "www.hofgeismarer-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:01:49.501Z",
+    "controlDate": "2026-01-09T14:16:18.963Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27579,7 +27579,7 @@
     "name": "Herder Korrespondenz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T10:33:32.828Z",
+    "controlDate": "2026-01-09T14:41:25.977Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27731,7 +27731,7 @@
     "name": "Stimmen der Zeit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T10:33:51.161Z",
+    "controlDate": "2026-01-09T14:41:59.568Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27956,7 +27956,7 @@
     "name": "Lebensspuren",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T10:33:41.221Z",
+    "controlDate": "2026-01-09T14:41:53.274Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29411,7 +29411,7 @@
     "name": "www.melsunger-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:02:27.549Z",
+    "controlDate": "2026-01-09T14:17:03.746Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30118,7 +30118,7 @@
     "name": "www.muendener-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:02:40.762Z",
+    "controlDate": "2026-01-09T14:17:14.625Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30925,7 +30925,7 @@
     "name": "www.northeimer-neueste-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:03:29.541Z",
+    "controlDate": "2026-01-09T14:17:41.362Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33010,7 +33010,7 @@
     "name": "www.pegnitz-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:30:21.084Z",
+    "controlDate": "2026-01-09T14:39:20.575Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34432,7 +34432,7 @@
     "name": "www.bebraer-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T09:59:56.250Z",
+    "controlDate": "2026-01-09T14:13:45.038Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36309,7 +36309,7 @@
     "name": "www.schwaelmer-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:03:54.111Z",
+    "controlDate": "2026-01-09T14:18:02.307Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38590,7 +38590,7 @@
     "name": "coolibri",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T11:06:32.401Z",
+    "controlDate": "2026-01-09T14:58:42.936Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38700,7 +38700,7 @@
     "name": "www.coolibri.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T11:10:54.308Z",
+    "controlDate": "2026-01-09T14:58:57.926Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40361,7 +40361,7 @@
     "name": "www.kassel-life.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:02:14.208Z",
+    "controlDate": "2026-01-09T14:16:52.183Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46412,7 +46412,7 @@
     "name": "Ruhr Wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T11:06:24.128Z",
+    "controlDate": "2026-01-09T14:57:08.061Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70554,7 +70554,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T10:01:08.495Z",
+    "controlDate": "2026-01-09T14:15:52.885Z",
     "state": "active"
   },
   {
@@ -70589,7 +70589,7 @@
     "rfStatewide": false,
     "name": "Pegnitz-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T10:30:06.328Z",
+    "controlDate": "2026-01-09T14:39:09.084Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70629,7 +70629,7 @@
     "rfStatewide": false,
     "name": "Liboriusblatt",
     "type": "print",
-    "controlDate": "2025-06-28T11:17:25.303Z",
+    "controlDate": "2026-01-09T15:07:16.993Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82675,7 +82675,7 @@
     "rfStatewide": false,
     "name": "Allgemeine Zeitung (Coesfeld)",
     "type": "print",
-    "controlDate": "2025-06-28T10:40:40.576Z",
+    "controlDate": "2026-01-09T14:47:39.672Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87000,7 +87000,7 @@
     "rfStatewide": false,
     "name": "Ruhr Nachrichten",
     "type": "print",
-    "controlDate": "2025-06-28T11:05:02.692Z",
+    "controlDate": "2026-01-09T14:56:58.100Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87023,7 +87023,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:12:17.769Z",
+    "controlDate": "2026-01-09T14:59:06.874Z",
     "state": "active"
   },
   {
@@ -94234,7 +94234,7 @@
     "rfStatewide": false,
     "name": "Bayerisches Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-10-24T10:02:27.007Z",
+    "controlDate": "2026-01-09T15:06:59.651Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94757,7 +94757,7 @@
     "rfStatewide": false,
     "name": "kizz. Das Elternmagazin",
     "type": "print",
-    "controlDate": "2025-06-28T10:34:10.419Z",
+    "controlDate": "2026-01-09T14:42:44.098Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94778,7 +94778,7 @@
     "rfStatewide": false,
     "name": "Christ in der Gegenwart",
     "type": "print",
-    "controlDate": "2025-06-28T10:33:09.865Z",
+    "controlDate": "2026-01-09T14:40:28.891Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94799,7 +94799,7 @@
     "rfStatewide": false,
     "name": "einfach leben",
     "type": "print",
-    "controlDate": "2025-06-28T10:34:01.075Z",
+    "controlDate": "2026-01-09T14:42:10.735Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100353,7 +100353,7 @@
     "rfStatewide": false,
     "name": "Kasseler Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-06-28T11:17:01.619Z",
+    "controlDate": "2026-01-09T15:07:06.075Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116144,7 +116144,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T11:18:38.156Z",
+    "controlDate": "2026-01-09T15:11:21.263Z",
     "state": "active"
   },
   {
@@ -142071,6 +142071,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "6961145f-76da-40d8-815c-540a0c5ecf86",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.herder.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-09T14:44:54.932Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "63a45fd0-42b3-4330-bd1c-2212b042a000",
@@ -144187,7 +144211,7 @@
     "name": "www.wolfhager-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:04:13.615Z",
+    "controlDate": "2026-01-09T14:19:01.263Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144333,7 +144357,7 @@
     "name": "www.witzenhaeuser-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:04:06.624Z",
+    "controlDate": "2026-01-09T14:18:11.049Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150942,7 +150966,7 @@
     "name": "www.fritzlar-homberger-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T10:00:56.198Z",
+    "controlDate": "2026-01-09T14:15:16.772Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152773,7 +152797,7 @@
     "name": "cattolica",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T11:18:26.262Z",
+    "controlDate": "2026-01-09T15:11:12.957Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154627,7 +154651,7 @@
     "name": "Maria 2.0",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T11:17:40.537Z",
+    "controlDate": "2026-01-09T15:10:23.090Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
