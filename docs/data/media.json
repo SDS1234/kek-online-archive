@@ -540,7 +540,7 @@
     "rfStatewide": false,
     "name": "Wertheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T12:55:50.267Z",
+    "controlDate": "2026-01-09T16:19:32.328Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -560,7 +560,7 @@
     "rfStatewide": false,
     "name": "Lohrer Echo",
     "type": "print",
-    "controlDate": "2025-06-28T12:55:14.616Z",
+    "controlDate": "2026-01-09T16:18:51.531Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -580,7 +580,7 @@
     "rfStatewide": false,
     "name": "Bote vom Unter-Main",
     "type": "print",
-    "controlDate": "2025-06-28T12:55:03.806Z",
+    "controlDate": "2026-01-09T16:18:37.218Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -603,7 +603,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-26T12:58:00.231Z",
+    "controlDate": "2026-01-09T16:19:50.239Z",
     "state": "active"
   },
   {
@@ -11749,7 +11749,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:11:26.460Z",
+    "controlDate": "2026-01-09T16:26:05.902Z",
     "state": "active"
   },
   {
@@ -30533,7 +30533,7 @@
     "name": "Mami, Papi & ich",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:55:31.461Z",
+    "controlDate": "2026-01-09T16:19:10.186Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71054,7 +71054,7 @@
     "rfStatewide": false,
     "name": "Spessart",
     "type": "print",
-    "controlDate": "2025-06-28T12:55:41.852Z",
+    "controlDate": "2026-01-09T16:19:24.876Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71075,7 +71075,7 @@
     "rfStatewide": false,
     "name": "Main-Echo",
     "type": "print",
-    "controlDate": "2025-06-28T12:55:22.372Z",
+    "controlDate": "2026-01-09T16:18:59.744Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85994,7 +85994,7 @@
     "name": "Wirtschaft am Bayerischen Untermain",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T12:55:59.191Z",
+    "controlDate": "2026-01-09T16:19:43.431Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -104165,7 +104165,7 @@
     "rfStatewide": false,
     "name": "Gartenfreund",
     "type": "print",
-    "controlDate": "2025-06-28T13:11:19.619Z",
+    "controlDate": "2026-01-09T16:25:58.744Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104186,7 +104186,7 @@
     "rfStatewide": false,
     "name": "Eigenheimer Magazin",
     "type": "print",
-    "controlDate": "2025-06-28T13:10:57.696Z",
+    "controlDate": "2026-01-09T16:25:52.800Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
