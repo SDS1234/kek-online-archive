@@ -23551,7 +23551,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=3
-    num_medias_weighted=0.0085
+    num_medias_weighted=0.0137
     name="60e581ce-9bee-49b9-a949-4e35aeb74d1a"
     in_degree=0
     out_degree=1
@@ -159426,8 +159426,8 @@ digraph {
     label="Vice CEE GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-3bc3-4ed2-9bbe-8a190cb185fb"
     in_degree=0
     out_degree=1
@@ -159438,11 +159438,11 @@ digraph {
     label="VICE MEDIA GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-9755-46cb-b82b-1479c1cddf48"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   13287 [
     type=shareholder
@@ -159451,7 +159451,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=3
-    num_medias_weighted=0.0848
+    num_medias_weighted=0.1371
     name="5be1a6b6-e69b-4e58-b2f7-15b4d4628514"
     in_degree=2
     out_degree=1
@@ -159463,7 +159463,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=3
-    num_medias_weighted=0.0763
+    num_medias_weighted=0.1234
     name="60e581a0-11cb-422c-a9a4-97f0acfce215"
     in_degree=0
     out_degree=1
@@ -204458,14 +204458,14 @@ digraph {
   ];
   17038 [
     type=online
-    state=active
+    state=archived
     label="www.vice.com"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-826c-44e9-9f44-fc3b0344f16d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   17039 [
@@ -271245,12 +271245,8 @@ digraph {
     weight=100
     type=owns
   ];
-  13286 -> 17038 [
-    weight=100
-    type=operates
-  ];
   13287 -> 5382 [
-    weight=11.31
+    weight=18.29
     type=owns
   ];
   13288 -> 13287 [

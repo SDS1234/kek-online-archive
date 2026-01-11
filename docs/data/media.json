@@ -5298,8 +5298,8 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T08:56:39.917Z",
-    "state": "active"
+    "controlDate": "2026-01-11T14:48:23.845Z",
+    "state": "archived"
   },
   {
     "organization": {
@@ -17404,7 +17404,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T09:31:38.756Z",
+    "controlDate": "2026-01-11T15:12:41.750Z",
     "state": "active"
   },
   {
@@ -42626,7 +42626,7 @@
     "name": "www.mytvmovie.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T08:59:34.240Z",
+    "controlDate": "2026-01-11T14:55:57.551Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44840,7 +44840,7 @@
     "name": "www.arcade-xxl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:05:41.226Z",
+    "controlDate": "2026-01-11T15:11:14.756Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46800,7 +46800,7 @@
     "name": "www.nick.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:03:28.238Z",
+    "controlDate": "2026-01-11T15:04:03.223Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -51931,7 +51931,7 @@
     "name": "www.inside-starnews.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T07:42:15.544Z",
+    "controlDate": "2026-01-11T14:40:28.706Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71188,7 +71188,7 @@
     "rfStatewide": false,
     "name": "Last & Kraft",
     "type": "print",
-    "controlDate": "2025-06-29T08:43:25.712Z",
+    "controlDate": "2026-01-11T14:21:01.241Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71209,7 +71209,7 @@
     "rfStatewide": false,
     "name": "Oldtimer Markt",
     "type": "print",
-    "controlDate": "2025-06-29T08:43:32.616Z",
+    "controlDate": "2026-01-11T14:21:22.170Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71230,7 +71230,7 @@
     "rfStatewide": false,
     "name": "Oldtimer Praxis",
     "type": "print",
-    "controlDate": "2025-06-29T08:43:41.940Z",
+    "controlDate": "2026-01-11T14:21:29.990Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71251,7 +71251,7 @@
     "rfStatewide": false,
     "name": "Oldtimer Traktor",
     "type": "print",
-    "controlDate": "2025-06-29T08:43:48.450Z",
+    "controlDate": "2026-01-11T14:21:40.615Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93225,7 +93225,7 @@
     "rfStatewide": false,
     "name": "Visions",
     "type": "print",
-    "controlDate": "2025-06-29T09:31:32.081Z",
+    "controlDate": "2026-01-11T15:12:32.257Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95758,7 +95758,7 @@
     "name": "www.maxdome.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T08:58:33.617Z",
+    "controlDate": "2026-01-11T14:55:47.392Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97305,7 +97305,7 @@
     "rfStatewide": false,
     "name": "Freizeit Total",
     "type": "print",
-    "controlDate": "2025-06-29T08:49:42.042Z",
+    "controlDate": "2026-01-11T14:38:32.357Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97326,7 +97326,7 @@
     "rfStatewide": false,
     "name": "Schöne Welt",
     "type": "print",
-    "controlDate": "2025-06-29T08:50:16.192Z",
+    "controlDate": "2026-01-11T14:40:14.283Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99891,7 +99891,7 @@
     "name": "www.moebelkultur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:05:57.125Z",
+    "controlDate": "2026-01-11T15:12:00.700Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -100289,7 +100289,7 @@
     "name": "www.moebelfertigung.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:05:47.980Z",
+    "controlDate": "2026-01-11T15:11:22.512Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115160,7 +115160,7 @@
     "rfStatewide": false,
     "name": "American classics",
     "type": "print",
-    "controlDate": "2025-06-29T08:43:11.804Z",
+    "controlDate": "2026-01-11T14:20:37.684Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115184,7 +115184,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T08:43:59.039Z",
+    "controlDate": "2026-01-11T14:22:14.037Z",
     "state": "active"
   },
   {
@@ -115329,7 +115329,7 @@
     "name": "Inside",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T08:50:00.292Z",
+    "controlDate": "2026-01-11T14:39:38.196Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130915,7 +130915,7 @@
     "name": "www.vimeo.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-03T17:27:44.525Z",
+    "controlDate": "2026-01-11T15:00:42.002Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131697,7 +131697,7 @@
     "name": "www.mtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:03:00.527Z",
+    "controlDate": "2026-01-11T15:03:54.761Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146186,7 +146186,7 @@
     "name": "www.comedycentral.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:02:30.687Z",
+    "controlDate": "2026-01-11T15:03:05.485Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150712,7 +150712,7 @@
     "name": "www.paramountplus.com/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T09:03:40.789Z",
+    "controlDate": "2026-01-11T15:04:34.796Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160091,7 +160091,7 @@
     "name": "Freizeit mit Herz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T08:49:50.483Z",
+    "controlDate": "2026-01-11T14:38:40.118Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
