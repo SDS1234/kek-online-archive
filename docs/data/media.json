@@ -14567,7 +14567,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:30:35.521Z",
+    "controlDate": "2026-01-11T13:44:44.147Z",
     "state": "active"
   },
   {
@@ -14639,7 +14639,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:31:41.677Z",
+    "controlDate": "2026-01-11T13:44:53.790Z",
     "state": "active"
   },
   {
@@ -15810,7 +15810,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T15:13:06.103Z",
+    "controlDate": "2026-01-11T13:45:23.009Z",
     "state": "active"
   },
   {
@@ -35470,7 +35470,7 @@
     "name": "www.aussicht.online",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T08:27:36.100Z",
+    "controlDate": "2026-01-11T13:44:12.895Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79922,7 +79922,7 @@
     "rfStatewide": false,
     "name": "Kirchenzeitung für das Bistum Hildesheim",
     "type": "print",
-    "controlDate": "2025-06-30T08:13:23.670Z",
+    "controlDate": "2026-01-11T13:42:30.525Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -80337,7 +80337,7 @@
     "rfStatewide": false,
     "name": "Lauterbacher Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-28T13:53:31.409Z",
+    "controlDate": "2026-01-11T13:27:41.002Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -92187,7 +92187,7 @@
     "rfStatewide": false,
     "name": "Bonifatiusbote",
     "type": "print",
-    "controlDate": "2025-06-30T08:11:04.798Z",
+    "controlDate": "2026-01-11T13:41:01.445Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92208,7 +92208,7 @@
     "rfStatewide": false,
     "name": "Glaube und Leben",
     "type": "print",
-    "controlDate": "2025-06-30T08:12:25.816Z",
+    "controlDate": "2026-01-11T13:42:06.119Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92249,7 +92249,7 @@
     "rfStatewide": false,
     "name": "Der Sonntag (Limburg)",
     "type": "print",
-    "controlDate": "2025-06-30T08:10:56.668Z",
+    "controlDate": "2026-01-11T13:41:26.648Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94841,7 +94841,7 @@
     "rfStatewide": false,
     "name": "Neue Kirchenzeitung",
     "type": "print",
-    "controlDate": "2025-06-30T08:21:00.309Z",
+    "controlDate": "2026-01-11T13:43:32.116Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97996,7 +97996,7 @@
     "rfStatewide": false,
     "name": "Oberhessische Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T13:53:42.612Z",
+    "controlDate": "2026-01-11T13:27:51.844Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -105436,7 +105436,7 @@
     "rfStatewide": false,
     "name": "Kirchenbote des Bistums Osnabrück",
     "type": "print",
-    "controlDate": "2025-06-30T08:13:16.558Z",
+    "controlDate": "2026-01-11T13:42:16.399Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -119413,7 +119413,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:54:10.352Z",
+    "controlDate": "2026-01-11T13:29:21.753Z",
     "state": "active"
   },
   {
@@ -119449,7 +119449,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:53:56.808Z",
+    "controlDate": "2026-01-11T13:28:05.217Z",
     "state": "active"
   },
   {
@@ -134199,7 +134199,7 @@
     "name": "lebensart im norden",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T14:05:32.339Z",
+    "controlDate": "2026-01-11T13:54:20.713Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135161,7 +135161,7 @@
     "name": "www.rotenburger-rundschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T13:52:15.482Z",
+    "controlDate": "2026-01-11T13:26:34.774Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

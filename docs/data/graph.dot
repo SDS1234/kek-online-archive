@@ -9309,7 +9309,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-e386-4870-bd86-fe97dc61431e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   776 [
@@ -14647,7 +14647,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=7.2394
+    num_medias_weighted=6.1020
     name="5be1a6b6-948c-4994-a4a0-914a6677e6a5"
     in_degree=0
     out_degree=2
@@ -29308,7 +29308,7 @@ digraph {
     type=print
     state=active
     label="Der Raubfisch"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -29884,7 +29884,7 @@ digraph {
     type=print
     state=active
     label="Deutsche Jagd-Zeitung"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -37005,7 +37005,7 @@ digraph {
     num_medias=415
     num_medias_weighted=0.0000
     name="5eb021e1-5dff-4c26-a5f2-5614fd012f71"
-    in_degree=1
+    in_degree=0
     out_degree=1
   ];
   3084 [
@@ -37063,7 +37063,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=8.8609
+    num_medias_weighted=7.4687
     name="5be1a6b6-2ce1-4bda-b725-b3c3fbddb438"
     in_degree=0
     out_degree=2
@@ -37075,7 +37075,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=3.6153
+    num_medias_weighted=3.0472
     name="5be1a6b6-2107-4d21-bfa5-f3e8969e3cf1"
     in_degree=0
     out_degree=2
@@ -37087,7 +37087,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=8.8609
+    num_medias_weighted=7.4687
     name="5be1a6b6-61f3-4226-aeb9-afc18948c013"
     in_degree=0
     out_degree=2
@@ -37099,7 +37099,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=15.3560
+    num_medias_weighted=12.9433
     name="5d121d88-64e4-461b-aa57-1230b76c51b6"
     in_degree=0
     out_degree=2
@@ -37111,7 +37111,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=8.8609
+    num_medias_weighted=7.4687
     name="5be1a6b6-6b33-4d5c-b6e4-94c77c28f5d6"
     in_degree=0
     out_degree=2
@@ -37123,7 +37123,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=8.8609
+    num_medias_weighted=7.4687
     name="5be1a6b6-8f64-4b20-a05f-8368463171af"
     in_degree=0
     out_degree=2
@@ -37147,7 +37147,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=8.8609
+    num_medias_weighted=7.4687
     name="5be1a6b6-6890-4729-bb8a-58607c14aed0"
     in_degree=0
     out_degree=2
@@ -37159,7 +37159,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=3.6153
+    num_medias_weighted=3.0472
     name="5be1a6b6-d1f7-42a0-acea-208afaf1fec0"
     in_degree=0
     out_degree=2
@@ -46720,7 +46720,7 @@ digraph {
     type=print
     state=active
     label="Fisch und Fang"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -71188,7 +71188,7 @@ digraph {
     type=print
     state=active
     label="Jagen weltweit"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -74311,7 +74311,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=7.2394
+    num_medias_weighted=6.1020
     name="5be1a6b6-e19c-4890-8db8-13ad27e64808"
     in_degree=0
     out_degree=2
@@ -108400,7 +108400,7 @@ digraph {
     type=shareholder
     state=active
     label="Paul Parey Zeitschriftenverlag GmbH"
-    num_owners=4
+    num_owners=3
     num_owners_weighted=2.3333
     num_medias=11
     num_medias_weighted=11.0000
@@ -131851,7 +131851,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=3.6153
+    num_medias_weighted=3.0472
     name="6564ab8b-aab6-4a7b-9880-9a6899406fdd"
     in_degree=0
     out_degree=1
@@ -131875,7 +131875,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=434
-    num_medias_weighted=3.6153
+    num_medias_weighted=3.0472
     name="6564abb2-1d04-4867-a297-b0b4f76117ea"
     in_degree=0
     out_degree=1
@@ -155200,7 +155200,7 @@ digraph {
     type=shareholder
     state=active
     label="Twer Beteiligungen GmbH & Co KG"
-    num_owners=3
+    num_owners=2
     num_owners_weighted=2.0000
     num_medias=11
     num_medias_weighted=3.6663
@@ -158671,10 +158671,10 @@ digraph {
     num_owners=13
     num_owners_weighted=11.0000
     num_medias=434
-    num_medias_weighted=88.6093
+    num_medias_weighted=74.6875
     name="5be1a6b6-581e-47b2-9825-26042dfbf904"
     in_degree=13
-    out_degree=4
+    out_degree=3
   ];
   13223 [
     type=shareholder
@@ -158698,7 +158698,7 @@ digraph {
     num_medias_weighted=0.0000
     name="5be1a6b6-d60b-442a-b6cd-ee9a770b1646"
     in_degree=2
-    out_degree=2
+    out_degree=1
   ];
   13225 [
     type=shareholder
@@ -158896,8 +158896,8 @@ digraph {
     type=shareholder
     state=active
     label="Vermögensverwaltung Twer GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=11
     num_medias_weighted=0.0000
     name="5ec2581e-ff9f-4a5e-b46e-7b5201553c74"
@@ -166792,7 +166792,7 @@ digraph {
     type=print
     state=active
     label="Wild und Hund"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -166840,7 +166840,7 @@ digraph {
     type=print
     state=active
     label="Wilde Hunde"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -177544,7 +177544,7 @@ digraph {
     type=online
     state=active
     label="www.djz.de"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -180052,7 +180052,7 @@ digraph {
     type=online
     state=active
     label="www.fischundfang.de"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -186028,7 +186028,7 @@ digraph {
     type=online
     state=active
     label="www.jww.de"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -196768,7 +196768,7 @@ digraph {
     type=online
     state=active
     label="www.raubfisch.de"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -205840,7 +205840,7 @@ digraph {
     type=online
     state=active
     label="www.wildundhund.de"
-    num_owners=5
+    num_owners=4
     num_owners_weighted=3.3333
     num_medias=0
     num_medias_weighted=0.0000
@@ -270969,16 +270969,12 @@ digraph {
     weight=100
     type=operates
   ];
-  13222 -> 3083 [
-    weight=100
-    type=owns
-  ];
   13222 -> 3084 [
     weight=100
     type=owns
   ];
   13222 -> 3085 [
-    weight=100
+    weight=80
     type=owns
   ];
   13222 -> 3086 [
@@ -270987,10 +270983,6 @@ digraph {
   ];
   13223 -> 13222 [
     weight=1
-    type=owns
-  ];
-  13224 -> 775 [
-    weight=50.1
     type=owns
   ];
   13224 -> 4534 [
