@@ -3892,7 +3892,7 @@
     "rfStatewide": false,
     "name": "Gränzbote",
     "type": "print",
-    "controlDate": "2025-12-17T14:41:36.415Z",
+    "controlDate": "2026-01-11T13:16:20.140Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3912,7 +3912,7 @@
     "rfStatewide": false,
     "name": "Heuberger Bote",
     "type": "print",
-    "controlDate": "2025-12-17T14:41:58.717Z",
+    "controlDate": "2026-01-11T13:16:36.695Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3932,7 +3932,7 @@
     "rfStatewide": false,
     "name": "Trossinger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-17T14:43:53.486Z",
+    "controlDate": "2026-01-11T13:16:54.683Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -19869,7 +19869,7 @@
     "rfStatewide": false,
     "name": "Deutsches Handwerksblatt",
     "type": "print",
-    "controlDate": "2025-06-28T13:20:00.106Z",
+    "controlDate": "2026-01-11T13:14:28.273Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19893,7 +19893,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:20:10.073Z",
+    "controlDate": "2026-01-11T13:14:43.267Z",
     "state": "active"
   },
   {
@@ -70347,7 +70347,7 @@
     "rfStatewide": false,
     "name": "Kreiszeitung Wesermarsch",
     "type": "print",
-    "controlDate": "2025-06-28T13:14:29.831Z",
+    "controlDate": "2026-01-11T13:07:10.402Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70811,7 +70811,7 @@
     "rfStatewide": false,
     "name": "HAZ-WirtschaftsZeitung",
     "type": "print",
-    "controlDate": "2025-06-28T13:47:47.933Z",
+    "controlDate": "2026-01-11T13:21:14.289Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -70832,7 +70832,7 @@
     "rfStatewide": false,
     "name": "Neue Presse (Hannover)",
     "type": "print",
-    "controlDate": "2025-06-28T13:48:32.205Z",
+    "controlDate": "2026-01-11T13:21:56.458Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70856,7 +70856,7 @@
     "rfStatewide": false,
     "name": "Hannoversche Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2025-06-28T13:48:00.852Z",
+    "controlDate": "2026-01-11T13:21:30.820Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70879,7 +70879,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:48:55.819Z",
+    "controlDate": "2026-01-11T13:22:32.034Z",
     "state": "active"
   },
   {
@@ -92953,7 +92953,7 @@
     "rfStatewide": false,
     "name": "Kreis-Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-28T13:12:46.944Z",
+    "controlDate": "2026-01-11T13:04:28.390Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -104056,7 +104056,7 @@
     "name": "www.sonntag-morgenmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T13:17:39.783Z",
+    "controlDate": "2026-01-11T13:12:43.827Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -119431,7 +119431,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:13:36.031Z",
+    "controlDate": "2026-01-11T13:04:37.696Z",
     "state": "active"
   },
   {
@@ -120940,7 +120940,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-28T13:49:12.593Z",
+    "controlDate": "2026-01-11T13:22:46.988Z",
     "state": "active"
   },
   {
@@ -122540,7 +122540,7 @@
     "name": "NP am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T13:48:15.139Z",
+    "controlDate": "2026-01-11T13:21:44.912Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122789,7 +122789,7 @@
     "name": "HAZ am Sonntag (Hannover)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-28T13:47:32.749Z",
+    "controlDate": "2026-01-11T13:21:00.209Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160046,7 +160046,7 @@
     "name": "www.kreiszeitung-wesermarsch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-28T13:14:39.527Z",
+    "controlDate": "2026-01-11T13:07:16.202Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
