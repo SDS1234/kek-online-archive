@@ -172,7 +172,7 @@
     "name": "fratz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:15:58.471Z",
+    "controlDate": "2026-01-12T10:55:23.828Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -5648,7 +5648,7 @@
     "rfStatewide": false,
     "name": "Hochheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-29T11:10:02.220Z",
+    "controlDate": "2026-01-12T10:39:20.602Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -31612,7 +31612,7 @@
     "name": "sensor (Ausgabe Mainz)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:16:10.100Z",
+    "controlDate": "2026-01-12T10:55:44.590Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31632,7 +31632,7 @@
     "name": "sensor (Ausgabe Wiesbaden)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:16:38.953Z",
+    "controlDate": "2026-01-12T10:55:55.945Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -74675,7 +74675,7 @@
     "name": "A am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T10:56:06.563Z",
+    "controlDate": "2026-01-12T10:28:04.641Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -76389,7 +76389,7 @@
     "name": "W am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:14:43.751Z",
+    "controlDate": "2026-01-12T10:53:32.048Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -77299,7 +77299,7 @@
     "name": "M am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:11:03.973Z",
+    "controlDate": "2026-01-12T10:47:23.903Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81294,7 +81294,7 @@
     "rfStatewide": false,
     "name": "Dill-Zeitung",
     "type": "print",
-    "controlDate": "2025-06-29T11:47:44.317Z",
+    "controlDate": "2026-01-12T10:37:41.276Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86355,7 +86355,7 @@
     "rfStatewide": false,
     "name": "Kruschel",
     "type": "print",
-    "controlDate": "2025-06-29T11:10:28.495Z",
+    "controlDate": "2026-01-12T10:39:32.624Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86376,7 +86376,7 @@
     "rfStatewide": false,
     "name": "Allgemeine Zeitung (Mainz)",
     "type": "print",
-    "controlDate": "2025-06-29T11:04:05.413Z",
+    "controlDate": "2026-01-12T10:31:01.578Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86386,7 +86386,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-c481-435f-b6ac-ca179ee67176",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -86416,7 +86416,7 @@
     "rfStatewide": false,
     "name": "Wiesbadener Kurier",
     "type": "print",
-    "controlDate": "2025-06-29T11:15:28.622Z",
+    "controlDate": "2026-01-12T10:54:42.106Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119138,7 +119138,7 @@
     "rfStatewide": false,
     "name": "Starkenburger Echo",
     "type": "print",
-    "controlDate": "2025-10-20T11:47:25.031Z",
+    "controlDate": "2026-01-12T10:52:00.729Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119236,7 +119236,7 @@
     "rfStatewide": false,
     "name": "Hinterländer Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-29T11:48:16.808Z",
+    "controlDate": "2026-01-12T10:38:49.176Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119300,7 +119300,7 @@
     "rfStatewide": false,
     "name": "Herborner Tageblatt",
     "type": "print",
-    "controlDate": "2025-06-29T11:48:09.197Z",
+    "controlDate": "2026-01-12T10:38:26.340Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120141,7 +120141,7 @@
     "rfStatewide": false,
     "name": "Main-Spitze",
     "type": "print",
-    "controlDate": "2025-06-29T11:13:07.411Z",
+    "controlDate": "2026-01-12T10:48:06.187Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120161,7 +120161,7 @@
     "rfStatewide": false,
     "name": "Wormser Zeitung",
     "type": "print",
-    "controlDate": "2025-06-29T11:15:41.014Z",
+    "controlDate": "2026-01-12T10:55:10.067Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120171,7 +120171,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-bf4e-461d-a899-d2c47aa4bdb3",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -132302,7 +132302,7 @@
       "state": "active"
     },
     "type": "tv",
-    "controlDate": "2025-06-29T11:14:06.192Z",
+    "controlDate": "2026-01-12T10:52:35.058Z",
     "rfCategory": {
       "squuid": "5be1a6ad-5d06-4b68-96e4-33a2746127f9",
       "name": "Spartenprogramm (Nachrichten)",
@@ -136850,7 +136850,7 @@
     "name": "VRM Tageszeitungen (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T11:13:24.307Z",
+    "controlDate": "2026-01-12T10:52:19.914Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163167,7 +163167,7 @@
     "name": "P Stadtkulturmagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-07T11:37:30.246Z",
+    "controlDate": "2026-01-12T10:51:23.833Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

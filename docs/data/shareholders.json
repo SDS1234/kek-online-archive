@@ -147233,7 +147233,7 @@
     "name": "VRM GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-17dc-47b0-87cc-2b1436e1a864",
-    "controlDate": "2025-06-29T11:04:33.546Z",
+    "controlDate": "2026-01-12T10:23:37.727Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -147278,15 +147278,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-e72b-4f81-af78-3cc94e071b24",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-c481-435f-b6ac-ca179ee67176",
-          "name": "Bürstädter Zeitung"
-        }
-      },
-      {
         "squuid": "5be1a6b9-a60d-4805-9a80-8ea6b21ed8bc",
         "type": "operate",
         "state": "active",
@@ -147314,15 +147305,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-1e52-4b12-b7a0-91c918753b46",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-bf4e-461d-a899-d2c47aa4bdb3",
-          "name": "Lampertheimer Zeitung"
-        }
-      },
-      {
         "squuid": "5be1a6b9-6d45-40d6-87a8-1481232b9cd7",
         "type": "operate",
         "state": "active",
@@ -147347,24 +147329,6 @@
         "held": {
           "squuid": "5be1a6b1-7a47-4e12-b095-33cc0b7ae268",
           "name": "www.wormser-zeitung.de"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-0c04-482b-b346-39301decfb17",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-c0c2-4c61-a2cd-4b9cb1d07d85",
-          "name": "www.buerstaedter-zeitung.de"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-f30a-427b-bdd0-5b20314c47ac",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-f52e-4852-bf92-2abbaa55c51c",
-          "name": "www.lampertheimer-zeitung.de"
         }
       },
       {
@@ -147671,24 +147635,6 @@
         "held": {
           "squuid": "63d01d14-eebe-4395-9dc5-6056b961d37f",
           "name": "www.vrm-wochenblaetter.de"
-        }
-      },
-      {
-        "squuid": "659e7f35-89b7-4ce7-8fc4-bd782225485f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "659e7f0c-1104-485d-929d-b747796af7b1",
-          "name": "www.hessentoday.de"
-        }
-      },
-      {
-        "squuid": "659e7f72-7f5c-41dc-aed3-84a3303115e1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "659e7f5b-f481-4001-8847-3be0eaccefe6",
-          "name": "www.rlptoday.de"
         }
       },
       {
@@ -163400,7 +163346,7 @@
     "squuid": "62010088-4eb1-48d2-ac78-73a672884598",
     "name": "VP Exploitatie N. V.",
     "state": "active",
-    "controlDate": "2025-06-29T10:51:40.431Z",
+    "controlDate": "2026-01-12T10:20:14.159Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -252579,7 +252525,7 @@
     "squuid": "5fbd1ff9-bde2-41ce-8eeb-e7a36e92ed37",
     "name": "VPC Beteiligungs KG",
     "state": "active",
-    "controlDate": "2025-06-29T10:52:56.230Z",
+    "controlDate": "2026-01-12T10:20:42.515Z",
     "limitedPartnership": true,
     "organizations": [
       {
