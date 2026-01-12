@@ -11,7 +11,7 @@
     "name": "Speisekammer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-01-06T10:20:14.806Z",
+    "controlDate": "2026-01-12T14:50:49.735Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -20276,7 +20276,7 @@
     "rfStatewide": false,
     "name": "Brot",
     "type": "print",
-    "controlDate": "2025-06-30T08:45:28.544Z",
+    "controlDate": "2026-01-12T14:48:42.535Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20300,7 +20300,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:49:14.715Z",
+    "controlDate": "2026-01-12T14:53:28.717Z",
     "state": "active"
   },
   {
@@ -20315,7 +20315,7 @@
     "rfStatewide": false,
     "name": "Modellflieger",
     "type": "print",
-    "controlDate": "2025-06-30T08:47:09.580Z",
+    "controlDate": "2026-01-12T14:50:26.089Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20339,7 +20339,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:50:39.871Z",
+    "controlDate": "2026-01-12T14:54:35.529Z",
     "state": "active"
   },
   {
@@ -20402,7 +20402,7 @@
     "rfStatewide": false,
     "name": "Drones",
     "type": "print",
-    "controlDate": "2025-06-30T08:45:53.732Z",
+    "controlDate": "2026-01-12T14:49:34.139Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20426,7 +20426,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:49:42.804Z",
+    "controlDate": "2026-01-12T14:54:13.992Z",
     "state": "active"
   },
   {
@@ -20500,7 +20500,7 @@
     "rfStatewide": false,
     "name": "Trucks & Details",
     "type": "print",
-    "controlDate": "2025-06-30T08:48:34.173Z",
+    "controlDate": "2026-01-12T14:51:12.417Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20524,7 +20524,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:51:23.470Z",
+    "controlDate": "2026-01-12T14:54:50.961Z",
     "state": "active"
   },
   {
@@ -20559,7 +20559,7 @@
     "rfStatewide": false,
     "name": "Einfach Pizza",
     "type": "print",
-    "controlDate": "2025-06-30T08:46:28.696Z",
+    "controlDate": "2026-01-12T14:49:46.682Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20637,7 +20637,7 @@
     "rfStatewide": false,
     "name": "SchiffsModell",
     "type": "print",
-    "controlDate": "2025-06-30T08:48:05.976Z",
+    "controlDate": "2026-01-12T14:50:38.129Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20661,7 +20661,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:50:52.737Z",
+    "controlDate": "2026-01-12T14:54:43.270Z",
     "state": "active"
   },
   {
@@ -20735,7 +20735,7 @@
     "rfStatewide": false,
     "name": "Teddys kreativ",
     "type": "print",
-    "controlDate": "2025-06-30T08:48:23.237Z",
+    "controlDate": "2026-01-12T14:51:03.199Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -28422,7 +28422,7 @@
     "name": "www.pc-magazin.de/pcgo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T15:17:43.729Z",
+    "controlDate": "2026-01-12T14:45:11.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33740,7 +33740,7 @@
     "name": "www.1fachpizza.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T08:49:03.277Z",
+    "controlDate": "2026-01-12T14:53:17.577Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45423,7 +45423,7 @@
     "name": "www.baugewerbe-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T13:32:41.593Z",
+    "controlDate": "2026-01-12T14:36:46.847Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47861,7 +47861,7 @@
     "name": "www.computer-automation.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-13T10:00:58.105Z",
+    "controlDate": "2026-01-12T14:41:58.939Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -53754,7 +53754,7 @@
     "name": "www.elektroniknet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T13:33:15.409Z",
+    "controlDate": "2026-01-12T14:36:57.841Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71443,7 +71443,7 @@
     "rfStatewide": false,
     "name": "PC go",
     "type": "print",
-    "controlDate": "2025-07-07T11:51:52.783Z",
+    "controlDate": "2026-01-12T14:40:29.503Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71464,7 +71464,7 @@
     "rfStatewide": false,
     "name": "Audio + stereoplay",
     "type": "print",
-    "controlDate": "2025-07-04T11:47:44.278Z",
+    "controlDate": "2026-01-12T14:40:10.928Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71548,7 +71548,7 @@
     "rfStatewide": false,
     "name": "PC Magazin",
     "type": "print",
-    "controlDate": "2025-07-07T11:52:23.960Z",
+    "controlDate": "2026-01-12T14:40:21.647Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71572,7 +71572,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T14:08:59.361Z",
+    "controlDate": "2026-01-12T14:42:45.423Z",
     "state": "active"
   },
   {
@@ -71590,7 +71590,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T15:17:38.243Z",
+    "controlDate": "2026-01-12T14:45:04.252Z",
     "state": "active"
   },
   {
@@ -82879,7 +82879,7 @@
     "name": "www.weltderwunder.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T08:56:37.758Z",
+    "controlDate": "2026-01-12T15:00:09.891Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88873,7 +88873,7 @@
     "name": "www.industrial-production.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-09T12:18:57.344Z",
+    "controlDate": "2026-01-12T14:43:55.749Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94495,7 +94495,7 @@
     "name": "www.labo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-09T13:09:14.575Z",
+    "controlDate": "2026-01-12T14:44:06.426Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97227,7 +97227,7 @@
     "name": "www.lanline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-06T09:57:27.335Z",
+    "controlDate": "2026-01-12T14:44:43.046Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98923,7 +98923,7 @@
     "name": "www.materialfluss.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-06T09:57:47.042Z",
+    "controlDate": "2026-01-12T14:44:55.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115523,7 +115523,7 @@
     "rfStatewide": false,
     "name": "Flugmodell",
     "type": "print",
-    "controlDate": "2025-06-30T08:46:46.599Z",
+    "controlDate": "2026-01-12T14:49:55.966Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115547,7 +115547,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T08:49:54.322Z",
+    "controlDate": "2026-01-12T14:54:26.295Z",
     "state": "active"
   },
   {
@@ -132451,7 +132451,7 @@
     "name": "www.werbe-post.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-21T09:48:01.586Z",
+    "controlDate": "2026-01-12T15:14:03.450Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141548,7 +141548,7 @@
     "name": "www.connect-professional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:08:50.597Z",
+    "controlDate": "2026-01-12T14:42:32.082Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141572,7 +141572,7 @@
     "name": "www.connect-living.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:08:42.354Z",
+    "controlDate": "2026-01-12T14:42:22.316Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141596,7 +141596,7 @@
     "name": "www.connect-channel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-09T09:12:55.652Z",
+    "controlDate": "2026-01-12T14:42:12.878Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142950,7 +142950,7 @@
     "name": "www.weilheimer-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T16:03:56.128Z",
+    "controlDate": "2026-01-12T15:01:30.439Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

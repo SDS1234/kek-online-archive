@@ -19762,7 +19762,7 @@
     "squuid": "5be1a6b6-336a-4655-b0b4-9525dc285f43",
     "name": "Werbeagentur Gerhart e. K. ",
     "state": "active",
-    "controlDate": "2025-06-30T09:11:57.931Z",
+    "controlDate": "2026-01-12T15:06:19.160Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20291,7 +20291,7 @@
     "squuid": "5be1a6b6-5d84-4ce6-9547-d33b0a35f9e3",
     "name": "Welt der Wunder Sendebetrieb GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T08:56:30.701Z",
+    "controlDate": "2026-01-12T14:58:15.585Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -40673,7 +40673,7 @@
     "squuid": "5be1a6b6-21a7-4dcd-b39a-88126066d0a6",
     "name": "Weko Wohnen GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:33:54.482Z",
+    "controlDate": "2026-01-12T14:48:15.163Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -41489,7 +41489,7 @@
     "squuid": "5be1a6b6-69ce-46dd-9aeb-f191984dd6f1",
     "name": "Wendelstein Verlags GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-30T09:06:01.167Z",
+    "controlDate": "2026-01-12T15:04:10.884Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -58388,12 +58388,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -148957,7 +148951,7 @@
     "squuid": "5be1a6b6-b6c8-4ee3-9549-24b1348681fc",
     "name": "Weisser Nebel GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:30:26.874Z",
+    "controlDate": "2026-01-12T14:22:36.695Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -154459,7 +154453,7 @@
     "squuid": "5eb944d8-1a51-44ba-b178-dffde64641e6",
     "name": "Wenderoth Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T09:09:35.266Z",
+    "controlDate": "2026-01-12T15:04:21.433Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170315,7 +170309,7 @@
     "squuid": "5f0c4177-b8ca-4cfc-9263-afb0304f03fa",
     "name": "Weka Group GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:32:35.245Z",
+    "controlDate": "2026-01-12T14:36:38.687Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178243,7 +178237,7 @@
     "squuid": "5ebd2c96-3309-4d0a-b15b-b1692874626c",
     "name": "Wendelstein Verlags Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T09:05:44.502Z",
+    "controlDate": "2026-01-12T15:03:04.920Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -189229,12 +189223,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
       }
     ]
   },
@@ -192875,12 +192863,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
       }
     ],
     "operates": [
@@ -192900,6 +192882,15 @@
         "held": {
           "squuid": "63d14252-8ac9-4dfa-8fde-5be6459668fe",
           "name": "www.blickpunkt-euskirchen.de"
+        }
+      },
+      {
+        "squuid": "69650fd1-a258-4b10-aaba-0ee6e578ea6d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63d157dc-abbf-45d0-8884-9c2033ae38e9",
+          "name": "www.werbe-post.de"
         }
       }
     ]
@@ -193061,12 +193052,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -197379,27 +197364,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Werbepost Anzeigenblatt GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "63d157ed-e493-4723-9c62-922179b2aa2e",
-    "controlDate": "2024-07-15T14:28:32.160Z",
+    "name": "Werbepost Anzeigenblatt GmbH & Co. KG",
+    "state": "archived",
+    "controlDate": "2026-01-12T15:08:25.967Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "63d15804-bc82-4f21-9b8b-72b02d31a1d5",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63d157dc-abbf-45d0-8884-9c2033ae38e9",
-          "name": "www.werbe-post.de"
-        }
       }
     ]
   },
@@ -197627,12 +197602,13 @@
   {
     "squuid": "63d1584a-748a-457d-bfc6-6c1389aa4c62",
     "name": "Werbepost Anzeigenblatt Verwaltungs-GmbH",
-    "state": "active",
-    "controlDate": "2025-06-30T09:12:23.029Z",
+    "state": "archived",
+    "controlDate": "2026-01-12T15:08:17.615Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -205561,7 +205537,7 @@
     "squuid": "5ec3b4fc-f89f-42e4-a411-723be12a785c",
     "name": "Weiss-Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:28:42.827Z",
+    "controlDate": "2026-01-12T14:19:16.115Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205742,7 +205718,7 @@
     "squuid": "5ec3b5dc-3131-4dc2-9ea5-73b76bef278b",
     "name": "WM-Beteiligungs- und Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T12:58:23.376Z",
+    "controlDate": "2026-01-12T14:21:39.629Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221149,7 +221125,7 @@
     "squuid": "5be1a6b6-066d-4a9c-8fc5-81ac88fa3508",
     "name": "WM-Beteiligungs- und Verwaltungs-GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-06-30T12:58:00.671Z",
+    "controlDate": "2026-01-12T14:21:26.404Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -235575,7 +235551,7 @@
     "squuid": "5be1a6b6-d7e5-4290-beef-98e4db08cdd1",
     "name": "Weka Media Publishing GmbH",
     "state": "active",
-    "controlDate": "2025-01-06T09:36:36.464Z",
+    "controlDate": "2026-01-12T14:38:12.157Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292630,7 +292606,7 @@
     "name": "Weiss-Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5354-4ec6-b0ac-76cf646f1681",
-    "controlDate": "2025-06-29T13:29:00.376Z",
+    "controlDate": "2026-01-12T14:19:22.441Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -297929,7 +297905,7 @@
     "squuid": "5be1a6b6-02f9-4c3c-bcd7-bc0823545469",
     "name": "Wenderoth GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-07-15T11:24:01.445Z",
+    "controlDate": "2026-01-12T15:05:55.734Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -315759,7 +315735,7 @@
     "squuid": "60e6cd71-27b7-4f99-9110-de7bb7d7a468",
     "name": "Wellhausen & Marquardt Mediengesellschaft bR",
     "state": "active",
-    "controlDate": "2025-06-30T08:45:19.037Z",
+    "controlDate": "2026-01-12T14:48:30.249Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
