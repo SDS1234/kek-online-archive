@@ -7583,7 +7583,7 @@
     "squuid": "5be1a6b6-9111-4289-915f-4a540b30198b",
     "name": "Warner Media International Ltd.",
     "state": "active",
-    "controlDate": "2025-06-29T12:45:30.018Z",
+    "controlDate": "2026-01-12T12:41:10.313Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -7601,7 +7601,7 @@
     "squuid": "5be1a6b6-1318-4282-ac27-12284431ce4e",
     "name": "Warner Communications LLC",
     "state": "active",
-    "controlDate": "2025-06-29T12:45:08.756Z",
+    "controlDate": "2026-01-12T12:37:20.933Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -7632,7 +7632,7 @@
     "squuid": "5be1a6b6-0d74-4d7f-a7eb-c311f1884543",
     "name": "Warner Media LLC",
     "state": "active",
-    "controlDate": "2025-06-29T12:45:46.348Z",
+    "controlDate": "2026-01-12T12:41:30.267Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58674,7 +58674,7 @@
     "squuid": "5be1a6b6-fde0-477e-bfdd-f31e32676b3b",
     "name": "Warner Bros. Discovery, Inc.",
     "state": "active",
-    "controlDate": "2025-06-29T12:44:17.940Z",
+    "controlDate": "2026-01-12T12:36:41.653Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -66249,7 +66249,7 @@
     "squuid": "5f8ed9d0-98ae-4ce9-916b-650813a60ae2",
     "name": "WB Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-29T12:58:51.939Z",
+    "controlDate": "2026-01-12T12:49:03.460Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -71761,7 +71761,7 @@
     "squuid": "5be1a6b6-0820-4da3-a7ee-fa181a4628f5",
     "name": "Wartburg Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T12:46:25.654Z",
+    "controlDate": "2026-01-12T12:42:36.572Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -72640,7 +72640,7 @@
     "squuid": "5be1a6b6-47d8-447a-a668-6f400b1744ca",
     "name": "Wedco International Holdings Inc.",
     "state": "active",
-    "controlDate": "2025-06-29T13:10:09.526Z",
+    "controlDate": "2026-01-12T13:12:30.994Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -93037,7 +93037,7 @@
     "squuid": "5ef31557-abdd-45d9-bdc6-8796455477ba",
     "name": "Wandel Solar Asset GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-29T12:41:45.386Z",
+    "controlDate": "2026-01-12T12:35:24.992Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -159050,7 +159050,7 @@
     "squuid": "5f9a91f5-0e1f-4b89-bbf9-a7ab39390a5d",
     "name": "Wandel Solar Projekt GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T12:41:58.210Z",
+    "controlDate": "2026-01-12T12:36:06.329Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163417,7 +163417,7 @@
     "squuid": "5ff72250-2062-40b1-80e3-7aab1307ff7f",
     "name": "Weimer Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-11-25T11:09:07.109Z",
+    "controlDate": "2026-01-12T13:14:03.294Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163472,15 +163472,6 @@
         }
       },
       {
-        "squuid": "61bb3296-b348-46be-8cf2-9c06eb873541",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "61bb3203-fdca-499f-9f04-22703852b5cf",
-          "name": "Die Gazette"
-        }
-      },
-      {
         "squuid": "61bb3359-7e69-4e62-b2a7-2448a09d5648",
         "type": "operate",
         "state": "active",
@@ -163496,15 +163487,6 @@
         "held": {
           "squuid": "61bb332d-06b2-4f60-bed9-73e62b361f74",
           "name": "Börse am Sonntag"
-        }
-      },
-      {
-        "squuid": "677ba061-7d0d-4fec-869b-d2d9e1fdc3b1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "677ba044-7fc9-4123-ace6-6490b2632477",
-          "name": "www.gazette.de"
         }
       }
     ]
@@ -181630,7 +181612,7 @@
     "squuid": "5d306b00-fd6f-48e9-9f73-3b50a96e77d2",
     "name": "WAZ Ausland Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T12:58:30.909Z",
+    "controlDate": "2026-01-12T12:48:23.750Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188074,7 +188056,7 @@
     "squuid": "5e1dbf24-64ce-4ec7-9735-d1a9a050586d",
     "name": "WBVZ Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:01:05.745Z",
+    "controlDate": "2026-01-12T12:57:45.930Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191295,7 +191277,7 @@
     "squuid": "61e17045-769e-41f2-bc75-6aec7853ce0d",
     "name": "WB-Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:00:37.550Z",
+    "controlDate": "2026-01-12T12:51:31.374Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204728,7 +204710,7 @@
     "squuid": "5cde9429-5a1d-4b2b-bf83-a85a586d7316",
     "name": "Wedco Global Ventures LLC",
     "state": "active",
-    "controlDate": "2025-06-29T13:09:46.036Z",
+    "controlDate": "2026-01-12T13:12:19.887Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -205682,7 +205664,7 @@
     "squuid": "5d385f47-63aa-4a79-bd88-dc10abf13377",
     "name": "WB-Beteiligungs-GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-29T13:00:17.508Z",
+    "controlDate": "2026-01-12T12:51:23.468Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -215445,7 +215427,7 @@
     "squuid": "5be1a6b6-01f7-46b9-84f3-35ca9e845041",
     "name": "Wedco EMEA Ventures Ltd.",
     "state": "active",
-    "controlDate": "2025-06-29T13:09:26.853Z",
+    "controlDate": "2026-01-12T13:11:45.219Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -250592,7 +250574,7 @@
     "squuid": "5be1a6b6-0f93-4f35-9b21-42a3e80b70aa",
     "name": "Webedia GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:01:54.606Z",
+    "controlDate": "2026-01-12T13:01:56.959Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -259364,7 +259346,7 @@
     "squuid": "5be1a6b6-8ed3-4d94-a2c5-24d994e914b7",
     "name": "Webfail Entertainment GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:08:38.407Z",
+    "controlDate": "2026-01-12T13:09:36.593Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275587,7 +275569,7 @@
     "squuid": "5be1a6b6-1a58-4559-a484-43b1c6e79b3a",
     "name": "Webedia S.A.",
     "state": "active",
-    "controlDate": "2025-06-29T13:03:05.924Z",
+    "controlDate": "2026-01-12T13:01:18.319Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282418,7 +282400,7 @@
     "squuid": "5be1a6b6-7e0d-45d8-a072-cd1e1be833a9",
     "name": "Warner Bros. Entertainment, Inc.",
     "state": "active",
-    "controlDate": "2025-06-29T12:44:47.922Z",
+    "controlDate": "2026-01-12T12:37:01.811Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -292369,7 +292351,7 @@
     "squuid": "5be1a6b6-e650-4c70-9fc2-158b86c1dd7e",
     "name": "WEGA Support GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T13:10:34.093Z",
+    "controlDate": "2026-01-12T13:13:19.799Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -315550,6 +315532,7 @@
     "squuid": "686bd6be-192a-4487-8201-8ee97003518b",
     "name": "WarnerMedia Holdings, Inc. ",
     "state": "active",
+    "controlDate": "2026-01-12T12:41:36.050Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

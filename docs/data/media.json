@@ -15255,7 +15255,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:22:47.773Z",
+    "controlDate": "2026-01-12T13:32:28.794Z",
     "state": "active"
   },
   {
@@ -30063,7 +30063,7 @@
     "name": "www.wartburgradio.org",
     "type": "online",
     "squuid": "6866b167-a530-41f6-8bc7-00df1a0ddcc0",
-    "controlDate": "2025-07-15T16:01:50.130Z",
+    "controlDate": "2026-01-12T12:44:01.933Z",
     "state": "active"
   },
   {
@@ -32728,7 +32728,7 @@
     "state": "archived"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "677ba044-7fc9-4123-ace6-6490b2632477",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49980,7 +49980,7 @@
     "name": "Wirtschaftskurier",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T13:20:44.890Z",
+    "controlDate": "2026-01-12T13:20:09.338Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -50064,7 +50064,7 @@
     "name": "www.wirtschaftskurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T13:23:37.788Z",
+    "controlDate": "2026-01-12T13:33:19.824Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -50847,7 +50847,7 @@
   },
   {
     "pressPublishingIntervals": 4,
-    "state": "active",
+    "state": "archived",
     "squuid": "61bb3203-fdca-499f-9f04-22703852b5cf",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50857,7 +50857,7 @@
     "name": "Die Gazette",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T13:19:43.488Z",
+    "controlDate": "2026-01-12T13:18:41.754Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -52178,7 +52178,7 @@
     "name": "Börse am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-29T13:16:58.943Z",
+    "controlDate": "2026-01-12T13:16:13.138Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -52255,7 +52255,7 @@
     "name": "www.boerse-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T13:21:32.009Z",
+    "controlDate": "2026-01-12T13:29:35.784Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98903,7 +98903,7 @@
     "rfStatewide": false,
     "name": "Markt und Mittelstand",
     "type": "print",
-    "controlDate": "2025-06-29T13:20:22.200Z",
+    "controlDate": "2026-01-12T13:19:27.893Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107430,7 +107430,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:03:30.237Z",
+    "controlDate": "2026-01-12T13:02:04.038Z",
     "state": "active"
   },
   {
@@ -107472,7 +107472,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:04:14.667Z",
+    "controlDate": "2026-01-12T13:04:00.480Z",
     "state": "active"
   },
   {
@@ -109888,7 +109888,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:09:09.407Z",
+    "controlDate": "2026-01-12T13:10:08.702Z",
     "state": "active",
     "matchedNames": [
       "webfail.com"
@@ -112812,7 +112812,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:04:05.561Z",
+    "controlDate": "2026-01-12T13:03:53.042Z",
     "state": "active"
   },
   {
@@ -112830,7 +112830,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T13:03:57.370Z",
+    "controlDate": "2026-01-12T13:03:37.234Z",
     "state": "active"
   },
   {
@@ -148471,7 +148471,7 @@
     "name": "www.theeuropean.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T13:23:28.516Z",
+    "controlDate": "2026-01-12T13:32:35.669Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
