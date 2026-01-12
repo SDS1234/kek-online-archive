@@ -80684,6 +80684,15 @@
           "squuid": "677bd60d-d0a4-4684-b760-38d44dc95fac",
           "name": "www.wdrmaus.de"
         }
+      },
+      {
+        "squuid": "6964b24b-1480-4e94-8502-00c5ad0c8384",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6964b228-0677-488f-b0e4-025b39b82287",
+          "name": "www.quarks.de"
+        }
       }
     ]
   },
@@ -98985,7 +98994,7 @@
     "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f",
     "name": "Girardet Verlag KG",
     "state": "active",
-    "controlDate": "2025-10-28T16:35:53.793Z",
+    "controlDate": "2026-01-12T08:53:42.181Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -264683,7 +264692,7 @@
     "squuid": "5be1a6b6-c1dd-4e40-b132-a5a8d33c3414",
     "name": "VKM Verlagskontor für Medieninhalte GmbH",
     "state": "active",
-    "controlDate": "2025-06-29T09:40:32.722Z",
+    "controlDate": "2026-01-12T09:21:02.487Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

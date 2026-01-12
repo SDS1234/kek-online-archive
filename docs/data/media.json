@@ -13533,7 +13533,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-29T09:40:55.497Z",
+    "controlDate": "2026-01-12T09:22:04.908Z",
     "state": "active"
   },
   {
@@ -44677,6 +44677,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2021-02-01T11:33:36.078Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6964b228-0677-488f-b0e4-025b39b82287",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.quarks.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-12T08:34:55.106Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112418,7 +112442,7 @@
     "rfStatewide": false,
     "name": "Szene Hamburg",
     "type": "print",
-    "controlDate": "2025-06-29T09:40:39.003Z",
+    "controlDate": "2026-01-12T09:21:47.901Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112439,7 +112463,7 @@
     "rfStatewide": false,
     "name": "hamburg:pur",
     "type": "print",
-    "controlDate": "2025-06-29T09:40:46.018Z",
+    "controlDate": "2026-01-12T09:21:57.302Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
