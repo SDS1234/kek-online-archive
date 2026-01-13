@@ -169279,7 +169279,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0714
+    num_medias_weighted=0.0600
     name="5d3026b8-23f2-471a-b07e-6dc821f2ec22"
     in_degree=0
     out_degree=1
@@ -274694,7 +274694,7 @@ digraph {
     type=owns
   ];
   14106 -> 3291 [
-    weight=3.57
+    weight=3
     type=owns
   ];
   14110 -> 3792 [

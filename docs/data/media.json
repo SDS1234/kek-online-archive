@@ -24494,7 +24494,7 @@
     "name": "Apotheken Umschau",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:29:45.225Z",
+    "controlDate": "2026-01-13T15:04:50.364Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24513,7 +24513,7 @@
     "name": "www.apotheken-umschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:32:36.266Z",
+    "controlDate": "2026-01-13T15:07:30.816Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25050,7 +25050,7 @@
     "name": "Apotheken Umschau Eltern",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:30:05.727Z",
+    "controlDate": "2026-01-13T15:04:57.171Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25437,7 +25437,7 @@
     "name": "Diabetes Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:30:18.061Z",
+    "controlDate": "2026-01-13T15:05:19.526Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25480,7 +25480,7 @@
     "name": "www.diabetes-ratgeber.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:32:48.398Z",
+    "controlDate": "2026-01-13T15:07:55.389Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25754,7 +25754,7 @@
     "name": "Senioren Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:30:39.023Z",
+    "controlDate": "2026-01-13T15:06:16.537Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25793,7 +25793,7 @@
     "name": "www.senioren-ratgeber.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:33:11.672Z",
+    "controlDate": "2026-01-13T15:08:45.454Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26252,7 +26252,7 @@
     "name": "medizini",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:31:16.243Z",
+    "controlDate": "2026-01-13T15:06:55.202Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35137,7 +35137,7 @@
     "name": "HausArzt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:30:27.002Z",
+    "controlDate": "2026-01-13T15:05:46.357Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35181,7 +35181,7 @@
     "name": "Ärztlicher Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-06-30T14:33:23.224Z",
+    "controlDate": "2026-01-13T15:09:23.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35282,7 +35282,7 @@
     "name": "www.hausarzt-patientenmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:33:03.537Z",
+    "controlDate": "2026-01-13T15:08:14.810Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43473,7 +43473,7 @@
     "name": "www.wochenkurier.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:39:10.337Z",
+    "controlDate": "2026-01-13T14:34:51.039Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80695,7 +80695,7 @@
     "name": "www.wochenspiegel-thueringen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:51:40.777Z",
+    "controlDate": "2026-01-13T14:38:02.021Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139274,7 +139274,7 @@
     "name": "www.steuertipps.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:11:03.425Z",
+    "controlDate": "2026-01-13T14:49:04.335Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152618,7 +152618,7 @@
     "name": "www.marktspiegel-stadtkurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:02:01.286Z",
+    "controlDate": "2026-01-13T14:44:13.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153887,7 +153887,7 @@
     "name": "www.wzo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T14:01:43.224Z",
+    "controlDate": "2026-01-13T14:43:11.250Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
