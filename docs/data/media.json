@@ -13723,7 +13723,7 @@
     "rfStatewide": false,
     "name": "Brettener Woche",
     "type": "print",
-    "controlDate": "2025-06-30T13:01:06.358Z",
+    "controlDate": "2026-01-13T13:09:50.605Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19956,7 +19956,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T12:37:54.613Z",
+    "controlDate": "2026-01-13T12:38:05.930Z",
     "state": "active"
   },
   {
@@ -29871,7 +29871,7 @@
     "name": "www.wob24.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:08:51.982Z",
+    "controlDate": "2026-01-13T13:13:40.712Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47068,7 +47068,7 @@
     "name": "www.wirin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T12:47:06.122Z",
+    "controlDate": "2026-01-13T12:49:17.939Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71139,7 +71139,7 @@
     "rfStatewide": false,
     "name": "Winsener Anzeiger",
     "type": "print",
-    "controlDate": "2025-06-30T12:40:35.426Z",
+    "controlDate": "2026-01-13T12:41:52.646Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -91716,7 +91716,7 @@
     "name": "www.wobla.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:14:18.076Z",
+    "controlDate": "2026-01-13T13:16:55.131Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -111968,7 +111968,7 @@
     "name": "www.wochenblatt-bb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:16:29.012Z",
+    "controlDate": "2026-01-13T13:36:39.571Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122491,7 +122491,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-30T12:40:58.235Z",
+    "controlDate": "2026-01-13T12:43:19.683Z",
     "state": "active"
   },
   {
@@ -157082,7 +157082,7 @@
     ]
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "6571f185-e9e2-4584-b3de-afe55793dad5",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
