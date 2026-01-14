@@ -13256,7 +13256,7 @@
     "squuid": "5be1a6b6-af92-4839-96f4-2d8d9e234c83",
     "name": "WWZ Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:46:43.061Z",
+    "controlDate": "2026-01-14T09:44:09.699Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -19119,7 +19119,7 @@
     "squuid": "635b707a-6688-435a-8435-06207f6c632a",
     "name": "Your Channels Holding B.V.",
     "state": "active",
-    "controlDate": "2025-06-30T15:36:38.505Z",
+    "controlDate": "2026-01-14T10:07:50.208Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38708,7 +38708,7 @@
     "squuid": "5c4ef62f-a019-47e5-beea-b1dd959178c1",
     "name": "WRC Promoter GmbH",
     "state": "active",
-    "controlDate": "2025-01-07T13:32:21.492Z",
+    "controlDate": "2026-01-14T09:40:01.017Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50092,7 +50092,7 @@
     "squuid": "5be1a6b6-9886-4c70-bfdf-c8c0fdbe4fa8",
     "name": "Your Family Entertainment AG",
     "state": "active",
-    "controlDate": "2025-06-30T15:37:23.817Z",
+    "controlDate": "2026-01-14T10:08:25.151Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -56341,7 +56341,7 @@
     "squuid": "5be1a6b6-09d2-4a02-b37d-f07967576dce",
     "name": "Württemberger Zeitung GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T15:03:20.170Z",
+    "controlDate": "2026-01-14T09:48:07.577Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -71801,7 +71801,7 @@
     "squuid": "5be1a6b6-066f-451c-b247-87acd547bf32",
     "name": "WPV Gesellschaft für Werbung, Presse und Vertrieb mbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:38:27.920Z",
+    "controlDate": "2026-01-14T09:37:07.251Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85181,7 +85181,7 @@
     "squuid": "5be1a6b6-81d0-47c4-ac1b-cee060995d45",
     "name": "WT EQUITIES Ltd.",
     "state": "active",
-    "controlDate": "2025-06-30T14:41:04.416Z",
+    "controlDate": "2026-01-14T09:41:49.462Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -166811,6 +166811,7 @@
     "squuid": "68f7403f-5c84-4592-99d5-fa720068f54f",
     "name": "SDL Lambda Beteiligungs-GmbH",
     "state": "active",
+    "controlDate": "2026-01-14T09:21:27.487Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -172695,6 +172696,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -173038,6 +173049,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -173075,6 +173096,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -173111,6 +173142,16 @@
     "name": "Telstra Group Ltd.",
     "state": "active",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -173232,6 +173273,16 @@
     "name": "Alesia Holdings, Inc.",
     "state": "active",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -174156,6 +174207,29 @@
     "state": "archived",
     "controlDate": "2021-12-13T14:43:17.588Z",
     "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69676343-7951-47b5-ae94-8fd16201cae0",
+    "name": "News Corporation",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -190675,7 +190749,7 @@
     "squuid": "5e2ef842-fe91-4dec-8f04-438ba409dc32",
     "name": "Wälischmiller Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:53:17.437Z",
+    "controlDate": "2026-01-14T09:46:18.123Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190738,7 +190812,7 @@
     "squuid": "5e2ef80a-38c4-4839-b77e-fa2e61cc73f9",
     "name": "Wälischmiller Grundbesitz GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-30T14:53:02.147Z",
+    "controlDate": "2026-01-14T09:46:06.997Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -191612,7 +191686,7 @@
     "squuid": "5d2c4a48-a1d7-4876-a890-0b0caa105fd8",
     "name": "WWE Germany GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:41:26.767Z",
+    "controlDate": "2026-01-14T09:42:15.438Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242694,7 +242768,7 @@
     "squuid": "5be1a6b6-6621-4ea5-bf72-a04134984acb",
     "name": "Wälischmiller Druck & Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:52:51.232Z",
+    "controlDate": "2026-01-14T09:45:09.740Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251156,9 +251230,9 @@
   },
   {
     "squuid": "5be1a6b6-a2c0-4625-857b-6e57ef8de344",
-    "name": "Yahoo EMEA Ltd.",
+    "name": "Yahoo International Ltd.",
     "state": "active",
-    "controlDate": "2025-06-30T15:04:14.439Z",
+    "controlDate": "2026-01-14T09:55:45.707Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -260046,7 +260120,7 @@
     "squuid": "5be1a6b6-1234-46a5-8c28-5563f21a7a0d",
     "name": "Zattoo Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T15:41:36.997Z",
+    "controlDate": "2026-01-14T10:10:51.270Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -262209,7 +262283,7 @@
     "squuid": "5be1a6b6-8485-43fe-a1f4-837f118a6eeb",
     "name": "yeebase media GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T15:05:22.744Z",
+    "controlDate": "2026-01-14T09:59:37.154Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263886,7 +263960,7 @@
     "squuid": "5be1a6b6-444a-46d3-8ea6-ec5b6c5de6f5",
     "name": "Wächter Holding GmbH",
     "state": "active",
-    "controlDate": "2025-06-30T14:53:33.850Z",
+    "controlDate": "2026-01-14T09:46:34.001Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276132,7 +276206,7 @@
     "squuid": "5d2489c1-c069-4bb2-b7de-54db51f63617",
     "name": "YoCaLa Your Career Lane GmbH",
     "state": "active",
-    "controlDate": "2025-01-07T13:51:36.122Z",
+    "controlDate": "2026-01-14T10:04:41.375Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -278051,7 +278125,7 @@
     "squuid": "5be1a6b6-fb94-46d4-99d7-1c0ea401401e",
     "name": "Zattoo Europa AG",
     "state": "active",
-    "controlDate": "2025-06-30T15:42:56.919Z",
+    "controlDate": "2026-01-14T10:10:59.783Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -281550,7 +281624,7 @@
     "squuid": "5be1a6b6-516f-4b6f-aad0-60399ea2eefe",
     "name": "YOL Bildungs- und Medienwerk mbH",
     "state": "active",
-    "controlDate": "2025-06-30T15:16:28.630Z",
+    "controlDate": "2026-01-14T10:06:02.740Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -297115,16 +297189,6 @@
     "state": "active",
     "controlDate": "2025-05-26T11:21:12.712Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",

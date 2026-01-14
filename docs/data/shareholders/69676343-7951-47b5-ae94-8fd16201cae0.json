@@ -1,16 +1,16 @@
 {
-  "name": "Telstra Group Ltd.",
+  "name": "News Corporation",
   "pseudoCompany": false,
-  "squuid": "69675fca-a38c-4b69-b1ab-0d071517b027",
+  "squuid": "69676343-7951-47b5-ae94-8fd16201cae0",
   "owns": [
     {
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "ACN 683 225 738 Pty Ltd.",
-        "squuid": "69675fa8-6e6f-4b6b-a250-6a9844c27979"
+        "name": "Alesia Holdings, Inc.",
+        "squuid": "69675fe9-5480-46a9-be60-3b2da9ce4647"
       },
-      "squuid": "696761a4-7c18-4ad6-85c5-ac3c4cf150db",
+      "squuid": "696763f9-31e7-4c86-a213-2ad82cfc7566",
       "state": "active"
     }
   ],
