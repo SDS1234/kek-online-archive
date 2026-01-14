@@ -38544,15 +38544,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-bf1d-4287-aaba-c1b997e9934a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4f10-41ca-b4f4-3264511454a3",
-          "name": "nicktoons"
-        }
-      },
-      {
         "squuid": "5c545c8a-bb1b-46fd-8b82-f4a81e6f431c",
         "type": "operate",
         "state": "active",
@@ -170014,6 +170005,32 @@
     ]
   },
   {
+    "squuid": "6967488c-abfe-45f2-bd37-3ebc15876781",
+    "name": "RedBird Capital Partners",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "696748cc-64e4-4803-943c-52fcbb5a4f6a",
+    "name": "Ellison Familie (Lawrence J. Ellison u. David Ellison)",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ca5f541-682f-4868-8b7b-2b1ef52bde59",
     "name": "Zweckverband der Volkshochschule Passau ",
     "state": "active",
@@ -170051,6 +170068,45 @@
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "696747ea-0fe6-44af-9148-78216e253330",
+    "name": "New Pluto Global Inc.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69674813-b5f4-42fe-be17-32718a2249b7",
+    "name": "Streubesitz an der New Pluto Global Inc. ",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69674848-c7f0-4065-923f-d228245af414",
+    "name": "ehemalige Gesellschafter der Skydance Media LLC",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -170283,6 +170339,32 @@
           "squuid": "6357d1ab-dfd1-4630-8cca-119a62c15e28",
           "name": "OUTtv"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69674a9e-a385-4d23-8fdd-90d1ec415937",
+    "name": "Kapitalanteile der RedBird Capital Partners",
+    "state": "archived",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69674ac9-cb1b-4963-885d-a7998af0d753",
+    "name": "Kapitalanteile der Ellison Familie",
+    "state": "archived",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -198578,9 +198660,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
     ]
