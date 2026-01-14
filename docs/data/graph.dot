@@ -18280,8 +18280,8 @@ digraph {
     type=print
     state=active
     label="Borkumer Zeitung"
-    num_owners=26
-    num_owners_weighted=14.1758
+    num_owners=29
+    num_owners_weighted=17.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9cf4-4038-bdf5-5895399d512b"
@@ -54124,8 +54124,8 @@ digraph {
     type=print
     state=active
     label="General-Anzeiger (Rhauderfehn)"
-    num_owners=26
-    num_owners_weighted=14.1758
+    num_owners=29
+    num_owners_weighted=17.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9323-45e8-b60c-a01d83d7034e"
@@ -106888,8 +106888,8 @@ digraph {
     type=print
     state=active
     label="Ostfriesen-Zeitung"
-    num_owners=26
-    num_owners_weighted=14.1758
+    num_owners=29
+    num_owners_weighted=17.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1a9b-4902-91bc-19d758f3cf1f"
@@ -181840,8 +181840,8 @@ digraph {
     type=online
     state=active
     label="www.ga-online.de"
-    num_owners=26
-    num_owners_weighted=14.1758
+    num_owners=29
+    num_owners_weighted=17.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8fe4-4b66-863e-a1a1486c9d7e"
@@ -193756,8 +193756,8 @@ digraph {
     type=online
     state=active
     label="www.oz-online.de"
-    num_owners=26
-    num_owners_weighted=14.1758
+    num_owners=29
+    num_owners_weighted=17.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f3b8-4141-b40d-e554de3de88d"

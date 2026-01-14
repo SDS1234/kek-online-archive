@@ -1708,7 +1708,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T11:46:13.983Z",
+    "controlDate": "2026-01-14T16:21:27.012Z",
     "state": "active"
   },
   {
@@ -9454,7 +9454,7 @@
     "name": "www.montakt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T11:46:37.174Z",
+    "controlDate": "2026-01-14T16:22:28.609Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -10933,7 +10933,7 @@
     "rfStatewide": false,
     "name": "Zeit Geschichte",
     "type": "print",
-    "controlDate": "2025-07-01T12:03:00.812Z",
+    "controlDate": "2026-01-14T16:31:53.336Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13861,7 +13861,7 @@
     "rfStatewide": false,
     "name": "Jüdische Allgemeine",
     "type": "print",
-    "controlDate": "2025-07-06T10:06:22.948Z",
+    "controlDate": "2026-01-14T16:35:18.518Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -26054,7 +26054,7 @@
     "name": "Zeit für Unternehmer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-01T12:03:44.823Z",
+    "controlDate": "2026-01-14T16:32:38.381Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30839,7 +30839,7 @@
     "name": "Zeit Verbrechen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-01T12:03:19.072Z",
+    "controlDate": "2026-01-14T16:32:08.847Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33511,7 +33511,7 @@
     "name": "www.zdf.de/sendung-verpasst",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:31.663Z",
+    "controlDate": "2026-01-14T17:13:44.742Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35749,7 +35749,7 @@
     "name": "www.zdf.de/nachrichten",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:12.817Z",
+    "controlDate": "2026-01-14T17:12:03.099Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72219,7 +72219,7 @@
     "rfStatewide": false,
     "name": "Zeit Wissen",
     "type": "print",
-    "controlDate": "2025-07-01T12:03:31.799Z",
+    "controlDate": "2026-01-14T16:32:18.384Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72261,7 +72261,7 @@
     "rfStatewide": false,
     "name": "Zeit Campus",
     "type": "print",
-    "controlDate": "2025-07-01T12:02:51.518Z",
+    "controlDate": "2026-01-14T16:31:43.677Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72282,7 +72282,7 @@
     "rfStatewide": false,
     "name": "Die Zeit",
     "type": "print",
-    "controlDate": "2025-07-01T12:02:19.597Z",
+    "controlDate": "2026-01-14T16:31:34.961Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72303,7 +72303,7 @@
     "rfStatewide": false,
     "name": "Zeit Leo",
     "type": "print",
-    "controlDate": "2025-07-01T12:03:09.311Z",
+    "controlDate": "2026-01-14T16:32:00.409Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83580,7 +83580,7 @@
     "rfStatewide": false,
     "name": "Hellweger Anzeiger",
     "type": "print",
-    "controlDate": "2025-07-06T08:12:28.526Z",
+    "controlDate": "2026-01-14T16:20:39.556Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84555,7 +84555,7 @@
     "name": "www.bad-vilbeler-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:34:42.178Z",
+    "controlDate": "2026-01-14T17:04:10.930Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84643,7 +84643,7 @@
     "name": "www.karbener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:34:50.271Z",
+    "controlDate": "2026-01-14T17:04:49.637Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85695,7 +85695,7 @@
     "name": "www.zdf.de/dokumentation/zdfinfo-doku",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:02.362Z",
+    "controlDate": "2026-01-14T17:11:48.621Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85799,7 +85799,7 @@
     "name": "www.zdf.de/sender/zdfneo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:23.003Z",
+    "controlDate": "2026-01-14T17:13:35.574Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -87563,7 +87563,7 @@
     "rfStatewide": false,
     "name": "General-Anzeiger (Rhauderfehn)",
     "type": "print",
-    "controlDate": "2025-07-01T12:09:02.191Z",
+    "controlDate": "2026-01-14T16:37:51.143Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87583,7 +87583,7 @@
     "rfStatewide": false,
     "name": "Ostfriesen-Zeitung",
     "type": "print",
-    "controlDate": "2025-07-01T12:09:14.148Z",
+    "controlDate": "2026-01-14T16:38:04.167Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87606,7 +87606,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T12:10:16.924Z",
+    "controlDate": "2026-01-14T16:39:09.200Z",
     "state": "active"
   },
   {
@@ -88772,7 +88772,7 @@
     "rfStatewide": false,
     "name": "Borkumer Zeitung",
     "type": "print",
-    "controlDate": "2025-07-01T12:08:40.187Z",
+    "controlDate": "2026-01-14T16:37:32.021Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -102058,7 +102058,7 @@
     "rfStatewide": false,
     "name": "Westfälische Rundschau (Ausgaben Unna/Kamen)",
     "type": "print",
-    "controlDate": "2025-07-01T11:58:23.419Z",
+    "controlDate": "2026-01-14T16:28:36.278Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121402,7 +121402,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T12:09:40.093Z",
+    "controlDate": "2026-01-14T16:38:47.242Z",
     "state": "active"
   },
   {
@@ -121480,7 +121480,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T12:09:29.227Z",
+    "controlDate": "2026-01-14T16:38:29.180Z",
     "state": "active"
   },
   {
@@ -123418,7 +123418,7 @@
     "rfStatewide": false,
     "name": "Weilheimer Tagblatt",
     "type": "print",
-    "controlDate": "2025-07-01T11:31:53.412Z",
+    "controlDate": "2026-01-14T16:11:02.732Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -132948,7 +132948,7 @@
     "name": "Zeitmagazin Wochenmarkt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-01T12:03:56.013Z",
+    "controlDate": "2026-01-14T16:32:47.928Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149401,7 +149401,7 @@
     "name": "www.zdf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:51:50.932Z",
+    "controlDate": "2026-01-14T17:11:39.728Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149445,7 +149445,7 @@
     "name": "www.zdfsport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:38.961Z",
+    "controlDate": "2026-01-14T17:13:55.198Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149469,7 +149469,7 @@
     "name": "www.zdftivi.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:52:46.265Z",
+    "controlDate": "2026-01-14T17:14:04.325Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149513,7 +149513,7 @@
     "name": "www.heute.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:50:31.097Z",
+    "controlDate": "2026-01-14T17:13:22.655Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153166,7 +153166,7 @@
     "name": "www.rontv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:37:38.333Z",
+    "controlDate": "2026-01-14T17:06:18.626Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
