@@ -15162,16 +15162,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -54491,16 +54481,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -88554,7 +88534,7 @@
         "state": "active",
         "held": {
           "squuid": "64f07b97-f6d3-4b92-905a-906807827944",
-          "name": "DAZN Rise"
+          "name": "DAZN RISE"
         }
       }
     ]
@@ -170010,6 +169990,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -170022,6 +170012,16 @@
     "name": "Ellison Familie (Lawrence J. Ellison u. David Ellison)",
     "state": "active",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -170078,6 +170078,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -170091,6 +170101,16 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -170103,6 +170123,16 @@
     "name": "ehemalige Gesellschafter der Skydance Media LLC",
     "state": "active",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -170193,16 +170223,6 @@
     "state": "active",
     "controlDate": "2026-01-05T14:49:21.436Z",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -172209,13 +172229,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -172674,6 +172690,19 @@
     ]
   },
   {
+    "squuid": "69675f3b-aae1-4a7e-8926-a4539d9e54be",
+    "name": "The Second Sports Investment Company",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "676946d3-38e5-4cd5-990f-fcd133a05985",
     "name": "Helikon Group",
     "state": "active",
@@ -173004,6 +173033,19 @@
     ]
   },
   {
+    "squuid": "69675f5b-8502-4fba-ae7e-adf8576b16dc",
+    "name": "Eleven HoldCo LLP",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ca74c04-949d-4c60-b355-d5ed8c654f19",
     "name": "Baud, Maximilian",
     "state": "active",
@@ -173028,6 +173070,19 @@
     ]
   },
   {
+    "squuid": "69675fa8-6e6f-4b6b-a250-6a9844c27979",
+    "name": "ACN 683 225 738 Pty Ltd.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ca74c0f-724f-4df3-bd19-3e57fedeba91",
     "name": "Baud, Isabelle",
     "state": "active",
@@ -173047,6 +173102,19 @@
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69675fca-a38c-4b69-b1ab-0d071517b027",
+    "name": "Telstra Group Ltd.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -173155,6 +173223,19 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69675fe9-5480-46a9-be60-3b2da9ce4647",
+    "name": "Alesia Holdings, Inc.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -272108,16 +272189,6 @@
     "controlDate": "2025-06-23T10:21:40.159Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -272168,16 +272239,6 @@
     "name": "Redstone, Shari Ellin",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
