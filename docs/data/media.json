@@ -1643,7 +1643,7 @@
     "rfStatewide": false,
     "name": "Geseker Zeitung",
     "type": "print",
-    "controlDate": "2025-07-01T09:11:28.419Z",
+    "controlDate": "2026-01-14T15:06:59.219Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4186,7 +4186,7 @@
     "rfStatewide": false,
     "name": "Winnender Zeitung",
     "type": "print",
-    "controlDate": "2025-07-01T09:20:05.055Z",
+    "controlDate": "2026-01-14T15:13:42.705Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4206,7 +4206,7 @@
     "rfStatewide": false,
     "name": "Schorndorfer Nachrichten",
     "type": "print",
-    "controlDate": "2025-07-01T09:18:27.881Z",
+    "controlDate": "2026-01-14T15:13:05.344Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4226,7 +4226,7 @@
     "rfStatewide": false,
     "name": "Welzheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-07-01T09:19:54.145Z",
+    "controlDate": "2026-01-14T15:13:32.648Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -5970,7 +5970,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T09:00:30.699Z",
+    "controlDate": "2026-01-14T14:39:01.874Z",
     "state": "active"
   },
   {
@@ -5988,7 +5988,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T08:59:43.308Z",
+    "controlDate": "2026-01-14T14:38:19.958Z",
     "state": "active"
   },
   {
@@ -6046,7 +6046,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T08:59:36.111Z",
+    "controlDate": "2026-01-14T14:38:06.683Z",
     "state": "active"
   },
   {
@@ -6064,7 +6064,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T09:00:19.940Z",
+    "controlDate": "2026-01-14T14:38:55.427Z",
     "state": "active"
   },
   {
@@ -6082,7 +6082,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T09:00:05.684Z",
+    "controlDate": "2026-01-14T14:38:38.063Z",
     "state": "active"
   },
   {
@@ -6100,7 +6100,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T08:59:56.357Z",
+    "controlDate": "2026-01-14T14:38:29.340Z",
     "state": "active"
   },
   {
@@ -10954,7 +10954,7 @@
     "rfStatewide": false,
     "name": "Kunst und Auktionen",
     "type": "print",
-    "controlDate": "2025-07-01T09:02:15.426Z",
+    "controlDate": "2026-01-14T14:41:06.398Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10978,7 +10978,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T09:02:35.169Z",
+    "controlDate": "2026-01-14T14:41:20.276Z",
     "state": "active"
   },
   {
@@ -22999,7 +22999,7 @@
     "name": "www.zvw.de/mein-wochenblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T09:20:56.096Z",
+    "controlDate": "2026-01-14T15:15:04.452Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24266,7 +24266,7 @@
     "name": "www.blicker-lippstadt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T10:49:28.972Z",
+    "controlDate": "2026-01-14T15:07:11.172Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72181,7 +72181,7 @@
     "rfStatewide": false,
     "name": "Waiblinger Kreiszeitung",
     "type": "print",
-    "controlDate": "2025-07-01T09:18:48.048Z",
+    "controlDate": "2026-01-14T15:13:22.385Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72204,7 +72204,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T09:21:08.780Z",
+    "controlDate": "2026-01-14T15:13:53.347Z",
     "state": "active"
   },
   {
@@ -72240,7 +72240,7 @@
     "rfStatewide": false,
     "name": "Weltkunst",
     "type": "print",
-    "controlDate": "2025-07-01T09:02:26.330Z",
+    "controlDate": "2026-01-14T14:41:13.751Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90894,7 +90894,7 @@
     "rfStatewide": false,
     "name": "Spotlight",
     "type": "print",
-    "controlDate": "2025-07-01T08:58:23.575Z",
+    "controlDate": "2026-01-14T14:37:55.486Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90915,7 +90915,7 @@
     "rfStatewide": false,
     "name": "écoute",
     "type": "print",
-    "controlDate": "2025-07-01T09:00:40.926Z",
+    "controlDate": "2026-01-14T14:39:12.434Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90936,7 +90936,7 @@
     "rfStatewide": false,
     "name": "Ecos de Espana",
     "type": "print",
-    "controlDate": "2025-07-01T08:58:10.984Z",
+    "controlDate": "2026-01-14T14:36:30.715Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90957,7 +90957,7 @@
     "rfStatewide": false,
     "name": "Adesso",
     "type": "print",
-    "controlDate": "2025-07-01T08:57:47.103Z",
+    "controlDate": "2026-01-14T14:35:58.073Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90998,7 +90998,7 @@
     "rfStatewide": false,
     "name": "Business Spotlight",
     "type": "print",
-    "controlDate": "2025-07-01T08:57:55.232Z",
+    "controlDate": "2026-01-14T14:36:11.432Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91019,7 +91019,7 @@
     "rfStatewide": false,
     "name": "Deutsch perfekt",
     "type": "print",
-    "controlDate": "2025-07-01T08:58:02.385Z",
+    "controlDate": "2026-01-14T14:36:21.383Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91958,7 +91958,7 @@
     "rfStatewide": false,
     "name": "Der Patriot",
     "type": "print",
-    "controlDate": "2025-07-01T09:11:09.772Z",
+    "controlDate": "2026-01-14T15:06:40.310Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106455,7 +106455,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T08:55:55.491Z",
+    "controlDate": "2026-01-14T14:33:01.957Z",
     "state": "active"
   },
   {
@@ -116772,7 +116772,7 @@
     "name": "www.zeit.de/zeitmagazin",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T07:24:52.137Z",
+    "controlDate": "2026-01-14T14:34:39.037Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133164,7 +133164,7 @@
     "name": "www.zeit.de/zett",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T08:56:02.093Z",
+    "controlDate": "2026-01-14T14:34:49.283Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
