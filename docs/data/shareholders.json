@@ -1856,7 +1856,7 @@
     "name": "Öko-Test Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "6384a0b7-ee51-4f9e-a07c-5c0aa496461b",
-    "controlDate": "2025-07-01T12:41:11.366Z",
+    "controlDate": "2026-01-14T17:26:11.303Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -1915,7 +1915,7 @@
     "squuid": "6384a111-f59f-4f9f-a5fd-d6494463ff28",
     "name": "Öko-Test Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-07-01T12:41:02.962Z",
+    "controlDate": "2026-01-14T17:26:05.097Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -181557,6 +181557,19 @@
     ]
   },
   {
+    "squuid": "6967d847-b4de-4057-a572-d3eac5d9ecdf",
+    "name": "SDL Alpha Zweite Beteiligungs-GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "650da632-5148-4a6d-954e-22ecbe1f1041",
     "name": "Streubesitz an der 1&1 Telecommunication SE",
     "state": "archived",
@@ -264029,7 +264042,7 @@
     "squuid": "5be1a6b6-4874-43dd-8fbc-3ba27494b788",
     "name": "Öko-Test AG",
     "state": "active",
-    "controlDate": "2025-07-01T12:42:17.819Z",
+    "controlDate": "2026-01-14T17:26:00.328Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

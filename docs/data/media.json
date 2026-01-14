@@ -46527,7 +46527,7 @@
     "name": "www.orf.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-01T12:47:01.934Z",
+    "controlDate": "2026-01-14T17:26:42.412Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94890,7 +94890,7 @@
     "rfStatewide": false,
     "name": "Öko-Test-Magazin",
     "type": "print",
-    "controlDate": "2025-07-01T12:41:26.906Z",
+    "controlDate": "2026-01-14T17:26:30.023Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94914,7 +94914,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-01T12:41:19.285Z",
+    "controlDate": "2026-01-14T17:26:19.808Z",
     "state": "active"
   },
   {
