@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f7f0b20-76fa-49b7-842c-d6e951559b95",
+  "squuid": "6968ec68-4cb6-42c5-a0df-4ac39de69134",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Roy, Bernd",
-        "squuid": "639affeb-1531-40ac-a1a7-2de9c0f7d332"
+        "name": "Sports Trade GmbH",
+        "squuid": "5fd46a9b-7682-4253-92c4-d4cea1561335"
       },
-      "squuid": "639afffd-a1d1-4b33-80c1-ce80aee7ea46",
+      "squuid": "6968ec93-9e6f-4989-a5ca-8581265a7e11",
       "state": "active"
     }
   ],
-  "name": "www.saaleinfo.tv",
+  "name": "www.sprade.tv/de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-01-15T13:15:15.303Z",
+  "controlDate": "2026-01-15T13:32:38.932Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

@@ -167630,7 +167630,13 @@
     "squuid": "686f897f-172a-437f-8913-21aee12efc92",
     "name": "Medien Saarland GmbH",
     "state": "active",
+    "controlDate": "2026-01-15T13:20:34.861Z",
     "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
@@ -167673,6 +167679,15 @@
         "held": {
           "squuid": "686f8f84-232f-4457-b186-bf93a03f78f5",
           "name": "Saarland Fernsehen 2"
+        }
+      },
+      {
+        "squuid": "6968e956-0a22-4617-9b80-f9b6a5852073",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6968e8f9-be77-4a80-a45b-cacc2cdb832b",
+          "name": "www.saarland-fernsehen.com"
         }
       }
     ]
@@ -211230,6 +211245,11 @@
     "name": "Herzog, Marlene Teresa",
     "state": "active",
     "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
@@ -312260,6 +312280,11 @@
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
       }
     ],
     "operates": [
@@ -312270,6 +312295,15 @@
         "held": {
           "squuid": "5fd46a89-9b85-4a13-ab9d-c7f382404986",
           "name": "sprade.tv"
+        }
+      },
+      {
+        "squuid": "6968ec93-9e6f-4989-a5ca-8581265a7e11",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6968ec68-4cb6-42c5-a0df-4ac39de69134",
+          "name": "www.sprade.tv/de"
         }
       }
     ]
@@ -312496,6 +312530,11 @@
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
       }
     ]
   },
@@ -312508,6 +312547,11 @@
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
         "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
       }
     ]
   },
@@ -312519,6 +312563,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -312836,6 +312885,11 @@
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
         "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]

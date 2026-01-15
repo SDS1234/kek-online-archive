@@ -55222,7 +55222,7 @@
     "name": "www.saaleinfo.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T10:41:51.331Z",
+    "controlDate": "2026-01-15T13:15:15.303Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115288,6 +115288,30 @@
     "state": "active"
   },
   {
+    "state": "active",
+    "squuid": "6968e8f9-be77-4a80-a45b-cacc2cdb832b",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.saarland-fernsehen.com",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-15T13:18:00.746Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-4bb1-41d5-a5d9-31dd4d961195",
@@ -116054,6 +116078,30 @@
     "type": "print",
     "controlDate": "2025-12-18T09:25:08.618Z",
     "pressKind": "Do-It-Yourself",
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6968ec68-4cb6-42c5-a0df-4ac39de69134",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.sprade.tv/de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-15T13:32:38.932Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -147816,7 +147864,7 @@
     "name": "www.schalke04.de/tv/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-21T14:35:45.637Z",
+    "controlDate": "2026-01-15T13:21:06.732Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147912,7 +147960,7 @@
     "name": "www.slethzockt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-02T10:57:36.744Z",
+    "controlDate": "2026-01-15T13:27:34.041Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
