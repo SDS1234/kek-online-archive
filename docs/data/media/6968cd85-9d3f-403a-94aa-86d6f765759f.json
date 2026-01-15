@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f29567b-33bd-439a-95e1-3eff5f425a73",
+  "squuid": "6968cd85-9d3f-403a-94aa-86d6f765759f",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Richter, Stefan",
-        "squuid": "5d0209d1-9cac-41c6-ac85-bdb947b469e1"
+        "name": "MyTVplus Fernsehproduktions GmbH",
+        "squuid": "64c10f04-6e02-41b1-9b8d-b95ea3bd679a"
       },
-      "squuid": "5f2956b0-49a5-4bbf-adeb-c6c448156d66",
+      "squuid": "6968cdc2-8861-44fa-9a32-bb6f57d91011",
       "state": "active"
     }
   ],
-  "name": "www.mdf1.de",
+  "name": "www.mytvplus.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-01-15T11:10:55.600Z",
+  "controlDate": "2026-01-15T11:20:49.436Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
