@@ -183523,6 +183523,30 @@
     ]
   },
   {
+    "squuid": "6968b6ac-446b-4847-b1b3-3952dd4cc70e",
+    "name": "IG Gemeinschaftsantenne e.V.",
+    "state": "active",
+    "controlDate": "2026-01-15T09:45:33.925Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6968b6fe-3d83-4e05-8e68-d4cfd878d800",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6968b6c9-bbc4-47d1-a9b9-fb401d99d65e",
+          "name": "www.badberka.tv"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5d3073cd-f3cf-41fe-9cc5-455f58f59e69",
     "name": "FUNKE Österreich Holding GmbH",
     "state": "active",
