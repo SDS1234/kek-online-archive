@@ -11806,6 +11806,15 @@
           "squuid": "61153059-128c-4182-82b8-12a22c35320a",
           "name": "Ärztlicher Ratgeber"
         }
+      },
+      {
+        "squuid": "6968a19f-3ca4-4905-a0f1-ae376843b5f8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6968a112-451e-4804-8a05-5e6e28b73742",
+          "name": "Medicus"
+        }
       }
     ]
   },
@@ -163738,8 +163747,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -183355,6 +183365,18 @@
           "squuid": "63e36d64-abf8-4402-9e88-7831e9fecce1",
           "name": "www.wochenblatt-bb.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6968a338-b843-4588-8016-bbd039f71740",
+    "name": "Kersting, Peter Michael",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
       }
     ]
   },

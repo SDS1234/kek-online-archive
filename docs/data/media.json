@@ -111311,6 +111311,25 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "6968a112-451e-4804-8a05-5e6e28b73742",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Medicus",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-01-15T08:11:07.466Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Gesundheit"
+  },
+  {
     "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-8413-448b-83c5-58b5c0f7cc18",
