@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f8eee75-4dfa-41df-bd71-f753d8809573",
+  "squuid": "696a173f-49f7-4aeb-a670-8b7167228315",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Funkhaus Würzburg Studiobetriebs-GmbH",
-        "squuid": "68f0d16d-a799-4dfc-9a89-995bd0ea457c"
+        "name": "Christliche Medien München e.V.",
+        "squuid": "5be1a6b6-fb51-4b09-8c7e-4a1b33239a03"
       },
-      "squuid": "696a13b1-befd-4e28-9125-84ef3ff8ed4d",
+      "squuid": "696a17aa-aa99-47e1-a62b-5383e609de73",
       "state": "active"
     }
   ],
-  "name": "www.meincharivari.de",
+  "name": "www.christlichesradio.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-01-16T10:28:09.485Z",
+  "controlDate": "2026-01-16T10:48:02.155Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

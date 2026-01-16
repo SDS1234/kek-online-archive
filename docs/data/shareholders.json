@@ -77696,6 +77696,11 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -77710,6 +77715,15 @@
         "held": {
           "squuid": "5be1a6b1-8304-466a-9635-c57d7eb01bef",
           "name": "Christliches Radio München (CRM)"
+        }
+      },
+      {
+        "squuid": "696a17aa-aa99-47e1-a62b-5383e609de73",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "696a173f-49f7-4aeb-a670-8b7167228315",
+          "name": "www.christlichesradio.de"
         }
       }
     ]
@@ -209442,6 +209456,17 @@
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
+    ],
+    "operates": [
+      {
+        "squuid": "696a13b1-befd-4e28-9125-84ef3ff8ed4d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f8eee75-4dfa-41df-bd71-f753d8809573",
+          "name": "www.meincharivari.de"
+        }
+      }
     ]
   },
   {
@@ -263966,7 +263991,7 @@
     "name": "kulthitRadio GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "619e5138-2fd5-41a6-8e2e-720a27ab085e",
-    "controlDate": "2026-01-05T13:08:26.462Z",
+    "controlDate": "2026-01-16T10:44:28.091Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263997,6 +264022,15 @@
         "held": {
           "squuid": "6319ba2d-aeee-4dd5-ad49-eb9e38585fd0",
           "name": "Kulthitradio.nrw"
+        }
+      },
+      {
+        "squuid": "696a16f6-0be5-47f2-a74c-080137a03e2c",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "696a169f-084a-4f1d-8b51-3fa8eee98ce6",
+          "name": "www.koelsch-radio.de"
         }
       }
     ]
