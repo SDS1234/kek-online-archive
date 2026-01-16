@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "6865191b-223b-4d01-b534-6b68b516f967",
+  "squuid": "696a0e59-4feb-4596-a8e9-405f41309187",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Wegler, René",
-        "squuid": "5c5839b6-d13d-4e1f-b530-3b94d2dd9e00"
+        "name": " Radio Netzwerk Berlin e.V.",
+        "squuid": "5cb4780d-bd31-4e39-92a1-070a48e6a5ee"
       },
-      "squuid": "68651a7e-ef17-4271-b9b1-4d5eb8042f71",
+      "squuid": "696a0eb6-2b26-4532-acc3-115d6894fa34",
       "state": "active"
     }
   ],
-  "name": "www.torgau-tv.de",
+  "name": "www.radionetzwerkberlin.org",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-01-15T14:42:49.628Z",
+  "controlDate": "2026-01-16T10:09:40.134Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

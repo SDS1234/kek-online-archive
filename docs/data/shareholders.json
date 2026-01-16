@@ -1411,6 +1411,11 @@
     "controlDate": "2021-12-07T14:12:51.163Z",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
         "name": "mabb",
         "fullName": "Medienanstalt Berlin-Brandenburg",
@@ -1425,6 +1430,15 @@
         "held": {
           "squuid": "5cb478f7-e0cd-4ab7-aae7-adec6127e2f0",
           "name": "24/3 FM - Radio Netzwerk Berlin"
+        }
+      },
+      {
+        "squuid": "696a0eb6-2b26-4532-acc3-115d6894fa34",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "696a0e59-4feb-4596-a8e9-405f41309187",
+          "name": "www.radionetzwerkberlin.org"
         }
       }
     ]
@@ -55868,7 +55882,7 @@
     "squuid": "5be1a6b6-5d08-487e-a8b2-27432c2dbd92",
     "name": "TV Halle Fernsehgesellschaft mbH",
     "state": "active",
-    "controlDate": "2022-07-15T15:41:47.566Z",
+    "controlDate": "2026-01-15T16:30:43.908Z",
     "organizations": [
       {
         "squuid": "5b083111-c3f0-4d53-bb60-aa62adaf91b0",
@@ -185276,6 +185290,7 @@
     "squuid": "6874e949-83e8-48c0-a9e3-c5b96c6805fa",
     "name": "CSP Counseling Studio Productions GmbH",
     "state": "active",
+    "controlDate": "2026-01-16T09:44:37.452Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
