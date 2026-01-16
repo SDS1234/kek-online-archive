@@ -155269,6 +155269,7 @@
       "state": "active"
     },
     "type": "radio",
+    "controlDate": "2026-01-16T12:39:39.503Z",
     "rfSupervisingAuthority": {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
       "name": "mabb",
@@ -160170,7 +160171,7 @@
     "name": "www.secondradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T16:08:52.106Z",
+    "controlDate": "2026-01-16T12:39:06.969Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
