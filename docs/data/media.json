@@ -27686,7 +27686,7 @@
     "name": "www.novumfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T08:58:59.869Z",
+    "controlDate": "2026-01-16T11:38:48.104Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27776,7 +27776,7 @@
     "name": "www.leipzig-beatzz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T08:14:01.628Z",
+    "controlDate": "2026-01-16T11:35:19.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38501,7 +38501,7 @@
     "name": "www.galaxy-oberfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-04-24T10:23:44.767Z",
+    "controlDate": "2026-01-16T11:28:00.039Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -119382,6 +119382,30 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "696a245a-a615-4a96-acf7-2a842a99a9fb",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.primal.fm",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-16T11:43:53.126Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
     "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-01da-4609-86ad-5c89d530a8d9",
@@ -119876,6 +119900,30 @@
     },
     "controlDate": "2022-03-31T15:23:37.369Z",
     "state": "archived"
+  },
+  {
+    "state": "active",
+    "squuid": "696a2e0a-2e37-44f2-ac70-8682d0a1bb85",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.saarfunk.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-01-16T12:24:48.614Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "organization": {
@@ -144335,7 +144383,7 @@
     "name": "www.radioinpulz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T07:57:43.718Z",
+    "controlDate": "2026-01-16T11:33:43.075Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156746,7 +156794,7 @@
     "name": "www.radio-opera.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T14:37:51.098Z",
+    "controlDate": "2026-01-16T11:59:52.748Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156788,7 +156836,7 @@
     "name": "www.radio-ostrock.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-03T14:39:16.504Z",
+    "controlDate": "2026-01-16T12:04:04.253Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156906,7 +156954,7 @@
     "name": "www.radioprimaton.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-20T16:02:16.601Z",
+    "controlDate": "2026-01-16T12:05:45.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

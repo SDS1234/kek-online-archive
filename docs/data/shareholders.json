@@ -12750,6 +12750,11 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -12764,6 +12769,15 @@
         "held": {
           "squuid": "68652f29-6fab-44ec-9743-85e4dda7f9c1",
           "name": "PRIMAL.FM"
+        }
+      },
+      {
+        "squuid": "696a2491-0431-49fa-b8de-3a14b937b16e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "696a245a-a615-4a96-acf7-2a842a99a9fb",
+          "name": "www.primal.fm"
         }
       }
     ]
@@ -102436,6 +102450,15 @@
           "squuid": "5be1a6b1-23da-4d7f-ad30-a9f721a595bd",
           "name": "Radio Bamberg"
         }
+      },
+      {
+        "squuid": "696a20d3-8837-454c-bfc0-4f71a21706f8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f902349-03de-453e-b71f-17c69c0169cb",
+          "name": "www.galaxy-oberfranken.de"
+        }
       }
     ]
   },
@@ -167716,6 +167739,15 @@
         "held": {
           "squuid": "6968e8f9-be77-4a80-a45b-cacc2cdb832b",
           "name": "www.saarland-fernsehen.com"
+        }
+      },
+      {
+        "squuid": "696a2e2c-e795-4c39-b8d1-716e830f63e5",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "696a2e0a-2e37-44f2-ac70-8682d0a1bb85",
+          "name": "www.saarfunk.de"
         }
       }
     ]
