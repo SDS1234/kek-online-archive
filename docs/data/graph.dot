@@ -175096,8 +175096,8 @@ digraph {
     type=online
     state=active
     label="www.business-punk.com"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=5
+    num_owners_weighted=3.9000
     num_medias=0
     num_medias_weighted=0.0000
     name="5bf6ca08-fc55-48c2-a08a-bb6b7f0a6302"
