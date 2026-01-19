@@ -2880,6 +2880,19 @@
     ]
   },
   {
+    "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005",
+    "name": "Schwarz Corporate Solutions KG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f280106-fd8c-4d68-bbb8-057a203641b9",
     "name": "Stammer, Reinhold",
     "state": "active",
@@ -256269,6 +256282,15 @@
         "held": {
           "squuid": "67853e99-49fd-4279-8241-f8eeb457c766",
           "name": "www.fussball.news"
+        }
+      },
+      {
+        "squuid": "696df2c9-3c84-47fc-82d1-4def45dae9b6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f2174f5-5e71-4cf4-9e51-7c1d4017e696",
+          "name": "www.absolutfussball.com"
         }
       }
     ]
