@@ -133710,11 +133710,11 @@ digraph {
     label="Schwarz Corporate Solutions KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.8420
     name="696df46b-3f72-4d9b-83f1-0c2ea6be6005"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11143 [
     type=shareholder
@@ -135525,7 +135525,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.8420
     name="6967d847-b4de-4057-a572-d3eac5d9ecdf"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11294 [
@@ -261955,6 +261955,10 @@ digraph {
   ];
   11141 -> 5910 [
     weight=11.35
+    type=owns
+  ];
+  11142 -> 11293 [
+    weight=100
     type=owns
   ];
   11143 -> 3024 [
