@@ -28105,6 +28105,20 @@
     ]
   },
   {
+    "squuid": "696f6eed-d091-4662-8b88-a98f9dfaac5d",
+    "name": "Madsack Beteiligungsholding GmbH & Co. KG",
+    "state": "active",
+    "controlDate": "2026-01-20T12:12:36.421Z",
+    "limitedPartnership": true,
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-26fb-4acd-925d-a450a1e7cc9d",
     "name": "Kephas Stiftung gemeinnützige GmbH",
     "state": "active",
@@ -31047,6 +31061,19 @@
     ]
   },
   {
+    "squuid": "696f71ac-5070-4a84-80c6-3c72c70de46e",
+    "name": "Madsack Beteiligungs-Verwaltungs GmbH",
+    "state": "active",
+    "controlDate": "2026-01-20T12:18:09.411Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-2a2f-48d5-83cd-a5096f340537",
     "name": "Brune-Rieck-Beteiligungs-GmbH",
     "state": "active",
@@ -33096,6 +33123,19 @@
         "name": "DL",
         "type": "organization"
       },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "696f7577-021a-453d-8e11-c0dc8b403750",
+    "name": "Blitzstart Holding AG",
+    "state": "active",
+    "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -189128,6 +189168,7 @@
     "squuid": "695b9ba8-6461-4a61-8ca7-d34ff631ef52",
     "name": "Blitzstart Gründungs SE",
     "state": "active",
+    "controlDate": "2026-01-20T12:26:21.382Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
