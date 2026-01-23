@@ -202629,6 +202629,15 @@
           "squuid": "5f8eee75-4dfa-41df-bd71-f753d8809573",
           "name": "www.meincharivari.de"
         }
+      },
+      {
+        "squuid": "697372ad-fa91-4363-958d-14786ff1433e",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "61c31fa7-fe24-4873-a1b6-e5b28ae7e08b",
+          "name": "www.mainfranken24.de"
+        }
       }
     ]
   },

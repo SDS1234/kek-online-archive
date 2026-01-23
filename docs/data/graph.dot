@@ -3738,8 +3738,8 @@ digraph {
     label="Aktuelle Welle Westliches Niederbayern Programm und Werbe GmbH"
     num_owners=4
     num_owners_weighted=3.0000
-    num_medias=212
-    num_medias_weighted=8.6979
+    num_medias=213
+    num_medias_weighted=8.7181
     name="5be1a6b6-15b3-4228-8660-7f53ca3bcca4"
     in_degree=2
     out_degree=10
@@ -4362,8 +4362,8 @@ digraph {
     label="Allgäuer Zeitungsverlag GmbH"
     num_owners=7
     num_owners_weighted=4.5000
-    num_medias=217
-    num_medias_weighted=17.2006
+    num_medias=218
+    num_medias_weighted=17.2182
     name="5be1a6b6-9e2f-4de5-839b-a9064817ea96"
     in_degree=2
     out_degree=24
@@ -10830,8 +10830,8 @@ digraph {
     label="Balle, Christa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=257
-    num_medias_weighted=24.6982
+    num_medias=258
+    num_medias_weighted=24.7032
     name="5be1a6b6-7447-413b-aed9-4cefee9b1ce2"
     in_degree=0
     out_degree=2
@@ -10842,8 +10842,8 @@ digraph {
     label="Balle, Dr. Martin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=257
-    num_medias_weighted=24.6982
+    num_medias=258
+    num_medias_weighted=24.7032
     name="5c6edd1d-d366-4f77-ae7b-fbb6cf2f299e"
     in_degree=0
     out_degree=3
@@ -19746,8 +19746,8 @@ digraph {
     label="Brenner, Dr. Harald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=530
-    num_medias_weighted=7.3917
+    num_medias=531
+    num_medias_weighted=7.3919
     name="5be1a6b6-1083-4ac8-9499-5d18b78ca801"
     in_degree=0
     out_degree=2
@@ -20922,8 +20922,8 @@ digraph {
     label="Bund der Steuerzahler in Bayern e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=14
-    num_medias_weighted=0.0311
+    num_medias=15
+    num_medias_weighted=0.0411
     name="5c90fac3-abcf-41cf-98c5-233ac3dd5ec2"
     in_degree=0
     out_degree=1
@@ -21138,7 +21138,7 @@ digraph {
     label="Burda Broadcast Media Geschäftsführungs-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5ef20d2a-7c98-429d-912e-c201c40d2399"
     in_degree=1
@@ -21162,8 +21162,8 @@ digraph {
     label="Burda Broadcast Media GmbH & Co. KG"
     num_owners=6
     num_owners_weighted=6.0000
-    num_medias=194
-    num_medias_weighted=17.4761
+    num_medias=195
+    num_medias_weighted=17.6845
     name="5be1a6b6-36c9-4097-9471-8ac9ef5c6024"
     in_degree=2
     out_degree=10
@@ -21342,8 +21342,8 @@ digraph {
     label="Burda, Jacob Hubert Linus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=391
-    num_medias_weighted=62.0343
+    num_medias=392
+    num_medias_weighted=62.1123
     name="5be1a6b6-8819-481b-a0d5-01ea21be004c"
     in_degree=0
     out_degree=1
@@ -21354,8 +21354,8 @@ digraph {
     label="Burda, Prof. Dr. Hubert"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=391
-    num_medias_weighted=41.6656
+    num_medias=392
+    num_medias_weighted=41.7179
     name="5be1a6b6-dfdd-4292-932f-9992520ba051"
     in_degree=0
     out_degree=2
@@ -25062,8 +25062,8 @@ digraph {
     label="Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=256
-    num_medias_weighted=48.3964
+    num_medias=257
+    num_medias_weighted=48.4065
     name="5be1a6b6-f22b-4544-889f-d31615692dc4"
     in_degree=2
     out_degree=46
@@ -26838,8 +26838,8 @@ digraph {
     label="CSW GmbH & Co. KG"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=411
-    num_medias_weighted=6.6697
+    num_medias=412
+    num_medias_weighted=6.6742
     name="5be1a6b6-7157-40de-8b37-5f951c11fe94"
     in_degree=3
     out_degree=2
@@ -26850,7 +26850,7 @@ digraph {
     label="CSW Verwaltungs GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd2d8b-b488-41cf-a177-1dbed5a0fcba"
     in_degree=2
@@ -27954,8 +27954,8 @@ digraph {
     label="DBV Beteiligungs GmbH & Co.KG"
     num_owners=5
     num_owners_weighted=3.0000
-    num_medias=417
-    num_medias_weighted=5.1550
+    num_medias=418
+    num_medias_weighted=5.1580
     name="5be1a6b6-de82-42c3-bf0f-5bd7fb95c6d7"
     in_degree=4
     out_degree=2
@@ -27966,7 +27966,7 @@ digraph {
     label="DBV Beteiligungs Verwaltung GmbH"
     num_owners=4
     num_owners_weighted=3.0000
-    num_medias=417
+    num_medias=418
     num_medias_weighted=0.0000
     name="5ebd3064-1d0e-4515-a365-19c8444e411b"
     in_degree=3
@@ -31482,7 +31482,7 @@ digraph {
     label="Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH"
     num_owners=8
     num_owners_weighted=5.0000
-    num_medias=266
+    num_medias=267
     num_medias_weighted=0.0000
     name="5be1a6b6-91ce-43a5-be72-79eee118b011"
     in_degree=1
@@ -31506,8 +31506,8 @@ digraph {
     label="Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG"
     num_owners=10
     num_owners_weighted=2.0000
-    num_medias=266
-    num_medias_weighted=33.7426
+    num_medias=267
+    num_medias_weighted=33.7947
     name="5efef438-7c82-454e-beb9-493d1f5ec407"
     in_degree=3
     out_degree=36
@@ -31878,8 +31878,8 @@ digraph {
     label="Diekmann, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=282
-    num_medias_weighted=21.1975
+    num_medias=283
+    num_medias_weighted=21.2013
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -31890,7 +31890,7 @@ digraph {
     label="Diekmann, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=282
+    num_medias=283
     num_medias_weighted=0.2865
     name="5be1a6b6-54d0-4b4c-8c5a-c8ba81cec96c"
     in_degree=0
@@ -31902,7 +31902,7 @@ digraph {
     label="Diekmann, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=282
+    num_medias=283
     num_medias_weighted=0.0955
     name="5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
     in_degree=0
@@ -33210,8 +33210,8 @@ digraph {
     label="DK Medien GmbH & Co. KG"
     num_owners=11
     num_owners_weighted=8.3560
-    num_medias=194
-    num_medias_weighted=0.7988
+    num_medias=195
+    num_medias_weighted=0.8115
     name="5d10973b-3a7b-4603-85c9-243e23d9f890"
     in_degree=2
     out_degree=4
@@ -33222,7 +33222,7 @@ digraph {
     label="DK Medien Management GmbH"
     num_owners=10
     num_owners_weighted=7.3560
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5f071aaf-3529-43a5-8a6b-3d3fe079a13c"
     in_degree=1
@@ -34158,8 +34158,8 @@ digraph {
     label="Donaukurier GmbH"
     num_owners=9
     num_owners_weighted=6.3560
-    num_medias=218
-    num_medias_weighted=18.9992
+    num_medias=219
+    num_medias_weighted=19.0119
     name="5be1a6b6-3086-4afb-99e1-7a3fbde55347"
     in_degree=1
     out_degree=18
@@ -34554,8 +34554,8 @@ digraph {
     label="Dr. Hans Kapfinger Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=282
-    num_medias_weighted=4.1550
+    num_medias=283
+    num_medias_weighted=4.1557
     name="5be1a6b6-cff0-47a7-aa01-212bd9b8fd63"
     in_degree=0
     out_degree=1
@@ -36486,7 +36486,7 @@ digraph {
     label="Döser, Alfons"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd2921-d22f-43c4-9252-ccd79f77f9de"
     in_degree=0
@@ -36498,8 +36498,8 @@ digraph {
     label="Döser, Oliver"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=417
-    num_medias_weighted=3.2147
+    num_medias=418
+    num_medias_weighted=3.2151
     name="5be1a6b6-2a3a-4442-830b-cc7ec53e7cc4"
     in_degree=0
     out_degree=11
@@ -36510,8 +36510,8 @@ digraph {
     label="Döser, Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=417
-    num_medias_weighted=3.1277
+    num_medias=418
+    num_medias_weighted=3.1292
     name="5be1a6b6-449c-496f-990d-3d9dbda76e0a"
     in_degree=0
     out_degree=8
@@ -38094,7 +38094,7 @@ digraph {
     label="EICURA Verwaltungs GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5f8072bc-58e8-44e8-a7a2-0176183f1d6d"
     in_degree=1
@@ -39246,7 +39246,7 @@ digraph {
     label="Eigenbesitz der Westfälischer Anzeiger Verlagsverwaltungsgesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=444
+    num_medias=445
     num_medias_weighted=0.0000
     name="5efdb3d1-ff19-4c27-99c1-15a6a454d7f7"
     in_degree=0
@@ -44634,8 +44634,8 @@ digraph {
     label="F. Wolff & Sohn KG"
     num_owners=12
     num_owners_weighted=6.0000
-    num_medias=530
-    num_medias_weighted=73.9172
+    num_medias=531
+    num_medias_weighted=73.9187
     name="5be1a6b6-f96c-4e11-901f-037faf330020"
     in_degree=7
     out_degree=23
@@ -51774,11 +51774,11 @@ digraph {
     label="Funkhaus Würzburg Studiobetriebs-GmbH"
     num_owners=353
     num_owners_weighted=10.3327
-    num_medias=13
-    num_medias_weighted=1.1109
+    num_medias=14
+    num_medias_weighted=2.1109
     name="68f0d16d-a799-4dfc-9a89-995bd0ea457c"
     in_degree=2
-    out_degree=2
+    out_degree=3
   ];
   4315 [
     type=radio
@@ -51822,8 +51822,8 @@ digraph {
     label="Furtwängler, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=391
-    num_medias_weighted=62.0343
+    num_medias=392
+    num_medias_weighted=62.1123
     name="5be1a6b6-e129-41bf-960a-7ce68fdd3549"
     in_degree=0
     out_degree=1
@@ -52350,7 +52350,7 @@ digraph {
     label="G. T. Werbung, Gesellschaft mit beschränkter Haftung"
     num_owners=12
     num_owners_weighted=8.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.0000
     name="5eb13a96-25d5-4fec-827c-081c887e1458"
     in_degree=2
@@ -53082,8 +53082,8 @@ digraph {
     label="Gasteiger, Bastian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
-    num_medias_weighted=0.9763
+    num_medias=412
+    num_medias_weighted=0.9770
     name="5be1a6b6-5156-4e85-b36d-c07bfdb6297d"
     in_degree=0
     out_degree=2
@@ -53094,8 +53094,8 @@ digraph {
     label="Gasteiger, Benedikt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
-    num_medias_weighted=0.9754
+    num_medias=412
+    num_medias_weighted=0.9761
     name="5be1a6b6-4062-4788-a5a8-37fe4ff19805"
     in_degree=0
     out_degree=2
@@ -53106,8 +53106,8 @@ digraph {
     label="Gasteiger, Franziska"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
-    num_medias_weighted=0.9763
+    num_medias=412
+    num_medias_weighted=0.9770
     name="5be1a6b6-4953-462f-b4fd-658d8bee62c2"
     in_degree=0
     out_degree=2
@@ -53118,7 +53118,7 @@ digraph {
     label="Gasteiger, Hubert"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd322b-d631-4dde-ab2a-61df3e3f7aec"
     in_degree=0
@@ -58494,8 +58494,8 @@ digraph {
     label="GVB GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=411
-    num_medias_weighted=2.9292
+    num_medias=412
+    num_medias_weighted=2.9311
     name="5be1a6b6-f72a-4e6b-b517-41d91fea9591"
     in_degree=5
     out_degree=1
@@ -58506,7 +58506,7 @@ digraph {
     label="GVB Verwaltungs GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd3244-2e19-4300-9730-424af0cc92aa"
     in_degree=3
@@ -58530,7 +58530,7 @@ digraph {
     label="GVG Gesellschaft für Verlagsgeschäfte oHG"
     num_owners=12
     num_owners_weighted=2.5000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.0000
     name="5be1a6b6-ad71-43a1-9487-fc074b7dcd8f"
     in_degree=2
@@ -58806,8 +58806,8 @@ digraph {
     label="Götz, Dr. Torsten"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=194
-    num_medias_weighted=0.3243
+    num_medias=195
+    num_medias_weighted=0.3295
     name="5be1a6b6-0403-42c9-8727-424f6e7c143e"
     in_degree=0
     out_degree=1
@@ -64710,8 +64710,8 @@ digraph {
     label="Hildebrandt, Lore"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=444
-    num_medias_weighted=1.7971
+    num_medias=445
+    num_medias_weighted=1.7972
     name="5be1a6b6-f163-4105-a248-0acc583ac0bc"
     in_degree=0
     out_degree=1
@@ -66294,8 +66294,8 @@ digraph {
     label="Holland, Alexandra"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=306
-    num_medias_weighted=46.4677
+    num_medias=307
+    num_medias_weighted=46.4721
     name="5be1a6b6-e4a8-43b9-9b8b-d928c7d64d0e"
     in_degree=0
     out_degree=1
@@ -67482,7 +67482,7 @@ digraph {
     label="Hubert Burda Media Holding Geschäftsführung SE"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=391
+    num_medias=392
     num_medias_weighted=0.0000
     name="5e172bf9-86ed-4279-8fde-19a1c4dc8e50"
     in_degree=1
@@ -67494,8 +67494,8 @@ digraph {
     label="Hubert Burda Media Holding KG"
     num_owners=5
     num_owners_weighted=4.0000
-    num_medias=391
-    num_medias_weighted=165.7341
+    num_medias=392
+    num_medias_weighted=165.9425
     name="5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a"
     in_degree=4
     out_degree=6
@@ -68046,7 +68046,7 @@ digraph {
     label="Härtl, Barbara Theresia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=287
+    num_medias=288
     num_medias_weighted=0.0000
     name="5efb01b2-c85e-48a8-90cb-224ae737729f"
     in_degree=0
@@ -69246,8 +69246,8 @@ digraph {
     label="IMCOM Immobilien & Medien GmbH & Co. KG"
     num_owners=3
     num_owners_weighted=2.0000
-    num_medias=194
-    num_medias_weighted=0.3243
+    num_medias=195
+    num_medias_weighted=0.3295
     name="5be1a6b6-59be-4f6f-9049-4c3f5ed381b5"
     in_degree=2
     out_degree=5
@@ -70410,8 +70410,8 @@ digraph {
     label="Ippen, Dr. Dirk"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=535
-    num_medias_weighted=43.1360
+    num_medias=536
+    num_medias_weighted=43.1368
     name="5be1a6b6-6732-4f13-872a-78cb650dabda"
     in_degree=0
     out_degree=10
@@ -70422,8 +70422,8 @@ digraph {
     label="Ippen, Jan Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=530
-    num_medias_weighted=5.9134
+    num_medias=531
+    num_medias_weighted=5.9135
     name="5be1a6b6-ec3c-4ea1-8476-f0b70c3ad89e"
     in_degree=0
     out_degree=1
@@ -70434,7 +70434,7 @@ digraph {
     label="Ippen, Magdalene"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.7392
     name="5be1a6b6-3941-45d7-bbc2-4119345ee40c"
     in_degree=0
@@ -72522,8 +72522,8 @@ digraph {
     label="Jos. Thomann'sche Buchdruckerei Verlag der Landshuter Zeitung KG"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=218
-    num_medias_weighted=10.3490
+    num_medias=219
+    num_medias_weighted=10.3591
     name="5be1a6b6-28be-407a-b3f2-c6e61df42d74"
     in_degree=2
     out_degree=11
@@ -74742,8 +74742,8 @@ digraph {
     label="KD Medien GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=282
-    num_medias_weighted=23.8736
+    num_medias=283
+    num_medias_weighted=23.8779
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -74754,7 +74754,7 @@ digraph {
     label="KD Verwaltungs GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=282
+    num_medias=283
     num_medias_weighted=0.0000
     name="5eb1763b-5255-4be3-a174-6a461ca3536f"
     in_degree=4
@@ -80538,8 +80538,8 @@ digraph {
     label="Kurpfälzische Verlagsbeteiligungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=200
-    num_medias_weighted=6.9302
+    num_medias=201
+    num_medias_weighted=6.9452
     name="695bf519-25dd-4c3f-a861-2180a2103f1c"
     in_degree=0
     out_degree=1
@@ -89862,8 +89862,8 @@ digraph {
     label="Markwort, Helmut"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=194
-    num_medias_weighted=1.6278
+    num_medias=195
+    num_medias_weighted=1.6533
     name="5be1a6b6-a3da-4c83-8d87-89bc892204a0"
     in_degree=0
     out_degree=3
@@ -89874,8 +89874,8 @@ digraph {
     label="Markwort, Moritz"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=194
-    num_medias_weighted=0.0325
+    num_medias=195
+    num_medias_weighted=0.0330
     name="5d79f261-a172-4065-8a99-a21704cceab9"
     in_degree=0
     out_degree=2
@@ -92094,7 +92094,7 @@ digraph {
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5f0f1ba6-5be3-421e-b871-bf251300e065"
     in_degree=1
@@ -92274,8 +92274,8 @@ digraph {
     label="Mediengruppe Bayern GmbH"
     num_owners=7
     num_owners_weighted=4.3560
-    num_medias=282
-    num_medias_weighted=70.4235
+    num_medias=283
+    num_medias_weighted=70.4362
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -92622,8 +92622,8 @@ digraph {
     label="Medienpool 4 GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=194
-    num_medias_weighted=1.6259
+    num_medias=195
+    num_medias_weighted=1.6520
     name="5d80ac94-d98a-4b31-8b94-be898e229a35"
     in_degree=2
     out_degree=3
@@ -93702,7 +93702,7 @@ digraph {
     label="Meinerzhagener Druck- und Verlagshaus Walther Kämper GmbH & Co KG"
     num_owners=12
     num_owners_weighted=2.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=2.7459
     name="5be1a6b6-d263-4998-a53a-9655e768103f"
     in_degree=2
@@ -99186,7 +99186,7 @@ digraph {
     label="Müller Medien GmbH & Co. KG"
     num_owners=7
     num_owners_weighted=4.0000
-    num_medias=266
+    num_medias=267
     num_medias_weighted=0.0000
     name="5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c"
     in_degree=5
@@ -99198,7 +99198,7 @@ digraph {
     label="Müller Medien Verwaltungs-GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=266
+    num_medias=267
     num_medias_weighted=0.0000
     name="5eff1bdd-2f05-49d1-8bdc-6a31d8a7f979"
     in_degree=3
@@ -99558,8 +99558,8 @@ digraph {
     label="Münchener Zeitungs-Verlag GmbH & Co. KG"
     num_owners=42
     num_owners_weighted=4.7056
-    num_medias=370
-    num_medias_weighted=111.3912
+    num_medias=371
+    num_medias_weighted=111.4360
     name="5be1a6b6-e1cb-4c5e-ae7f-56b10f91d4a1"
     in_degree=7
     out_degree=61
@@ -99630,7 +99630,7 @@ digraph {
     label="Münchner Merkur Verwaltungs GmbH"
     num_owners=42
     num_owners_weighted=7.9338
-    num_medias=370
+    num_medias=371
     num_medias_weighted=0.0000
     name="5ebe6137-3848-4ad4-8a9c-ee4b15abc711"
     in_degree=6
@@ -102006,8 +102006,8 @@ digraph {
     label="Neue Welle Würzburg Rundfunkprogrammgesellschaft mbH"
     num_owners=12
     num_owners_weighted=3.9600
-    num_medias=14
-    num_medias_weighted=1.5555
+    num_medias=15
+    num_medias_weighted=2.0555
     name="5be1a6b6-e7b4-4d33-a1f4-c4d87758fbef"
     in_degree=2
     out_degree=2
@@ -105486,7 +105486,7 @@ digraph {
     label="OD Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=417
+    num_medias=418
     num_medias_weighted=0.0000
     name="682ed9b3-5d4a-4911-a730-17dc90e3ca5e"
     in_degree=0
@@ -106326,7 +106326,7 @@ digraph {
     label="OMD Holding GmbH & Co. KG"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=417
+    num_medias=418
     num_medias_weighted=0.0000
     name="6819c8d6-9071-4ee9-8671-04cba51e347d"
     in_degree=1
@@ -106842,7 +106842,7 @@ digraph {
     label="Oschmann, Constanze"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=300
+    num_medias=301
     num_medias_weighted=6.2704
     name="5be1a6b6-649e-43f5-ab9a-1ced442fd834"
     in_degree=0
@@ -106854,7 +106854,7 @@ digraph {
     label="Oschmann, Gunther"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=287
+    num_medias=288
     num_medias_weighted=1.4538
     name="5be1a6b6-5e9d-48fa-b088-265055082ac9"
     in_degree=0
@@ -106866,7 +106866,7 @@ digraph {
     label="Oschmann, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=301
+    num_medias=302
     num_medias_weighted=7.1660
     name="5be1a6b6-2941-49b8-ad22-038b5aa868af"
     in_degree=0
@@ -108462,8 +108462,8 @@ digraph {
     label="Passauer Neue Presse GmbH"
     num_owners=8
     num_owners_weighted=5.3560
-    num_medias=278
-    num_medias_weighted=70.4235
+    num_medias=279
+    num_medias_weighted=70.4362
     name="5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
     in_degree=1
     out_degree=66
@@ -112314,8 +112314,8 @@ digraph {
     label="Presse-Druck- und Verlags-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=306
-    num_medias_weighted=92.9354
+    num_medias=307
+    num_medias_weighted=92.9442
     name="5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
     in_degree=5
     out_degree=61
@@ -121242,8 +121242,8 @@ digraph {
     label="RBTZ Rundfunk Beteiligungsgesellschaft Bayerischer Tageszeitungen mbH & Co. KG"
     num_owners=324
     num_owners_weighted=12.1917
-    num_medias=194
-    num_medias_weighted=12.9923
+    num_medias=195
+    num_medias_weighted=13.2006
     name="5be1a6b6-19d7-49b9-ac09-cfabcce4bb70"
     in_degree=9
     out_degree=1
@@ -126690,8 +126690,8 @@ digraph {
     label="rt1.broadcast management GmbH"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=197
-    num_medias_weighted=5.3374
+    num_medias=198
+    num_medias_weighted=5.3728
     name="5be1a6b6-85f0-48b9-9138-215258d455f7"
     in_degree=1
     out_degree=9
@@ -126714,8 +126714,8 @@ digraph {
     label="rt1.media group GmbH"
     num_owners=6
     num_owners_weighted=6.0000
-    num_medias=216
-    num_medias_weighted=18.0048
+    num_medias=217
+    num_medias_weighted=18.0401
     name="5be1a6b6-05c6-4179-a1c8-b801560b1815"
     in_degree=1
     out_degree=20
@@ -131034,8 +131034,8 @@ digraph {
     label="Scherer, Antonia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=306
-    num_medias_weighted=6.1988
+    num_medias=307
+    num_medias_weighted=6.1994
     name="67530b43-6b59-4fe5-86ae-6e19b63aae34"
     in_degree=0
     out_degree=1
@@ -131046,8 +131046,8 @@ digraph {
     label="Scherer, Benedikt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=306
-    num_medias_weighted=6.1988
+    num_medias=307
+    num_medias_weighted=6.1994
     name="67530b35-3318-426c-b7c5-9fcb152531c6"
     in_degree=0
     out_degree=1
@@ -131058,8 +131058,8 @@ digraph {
     label="Scherer, Ellinor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=306
-    num_medias_weighted=46.4677
+    num_medias=307
+    num_medias_weighted=46.4721
     name="5be1a6b6-7e99-44bf-a402-968de38d5ca6"
     in_degree=0
     out_degree=1
@@ -131070,8 +131070,8 @@ digraph {
     label="Scherer, Viktoria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=306
-    num_medias_weighted=6.1988
+    num_medias=307
+    num_medias_weighted=6.1994
     name="67530b27-e2d3-4600-b431-a9525f0d7465"
     in_degree=0
     out_degree=1
@@ -135126,8 +135126,8 @@ digraph {
     label="Schöningh, Daniel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=530
-    num_medias_weighted=22.1752
+    num_medias=531
+    num_medias_weighted=22.1756
     name="5be1a6b6-6e9b-4f62-9ac0-1f10c33bc76c"
     in_degree=0
     out_degree=2
@@ -141306,7 +141306,7 @@ digraph {
     label="SR Beteiligungs GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=287
+    num_medias=288
     num_medias_weighted=0.0000
     name="5efb014d-25a1-4255-8bb8-6138f8307e74"
     in_degree=2
@@ -141318,7 +141318,7 @@ digraph {
     label="SR Broadcast Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=266
+    num_medias=267
     num_medias_weighted=0.0000
     name="5eeb6bb9-7b98-4b92-9235-53f76ae93224"
     in_degree=4
@@ -141342,7 +141342,7 @@ digraph {
     label="SR Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=287
+    num_medias=288
     num_medias_weighted=0.0000
     name="5f905285-3715-460e-affd-dc041afaea8a"
     in_degree=4
@@ -147294,7 +147294,7 @@ digraph {
     label="Studio Gong Bayern Verwaltungs GmbH"
     num_owners=351
     num_owners_weighted=14.9139
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5eeb71a4-3141-4c75-8829-a2ce6d5a6ad7"
     in_degree=1
@@ -147318,7 +147318,7 @@ digraph {
     label="Studio Gong GmbH & Co. Studiobetriebs KG"
     num_owners=351
     num_owners_weighted=11.6013
-    num_medias=194
+    num_medias=195
     num_medias_weighted=30.6790
     name="5be1a6b6-5fe3-47f9-9c86-0365bbc58537"
     in_degree=6
@@ -149238,8 +149238,8 @@ digraph {
     label="Süddeutscher Verlag Hüthig Fachinformationen GmbH"
     num_owners=251
     num_owners_weighted=2.3920
-    num_medias=200
-    num_medias_weighted=6.9302
+    num_medias=201
+    num_medias_weighted=6.9452
     name="61f2a1b5-f8e6-4940-baee-f38226ebe808"
     in_degree=1
     out_degree=3
@@ -150714,8 +150714,8 @@ digraph {
     label="Teleradio-Beteiligungsgesellschaft mbH"
     num_owners=252
     num_owners_weighted=3.3920
-    num_medias=194
-    num_medias_weighted=0.9302
+    num_medias=195
+    num_medias_weighted=0.9452
     name="5c88e412-1106-4678-9ff8-f648146dac1d"
     in_degree=1
     out_degree=1
@@ -154398,8 +154398,8 @@ digraph {
     label="Tucci-Diekmann, Simone"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=282
-    num_medias_weighted=21.1975
+    num_medias=283
+    num_medias_weighted=21.2013
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -157734,7 +157734,7 @@ digraph {
     label="Verband Bayerischer Zeitungsverleger e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=194
+    num_medias=195
     num_medias_weighted=0.0000
     name="5fac0af0-2c05-489a-a38a-456437b56cde"
     in_degree=0
@@ -161298,8 +161298,8 @@ digraph {
     label="von Hertlein, Dominik"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=444
-    num_medias_weighted=1.4976
+    num_medias=445
+    num_medias_weighted=1.4977
     name="68627ba6-d726-4eb1-9802-33a418a612b5"
     in_degree=0
     out_degree=1
@@ -161322,8 +161322,8 @@ digraph {
     label="von Hertlein, Sebastian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=444
-    num_medias_weighted=1.4976
+    num_medias=445
+    num_medias_weighted=1.4977
     name="68627bb6-2e02-438e-b66e-5400f74d0299"
     in_degree=0
     out_degree=1
@@ -162834,8 +162834,8 @@ digraph {
     label="Waldburg zu Zeil und Trauchburg, Erich Fürst von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=290
-    num_medias_weighted=18.2316
+    num_medias=291
+    num_medias_weighted=18.2404
     name="5be1a6b6-3585-4224-8872-a3554fbd2a8e"
     in_degree=0
     out_degree=4
@@ -165330,8 +165330,8 @@ digraph {
     label="Wendelstein Verlags GmbH & Co. KG"
     num_owners=15
     num_owners_weighted=6.7906
-    num_medias=411
-    num_medias_weighted=7.4100
+    num_medias=412
+    num_medias_weighted=7.4150
     name="5be1a6b6-69ce-46dd-9aeb-f191984dd6f1"
     in_degree=4
     out_degree=3
@@ -165342,7 +165342,7 @@ digraph {
     label="Wendelstein Verlags Verwaltungs GmbH"
     num_owners=15
     num_owners_weighted=8.7906
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd2c96-3309-4d0a-b15b-b1692874626c"
     in_degree=1
@@ -166386,8 +166386,8 @@ digraph {
     label="Westfälischer Anzeiger Verlagsgesellschaft mbH & Co. KG"
     num_owners=17
     num_owners_weighted=10.8800
-    num_medias=444
-    num_medias_weighted=29.9522
+    num_medias=445
+    num_medias_weighted=29.9537
     name="5be1a6b6-1155-4281-b6ac-c4879ebd2c19"
     in_degree=6
     out_degree=31
@@ -166398,7 +166398,7 @@ digraph {
     label="Westfälischer Anzeiger Verlagsverwaltungsgesellschaft mbH"
     num_owners=13
     num_owners_weighted=8.3000
-    num_medias=444
+    num_medias=445
     num_medias_weighted=0.0000
     name="5eb13923-ffc7-47a6-94af-151bd335a3a5"
     in_degree=2
@@ -166902,8 +166902,8 @@ digraph {
     label="Wieninger, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
-    num_medias_weighted=3.4307
+    num_medias=412
+    num_medias_weighted=3.4329
     name="5be1a6b6-6ea8-42c4-b1c1-c5e800cde258"
     in_degree=0
     out_degree=4
@@ -166926,8 +166926,8 @@ digraph {
     label="Wieninger, Stefan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=411
-    num_medias_weighted=3.3348
+    num_medias=412
+    num_medias_weighted=3.3371
     name="5be1a6b6-b71a-4b73-93b4-ff944c87c49d"
     in_degree=0
     out_degree=2
@@ -169650,7 +169650,7 @@ digraph {
     label="Wollschläger, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.0000
     name="5be1a6b6-5ff3-4e4d-9458-21f729d2bc34"
     in_degree=0
@@ -189340,12 +189340,12 @@ digraph {
     type=online
     state=active
     label="www.mainfranken24.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=354
+    num_owners_weighted=11.3327
     num_medias=0
     num_medias_weighted=0.0000
     name="61c31fa7-fe24-4873-a1b6-e5b28ae7e08b"
-    in_degree=0
+    in_degree=1
     out_degree=0
   ];
   15779 [
@@ -208446,8 +208446,8 @@ digraph {
     label="WWZ Beteiligungsgesellschaft mbH"
     num_owners=40
     num_owners_weighted=3.7995
-    num_medias=411
-    num_medias_weighted=12.1810
+    num_medias=412
+    num_medias_weighted=12.1827
     name="5be1a6b6-af92-4839-96f4-2d8d9e234c83"
     in_degree=6
     out_degree=27
@@ -209670,7 +209670,7 @@ digraph {
     label="Zeitungsverlag Altena GmbH"
     num_owners=12
     num_owners_weighted=3.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.0000
     name="5be1a6b6-19d2-443b-a803-31724a322d4f"
     in_degree=1
@@ -209682,7 +209682,7 @@ digraph {
     label="Zeitungsverlag Anhalt Beteiligungsgesellschaft mbH"
     num_owners=12
     num_owners_weighted=8.0000
-    num_medias=530
+    num_medias=531
     num_medias_weighted=0.0000
     name="5eb13812-45d1-42ba-8461-2a670cf617ee"
     in_degree=1
@@ -209910,8 +209910,8 @@ digraph {
     label="Zeitungsverlag Oberbayern GmbH & Co KG"
     num_owners=40
     num_owners_weighted=3.7056
-    num_medias=411
-    num_medias_weighted=25.3704
+    num_medias=412
+    num_medias_weighted=25.3755
     name="5be1a6b6-baa5-4644-bd90-1f917d261023"
     in_degree=7
     out_degree=35
@@ -209922,7 +209922,7 @@ digraph {
     label="Zeitungsverlag Oberbayern Verwaltungs-GmbH"
     num_owners=40
     num_owners_weighted=6.8175
-    num_medias=411
+    num_medias=412
     num_medias_weighted=0.0000
     name="5ebd2b45-bbb1-4f72-b2ad-340b5d88f7a9"
     in_degree=6
@@ -230488,6 +230488,10 @@ digraph {
   4314 -> 2685 [
     weight=3.57
     type=owns
+  ];
+  4314 -> 15778 [
+    weight=100
+    type=operates
   ];
   4314 -> 15846 [
     weight=100
