@@ -2883,6 +2883,8 @@
     "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005",
     "name": "Schwarz Corporate Solutions KG",
     "state": "active",
+    "controlDate": "2026-01-23T10:15:16.097Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
