@@ -50743,6 +50743,19 @@
     ]
   },
   {
+    "squuid": "69734b29-e059-498d-8068-4a4b3a161340",
+    "name": "PVG Geschäftsführungs-KG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-daf9-4fd8-82e9-f11992d9f8f1",
     "name": "ctv coptic television gGmbH",
     "state": "active",
@@ -50758,6 +50771,19 @@
   {
     "squuid": "5be1a6b6-ccb2-408e-9227-d8650ebab6d6",
     "name": "Verein Koptische Gemeinde e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69734b67-1b84-464f-8f8c-8b4c4ef041a9",
+    "name": "SB Dienstleistung KG",
     "state": "active",
     "organizations": [
       {
@@ -51021,6 +51047,19 @@
   {
     "squuid": "5f8eb3f0-d141-4658-a0b5-7169158c34e3",
     "name": "Ev.-Luth. Diakonenhaus Moritzburg e.V.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69734b05-6cf3-464e-8280-0e9c3f502760",
+    "name": "Kappa-Stiftung",
     "state": "active",
     "organizations": [
       {
