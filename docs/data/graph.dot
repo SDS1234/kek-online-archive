@@ -196348,8 +196348,8 @@ digraph {
     type=online
     state=active
     label="www.radiogong.com"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f92c2db-a4ea-4ec9-9010-4f6e9f21152b"
