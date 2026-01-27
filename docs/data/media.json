@@ -10134,7 +10134,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-15T16:06:47.495Z",
+    "controlDate": "2026-01-27T12:54:09.187Z",
     "state": "active"
   },
   {
@@ -41569,7 +41569,7 @@
     "name": "www.windowspro.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T16:05:23.099Z",
+    "controlDate": "2026-01-27T12:38:08.729Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112572,7 +112572,7 @@
     "name": "www.ww-future.tv",
     "type": "online",
     "squuid": "6863f011-6cfe-410d-9566-3207e434fad5",
-    "state": "active"
+    "state": "archived"
   },
   {
     "pressPublishingIntervals": 52,
@@ -128940,7 +128940,7 @@
     "name": "www.woman.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-29T08:45:35.197Z",
+    "controlDate": "2026-01-27T12:55:42.410Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153597,7 +153597,7 @@
     "name": "www.tv-mittelrhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-08T13:14:27.663Z",
+    "controlDate": "2026-01-27T13:09:43.667Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153689,7 +153689,7 @@
     "name": "www.ww-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-08T13:14:37.575Z",
+    "controlDate": "2026-01-27T13:10:24.594Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

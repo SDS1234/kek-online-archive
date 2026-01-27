@@ -1,0 +1,32 @@
+{
+  "name": "DRF Deutschland Fernsehen Produktions GmbH & Co. KG",
+  "squuid": "6978b906-474d-4c97-9258-2335c978be6a",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ],
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.tv-mittelrhein.de",
+        "squuid": "5f3baa01-3a42-4c5c-b0a7-3b28600c4122"
+      },
+      "squuid": "6978b934-acd7-49f6-93cd-5650e20ae965",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.ww-tv.de",
+        "squuid": "5f3baade-a47d-47a7-9c0d-65f55becd033"
+      },
+      "squuid": "6978b953-4737-4839-83e1-7f989020ffc6",
+      "state": "active"
+    }
+  ]
+}
