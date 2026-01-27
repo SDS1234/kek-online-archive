@@ -89542,6 +89542,11 @@
     "controlDate": "2025-05-28T15:29:28.555Z",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
         "name": "Medienanstalt RLP",
         "fullName": "Medienanstalt Rheinland-Pfalz",
@@ -139308,9 +139313,11 @@
     ]
   },
   {
-    "squuid": "6978b906-474d-4c97-9258-2335c978be6a",
-    "name": "DRF Deutschland Fernsehen Produktions GmbH & Co. KG",
     "state": "active",
+    "name": "DRF Deutschland Fernsehen Produktions GmbH & Co. KG",
+    "limitedPartnership": true,
+    "squuid": "6978b906-474d-4c97-9258-2335c978be6a",
+    "controlDate": "2026-01-27T14:09:13.832Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

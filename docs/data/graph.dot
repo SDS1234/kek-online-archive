@@ -34984,12 +34984,12 @@ digraph {
     type=shareholder
     state=active
     label="DRF Deutschland Fernsehen Produktions GmbH & Co. KG"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=3
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="6978b906-474d-4c97-9258-2335c978be6a"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   2916 [
@@ -56790,7 +56790,7 @@ digraph {
     label="Gotthardt, Frank"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
+    num_medias=7
     num_medias_weighted=1.0686
     name="5be1a6b6-6c3a-4c2b-87b8-dadd135a3cc0"
     in_degree=0
@@ -58158,11 +58158,11 @@ digraph {
     label="GT Medien GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=1
+    num_medias=3
     num_medias_weighted=1.0000
     name="5be1a6b6-58b8-4a65-8b14-5449b8fdc44f"
     in_degree=1
-    out_degree=1
+    out_degree=2
   ];
   4847 [
     type=shareholder
@@ -58194,7 +58194,7 @@ digraph {
     label="GT3 Software- und Beteiligung GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=4
+    num_medias=6
     num_medias_weighted=1.0000
     name="5be1a6b6-b2f5-4197-887f-e5417f3b446f"
     in_degree=1
@@ -203992,8 +203992,8 @@ digraph {
     type=online
     state=active
     label="www.tv-mittelrhein.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=4
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3baa01-3a42-4c5c-b0a7-3b28600c4122"
@@ -207832,8 +207832,8 @@ digraph {
     type=online
     state=active
     label="www.ww-tv.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=4
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3baade-a47d-47a7-9c0d-65f55becd033"
@@ -232703,6 +232703,10 @@ digraph {
   ];
   4844 -> 9767 [
     weight=42.2
+    type=owns
+  ];
+  4846 -> 2915 [
+    weight=1
     type=owns
   ];
   4846 -> 12901 [
