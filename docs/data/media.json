@@ -42207,7 +42207,7 @@
     "name": "Die Weltbühne",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-21T12:09:59.024Z",
+    "controlDate": "2026-01-30T13:26:22.346Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82144,7 +82144,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 15,
+    "pressPublishingIntervals": 12,
     "state": "active",
     "squuid": "5be1a6b1-735d-4689-9c7e-99425f7de40e",
     "organization": {
@@ -82227,7 +82227,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 15,
+    "pressPublishingIntervals": 12,
     "state": "active",
     "squuid": "5be1a6b1-a285-43e8-8af4-6d8f62f7d987",
     "organization": {
