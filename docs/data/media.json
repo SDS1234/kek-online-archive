@@ -11654,7 +11654,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5be1a6b1-2ff8-46ad-9597-b2b05781e73b",
     "organization": {
@@ -83253,7 +83253,7 @@
     "rfStatewide": false,
     "name": "Emder Zeitung",
     "type": "print",
-    "controlDate": "2025-07-05T11:35:47.162Z",
+    "controlDate": "2026-01-30T15:05:33.021Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
