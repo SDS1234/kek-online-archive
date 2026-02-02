@@ -47548,8 +47548,8 @@ digraph {
     type=print
     state=active
     label="Focus Money"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=8
+    num_owners_weighted=8.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-dd82-480f-825d-cd13217778ca"

@@ -4512,7 +4512,7 @@
     "rfStatewide": false,
     "name": "Fellbacher Zeitung",
     "type": "print",
-    "controlDate": "2025-06-25T14:26:40.976Z",
+    "controlDate": "2026-02-02T09:55:35.678Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -9960,7 +9960,7 @@
     "rfStatewide": false,
     "name": "Focus Style",
     "type": "print",
-    "controlDate": "2025-07-05T12:53:14.010Z",
+    "controlDate": "2026-02-02T10:11:00.198Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9981,7 +9981,7 @@
     "rfStatewide": false,
     "name": "Focus Gesundheit",
     "type": "print",
-    "controlDate": "2025-07-05T12:51:39.475Z",
+    "controlDate": "2026-02-02T10:10:03.300Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88380,7 +88380,7 @@
     "rfStatewide": false,
     "name": "Focus",
     "type": "print",
-    "controlDate": "2025-07-05T12:50:01.852Z",
+    "controlDate": "2026-02-02T10:09:09.401Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88404,7 +88404,7 @@
     "rfStatewide": false,
     "name": "Focus Money",
     "type": "print",
-    "controlDate": "2024-10-30T12:45:19.449Z",
+    "controlDate": "2026-02-02T10:10:09.558Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -151376,7 +151376,7 @@
     "name": "Focus E-Bike",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-05T12:51:12.474Z",
+    "controlDate": "2026-02-02T10:09:52.103Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
