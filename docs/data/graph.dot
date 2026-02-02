@@ -16917,7 +16917,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0000
     name="695b9ba8-6461-4a61-8ca7-d34ff631ef52"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   1410 [
@@ -16926,11 +16926,11 @@ digraph {
     label="Blitzstart Holding AG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="696f7577-021a-453d-8e11-c0dc8b403750"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1411 [
     type=tv
@@ -216738,6 +216738,10 @@ digraph {
     type=owns
   ];
   1409 -> 10627 [
+    weight=100
+    type=owns
+  ];
+  1410 -> 1409 [
     weight=100
     type=owns
   ];

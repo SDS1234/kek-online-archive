@@ -82016,7 +82016,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 9,
     "state": "active",
     "squuid": "5be1a6b1-fac3-4f36-b0ca-71f731b7f014",
     "organization": {
@@ -102145,7 +102145,7 @@
     "rfStatewide": false,
     "name": "Westfalenpost",
     "type": "print",
-    "controlDate": "2025-05-23T13:35:33.954Z",
+    "controlDate": "2026-02-02T11:56:38.208Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -136128,7 +136128,7 @@
     "name": "Funke Medien NRW (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-05-23T13:31:37.780Z",
+    "controlDate": "2026-02-02T11:42:08.808Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
