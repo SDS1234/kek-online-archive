@@ -4535,7 +4535,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-06-25T14:31:28.681Z",
+    "controlDate": "2026-02-03T09:13:10.082Z",
     "state": "active"
   },
   {
@@ -25662,7 +25662,7 @@
     "name": "Instyle Men",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-07-06T09:39:50.518Z",
+    "controlDate": "2026-02-03T08:37:35.098Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -91657,7 +91657,7 @@
     "rfStatewide": false,
     "name": "InStyle",
     "type": "print",
-    "controlDate": "2025-07-06T09:38:42.968Z",
+    "controlDate": "2026-02-03T08:36:38.521Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97691,7 +97691,7 @@
     "rfStatewide": false,
     "name": "Kornwestheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-06-25T14:27:16.394Z",
+    "controlDate": "2026-02-03T09:13:15.587Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
