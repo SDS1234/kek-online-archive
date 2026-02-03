@@ -80553,7 +80553,7 @@ digraph {
     num_medias=201
     num_medias_weighted=6.9452
     name="695bf519-25dd-4c3f-a861-2180a2103f1c"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   6713 [
@@ -91986,11 +91986,11 @@ digraph {
     label="Medien Union dritte Vermögensverwaltung GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=201
+    num_medias_weighted=6.9452
     name="696f7dbd-272c-4ad3-baeb-13c6051a3264"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7666 [
     type=shareholder
@@ -244496,6 +244496,10 @@ digraph {
   7664 -> 15634 [
     weight=100
     type=operates
+  ];
+  7665 -> 6712 [
+    weight=100
+    type=owns
   ];
   7666 -> 2032 [
     weight=100
