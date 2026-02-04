@@ -36781,6 +36781,8 @@
     "squuid": "696f7dbd-272c-4ad3-baeb-13c6051a3264",
     "name": "Medien Union dritte Vermögensverwaltung GmbH & Co. KG",
     "state": "active",
+    "controlDate": "2026-02-04T12:13:24.962Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
