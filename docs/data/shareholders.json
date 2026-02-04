@@ -18990,62 +18990,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -42816,62 +42763,9 @@
     "controlDate": "2019-05-22T15:47:28.565Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -42883,62 +42777,9 @@
     "controlDate": "2019-05-22T15:50:44.274Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -42950,62 +42791,9 @@
     "controlDate": "2019-05-22T15:47:19.631Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -43017,62 +42805,9 @@
     "controlDate": "2019-05-22T15:47:49.556Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -43111,62 +42846,9 @@
     "controlDate": "2019-05-22T15:48:13.395Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -43204,62 +42886,9 @@
     "controlDate": "2019-05-22T15:49:39.032Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -43271,62 +42900,9 @@
     "controlDate": "2019-05-22T15:50:10.070Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -43338,62 +42914,9 @@
     "controlDate": "2019-05-22T15:50:21.371Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -93237,66 +92760,13 @@
   {
     "squuid": "5be1a6b6-c06e-4e23-86c0-a9062f2be140",
     "name": "J.M. Reindl Buch- und Kunstdruckerei OHG",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2024-11-13T13:54:29.669Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -104081,62 +103551,9 @@
     "controlDate": "2019-05-22T15:48:55.375Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -104148,62 +103565,9 @@
     "controlDate": "2019-05-22T15:49:55.990Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -104254,62 +103618,9 @@
     "controlDate": "2019-05-22T15:50:33.081Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -104353,62 +103664,9 @@
     "controlDate": "2019-05-22T15:48:03.172Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -215328,62 +214586,9 @@
     "controlDate": "2019-05-22T15:48:45.836Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -265622,62 +264827,9 @@
     "controlDate": "2019-05-22T15:47:39.407Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -265733,62 +264885,9 @@
     "controlDate": "2019-05-22T15:49:20.666Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -265945,62 +265044,9 @@
     "controlDate": "2019-05-22T15:48:35.205Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
-        "name": "LMS",
-        "fullName": "Landesmedienanstalt Saarland",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-        "name": "SLM",
-        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
-        "name": "TLM",
-        "fullName": "Thüringer Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
