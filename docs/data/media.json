@@ -87344,7 +87344,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 12,
     "state": "active",
     "squuid": "5be1a6b1-1464-4b6f-8d47-dfd6357f024c",
     "organization": {
@@ -104460,7 +104460,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 52,
+    "pressPublishingIntervals": 26,
     "state": "active",
     "squuid": "5be1a6b1-db4e-4453-b7f2-8d63deb038f8",
     "organization": {
