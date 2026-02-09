@@ -159412,7 +159412,7 @@
     "squuid": "5ebba3e9-1cb6-48a5-86f4-28db9366cb2f",
     "name": "Schwäbischer Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-17T14:39:12.985Z",
+    "controlDate": "2026-02-09T11:30:27.411Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200251,6 +200251,19 @@
     ]
   },
   {
+    "squuid": "6989beda-d696-4b4c-b036-2cfd0f030a2e",
+    "name": "Medien Union dritte Beteiligungs-GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "68efba8d-f693-4522-a932-ef71f79be950",
     "name": "DF1 Medien Verwaltungs GmbH",
     "state": "active",
@@ -200569,6 +200582,19 @@
     "name": "Amper-Bote GmbH",
     "state": "archived",
     "controlDate": "2024-05-10T14:50:58.524Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6989c4fb-09b7-4ab3-bc3c-bfb71e1444fd",
+    "name": "Erbengemeinschaft nach Andread Gessler (Thomas Gessler, Carola Gessler, Irene Böhme)",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
