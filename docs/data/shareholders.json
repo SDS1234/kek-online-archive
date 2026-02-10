@@ -33100,8 +33100,9 @@
   },
   {
     "squuid": "696f7577-021a-453d-8e11-c0dc8b403750",
-    "name": "Blitzstart Holding AG",
+    "name": "Blitzstart GmbH",
     "state": "active",
+    "controlDate": "2026-02-10T16:49:37.754Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144817,6 +144818,19 @@
     "name": "SJE Holding AG",
     "state": "archived",
     "controlDate": "2023-11-23T11:57:55.249Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "698b6861-01fa-4f95-846e-5863789e77fe",
+    "name": "Blitzstart Group Beteiligungs GmbH",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
