@@ -41676,6 +41676,30 @@
   },
   {
     "state": "active",
+    "squuid": "698b1a2c-f6ee-40e0-a96f-c85916723483",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.radiomixtape.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-02-10T11:44:56.986Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5f7da5c1-406a-48b6-a09e-2dcaa2d4e857",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -41778,6 +41802,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2025-10-29T14:06:21.933Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "698b23fc-c82d-49f0-b985-fb8e90965f43",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.football-world.news",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-02-10T12:26:45.344Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

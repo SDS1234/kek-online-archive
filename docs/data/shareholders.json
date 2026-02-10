@@ -14350,6 +14350,24 @@
           "squuid": "5be1a6b1-2abf-46cb-936b-a7122711aff3",
           "name": "Schweinfurter Tagblatt"
         }
+      },
+      {
+        "squuid": "698b21a9-1323-47e7-a54e-5c209c4f6f93",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-e224-4e50-a837-04d6926bce88",
+          "name": "www.suedkurier.de"
+        }
+      },
+      {
+        "squuid": "698b2211-0971-4610-b29d-d9fe861b7c0d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7928-4153-997f-a3561203e08f",
+          "name": "www.mainpost.de"
+        }
       }
     ]
   },
@@ -33191,6 +33209,15 @@
         "held": {
           "squuid": "62e272ee-0473-4dbf-a683-55f2804147a2",
           "name": "NOXX"
+        }
+      },
+      {
+        "squuid": "698b1a5c-1676-41e6-ad16-f729d1c4d921",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "698b1a2c-f6ee-40e0-a96f-c85916723483",
+          "name": "www.radiomixtape.de"
         }
       }
     ]
@@ -82187,7 +82214,7 @@
     "name": "Lippischer Zeitungsverlag Giesdorf GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c908-47e7-a5ec-492916452d3f",
-    "controlDate": "2025-11-18T12:02:31.805Z",
+    "controlDate": "2026-02-10T12:50:30.153Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144217,6 +144244,29 @@
         "held": {
           "squuid": "5d2dec15-e781-4e2f-ad17-a00e2a8e1a66",
           "name": "www.sportal.de"
+        }
+      }
+    ]
+  },
+  {
+    "squuid": "698b244e-0aa4-4eda-9d4c-f3fb5d620d89",
+    "name": "kicker sportsworld GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "698b2464-1f11-41f1-8732-1d4fee014562",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "698b23fc-c82d-49f0-b985-fb8e90965f43",
+          "name": "www.football-world.news"
         }
       }
     ]
