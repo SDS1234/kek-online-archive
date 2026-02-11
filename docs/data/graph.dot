@@ -27162,11 +27162,11 @@ digraph {
     label="D. Schwarz Beteiligungs-KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.8420
     name="698b5e29-2723-434b-9515-bcc48b9a710b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2264 [
     type=shareholder
@@ -28758,11 +28758,11 @@ digraph {
     label="Delta-Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698b5dc8-311f-4db3-a485-48407f98207a"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2397 [
     type=shareholder
@@ -113934,11 +113934,11 @@ digraph {
     label="PVG Beteiligungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698b606e-6b7c-404d-9ba0-0e0deb1e0110"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9495 [
     type=shareholder
@@ -113946,11 +113946,11 @@ digraph {
     label="PVG Geschäftsführungs- und Verwaltungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698b6050-0f97-4e93-bc2e-bf4435f85817"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9496 [
     type=shareholder
@@ -113961,7 +113961,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="69734b29-e059-498d-8068-4a4b3a161340"
-    in_degree=0
+    in_degree=3
     out_degree=1
   ];
   9497 [
@@ -130485,7 +130485,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.8420
     name="69734b67-1b84-464f-8f8c-8b4c4ef041a9"
-    in_degree=0
+    in_degree=3
     out_degree=1
   ];
   10874 [
@@ -130494,11 +130494,11 @@ digraph {
     label="SB Dienstleistung Verwaltungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698b5df7-cc6c-4f71-af27-897c1ed21b74"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10875 [
     type=shareholder
@@ -133950,11 +133950,11 @@ digraph {
     label="Schwarz, Dieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="68f8c9ba-4d6b-4f50-8d50-1188b9f2a446"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11163 [
     type=shareholder
@@ -221057,6 +221057,10 @@ digraph {
     weight=100
     type=operates
   ];
+  2263 -> 10873 [
+    weight=100
+    type=owns
+  ];
   2264 -> 8030 [
     weight=35.12
     type=owns
@@ -221556,6 +221560,10 @@ digraph {
   2395 -> 14756 [
     weight=100
     type=operates
+  ];
+  2396 -> 10873 [
+    weight=1
+    type=owns
   ];
   2397 -> 226 [
     weight=100
@@ -254397,6 +254405,14 @@ digraph {
     weight=100
     type=operates
   ];
+  9494 -> 9496 [
+    weight=100
+    type=owns
+  ];
+  9495 -> 9496 [
+    weight=1
+    type=owns
+  ];
   9496 -> 11159 [
     weight=1
     type=owns
@@ -261225,6 +261241,10 @@ digraph {
     weight=100
     type=owns
   ];
+  10874 -> 10873 [
+    weight=1
+    type=owns
+  ];
   10875 -> 10013 [
     weight=1
     type=owns
@@ -262135,6 +262155,10 @@ digraph {
   ];
   11161 -> 6205 [
     weight=51
+    type=owns
+  ];
+  11162 -> 9496 [
+    weight=1
     type=owns
   ];
   11163 -> 10471 [
