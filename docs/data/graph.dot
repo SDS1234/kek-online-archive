@@ -27153,7 +27153,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.8420
     name="698b5e29-2723-434b-9515-bcc48b9a710b"
-    in_degree=0
+    in_degree=7
     out_degree=1
   ];
   2263 [
@@ -31374,11 +31374,11 @@ digraph {
     label="Die JUSTUS gGmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698de9c2-92bf-4ea1-bce8-7eef586ff1a0"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2615 [
     type=print
@@ -32070,11 +32070,11 @@ digraph {
     label="Dieter Schwarz TV-Vermögensverwaltung GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698defba-caa1-4606-875e-ca16e51c9079"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2673 [
     type=shareholder
@@ -65958,11 +65958,11 @@ digraph {
     label="Hoffmann, Hermann-Josef"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698deacf-27e2-4767-be3f-38c5ff8c4a26"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5497 [
     type=shareholder
@@ -113973,7 +113973,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="698b606e-6b7c-404d-9ba0-0e0deb1e0110"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   9498 [
@@ -113985,7 +113985,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="698b6050-0f97-4e93-bc2e-bf4435f85817"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   9499 [
@@ -121914,11 +121914,11 @@ digraph {
     label="Reger, Dr. Gerald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="68f8ca3a-4524-4ad7-a6df-a9c5ddc4ccf8"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10160 [
     type=print
@@ -126126,11 +126126,11 @@ digraph {
     label="Rosint GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.4208
     name="698def38-57fb-4e7e-99ba-657a4bf06e71"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10511 [
     type=shareholder
@@ -130545,7 +130545,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="698b5df7-cc6c-4f71-af27-897c1ed21b74"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   10879 [
@@ -130554,11 +130554,11 @@ digraph {
     label="SB Verwaltungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698df011-48b8-4584-88c0-cf099bf12802"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10880 [
     type=shareholder
@@ -130566,11 +130566,11 @@ digraph {
     label="SB-Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698defdf-d495-430c-bf16-31fc1fd0f5e1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10881 [
     type=shareholder
@@ -133986,11 +133986,11 @@ digraph {
     label="Schwarz Beteiligungs-KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="698df047-3107-48ca-af6e-fc31aa72ad17"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11166 [
     type=shareholder
@@ -134022,11 +134022,11 @@ digraph {
     label="Schwarz Unternehmenstreuhand KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0004
     name="698deefe-1af7-4537-b84a-92502f6012a2"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11169 [
     type=shareholder
@@ -209586,11 +209586,11 @@ digraph {
     label="Zeha GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.4208
     name="698def28-8857-48ac-bfdc-0ee0099f6c2b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   17466 [
     type=shareholder
@@ -222581,6 +222581,10 @@ digraph {
     weight=1
     type=owns
   ];
+  2614 -> 9497 [
+    weight=100
+    type=owns
+  ];
   2619 -> 8373 [
     weight=1
     type=owns
@@ -222903,6 +222907,10 @@ digraph {
   ];
   2671 -> 2667 [
     weight=40
+    type=owns
+  ];
+  2672 -> 2262 [
+    weight=1
     type=owns
   ];
   2673 -> 7850 [
@@ -235671,6 +235679,10 @@ digraph {
   ];
   5494 -> 4478 [
     weight=18.375
+    type=owns
+  ];
+  5496 -> 9498 [
+    weight=51
     type=owns
   ];
   5497 -> 3371 [
@@ -257125,6 +257137,10 @@ digraph {
     weight=9
     type=owns
   ];
+  10159 -> 10878 [
+    weight=51
+    type=owns
+  ];
   10164 -> 10163 [
     weight=100
     type=operates
@@ -259421,6 +259437,10 @@ digraph {
     weight=25
     type=owns
   ];
+  10510 -> 2262 [
+    weight=49.975
+    type=owns
+  ];
   10514 -> 10513 [
     weight=100
     type=operates
@@ -261353,6 +261373,14 @@ digraph {
     weight=1
     type=owns
   ];
+  10879 -> 2262 [
+    weight=1
+    type=owns
+  ];
+  10880 -> 2262 [
+    weight=1
+    type=owns
+  ];
   10881 -> 10016 [
     weight=1
     type=owns
@@ -262253,12 +262281,20 @@ digraph {
     weight=11.35
     type=owns
   ];
+  11165 -> 2262 [
+    weight=1
+    type=owns
+  ];
   11166 -> 11318 [
     weight=100
     type=owns
   ];
   11167 -> 3030 [
     weight=42.1
+    type=owns
+  ];
+  11168 -> 2262 [
+    weight=1
     type=owns
   ];
   11169 -> 6207 [
@@ -276079,6 +276115,10 @@ digraph {
   ];
   17464 -> 2002 [
     weight=33.33
+    type=owns
+  ];
+  17465 -> 2262 [
+    weight=49.975
     type=owns
   ];
   17466 -> 10410 [
