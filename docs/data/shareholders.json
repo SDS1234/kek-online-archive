@@ -145580,6 +145580,8 @@
     "squuid": "698deefe-1af7-4537-b84a-92502f6012a2",
     "name": "Schwarz Unternehmenstreuhand KG",
     "state": "active",
+    "controlDate": "2026-02-16T10:28:12.494Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -146092,6 +146094,8 @@
     "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17",
     "name": "Schwarz Beteiligungs-KG",
     "state": "active",
+    "controlDate": "2026-02-16T09:57:51.552Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -146306,6 +146310,7 @@
     "squuid": "698df011-48b8-4584-88c0-cf099bf12802",
     "name": "SB Verwaltungs-GmbH",
     "state": "active",
+    "controlDate": "2026-02-16T09:52:45.683Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -147721,6 +147726,19 @@
     ]
   },
   {
+    "squuid": "6992e821-77a7-47dc-8b2c-021dcd48055d",
+    "name": "Dieter Schwarz Stiftung für Kunst & Kultur",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5eeb3e8a-9f76-4654-90c4-eaf31a6692e3",
     "name": "3sat/Geschäftsstelle Neue Medien",
     "state": "active",
@@ -148948,6 +148966,71 @@
     ]
   },
   {
+    "squuid": "6992f38f-6800-4145-af34-b4f0e96670e5",
+    "name": "Riedener, Urs",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f3b0-d94d-4dc9-9fb8-8d80c35bf015",
+    "name": "Oesterle, Dr. Fritz",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f3c5-6fad-4f63-94e9-1b0be6f259e0",
+    "name": "Neske, Rainer",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f3db-e957-442c-bdb9-675d65c311e0",
+    "name": "Fix-Bähre, Sarah",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
+    "name": "Schwarz Geschäftsführungsgesellschaft mbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d39767d-0e96-493d-8328-31e73bbbaeef",
     "name": "Büchl Entsorgungswirtschaft GmbH",
     "state": "active",
@@ -148974,6 +149057,32 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f318-3a95-4c36-82d2-fcf146506b5d",
+    "name": "Chrzanowski, Gerd",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6992f379-953d-4cd9-816d-240a579d948f",
+    "name": "Schreiber, Jürgen",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
