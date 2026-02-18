@@ -34222,7 +34222,7 @@
     ]
   },
   {
-    "pressPublishingIntervals": 12,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5e3301ef-762e-48c9-94db-fff3c27e23fe",
     "organization": {
@@ -34230,7 +34230,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Wirtschaftliche Nachrichten",
+    "name": "IHKmagazin",
     "rfPublicPrivate": false,
     "type": "print",
     "controlDate": "2025-11-27T12:25:37.758Z",
