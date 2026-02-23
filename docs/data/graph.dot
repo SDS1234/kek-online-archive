@@ -41886,11 +41886,11 @@ digraph {
     label="Erbengemeinschaft nach Andread Gessler (Thomas Gessler, Carola Gessler, Irene Böhme)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=80
     num_medias_weighted=0.0000
     name="6989c4fb-09b7-4ab3-bc3c-bfb71e1444fd"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3491 [
     type=shareholder
@@ -92142,11 +92142,11 @@ digraph {
     label="Medien Union dritte Beteiligungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=201
     num_medias_weighted=0.0000
     name="6989beda-d696-4b4c-b036-2cfd0f030a2e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7679 [
     type=shareholder
@@ -92157,7 +92157,7 @@ digraph {
     num_medias=201
     num_medias_weighted=6.9452
     name="696f7dbd-272c-4ad3-baeb-13c6051a3264"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   7680 [
@@ -135153,7 +135153,7 @@ digraph {
     num_medias=80
     num_medias_weighted=0.0000
     name="5ebba3e9-1cb6-48a5-86f4-28db9366cb2f"
-    in_degree=3
+    in_degree=4
     out_degree=1
   ];
   11263 [
@@ -226457,6 +226457,10 @@ digraph {
     weight=4.13
     type=owns
   ];
+  3490 -> 11262 [
+    weight=40
+    type=owns
+  ];
   3491 -> 10256 [
     weight=40
     type=owns
@@ -244812,6 +244816,10 @@ digraph {
   7677 -> 15663 [
     weight=100
     type=operates
+  ];
+  7678 -> 7679 [
+    weight=1
+    type=owns
   ];
   7679 -> 6725 [
     weight=100
