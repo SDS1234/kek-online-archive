@@ -24738,11 +24738,11 @@ digraph {
     label="Chrzanowski, Gerd"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="6992f318-3a95-4c36-82d2-fcf146506b5d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2062 [
     type=shareholder
@@ -32082,11 +32082,11 @@ digraph {
     label="Dieter Schwarz Stiftung für Kunst & Kultur"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.4208
     name="6992e821-77a7-47dc-8b2c-021dcd48055d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2674 [
     type=shareholder
@@ -32094,11 +32094,11 @@ digraph {
     label="Dieter Schwarz Stiftung für Wissenschaft und Forschung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.4208
     name="6992e6e4-0e8a-430d-8f9d-fd8e22656b11"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2675 [
     type=shareholder
@@ -32106,11 +32106,11 @@ digraph {
     label="Dieter Schwarz Stiftung gGmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="6992e2b8-79c9-42d0-99f4-450716734c80"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2676 [
     type=shareholder
@@ -32121,7 +32121,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="698defba-caa1-4606-875e-ca16e51c9079"
-    in_degree=0
+    in_degree=2
     out_degree=1
   ];
   2677 [
@@ -47106,11 +47106,11 @@ digraph {
     label="Fix-Bähre, Sarah"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0001
     name="6992f3db-e957-442c-bdb9-675d65c311e0"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3926 [
     type=print
@@ -101274,11 +101274,11 @@ digraph {
     label="Neske, Rainer"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0001
     name="6992f3c5-6fad-4f63-94e9-1b0be6f259e0"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8440 [
     type=shareholder
@@ -105930,11 +105930,11 @@ digraph {
     label="Oesterle, Dr. Fritz"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0001
     name="6992f3b0-d94d-4dc9-9fb8-8d80c35bf015"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8828 [
     type=shareholder
@@ -124566,11 +124566,11 @@ digraph {
     label="Riedener, Urs"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0001
     name="6992f38f-6800-4145-af34-b4f0e96670e5"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10381 [
     type=shareholder
@@ -126249,7 +126249,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.4208
     name="698def38-57fb-4e7e-99ba-657a4bf06e71"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   10521 [
@@ -133494,11 +133494,11 @@ digraph {
     label="Schreiber, Jürgen"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0001
     name="6992f379-953d-4cd9-816d-240a579d948f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11125 [
     type=shareholder
@@ -134142,11 +134142,11 @@ digraph {
     label="Schwarz Geschäftsführungsgesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="6992f2d7-f248-4ac1-80b1-4d374052c4bb"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11179 [
     type=shareholder
@@ -134169,7 +134169,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0004
     name="698deefe-1af7-4537-b84a-92502f6012a2"
-    in_degree=0
+    in_degree=7
     out_degree=1
   ];
   11181 [
@@ -139266,11 +139266,11 @@ digraph {
     label="Sohler, Armin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="68f8c9e8-3f4a-4aee-a469-fafebab8f377"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11606 [
     type=shareholder
@@ -209721,7 +209721,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.4208
     name="698def28-8857-48ac-bfdc-0ee0099f6c2b"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   17477 [
@@ -220401,6 +220401,10 @@ digraph {
     weight=100
     type=owns
   ];
+  2061 -> 11180 [
+    weight=1
+    type=owns
+  ];
   2062 -> 82 [
     weight=5
     type=owns
@@ -223039,6 +223043,18 @@ digraph {
   ];
   2672 -> 2668 [
     weight=40
+    type=owns
+  ];
+  2673 -> 10520 [
+    weight=100
+    type=owns
+  ];
+  2674 -> 17476 [
+    weight=100
+    type=owns
+  ];
+  2675 -> 2676 [
+    weight=1
     type=owns
   ];
   2676 -> 2263 [
@@ -228036,6 +228052,10 @@ digraph {
   3922 -> 4177 [
     weight=100
     type=operates
+  ];
+  3925 -> 11180 [
+    weight=14.29
+    type=owns
   ];
   3927 -> 1227 [
     weight=8.2
@@ -248549,6 +248569,10 @@ digraph {
     weight=100
     type=operates
   ];
+  8439 -> 11180 [
+    weight=14.29
+    type=owns
+  ];
   8440 -> 13132 [
     weight=100
     type=owns
@@ -251355,6 +251379,10 @@ digraph {
   ];
   8825 -> 2347 [
     weight=100
+    type=owns
+  ];
+  8827 -> 11180 [
+    weight=14.29
     type=owns
   ];
   8828 -> 570 [
@@ -258413,6 +258441,10 @@ digraph {
     weight=2.2
     type=owns
   ];
+  10380 -> 11180 [
+    weight=14.29
+    type=owns
+  ];
   10381 -> 9545 [
     weight=100
     type=owns
@@ -262249,6 +262281,10 @@ digraph {
     weight=100
     type=owns
   ];
+  11124 -> 11180 [
+    weight=14.29
+    type=owns
+  ];
   11125 -> 9227 [
     weight=5
     type=owns
@@ -262427,6 +262463,10 @@ digraph {
   ];
   11177 -> 11330 [
     weight=100
+    type=owns
+  ];
+  11178 -> 11180 [
+    weight=1
     type=owns
   ];
   11179 -> 3034 [
@@ -264635,6 +264675,10 @@ digraph {
   ];
   11597 -> 13399 [
     weight=5.29
+    type=owns
+  ];
+  11605 -> 2676 [
+    weight=33.06
     type=owns
   ];
   11606 -> 10159 [
