@@ -102267,7 +102267,7 @@ digraph {
   8522 [
     type=tv
     state=active
-    label=neueins
+    label="neueins Regionalfernsehen"
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=0
@@ -155618,7 +155618,7 @@ digraph {
   ];
   12968 [
     type=tv
-    state=active
+    state=archived
     label="TV:SCHWERIN"
     num_owners=0
     num_owners_weighted=0.0000
