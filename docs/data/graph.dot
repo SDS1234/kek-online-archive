@@ -9810,7 +9810,7 @@ digraph {
     label="B&G Medien Geschäftsführungs GmbH"
     num_owners=28
     num_owners_weighted=10.4852
-    num_medias=1
+    num_medias=28
     num_medias_weighted=0.0000
     name="67ab33b7-fb14-493f-90b8-e58ff2f0336d"
     in_degree=1
@@ -9822,11 +9822,11 @@ digraph {
     label="B&G Medien GmbH & Co. KG"
     num_owners=28
     num_owners_weighted=9.4852
-    num_medias=1
+    num_medias=28
     num_medias_weighted=1.0000
     name="6809eb17-aac1-4fc0-977b-b2b869c8ad3d"
     in_degree=3
-    out_degree=2
+    out_degree=3
   ];
   819 [
     type=print
@@ -16917,7 +16917,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0000
     name="696f7577-021a-453d-8e11-c0dc8b403750"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   1410 [
@@ -16926,11 +16926,11 @@ digraph {
     label="Blitzstart Group Beteiligungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="698b6861-01fa-4f95-846e-5863789e77fe"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1411 [
     type=shareholder
@@ -71214,8 +71214,8 @@ digraph {
     label="J.C.C. Bruns Betriebs-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=23
-    num_medias_weighted=6.8349
+    num_medias=33
+    num_medias_weighted=9.0185
     name="5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
     in_degree=1
     out_degree=4
@@ -71226,8 +71226,8 @@ digraph {
     label="J.C.C. Bruns GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=30
-    num_medias_weighted=7.6189
+    num_medias=33
+    num_medias_weighted=9.0185
     name="5be1a6b6-1037-47b7-a3b8-713f5c565218"
     in_degree=4
     out_degree=4
@@ -71238,7 +71238,7 @@ digraph {
     label="J.C.C. Verlags- und Druckerei-Beteiligungsgesellschaft mbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=30
+    num_medias=33
     num_medias_weighted=0.0000
     name="5ecd208b-10a0-4243-b07c-696a836bde56"
     in_degree=3
@@ -85833,7 +85833,7 @@ digraph {
     num_medias=27
     num_medias_weighted=7.1379
     name="5be1a6b6-c908-47e7-a5ec-492916452d3f"
-    in_degree=2
+    in_degree=3
     out_degree=8
   ];
   7153 [
@@ -152802,8 +152802,8 @@ digraph {
     label="Thomas, Anke"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=0.6095
+    num_medias=33
+    num_medias_weighted=0.7215
     name="5be1a6b6-d41b-475f-ac0b-da4d602c2fb7"
     in_degree=0
     out_degree=2
@@ -152826,8 +152826,8 @@ digraph {
     label="Thomas, Rainer"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=1.9809
+    num_medias=33
+    num_medias_weighted=2.3448
     name="5be1a6b6-19bf-4371-8651-98fd9536fee6"
     in_degree=0
     out_degree=2
@@ -152838,8 +152838,8 @@ digraph {
     label="Thomas, Sven"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=5.0285
+    num_medias=33
+    num_medias_weighted=5.9522
     name="5be1a6b6-8aad-4903-8358-d0361e614712"
     in_degree=0
     out_degree=2
@@ -214317,6 +214317,10 @@ digraph {
     weight=100
     type=owns
   ];
+  818 -> 7152 [
+    weight=100
+    type=owns
+  ];
   818 -> 15916 [
     weight=100
     type=operates
@@ -217094,6 +217098,10 @@ digraph {
     type=owns
   ];
   1409 -> 1411 [
+    weight=100
+    type=owns
+  ];
+  1410 -> 1409 [
     weight=100
     type=owns
   ];
