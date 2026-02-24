@@ -146813,6 +146813,7 @@
     "squuid": "6992e2b8-79c9-42d0-99f4-450716734c80",
     "name": "Dieter Schwarz Stiftung gGmbH",
     "state": "active",
+    "controlDate": "2026-02-24T14:54:50.056Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -149060,6 +149061,7 @@
     "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
     "name": "Schwarz Geschäftsführungsgesellschaft mbH",
     "state": "active",
+    "controlDate": "2026-02-24T15:06:22.059Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150940,6 +150942,32 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "699dbb4e-8a15-411b-b3ac-ef55fbb8148e",
+    "name": "Dieter Schwarz Stiftung",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "699dbb68-c8a4-403c-81d0-3f9dae6e37c3",
+    "name": "Streubesitz an der Dieter Schwarz Stiftung gGmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -201220,7 +201248,7 @@
   },
   {
     "squuid": "6989c4fb-09b7-4ab3-bc3c-bfb71e1444fd",
-    "name": "Erbengemeinschaft nach Andread Gessler (Thomas Gessler, Carola Gessler, Irene Böhme)",
+    "name": "Erbengemeinschaft nach Andreas Gessler (Thomas Gessler, Carola Gessler, Irene Böhme)",
     "state": "active",
     "organizations": [
       {
