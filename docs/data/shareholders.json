@@ -151706,6 +151706,39 @@
     ]
   },
   {
+    "squuid": "69a581c8-408a-4cf1-8f64-6e4389185e54",
+    "name": "Ostdeutscher Verlag GmbH",
+    "state": "active",
+    "controlDate": "2026-03-02T12:35:10.778Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69a58213-a2b9-4ac2-a919-62bcd9419966",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69a581f2-af5b-43ba-b332-8f9048c37404",
+          "name": "www.ostdeutscheallgemeine.com"
+        }
+      },
+      {
+        "squuid": "69a583c8-92ac-455d-b021-8806af9cee78",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69a581da-46d9-4ae7-80a0-8caadfc97a16",
+          "name": "Ostdeutsche Allgemeine Zeitung"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "61fbd725-76d4-4edc-bf31-60fde1587368",
     "name": "Blulife GmbH & Co. KG",
     "state": "archived",
