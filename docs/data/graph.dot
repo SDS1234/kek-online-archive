@@ -92250,11 +92250,11 @@ digraph {
     label="Medien-Marketing Bayern Verwaltungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=64
+    num_medias_weighted=7.3041
     name="6995bb29-c6a4-4173-a90b-ede8c5a43566"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7688 [
     type=shareholder
@@ -92577,7 +92577,7 @@ digraph {
     num_medias=64
     num_medias_weighted=14.3217
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
-    in_degree=2
+    in_degree=3
     out_degree=8
   ];
   7715 [
@@ -244984,6 +244984,10 @@ digraph {
   7685 -> 16149 [
     weight=100
     type=operates
+  ];
+  7687 -> 7714 [
+    weight=51
+    type=owns
   ];
   7688 -> 7739 [
     weight=49
