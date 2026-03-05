@@ -144862,6 +144862,7 @@
     "squuid": "698b6861-01fa-4f95-846e-5863789e77fe",
     "name": "Blitzstart Group Beteiligungs GmbH",
     "state": "active",
+    "controlDate": "2026-03-05T08:58:59.028Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -149144,6 +149145,7 @@
     "squuid": "6995bb29-c6a4-4173-a90b-ede8c5a43566",
     "name": "Medien-Marketing Bayern Verwaltungs GmbH",
     "state": "active",
+    "controlDate": "2026-03-05T08:46:09.084Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153339,6 +153341,32 @@
     ]
   },
   {
+    "squuid": "69a9474a-df77-48a0-91a2-0c5f05582d16",
+    "name": "J J Beteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69a9475b-d11f-4d24-99af-395e9b460c53",
+    "name": "Profirm Beteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "state": "active",
     "name": "Wir in Detten GmbH & Co. KG",
     "limitedPartnership": true,
@@ -153360,6 +153388,19 @@
           "squuid": "63dbe356-704c-4a3e-9ba8-666fd0383a5d",
           "name": "www.wirin.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69a94771-f618-43be-99f7-ec1110e705f8",
+    "name": "CR Equity Holding GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -153605,6 +153646,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69a94737-13dd-4d14-9bf7-bd0d2cc2dd6f",
+    "name": "Schumacher, Georg",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
