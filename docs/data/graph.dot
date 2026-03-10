@@ -32094,11 +32094,11 @@ digraph {
     label="Dieter Schwarz Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="699dbb4e-8a15-411b-b3ac-ef55fbb8148e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2675 [
     type=shareholder
@@ -32133,7 +32133,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="6992e2b8-79c9-42d0-99f4-450716734c80"
-    in_degree=0
+    in_degree=2
     out_degree=1
   ];
   2678 [
@@ -146298,11 +146298,11 @@ digraph {
     label="Streubesitz an der Dieter Schwarz Stiftung gGmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="699dbb68-c8a4-403c-81d0-3f9dae6e37c3"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12192 [
     type=shareholder
@@ -223161,6 +223161,10 @@ digraph {
     weight=40
     type=owns
   ];
+  2674 -> 2677 [
+    weight=99.999
+    type=owns
+  ];
   2675 -> 10526 [
     weight=100
     type=owns
@@ -266843,6 +266847,10 @@ digraph {
   ];
   12190 -> 2512 [
     weight=15
+    type=owns
+  ];
+  12191 -> 2677 [
+    weight=1
     type=owns
   ];
   12193 -> 2807 [
