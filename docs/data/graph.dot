@@ -16929,7 +16929,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0000
     name="698b6861-01fa-4f95-846e-5863789e77fe"
-    in_degree=0
+    in_degree=4
     out_degree=1
   ];
   1411 [
@@ -26610,11 +26610,11 @@ digraph {
     label="CR Equity Holding GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="69a94771-f618-43be-99f7-ec1110e705f8"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2218 [
     type=print
@@ -71034,11 +71034,11 @@ digraph {
     label="J J Beteiligungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="69a9474a-df77-48a0-91a2-0c5f05582d16"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5920 [
     type=shareholder
@@ -113406,11 +113406,11 @@ digraph {
     label="Profirm Beteiligungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="69a9475b-d11f-4d24-99af-395e9b460c53"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9451 [
     type=tv
@@ -134022,11 +134022,11 @@ digraph {
     label="Schumacher, Georg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=3
     num_medias_weighted=0.0000
     name="69a94737-13dd-4d14-9bf7-bd0d2cc2dd6f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11169 [
     type=shareholder
@@ -221249,6 +221249,10 @@ digraph {
     weight=26.57
     type=owns
   ];
+  2217 -> 1410 [
+    weight=33.33
+    type=owns
+  ];
   2220 -> 6051 [
     weight=20.56
     type=owns
@@ -237916,6 +237920,10 @@ digraph {
   5916 -> 15537 [
     weight=100
     type=operates
+  ];
+  5919 -> 1410 [
+    weight=33.33
+    type=owns
   ];
   5920 -> 12608 [
     weight=70
@@ -254653,6 +254661,10 @@ digraph {
     weight=100
     type=operates
   ];
+  9450 -> 1410 [
+    weight=19.96
+    type=owns
+  ];
   9454 -> 3716 [
     weight=75
     type=owns
@@ -262543,6 +262555,10 @@ digraph {
   ];
   11167 -> 2398 [
     weight=100
+    type=owns
+  ];
+  11168 -> 1410 [
+    weight=13.37
     type=owns
   ];
   11169 -> 11167 [
