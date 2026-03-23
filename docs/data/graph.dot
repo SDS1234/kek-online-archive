@@ -90186,11 +90186,11 @@ digraph {
     label="Martens, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=304
-    num_medias_weighted=3.3088
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-c2c3-43bf-83b8-1a78839e48ad"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   7516 [
     type=shareholder
@@ -159357,7 +159357,7 @@ digraph {
     num_medias=304
     num_medias_weighted=165.4418
     name="5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e"
-    in_degree=35
+    in_degree=34
     out_degree=43
   ];
   13280 [
@@ -244247,10 +244247,6 @@ digraph {
   ];
   7513 -> 13782 [
     weight=50
-    type=owns
-  ];
-  7515 -> 13279 [
-    weight=2
     type=owns
   ];
   7516 -> 10357 [
