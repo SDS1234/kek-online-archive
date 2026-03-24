@@ -96652,7 +96652,7 @@
     "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f",
     "name": "Girardet Verlag KG",
     "state": "active",
-    "controlDate": "2026-01-12T08:53:42.181Z",
+    "controlDate": "2026-03-24T11:26:09.050Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -108900,7 +108900,7 @@
   },
   {
     "squuid": "5be1a6b6-9fc4-4021-a81b-c1daa46bae51",
-    "name": "Joens-Girardet, Christina",
+    "name": "Girardet, Christina",
     "state": "active",
     "controlDate": "2019-06-21T11:55:07.748Z",
     "organizations": [
@@ -155849,6 +155849,19 @@
     ]
   },
   {
+    "squuid": "69c27400-b3e6-43ea-9eeb-de79d5d4862b",
+    "name": "Girardet, Sibilla",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d398792-9ebd-430d-85f2-519d6453a7d7",
     "name": "Sennebogen, Walter",
     "state": "active",
@@ -155857,6 +155870,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69c27411-c775-40ed-bf76-ab9403fcff2f",
+    "name": "Wright, Antonia",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -155882,6 +155908,19 @@
           "squuid": "61fd2e0e-4213-49a5-93cc-7e56ba178229",
           "name": "www.die-deutsche-wirtschaft.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69c27432-1a18-44b5-995f-a06ff1882d69",
+    "name": "McGill, Stephanie",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -156306,6 +156345,19 @@
           "squuid": "5c614d6a-0fe0-414c-980d-69ab71d472b2",
           "name": "HDL TV"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69c274f0-67a3-47fc-a584-926dfe18dcdb",
+    "name": "Mc Gill, Stephanie",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
