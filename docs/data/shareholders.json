@@ -58900,6 +58900,15 @@
           "squuid": "6748455b-2bfd-49ce-8415-79cf45a6eb75",
           "name": "www.1000ps.de"
         }
+      },
+      {
+        "squuid": "69c3bfc9-88d4-46be-bdd4-f237915c866c",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69c3bf87-10af-4028-afcb-99158701ee45",
+          "name": "Gravelbike"
+        }
       }
     ]
   },
@@ -157187,6 +157196,19 @@
     "name": "my east Investment GmbH",
     "state": "active",
     "controlDate": "2024-11-28T11:53:23.551Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69c3c676-b2b5-430b-bb6c-7a23cbbe434d",
+    "name": "Lotz, Dr. Thomas",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",

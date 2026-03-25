@@ -50990,6 +50990,26 @@
     }
   },
   {
+    "pressPublishingIntervals": 4,
+    "state": "active",
+    "squuid": "69c3bf87-10af-4028-afcb-99158701ee45",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Gravelbike",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-03-25T10:57:25.840Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Sport"
+  },
+  {
     "state": "active",
     "squuid": "5be1a6b1-7182-4dc6-be6d-c64c1e05f5b4",
     "organization": {
