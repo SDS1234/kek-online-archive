@@ -153285,6 +153285,7 @@
     "squuid": "69a9474a-df77-48a0-91a2-0c5f05582d16",
     "name": "J J Beteiligungs GmbH",
     "state": "active",
+    "controlDate": "2026-03-25T11:26:54.511Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153303,6 +153304,7 @@
     "squuid": "69a9475b-d11f-4d24-99af-395e9b460c53",
     "name": "Profirm Beteiligungs GmbH",
     "state": "active",
+    "controlDate": "2026-03-25T11:42:01.938Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153346,6 +153348,7 @@
     "squuid": "69a94771-f618-43be-99f7-ec1110e705f8",
     "name": "CR Equity Holding GmbH",
     "state": "active",
+    "controlDate": "2026-03-25T11:38:43.168Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157644,6 +157647,19 @@
         "name": "DL",
         "type": "organization"
       },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69c3c9be-abb6-48b8-83f6-caa14e2b304d",
+    "name": "Kerscher, Martin",
+    "state": "active",
+    "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
