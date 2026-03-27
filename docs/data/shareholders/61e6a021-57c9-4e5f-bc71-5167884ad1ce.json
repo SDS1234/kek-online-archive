@@ -75,7 +75,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Classics",
+        "name": "Sky Cinema Classics /+24",
         "squuid": "5be1a6b1-f356-4883-96ae-aacc1c260cd3"
       },
       "squuid": "61e6a7b9-2607-4dba-a4b1-1c796f1614cd",
@@ -93,7 +93,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Highlights",
+        "name": "Sky Cinema Highlights /+24",
         "squuid": "5be1a6b1-da08-4482-8fe2-c57f97e47251"
       },
       "squuid": "61e6a86a-2623-4ded-9786-81001f4d7943",
@@ -111,7 +111,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Premieren +24",
+        "name": "Sky Cinema Family /+24",
         "squuid": "5be1a6b1-fc82-4674-bb5a-65b43454575f"
       },
       "squuid": "61e6a911-b638-4726-b104-1a536ae88273",

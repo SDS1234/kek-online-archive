@@ -138507,9 +138507,9 @@ digraph {
   11542 [
     type=tv
     state=active
-    label="Sky Cinema Classics"
-    num_owners=1
-    num_owners_weighted=1.0000
+    label="Sky Cinema Classics /+24"
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f356-4883-96ae-aacc1c260cd3"
@@ -138519,7 +138519,19 @@ digraph {
   11543 [
     type=tv
     state=active
-    label="Sky Cinema Highlights"
+    label="Sky Cinema Family /+24"
+    num_owners=10
+    num_owners_weighted=9.6000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-fc82-4674-bb5a-65b43454575f"
+    in_degree=1
+    out_degree=0
+  ];
+  11544 [
+    type=tv
+    state=active
+    label="Sky Cinema Highlights /+24"
     num_owners=10
     num_owners_weighted=9.6000
     num_medias=0
@@ -138528,7 +138540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11544 [
+  11545 [
     type=tv
     state=active
     label="Sky Cinema Premiere /+24"
@@ -138537,18 +138549,6 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b8b7-4125-b82c-7137994bb30e"
-    in_degree=1
-    out_degree=0
-  ];
-  11545 [
-    type=tv
-    state=active
-    label="Sky Cinema Premieren +24"
-    num_owners=10
-    num_owners_weighted=9.6000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-fc82-4674-bb5a-65b43454575f"
     in_degree=1
     out_degree=0
   ];
