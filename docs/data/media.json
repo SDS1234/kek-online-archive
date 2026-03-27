@@ -64128,7 +64128,7 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Sky Cinema Premiere",
+    "name": "Sky Cinema Premiere /+24",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -64287,7 +64287,7 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Sky Cinema Action",
+    "name": "Sky Cinema Action /+24",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -64883,8 +64883,8 @@
     "name": "Sky Replay",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -79153,11 +79153,11 @@
       "type": "organization"
     },
     "rfStatewide": true,
-    "name": "Sky Cinema Family",
+    "name": "Sky F",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },

@@ -57,7 +57,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Action",
+        "name": "Sky Cinema Action /+24",
         "squuid": "5be1a6b1-dbfe-4c46-aee8-db5cf08283f8"
       },
       "squuid": "61e6a71b-2c07-4eea-b879-e852e13c5580",
@@ -84,7 +84,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Family",
+        "name": "Sky F",
         "squuid": "5be1a6b1-3e97-4c6c-bdc0-f6200e59f8af"
       },
       "squuid": "61e6a83b-723f-4a73-a083-e662a8729192",
@@ -102,7 +102,7 @@
     {
       "type": "operate",
       "held": {
-        "name": "Sky Cinema Premiere",
+        "name": "Sky Cinema Premiere /+24",
         "squuid": "5be1a6b1-b8b7-4125-b82c-7137994bb30e"
       },
       "squuid": "61e6a8c3-cca7-452d-842b-6fb051b5f268",

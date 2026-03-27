@@ -138483,9 +138483,9 @@ digraph {
   11540 [
     type=tv
     state=active
-    label="Sky Cinema Action"
-    num_owners=1
-    num_owners_weighted=1.0000
+    label="Sky Cinema Action /+24"
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-dbfe-4c46-aee8-db5cf08283f8"
@@ -138519,18 +138519,6 @@ digraph {
   11543 [
     type=tv
     state=active
-    label="Sky Cinema Family"
-    num_owners=1
-    num_owners_weighted=1.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-3e97-4c6c-bdc0-f6200e59f8af"
-    in_degree=1
-    out_degree=0
-  ];
-  11544 [
-    type=tv
-    state=active
     label="Sky Cinema Highlights"
     num_owners=10
     num_owners_weighted=9.6000
@@ -138540,10 +138528,10 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11545 [
+  11544 [
     type=tv
     state=active
-    label="Sky Cinema Premiere"
+    label="Sky Cinema Premiere /+24"
     num_owners=10
     num_owners_weighted=9.6000
     num_medias=0
@@ -138552,7 +138540,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11546 [
+  11545 [
     type=tv
     state=active
     label="Sky Cinema Premieren +24"
@@ -138564,7 +138552,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11547 [
+  11546 [
     type=tv
     state=active
     label="Sky Cinema Special"
@@ -138576,7 +138564,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11548 [
+  11547 [
     type=tv
     state=active
     label="Sky Cinema Thriller"
@@ -138588,7 +138576,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11549 [
+  11548 [
     type=tv
     state=archived
     label="Sky Comedy"
@@ -138600,7 +138588,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  11550 [
+  11549 [
     type=tv
     state=active
     label="Sky Comedy"
@@ -138612,7 +138600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11551 [
+  11550 [
     type=tv
     state=active
     label="Sky Crime"
@@ -138624,7 +138612,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  11552 [
+  11551 [
     type=shareholder
     state=archived
     label="Sky Deutschland Fernsehen GmbH & Co. KG"
@@ -138636,7 +138624,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  11553 [
+  11552 [
     type=shareholder
     state=active
     label="Sky Deutschland Fernsehen GmbH & Co. KG"
@@ -138648,7 +138636,7 @@ digraph {
     in_degree=2
     out_degree=36
   ];
-  11554 [
+  11553 [
     type=shareholder
     state=active
     label="Sky Deutschland GmbH"
@@ -138660,7 +138648,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  11555 [
+  11554 [
     type=shareholder
     state=active
     label="Sky Deutschland Verwaltungs-GmbH"
@@ -138672,7 +138660,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  11556 [
+  11555 [
     type=tv
     state=active
     label="Sky Documentaries"
@@ -138681,6 +138669,18 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9782-4864-91e5-afb256988cb8"
+    in_degree=1
+    out_degree=0
+  ];
+  11556 [
+    type=tv
+    state=active
+    label="Sky F"
+    num_owners=10
+    num_owners_weighted=9.6000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-3e97-4c6c-bdc0-f6200e59f8af"
     in_degree=1
     out_degree=0
   ];
@@ -138772,8 +138772,8 @@ digraph {
     type=tv
     state=active
     label="Sky Replay"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3879-4e9a-a32c-9591c5ec5c63"
@@ -264665,167 +264665,167 @@ digraph {
     weight=74.9
     type=owns
   ];
-  11553 -> 8410 [
+  11552 -> 8410 [
     weight=100
     type=owns
   ];
-  11553 -> 11539 [
+  11552 -> 11539 [
     weight=100
     type=operates
   ];
-  11553 -> 11540 [
+  11552 -> 11540 [
     weight=100
     type=operates
   ];
-  11553 -> 11541 [
+  11552 -> 11541 [
     weight=100
     type=operates
   ];
-  11553 -> 11542 [
+  11552 -> 11542 [
     weight=100
     type=operates
   ];
-  11553 -> 11543 [
+  11552 -> 11543 [
     weight=100
     type=operates
   ];
-  11553 -> 11544 [
+  11552 -> 11544 [
     weight=100
     type=operates
   ];
-  11553 -> 11545 [
+  11552 -> 11545 [
     weight=100
     type=operates
   ];
-  11553 -> 11546 [
+  11552 -> 11546 [
     weight=100
     type=operates
   ];
-  11553 -> 11547 [
+  11552 -> 11547 [
     weight=100
     type=operates
   ];
-  11553 -> 11548 [
+  11552 -> 11549 [
     weight=100
     type=operates
   ];
-  11553 -> 11550 [
+  11552 -> 11550 [
     weight=100
     type=operates
   ];
-  11553 -> 11551 [
+  11552 -> 11555 [
     weight=100
     type=operates
   ];
-  11553 -> 11556 [
+  11552 -> 11556 [
     weight=100
     type=operates
   ];
-  11553 -> 11559 [
+  11552 -> 11559 [
     weight=100
     type=operates
   ];
-  11553 -> 11561 [
+  11552 -> 11561 [
     weight=100
     type=operates
   ];
-  11553 -> 11563 [
+  11552 -> 11563 [
     weight=100
     type=operates
   ];
-  11553 -> 11564 [
+  11552 -> 11564 [
     weight=100
     type=operates
   ];
-  11553 -> 11566 [
+  11552 -> 11566 [
     weight=100
     type=operates
   ];
-  11553 -> 11567 [
+  11552 -> 11567 [
     weight=100
     type=operates
   ];
-  11553 -> 11568 [
+  11552 -> 11568 [
     weight=100
     type=operates
   ];
-  11553 -> 11569 [
+  11552 -> 11569 [
     weight=100
     type=operates
   ];
-  11553 -> 11570 [
+  11552 -> 11570 [
     weight=100
     type=operates
   ];
-  11553 -> 11571 [
+  11552 -> 11571 [
     weight=100
     type=operates
   ];
-  11553 -> 11572 [
+  11552 -> 11572 [
     weight=100
     type=operates
   ];
-  11553 -> 11573 [
+  11552 -> 11573 [
     weight=100
     type=operates
   ];
-  11553 -> 11574 [
+  11552 -> 11574 [
     weight=100
     type=operates
   ];
-  11553 -> 11575 [
+  11552 -> 11575 [
     weight=100
     type=operates
   ];
-  11553 -> 11576 [
+  11552 -> 11576 [
     weight=100
     type=operates
   ];
-  11553 -> 11577 [
+  11552 -> 11577 [
     weight=100
     type=operates
   ];
-  11553 -> 11578 [
+  11552 -> 11578 [
     weight=100
     type=operates
   ];
-  11553 -> 11579 [
+  11552 -> 11579 [
     weight=100
     type=operates
   ];
-  11553 -> 11581 [
+  11552 -> 11581 [
     weight=100
     type=operates
   ];
-  11553 -> 16738 [
+  11552 -> 16738 [
     weight=100
     type=operates
   ];
-  11553 -> 16739 [
+  11552 -> 16739 [
     weight=100
     type=operates
   ];
-  11553 -> 17331 [
+  11552 -> 17331 [
     weight=100
     type=operates
   ];
-  11554 -> 11553 [
+  11553 -> 11552 [
     weight=100
     type=owns
   ];
-  11554 -> 11555 [
+  11553 -> 11554 [
     weight=100
     type=owns
   ];
-  11554 -> 12825 [
+  11553 -> 12825 [
     weight=2.44
     type=owns
   ];
-  11555 -> 11553 [
+  11554 -> 11552 [
     weight=1
     type=owns
   ];
-  11557 -> 11554 [
+  11557 -> 11553 [
     weight=100
     type=owns
   ];
