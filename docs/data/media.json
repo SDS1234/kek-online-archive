@@ -56208,6 +56208,34 @@
   },
   {
     "state": "active",
+    "squuid": "69c6441c-78e1-4389-bf58-cfc949cfda07",
+    "organization": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "rfStatewide": true,
+    "name": "Schlager Radio (bundesweit)",
+    "rfPublicPrivate": false,
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+      "name": "mabb",
+      "type": "organization",
+      "fullName": "Medienanstalt Berlin-Brandenburg"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "5be1a6b1-f3d8-44c0-b545-608bfb3278c5",
     "organization": {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

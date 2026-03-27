@@ -21958,6 +21958,15 @@
           "squuid": "69381db5-9c74-4b0b-9177-7820c7ff2004",
           "name": "www.discofox-antenne.de"
         }
+      },
+      {
+        "squuid": "69c647cd-5a65-4df6-90df-704d7cd1379d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69c6441c-78e1-4389-bf58-cfc949cfda07",
+          "name": "Schlager Radio (bundesweit)"
+        }
       }
     ]
   },
@@ -157214,9 +157223,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -157661,9 +157675,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
