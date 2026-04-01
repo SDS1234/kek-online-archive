@@ -25930,7 +25930,7 @@
     "name": "www.oderwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T10:24:26.075Z",
+    "controlDate": "2026-04-01T13:47:25.368Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26418,7 +26418,7 @@
     "name": "www.gmx.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T10:30:21.128Z",
+    "controlDate": "2026-04-01T14:01:29.506Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28216,7 +28216,7 @@
     "name": "www.pure-fm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T10:27:08.043Z",
+    "controlDate": "2026-04-01T13:47:37.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40929,7 +40929,7 @@
     "name": "www.antenneac.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T10:37:23.624Z",
+    "controlDate": "2026-04-01T14:34:38.214Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90703,7 +90703,7 @@
     "name": "www.1-2-3.live",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T10:34:11.631Z",
+    "controlDate": "2026-04-01T14:18:49.009Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99604,7 +99604,7 @@
     "rfStatewide": false,
     "name": "11 Freunde",
     "type": "print",
-    "controlDate": "2025-10-23T09:52:06.228Z",
+    "controlDate": "2026-04-01T14:52:47.398Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99652,7 +99652,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T10:46:35.169Z",
+    "controlDate": "2026-04-01T14:52:32.285Z",
     "state": "active"
   },
   {
@@ -106019,7 +106019,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T10:31:48.243Z",
+    "controlDate": "2026-04-01T14:02:10.333Z",
     "state": "active"
   },
   {
@@ -106037,7 +106037,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T10:31:37.728Z",
+    "controlDate": "2026-04-01T14:01:56.855Z",
     "state": "active"
   },
   {
@@ -117996,7 +117996,7 @@
     "name": "www.radionetzwerkberlin.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T10:09:40.134Z",
+    "controlDate": "2026-04-01T13:52:59.850Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153003,7 +153003,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "60db1282-6b8d-43fe-af76-9acfc0a85606",
     "organization": {
       "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
@@ -153015,8 +153015,8 @@
     "name": "80s80s Radio (Mecklenburg-Vorpommern)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },

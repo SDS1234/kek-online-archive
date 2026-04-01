@@ -39,15 +39,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "80s80s Radio (Mecklenburg-Vorpommern)",
-        "squuid": "60db1282-6b8d-43fe-af76-9acfc0a85606"
-      },
-      "squuid": "60db1584-896a-4167-bf0d-bca8f84eca2d",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "80s80s Radio (bundesweit)",
         "squuid": "60db1618-082e-4350-a2e4-f8aadb567c3f"
       },

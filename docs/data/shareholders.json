@@ -1408,7 +1408,7 @@
     "squuid": "5cb4780d-bd31-4e39-92a1-070a48e6a5ee",
     "name": " Radio Netzwerk Berlin e.V.",
     "state": "active",
-    "controlDate": "2021-12-07T14:12:51.163Z",
+    "controlDate": "2026-04-01T13:51:21.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28440,7 +28440,7 @@
     "squuid": "5be1a6b6-b308-419c-8320-0944300cfe20",
     "name": "1-2-3.tv GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:33:56.498Z",
+    "controlDate": "2026-04-01T14:19:32.249Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -30689,15 +30689,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "60db1584-896a-4167-bf0d-bca8f84eca2d",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "60db1282-6b8d-43fe-af76-9acfc0a85606",
-          "name": "80s80s Radio (Mecklenburg-Vorpommern)"
-        }
-      },
       {
         "squuid": "60db177b-966d-4336-8080-816d8ecb16de",
         "type": "operate",
@@ -33237,7 +33228,7 @@
     "name": "107.8 Antenne AC Rundfunkbetriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4d01-454e-b4e2-6e293a5c2a46",
-    "controlDate": "2025-09-10T10:36:02.070Z",
+    "controlDate": "2026-04-01T14:32:41.854Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85149,7 +85140,7 @@
     "squuid": "5be1a6b6-4a34-4c70-aed2-6799fafcb400",
     "name": " eagle Broadcast Brandenburg GmbH ",
     "state": "active",
-    "controlDate": "2025-09-10T10:21:23.417Z",
+    "controlDate": "2026-04-01T13:47:07.163Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -138394,7 +138385,7 @@
     "squuid": "5f105862-cf51-49ec-9aeb-b426023adbac",
     "name": "107.8 Antenne AC Rundfunkverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:35:45.247Z",
+    "controlDate": "2026-04-01T14:32:30.685Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159211,6 +159202,19 @@
     ]
   },
   {
+    "squuid": "69cd2875-59ac-4be9-8b77-b19b51168915",
+    "name": "DVCP I RAIF  SICAV, S.C.A.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d3ad45a-2681-4778-a8f2-268a510e76a9",
     "name": "Congrégation des Augustins de l’Assomption",
     "state": "active",
@@ -162213,7 +162217,7 @@
     "squuid": "620a146b-4a29-4e7b-b3c7-837b903c01ac",
     "name": "123tv Invest GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:49:02.070Z",
+    "controlDate": "2026-04-01T14:24:33.219Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -238137,7 +238141,7 @@
     "name": "11 Freunde Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-18d3-4575-9316-acd28f43f22d",
-    "controlDate": "2025-09-10T10:43:53.774Z",
+    "controlDate": "2026-04-01T14:51:20.558Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249585,7 +249589,7 @@
     "squuid": "5dc03a43-814f-4d25-8ef8-85a844e0336d",
     "name": "11 Freunde Verlag Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:43:00.263Z",
+    "controlDate": "2026-04-01T14:52:21.109Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258489,7 +258493,7 @@
     "squuid": "5be1a6b6-f4a0-4713-93d7-8df3dd2f7ded",
     "name": "1&1 Mail & Media Applications SE",
     "state": "active",
-    "controlDate": "2025-09-10T10:28:07.409Z",
+    "controlDate": "2026-04-01T14:02:28.030Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274216,7 +274220,7 @@
     "squuid": "5be1a6b6-e4b6-431a-b560-4abe904fa1b0",
     "name": "123tv Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:47:19.744Z",
+    "controlDate": "2026-04-01T14:24:08.299Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -274234,7 +274238,7 @@
     "squuid": "5be1a6b6-560f-4705-889b-808fe6a81179",
     "name": "123tv Holding GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:48:47.471Z",
+    "controlDate": "2026-04-01T14:24:16.666Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
