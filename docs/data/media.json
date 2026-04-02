@@ -5832,7 +5832,7 @@
     "rfStatewide": false,
     "name": "ACV Profil",
     "type": "print",
-    "controlDate": "2025-10-23T10:59:01.120Z",
+    "controlDate": "2026-04-02T11:25:27.339Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -43825,7 +43825,7 @@
     "name": "www.achgut.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T09:09:16.069Z",
+    "controlDate": "2026-04-02T11:19:09.407Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79246,7 +79246,7 @@
     "rfStatewide": false,
     "name": "Acher-Rench-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T10:57:02.250Z",
+    "controlDate": "2026-04-02T11:14:30.671Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80665,7 +80665,7 @@
     "rfStatewide": false,
     "name": "ADAC Motorwelt",
     "type": "print",
-    "controlDate": "2025-10-08T12:55:21.087Z",
+    "controlDate": "2026-04-02T11:29:35.057Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
