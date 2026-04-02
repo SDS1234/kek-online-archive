@@ -2946,11 +2946,11 @@ digraph {
     label="adspree media GmbH"
     num_owners=8
     num_owners_weighted=7.5730
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-4ccf-465a-983a-fcafbe7de6e4"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   246 [
     type=shareholder
@@ -52914,8 +52914,8 @@ digraph {
     label="gamigo AG"
     num_owners=6
     num_owners_weighted=5.5730
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5be1a6b6-55c7-411b-9b3b-109da24406b3"
     in_degree=5
     out_degree=1
@@ -52926,8 +52926,8 @@ digraph {
     label="Gamigo Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
-    num_medias_weighted=0.4140
+    num_medias=2
+    num_medias_weighted=0.2760
     name="672a0053-2974-4a22-9b92-9b95f68f8108"
     in_degree=1
     out_degree=1
@@ -52938,8 +52938,8 @@ digraph {
     label="gamigo Publishing GmbH"
     num_owners=7
     num_owners_weighted=6.5730
-    num_medias=3
-    num_medias_weighted=3.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5be1a6b6-9a16-4b6f-a5d5-e88add289e8c"
     in_degree=1
     out_degree=2
@@ -130206,8 +130206,8 @@ digraph {
     label="Samarion GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
-    num_medias_weighted=1.7190
+    num_medias=2
+    num_medias_weighted=1.1460
     name="5be1a6b6-3839-43da-8e48-bc1c6ada6216"
     in_degree=1
     out_degree=1
@@ -146574,8 +146574,8 @@ digraph {
     label="Streubesitz an der gamigo AG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.1800
+    num_medias=2
+    num_medias_weighted=0.1200
     name="672a0085-5e6f-4801-b7b9-6d0778ccd466"
     in_degree=0
     out_degree=1
@@ -157902,8 +157902,8 @@ digraph {
     label="Vajparani Ltd."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.4260
+    num_medias=2
+    num_medias_weighted=0.2840
     name="672a002c-3fff-4386-ac17-537ee1394a86"
     in_degree=0
     out_degree=1
@@ -159834,8 +159834,8 @@ digraph {
     label="Verve Group SE"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.4140
+    num_medias=2
+    num_medias_weighted=0.2760
     name="672a0378-9ac3-4fff-9158-044f362192ad"
     in_degree=0
     out_degree=2
@@ -160482,8 +160482,8 @@ digraph {
     label="ViewLakeside S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.2610
+    num_medias=2
+    num_medias_weighted=0.1740
     name="672a006e-fcc1-490e-8a3d-bb1ee7f8c7c1"
     in_degree=0
     out_degree=1
@@ -195710,14 +195710,14 @@ digraph {
   ];
   16309 [
     type=online
-    state=active
+    state=archived
     label="www.prosiebengames.de"
-    num_owners=9
-    num_owners_weighted=8.5730
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f33e571-4309-4e8d-a934-6f6497c87a49"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16310 [
@@ -212198,10 +212198,6 @@ digraph {
     type=owns
   ];
   245 -> 14624 [
-    weight=100
-    type=operates
-  ];
-  245 -> 16309 [
     weight=100
     type=operates
   ];

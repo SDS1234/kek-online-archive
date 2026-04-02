@@ -37588,7 +37588,7 @@
     "pressKind": "Regional"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f33e571-4309-4e8d-a934-6f6497c87a49",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -80896,7 +80896,7 @@
     "rfStatewide": false,
     "name": "Pirmasenser Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T11:01:52.949Z",
+    "controlDate": "2026-04-02T11:49:51.542Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120526,7 +120526,7 @@
     "rfStatewide": false,
     "name": "Pirmasenser Zeitung am Sonntag",
     "type": "print",
-    "controlDate": "2025-09-11T09:29:19.364Z",
+    "controlDate": "2026-04-02T11:50:08.242Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120549,7 +120549,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-11T09:31:10.396Z",
+    "controlDate": "2026-04-02T11:50:25.543Z",
     "state": "active"
   },
   {
@@ -155383,7 +155383,7 @@
     "name": "www.browsergames.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T09:37:30.079Z",
+    "controlDate": "2026-04-02T11:55:59.483Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156173,7 +156173,7 @@
     "name": "www.fussballtransfers.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T09:41:35.784Z",
+    "controlDate": "2026-04-02T12:01:35.076Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
