@@ -639,7 +639,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T12:03:22.326Z",
+    "controlDate": "2026-04-02T08:38:09.942Z",
     "state": "active"
   },
   {
@@ -657,7 +657,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T12:02:53.836Z",
+    "controlDate": "2026-04-02T08:38:01.084Z",
     "state": "active"
   },
   {
@@ -24315,7 +24315,7 @@
     "name": "AZ am Sonntag (München)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-10T12:34:20.966Z",
+    "controlDate": "2026-04-02T09:11:19.644Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30035,7 +30035,7 @@
     "name": "www.finanznachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T12:20:40.028Z",
+    "controlDate": "2026-04-02T08:56:16.212Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33312,7 +33312,7 @@
     "name": "www.hausjournal.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T12:38:46.407Z",
+    "controlDate": "2026-04-02T09:18:06.973Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44888,7 +44888,7 @@
     "name": "www.lokale-wochenzeitungen.de/tip-tageblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T11:44:34.640Z",
+    "controlDate": "2026-04-02T08:23:03.663Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79919,7 +79919,7 @@
     "rfStatewide": false,
     "name": "Pinneberger Tageblatt",
     "type": "print",
-    "controlDate": "2025-10-23T10:30:02.266Z",
+    "controlDate": "2026-04-02T08:17:55.169Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79981,7 +79981,7 @@
     "rfStatewide": false,
     "name": "Uetersener Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-23T10:35:22.762Z",
+    "controlDate": "2026-04-02T08:18:47.440Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80001,7 +80001,7 @@
     "rfStatewide": false,
     "name": "Elmshorner Nachrichten",
     "type": "print",
-    "controlDate": "2025-09-10T11:39:34.251Z",
+    "controlDate": "2026-04-02T08:17:31.331Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86751,7 +86751,7 @@
     "rfStatewide": false,
     "name": "Berchtesgadener Anzeiger",
     "type": "print",
-    "controlDate": "2025-09-10T12:01:49.484Z",
+    "controlDate": "2026-04-02T08:37:40.454Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86795,7 +86795,7 @@
     "rfStatewide": false,
     "name": "Traunsteiner Tagblatt",
     "type": "print",
-    "controlDate": "2025-09-10T12:02:01.138Z",
+    "controlDate": "2026-04-02T08:37:49.977Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -94335,7 +94335,7 @@
     "rfStatewide": false,
     "name": "ACE-Lenkrad",
     "type": "print",
-    "controlDate": "2025-10-23T10:51:15.112Z",
+    "controlDate": "2026-04-02T09:34:37.664Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103259,7 +103259,7 @@
     "rfStatewide": false,
     "name": "Abendzeitung",
     "type": "print",
-    "controlDate": "2025-10-23T10:48:33.187Z",
+    "controlDate": "2026-04-02T09:11:39.432Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103282,7 +103282,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T12:30:16.070Z",
+    "controlDate": "2026-04-02T09:11:46.392Z",
     "state": "active"
   },
   {
@@ -112077,7 +112077,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T12:24:03.278Z",
+    "controlDate": "2026-04-02T08:59:12.308Z",
     "state": "active"
   },
   {
@@ -117175,7 +117175,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:47:30.418Z",
+    "controlDate": "2026-04-02T08:25:39.120Z",
     "state": "active"
   },
   {
@@ -117217,7 +117217,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:48:15.225Z",
+    "controlDate": "2026-04-02T08:25:53.027Z",
     "state": "active"
   },
   {
@@ -117235,7 +117235,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:48:24.846Z",
+    "controlDate": "2026-04-02T08:26:07.224Z",
     "state": "active"
   },
   {
@@ -117253,7 +117253,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:48:46.506Z",
+    "controlDate": "2026-04-02T08:26:30.611Z",
     "state": "active"
   },
   {
@@ -117296,7 +117296,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:47:18.107Z",
+    "controlDate": "2026-04-02T08:25:22.404Z",
     "state": "active"
   },
   {
@@ -117314,7 +117314,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:45:56.821Z",
+    "controlDate": "2026-04-02T08:23:31.838Z",
     "state": "active"
   },
   {
@@ -117332,7 +117332,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-10T11:48:35.361Z",
+    "controlDate": "2026-04-02T08:26:17.076Z",
     "state": "active"
   },
   {
@@ -117365,7 +117365,7 @@
     "rfStatewide": false,
     "name": "Schenefelder Tageblatt",
     "type": "print",
-    "controlDate": "2025-10-23T10:34:56.538Z",
+    "controlDate": "2026-04-02T08:18:29.345Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117385,7 +117385,7 @@
     "rfStatewide": false,
     "name": "Quickborner Tageblatt",
     "type": "print",
-    "controlDate": "2025-10-23T10:34:08.199Z",
+    "controlDate": "2026-04-02T08:18:11.987Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117405,7 +117405,7 @@
     "rfStatewide": false,
     "name": "Wedel-Schulauer Tageblatt",
     "type": "print",
-    "controlDate": "2025-09-10T11:42:06.780Z",
+    "controlDate": "2026-04-02T08:19:01.766Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117451,7 +117451,7 @@
     "rfStatewide": false,
     "name": "Barmstedter Zeitung",
     "type": "print",
-    "controlDate": "2025-09-10T11:38:38.894Z",
+    "controlDate": "2026-04-02T08:17:15.427Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -131564,7 +131564,7 @@
     "name": "www.pharmazeutische-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T12:25:11.954Z",
+    "controlDate": "2026-04-02T08:59:46.944Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135944,10 +135944,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.fussball.news",
+    "name": "www.absolutfussball.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T12:41:33.208Z",
+    "controlDate": "2026-04-02T09:25:59.191Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137415,7 +137415,7 @@
     "name": "www.augsburg.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-10T12:15:01.773Z",
+    "controlDate": "2026-04-02T08:47:04.180Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

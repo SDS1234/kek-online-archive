@@ -8817,7 +8817,7 @@
     "squuid": "5be1a6b6-7c70-43ba-8cff-a3232bcbc89b",
     "name": "ABC Cable and International Broadcast Worldwide Holdings, Inc.",
     "state": "active",
-    "controlDate": "2025-09-10T12:19:33.343Z",
+    "controlDate": "2026-04-02T08:53:55.019Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -14879,8 +14879,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -47705,7 +47706,7 @@
     "squuid": "5d356b67-0470-4bbe-9fc2-421d5cd1a60a",
     "name": "ABC New Media AG",
     "state": "active",
-    "controlDate": "2025-09-10T12:20:17.789Z",
+    "controlDate": "2026-04-02T08:54:44.812Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -70794,7 +70795,7 @@
     "squuid": "5c4f18d9-091c-43f1-89b2-6cf862cc66dd",
     "name": "about:publishing GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:38:36.483Z",
+    "controlDate": "2026-04-02T09:16:57.846Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -82310,7 +82311,7 @@
     "squuid": "5be1a6b6-e844-4b84-a123-7fc1c7140414",
     "name": "Absolut Digital GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-04-14T16:41:39.813Z",
+    "controlDate": "2026-04-02T09:22:52.437Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -90034,7 +90035,7 @@
     "squuid": "5be1a6b6-c2ea-4a9e-b4fe-7824708a9b57",
     "name": "Access Industries, Inc.",
     "state": "active",
-    "controlDate": "2025-09-11T08:59:10.096Z",
+    "controlDate": "2026-04-02T09:32:09.169Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -92289,7 +92290,7 @@
     "name": "Abendzeitung Digital GmbH",
     "limitedPartnership": false,
     "squuid": "5bed6f9c-8130-4d42-a189-9e9f827c4530",
-    "controlDate": "2025-09-10T12:30:01.050Z",
+    "controlDate": "2026-04-02T09:03:25.874Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -94159,7 +94160,7 @@
     "name": "A. Miller, Zeitungsverlag KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-0cc7-4302-abb6-ee8a98d2fe65",
-    "controlDate": "2025-09-10T11:59:52.838Z",
+    "controlDate": "2026-04-02T08:36:07.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137064,7 +137065,7 @@
     "squuid": "5be1a6b6-bcfc-468d-93d3-251a494b3a76",
     "name": "ABC Enterprises Inc.",
     "state": "active",
-    "controlDate": "2025-09-10T12:20:04.022Z",
+    "controlDate": "2026-04-02T08:54:20.788Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143434,7 +143435,7 @@
     "squuid": "5c45e910-2acc-408c-a327-8c4d3d4ebe95",
     "name": "ABDA - Bundesvereinigung Deutscher Apothekerverbände e.V.",
     "state": "active",
-    "controlDate": "2020-06-18T12:27:20.012Z",
+    "controlDate": "2026-04-02T08:57:08.494Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153645,7 +153646,7 @@
   },
   {
     "squuid": "637ce590-e26b-4974-a13b-673454352fb3",
-    "name": "Haimüller, Reinhold",
+    "name": "Müller, Reinhold",
     "state": "active",
     "organizations": [
       {
@@ -166805,7 +166806,7 @@
     "name": "a.tv GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5cab5218-8ad0-4b1d-9b2f-1399a06cf0eb",
-    "controlDate": "2025-09-10T12:14:22.174Z",
+    "controlDate": "2026-04-02T08:45:29.650Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169480,7 +169481,7 @@
     "squuid": "67122df8-0881-4a51-bb79-cddc4aef66a1",
     "name": "Accel London II LP",
     "state": "active",
-    "controlDate": "2025-09-10T12:46:10.451Z",
+    "controlDate": "2026-04-02T09:31:56.608Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193165,7 +193166,7 @@
     "squuid": "67853ec6-e7de-4205-839a-93099302fc94",
     "name": "Absolut Fußball GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:41:18.050Z",
+    "controlDate": "2026-04-02T09:23:54.605Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193180,7 +193181,7 @@
         "state": "active",
         "held": {
           "squuid": "67853e99-49fd-4279-8241-f8eeb457c766",
-          "name": "www.fussball.news"
+          "name": "www.absolutfussball.com"
         }
       }
     ]
@@ -195227,7 +195228,7 @@
     "squuid": "5f772d3d-0f14-4175-a267-00c813439111",
     "name": "a.tv Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:13:54.176Z",
+    "controlDate": "2026-04-02T08:43:42.517Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217160,7 +217161,7 @@
     "name": "A. Beig Druckerei und Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-46b5-4cc2-9c62-b061ede0c40a",
-    "controlDate": "2025-09-10T11:37:48.254Z",
+    "controlDate": "2026-04-02T08:09:44.088Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -236827,7 +236828,7 @@
     "squuid": "5be1a6b6-cbfd-4471-b6a8-126aca7ee7c3",
     "name": "Abendzeitung München Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:32:22.621Z",
+    "controlDate": "2026-04-02T09:09:11.919Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245121,7 +245122,7 @@
     "squuid": "5be1a6b6-444f-4669-ab1e-ea5f2cd61a3e",
     "name": "ACE Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T08:59:31.044Z",
+    "controlDate": "2026-04-02T09:34:23.215Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245407,7 +245408,7 @@
     "squuid": "5f3a4db6-ad3f-4f2f-a3b6-4a272a2e77ba",
     "name": "Absolut Digital Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:39:15.214Z",
+    "controlDate": "2026-04-02T09:20:22.029Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253749,7 +253750,7 @@
         "state": "active",
         "held": {
           "squuid": "67853e99-49fd-4279-8241-f8eeb457c766",
-          "name": "www.fussball.news"
+          "name": "www.absolutfussball.com"
         }
       },
       {
@@ -299441,7 +299442,7 @@
     "squuid": "644147f6-3ca6-4cbb-8be8-4272ef2ef6b5",
     "name": "Aachener Anzeigenblatt Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-10T12:18:10.520Z",
+    "controlDate": "2026-04-02T08:51:47.715Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
