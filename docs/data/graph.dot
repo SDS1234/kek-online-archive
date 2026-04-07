@@ -55893,7 +55893,7 @@ digraph {
     num_medias=121
     num_medias_weighted=3.3565
     name="5be1a6b6-ff67-4dcc-b8b6-874d94ac176f"
-    in_degree=10
+    in_degree=12
     out_degree=4
   ];
   4658 [
@@ -55950,11 +55950,11 @@ digraph {
     label="Girardet, Klaus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=121
-    num_medias_weighted=2.8585
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-825f-4b2f-862c-d39d391208cf"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4663 [
     type=shareholder
@@ -55986,11 +55986,11 @@ digraph {
     label="Girardet, Sibilla"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=121
+    num_medias_weighted=0.9534
     name="69c27400-b3e6-43ea-9eeb-de79d5d4862b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4666 [
     type=shareholder
@@ -91266,11 +91266,11 @@ digraph {
     label="Mc Gill, Stephanie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=121
+    num_medias_weighted=0.9534
     name="69c274f0-67a3-47fc-a584-926dfe18dcdb"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7606 [
     type=shareholder
@@ -170538,11 +170538,11 @@ digraph {
     label="Wright, Antonia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=121
+    num_medias_weighted=0.9534
     name="69c27411-c775-40ed-bf76-ab9403fcff2f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   14212 [
     type=shareholder
@@ -232513,10 +232513,6 @@ digraph {
     weight=3.45
     type=owns
   ];
-  4662 -> 4657 [
-    weight=35.8
-    type=owns
-  ];
   4663 -> 4657 [
     weight=8.2
     type=owns
@@ -232531,6 +232527,10 @@ digraph {
   ];
   4664 -> 4658 [
     weight=11.86
+    type=owns
+  ];
+  4665 -> 4657 [
+    weight=11.94
     type=owns
   ];
   4666 -> 4657 [
@@ -244599,6 +244599,10 @@ digraph {
   ];
   7603 -> 13980 [
     weight=100
+    type=owns
+  ];
+  7605 -> 4657 [
+    weight=11.94
     type=owns
   ];
   7606 -> 2559 [
@@ -276128,6 +276132,10 @@ digraph {
   14210 -> 17335 [
     weight=100
     type=operates
+  ];
+  14211 -> 4657 [
+    weight=11.94
+    type=owns
   ];
   14213 -> 7611 [
     weight=100
