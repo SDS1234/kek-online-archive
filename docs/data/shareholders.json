@@ -37146,7 +37146,7 @@
     "squuid": "5f9c1188-b333-454c-ac5b-59878e9c75db",
     "name": "AEP Plückhahn Service GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T09:48:44.758Z",
+    "controlDate": "2026-04-08T11:14:16.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38883,7 +38883,7 @@
     "squuid": "5be1a6b6-13ac-4b54-844a-20b9854fad50",
     "name": "AG für die Neue Zürcher Zeitung/NZZ-Mediengruppe",
     "state": "active",
-    "controlDate": "2025-09-11T09:55:12.032Z",
+    "controlDate": "2026-04-08T11:21:34.640Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85169,7 +85169,7 @@
     "squuid": "5faeb8be-cf76-40b9-840d-965457c5d8e2",
     "name": "AEP Plückhahn Netze GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T09:48:25.375Z",
+    "controlDate": "2026-04-08T11:13:43.932Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -145510,7 +145510,7 @@
     "squuid": "61f29d3e-d947-4f5d-9696-15fedf0336e0",
     "name": "aeroTELEGRAPH GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T09:54:31.404Z",
+    "controlDate": "2026-04-08T11:19:34.751Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150660,7 +150660,7 @@
     "squuid": "5f2024de-4b70-413f-af03-7cb78de1f15f",
     "name": "AEP Plückhahn Wolgast GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T09:49:58.317Z",
+    "controlDate": "2026-04-08T11:14:50.060Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178397,15 +178397,6 @@
         "held": {
           "squuid": "5f2028fc-0981-43b1-8f95-5323ec3d1ed4",
           "name": "www.ruegentv.de"
-        }
-      },
-      {
-        "squuid": "63b8083a-2ac9-42c9-a0a7-5465b224db22",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f2032be-907b-4ddc-88d2-0e3f20428ef1",
-          "name": "www.usedomtv.de"
         }
       },
       {

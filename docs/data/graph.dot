@@ -3090,8 +3090,8 @@ digraph {
     label="AEP Plückhahn Netze GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=6
-    num_medias_weighted=2.3650
+    num_medias=5
+    num_medias_weighted=2.0425
     name="5faeb8be-cf76-40b9-840d-965457c5d8e2"
     in_degree=1
     out_degree=1
@@ -45654,8 +45654,8 @@ digraph {
     label="FAS GmbH"
     num_owners=6
     num_owners_weighted=3.7200
-    num_medias=6
-    num_medias_weighted=5.5000
+    num_medias=5
+    num_medias_weighted=4.7500
     name="5f2028e9-bd26-4f95-b774-cafafe1b5d77"
     in_degree=2
     out_degree=6
@@ -91662,11 +91662,11 @@ digraph {
     label="meckpomm.tv GmbH & Co. KG"
     num_owners=8
     num_owners_weighted=1.0000
-    num_medias=4
-    num_medias_weighted=4.0000
+    num_medias=3
+    num_medias_weighted=3.0000
     name="639af6d1-c77b-4a5a-a21b-79d37b1eeb48"
     in_degree=3
-    out_degree=4
+    out_degree=3
   ];
   7639 [
     type=shareholder
@@ -91674,7 +91674,7 @@ digraph {
     label="meckpomm.tv Verwaltungs GmbH"
     num_owners=7
     num_owners_weighted=3.7900
-    num_medias=4
+    num_medias=3
     num_medias_weighted=0.0000
     name="639af7a1-b1c6-4d07-8f49-629edb92524f"
     in_degree=2
@@ -205312,12 +205312,12 @@ digraph {
     type=online
     state=active
     label="www.usedomtv.de"
-    num_owners=10
-    num_owners_weighted=6.0400
+    num_owners=6
+    num_owners_weighted=4.0400
     num_medias=0
     num_medias_weighted=0.0000
     name="5f2032be-907b-4ddc-88d2-0e3f20428ef1"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   17110 [
@@ -244682,10 +244682,6 @@ digraph {
     type=operates
   ];
   7638 -> 16602 [
-    weight=100
-    type=operates
-  ];
-  7638 -> 17109 [
     weight=100
     type=operates
   ];
