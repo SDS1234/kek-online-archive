@@ -2263,7 +2263,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=9
-    num_medias_weighted=5.7054
+    num_medias_weighted=2.7866
     name="5be1a6b6-c2ea-4a9e-b4fe-7824708a9b57"
     in_degree=1
     out_degree=5
@@ -3355,7 +3355,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=9
-    num_medias_weighted=5.7054
+    num_medias_weighted=2.7866
     name="5be1a6b6-2fb2-46f4-9248-7f3787e24f00"
     in_degree=1
     out_degree=1
@@ -16783,7 +16783,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=9
-    num_medias_weighted=5.7054
+    num_medias_weighted=2.7866
     name="5be1a6b6-eaf2-4630-80e8-8623e211291a"
     in_degree=0
     out_degree=1
@@ -212314,7 +212314,7 @@ digraph {
     type=operates
   ];
   279 -> 2323 [
-    weight=63.45
+    weight=30.99
     type=owns
   ];
   283 -> 7218 [

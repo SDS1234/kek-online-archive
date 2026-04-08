@@ -12736,7 +12736,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-11T10:09:34.369Z",
+    "controlDate": "2026-04-08T11:25:57.688Z",
     "state": "active"
   },
   {
@@ -12794,7 +12794,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-11T10:10:05.359Z",
+    "controlDate": "2026-04-08T11:26:05.015Z",
     "state": "active"
   },
   {
@@ -26121,7 +26121,7 @@
     "name": "www.ahoyradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T10:13:32.914Z",
+    "controlDate": "2026-04-08T12:11:06.360Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81162,7 +81162,7 @@
     "name": "www.kitchenstories. com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-22T10:33:43.386Z",
+    "controlDate": "2026-04-08T12:22:26.074Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105405,7 +105405,7 @@
     "rfStatewide": false,
     "name": "flair",
     "type": "print",
-    "controlDate": "2025-09-11T10:09:11.233Z",
+    "controlDate": "2026-04-08T11:24:35.033Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105426,7 +105426,7 @@
     "rfStatewide": false,
     "name": "H.O.M.E. Deutschland",
     "type": "print",
-    "controlDate": "2025-10-23T11:08:17.323Z",
+    "controlDate": "2026-04-08T11:24:22.918Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -139112,7 +139112,7 @@
     "name": "www.deraktionaer.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T10:21:23.939Z",
+    "controlDate": "2026-04-08T12:29:21.545Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
