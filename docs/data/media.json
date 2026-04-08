@@ -6554,7 +6554,7 @@
     "rfStatewide": false,
     "name": "Greta",
     "type": "print",
-    "controlDate": "2025-10-23T11:16:17.735Z",
+    "controlDate": "2026-04-08T14:03:21.243Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -34716,7 +34716,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5e33fada-949b-4557-b5e1-570c38a10c59",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37916,7 +37916,7 @@
   },
   {
     "pressPublishingIntervals": 12,
-    "state": "active",
+    "state": "archived",
     "squuid": "5c657314-83b1-47ed-ad25-5603dee6f0bf",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38109,7 +38109,7 @@
     "name": "www.galaxy-mittelfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T10:26:15.292Z",
+    "controlDate": "2026-04-08T13:18:02.783Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -102468,7 +102468,7 @@
     "rfStatewide": false,
     "name": "Freizeit Blitz",
     "type": "print",
-    "controlDate": "2025-10-23T11:10:58.458Z",
+    "controlDate": "2026-04-08T14:01:12.446Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102489,7 +102489,7 @@
     "rfStatewide": false,
     "name": "Freizeit Express",
     "type": "print",
-    "controlDate": "2025-09-11T10:51:58.580Z",
+    "controlDate": "2026-04-08T14:01:44.253Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102510,7 +102510,7 @@
     "rfStatewide": false,
     "name": "illu der frau",
     "type": "print",
-    "controlDate": "2025-10-23T11:17:16.524Z",
+    "controlDate": "2026-04-08T14:05:39.289Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102531,7 +102531,7 @@
     "rfStatewide": false,
     "name": "von Frau zu Frau",
     "type": "print",
-    "controlDate": "2025-10-23T11:22:03.090Z",
+    "controlDate": "2026-04-08T14:05:49.482Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102552,7 +102552,7 @@
     "rfStatewide": false,
     "name": "Meine Freizeit",
     "type": "print",
-    "controlDate": "2025-10-23T11:18:08.129Z",
+    "controlDate": "2026-04-08T14:03:57.735Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102597,7 +102597,7 @@
     "rfStatewide": false,
     "name": "Freizeit Vergnügen",
     "type": "print",
-    "controlDate": "2025-10-23T11:15:31.076Z",
+    "controlDate": "2026-04-08T14:02:37.483Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102618,7 +102618,7 @@
     "rfStatewide": false,
     "name": "Freizeit Monat",
     "type": "print",
-    "controlDate": "2025-10-23T11:14:41.478Z",
+    "controlDate": "2026-04-08T14:02:18.660Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102665,7 +102665,7 @@
     "rfStatewide": false,
     "name": "Prima Woche",
     "type": "print",
-    "controlDate": "2025-10-23T11:20:09.439Z",
+    "controlDate": "2026-04-08T14:04:30.263Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102686,7 +102686,7 @@
     "rfStatewide": false,
     "name": "Freizeit heute",
     "type": "print",
-    "controlDate": "2025-10-23T11:13:08.579Z",
+    "controlDate": "2026-04-08T14:02:56.640Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102707,7 +102707,7 @@
     "rfStatewide": false,
     "name": "Revue Heute",
     "type": "print",
-    "controlDate": "2025-10-23T11:20:32.512Z",
+    "controlDate": "2026-04-08T14:04:43.034Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102752,7 +102752,7 @@
     "rfStatewide": false,
     "name": "Spaß für mich",
     "type": "print",
-    "controlDate": "2025-10-23T11:21:26.562Z",
+    "controlDate": "2026-04-08T14:05:29.841Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102773,7 +102773,7 @@
     "rfStatewide": false,
     "name": "Myillu",
     "type": "print",
-    "controlDate": "2025-10-23T11:18:58.113Z",
+    "controlDate": "2026-04-08T14:04:07.164Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -137015,7 +137015,7 @@
     "name": "www.allgäu.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T11:22:34.311Z",
+    "controlDate": "2026-04-08T14:30:10.559Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143288,7 +143288,7 @@
     "name": "Freizeit König",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-23T11:13:59.062Z",
+    "controlDate": "2026-04-08T14:02:03.604Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148154,7 +148154,7 @@
     "name": "www.radio8.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-11T10:26:24.660Z",
+    "controlDate": "2026-04-08T13:19:54.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
