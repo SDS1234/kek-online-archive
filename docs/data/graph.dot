@@ -7624,7 +7624,7 @@ digraph {
     type=tv
     state=active
     label=arte
-    num_owners=5
+    num_owners=14
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -7636,8 +7636,8 @@ digraph {
     type=shareholder
     state=active
     label="ARTE Deutschland TV GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=11
+    num_owners_weighted=10.0726
     num_medias=2
     num_medias_weighted=0.0000
     name="5be1a6b6-c54b-4406-bde3-230c746b3f1f"
@@ -7660,7 +7660,7 @@ digraph {
     type=shareholder
     state=active
     label="ARTE G.E.I.E."
-    num_owners=4
+    num_owners=13
     num_owners_weighted=2.0000
     num_medias=2
     num_medias_weighted=2.0000
@@ -172864,7 +172864,7 @@ digraph {
     type=online
     state=active
     label="www.arte.tv/de"
-    num_owners=5
+    num_owners=14
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
