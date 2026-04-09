@@ -450,11 +450,11 @@ digraph {
     label="123tv Beteiligungs GmbH"
     num_owners=4
     num_owners_weighted=3.4586
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-e4b6-431a-b560-4abe904fa1b0"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   38 [
     type=shareholder
@@ -462,8 +462,8 @@ digraph {
     label="123tv Holding GmbH"
     num_owners=3
     num_owners_weighted=2.4586
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-560f-4705-889b-808fe6a81179"
     in_degree=2
     out_degree=1
@@ -474,8 +474,8 @@ digraph {
     label="123tv Invest GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=2
-    num_medias_weighted=1.4586
+    num_medias=0
+    num_medias_weighted=0.0000
     name="620a146b-4a29-4e7b-b3c7-837b903c01ac"
     in_degree=1
     out_degree=1
@@ -36270,11 +36270,11 @@ digraph {
     label="DVCP I RAIF  SICAV, S.C.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="69cd2875-59ac-4be9-8b77-b19b51168915"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3023 [
     type=shareholder
@@ -69510,8 +69510,8 @@ digraph {
     label="iMedia&123tv Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=1.4586
+    num_medias=0
+    num_medias_weighted=0.0000
     name="620a14c1-ab98-44c4-994b-24a7f1a06171"
     in_degree=1
     out_degree=2
@@ -154842,8 +154842,8 @@ digraph {
     label="True Social Ltd."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=1.4586
+    num_medias=0
+    num_medias_weighted=0.0000
     name="66c5be46-5e8a-4261-9c8b-8fce3e0ef796"
     in_degree=0
     out_degree=1
@@ -211717,10 +211717,6 @@ digraph {
     weight=1
     type=owns
   ];
-  37 -> 22 [
-    weight=100
-    type=owns
-  ];
   38 -> 37 [
     weight=100
     type=owns
@@ -225019,6 +225015,10 @@ digraph {
   ];
   3020 -> 11208 [
     weight=1.37
+    type=owns
+  ];
+  3022 -> 22 [
+    weight=100
     type=owns
   ];
   3023 -> 4709 [
