@@ -26442,7 +26442,7 @@
     "name": "www.radiotop40.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T10:57:23.151Z",
+    "controlDate": "2026-04-09T12:35:00.547Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38846,7 +38846,7 @@
     "name": "www.antenneunna.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T11:07:47.569Z",
+    "controlDate": "2026-04-09T12:41:27.193Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47649,7 +47649,7 @@
     "name": "www.oldie-antenne.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T09:55:02.400Z",
+    "controlDate": "2026-04-09T12:09:43.263Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94288,7 +94288,7 @@
     "name": "www.franken-aktuell.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:26:34.240Z",
+    "controlDate": "2026-04-09T12:43:36.704Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112979,6 +112979,30 @@
     },
     "controlDate": "2026-01-05T12:28:12.635Z",
     "state": "active"
+  },
+  {
+    "state": "active",
+    "squuid": "69d79d85-4196-4747-b5e6-4106922db597",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.dorfkindradio.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-04-09T12:37:33.110Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
   },
   {
     "organization": {
@@ -131812,7 +131836,7 @@
     "name": "www.antenne-sylt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-05T16:52:41.485Z",
+    "controlDate": "2026-04-09T12:24:45.698Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133148,7 +133172,7 @@
     "name": "www.webradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T09:58:11.528Z",
+    "controlDate": "2026-04-09T12:09:49.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139044,7 +139068,7 @@
     "name": "www.antennethueringen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T10:57:14.823Z",
+    "controlDate": "2026-04-09T12:34:50.045Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147104,7 +147128,7 @@
     "name": "www.antenne.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T09:54:49.128Z",
+    "controlDate": "2026-04-09T12:09:36.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147452,7 +147476,7 @@
     "name": "www.absolutradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T10:22:13.334Z",
+    "controlDate": "2026-04-09T12:12:47.966Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153853,7 +153877,7 @@
     "name": "www.antenne.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T10:25:33.202Z",
+    "controlDate": "2026-04-09T12:18:22.549Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160080,7 +160104,7 @@
     "name": "www.antenne1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T10:39:03.630Z",
+    "controlDate": "2026-04-09T12:21:35.416Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
