@@ -5503,7 +5503,7 @@
     "squuid": "5d319090-c6fe-423b-a279-4006f21612ad",
     "name": "Amazon.com Inc.",
     "state": "active",
-    "controlDate": "2025-09-11T12:35:35.784Z",
+    "controlDate": "2026-04-09T09:50:53.904Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -30173,15 +30173,6 @@
           "squuid": "693a9d84-37b7-4e13-9201-3128faaef2ec",
           "name": "www.barbaradio.de"
         }
-      },
-      {
-        "squuid": "69cd3858-3702-45e3-bd49-0f41fdd864a1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f197354-829f-480d-bb42-1aefb9c3ab08",
-          "name": "www.80s80s.de"
-        }
       }
     ]
   },
@@ -37174,7 +37165,7 @@
     "squuid": "5be1a6b6-9e2f-4de5-839b-a9064817ea96",
     "name": "Allgäuer Zeitungsverlag GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T11:25:25.123Z",
+    "controlDate": "2026-04-09T08:30:13.377Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -37348,24 +37339,6 @@
         "held": {
           "squuid": "619ccd04-06f6-49be-9cc0-3df33d0b0529",
           "name": "www.allgaeuweit.de"
-        }
-      },
-      {
-        "squuid": "63c6b8fd-7d3d-4c4c-90b5-3af48dcfd717",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63c6b8c7-c7a9-4a93-975f-4be4ac58e0cc",
-          "name": "www.wochenblatt-extra.de"
-        }
-      },
-      {
-        "squuid": "63c6b91b-0146-451d-b0d7-b880eec5a28b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63c6b8e0-5b5e-4162-8b08-b740970560fb",
-          "name": "www.hallo-allgaeu.de"
         }
       },
       {
@@ -50574,7 +50547,7 @@
     "squuid": "5be1a6b6-0866-45c9-a7f0-6eaee52c93c9",
     "name": "Highlight Communications AG",
     "state": "active",
-    "controlDate": "2025-11-07T09:36:44.283Z",
+    "controlDate": "2026-04-09T09:29:13.187Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -57834,7 +57807,7 @@
     "squuid": "5be1a6b6-be07-4d1d-9a17-f8637ca87627",
     "name": "AMHI LLC",
     "state": "active",
-    "controlDate": "2025-09-12T08:38:17.241Z",
+    "controlDate": "2026-04-09T09:56:53.513Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79677,6 +79650,11 @@
     "controlDate": "2024-05-16T10:48:02.906Z",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
@@ -79691,6 +79669,15 @@
         "held": {
           "squuid": "5be1a6b1-0812-48aa-9c75-bd945cb5f3cc",
           "name": "AllgäuHIT"
+        }
+      },
+      {
+        "squuid": "69d769a0-51c1-4bd8-bbae-8a2648f28e81",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f844cc2-f498-4ada-85f0-4b42b0284bb9",
+          "name": "www.allgaeuhit.de"
         }
       }
     ]
@@ -82707,7 +82694,7 @@
     "name": "Altmeppen Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-83d8-4e1a-9f74-04e98897c91b",
-    "controlDate": "2025-09-11T12:03:16.769Z",
+    "controlDate": "2026-04-09T09:12:01.530Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89334,7 +89321,7 @@
     "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902",
     "name": "Allianz SE",
     "state": "active",
-    "controlDate": "2025-09-11T11:52:07.969Z",
+    "controlDate": "2026-04-09T09:05:12.863Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89366,7 +89353,7 @@
     "squuid": "5be1a6b6-61c7-4c2e-b4b4-409e2f021faa",
     "name": "AMC DMC Holdings B.V.",
     "state": "active",
-    "controlDate": "2025-09-12T08:30:33.070Z",
+    "controlDate": "2026-04-09T09:52:20.649Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89436,7 +89423,7 @@
     "squuid": "5be1a6b6-fab9-42b3-9ccd-42be9f4d2df7",
     "name": "AMC Networks Inc.",
     "state": "active",
-    "controlDate": "2025-09-12T08:31:37.594Z",
+    "controlDate": "2026-04-09T09:52:58.503Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89578,7 +89565,7 @@
     "squuid": "5be1a6b6-b23b-4f6f-ad8a-4c8ff580848d",
     "name": "AMC UK Topco Ltd.",
     "state": "active",
-    "controlDate": "2025-09-12T08:33:42.423Z",
+    "controlDate": "2026-04-09T09:54:00.716Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89602,7 +89589,7 @@
     "squuid": "5be1a6b6-85d6-46c9-bc78-6c15ac24b212",
     "name": "AMC UK Midco Ltd.",
     "state": "active",
-    "controlDate": "2025-09-12T08:33:10.727Z",
+    "controlDate": "2026-04-09T09:53:52.981Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -144188,7 +144175,7 @@
     "squuid": "60828790-7193-4eea-bec9-33460114b234",
     "name": "Amazon Digital Germany GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T12:33:46.727Z",
+    "controlDate": "2026-04-09T09:46:20.462Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -144226,7 +144213,7 @@
     "squuid": "608287c5-57e9-4702-abb3-0a9e2e5500cb",
     "name": "Amazon Europe Core S.à.r.l.",
     "state": "active",
-    "controlDate": "2025-09-11T12:35:10.661Z",
+    "controlDate": "2026-04-09T09:48:46.032Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -144269,7 +144256,7 @@
     "squuid": "608287e0-21ba-40be-b287-8d61b9c019d7",
     "name": "Amazon.com Sales, Inc.",
     "state": "active",
-    "controlDate": "2025-09-11T12:35:24.423Z",
+    "controlDate": "2026-04-09T09:48:59.855Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -151411,24 +151398,14 @@
   {
     "squuid": "6645e4e6-3745-4afe-9d3f-869a9d2ea782",
     "name": "AllgäuHIT e.K.",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-09-11T11:43:03.313Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "6645e4fb-3d57-4032-99d5-338cd1b7684a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f844cc2-f498-4ada-85f0-4b42b0284bb9",
-          "name": "www.allgaeuhit.de"
-        }
       }
     ]
   },
@@ -152359,7 +152336,7 @@
     "squuid": "5d3982e1-80c8-4808-ad38-bf821782ca5a",
     "name": "Amentory Venture GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T08:36:36.090Z",
+    "controlDate": "2026-04-09T09:56:28.734Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152886,7 +152863,7 @@
     "squuid": "5d398374-7fa5-4ad5-9ca2-e2ae16ea0c7d",
     "name": "Amentory Holding GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T08:35:25.613Z",
+    "controlDate": "2026-04-09T09:56:20.556Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168297,6 +168274,11 @@
     "limitedPartnership": true,
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
         "name": "MMV",
         "fullName": "Medienanstalt Mecklenburg-Vorpommern",
@@ -168311,6 +168293,15 @@
         "held": {
           "squuid": "60db1618-082e-4350-a2e4-f8aadb567c3f",
           "name": "80s80s Radio (bundesweit)"
+        }
+      },
+      {
+        "squuid": "69d7634f-95ef-44ad-be1b-8e74761d97c6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f197354-829f-480d-bb42-1aefb9c3ab08",
+          "name": "www.80s80s.de"
         }
       }
     ]
@@ -169758,7 +169749,7 @@
     "squuid": "5d3047f9-4b8a-42f6-9df9-58ac88ceb552",
     "name": "AMC Networks International Zone Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-09-12T08:32:15.675Z",
+    "controlDate": "2026-04-09T09:53:21.180Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170500,7 +170491,7 @@
     "squuid": "5d304b6a-a426-4b17-8455-d1ce7fa77c87",
     "name": "AMC Global Holdings CV",
     "state": "active",
-    "controlDate": "2025-09-12T08:30:49.302Z",
+    "controlDate": "2026-04-09T09:52:34.846Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170543,7 +170534,7 @@
     "squuid": "5d304bb9-68d1-4270-92dd-ea8eba723c91",
     "name": "AMC Networks MovieCo Inc.",
     "state": "active",
-    "controlDate": "2025-09-12T08:32:43.240Z",
+    "controlDate": "2026-04-09T09:53:45.031Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170567,7 +170558,7 @@
     "squuid": "5d304b95-05c0-4167-a5dd-9aa11342d24f",
     "name": "AMC Networks International LLC",
     "state": "active",
-    "controlDate": "2025-09-12T08:31:47.045Z",
+    "controlDate": "2026-04-09T09:53:10.680Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -170814,7 +170805,7 @@
     "squuid": "5d304c9b-141b-42e2-b3aa-976e70393ee6",
     "name": "AMC GP 2 LLC",
     "state": "active",
-    "controlDate": "2025-09-12T08:31:13.843Z",
+    "controlDate": "2026-04-09T09:52:47.263Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -171252,7 +171243,7 @@
     "squuid": "5f8450ca-3550-47c4-a0ac-a05c9e0c159a",
     "name": "Alpin FM Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T11:56:16.174Z",
+    "controlDate": "2026-04-09T09:06:06.853Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178106,7 +178097,7 @@
     "squuid": "621ccd48-d505-4377-b1cd-6fae4dc0f819",
     "name": "Alsterspree Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T11:58:39.236Z",
+    "controlDate": "2026-04-09T09:09:14.609Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183102,7 +183093,7 @@
     "squuid": "5d14c3db-c81f-4a91-a64c-00debe78ac5b",
     "name": "AM Holding AG",
     "state": "active",
-    "controlDate": "2025-09-11T12:23:33.881Z",
+    "controlDate": "2026-04-09T09:27:09.337Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193991,7 +193982,7 @@
     "squuid": "63a04ccc-f8ee-4e19-86b5-892ae44e43f9",
     "name": "AM Portfolio AG",
     "state": "active",
-    "controlDate": "2025-09-11T12:26:11.038Z",
+    "controlDate": "2026-04-09T09:29:34.116Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -197402,6 +197393,11 @@
     "state": "active",
     "controlDate": "2025-12-02T11:11:05.778Z",
     "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
       {
         "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
         "name": "MMV",
@@ -258218,7 +258214,7 @@
     "name": "Alpin FM GmbH & Co. KG ",
     "limitedPartnership": true,
     "squuid": "5d135d04-96c3-4f58-9108-97216d41f6ba",
-    "controlDate": "2025-09-11T11:56:38.776Z",
+    "controlDate": "2026-04-09T09:07:10.739Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273057,7 +273053,7 @@
     "squuid": "5ec52dfc-e630-43bc-b814-8baeec11e062",
     "name": "Altmeppen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-11T12:03:08.024Z",
+    "controlDate": "2026-04-09T09:11:08.161Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283054,7 +283050,7 @@
     "squuid": "5be1a6b6-ce0d-4dc8-ac13-eb76881c81ad",
     "name": "Allianz Global Investors GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T11:44:28.279Z",
+    "controlDate": "2026-04-09T08:57:42.937Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283067,7 +283063,7 @@
     "squuid": "5be1a6b6-7066-40f5-bff4-124d47c75af2",
     "name": "Allianz Asset Management GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T11:44:21.158Z",
+    "controlDate": "2026-04-09T08:57:33.533Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305129,7 +305125,7 @@
     "squuid": "63d001e6-ba1a-4e73-afbe-d3e72765bafd",
     "name": "Altmühlfranken Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-09-11T12:10:42.697Z",
+    "controlDate": "2026-04-09T09:16:46.952Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
