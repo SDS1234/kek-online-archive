@@ -11938,7 +11938,7 @@
     "squuid": "5be1a6b6-8a51-4fc1-bb5a-9816fdd08cac",
     "name": "Amper Welle - Studio München Programmanbietergesellschaft m.b.H.",
     "state": "active",
-    "controlDate": "2025-09-12T08:42:10.095Z",
+    "controlDate": "2026-04-09T09:58:07.755Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -14812,7 +14812,7 @@
     "squuid": "5be1a6b6-4364-45ab-aeb4-111336b965a3",
     "name": "Amperwelle GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T08:45:51.215Z",
+    "controlDate": "2026-04-09T10:02:47.989Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20724,7 +20724,7 @@
     "squuid": "5be1a6b6-a812-4351-a6f9-7dfdb287eeb8",
     "name": "Anbietergemeinschaft der gemeinnützigen, kulturellen und kirchlichen Institutionen GbR",
     "state": "active",
-    "controlDate": "2023-09-27T09:55:22.133Z",
+    "controlDate": "2026-04-09T10:11:00.367Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36320,7 +36320,7 @@
     "name": "ANIXE HD Television GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3afd-4cc9-9c20-969f8da2422c",
-    "controlDate": "2025-09-12T09:46:01.701Z",
+    "controlDate": "2026-04-09T10:18:44.368Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -47297,7 +47297,7 @@
     "squuid": "5be1a6b6-c8a4-4698-af6c-a97bf8c61028",
     "name": "Amper-Kurier GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T08:49:24.602Z",
+    "controlDate": "2026-04-09T10:01:06.609Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49164,7 +49164,7 @@
     "squuid": "5be1a6b6-6b3e-41d9-a3d9-4f9cc1eb60e0",
     "name": "Andmann Media Holding GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:43:08.169Z",
+    "controlDate": "2026-04-09T10:11:44.217Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79955,7 +79955,7 @@
     "squuid": "5be1a6b6-f545-450f-a1f9-bf57f4637692",
     "name": "AMVG Allgemeine-Medien-Verwaltungs-Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-12T08:54:25.037Z",
+    "controlDate": "2026-04-09T10:08:59.662Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -83068,7 +83068,7 @@
     "squuid": "5db6bc74-ecfe-48ef-819f-71b24ef34f57",
     "name": "Anixe HD Television Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:47:29.681Z",
+    "controlDate": "2026-04-09T10:15:40.964Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -118669,7 +118669,7 @@
     "squuid": "680a08ba-e525-49a6-ba61-eae59dc25704",
     "name": "Antenne Bad Kreuznach GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:49:18.195Z",
+    "controlDate": "2026-04-09T10:21:20.033Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150481,7 +150481,7 @@
     "squuid": "66866ac1-82bc-49af-ba7b-8fb1c46ff75a",
     "name": "Amundi Asset Management",
     "state": "active",
-    "controlDate": "2025-09-12T08:52:48.235Z",
+    "controlDate": "2026-04-09T10:08:41.033Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -210008,6 +210008,15 @@
         "held": {
           "squuid": "68766ff7-a8c5-4f19-88f3-3de6adc8314e",
           "name": "CityRadio Saarland"
+        }
+      },
+      {
+        "squuid": "69d77e6a-a7cb-4269-b97a-bca302cb7462",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5f3bb775-8380-4331-8c4a-9bc2be234de9",
+          "name": "www.antenne-kh.de"
         }
       }
     ]
@@ -284346,7 +284355,7 @@
     "squuid": "5be1a6b6-a941-4566-bd43-21876d3e0e48",
     "name": "Andreas Bremke GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:43:33.689Z",
+    "controlDate": "2026-04-09T10:12:14.434Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292793,7 +292802,7 @@
     "squuid": "5be1a6b6-01c8-4324-a4b2-0dd0d4eb89fd",
     "name": "Animagine GmbH",
     "state": "active",
-    "controlDate": "2025-09-12T09:43:57.965Z",
+    "controlDate": "2026-04-09T10:13:35.694Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
