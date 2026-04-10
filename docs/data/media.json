@@ -89313,7 +89313,7 @@
     "rfStatewide": false,
     "name": "Arte Magazin",
     "type": "print",
-    "controlDate": "2025-10-23T13:16:16.353Z",
+    "controlDate": "2026-04-10T12:31:59.797Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94377,7 +94377,7 @@
     "rfStatewide": false,
     "name": "ARCD Clubmagazin Auto & Reise",
     "type": "print",
-    "controlDate": "2025-10-23T13:10:35.030Z",
+    "controlDate": "2026-04-10T11:36:35.740Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96954,7 +96954,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T09:54:24.952Z",
+    "controlDate": "2026-04-10T12:24:03.559Z",
     "state": "active"
   },
   {
@@ -102835,7 +102835,7 @@
     "rfStatewide": false,
     "name": "Die Allgäuerin",
     "type": "print",
-    "controlDate": "2025-09-16T12:36:07.713Z",
+    "controlDate": "2026-04-10T12:08:52.313Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102856,7 +102856,7 @@
     "rfStatewide": false,
     "name": "Das schöne Allgäu",
     "type": "print",
-    "controlDate": "2025-09-16T12:33:38.864Z",
+    "controlDate": "2026-04-10T12:08:43.835Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -108609,7 +108609,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T12:28:12.627Z",
+    "controlDate": "2026-04-10T11:53:10.829Z",
     "state": "active"
   },
   {
@@ -112077,7 +112077,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:59:12.308Z",
+    "controlDate": "2026-04-10T12:16:36.199Z",
     "state": "active"
   },
   {
@@ -127890,7 +127890,7 @@
     "name": "www.auswaertiges-amt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T12:04:32.202Z",
+    "controlDate": "2026-04-10T11:33:21.286Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128321,7 +128321,7 @@
     "name": "www.auto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-17T11:56:24.257Z",
+    "controlDate": "2026-04-10T11:47:45.255Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129154,7 +129154,7 @@
     "name": "www.arte-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T10:08:54.689Z",
+    "controlDate": "2026-04-10T12:32:08.537Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131588,7 +131588,7 @@
     "name": "www.pharmazeutische-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-02T08:59:46.944Z",
+    "controlDate": "2026-04-10T12:16:49.468Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131981,10 +131981,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.de.motor1.com",
+    "name": "https://de.motor1.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T12:13:16.374Z",
+    "controlDate": "2026-04-10T11:38:56.413Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140526,7 +140526,7 @@
     "name": "www.insideevs.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T12:13:56.508Z",
+    "controlDate": "2026-04-10T11:46:19.965Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142459,7 +142459,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.de.motorsport.com",
+    "name": "https://de.motorsport.com",
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2025-09-16T12:13:40.785Z",
