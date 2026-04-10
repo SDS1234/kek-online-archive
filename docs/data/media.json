@@ -34775,7 +34775,7 @@
     "name": "AZ am Sonntag (Alfeld)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-17T10:54:00.956Z",
+    "controlDate": "2026-04-10T12:50:50.174Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79570,7 +79570,7 @@
     "rfStatewide": false,
     "name": "AZ Alfelder Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T14:00:55.160Z",
+    "controlDate": "2026-04-10T12:50:40.354Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79593,7 +79593,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T10:54:19.706Z",
+    "controlDate": "2026-04-10T12:51:03.812Z",
     "state": "active"
   },
   {
