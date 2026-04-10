@@ -11017,7 +11017,7 @@
     "rfStatewide": false,
     "name": "Satellit",
     "type": "print",
-    "controlDate": "2025-09-16T11:47:22.560Z",
+    "controlDate": "2026-04-10T11:17:19.573Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11083,7 +11083,7 @@
     "rfStatewide": false,
     "name": "Audio Test",
     "type": "print",
-    "controlDate": "2025-09-16T11:45:01.901Z",
+    "controlDate": "2026-04-10T11:02:27.903Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11104,7 +11104,7 @@
     "rfStatewide": false,
     "name": "HDTV",
     "type": "print",
-    "controlDate": "2025-09-16T11:46:46.753Z",
+    "controlDate": "2026-04-10T11:16:41.656Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11125,7 +11125,7 @@
     "rfStatewide": false,
     "name": "Blu-ray Magazin",
     "type": "print",
-    "controlDate": "2025-09-16T11:45:44.971Z",
+    "controlDate": "2026-04-10T11:02:44.245Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11146,7 +11146,7 @@
     "rfStatewide": false,
     "name": "Haus & Garten Test",
     "type": "print",
-    "controlDate": "2025-09-16T11:46:55.410Z",
+    "controlDate": "2026-04-10T11:16:55.638Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11170,7 +11170,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T11:51:21.818Z",
+    "controlDate": "2026-04-10T11:18:39.806Z",
     "state": "active"
   },
   {
@@ -11209,7 +11209,7 @@
     "rfStatewide": false,
     "name": "Auszeit",
     "type": "print",
-    "controlDate": "2025-09-16T11:45:13.459Z",
+    "controlDate": "2026-04-10T11:02:35.816Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11257,7 +11257,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T11:50:38.305Z",
+    "controlDate": "2026-04-10T11:17:55.309Z",
     "state": "active"
   },
   {
@@ -14274,7 +14274,7 @@
     "name": "www.waidwerk.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:04:27.672Z",
+    "controlDate": "2026-04-10T10:36:46.909Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -21936,7 +21936,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T11:51:35.440Z",
+    "controlDate": "2026-04-10T11:18:59.773Z",
     "state": "active"
   },
   {
@@ -28072,7 +28072,7 @@
     "name": "WN Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-16T10:34:42.733Z",
+    "controlDate": "2026-04-10T10:14:57.985Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38191,7 +38191,7 @@
     "name": "www.audible.de/magazin",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:07:36.810Z",
+    "controlDate": "2026-04-10T10:41:23.473Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41521,7 +41521,7 @@
     "name": "www.ag-muensterland.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T10:39:00.444Z",
+    "controlDate": "2026-04-10T10:17:10.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97290,7 +97290,7 @@
     "rfStatewide": false,
     "name": "Westfälische Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-23T13:05:19.545Z",
+    "controlDate": "2026-04-10T10:15:14.862Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97313,7 +97313,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T10:39:22.331Z",
+    "controlDate": "2026-04-10T10:17:50.680Z",
     "state": "active"
   },
   {
@@ -100478,7 +100478,7 @@
     "rfStatewide": false,
     "name": "Augsburg Journal",
     "type": "print",
-    "controlDate": "2025-09-16T11:59:04.100Z",
+    "controlDate": "2026-04-10T11:25:57.659Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100924,7 +100924,7 @@
     "rfStatewide": false,
     "name": "Tageblatt für den Kreis Steinfurt",
     "type": "print",
-    "controlDate": "2025-10-23T13:07:18.750Z",
+    "controlDate": "2026-04-10T10:14:15.344Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -102093,7 +102093,7 @@
     "rfStatewide": false,
     "name": "Digital fernsehen",
     "type": "print",
-    "controlDate": "2025-09-16T11:45:55.340Z",
+    "controlDate": "2026-04-10T11:16:09.888Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102117,7 +102117,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T11:51:10.457Z",
+    "controlDate": "2026-04-10T11:18:03.195Z",
     "state": "active"
   },
   {
@@ -115584,7 +115584,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-16T11:59:11.090Z",
+    "controlDate": "2026-04-10T11:28:37.698Z",
     "state": "active"
   },
   {
@@ -125361,7 +125361,7 @@
     "name": "www.rpr1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:40:15.060Z",
+    "controlDate": "2026-04-10T10:57:47.346Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -125441,7 +125441,7 @@
     "name": "www.dailymail.co.uk",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:01:05.638Z",
+    "controlDate": "2026-04-10T10:33:37.270Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132928,7 +132928,7 @@
     "name": "www.regenbogen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:38:53.138Z",
+    "controlDate": "2026-04-10T10:55:23.170Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137397,7 +137397,7 @@
     "name": "Zeitungsgruppe Münsterland (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-01-10T16:24:34.910Z",
+    "controlDate": "2026-04-10T10:15:30.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139679,7 +139679,7 @@
     "name": "www.radiodeinfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:29:55.027Z",
+    "controlDate": "2026-04-10T10:49:56.293Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139795,7 +139795,7 @@
     "name": "www.rockfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:40:06.238Z",
+    "controlDate": "2026-04-10T10:57:38.664Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152207,7 +152207,7 @@
     "name": "www.bigfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:38:10.981Z",
+    "controlDate": "2026-04-10T10:54:24.207Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154525,7 +154525,7 @@
     "name": "www.smartissimo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:51:44.764Z",
+    "controlDate": "2026-04-10T11:19:07.076Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160747,7 +160747,7 @@
     "name": "www.smartradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-16T11:56:39.758Z",
+    "controlDate": "2026-04-10T11:22:03.385Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

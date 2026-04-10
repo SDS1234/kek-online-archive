@@ -1743,7 +1743,7 @@
     "squuid": "6059f9d1-7500-4287-be63-5ed896c0498b",
     "name": "Audiotainment Südwest Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:35:03.070Z",
+    "controlDate": "2026-04-10T10:52:22.498Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -6870,7 +6870,7 @@
     "squuid": "5be1a6b6-070c-463f-8fe5-522dfb9d88e0",
     "name": "ASTRATEL Radio- und Television-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:03:30.913Z",
+    "controlDate": "2026-04-10T10:34:09.671Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -20302,7 +20302,7 @@
     "squuid": "5be1a6b6-8a12-470e-91e8-43ecd82e0e64",
     "name": "Auge & Ohr GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:55:53.271Z",
+    "controlDate": "2026-04-10T11:21:54.268Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26179,7 +26179,7 @@
     "squuid": "67fe33ab-ce9a-4c78-90bf-bfb4a9b7acc5",
     "name": "Aspiring Ventures GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T10:58:30.706Z",
+    "controlDate": "2026-04-10T10:20:08.695Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -33893,6 +33893,15 @@
         "held": {
           "squuid": "5f1049dd-89ae-4e21-b478-df032c6b3283",
           "name": "www.radioguetersloh.de"
+        }
+      },
+      {
+        "squuid": "69d8d60d-e7e7-4d0b-be71-86553f4397cb",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "66fd2b96-2fd5-48a3-8f9c-201442166e88",
+          "name": "www.radiodeinfm.de"
         }
       }
     ]
@@ -84413,7 +84422,7 @@
     "squuid": "5be1a6b6-b2ce-4109-847f-cdd7cf6f54e6",
     "name": "Audi AG",
     "state": "active",
-    "controlDate": "2025-09-16T11:06:59.970Z",
+    "controlDate": "2026-04-10T10:40:54.550Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -120013,7 +120022,7 @@
     "squuid": "5f102d28-72b3-4f6a-897f-cfc3b3b3dcd2",
     "name": "Audible GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:07:14.554Z",
+    "controlDate": "2026-04-10T10:41:18.932Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -120544,7 +120553,7 @@
     "squuid": "5f102e09-c60f-4612-8fb2-9d9529eadcf7",
     "name": "Audible, Inc.",
     "state": "active",
-    "controlDate": "2025-09-16T11:08:04.517Z",
+    "controlDate": "2026-04-10T10:41:33.799Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144737,7 +144746,7 @@
     "name": "Audiotainment Südwest GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "6023df17-5ffb-4374-a0dd-4013ac8b5f6f",
-    "controlDate": "2025-09-16T11:35:09.989Z",
+    "controlDate": "2026-04-10T10:53:12.355Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156120,7 +156129,7 @@
     "name": "AUDIO MEDIA SERVICE Produktionsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5eeb7b89-1d1d-486f-b21f-09fd3bc32248",
-    "controlDate": "2025-09-16T11:29:18.849Z",
+    "controlDate": "2026-04-10T10:44:18.407Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156426,7 +156435,7 @@
     "squuid": "5eeb7c83-cef7-4cd9-996c-153004ae1c9b",
     "name": "AUDIO MEDIA SERVICE Produktions- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:28:52.242Z",
+    "controlDate": "2026-04-10T10:42:49.587Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159240,6 +159249,7 @@
     "squuid": "69cd2875-59ac-4be9-8b77-b19b51168915",
     "name": "DVCP I RAIF  SICAV, S.C.A.",
     "state": "active",
+    "controlDate": "2026-04-10T10:05:07.777Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -167877,7 +167887,7 @@
     "squuid": "637f221a-2732-49ef-87e1-eb7b0f7dd6d5",
     "name": "AT Media Holding GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:04:16.308Z",
+    "controlDate": "2026-04-10T10:36:08.663Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -173000,7 +173010,7 @@
     "squuid": "6358fcfd-79dd-49f9-8289-6348d3a4688b",
     "name": "ASS Vermögensverwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T10:59:38.595Z",
+    "controlDate": "2026-04-10T10:20:48.569Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181274,7 +181284,7 @@
     "squuid": "5d36d1f9-5421-4e1d-b56c-96d486696941",
     "name": "Associated Newspapers Ltd.",
     "state": "active",
-    "controlDate": "2025-09-16T11:00:55.566Z",
+    "controlDate": "2026-04-10T10:33:31.142Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -187539,7 +187549,7 @@
     "squuid": "5d371dd7-ecdb-4ac8-9679-006dd355f4bc",
     "name": "Augsburger Panther Eishockey GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T12:00:14.966Z",
+    "controlDate": "2026-04-10T11:30:15.356Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200648,7 +200658,7 @@
     "squuid": "66fd1fb9-e796-464f-91b1-4df6c228149c",
     "name": "Asklepios Kliniken Management GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T10:48:58.243Z",
+    "controlDate": "2026-04-10T10:19:33.573Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -204446,7 +204456,7 @@
     "squuid": "66435462-0e70-48ca-a63e-6719bc546d46",
     "name": "Asklepios Kliniken GmbH & Co. KGaA",
     "state": "active",
-    "controlDate": "2025-09-16T10:46:24.905Z",
+    "controlDate": "2026-04-10T10:19:42.934Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -209671,8 +209681,9 @@
   },
   {
     "squuid": "5be1a6b6-e632-4da5-aced-c6abb8df71cc",
-    "name": "Athletik Sportvereinigung",
+    "name": "Athletik Sportvereinigung 1888 Mainz e.V.",
     "state": "active",
+    "controlDate": "2026-04-10T10:38:13.307Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227020,7 +227031,7 @@
     "squuid": "5be1a6b6-3316-4a22-8cb9-f635f55dea40",
     "name": "August Sturn Buchdruckerei, Verlag der Acher-Rench-Zeitung, Oberkirch/Baden KG",
     "state": "active",
-    "controlDate": "2025-09-16T12:03:30.521Z",
+    "controlDate": "2026-04-10T11:31:03.612Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -239024,7 +239035,7 @@
     "squuid": "5be1a6b6-1943-4c94-a963-1814c9f29eda",
     "name": "Augsburg Journal Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:57:39.781Z",
+    "controlDate": "2026-04-10T11:23:04.465Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240759,7 +240770,7 @@
     "squuid": "5be1a6b6-85d2-4d4c-bf02-4fb29c55095b",
     "name": "Auerbach Verlag und Infodienste GmbH",
     "state": "active",
-    "controlDate": "2025-09-16T11:43:35.135Z",
+    "controlDate": "2026-04-10T10:59:25.192Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273247,7 +273258,7 @@
     "squuid": "5f155ba1-36d5-4adc-b0ef-cc7a1ad2acfb",
     "name": "Assicurazioni Generali S.p.A.",
     "state": "active",
-    "controlDate": "2025-09-16T11:00:32.369Z",
+    "controlDate": "2026-04-10T10:20:29.091Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -303184,7 +303195,7 @@
     "squuid": "64789884-d9bc-4a60-a1d6-e1037e1c9627",
     "name": "ATLAS Infrastructure Partners Ltd.",
     "state": "active",
-    "controlDate": "2025-09-16T11:05:14.046Z",
+    "controlDate": "2026-04-10T10:40:39.030Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
