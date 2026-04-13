@@ -725,7 +725,7 @@
     "name": "www.badische-bauern-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-24T10:46:55.944Z",
+    "controlDate": "2026-04-13T09:23:46.978Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -1488,7 +1488,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-18T09:23:58.180Z",
+    "controlDate": "2026-04-13T08:34:38.277Z",
     "state": "active"
   },
   {
@@ -2880,7 +2880,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-18T10:13:51.728Z",
+    "controlDate": "2026-04-13T09:13:04.438Z",
     "state": "active"
   },
   {
@@ -3185,7 +3185,7 @@
     "rfStatewide": false,
     "name": "Brettener Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-24T09:50:24.792Z",
+    "controlDate": "2026-04-13T09:12:01.805Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3205,7 +3205,7 @@
     "rfStatewide": false,
     "name": "Bruchsaler Rundschau",
     "type": "print",
-    "controlDate": "2025-10-24T09:51:31.064Z",
+    "controlDate": "2026-04-13T09:12:24.469Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3225,7 +3225,7 @@
     "rfStatewide": false,
     "name": "Pforzheimer Kurier",
     "type": "print",
-    "controlDate": "2025-10-24T09:55:14.365Z",
+    "controlDate": "2026-04-13T09:12:43.338Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3272,7 +3272,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-18T10:14:04.807Z",
+    "controlDate": "2026-04-13T09:13:17.184Z",
     "state": "active"
   },
   {
@@ -14853,7 +14853,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-18T10:01:38.465Z",
+    "controlDate": "2026-04-13T08:46:27.504Z",
     "state": "active"
   },
   {
@@ -32061,7 +32061,7 @@
     "name": "www.hallo-erding.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T11:04:04.557Z",
+    "controlDate": "2026-04-13T08:04:52.529Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32423,7 +32423,7 @@
     "name": "www.hallo-ebersberg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T11:04:28.127Z",
+    "controlDate": "2026-04-13T08:04:38.779Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32491,7 +32491,7 @@
     "name": "www.hallo-falke.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T11:05:11.348Z",
+    "controlDate": "2026-04-13T08:05:02.235Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32587,7 +32587,7 @@
     "name": "www.intelligenzblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T11:05:25.271Z",
+    "controlDate": "2026-04-13T08:05:12.150Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41193,7 +41193,7 @@
     "name": "www.bheins.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:37:42.988Z",
+    "controlDate": "2026-04-13T08:39:38.988Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44165,7 +44165,7 @@
     "name": "ST am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-18T09:21:46.333Z",
+    "controlDate": "2026-04-13T08:31:35.809Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79649,7 +79649,7 @@
     "rfStatewide": false,
     "name": "Konradsblatt",
     "type": "print",
-    "controlDate": "2025-10-23T14:10:48.786Z",
+    "controlDate": "2026-04-13T08:46:21.545Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -79670,7 +79670,7 @@
     "rfStatewide": false,
     "name": "Badische Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-24T09:52:26.699Z",
+    "controlDate": "2026-04-13T09:11:51.894Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79690,7 +79690,7 @@
     "rfStatewide": false,
     "name": "Acher- und Bühler Bote",
     "type": "print",
-    "controlDate": "2025-10-24T09:46:05.324Z",
+    "controlDate": "2026-04-13T09:11:40.087Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79710,7 +79710,7 @@
     "rfStatewide": false,
     "name": "Badisches Tagblatt",
     "type": "print",
-    "controlDate": "2025-10-24T09:54:27.016Z",
+    "controlDate": "2026-04-13T09:12:09.294Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80187,7 +80187,7 @@
     "rfStatewide": false,
     "name": "Solinger Tageblatt",
     "type": "print",
-    "controlDate": "2025-09-18T09:22:57.559Z",
+    "controlDate": "2026-04-13T08:32:17.914Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86994,7 +86994,7 @@
     "name": "www.baz-medien.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T10:03:17.671Z",
+    "controlDate": "2026-04-13T08:48:37.869Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99624,7 +99624,7 @@
     "name": "www.mmm-owl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T11:16:18.149Z",
+    "controlDate": "2026-04-13T08:19:42.465Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -120992,7 +120992,7 @@
     "name": "Badische Bauern Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-24T10:06:21.248Z",
+    "controlDate": "2026-04-13T09:23:40.226Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132080,7 +132080,7 @@
     "name": "www.babycenter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:42:04.500Z",
+    "controlDate": "2026-04-13T08:41:57.680Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132230,7 +132230,7 @@
     "name": "www.business-wissen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T08:34:48.134Z",
+    "controlDate": "2026-04-13T08:23:06.918Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137735,7 +137735,7 @@
     "name": "www.babytv.com/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:39:51.849Z",
+    "controlDate": "2026-04-13T08:41:35.259Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141933,7 +141933,7 @@
     "name": "www.badische-woche.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T10:13:36.373Z",
+    "controlDate": "2026-04-13T09:12:52.636Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142583,7 +142583,7 @@
     "name": "Engelbert",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-11T11:31:25.693Z",
+    "controlDate": "2026-04-13T08:26:07.526Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142626,7 +142626,7 @@
     "name": "www.engelbert-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:23:31.756Z",
+    "controlDate": "2026-04-13T08:34:09.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142674,7 +142674,7 @@
     "name": "www.puls-gesundheitsmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T11:33:31.225Z",
+    "controlDate": "2026-04-13T08:34:25.027Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152119,7 +152119,7 @@
     "name": "www.das-solinger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:23:12.287Z",
+    "controlDate": "2026-04-13T08:33:57.335Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156897,7 +156897,7 @@
     "name": "www.baden-tv.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:57:18.974Z",
+    "controlDate": "2026-04-13T08:45:10.234Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157964,7 +157964,7 @@
     "name": "www.baden-tv-sued.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T09:57:47.626Z",
+    "controlDate": "2026-04-13T08:45:32.120Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

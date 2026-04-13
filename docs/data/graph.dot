@@ -10456,8 +10456,8 @@ digraph {
     type=print
     state=active
     label="Badische Zeitung"
-    num_owners=54
-    num_owners_weighted=45.1669
+    num_owners=52
+    num_owners_weighted=44.0647
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8a2c-4ae2-ba34-db9e7513f78a"
@@ -10492,12 +10492,12 @@ digraph {
     type=shareholder
     state=active
     label="Badischer Verlag GmbH & Co KG"
-    num_owners=11
-    num_owners_weighted=8.4786
+    num_owners=9
+    num_owners_weighted=7.3765
     num_medias=7
     num_medias_weighted=5.0198
     name="5be1a6b6-5fcf-417d-a43e-0cb555c0d424"
-    in_degree=6
+    in_degree=4
     out_degree=7
   ];
   875 [
@@ -34588,8 +34588,8 @@ digraph {
     type=shareholder
     state=active
     label="dpa Deutsche Presse Agentur GmbH"
-    num_owners=833
-    num_owners_weighted=63.1941
+    num_owners=831
+    num_owners_weighted=63.1832
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
@@ -50274,11 +50274,11 @@ digraph {
     label="Fricker, Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=7
-    num_medias_weighted=0.4192
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e411b14-314e-426c-97ec-b0f0c5106a9e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4190 [
     type=print
@@ -102844,8 +102844,8 @@ digraph {
     type=shareholder
     state=active
     label="news aktuell GmbH"
-    num_owners=834
-    num_owners_weighted=64.1941
+    num_owners=832
+    num_owners_weighted=64.1832
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-30b2-40ee-b6d6-ee42532cd80b"
@@ -106732,8 +106732,8 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service Beteiligungsgesellschaft mbH"
-    num_owners=777
-    num_owners_weighted=37.6881
+    num_owners=775
+    num_owners_weighted=37.6460
     num_medias=0
     num_medias_weighted=0.0000
     name="6082ac89-3710-415d-a512-b67fcefe233c"
@@ -106744,7 +106744,7 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service GmbH & Co. KG"
-    num_owners=777
+    num_owners=775
     num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -173500,8 +173500,8 @@ digraph {
     type=online
     state=active
     label="www.badische-zeitung.de"
-    num_owners=12
-    num_owners_weighted=9.4786
+    num_owners=10
+    num_owners_weighted=8.3765
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-332e-4336-97e9-14e601d617e9"
@@ -177664,8 +177664,8 @@ digraph {
     type=online
     state=active
     label="www.der-sonntag.de"
-    num_owners=12
-    num_owners_weighted=9.4786
+    num_owners=10
+    num_owners_weighted=8.3765
     num_medias=0
     num_medias_weighted=0.0000
     name="63c7d3d4-9e11-4e4e-b903-eebfea8ce53c"
@@ -181996,8 +181996,8 @@ digraph {
     type=online
     state=active
     label="www.fudder.de"
-    num_owners=12
-    num_owners_weighted=9.4786
+    num_owners=10
+    num_owners_weighted=8.3765
     num_medias=0
     num_medias_weighted=0.0000
     name="5ccc30f2-b176-4279-962a-b1bbfcb8997a"
@@ -182428,8 +182428,8 @@ digraph {
     type=online
     state=active
     label="www.fupa.net/region/suedbaden"
-    num_owners=12
-    num_owners_weighted=9.4786
+    num_owners=10
+    num_owners_weighted=8.3765
     num_medias=0
     num_medias_weighted=0.0000
     name="611cf1e0-8898-44f3-a049-d4c4e233160b"
@@ -193012,8 +193012,8 @@ digraph {
     type=online
     state=active
     label="www.newsaktuell.de"
-    num_owners=835
-    num_owners_weighted=65.1941
+    num_owners=833
+    num_owners_weighted=65.1832
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-fbae-45c7-8b1a-fa1c47537195"
@@ -195424,8 +195424,8 @@ digraph {
     type=online
     state=active
     label="www.presseportal.de"
-    num_owners=835
-    num_owners_weighted=65.1941
+    num_owners=833
+    num_owners_weighted=65.1832
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1c70-45b8-801f-12ab479876af"
@@ -209778,11 +209778,11 @@ digraph {
     label="Zahler, Stefan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=7
-    num_medias_weighted=0.4192
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e411b2a-fca9-4ee3-97e2-72db32d2f644"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   17482 [
     type=shareholder
@@ -229011,10 +229011,6 @@ digraph {
   ];
   4188 -> 7737 [
     weight=10
-    type=owns
-  ];
-  4189 -> 874 [
-    weight=8.35
     type=owns
   ];
   4191 -> 649 [
@@ -276551,10 +276547,6 @@ digraph {
   ];
   17478 -> 8826 [
     weight=25
-    type=owns
-  ];
-  17481 -> 874 [
-    weight=8.35
     type=owns
   ];
   17482 -> 10634 [
