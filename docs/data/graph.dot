@@ -4624,7 +4624,7 @@ digraph {
     type=radio
     state=active
     label="Alpin FM"
-    num_owners=120
+    num_owners=119
     num_owners_weighted=11.5453
     num_medias=0
     num_medias_weighted=0.0000
@@ -4648,7 +4648,7 @@ digraph {
     type=shareholder
     state=active
     label="Alpin FM GmbH & Co. KG"
-    num_owners=120
+    num_owners=119
     num_owners_weighted=10.5453
     num_medias=2
     num_medias_weighted=2.0000
@@ -4660,7 +4660,7 @@ digraph {
     type=shareholder
     state=active
     label="Alpin FM Verwaltungs GmbH"
-    num_owners=120
+    num_owners=119
     num_owners_weighted=11.5453
     num_medias=2
     num_medias_weighted=0.0000
@@ -12220,8 +12220,8 @@ digraph {
     type=shareholder
     state=active
     label="bavero Verwaltungs GmbH"
-    num_owners=9
-    num_owners_weighted=6.3560
+    num_owners=40
+    num_owners_weighted=9.1175
     num_medias=7
     num_medias_weighted=0.7755
     name="6837212e-359a-4dde-891a-2a0d715b85b0"
@@ -12280,8 +12280,8 @@ digraph {
     type=shareholder
     state=active
     label="Bayer 04 Leverkusen Fußball GmbH"
-    num_owners=10
-    num_owners_weighted=2.4800
+    num_owners=11
+    num_owners_weighted=2.5400
     num_medias=2
     num_medias_weighted=2.0000
     name="5ce2b6cd-0048-42ec-84c8-9007d892cba0"
@@ -12292,8 +12292,8 @@ digraph {
     type=shareholder
     state=active
     label="Bayer AG"
-    num_owners=8
-    num_owners_weighted=8.0000
+    num_owners=9
+    num_owners_weighted=9.0000
     num_medias=2
     num_medias_weighted=0.1200
     name="5ce2b67a-b645-48a8-80c9-697b6d21514e"
@@ -12556,7 +12556,7 @@ digraph {
     type=radio
     state=active
     label="Bayernwelle Südost"
-    num_owners=102
+    num_owners=101
     num_owners_weighted=13.8085
     num_medias=0
     num_medias_weighted=0.0000
@@ -42436,8 +42436,8 @@ digraph {
     type=shareholder
     state=active
     label="Erste K-W-A Beteiligungsgesellschaft mbH"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=10
+    num_owners_weighted=10.0000
     num_medias=2
     num_medias_weighted=1.8800
     name="5ce2b6b5-0fb4-4699-8ec1-00291f26ec41"
@@ -68512,8 +68512,8 @@ digraph {
     type=shareholder
     state=active
     label="Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH"
-    num_owners=84
-    num_owners_weighted=15.5648
+    num_owners=75
+    num_owners_weighted=15.2170
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-5861-44b2-a9ef-7fd1555d039d"
@@ -70060,8 +70060,8 @@ digraph {
     type=radio
     state=active
     label="Inn-Salzach-Welle"
-    num_owners=85
-    num_owners_weighted=16.5648
+    num_owners=76
+    num_owners_weighted=16.2170
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d844-4c7f-a1f5-27033bca3d8c"
@@ -86656,8 +86656,8 @@ digraph {
     type=shareholder
     state=active
     label="Lokalradio Berchtesgadener Land Verwaltungs GmbH"
-    num_owners=70
-    num_owners_weighted=14.2597
+    num_owners=61
+    num_owners_weighted=13.8859
     num_medias=4
     num_medias_weighted=1.2500
     name="5be1a6b6-86b9-494c-a16c-f4bd3bb9b638"
@@ -115888,7 +115888,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Berchtesgadener Land & Chiemgau GmbH"
-    num_owners=101
+    num_owners=100
     num_owners_weighted=12.8085
     num_medias=4
     num_medias_weighted=2.5000
@@ -116344,7 +116344,7 @@ digraph {
     type=shareholder
     state=active
     label="RADIO CHIEMGAU Programmanbieter GmbH & Co. KG"
-    num_owners=79
+    num_owners=78
     num_owners_weighted=11.3229
     num_medias=4
     num_medias_weighted=1.2500
@@ -116356,8 +116356,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Chiemgau Programmanbieter Verwaltungs GmbH"
-    num_owners=78
-    num_owners_weighted=12.9877
+    num_owners=77
+    num_owners_weighted=12.0109
     num_medias=4
     num_medias_weighted=0.0000
     name="5f8ed447-e8f9-4b81-870f-2be0bf40f5d0"
@@ -117832,8 +117832,8 @@ digraph {
     type=radio
     state=active
     label="Radio ISW (Inn-Salzach-Welle)"
-    num_owners=85
-    num_owners_weighted=16.5648
+    num_owners=76
+    num_owners_weighted=16.2170
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3646-40a1-9b34-27422913faaa"
@@ -120424,8 +120424,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio-Inn-Salzach-Welle-Programmanbietergesellschaft mbH"
-    num_owners=42
-    num_owners_weighted=23.3887
+    num_owners=73
+    num_owners_weighted=23.7201
     num_medias=3
     num_medias_weighted=1.3680
     name="5be1a6b6-aeca-4413-b5b9-890c4687a717"
@@ -166180,8 +166180,8 @@ digraph {
     type=tv
     state=active
     label="Werkself-TV"
-    num_owners=11
-    num_owners_weighted=3.4800
+    num_owners=12
+    num_owners_weighted=3.5400
     num_medias=0
     num_medias_weighted=0.0000
     name="5ce2b6f6-e51c-4e4a-806e-abb889e887a0"
@@ -171988,7 +171988,7 @@ digraph {
     type=online
     state=active
     label="www.alpin.fm"
-    num_owners=120
+    num_owners=119
     num_owners_weighted=11.5453
     num_medias=0
     num_medias_weighted=0.0000
@@ -173704,8 +173704,8 @@ digraph {
     type=online
     state=active
     label="www.bayer04.de"
-    num_owners=11
-    num_owners_weighted=3.4800
+    num_owners=12
+    num_owners_weighted=3.5400
     num_medias=0
     num_medias_weighted=0.0000
     name="5f115af7-60e7-4eee-bea5-9262af65ef1c"
@@ -173776,7 +173776,7 @@ digraph {
     type=online
     state=active
     label="www.bayernwelle.de"
-    num_owners=102
+    num_owners=101
     num_owners_weighted=13.8085
     num_medias=0
     num_medias_weighted=0.0000
@@ -186496,8 +186496,8 @@ digraph {
     type=online
     state=active
     label="www.isw.fm"
-    num_owners=85
-    num_owners_weighted=16.5648
+    num_owners=76
+    num_owners_weighted=16.2170
     num_medias=0
     num_medias_weighted=0.0000
     name="5f915613-6e70-4549-ba87-3615c95ddd73"
