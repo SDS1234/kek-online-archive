@@ -3478,7 +3478,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-18T12:46:19.700Z",
+    "controlDate": "2026-04-13T09:40:55.177Z",
     "state": "active"
   },
   {
@@ -79751,7 +79751,7 @@
     "rfStatewide": false,
     "name": "Closer",
     "type": "print",
-    "controlDate": "2025-09-22T09:21:54.553Z",
+    "controlDate": "2026-04-13T10:55:34.742Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -79772,7 +79772,7 @@
     "rfStatewide": false,
     "name": "inTouch",
     "type": "print",
-    "controlDate": "2025-09-22T09:22:03.808Z",
+    "controlDate": "2026-04-13T10:55:43.016Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94248,7 +94248,7 @@
     "rfStatewide": false,
     "name": "Badische Zeitung",
     "type": "print",
-    "controlDate": "2025-10-24T09:58:37.656Z",
+    "controlDate": "2026-04-13T09:40:43.303Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -99211,7 +99211,7 @@
     "rfStatewide": false,
     "name": "mach mal Pause",
     "type": "print",
-    "controlDate": "2025-09-19T09:36:05.604Z",
+    "controlDate": "2026-04-13T10:45:45.501Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99298,7 +99298,7 @@
     "rfStatewide": false,
     "name": "Mini",
     "type": "print",
-    "controlDate": "2025-09-19T09:33:26.958Z",
+    "controlDate": "2026-04-13T10:44:23.127Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99319,7 +99319,7 @@
     "rfStatewide": false,
     "name": "Meine Melodie",
     "type": "print",
-    "controlDate": "2025-09-19T09:33:15.949Z",
+    "controlDate": "2026-04-13T10:43:49.076Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99430,7 +99430,7 @@
     "rfStatewide": false,
     "name": "Schöne Woche",
     "type": "print",
-    "controlDate": "2025-09-19T09:33:56.187Z",
+    "controlDate": "2026-04-13T10:45:08.219Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99496,7 +99496,7 @@
     "rfStatewide": false,
     "name": "Woche Heute",
     "type": "print",
-    "controlDate": "2025-09-19T09:34:16.555Z",
+    "controlDate": "2026-04-13T10:45:37.371Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -111649,7 +111649,7 @@
     "rfStatewide": false,
     "name": "Auto Zeitung",
     "type": "print",
-    "controlDate": "2025-09-19T09:24:13.838Z",
+    "controlDate": "2026-04-13T10:39:14.021Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -111670,7 +111670,7 @@
     "rfStatewide": false,
     "name": "Auto Zeitung classic cars",
     "type": "print",
-    "controlDate": "2025-09-19T09:24:25.505Z",
+    "controlDate": "2026-04-13T10:39:22.588Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -111754,7 +111754,7 @@
     "rfStatewide": false,
     "name": "Selbst ist der Mann",
     "type": "print",
-    "controlDate": "2025-09-22T09:20:15.499Z",
+    "controlDate": "2026-04-13T10:50:49.961Z",
     "pressKind": "Do-It-Yourself",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -137826,7 +137826,7 @@
     "name": "www.bafo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T11:53:41.815Z",
+    "controlDate": "2026-04-13T09:44:59.505Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139371,7 +139371,7 @@
     "name": "www.myspass.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T13:11:18.831Z",
+    "controlDate": "2026-04-13T10:24:58.460Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143079,7 +143079,7 @@
     "name": "www.fupa.net/region/suedbaden",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T12:51:32.033Z",
+    "controlDate": "2026-04-13T09:41:19.731Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150985,7 +150985,7 @@
     "name": "www.basses-blatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T13:22:47.062Z",
+    "controlDate": "2026-04-13T10:34:54.389Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153173,7 +153173,7 @@
     "name": "www.fudder.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T12:51:24.254Z",
+    "controlDate": "2026-04-13T09:41:13.844Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153941,7 +153941,7 @@
     "name": "www.der-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-18T12:51:15.208Z",
+    "controlDate": "2026-04-13T09:41:04.822Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
