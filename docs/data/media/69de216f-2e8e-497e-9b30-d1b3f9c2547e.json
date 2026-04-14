@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "5f96c103-7095-4882-b74d-0b3e79eec2c8",
+  "squuid": "69de216f-2e8e-497e-9b30-d1b3f9c2547e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,26 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "BCS Broadcast Sachsen GmbH & Co. KG",
-        "squuid": "5be1a6b6-f580-4b54-923b-11ca0a389907"
+        "name": "Beautiful Minds Media GmbH",
+        "squuid": "600045db-ecdb-4590-aab4-598c8b904885"
       },
-      "squuid": "5f96c14e-b563-4e6a-8d05-adc7e92f0841",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Radio Zwickau Programm-, Produktions- und Werbegesellschaft mbH & Co. KG",
-        "squuid": "5be1a6b6-69ba-4dcf-808e-9100839186fb"
-      },
-      "squuid": "6391b44b-d8c0-468a-8f3c-f60029cb654d",
+      "squuid": "69de218a-a1f5-403c-b2e8-5bb99b71c855",
       "state": "active"
     }
   ],
-  "name": "www.radiozwickau.de",
+  "name": "www.madame.de/monsieur",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-04-14T10:55:26.813Z",
+  "controlDate": "2026-04-14T11:14:00.577Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

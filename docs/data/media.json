@@ -2918,7 +2918,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-22T16:36:56.966Z",
+    "controlDate": "2026-04-14T11:25:54.075Z",
     "state": "active"
   },
   {
@@ -2936,7 +2936,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-22T16:37:10.419Z",
+    "controlDate": "2026-04-14T11:26:06.096Z",
     "state": "active"
   },
   {
@@ -6217,7 +6217,7 @@
     "name": "www.extra-wochenende.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:40:37.082Z",
+    "controlDate": "2026-04-14T11:26:19.855Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17132,7 +17132,7 @@
     "rfStatewide": false,
     "name": "Der Steuerzahler",
     "type": "print",
-    "controlDate": "2025-10-24T10:50:16.139Z",
+    "controlDate": "2026-04-14T10:59:04.348Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24862,6 +24862,30 @@
   },
   {
     "state": "active",
+    "squuid": "69de216f-2e8e-497e-9b30-d1b3f9c2547e",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.madame.de/monsieur",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-04-14T11:14:00.577Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "61950ed0-c724-42e7-b07b-a7f1ff850222",
     "organization": {
       "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
@@ -26698,7 +26722,7 @@
     "name": "www.antennesachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:08:43.142Z",
+    "controlDate": "2026-04-14T10:52:18.010Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31450,7 +31474,7 @@
     "name": "www.ardkultur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T13:00:30.858Z",
+    "controlDate": "2026-04-14T10:15:01.917Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32257,7 +32281,7 @@
     "name": "www.experto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:20:24.479Z",
+    "controlDate": "2026-04-14T10:58:34.987Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35068,7 +35092,7 @@
     "name": "www.detektor.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:32:17.455Z",
+    "controlDate": "2026-04-14T11:16:21.299Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39034,7 +39058,7 @@
     "name": "www.untertuerkheimer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:37:33.734Z",
+    "controlDate": "2026-04-14T11:26:45.713Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41309,7 +41333,7 @@
     "name": "www.bbradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T15:57:10.852Z",
+    "controlDate": "2026-04-14T10:45:55.148Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -49784,7 +49808,7 @@
     "name": "www.zwiebel-es.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:37:56.793Z",
+    "controlDate": "2026-04-14T11:26:54.258Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79835,7 +79859,7 @@
     "rfStatewide": false,
     "name": "Eßlinger Zeitung",
     "type": "print",
-    "controlDate": "2025-10-24T10:54:52.250Z",
+    "controlDate": "2026-04-14T11:25:41.713Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88480,7 +88504,7 @@
     "rfStatewide": false,
     "name": "Cannstatter Zeitung Untertürkheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-09-22T16:35:56.498Z",
+    "controlDate": "2026-04-14T11:25:30.217Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -104069,7 +104093,7 @@
     "rfStatewide": false,
     "name": "Madame",
     "type": "print",
-    "controlDate": "2025-10-24T10:51:56.547Z",
+    "controlDate": "2026-04-14T11:11:53.891Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -108459,7 +108483,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-22T16:26:22.141Z",
+    "controlDate": "2026-04-14T11:12:11.158Z",
     "state": "active"
   },
   {
@@ -111913,7 +111937,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-24T08:52:37.998Z",
+    "controlDate": "2026-04-14T11:42:03.180Z",
     "state": "active"
   },
   {
@@ -127293,7 +127317,7 @@
     "name": "www.bbc.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:00:03.928Z",
+    "controlDate": "2026-04-14T10:46:49.217Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127365,7 +127389,7 @@
     "name": "www.bbc.co.uk",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T15:59:58.098Z",
+    "controlDate": "2026-04-14T10:46:42.396Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130579,7 +130603,7 @@
     "name": "www.rocketbeans.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T15:39:41.874Z",
+    "controlDate": "2026-04-14T11:00:38.602Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137896,7 +137920,7 @@
     "name": "www.easycredit-bbl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:03:33.018Z",
+    "controlDate": "2026-04-14T10:47:57.713Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143499,7 +143523,7 @@
     "name": "www.hitradio-rtl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-11T11:24:05.140Z",
+    "controlDate": "2026-04-14T10:52:30.577Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144241,7 +144265,7 @@
     "name": "Monsieur",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-09-22T16:26:13.257Z",
+    "controlDate": "2026-04-14T11:12:04.314Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150774,7 +150798,7 @@
     "name": "www.radiochemnitz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-09T13:38:53.874Z",
+    "controlDate": "2026-04-14T10:53:18.910Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150891,7 +150915,7 @@
     "name": "www.radiodresden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-09T13:46:49.327Z",
+    "controlDate": "2026-04-14T10:53:29.731Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151761,7 +151785,7 @@
     "name": "www.radioerzgebirge.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T08:41:15.798Z",
+    "controlDate": "2026-04-14T10:54:11.663Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153592,7 +153616,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.ardaudiothek.de",
+    "name": "www.ardsounds.de",
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2026-04-09T13:14:32.720Z",
@@ -156037,7 +156061,7 @@
     "name": "www.radiolausitz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-09T14:09:33.605Z",
+    "controlDate": "2026-04-14T10:54:39.710Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156173,7 +156197,7 @@
     "name": "www.radioleipzig.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-22T16:11:34.180Z",
+    "controlDate": "2026-04-14T10:55:07.259Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158235,7 +158259,7 @@
     "name": "www.radiozwickau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-10T14:11:29.946Z",
+    "controlDate": "2026-04-14T10:55:26.813Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
