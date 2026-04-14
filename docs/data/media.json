@@ -10526,7 +10526,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-01T08:47:25.085Z",
+    "controlDate": "2026-04-14T12:17:20.995Z",
     "state": "active"
   },
   {
@@ -10544,7 +10544,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-01T08:47:19.094Z",
+    "controlDate": "2026-04-14T12:17:07.096Z",
     "state": "active"
   },
   {
@@ -16388,7 +16388,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T16:11:34.461Z",
+    "controlDate": "2026-04-14T12:02:50.793Z",
     "state": "active"
   },
   {
@@ -42279,7 +42279,7 @@
     "name": "Die Weltbühne",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-30T13:26:22.346Z",
+    "controlDate": "2026-04-14T12:12:51.311Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47256,7 +47256,7 @@
     "name": "www.choices.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-01T08:54:31.069Z",
+    "controlDate": "2026-04-14T12:22:55.896Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71524,7 +71524,7 @@
     "rfStatewide": false,
     "name": "Vorwärts",
     "type": "print",
-    "controlDate": "2025-10-01T08:47:09.829Z",
+    "controlDate": "2026-04-14T12:16:55.738Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71545,7 +71545,7 @@
     "rfStatewide": false,
     "name": "Demokratische Gemeinde - DEMO",
     "type": "print",
-    "controlDate": "2025-10-01T08:46:57.765Z",
+    "controlDate": "2026-04-14T12:16:44.786Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -80045,7 +80045,7 @@
     "rfStatewide": false,
     "name": "Psychologie heute",
     "type": "print",
-    "controlDate": "2025-11-14T16:11:24.791Z",
+    "controlDate": "2026-04-14T12:02:43.057Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86755,7 +86755,7 @@
     "rfStatewide": false,
     "name": "Berliner Zeitung",
     "type": "print",
-    "controlDate": "2025-10-01T08:42:54.617Z",
+    "controlDate": "2026-04-14T12:12:41.547Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107714,7 +107714,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-01T08:52:33.984Z",
+    "controlDate": "2026-04-14T12:19:25.476Z",
     "state": "active"
   },
   {
@@ -112440,7 +112440,7 @@
     "rfStatewide": false,
     "name": "Berliner Kurier",
     "type": "print",
-    "controlDate": "2025-10-01T08:35:35.154Z",
+    "controlDate": "2026-04-14T12:12:29.835Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112834,7 +112834,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-01T08:43:20.185Z",
+    "controlDate": "2026-04-14T12:12:59.680Z",
     "state": "active"
   },
   {
@@ -112852,7 +112852,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-01T08:44:30.191Z",
+    "controlDate": "2026-04-14T12:13:06.127Z",
     "state": "active"
   },
   {
@@ -127541,7 +127541,7 @@
     "name": "www.berliner-abendblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-24T10:02:39.444Z",
+    "controlDate": "2026-04-14T12:09:22.304Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128996,7 +128996,7 @@
     "name": "www.bergisches-handelsblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-24T09:40:52.217Z",
+    "controlDate": "2026-04-14T12:07:48.912Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
