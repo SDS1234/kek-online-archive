@@ -8594,7 +8594,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-07T10:32:19.694Z",
+    "controlDate": "2026-04-15T10:26:36.840Z",
     "state": "active"
   },
   {
@@ -38413,7 +38413,7 @@
     "name": "www.radio-potsdam.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T11:22:38.660Z",
+    "controlDate": "2026-04-15T10:32:02.025Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38894,7 +38894,7 @@
     "name": "www.wochenspiegel-brb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T10:38:12.871Z",
+    "controlDate": "2026-04-15T10:29:40.041Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -49757,7 +49757,7 @@
     "name": "weil.",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T10:31:17.784Z",
+    "controlDate": "2026-04-15T10:26:26.995Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80313,7 +80313,7 @@
     "rfStatewide": false,
     "name": "Weißenburger Tagblatt",
     "type": "print",
-    "controlDate": "2025-10-07T13:25:08.863Z",
+    "controlDate": "2026-04-15T10:39:59.470Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -92559,7 +92559,7 @@
     "rfStatewide": false,
     "name": "Anna",
     "type": "print",
-    "controlDate": "2025-10-07T10:04:53.921Z",
+    "controlDate": "2026-04-15T10:07:24.767Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92619,7 +92619,7 @@
     "rfStatewide": false,
     "name": "Sabrina",
     "type": "print",
-    "controlDate": "2025-10-07T10:14:38.659Z",
+    "controlDate": "2026-04-15T10:11:50.914Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92725,7 +92725,7 @@
     "rfStatewide": false,
     "name": "Baby Maschenmode",
     "type": "print",
-    "controlDate": "2025-10-07T10:05:07.347Z",
+    "controlDate": "2026-04-15T10:07:34.302Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92767,7 +92767,7 @@
     "rfStatewide": false,
     "name": "Diana Moden",
     "type": "print",
-    "controlDate": "2025-10-07T10:06:19.560Z",
+    "controlDate": "2026-04-15T10:07:43.995Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92830,7 +92830,7 @@
     "rfStatewide": false,
     "name": "Gesund & aktiv",
     "type": "print",
-    "controlDate": "2025-10-07T10:10:35.967Z",
+    "controlDate": "2026-04-15T10:08:33.675Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92851,7 +92851,7 @@
     "rfStatewide": false,
     "name": "The Knitter",
     "type": "print",
-    "controlDate": "2025-10-07T10:14:48.369Z",
+    "controlDate": "2026-04-15T10:12:00.527Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92872,7 +92872,7 @@
     "rfStatewide": false,
     "name": "Meine Nähmode",
     "type": "print",
-    "controlDate": "2025-10-07T10:13:59.129Z",
+    "controlDate": "2026-04-15T10:11:18.021Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92893,7 +92893,7 @@
     "rfStatewide": false,
     "name": "Verena ",
     "type": "print",
-    "controlDate": "2025-10-07T10:14:56.467Z",
+    "controlDate": "2026-04-15T10:12:50.732Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92935,7 +92935,7 @@
     "rfStatewide": false,
     "name": "Nähtrends",
     "type": "print",
-    "controlDate": "2025-10-07T10:14:25.194Z",
+    "controlDate": "2026-04-15T10:11:38.312Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92995,7 +92995,7 @@
     "rfStatewide": false,
     "name": "Kinder Maschenmode",
     "type": "print",
-    "controlDate": "2025-10-07T10:11:42.294Z",
+    "controlDate": "2026-04-15T10:09:15.260Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93016,7 +93016,7 @@
     "rfStatewide": false,
     "name": "Mein Deko- und Bastelspaß",
     "type": "print",
-    "controlDate": "2025-10-07T10:13:15.275Z",
+    "controlDate": "2026-04-15T10:10:44.884Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93058,7 +93058,7 @@
     "rfStatewide": false,
     "name": "Mein Kreativ-Atelier",
     "type": "print",
-    "controlDate": "2025-10-07T10:13:44.978Z",
+    "controlDate": "2026-04-15T10:11:06.014Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93079,7 +93079,7 @@
     "rfStatewide": false,
     "name": "Lena Wohnen & Dekorieren",
     "type": "print",
-    "controlDate": "2025-10-07T10:12:57.611Z",
+    "controlDate": "2026-04-15T10:10:11.478Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96120,7 +96120,7 @@
     "rfStatewide": false,
     "name": "Bremer",
     "type": "print",
-    "controlDate": "2025-10-07T13:35:59.008Z",
+    "controlDate": "2026-04-15T11:49:29.428Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96993,7 +96993,7 @@
     "rfStatewide": false,
     "name": "brand eins",
     "type": "print",
-    "controlDate": "2025-10-07T10:30:54.209Z",
+    "controlDate": "2026-04-15T10:26:05.946Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115285,7 +115285,7 @@
     "rfStatewide": false,
     "name": "Küchenspaß",
     "type": "print",
-    "controlDate": "2025-10-07T10:12:22.676Z",
+    "controlDate": "2026-04-15T10:09:38.699Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115346,7 +115346,7 @@
     "rfStatewide": false,
     "name": "Woolly Hugs",
     "type": "print",
-    "controlDate": "2025-10-07T10:15:06.738Z",
+    "controlDate": "2026-04-15T10:12:58.851Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -126445,7 +126445,7 @@
     "name": "www.bremer.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T13:36:07.820Z",
+    "controlDate": "2026-04-15T11:49:35.484Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131684,7 +131684,7 @@
     "name": "www.craftery.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T10:15:14.523Z",
+    "controlDate": "2026-04-15T10:13:07.150Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143591,7 +143591,7 @@
     "name": "www.weissenburger-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T13:25:56.028Z",
+    "controlDate": "2026-04-15T10:40:08.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149087,7 +149087,7 @@
     "name": "brand eins /thema",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T10:31:07.122Z",
+    "controlDate": "2026-04-15T10:26:13.473Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153946,7 +153946,7 @@
     "name": "Gesund sein!",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T10:11:10.226Z",
+    "controlDate": "2026-04-15T10:08:46.506Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154437,7 +154437,7 @@
     "name": "Die beliebtesten Rezepte",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T10:10:17.647Z",
+    "controlDate": "2026-04-15T10:08:22.827Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

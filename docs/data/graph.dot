@@ -10950,8 +10950,8 @@ digraph {
     label="Banijay Entertainment S.A.S."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.1949
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6ecaf-8481-40bb-862e-66d9d2a0e874"
     in_degree=0
     out_degree=1
@@ -10962,8 +10962,8 @@ digraph {
     label="Banijay Germany GmbH"
     num_owners=3
     num_owners_weighted=2.0978
-    num_medias=1
-    num_medias_weighted=0.2160
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6eba0-f3c4-4daa-ac25-d32239ef81cf"
     in_degree=2
     out_degree=1
@@ -10972,8 +10972,8 @@ digraph {
     type=shareholder
     state=active
     label="Banijay Media Germany GmbH"
-    num_owners=7
-    num_owners_weighted=3.6691
+    num_owners=5
+    num_owners_weighted=4.0978
     num_medias=1
     num_medias_weighted=1.0000
     name="61e6e595-9173-4d3f-a6b3-8917e82740c5"
@@ -18866,26 +18866,26 @@ digraph {
   ];
   1572 [
     type=shareholder
-    state=active
+    state=archived
     label="Brainpool Beteiligungsgesellschaft mbH"
-    num_owners=4
-    num_owners_weighted=3.0978
-    num_medias=1
-    num_medias_weighted=0.2160
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6e79a-371f-4d59-96de-6ded459b8caf"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   1573 [
     type=shareholder
     state=active
     label="Brainpool TV GmbH"
-    num_owners=6
-    num_owners_weighted=2.6691
+    num_owners=4
+    num_owners_weighted=3.0978
     num_medias=1
     num_medias_weighted=1.0000
     name="61e6e67a-282a-4473-b7fb-9362631fb831"
-    in_degree=2
+    in_degree=0
     out_degree=1
   ];
   1574 [
@@ -19315,7 +19315,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=34
-    num_medias_weighted=2.0042
+    num_medias_weighted=2.0044
     name="5be1a6b6-311b-4fe2-a7ef-15fbffd2750d"
     in_degree=3
     out_degree=4
@@ -19363,7 +19363,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=34
-    num_medias_weighted=1.2025
+    num_medias_weighted=1.2026
     name="5be1a6b6-baad-42b8-9126-12e0b831fe74"
     in_degree=0
     out_degree=2
@@ -38450,15 +38450,15 @@ digraph {
   ];
   3204 [
     type=shareholder
-    state=active
+    state=archived
     label="Eigenbesitz der Brainpool TV GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.7840
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6e77c-5bb0-4597-a967-76c651205468"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3205 [
     type=shareholder
@@ -64471,7 +64471,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=34
-    num_medias_weighted=0.3006
+    num_medias_weighted=0.3007
     name="5be1a6b6-46a8-46d9-b664-fe335cbd14ab"
     in_degree=0
     out_degree=2
@@ -170262,8 +170262,8 @@ digraph {
     label="Wolter, Marcus Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.0211
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6eddd-8a72-4b5e-9b2d-37d88c83836e"
     in_degree=0
     out_degree=1
@@ -170346,8 +170346,8 @@ digraph {
     label="Woltertainment GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=0.0211
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61e6ece6-4343-457f-9da9-59ee42f7caee"
     in_degree=1
     out_degree=1
@@ -192208,8 +192208,8 @@ digraph {
     type=online
     state=active
     label="www.myspass.de"
-    num_owners=8
-    num_owners_weighted=4.6691
+    num_owners=6
+    num_owners_weighted=5.0978
     num_medias=0
     num_medias_weighted=0.0000
     name="61e6e57f-3b0a-466f-9160-58ae7b3f0985"
@@ -218253,10 +218253,6 @@ digraph {
     weight=15
     type=owns
   ];
-  1572 -> 1573 [
-    weight=21.6
-    type=owns
-  ];
   1573 -> 914 [
     weight=100
     type=owns
@@ -225911,10 +225907,6 @@ digraph {
   ];
   3202 -> 1440 [
     weight=23
-    type=owns
-  ];
-  3204 -> 1573 [
-    weight=78.4
     type=owns
   ];
   3207 -> 2337 [

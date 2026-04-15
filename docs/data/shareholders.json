@@ -44732,7 +44732,7 @@
     "name": "Braun & Elbel GmbH & Co. K.G.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-311b-4fe2-a7ef-15fbffd2750d",
-    "controlDate": "2025-10-07T13:23:02.736Z",
+    "controlDate": "2026-04-15T10:38:46.372Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -80803,7 +80803,7 @@
     "squuid": "5be1a6b6-1c0e-423e-aadb-97529aef14cf",
     "name": "Brandenburger Lokalradios GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T11:19:44.061Z",
+    "controlDate": "2026-04-15T10:30:17.772Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -99989,7 +99989,7 @@
     "squuid": "5be1a6b6-31ae-4fe7-a6f5-a614806fbd04",
     "name": "brand eins Medien AG",
     "state": "active",
-    "controlDate": "2025-10-07T10:30:44.996Z",
+    "controlDate": "2026-04-15T10:24:56.869Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -122136,7 +122136,7 @@
     "name": "Brandenburg Media GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63f743fc-14f3-4e34-8610-dba2e35e5187",
-    "controlDate": "2025-10-07T10:38:04.903Z",
+    "controlDate": "2026-04-15T10:29:34.409Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -123848,7 +123848,7 @@
     "squuid": "63f74797-17fa-4bc4-a840-e7d83484c2e1",
     "name": "Brandenburg Media Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-07T10:37:58.507Z",
+    "controlDate": "2026-04-15T10:29:22.238Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173131,7 +173131,7 @@
     "squuid": "6358fd09-b8a3-4788-8aea-8be9b73376ec",
     "name": "BR Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T10:17:37.366Z",
+    "controlDate": "2026-04-15T10:16:53.088Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -200453,7 +200453,7 @@
     "squuid": "61e6e67a-282a-4473-b7fb-9362631fb831",
     "name": "Brainpool TV GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T10:25:42.003Z",
+    "controlDate": "2026-04-15T10:20:59.145Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201075,11 +201075,12 @@
   {
     "squuid": "61e6e77c-5bb0-4597-a967-76c651205468",
     "name": "Eigenbesitz der Brainpool TV GmbH",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -201087,12 +201088,13 @@
   {
     "squuid": "61e6e79a-371f-4d59-96de-6ded459b8caf",
     "name": "Brainpool Beteiligungsgesellschaft mbH",
-    "state": "active",
-    "controlDate": "2025-10-07T10:19:13.275Z",
+    "state": "archived",
+    "controlDate": "2026-04-15T10:20:50.573Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -234809,7 +234811,7 @@
     "squuid": "5be1a6b6-6f95-43c4-8c2e-d4fa8395ba22",
     "name": "Bremer Blatt Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T13:35:15.982Z",
+    "controlDate": "2026-04-15T11:48:02.746Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239282,7 +239284,7 @@
     "squuid": "5be1a6b6-402b-41e6-aef7-76583d4c85b6",
     "name": "Brandenburgische Medienbeteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T11:25:21.552Z",
+    "controlDate": "2026-04-15T10:35:00.102Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300944,7 +300946,7 @@
     "squuid": "5ee7515f-5949-4504-9d43-7db2d886043d",
     "name": "Braun Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T13:26:45.734Z",
+    "controlDate": "2026-04-15T10:39:47.259Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
