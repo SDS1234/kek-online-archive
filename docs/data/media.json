@@ -15747,7 +15747,7 @@
     "rfStatewide": false,
     "name": "Natur + Umwelt",
     "type": "print",
-    "controlDate": "2025-10-08T11:23:47.927Z",
+    "controlDate": "2026-04-15T13:45:32.844Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87504,7 +87504,7 @@
     "rfStatewide": false,
     "name": "Der Nordschleswiger",
     "type": "print",
-    "controlDate": "2025-10-08T11:22:20.424Z",
+    "controlDate": "2026-04-15T13:44:13.022Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87528,7 +87528,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-08T11:22:53.804Z",
+    "controlDate": "2026-04-15T13:44:20.273Z",
     "state": "active"
   },
   {
@@ -126652,7 +126652,7 @@
     "name": "www.bpb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-08T11:26:02.203Z",
+    "controlDate": "2026-04-15T13:46:42.359Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126907,7 +126907,7 @@
     "name": "www.bmas.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-08T11:25:01.396Z",
+    "controlDate": "2026-04-15T13:46:06.659Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
