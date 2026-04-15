@@ -31020,7 +31020,7 @@
     "squuid": "5be1a6b6-2a2f-48d5-83cd-a5096f340537",
     "name": "Brune-Rieck-Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T10:33:18.822Z",
+    "controlDate": "2026-04-15T12:16:12.017Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -67951,7 +67951,7 @@
     "squuid": "5be1a6b6-d195-4cf4-a6a4-906cfae4b85f",
     "name": "Bremer Tageszeitungen AG",
     "state": "active",
-    "controlDate": "2025-10-07T13:37:13.605Z",
+    "controlDate": "2026-04-15T11:52:19.814Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73044,7 +73044,7 @@
     "name": "Bremervörder Zeitung Verlagsgesellschaft Borgardt GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-864d-4119-b576-cfd654d4ca81",
-    "controlDate": "2025-10-07T14:00:44.600Z",
+    "controlDate": "2026-04-15T11:59:24.257Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -92732,7 +92732,7 @@
     "squuid": "5be1a6b6-9540-4111-bf03-3717c3fd2dd4",
     "name": "Buchhandlung Eugen Lachenmann GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-08T11:18:59.010Z",
+    "controlDate": "2026-04-15T12:50:29.364Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -93068,7 +93068,7 @@
     "squuid": "62a8a3cd-dc67-4499-b14b-6ec50aa13239",
     "name": "Breu & Schneider GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T14:04:29.933Z",
+    "controlDate": "2026-04-15T12:01:53.088Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -107541,7 +107541,7 @@
     "squuid": "5be1a6b6-7e41-48b3-87f3-b6511bdf62df",
     "name": "Bruchteilsgemeinschaft Walter Klaiber",
     "state": "active",
-    "controlDate": "2025-10-08T10:26:44.405Z",
+    "controlDate": "2026-04-15T12:09:11.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -107927,7 +107927,7 @@
     "squuid": "5be1a6b6-3b7e-455d-b093-6341bdb70bfb",
     "name": "Bruchteilsgemeinschaft Eugen Händle",
     "state": "active",
-    "controlDate": "2025-10-08T10:26:19.520Z",
+    "controlDate": "2026-04-15T12:08:57.641Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -142834,7 +142834,7 @@
     "squuid": "5e393862-ee37-45da-a3c3-f0f1138c4134",
     "name": "Brilliant 310. GmbH",
     "state": "active",
-    "controlDate": "2025-10-07T14:14:17.710Z",
+    "controlDate": "2026-04-15T12:04:08.727Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -149077,7 +149077,7 @@
     "name": "Bruns Verlags-GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5ede1ead-78f1-4fed-93b9-6e5a9eb97367",
-    "controlDate": "2025-10-08T10:36:15.161Z",
+    "controlDate": "2026-04-15T12:18:36.522Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -149111,24 +149111,6 @@
         }
       },
       {
-        "squuid": "617feb66-0e18-4c27-a42d-b1013a1df44c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "617feafb-e2b6-47f8-bc21-26f3d1344aec",
-          "name": "news."
-        }
-      },
-      {
-        "squuid": "617febe2-7b23-4fa5-a9ba-d43f8f501218",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "617febbf-0f79-4ff9-948e-4be8f9fcbd3f",
-          "name": "www.news-dasmagazin.de"
-        }
-      },
-      {
         "squuid": "63e0c75c-3384-4178-81af-fcdeff3951a4",
         "type": "operate",
         "state": "active",
@@ -149144,6 +149126,15 @@
         "held": {
           "squuid": "664dce92-4e83-4cb7-831e-9571348dffa7",
           "name": "MT am Sonntag"
+        }
+      },
+      {
+        "squuid": "69df83f3-9007-43e2-89d2-17b36d81b392",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69df83d8-b95d-40c3-9e1b-50ae7a9c35f5",
+          "name": "www.about-minden.de"
         }
       }
     ]
@@ -149270,7 +149261,7 @@
     "squuid": "5d397718-9f1a-4c52-92dd-d3ddf7adc97e",
     "name": "Brima Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T08:59:16.864Z",
+    "controlDate": "2026-04-15T12:04:24.099Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -149302,7 +149293,7 @@
     "squuid": "5ede1ecb-8cf0-4078-a6a3-5c303e672c89",
     "name": "Bruns Verlags Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T10:34:09.139Z",
+    "controlDate": "2026-04-15T12:18:26.422Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155716,7 +155707,7 @@
     "squuid": "63b3058a-80ed-4f6f-a467-ddcf7e84f6e7",
     "name": "brutkasten GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T10:49:22.965Z",
+    "controlDate": "2026-04-15T12:40:19.215Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156461,7 +156452,7 @@
     "squuid": "63b306d6-7d18-4fe1-9fc5-6b1c928ef584",
     "name": "Brutkasten Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T10:50:06.313Z",
+    "controlDate": "2026-04-15T12:41:28.588Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258525,7 +258516,7 @@
     "squuid": "5be1a6b6-13f7-42a5-bad7-0c708ad28927",
     "name": "Bruckmann Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T10:30:39.991Z",
+    "controlDate": "2026-04-15T12:14:26.551Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -265781,7 +265772,7 @@
     "squuid": "5be1a6b6-5485-4f71-821e-012b3b010d1c",
     "name": "BSC Management GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T11:17:22.936Z",
+    "controlDate": "2026-04-15T12:48:20.729Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274155,7 +274146,7 @@
     "squuid": "5be1a6b6-effe-42ec-baf9-4ff98fc21402",
     "name": "Broermann Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T08:59:57.292Z",
+    "controlDate": "2026-04-15T12:05:29.862Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -298687,7 +298678,7 @@
     "squuid": "67599114-1e77-48bd-a3f4-831c089e29a7",
     "name": "Brüning & Brüning eGbR",
     "state": "active",
-    "controlDate": "2025-10-08T11:14:16.846Z",
+    "controlDate": "2026-04-15T12:47:57.241Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301398,7 +301389,7 @@
     "squuid": "5ec5121f-cf4d-4473-a401-4154d6863724",
     "name": "Buchhandlung Eugen Lachenmann Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T11:18:27.262Z",
+    "controlDate": "2026-04-15T12:49:48.630Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

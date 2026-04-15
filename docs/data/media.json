@@ -711,7 +711,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-08T10:43:25.543Z",
+    "controlDate": "2026-04-15T12:19:47.850Z",
     "state": "active"
   },
   {
@@ -33327,6 +33327,30 @@
   },
   {
     "state": "active",
+    "squuid": "69df83d8-b95d-40c3-9e1b-50ae7a9c35f5",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.about-minden.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-04-15T12:26:08.156Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "5c4f18ba-fc32-4af7-8151-9afc4f215632",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36123,7 +36147,7 @@
     "name": "www.hallo-muenchen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T14:05:16.135Z",
+    "controlDate": "2026-04-15T12:02:45.035Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39284,7 +39308,7 @@
     "name": "www.verdener-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T13:44:12.314Z",
+    "controlDate": "2026-04-15T11:53:47.123Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48194,7 +48218,7 @@
     "name": "starting up",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T10:50:18.116Z",
+    "controlDate": "2026-04-15T12:40:28.219Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48239,7 +48263,7 @@
     "name": "www.starting-up.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-08T10:50:29.130Z",
+    "controlDate": "2026-04-15T12:40:39.232Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71459,7 +71483,7 @@
     "name": "www.weserspucker.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-08T10:43:46.097Z",
+    "controlDate": "2026-04-15T12:20:07.557Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80336,7 +80360,7 @@
     "rfStatewide": false,
     "name": "Weser-Kurier",
     "type": "print",
-    "controlDate": "2025-10-07T13:43:33.256Z",
+    "controlDate": "2026-04-15T11:53:13.969Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80359,7 +80383,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-07T13:45:06.911Z",
+    "controlDate": "2026-04-15T11:53:54.727Z",
     "state": "active"
   },
   {
@@ -80406,7 +80430,7 @@
     "rfStatewide": false,
     "name": "Bremervörder Zeitung",
     "type": "print",
-    "controlDate": "2025-10-07T14:00:55.183Z",
+    "controlDate": "2026-04-15T11:59:32.480Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80545,7 +80569,7 @@
     "rfStatewide": false,
     "name": "Mindener Tageblatt",
     "type": "print",
-    "controlDate": "2025-10-08T10:37:16.927Z",
+    "controlDate": "2026-04-15T12:19:17.690Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -113481,7 +113505,7 @@
     "rfStatewide": false,
     "name": "Bergsteiger",
     "type": "print",
-    "controlDate": "2025-10-08T10:31:00.696Z",
+    "controlDate": "2026-04-15T12:14:59.048Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116153,7 +116177,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-08T10:31:45.404Z",
+    "controlDate": "2026-04-15T12:15:06.906Z",
     "state": "active"
   },
   {
@@ -116171,7 +116195,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T14:58:59.568Z",
+    "controlDate": "2026-04-15T12:15:14.911Z",
     "state": "active"
   },
   {
@@ -120491,7 +120515,7 @@
     "name": "www.bremer-nchrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-07T13:44:03.775Z",
+    "controlDate": "2026-04-15T11:53:37.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -121072,7 +121096,7 @@
     "rfStatewide": false,
     "name": "Bremer Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-07T13:40:48.479Z",
+    "controlDate": "2026-04-15T11:52:33.350Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121092,7 +121116,7 @@
     "rfStatewide": false,
     "name": "Verdener Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-07T13:43:19.736Z",
+    "controlDate": "2026-04-15T11:53:05.217Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121259,7 +121283,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-07T14:01:06.703Z",
+    "controlDate": "2026-04-15T11:59:53.143Z",
     "state": "active"
   },
   {
@@ -124635,7 +124659,7 @@
     "name": "MT am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T10:36:30.155Z",
+    "controlDate": "2026-04-15T12:19:04.929Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131909,7 +131933,7 @@
     "name": "Die Wirtschaft (Bremen & Bremerhaven)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T13:41:23.908Z",
+    "controlDate": "2026-04-15T11:52:43.549Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134306,7 +134330,7 @@
     "name": "Handwerk in Bremen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T13:41:56.187Z",
+    "controlDate": "2026-04-15T11:52:54.647Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155974,7 +155998,7 @@
     "name": "Weser-Kurier Kinderzeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-07T13:43:54.955Z",
+    "controlDate": "2026-04-15T11:53:27.944Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163307,7 +163331,7 @@
   },
   {
     "pressPublishingIntervals": 12,
-    "state": "active",
+    "state": "archived",
     "squuid": "617feafb-e2b6-47f8-bc21-26f3d1344aec",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163317,7 +163341,7 @@
     "name": "news.",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T10:43:14.089Z",
+    "controlDate": "2026-04-15T12:19:32.287Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163562,7 +163586,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "617febbf-0f79-4ff9-948e-4be8f9fcbd3f",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163572,7 +163596,7 @@
     "name": "www.news-dasmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-08T10:43:38.246Z",
+    "controlDate": "2026-04-15T12:20:00.025Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

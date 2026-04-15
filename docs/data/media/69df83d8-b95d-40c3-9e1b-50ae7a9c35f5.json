@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "63b3059f-db99-456b-b0fd-008cd1f7458f",
+  "squuid": "69df83d8-b95d-40c3-9e1b-50ae7a9c35f5",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "brutkasten GmbH",
-        "squuid": "63b3058a-80ed-4f6f-a467-ddcf7e84f6e7"
+        "name": "Bruns Verlags-GmbH & Co. KG",
+        "squuid": "5ede1ead-78f1-4fed-93b9-6e5a9eb97367"
       },
-      "squuid": "63b30614-11a7-4c2a-a1a4-a5c77df87817",
+      "squuid": "69df83f3-9007-43e2-89d2-17b36d81b392",
       "state": "active"
     }
   ],
-  "name": "www.starting-up.de",
+  "name": "www.about-minden.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-04-15T12:40:39.232Z",
+  "controlDate": "2026-04-15T12:26:08.156Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
