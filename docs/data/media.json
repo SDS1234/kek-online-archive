@@ -8100,7 +8100,7 @@
     "rfStatewide": false,
     "name": "Miraculous",
     "type": "print",
-    "controlDate": "2025-10-08T14:50:38.687Z",
+    "controlDate": "2026-04-15T08:29:55.855Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8160,7 +8160,7 @@
     "rfStatewide": false,
     "name": "National Geographic Kids",
     "type": "print",
-    "controlDate": "2025-10-08T14:51:26.884Z",
+    "controlDate": "2026-04-15T08:30:08.763Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9496,7 +9496,7 @@
     "name": "www.dithmarscher-landeszeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T15:08:01.959Z",
+    "controlDate": "2026-04-15T09:47:36.064Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15960,7 +15960,7 @@
     "name": "Pfiffikus",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-04-29T11:33:35.844Z",
+    "controlDate": "2026-04-15T08:31:05.334Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17679,7 +17679,7 @@
     "rfStatewide": false,
     "name": "Prinzessin Mimi",
     "type": "print",
-    "controlDate": "2025-10-08T14:57:17.694Z",
+    "controlDate": "2026-04-15T08:35:12.546Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17720,7 +17720,7 @@
     "rfStatewide": false,
     "name": "Winx Club",
     "type": "print",
-    "controlDate": "2025-10-08T15:00:58.625Z",
+    "controlDate": "2026-04-15T08:36:56.886Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17888,7 +17888,7 @@
     "rfStatewide": false,
     "name": "Mein kleiner schöner Garten        ",
     "type": "print",
-    "controlDate": "2025-10-08T14:48:41.309Z",
+    "controlDate": "2026-04-15T08:28:38.781Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22160,7 +22160,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-06T14:12:12.827Z",
+    "controlDate": "2026-04-15T09:18:34.411Z",
     "state": "active"
   },
   {
@@ -22979,7 +22979,7 @@
     "rfStatewide": false,
     "name": "Minecraft",
     "type": "print",
-    "controlDate": "2025-10-08T14:50:24.166Z",
+    "controlDate": "2026-04-15T08:29:43.220Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -31718,7 +31718,7 @@
     "name": "Polizist Pit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T14:55:52.973Z",
+    "controlDate": "2026-04-15T08:34:01.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42746,7 +42746,7 @@
     "name": "www.anzeiger-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T15:07:20.928Z",
+    "controlDate": "2026-04-15T09:46:28.035Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42958,7 +42958,7 @@
     "name": "www.dithmarschen365.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T15:07:51.371Z",
+    "controlDate": "2026-04-15T09:46:51.543Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47701,7 +47701,7 @@
     "name": "Platsch!",
     "type": "print",
     "squuid": "692ecb71-fe5a-4d3e-8aba-cbe4678efe18",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -48462,7 +48462,7 @@
     "name": "Planet Wow",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T14:53:34.478Z",
+    "controlDate": "2026-04-15T08:31:29.518Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71848,7 +71848,7 @@
     "rfStatewide": false,
     "name": "Dithmarscher Landeszeitung",
     "type": "print",
-    "controlDate": "2025-10-06T15:06:58.418Z",
+    "controlDate": "2026-04-15T09:44:12.687Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80231,7 +80231,7 @@
     "rfStatewide": false,
     "name": "der dom",
     "type": "print",
-    "controlDate": "2025-10-06T14:12:04.902Z",
+    "controlDate": "2026-04-15T09:18:26.504Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97725,7 +97725,7 @@
     "name": "Lissy Pony spezial",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T14:48:13.008Z",
+    "controlDate": "2026-04-15T08:28:05.518Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99409,7 +99409,7 @@
     "rfStatewide": false,
     "name": "Lissy",
     "type": "print",
-    "controlDate": "2025-10-08T14:47:31.666Z",
+    "controlDate": "2026-04-15T08:27:29.585Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101031,7 +101031,7 @@
     "rfStatewide": false,
     "name": "Prinzessin Lillifee",
     "type": "print",
-    "controlDate": "2025-10-08T14:56:20.534Z",
+    "controlDate": "2026-04-15T08:34:20.363Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101076,7 +101076,7 @@
     "rfStatewide": false,
     "name": "Prinzessin Lillifee Zauberwelt",
     "type": "print",
-    "controlDate": "2025-10-08T14:57:03.132Z",
+    "controlDate": "2026-04-15T08:34:46.893Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101097,7 +101097,7 @@
     "rfStatewide": false,
     "name": "Prinzessin Lillifee Bastelzauber",
     "type": "print",
-    "controlDate": "2025-10-08T14:56:37.247Z",
+    "controlDate": "2026-04-15T08:34:33.914Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101118,7 +101118,7 @@
     "rfStatewide": false,
     "name": "Playmobil Pink",
     "type": "print",
-    "controlDate": "2025-10-08T14:54:57.830Z",
+    "controlDate": "2026-04-15T08:33:48.487Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101184,7 +101184,7 @@
     "rfStatewide": false,
     "name": "Playmobil Magazin",
     "type": "print",
-    "controlDate": "2025-10-08T14:54:33.700Z",
+    "controlDate": "2026-04-15T08:33:20.980Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101205,7 +101205,7 @@
     "rfStatewide": false,
     "name": "Lissy Pony",
     "type": "print",
-    "controlDate": "2025-10-08T14:47:53.559Z",
+    "controlDate": "2026-04-15T08:27:41.132Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101226,7 +101226,7 @@
     "rfStatewide": false,
     "name": "bayala",
     "type": "print",
-    "controlDate": "2025-10-08T15:01:34.087Z",
+    "controlDate": "2026-04-15T08:37:10.824Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101292,7 +101292,7 @@
     "rfStatewide": false,
     "name": "Platsch!",
     "type": "print",
-    "controlDate": "2025-12-02T11:20:25.882Z",
+    "controlDate": "2026-04-15T08:32:58.004Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101334,7 +101334,7 @@
     "rfStatewide": false,
     "name": "Pferd & Co",
     "type": "print",
-    "controlDate": "2025-10-08T14:51:52.474Z",
+    "controlDate": "2026-04-15T08:30:54.454Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101355,7 +101355,7 @@
     "rfStatewide": false,
     "name": "Total tierlieb!",
     "type": "print",
-    "controlDate": "2025-10-08T14:58:49.373Z",
+    "controlDate": "2026-04-15T08:36:24.229Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101397,7 +101397,7 @@
     "rfStatewide": false,
     "name": "Löwenzahn - Das Magazin",
     "type": "print",
-    "controlDate": "2025-10-08T14:37:15.963Z",
+    "controlDate": "2026-04-15T08:28:21.370Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101418,7 +101418,7 @@
     "rfStatewide": false,
     "name": "Was ist was - Das Magazin",
     "type": "print",
-    "controlDate": "2025-10-08T14:59:31.271Z",
+    "controlDate": "2026-04-15T08:36:37.059Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105131,7 +105131,7 @@
     "rfStatewide": false,
     "name": "Mia and me",
     "type": "print",
-    "controlDate": "2025-10-08T14:49:56.615Z",
+    "controlDate": "2026-04-15T08:29:12.919Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105283,7 +105283,7 @@
     "rfStatewide": false,
     "name": "Wickie und die starken Männer",
     "type": "print",
-    "controlDate": "2025-10-08T15:00:41.698Z",
+    "controlDate": "2026-04-15T08:36:45.851Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -117573,7 +117573,7 @@
     "rfStatewide": false,
     "name": "Brunsbütteler Zeitung",
     "type": "print",
-    "controlDate": "2025-10-06T15:06:41.227Z",
+    "controlDate": "2026-04-15T09:43:53.058Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117593,7 +117593,7 @@
     "rfStatewide": false,
     "name": "Dithmarscher Kurier",
     "type": "print",
-    "controlDate": "2025-10-24T11:45:06.737Z",
+    "controlDate": "2026-04-15T09:44:01.882Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117633,7 +117633,7 @@
     "rfStatewide": false,
     "name": "Marner Zeitung",
     "type": "print",
-    "controlDate": "2025-10-06T15:07:06.106Z",
+    "controlDate": "2026-04-15T09:44:22.145Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117656,7 +117656,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-06T15:07:36.928Z",
+    "controlDate": "2026-04-15T09:46:38.679Z",
     "state": "active"
   },
   {
@@ -126763,7 +126763,7 @@
     "name": "www.borussia.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T14:30:00.141Z",
+    "controlDate": "2026-04-15T09:36:41.630Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136853,7 +136853,7 @@
     "name": "Schleswig-Holstein-Presse (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T10:21:41.271Z",
+    "controlDate": "2026-04-15T09:44:51.149Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145162,7 +145162,7 @@
     "name": "www.bvb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T14:28:02.800Z",
+    "controlDate": "2026-04-15T09:34:10.335Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146427,7 +146427,7 @@
     "name": "www.bvbtotal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T14:28:10.536Z",
+    "controlDate": "2026-04-15T09:34:16.550Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147058,7 +147058,7 @@
     "name": "www.tv.borussia.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T14:30:07.292Z",
+    "controlDate": "2026-04-15T09:36:50.520Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147291,7 +147291,7 @@
     "name": "www.boerse.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-06T14:08:52.460Z",
+    "controlDate": "2026-04-15T09:14:57.689Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149903,7 +149903,7 @@
     "name": "SPO Magazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-06T14:36:52.214Z",
+    "controlDate": "2026-04-15T09:44:36.290Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150111,7 +150111,7 @@
     "name": "Weitblick",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-06T14:37:07.488Z",
+    "controlDate": "2026-04-15T09:45:07.736Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159511,7 +159511,7 @@
     "name": "Top11",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T14:58:35.246Z",
+    "controlDate": "2026-04-15T08:35:44.417Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
