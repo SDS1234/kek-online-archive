@@ -16675,7 +16675,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=2
-    num_medias_weighted=0.5332
+    num_medias_weighted=0.5032
     name="5c52e614-1cbb-4bd1-a06f-d61c2abeaf8a"
     in_degree=1
     out_degree=1
@@ -16687,7 +16687,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=2
-    num_medias_weighted=0.5332
+    num_medias_weighted=0.5032
     name="5c52e1cd-89ae-43d4-9068-3fe2b6a3250f"
     in_degree=1
     out_degree=1
@@ -16723,7 +16723,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=133
-    num_medias_weighted=2.2767
+    num_medias_weighted=2.2930
     name="5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
     in_degree=0
     out_degree=20
@@ -16912,8 +16912,8 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=3
     num_medias_weighted=0.0000
     name="696f7577-021a-453d-8e11-c0dc8b403750"
@@ -16924,8 +16924,8 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart Group Beteiligungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=3
     num_medias_weighted=0.0000
     name="698b6861-01fa-4f95-846e-5863789e77fe"
@@ -16936,8 +16936,8 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart Gründungs SE"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=3
     num_medias_weighted=0.0000
     name="695b9ba8-6461-4a61-8ca7-d34ff631ef52"
@@ -18583,7 +18583,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.5332
+    num_medias_weighted=0.5032
     name="5c52e630-753c-4485-b9fa-4606731d3fa3"
     in_degree=0
     out_degree=1
@@ -217166,7 +217166,7 @@ digraph {
     type=owns
   ];
   1390 -> 3377 [
-    weight=26.66
+    weight=25.16
     type=owns
   ];
   1392 -> 688 [
@@ -217178,7 +217178,7 @@ digraph {
     type=owns
   ];
   1393 -> 373 [
-    weight=6.39
+    weight=8.28
     type=owns
   ];
   1393 -> 426 [
