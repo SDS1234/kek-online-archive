@@ -42406,7 +42406,7 @@
     "name": "www.sparwelt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T09:22:14.446Z",
+    "controlDate": "2026-04-16T13:40:07.997Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80733,7 +80733,7 @@
     "rfStatewide": false,
     "name": "Cellesche Zeitung",
     "type": "print",
-    "controlDate": "2025-10-13T08:45:02.835Z",
+    "controlDate": "2026-04-16T13:21:23.573Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80753,7 +80753,7 @@
     "rfStatewide": false,
     "name": "Freie Presse",
     "type": "print",
-    "controlDate": "2025-10-13T09:39:05.785Z",
+    "controlDate": "2026-04-16T13:50:41.775Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -91363,7 +91363,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T13:16:10.874Z",
+    "controlDate": "2026-04-16T13:45:28.082Z",
     "state": "active"
   },
   {
@@ -98951,7 +98951,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T09:29:48.457Z",
+    "controlDate": "2026-04-16T13:45:05.067Z",
     "state": "active"
   },
   {
@@ -100332,7 +100332,7 @@
     "rfStatewide": false,
     "name": "chilli - Das Freiburger Stadtmagazin",
     "type": "print",
-    "controlDate": "2025-10-13T09:42:01.394Z",
+    "controlDate": "2026-04-16T13:59:47.388Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103701,7 +103701,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T09:29:38.083Z",
+    "controlDate": "2026-04-16T13:45:18.141Z",
     "state": "active"
   },
   {
@@ -116564,7 +116564,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T09:42:21.142Z",
+    "controlDate": "2026-04-16T14:00:10.746Z",
     "state": "active"
   },
   {
@@ -118681,7 +118681,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T09:39:21.514Z",
+    "controlDate": "2026-04-16T13:50:48.382Z",
     "state": "active"
   },
   {
@@ -118885,7 +118885,7 @@
     "name": "www.christlichesradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T10:48:02.155Z",
+    "controlDate": "2026-04-16T14:04:15.789Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122164,7 +122164,7 @@
     "name": "CZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T08:44:49.172Z",
+    "controlDate": "2026-04-16T13:21:11.703Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -123233,7 +123233,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T08:45:14.675Z",
+    "controlDate": "2026-04-16T13:21:36.025Z",
     "state": "active"
   },
   {
@@ -125593,7 +125593,7 @@
     "name": "www.antennepulheim.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T09:07:54.326Z",
+    "controlDate": "2026-04-16T13:25:56.507Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133860,7 +133860,7 @@
     "name": "www.channel21.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:24:46.805Z",
+    "controlDate": "2026-04-16T13:34:47.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152499,7 +152499,7 @@
     "name": "4family",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T09:41:33.258Z",
+    "controlDate": "2026-04-16T13:59:17.543Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152826,7 +152826,7 @@
     "name": "bib business im Breisgau",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T09:41:52.938Z",
+    "controlDate": "2026-04-16T13:59:37.940Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153102,7 +153102,7 @@
     "name": "f79",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T09:42:14.180Z",
+    "controlDate": "2026-04-16T14:00:02.526Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162793,7 +162793,7 @@
     "name": "Lust auf Regio",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T09:41:44.179Z",
+    "controlDate": "2026-04-16T13:59:29.061Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

@@ -27455,7 +27455,7 @@
     "name": "Cellesche Zeitung Schweiger & Pick Verlag Pfingsten GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1830-46a1-ac52-73c3fa740a75",
-    "controlDate": "2025-10-13T08:36:16.733Z",
+    "controlDate": "2026-04-16T13:21:01.932Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58002,7 +58002,7 @@
     "squuid": "5be1a6b6-2303-4669-b8b2-97959a28316b",
     "name": "Channel21 GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:12:34.870Z",
+    "controlDate": "2026-04-16T13:34:04.282Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -71681,7 +71681,7 @@
     "squuid": "5be1a6b6-72e2-41db-a450-66b439cab218",
     "name": "Channel21 Holding AG",
     "state": "active",
-    "controlDate": "2025-10-13T09:16:48.920Z",
+    "controlDate": "2026-04-16T13:35:09.148Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -102927,7 +102927,7 @@
     "squuid": "5eb2e68f-75ca-42ab-9976-bd4a90c7f395",
     "name": "CHE KG",
     "state": "active",
-    "controlDate": "2025-10-13T09:21:05.686Z",
+    "controlDate": "2026-04-16T13:37:51.414Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -131523,6 +131523,19 @@
     ]
   },
   {
+    "squuid": "69e0e0e7-10fb-4abe-aa5f-9ea99e1527df",
+    "name": "Romanek-Pfahler, Stefanie",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "state": "active",
     "name": "Betriebsgesellschaft Radio Duisburg mbH & Co. KG",
     "limitedPartnership": true,
@@ -144806,7 +144819,7 @@
     "squuid": "5d2df2c5-8330-4a2c-b0bd-d89e069d378c",
     "name": "Checkout Charlie GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:22:02.717Z",
+    "controlDate": "2026-04-16T13:40:02.572Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176630,7 +176643,7 @@
     "squuid": "5ebbff38-f9b1-47fa-a4f7-8d42b86cefb7",
     "name": "Cellesche Zeitung Schweiger & Pick Verlag Pfingsten Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T08:06:47.058Z",
+    "controlDate": "2026-04-16T13:12:39.029Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -181376,7 +181389,7 @@
     "squuid": "5f182233-100e-4066-a16a-c3a3bbfbeeb1",
     "name": "Central FM Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:07:41.476Z",
+    "controlDate": "2026-04-16T13:24:18.429Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199405,7 +199418,7 @@
     "squuid": "63d7d047-2a44-452b-9677-3a85bfd73c03",
     "name": "Celler und Wolfsburger Kurier-Beteiligungs GbR",
     "state": "active",
-    "controlDate": "2025-10-13T08:06:24.682Z",
+    "controlDate": "2026-04-16T13:11:42.531Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220663,7 +220676,7 @@
     "name": "Chemnitzer Verlag und Druck GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-cfcd-42de-a2aa-c349ee9aa887",
-    "controlDate": "2025-10-13T09:38:52.590Z",
+    "controlDate": "2026-04-16T13:50:20.208Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237476,7 +237489,7 @@
     "squuid": "5be1a6b6-7126-47df-ab9a-ec8d3850f579",
     "name": "Chefkoch GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:32:41.357Z",
+    "controlDate": "2026-04-16T13:42:30.369Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238766,7 +238779,7 @@
     "squuid": "5be1a6b6-d3e1-44ad-9c61-eb33f4967af2",
     "name": "chilli Freiburg GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:41:19.131Z",
+    "controlDate": "2026-04-16T13:55:49.100Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -297913,7 +297926,7 @@
     "squuid": "5be1a6b6-024f-4de0-bf3e-9f19ed79c320",
     "name": "Cerberus Capital Management, L.P.",
     "state": "active",
-    "controlDate": "2025-10-13T09:11:49.894Z",
+    "controlDate": "2026-04-16T13:32:34.661Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -307037,7 +307050,7 @@
     "squuid": "5f05927c-cd52-45da-8e94-7482276d4bae",
     "name": "CHECK24 GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T09:21:31.763Z",
+    "controlDate": "2026-04-16T13:39:40.643Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
