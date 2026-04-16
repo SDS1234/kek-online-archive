@@ -6118,7 +6118,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-10T09:04:48.431Z",
+    "controlDate": "2026-04-16T08:47:24.888Z",
     "state": "active"
   },
   {
@@ -8555,7 +8555,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-10T09:03:58.284Z",
+    "controlDate": "2026-04-16T08:47:17.250Z",
     "state": "active"
   },
   {
@@ -17578,7 +17578,7 @@
     "rfStatewide": false,
     "name": "Wohnen - Ideen für Ihr Zuhause",
     "type": "print",
-    "controlDate": "2025-10-13T10:36:56.392Z",
+    "controlDate": "2026-04-16T10:06:09.629Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17602,7 +17602,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T10:38:01.505Z",
+    "controlDate": "2026-04-16T10:06:18.248Z",
     "state": "active"
   },
   {
@@ -28677,7 +28677,7 @@
     "name": "www.radiolotte.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T10:16:04.610Z",
+    "controlDate": "2026-04-16T08:54:50.547Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71590,7 +71590,7 @@
     "rfStatewide": false,
     "name": "Segeberger Zeitung",
     "type": "print",
-    "controlDate": "2025-10-13T10:32:49.249Z",
+    "controlDate": "2026-04-16T09:29:16.163Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79927,7 +79927,7 @@
     "rfStatewide": false,
     "name": "Altmark-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-23T12:36:36.074Z",
+    "controlDate": "2026-04-16T09:09:09.004Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79947,7 +79947,7 @@
     "rfStatewide": false,
     "name": "Allgemeine Zeitung (Uelzen)",
     "type": "print",
-    "controlDate": "2025-10-23T12:31:43.534Z",
+    "controlDate": "2026-04-16T09:09:00.441Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80175,7 +80175,7 @@
     "rfStatewide": false,
     "name": "Schaumburger Zeitung",
     "type": "print",
-    "controlDate": "2025-10-13T10:24:38.290Z",
+    "controlDate": "2026-04-16T09:16:39.815Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80195,7 +80195,7 @@
     "rfStatewide": false,
     "name": "Schaumburg-Lippische Landes-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-13T10:24:27.573Z",
+    "controlDate": "2026-04-16T09:16:28.920Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96182,7 +96182,7 @@
     "rfStatewide": false,
     "name": "Der Aktionär",
     "type": "print",
-    "controlDate": "2025-10-10T09:02:51.379Z",
+    "controlDate": "2026-04-16T08:46:51.026Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98755,7 +98755,7 @@
     "name": "www.altmark-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T10:19:07.989Z",
+    "controlDate": "2026-04-16T09:09:41.066Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -101822,7 +101822,7 @@
     "rfStatewide": false,
     "name": "Euro",
     "type": "print",
-    "controlDate": "2025-10-10T09:03:15.850Z",
+    "controlDate": "2026-04-16T08:46:58.098Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101843,7 +101843,7 @@
     "rfStatewide": false,
     "name": "Euro am Sonntag",
     "type": "print",
-    "controlDate": "2025-10-10T09:03:24.623Z",
+    "controlDate": "2026-04-16T08:47:06.220Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102474,7 +102474,7 @@
     "rfStatewide": false,
     "name": "Börse online",
     "type": "print",
-    "controlDate": "2025-10-10T09:02:00.403Z",
+    "controlDate": "2026-04-16T08:46:37.316Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112812,7 +112812,7 @@
     "name": "www.bw-future.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-10T08:27:37.697Z",
+    "controlDate": "2026-04-16T08:25:33.854Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -121861,7 +121861,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T10:25:00.690Z",
+    "controlDate": "2026-04-16T09:16:55.223Z",
     "state": "active"
   },
   {
@@ -123039,7 +123039,7 @@
     "rfStatewide": false,
     "name": "Isenhagener Kreisblatt",
     "type": "print",
-    "controlDate": "2025-10-13T10:18:09.627Z",
+    "controlDate": "2026-04-16T09:09:20.656Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123081,7 +123081,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T10:19:37.875Z",
+    "controlDate": "2026-04-16T09:09:52.736Z",
     "state": "active"
   },
   {
@@ -125137,7 +125137,7 @@
     "name": "www.altmark-woche.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T10:18:56.433Z",
+    "controlDate": "2026-04-16T09:09:29.227Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132152,7 +132152,7 @@
     "name": "www.byte.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-10T08:36:21.879Z",
+    "controlDate": "2026-04-16T08:29:14.240Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139951,10 +139951,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.frm-tv.de",
+    "name": "www.frm.lokal.studio",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-10T08:53:42.086Z",
+    "controlDate": "2026-04-16T08:42:21.021Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157681,7 +157681,7 @@
     "name": "www.eurams.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-10T09:05:28.499Z",
+    "controlDate": "2026-04-16T08:47:31.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162874,7 +162874,7 @@
     "name": "www.uelzener-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T10:19:48.715Z",
+    "controlDate": "2026-04-16T09:10:02.332Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

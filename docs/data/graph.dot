@@ -10497,7 +10497,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="68fb5067-4639-4f4b-a9ca-f27fb2cf2c05"
-    in_degree=2
+    in_degree=3
     out_degree=2
   ];
   875 [
@@ -22230,11 +22230,11 @@ digraph {
     label="BZ.medien GmbH & Co KG"
     num_owners=7
     num_owners_weighted=5.3765
-    num_medias=19
-    num_medias_weighted=12.1815
+    num_medias=21
+    num_medias_weighted=13.3378
     name="5be1a6b6-6f79-45c0-9070-3a78ba6dbc51"
     in_degree=5
-    out_degree=6
+    out_degree=7
   ];
   1853 [
     type=shareholder
@@ -22242,7 +22242,7 @@ digraph {
     label="BZ.medien Verwaltungsgesellschaft mbH"
     num_owners=6
     num_owners_weighted=4.2750
-    num_medias=19
+    num_medias=21
     num_medias_weighted=0.0000
     name="5e411b58-e4e2-436f-bf09-0dc62387d565"
     in_degree=2
@@ -34962,8 +34962,8 @@ digraph {
     label="Dreisam Beteiligungsgesellschaft mbH"
     num_owners=5
     num_owners_weighted=4.5000
-    num_medias=19
-    num_medias_weighted=3.9103
+    num_medias=21
+    num_medias_weighted=4.2814
     name="5be1a6b6-10a6-490b-8a80-7af036a55ec7"
     in_degree=1
     out_degree=2
@@ -100254,8 +100254,8 @@ digraph {
     label="Nadja & Wolfgang Poppen GbR"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=19
-    num_medias_weighted=1.9551
+    num_medias=21
+    num_medias_weighted=2.1407
     name="5be1a6b6-3f67-4545-94fd-0639f1bbe6b8"
     in_degree=1
     out_degree=1
@@ -107142,8 +107142,8 @@ digraph {
     label="Ortmann, Klaus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=19
-    num_medias_weighted=1.6071
+    num_medias=21
+    num_medias_weighted=1.7597
     name="5be1a6b6-6203-43c4-8374-ad619daeaeaa"
     in_degree=0
     out_degree=1
@@ -112134,8 +112134,8 @@ digraph {
     label="Poppen & Ortmann Druckerei und Verlag KG"
     num_owners=4
     num_owners_weighted=3.5000
-    num_medias=19
-    num_medias_weighted=3.9103
+    num_medias=21
+    num_medias_weighted=4.2814
     name="5be1a6b6-5e1b-4cfe-aef4-c2532f4ae36d"
     in_degree=4
     out_degree=3
@@ -112146,8 +112146,8 @@ digraph {
     label="Poppen, Nadja"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=19
-    num_medias_weighted=0.6960
+    num_medias=21
+    num_medias_weighted=0.7621
     name="5be1a6b6-d6cd-42af-8a65-ce091afe8e65"
     in_degree=0
     out_degree=3
@@ -112158,8 +112158,8 @@ digraph {
     label="Poppen, Wolfgang"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=19
-    num_medias_weighted=0.6516
+    num_medias=21
+    num_medias_weighted=0.7135
     name="5be1a6b6-7580-41e1-b4db-8c1d9ad1a1b6"
     in_degree=0
     out_degree=4
@@ -181983,7 +181983,7 @@ digraph {
   15165 [
     type=online
     state=active
-    label="www.frm-tv.de"
+    label="www.frm.lokal.studio"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=0
@@ -219781,8 +219781,12 @@ digraph {
     weight=100
     type=operates
   ];
+  1852 -> 874 [
+    weight=15.9
+    type=owns
+  ];
   1852 -> 875 [
-    weight=83.3
+    weight=100
     type=owns
   ];
   1852 -> 876 [
