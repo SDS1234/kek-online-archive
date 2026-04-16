@@ -11818,7 +11818,7 @@
     "rfStatewide": false,
     "name": "Radfahren",
     "type": "print",
-    "controlDate": "2025-10-10T08:15:51.907Z",
+    "controlDate": "2026-04-16T08:18:40.080Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11839,7 +11839,7 @@
     "rfStatewide": false,
     "name": "RadMarkt",
     "type": "print",
-    "controlDate": "2025-10-10T08:15:29.872Z",
+    "controlDate": "2026-04-16T08:18:30.843Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11860,7 +11860,7 @@
     "rfStatewide": false,
     "name": "ElektroRad",
     "type": "print",
-    "controlDate": "2025-10-10T08:15:07.757Z",
+    "controlDate": "2026-04-16T08:18:21.246Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11926,7 +11926,7 @@
     "rfStatewide": false,
     "name": "RennRad",
     "type": "print",
-    "controlDate": "2025-10-10T08:16:14.176Z",
+    "controlDate": "2026-04-16T08:18:48.974Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11950,7 +11950,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-10T08:16:52.399Z",
+    "controlDate": "2026-04-16T08:18:58.706Z",
     "state": "active"
   },
   {
@@ -12028,7 +12028,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-10T08:17:05.215Z",
+    "controlDate": "2026-04-16T08:19:06.105Z",
     "state": "active"
   },
   {
@@ -20353,7 +20353,7 @@
     "name": "www.huffingtonpost.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-10T07:55:47.917Z",
+    "controlDate": "2026-04-16T08:15:42.369Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24038,7 +24038,7 @@
     "name": "www.esquire.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:50:40.226Z",
+    "controlDate": "2026-04-16T07:46:44.464Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24223,7 +24223,7 @@
     "name": "Esquire",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-24T12:22:17.719Z",
+    "controlDate": "2026-04-16T07:45:28.981Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82510,7 +82510,7 @@
     "rfStatewide": false,
     "name": "Elle",
     "type": "print",
-    "controlDate": "2025-10-08T11:51:49.622Z",
+    "controlDate": "2026-04-16T07:44:49.499Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82531,7 +82531,7 @@
     "rfStatewide": false,
     "name": "Elle Decoration",
     "type": "print",
-    "controlDate": "2025-10-24T12:20:38.510Z",
+    "controlDate": "2026-04-16T07:44:58.491Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82552,7 +82552,7 @@
     "rfStatewide": false,
     "name": "Harper's Bazaar",
     "type": "print",
-    "controlDate": "2025-10-24T12:22:25.887Z",
+    "controlDate": "2026-04-16T07:45:37.266Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82576,7 +82576,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-20T13:41:14.467Z",
+    "controlDate": "2026-04-16T07:46:52.991Z",
     "state": "active"
   },
   {
@@ -82594,7 +82594,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-04-30T14:15:45.247Z",
+    "controlDate": "2026-04-16T07:46:35.984Z",
     "state": "active"
   },
   {
@@ -84274,7 +84274,7 @@
     "rfStatewide": false,
     "name": "Business Punk",
     "type": "print",
-    "controlDate": "2025-06-29T13:16:40.050Z",
+    "controlDate": "2026-04-16T08:04:36.254Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91166,7 +91166,7 @@
     "name": "Elle Traveller",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-24T12:22:05.304Z",
+    "controlDate": "2026-04-16T07:45:14.997Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126836,7 +126836,7 @@
     "name": "Elle Spirit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-24T12:21:32.489Z",
+    "controlDate": "2026-04-16T07:45:07.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158915,7 +158915,7 @@
     "name": "www.business-punk.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:11:47.177Z",
+    "controlDate": "2026-04-16T08:04:44.595Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

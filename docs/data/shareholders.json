@@ -8932,7 +8932,7 @@
     "squuid": "5be1a6b6-b032-4c21-b688-486e01ca11bd",
     "name": "Burda Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-10-08T11:46:11.839Z",
+    "controlDate": "2026-04-16T07:41:10.883Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -51516,7 +51516,7 @@
     "squuid": "5be1a6b6-b8a8-401d-b86c-7cd4fa678516",
     "name": "Burg Schwarzenstein GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-10T07:43:56.269Z",
+    "controlDate": "2026-04-16T07:54:52.776Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -83187,6 +83187,19 @@
     "squuid": "638dd830-9367-4c0d-9930-79b90cdde145",
     "name": "Blum, Alexander",
     "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e09910-55e8-442b-b351-92732a71cec6",
+    "name": "Advanced BIZ GmbH",
+    "state": "active",
+    "controlDate": "2026-04-16T08:10:57.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155114,7 +155127,7 @@
     "squuid": "5eba9035-f332-4601-b69e-f43054a4484a",
     "name": "BVA Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-04-30T15:08:52.215Z",
+    "controlDate": "2026-04-16T08:17:13.182Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193733,7 +193746,7 @@
     "squuid": "5f1aa17b-0a12-489a-b610-1ab363bb8e19",
     "name": "Burg Schwarzenstein Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-10T07:43:43.290Z",
+    "controlDate": "2026-04-16T07:51:18.751Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196141,7 +196154,7 @@
     "squuid": "5d384c6c-1c32-48d0-b771-cf0b4671bd14",
     "name": "BURGER HOLDING GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-10T07:45:31.590Z",
+    "controlDate": "2026-04-16T07:59:02.280Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -222076,7 +222089,7 @@
     "squuid": "5be1a6b6-3496-4989-acc7-550ba289e334",
     "name": "Burda Hearst Publishing GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T11:51:36.090Z",
+    "controlDate": "2026-04-16T07:42:07.076Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231290,7 +231303,7 @@
     "squuid": "5d35d1f2-0d87-4512-b49f-00d20f187536",
     "name": "BuzzFeed Inc.",
     "state": "active",
-    "controlDate": "2025-10-10T07:55:41.116Z",
+    "controlDate": "2026-04-16T08:15:35.417Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -252370,7 +252383,7 @@
     "squuid": "5be1a6b6-452a-46a5-8ba5-98fe2cad14b2",
     "name": "BVA BikeMedia GmbH",
     "state": "active",
-    "controlDate": "2025-10-10T08:04:25.996Z",
+    "controlDate": "2026-04-16T08:17:26.190Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -302543,7 +302556,7 @@
     "squuid": "5e42a36c-1750-42bf-a3d1-1a91e77146a2",
     "name": "Burger Management GmbH",
     "state": "active",
-    "controlDate": "2025-10-10T07:45:53.042Z",
+    "controlDate": "2026-04-16T07:59:11.822Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -303431,7 +303444,7 @@
     "squuid": "61def0bd-ccf9-4395-92cf-6c4da661c674",
     "name": "Burda Digital SE",
     "state": "active",
-    "controlDate": "2025-04-30T13:47:02.407Z",
+    "controlDate": "2026-04-16T07:41:41.613Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -303562,7 +303575,7 @@
     "squuid": "68dba760-be9b-4c4a-abcd-de5c7a5abaf6",
     "name": "Business Punk GmbH",
     "state": "active",
-    "controlDate": "2025-09-30T09:52:01.649Z",
+    "controlDate": "2026-04-16T08:04:28.352Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
