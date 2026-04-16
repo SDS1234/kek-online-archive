@@ -9780,7 +9780,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-09T09:36:45.391Z",
+    "controlDate": "2026-04-16T10:31:37.685Z",
     "state": "active"
   },
   {
@@ -9949,7 +9949,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 5,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-bf07-475e-b3db-105a895f96d8",
     "organization": {
@@ -9960,7 +9960,7 @@
     "rfStatewide": false,
     "name": "Focus Style",
     "type": "print",
-    "controlDate": "2026-02-02T10:11:00.198Z",
+    "controlDate": "2026-04-16T10:50:10.005Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9981,7 +9981,7 @@
     "rfStatewide": false,
     "name": "Focus Gesundheit",
     "type": "print",
-    "controlDate": "2026-02-02T10:10:03.300Z",
+    "controlDate": "2026-04-16T10:40:04.052Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10152,7 +10152,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-18T12:31:19.223Z",
+    "controlDate": "2026-04-16T10:33:20.385Z",
     "state": "active"
   },
   {
@@ -36832,6 +36832,26 @@
     }
   },
   {
+    "pressPublishingIntervals": 3,
+    "state": "active",
+    "squuid": "69e0bf05-fc79-4cca-9ebd-3177f2986423",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Focus Business",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-04-16T10:51:01.619Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Wirtschaft"
+  },
+  {
     "state": "active",
     "squuid": "5d35a05a-c7a1-4230-b5b9-23be0de64508",
     "organization": {
@@ -37226,6 +37246,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "pressPublishingIntervals": 4,
+    "state": "active",
+    "squuid": "69e0c5f8-54d3-44a0-83c6-78323567d2ab",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Bunte Royal",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-04-16T11:20:32.257Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Frauen"
   },
   {
     "state": "active",
@@ -49011,7 +49051,7 @@
     "name": "www.focusbusiness.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T14:20:07.917Z",
+    "controlDate": "2026-04-16T10:41:52.867Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85465,7 +85505,7 @@
     "rfStatewide": false,
     "name": "Cinema",
     "type": "print",
-    "controlDate": "2026-01-07T12:15:56.525Z",
+    "controlDate": "2026-04-16T10:29:27.495Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85489,7 +85529,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-18T12:27:33.593Z",
+    "controlDate": "2026-04-16T10:30:32.581Z",
     "state": "active"
   },
   {
@@ -86939,7 +86979,7 @@
     "name": "Wirtschaft in Bremen und Bremerhaven",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-13T10:46:21.781Z",
+    "controlDate": "2026-04-16T10:13:08.937Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88568,7 +88608,7 @@
     "rfStatewide": false,
     "name": "Focus",
     "type": "print",
-    "controlDate": "2026-02-02T10:09:09.401Z",
+    "controlDate": "2026-04-16T10:38:14.707Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88592,7 +88632,7 @@
     "rfStatewide": false,
     "name": "Focus Money",
     "type": "print",
-    "controlDate": "2026-02-02T10:10:09.558Z",
+    "controlDate": "2026-04-16T10:40:17.355Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88616,7 +88656,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-19T14:19:55.278Z",
+    "controlDate": "2026-04-16T10:41:19.755Z",
     "state": "active"
   },
   {
@@ -91531,7 +91571,7 @@
     "rfStatewide": false,
     "name": "Frau im Trend",
     "type": "print",
-    "controlDate": "2026-02-02T10:46:08.837Z",
+    "controlDate": "2026-04-16T11:07:39.403Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91659,7 +91699,7 @@
     "rfStatewide": false,
     "name": "Frau im Trend Wohnen und Wohlfühlen",
     "type": "print",
-    "controlDate": "2026-02-02T10:46:17.495Z",
+    "controlDate": "2026-04-16T11:07:47.132Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91824,7 +91864,7 @@
     "rfStatewide": false,
     "name": "Bunte",
     "type": "print",
-    "controlDate": "2025-10-08T13:19:33.013Z",
+    "controlDate": "2026-04-16T10:24:21.521Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91869,7 +91909,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-08T13:21:32.841Z",
+    "controlDate": "2026-04-16T10:26:25.745Z",
     "state": "active"
   },
   {
@@ -91989,7 +92029,7 @@
     "rfStatewide": false,
     "name": "Das Haus",
     "type": "print",
-    "controlDate": "2026-02-02T15:27:34.389Z",
+    "controlDate": "2026-04-16T10:30:54.988Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96301,7 +96341,7 @@
     "rfStatewide": false,
     "name": "Chip",
     "type": "print",
-    "controlDate": "2026-01-30T11:34:41.675Z",
+    "controlDate": "2026-04-16T11:37:01.847Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96345,7 +96385,7 @@
     "rfStatewide": false,
     "name": "Chip Foto Video",
     "type": "print",
-    "controlDate": "2026-01-30T11:35:27.430Z",
+    "controlDate": "2026-04-16T11:37:15.568Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96409,7 +96449,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-18T12:25:49.375Z",
+    "controlDate": "2026-04-16T11:39:49.694Z",
     "state": "active"
   },
   {
@@ -103494,7 +103534,7 @@
     "rfStatewide": false,
     "name": "das schmeckt!",
     "type": "print",
-    "controlDate": "2025-07-09T06:48:25.993Z",
+    "controlDate": "2026-04-16T10:34:14.755Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -125341,7 +125381,7 @@
     "name": "www.focus-mobility.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T14:17:02.574Z",
+    "controlDate": "2026-04-16T11:04:49.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129896,7 +129936,7 @@
     "name": "www.einfachbacken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:48:09.841Z",
+    "controlDate": "2026-04-16T10:37:17.317Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138232,7 +138272,7 @@
     "name": "www.focus-gesundheit.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T14:19:47.078Z",
+    "controlDate": "2026-04-16T10:41:36.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144110,7 +144150,7 @@
     "name": "www.forourplanet.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T14:22:09.929Z",
+    "controlDate": "2026-04-16T11:22:37.778Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145914,7 +145954,7 @@
     "name": "www.cnn.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T10:42:58.189Z",
+    "controlDate": "2026-04-16T10:08:09.951Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151577,7 +151617,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 3,
+    "pressPublishingIntervals": 5,
     "state": "active",
     "squuid": "612f9b4e-3892-4457-a1c7-b46c37c49802",
     "organization": {
@@ -151585,16 +151625,16 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Focus E-Bike",
+    "name": "Focus Mobility",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-02-02T10:09:52.103Z",
+    "controlDate": "2026-04-16T11:05:24.508Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
-    "pressKind": "Sport"
+    "pressKind": "Motor"
   },
   {
     "state": "active",
@@ -151857,7 +151897,7 @@
     "name": "www.einfachkochen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:48:31.248Z",
+    "controlDate": "2026-04-16T10:37:24.356Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160293,7 +160333,7 @@
     "name": "www.eatbetter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:15:09.667Z",
+    "controlDate": "2026-04-16T10:37:01.051Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160820,7 +160860,7 @@
     "name": "Bunte Gesundheit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T13:19:41.576Z",
+    "controlDate": "2026-04-16T10:26:17.125Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

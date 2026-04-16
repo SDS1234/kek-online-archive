@@ -1,0 +1,24 @@
+{
+  "name": "Kouneli Holding GmbH",
+  "squuid": "69e0cd3a-30ec-4b0c-b8e2-fc0508fdea5f",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Five Monkeys Media GmbH",
+        "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055"
+      },
+      "squuid": "69e0cd68-6319-4e8d-b2f1-6dc279734c1f",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ]
+}

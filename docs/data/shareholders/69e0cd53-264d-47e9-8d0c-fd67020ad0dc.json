@@ -1,0 +1,24 @@
+{
+  "name": "New C. GmbH & Co. KG",
+  "squuid": "69e0cd53-264d-47e9-8d0c-fd67020ad0dc",
+  "owns": [
+    {
+      "type": "own",
+      "capitalShares": 40.0,
+      "held": {
+        "name": "Five Monkeys Media GmbH",
+        "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055"
+      },
+      "squuid": "69e0cd73-d270-417c-87cd-52df820fd13e",
+      "state": "active"
+    }
+  ],
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  ]
+}

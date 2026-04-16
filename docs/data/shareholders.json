@@ -79916,7 +79916,7 @@
     "squuid": "5be1a6b6-00b6-44cf-9ceb-11c3e85d9c66",
     "name": "Capital World Investors",
     "state": "active",
-    "controlDate": "2025-10-13T10:44:59.774Z",
+    "controlDate": "2026-04-16T10:10:00.111Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89120,7 +89120,7 @@
     "squuid": "5be1a6b6-7007-41df-ab4e-ed7f52e8f110",
     "name": "Capital Group Companies, Inc.",
     "state": "active",
-    "controlDate": "2025-10-13T10:44:46.111Z",
+    "controlDate": "2026-04-16T10:09:46.958Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -111401,6 +111401,39 @@
     ]
   },
   {
+    "squuid": "69e0c9ab-ca2f-44b2-8189-7fd7f6c8a055",
+    "name": "Five Monkeys Media GmbH",
+    "state": "active",
+    "controlDate": "2026-04-16T11:45:05.593Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69e0c9c7-df2f-4171-8d26-6075e7dd37fb",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4414-4c4c-933f-30a7e06a4a38",
+          "name": "Chip"
+        }
+      },
+      {
+        "squuid": "69e0c9fb-08d8-409a-a0f4-4e7a3ecc66df",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-35f3-4951-a7fe-1bdcc7f0e3ac",
+          "name": "Chip Foto Video"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-e91a-487b-b5ce-4d2a53a28971",
     "name": "Kreh, Dietrich",
     "state": "active",
@@ -115676,6 +115709,18 @@
     ]
   },
   {
+    "squuid": "69e0cd29-0270-4c5f-9833-1ecc2002327d",
+    "name": "Laube, Andreas",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-ced6-45b6-9189-d98637135b7b",
     "name": "Merz, Esther",
     "state": "active",
@@ -115841,6 +115886,18 @@
     ]
   },
   {
+    "squuid": "69e0cd3a-30ec-4b0c-b8e2-fc0508fdea5f",
+    "name": "Kouneli Holding GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-3bbf-4e70-bef7-1b6e0e7b7f99",
     "name": "Stilz, Leoni",
     "state": "active",
@@ -115946,6 +116003,18 @@
         "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
         "name": "TLM",
         "fullName": "Thüringer Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e0cd53-264d-47e9-8d0c-fd67020ad0dc",
+    "name": "New C. GmbH & Co. KG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -125288,7 +125357,7 @@
     "name": "Carl Ed. Schünemann KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6ce-4271-92cc-4acc73d12362",
-    "controlDate": "2025-10-13T10:46:11.989Z",
+    "controlDate": "2026-04-16T10:11:58.019Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -151336,7 +151405,7 @@
     "squuid": "64a55db2-df0b-4b07-ad58-907657c52248",
     "name": "Capfi Delen Asset Management N.V.",
     "state": "active",
-    "controlDate": "2025-10-13T10:44:04.441Z",
+    "controlDate": "2026-04-16T10:09:18.711Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156561,7 +156630,7 @@
     "squuid": "64ca706c-4897-4a38-ba11-80bb821b4845",
     "name": "Carlsen Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T10:52:00.595Z",
+    "controlDate": "2026-04-16T10:17:32.856Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196938,7 +197007,7 @@
     "squuid": "5d384e9f-4671-4446-86d5-26da1f63943c",
     "name": "Carl-Heinz Scholz GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-13T10:51:34.763Z",
+    "controlDate": "2026-04-16T10:17:18.463Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -216656,7 +216725,7 @@
     "squuid": "61deb085-066b-41f2-88bc-6c2579783382",
     "name": "Carl-Heinz Scholz Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T10:51:27.916Z",
+    "controlDate": "2026-04-16T10:17:11.247Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230045,7 +230114,7 @@
     "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc",
     "name": "BurdaVerlag Publishing GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T12:41:08.142Z",
+    "controlDate": "2026-04-16T11:24:34.205Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230591,7 +230660,7 @@
         "state": "active",
         "held": {
           "squuid": "612f9b4e-3892-4457-a1c7-b46c37c49802",
-          "name": "Focus E-Bike"
+          "name": "Focus Mobility"
         }
       },
       {
@@ -230646,6 +230715,24 @@
         "held": {
           "squuid": "5be1a6b1-2702-4bf2-a82f-e28ad889fcc4",
           "name": "www.superillu.de"
+        }
+      },
+      {
+        "squuid": "69e0bf5d-6566-4c2b-a4eb-a92ea784f876",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69e0bf05-fc79-4cca-9ebd-3177f2986423",
+          "name": "Focus Business"
+        }
+      },
+      {
+        "squuid": "69e0c638-ba52-43c3-8355-369da6231fd6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69e0c5f8-54d3-44a0-83c6-78323567d2ab",
+          "name": "Bunte Royal"
         }
       }
     ]
@@ -236211,7 +236298,7 @@
     "squuid": "5d35d9f2-8f00-45a3-9796-51a3da6cc9ad",
     "name": "Cable News Network Inc.",
     "state": "active",
-    "controlDate": "2025-10-13T10:42:51.776Z",
+    "controlDate": "2026-04-16T10:08:05.231Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -269342,7 +269429,7 @@
     "squuid": "5be1a6b6-12c8-49ad-aa5e-d729cef65012",
     "name": "Carl Hinnerwisch Verlag GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-10-13T10:47:05.550Z",
+    "controlDate": "2026-04-16T10:15:01.308Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -275443,7 +275530,7 @@
     "squuid": "5be1a6b6-8d52-4f03-8cf4-f017f535f744",
     "name": "BurdaForward GmbH",
     "state": "active",
-    "controlDate": "2025-10-08T11:52:24.424Z",
+    "controlDate": "2026-04-16T11:24:56.740Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275513,24 +275600,6 @@
         "held": {
           "squuid": "5be1a6b1-cd3d-4cdd-be9a-f15cb835fa45",
           "name": "www.chip.de"
-        }
-      },
-      {
-        "squuid": "614dbc2d-e11c-479e-9bb0-f85a6e40dc7a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4414-4c4c-933f-30a7e06a4a38",
-          "name": "Chip"
-        }
-      },
-      {
-        "squuid": "614dbc4d-728f-4a82-9d28-1a6c7e8e3e89",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-35f3-4951-a7fe-1bdcc7f0e3ac",
-          "name": "Chip Foto Video"
         }
       },
       {
@@ -305263,7 +305332,7 @@
     "squuid": "5f1804ee-2485-4f43-a964-c8d1d85e7c90",
     "name": "Caltagirone S.p.A.",
     "state": "active",
-    "controlDate": "2025-05-05T08:52:02.275Z",
+    "controlDate": "2026-04-16T10:08:33.154Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
