@@ -14766,7 +14766,7 @@
     "squuid": "5be97d05-6cc9-49f7-aca1-9bfb2cecb386",
     "name": "CATO Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T11:03:49.511Z",
+    "controlDate": "2026-04-16T12:29:14.486Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -115889,6 +115889,7 @@
     "squuid": "69e0cd3a-30ec-4b0c-b8e2-fc0508fdea5f",
     "name": "Kouneli Holding GmbH",
     "state": "active",
+    "controlDate": "2026-04-16T12:00:27.108Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -116011,6 +116012,8 @@
     "squuid": "69e0cd53-264d-47e9-8d0c-fd67020ad0dc",
     "name": "New C. GmbH & Co. KG",
     "state": "active",
+    "controlDate": "2026-04-16T12:06:35.957Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118676,6 +118679,30 @@
     ]
   },
   {
+    "squuid": "69e0cf76-a647-461b-9501-cb58a8ce2634",
+    "name": "Kouneli Sports GmbH",
+    "state": "active",
+    "controlDate": "2026-04-16T12:03:48.677Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69e0cfc1-5bce-4dbc-a68b-aa0ea479ecf4",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69e0cf81-3a86-408e-96c9-693b437e668e",
+          "name": "Pace"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-8f9b-40d2-bbd2-1dcb8b2fa200",
     "name": "Spiga, Davide",
     "state": "active",
@@ -120417,6 +120444,18 @@
     ]
   },
   {
+    "squuid": "69e0d1d3-51f1-4113-9d3e-de5a7ebcb4e4",
+    "name": "Lorenz, Wolf Benjamin",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-6ef4-453b-98a7-2c607186ae27",
     "name": "Rapp, Dr. Johanna",
     "state": "active",
@@ -120551,6 +120590,18 @@
     ]
   },
   {
+    "squuid": "69e0d1fa-f1e5-466b-9381-aa946c199a40",
+    "name": "Schuster, Florian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-3808-4b59-9b08-53fa47ee0670",
     "name": "Schiffmann, Annette",
     "state": "active",
@@ -120636,6 +120687,18 @@
     "name": "Audible, Inc.",
     "state": "active",
     "controlDate": "2026-04-10T10:41:33.799Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e0d21b-f92e-4f2d-b92e-607477cc7b8e",
+    "name": "Steinberg, Leonhard",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -121162,6 +121225,18 @@
     ]
   },
   {
+    "squuid": "69e0d193-043e-42c5-af71-9d8f884d5881",
+    "name": "infomax 21 GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-b41d-43eb-a8aa-2164bf126e9e",
     "name": "Augstein, Maria Sabine",
     "state": "active",
@@ -121248,6 +121323,18 @@
         "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
         "name": "MA HSH",
         "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e0d1ad-4528-4fcf-86d7-867414a6235b",
+    "name": "Heinen, Wolfgang",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -187983,7 +188070,7 @@
     "squuid": "5f196adc-faf5-4dc2-8f2f-447eae686e8b",
     "name": "CCM Immobilien GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T11:07:58.460Z",
+    "controlDate": "2026-04-16T13:06:07.133Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -188288,7 +188375,7 @@
     "squuid": "5de77f74-129f-40c7-bcf1-f782ddc4c838",
     "name": "CCG-Commercial Coordination Germany GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T11:06:28.283Z",
+    "controlDate": "2026-04-16T13:02:48.763Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219528,7 +219615,7 @@
     "squuid": "5d35ca95-2cf6-42dd-b6dd-f3ab8345aade",
     "name": "CBS Interactive Inc.",
     "state": "active",
-    "controlDate": "2025-10-13T11:05:18.029Z",
+    "controlDate": "2026-04-16T12:36:37.762Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221395,7 +221482,7 @@
     "squuid": "5d35cbc3-4352-473e-a9b6-97835377d88b",
     "name": "CBS Corp.",
     "state": "active",
-    "controlDate": "2025-10-13T11:05:07.684Z",
+    "controlDate": "2026-04-16T12:36:27.669Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232255,7 +232342,7 @@
     "squuid": "5be1a6b6-0330-43a4-8a16-b7e0a40bb0d1",
     "name": "Cash. Medien AG",
     "state": "active",
-    "controlDate": "2025-10-13T10:53:45.033Z",
+    "controlDate": "2026-04-16T12:27:04.589Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243544,7 +243631,7 @@
     "squuid": "5be1a6b6-095d-490b-afb5-58223ad8ec75",
     "name": "Celebrity News AG",
     "state": "active",
-    "controlDate": "2025-10-13T11:08:18.768Z",
+    "controlDate": "2026-04-16T13:07:56.448Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258671,7 +258758,7 @@
     "squuid": "5be1a6b6-ef99-4462-ba31-8059f10de5e9",
     "name": "Cash. Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T10:53:34.143Z",
+    "controlDate": "2026-04-16T12:24:37.311Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274894,7 +274981,7 @@
     "squuid": "5be1a6b6-7641-43e7-b7e4-3c2e3d462b4b",
     "name": "Catsima Inc.",
     "state": "active",
-    "controlDate": "2025-10-13T11:04:45.862Z",
+    "controlDate": "2026-04-16T12:36:08.985Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

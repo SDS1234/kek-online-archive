@@ -1,5 +1,5 @@
 {
-  "pressPublishingIntervals": 6,
+  "pressPublishingIntervals": 4,
   "state": "active",
   "pressMagazineType": {
     "squuid": "5be1a6b0-bff8-40db-a254-72d8fa6d3386",
@@ -7,8 +7,7 @@
     "type": "press-magazine-type",
     "state": "active"
   },
-  "pressAsOfDate": "",
-  "squuid": "5be97c71-2ccf-4d99-8d6f-c1c388548003",
+  "squuid": "69e0cf81-3a86-408e-96c9-693b437e668e",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -18,27 +17,26 @@
     {
       "type": "operate",
       "holder": {
-        "name": "CATO Verlag GmbH",
-        "squuid": "5be97d05-6cc9-49f7-aca1-9bfb2cecb386"
+        "name": "Kouneli Sports GmbH",
+        "squuid": "69e0cf76-a647-461b-9501-cb58a8ce2634"
       },
-      "squuid": "5be97d1a-054c-4f21-b665-697c12ae80cb",
+      "squuid": "69e0cfc1-5bce-4dbc-a68b-aa0ea479ecf4",
       "state": "active"
     }
   ],
-  "name": "CATO ",
+  "name": "Pace",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "pressDistributionArea": "bundesweit",
   "type": "print",
-  "controlDate": "2026-04-16T12:29:23.547Z",
+  "controlDate": "2026-04-16T12:01:15.514Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "pressKind": "Magazine",
-  "pressEditionsComments": "Auflage laut Verlagsangabe",
-  "pressEditionsSold": 10000,
+  "pressKind": "Sport",
+  "pressEditionsComments": "neu seit Frühjahr 2026",
   "pressType": {
     "squuid": "5be1a6b0-8202-4312-8190-cd96a1973f23",
     "name": "Zeitschrift",
