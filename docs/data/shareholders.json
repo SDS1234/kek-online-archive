@@ -8629,7 +8629,7 @@
     "squuid": "5be1a6b6-f5bf-477e-81eb-7e13fe0744b1",
     "name": "CLT-UFA S.A.",
     "state": "active",
-    "controlDate": "2025-10-13T13:07:30.143Z",
+    "controlDate": "2026-04-17T11:02:03.762Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -33443,7 +33443,7 @@
     "name": "Coesfelder Lokalradio Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a6f3-4efe-8c92-bafa1e1d7f29",
-    "controlDate": "2025-10-13T13:15:56.259Z",
+    "controlDate": "2026-04-17T11:08:04.316Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34913,7 +34913,7 @@
     "squuid": "5be1a6b6-af31-4675-bfe5-541d276d90b2",
     "name": "Comcast Corporation",
     "state": "active",
-    "controlDate": "2025-10-13T13:23:12.253Z",
+    "controlDate": "2026-04-17T11:24:44.073Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -39631,7 +39631,7 @@
     "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4",
-    "controlDate": "2025-10-13T12:12:08.544Z",
+    "controlDate": "2026-04-17T10:29:23.687Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -71532,7 +71532,7 @@
     "squuid": "5be1a6b6-dc32-4114-9294-1270b077ded8",
     "name": "ClipMyHorse.TV International GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T13:02:23.187Z",
+    "controlDate": "2026-04-17T10:57:50.460Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -90840,7 +90840,7 @@
     "squuid": "5be1a6b6-d27a-4de0-8da4-3db8933b791b",
     "name": "ClipMyHorse.TV Operations GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T13:02:00.509Z",
+    "controlDate": "2026-04-17T10:53:56.580Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -144382,7 +144382,7 @@
     "squuid": "5efc5719-1fdb-4f1f-b192-5fac53b783ce",
     "name": "Claus Wisser Vermögensverwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T12:57:04.262Z",
+    "controlDate": "2026-04-17T10:49:38.076Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182637,7 +182637,7 @@
     "squuid": "5f183736-01e9-487c-be68-a29d396329fc",
     "name": "CM Media & Event GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T13:13:38.818Z",
+    "controlDate": "2026-04-17T11:07:13.525Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202363,7 +202363,7 @@
     "squuid": "63d7e81d-a65c-405c-a6ad-5e0fd97310b1",
     "name": "Combi Medien Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T13:20:16.091Z",
+    "controlDate": "2026-04-17T11:12:23.048Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205232,7 +205232,7 @@
     "squuid": "5f1edf2d-f0a7-4607-b64a-1e887a66beb5",
     "name": "CityRadio Saarland GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T12:08:28.618Z",
+    "controlDate": "2026-04-17T10:07:14.631Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205284,6 +205284,15 @@
         "held": {
           "squuid": "5f200e7e-e727-441f-a322-1a3d96999937",
           "name": "www.cityradio.saarland/sanktwendel"
+        }
+      },
+      {
+        "squuid": "69e207d4-ec64-42d5-9490-1e611cabcde1",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69e207b8-98be-4cd3-ac33-5a0c845d6e8a",
+          "name": "www.cityradio.saarland"
         }
       }
     ]
@@ -213396,6 +213405,19 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e20910-73f2-4102-8181-7458ab31f0a2",
+    "name": "Attenkofer GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -254672,7 +254694,7 @@
     "squuid": "6123abb7-7056-45e3-987b-ab554892d001",
     "name": "CLT-UFA Germany GmbH",
     "state": "active",
-    "controlDate": "2025-10-13T13:06:35.424Z",
+    "controlDate": "2026-04-17T11:00:50.183Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -263493,7 +263515,7 @@
     "squuid": "5ef9b28e-113a-485b-919c-e67fbbc0b967",
     "name": "Claus Wisser Verwaltungs- und Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-13T12:59:13.961Z",
+    "controlDate": "2026-04-17T10:50:36.325Z",
     "limitedPartnership": true,
     "organizations": [
       {

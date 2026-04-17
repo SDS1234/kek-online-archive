@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "65bd02b0-4790-477d-b3d2-98eb26d31097",
+  "squuid": "69e207b8-98be-4cd3-ac33-5a0c845d6e8a",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Cl. Attenkofer'sche Buch- und Kunstdruckerei Verlagsbuchhandlung Straubing KG",
-        "squuid": "5be1a6b6-f22b-4544-889f-d31615692dc4"
+        "name": "CityRadio Saarland GmbH",
+        "squuid": "5f1edf2d-f0a7-4607-b64a-1e887a66beb5"
       },
-      "squuid": "65bd02cb-e81a-41ca-8896-e4d0f83bc5e6",
+      "squuid": "69e207d4-ec64-42d5-9490-1e611cabcde1",
       "state": "active"
     }
   ],
-  "name": "www.donau-anzeiger.de",
+  "name": "www.cityradio.saarland",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-04-17T10:34:01.980Z",
+  "controlDate": "2026-04-17T10:13:21.298Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
