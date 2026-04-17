@@ -23766,11 +23766,11 @@ digraph {
     label="Carus Media GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=1.0200
     name="5be1a6b6-2c4d-42e4-988c-453ed4f550fe"
     in_degree=2
-    out_degree=0
+    out_degree=1
   ];
   1981 [
     type=print
@@ -24831,6 +24831,18 @@ digraph {
   2069 [
     type=shareholder
     state=active
+    label="Cierpinski, Dietrich Eckart"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=6
+    num_medias_weighted=0.0529
+    name="5fb7d143-ee17-4afa-9950-6725a923320c"
+    in_degree=0
+    out_degree=1
+  ];
+  2070 [
+    type=shareholder
+    state=active
     label="Cierpinski, Guido"
     num_owners=0
     num_owners_weighted=0.0000
@@ -24840,7 +24852,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  2070 [
+  2071 [
     type=shareholder
     state=active
     label="CIL Inversiones S.L."
@@ -24852,7 +24864,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  2071 [
+  2072 [
     type=shareholder
     state=active
     label="cine plus Innovation GmbH"
@@ -24864,7 +24876,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  2072 [
+  2073 [
     type=shareholder
     state=active
     label="Cine plus Südwest GmbH"
@@ -24876,7 +24888,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  2073 [
+  2074 [
     type=shareholder
     state=active
     label="cine plus Vision GmbH"
@@ -24888,7 +24900,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  2074 [
+  2075 [
     type=print
     state=active
     label=Cinema
@@ -24900,7 +24912,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  2075 [
+  2076 [
     type=shareholder
     state=archived
     label="CinemaxX Cinema GmbH & Co KG"
@@ -24912,7 +24924,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  2076 [
+  2077 [
     type=shareholder
     state=archived
     label="CinemaxX Entertainment GmbH & Co KG"
@@ -24924,7 +24936,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  2077 [
+  2078 [
     type=shareholder
     state=archived
     label="CinemaxX Holdings GmbH"
@@ -24936,7 +24948,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  2078 [
+  2079 [
     type=shareholder
     state=active
     label="CineMedia Film AG"
@@ -24948,7 +24960,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  2079 [
+  2080 [
     type=shareholder
     state=archived
     label="Cineplex Deutschand GmbH & Co KG"
@@ -24959,18 +24971,6 @@ digraph {
     name="5be1a6b6-17a4-4be6-b6af-2f4fdf74fbb2"
     in_degree=0
     out_degree=0
-  ];
-  2080 [
-    type=shareholder
-    state=active
-    label="Ciperski, Dietrich Eckart"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=0.0529
-    name="5fb7d143-ee17-4afa-9950-6725a923320c"
-    in_degree=0
-    out_degree=1
   ];
   2081 [
     type=shareholder
@@ -32274,8 +32274,8 @@ digraph {
     label="Dietrich-Troeltsch, Dr. Hermann"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=65
-    num_medias_weighted=9.2430
+    num_medias=63
+    num_medias_weighted=9.0900
     name="5be1a6b6-af3e-4bb2-b793-fed309ea872e"
     in_degree=0
     out_degree=2
@@ -77250,8 +77250,8 @@ digraph {
     label="Klenke, Dr. Klaus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0510
     name="5be1a6b6-08f2-464a-b0cc-a86c64307174"
     in_degree=0
     out_degree=1
@@ -97722,11 +97722,11 @@ digraph {
     label="Motor Presse Stuttgart GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=3.5020
-    num_medias=65
-    num_medias_weighted=61.6200
+    num_medias=63
+    num_medias_weighted=60.6000
     name="5be1a6b6-99ba-4261-b3c0-411c299e72ae"
     in_degree=5
-    out_degree=55
+    out_degree=54
   ];
   8144 [
     type=shareholder
@@ -97734,7 +97734,7 @@ digraph {
     label="Motor Presse Stuttgart Verwaltungsgesellschaft mbH"
     num_owners=4
     num_owners_weighted=2.5020
-    num_medias=65
+    num_medias=63
     num_medias_weighted=0.0000
     name="5eb00a19-c344-411c-946b-48a3abd8e819"
     in_degree=4
@@ -108318,8 +108318,8 @@ digraph {
     label="P + S Verwaltungsgesellschaft mbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=65
-    num_medias_weighted=15.4666
+    num_medias=63
+    num_medias_weighted=15.2106
     name="5be1a6b6-8cbc-42a9-8413-c25fd82ddf1a"
     in_degree=2
     out_degree=2
@@ -109065,7 +109065,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="63ec9658-04e6-44a4-9765-0e7a93434262"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   9089 [
@@ -110874,8 +110874,8 @@ digraph {
     label="Pietsch, Peter-Paul"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=65
-    num_medias_weighted=18.4552
+    num_medias=63
+    num_medias_weighted=18.1497
     name="5be1a6b6-f2d8-4bca-bfb9-3b085b9ab5b0"
     in_degree=0
     out_degree=4
@@ -133662,8 +133662,8 @@ digraph {
     label="Scholten, Patricia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=65
-    num_medias_weighted=18.4552
+    num_medias=63
+    num_medias_weighted=18.1497
     name="5be1a6b6-6cb3-4d4f-9be3-c0f3317b240f"
     in_degree=0
     out_degree=4
@@ -136146,8 +136146,8 @@ digraph {
     label="Schütte, Jörg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=2.9800
+    num_medias=6
+    num_medias_weighted=4.9800
     name="5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
     in_degree=0
     out_degree=4
@@ -155949,7 +155949,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-86d5-4066-87a1-30843d22dd9b"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12996 [
@@ -215881,7 +215881,7 @@ digraph {
     weight=1
     type=owns
   ];
-  1016 -> 2078 [
+  1016 -> 2079 [
     weight=27.04
     type=owns
   ];
@@ -220501,6 +220501,10 @@ digraph {
     weight=100
     type=operates
   ];
+  1980 -> 8145 [
+    weight=51
+    type=owns
+  ];
   1983 -> 1982 [
     weight=100
     type=operates
@@ -220866,27 +220870,27 @@ digraph {
     type=owns
   ];
   2069 -> 8958 [
+    weight=75
+    type=owns
+  ];
+  2070 -> 8958 [
     weight=25
     type=owns
   ];
-  2070 -> 13252 [
+  2071 -> 13252 [
     weight=100
     type=owns
   ];
-  2071 -> 2575 [
+  2072 -> 2575 [
     weight=4.17
     type=owns
   ];
-  2072 -> 2073 [
+  2073 -> 2074 [
     weight=100
     type=owns
   ];
-  2073 -> 2575 [
+  2074 -> 2575 [
     weight=95.83
-    type=owns
-  ];
-  2080 -> 8958 [
-    weight=75
     type=owns
   ];
   2081 -> 14927 [
@@ -227589,11 +227593,11 @@ digraph {
     weight=3.31
     type=owns
   ];
-  3698 -> 2072 [
+  3698 -> 2073 [
     weight=100
     type=owns
   ];
-  3698 -> 2071 [
+  3698 -> 2072 [
     weight=100
     type=owns
   ];
@@ -247541,10 +247545,6 @@ digraph {
     weight=100
     type=owns
   ];
-  8143 -> 8145 [
-    weight=51
-    type=owns
-  ];
   8143 -> 766 [
     weight=100
     type=operates
@@ -263834,7 +263834,7 @@ digraph {
     type=owns
   ];
   11345 -> 1980 [
-    weight=95
+    weight=100
     type=owns
   ];
   11345 -> 7494 [
@@ -263845,8 +263845,8 @@ digraph {
     weight=49
     type=owns
   ];
-  11345 -> 12995 [
-    weight=16.5
+  11345 -> 9088 [
+    weight=100
     type=owns
   ];
   11346 -> 2992 [
@@ -267193,7 +267193,7 @@ digraph {
     weight=12.2
     type=owns
   ];
-  12205 -> 2078 [
+  12205 -> 2079 [
     weight=16.81
     type=owns
   ];
@@ -269277,7 +269277,7 @@ digraph {
     weight=1
     type=owns
   ];
-  12607 -> 2078 [
+  12607 -> 2079 [
     weight=21.27
     type=owns
   ];
@@ -270589,7 +270589,7 @@ digraph {
     weight=1
     type=owns
   ];
-  12978 -> 2074 [
+  12978 -> 2075 [
     weight=100
     type=operates
   ];
