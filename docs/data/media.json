@@ -5280,7 +5280,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T13:36:23.914Z",
+    "controlDate": "2026-04-17T12:54:31.461Z",
     "state": "active"
   },
   {
@@ -17950,7 +17950,7 @@
     "rfStatewide": false,
     "name": "PC Games",
     "type": "print",
-    "controlDate": "2025-10-13T13:29:19.597Z",
+    "controlDate": "2026-04-17T12:49:22.702Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17995,7 +17995,7 @@
     "rfStatewide": false,
     "name": "PC Games Mmore",
     "type": "print",
-    "controlDate": "2025-10-13T13:30:08.045Z",
+    "controlDate": "2026-04-17T12:49:39.757Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -18036,7 +18036,7 @@
     "rfStatewide": false,
     "name": "Raspberry Pi Geek",
     "type": "print",
-    "controlDate": "2025-10-13T13:31:03.969Z",
+    "controlDate": "2026-04-17T12:50:06.831Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -18057,7 +18057,7 @@
     "rfStatewide": false,
     "name": "Linux-Magazin",
     "type": "print",
-    "controlDate": "2025-10-13T13:28:22.967Z",
+    "controlDate": "2026-04-17T12:49:06.230Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -18081,7 +18081,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T13:35:07.741Z",
+    "controlDate": "2026-04-17T12:52:55.591Z",
     "state": "active"
   },
   {
@@ -18096,7 +18096,7 @@
     "rfStatewide": false,
     "name": "Linux User",
     "type": "print",
-    "controlDate": "2025-10-13T13:28:15.210Z",
+    "controlDate": "2026-04-17T12:48:58.454Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -29199,7 +29199,7 @@
     "name": "www.raspberry-pi-geek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T13:35:50.366Z",
+    "controlDate": "2026-04-17T12:54:21.065Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46519,7 +46519,7 @@
     "name": "www.pcgameshardware.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T13:35:40.016Z",
+    "controlDate": "2026-04-17T12:53:47.244Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -51309,7 +51309,7 @@
     "name": "www.gamesworld.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T13:33:46.305Z",
+    "controlDate": "2026-04-17T12:51:57.635Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90519,7 +90519,7 @@
     "rfStatewide": false,
     "name": "N-Zone",
     "type": "print",
-    "controlDate": "2025-10-13T13:28:36.998Z",
+    "controlDate": "2026-04-17T12:49:13.895Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90540,7 +90540,7 @@
     "rfStatewide": false,
     "name": "Play5",
     "type": "print",
-    "controlDate": "2025-10-13T13:30:55.663Z",
+    "controlDate": "2026-04-17T12:49:52.684Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90603,7 +90603,7 @@
     "rfStatewide": false,
     "name": "PC Games Hardware",
     "type": "print",
-    "controlDate": "2025-10-13T13:29:39.548Z",
+    "controlDate": "2026-04-17T12:49:29.759Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90627,7 +90627,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-05-05T12:59:24.967Z",
+    "controlDate": "2026-04-17T12:53:36.986Z",
     "state": "active"
   },
   {
@@ -90663,7 +90663,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T13:33:20.787Z",
+    "controlDate": "2026-04-17T12:51:19.829Z",
     "state": "active"
   },
   {
@@ -98687,7 +98687,7 @@
     "name": "www.linux-community.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T13:34:29.140Z",
+    "controlDate": "2026-04-17T12:52:46.100Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -107563,7 +107563,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-13T13:24:00.476Z",
+    "controlDate": "2026-04-17T12:46:29.923Z",
     "state": "active"
   },
   {
@@ -151869,7 +151869,7 @@
     "name": "www.gamezone.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-13T13:34:07.981Z",
+    "controlDate": "2026-04-17T12:52:36.241Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
