@@ -89105,7 +89105,7 @@
   },
   {
     "squuid": "5be1a6b6-2c4d-42e4-988c-453ed4f550fe",
-    "name": "carus media GmbH",
+    "name": "Carus Media GmbH",
     "state": "active",
     "organizations": [
       {
@@ -123827,7 +123827,7 @@
   },
   {
     "squuid": "5be1a6b6-5592-4cc6-b996-943552673828",
-    "name": "SH Telekommunikation Deutschland GmbH",
+    "name": "mobilezone GmbH",
     "state": "active",
     "organizations": [
       {
@@ -123843,7 +123843,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-bcbb-49dd-b501-e59840973856",
-          "name": "Sparhandy TV"
+          "name": "Handystar"
         }
       },
       {
@@ -123863,8 +123863,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -123888,11 +123889,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -123905,11 +123901,6 @@
     "name": "Haubrich, Michael",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
@@ -123928,11 +123919,6 @@
     "name": "Haubrich, Rüdiger",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -123965,11 +123951,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -123982,11 +123963,6 @@
     "name": "Dubiel, Iris",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -124032,11 +124008,6 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -124049,11 +124020,6 @@
     "name": "Haubrich, Edgar",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
@@ -143335,6 +143301,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e1e0e8-4483-4a3f-8b60-cb5b6e1922e0",
+    "name": "mobilezone Deutschland GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
         "type": "organization"
       }
     ]
@@ -184461,6 +184439,11 @@
     "state": "active",
     "controlDate": "2025-10-26T15:06:11.856Z",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
@@ -242586,7 +242569,7 @@
         "state": "active",
         "held": {
           "squuid": "5fd4660e-ae04-4b3b-a72b-aefb105620db",
-          "name": "Bild Live"
+          "name": "BILD"
         }
       },
       {
@@ -245560,6 +245543,11 @@
     "controlDate": "2025-10-26T15:05:26.139Z",
     "organizations": [
       {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
@@ -246519,6 +246507,11 @@
     "state": "active",
     "controlDate": "2019-07-05T08:21:13.445Z",
     "organizations": [
+      {
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
@@ -275376,8 +275369,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -297617,11 +297611,6 @@
     "controlDate": "2025-11-15T12:41:36.208Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -297636,11 +297625,6 @@
     "controlDate": "2019-07-02T12:03:40.228Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
@@ -297654,11 +297638,6 @@
     "state": "active",
     "controlDate": "2019-07-02T12:03:31.742Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",

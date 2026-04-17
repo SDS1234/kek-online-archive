@@ -1,8 +1,8 @@
 {
   "state": "active",
-  "note": "Die carus media GmbH bietet Beratungs- und Serviceleistungen im Medienbereich an.",
+  "note": "",
   "pseudoCompany": false,
-  "name": "carus media GmbH",
+  "name": "Carus Media GmbH",
   "naturalPerson": false,
   "squuid": "5be1a6b6-2c4d-42e4-988c-453ed4f550fe",
   "organizations": [
@@ -17,22 +17,12 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 95.0,
+      "capitalShares": 100.0,
       "holder": {
         "name": "Schütte, Jörg",
         "squuid": "5be1a6b6-884e-4c49-83ab-18ecc01e91c5"
       },
       "squuid": "5be1a6b8-26d3-4d65-b15f-c8a32b0ae6ec",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 5.0,
-      "holder": {
-        "name": "Klenke, Dr. Klaus",
-        "squuid": "5be1a6b6-08f2-464a-b0cc-a86c64307174"
-      },
-      "squuid": "5be1a6b8-f3a2-4d3a-8291-322003f49577",
       "state": "active"
     }
   ]
