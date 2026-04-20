@@ -7172,7 +7172,7 @@
     "rfStatewide": false,
     "name": "Modell Fahrzeug",
     "type": "print",
-    "controlDate": "2025-10-14T14:38:36.779Z",
+    "controlDate": "2026-04-20T13:35:32.695Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7196,7 +7196,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:03:14.187Z",
+    "controlDate": "2026-04-20T13:45:19.181Z",
     "state": "active"
   },
   {
@@ -7214,7 +7214,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:00:04.616Z",
+    "controlDate": "2026-04-20T13:44:23.010Z",
     "state": "active"
   },
   {
@@ -7256,7 +7256,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:00:16.712Z",
+    "controlDate": "2026-04-20T13:44:31.803Z",
     "state": "active"
   },
   {
@@ -7292,7 +7292,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:00:58.800Z",
+    "controlDate": "2026-04-20T13:44:42.732Z",
     "state": "active"
   },
   {
@@ -7352,7 +7352,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:03:07.199Z",
+    "controlDate": "2026-04-20T13:45:11.179Z",
     "state": "active"
   },
   {
@@ -7388,7 +7388,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T15:01:26.380Z",
+    "controlDate": "2026-04-20T13:44:55.256Z",
     "state": "active"
   },
   {
@@ -22022,7 +22022,7 @@
     "rfStatewide": false,
     "name": "Porsche Fahrer",
     "type": "print",
-    "controlDate": "2025-10-14T14:44:50.279Z",
+    "controlDate": "2026-04-20T13:36:27.648Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24377,7 +24377,7 @@
     "name": "www.magazine.dewezet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T14:24:40.801Z",
+    "controlDate": "2026-04-20T13:27:16.172Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35677,7 +35677,7 @@
     "name": "www.deichstube.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T14:17:08.423Z",
+    "controlDate": "2026-04-20T13:11:39.697Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81024,7 +81024,7 @@
     "rfStatewide": false,
     "name": "Yacht",
     "type": "print",
-    "controlDate": "2025-10-14T14:40:45.612Z",
+    "controlDate": "2026-04-20T13:37:19.347Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81045,7 +81045,7 @@
     "rfStatewide": false,
     "name": "Gute Fahrt",
     "type": "print",
-    "controlDate": "2025-10-14T14:37:21.229Z",
+    "controlDate": "2026-04-20T13:34:29.889Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81085,7 +81085,7 @@
     "rfStatewide": false,
     "name": "Tour - Das Radmagazin",
     "type": "print",
-    "controlDate": "2025-10-14T14:40:11.934Z",
+    "controlDate": "2026-04-20T13:37:06.958Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81130,7 +81130,7 @@
     "rfStatewide": false,
     "name": "Bike - Das Mountain Bike Magazin",
     "type": "print",
-    "controlDate": "2025-10-14T14:33:26.052Z",
+    "controlDate": "2026-04-20T13:33:56.731Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81191,7 +81191,7 @@
     "rfStatewide": false,
     "name": "Boote",
     "type": "print",
-    "controlDate": "2025-10-14T14:33:34.796Z",
+    "controlDate": "2026-04-20T13:34:13.038Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81229,7 +81229,7 @@
     "rfStatewide": false,
     "name": "My Bike",
     "type": "print",
-    "controlDate": "2025-10-14T14:39:28.354Z",
+    "controlDate": "2026-04-20T13:35:57.671Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81250,7 +81250,7 @@
     "rfStatewide": false,
     "name": "surf",
     "type": "print",
-    "controlDate": "2025-10-14T14:41:43.746Z",
+    "controlDate": "2026-04-20T13:45:04.818Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81340,7 +81340,7 @@
     "rfStatewide": false,
     "name": "Boote Exklusiv",
     "type": "print",
-    "controlDate": "2025-10-14T14:33:45.932Z",
+    "controlDate": "2026-04-20T13:34:20.946Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96263,7 +96263,7 @@
     "rfStatewide": false,
     "name": "Dewezet",
     "type": "print",
-    "controlDate": "2025-10-14T14:24:04.915Z",
+    "controlDate": "2026-04-20T13:26:41.344Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96286,7 +96286,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T14:24:29.001Z",
+    "controlDate": "2026-04-20T13:27:00.592Z",
     "state": "active"
   },
   {
@@ -110555,7 +110555,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T14:19:39.902Z",
+    "controlDate": "2026-04-20T13:15:04.752Z",
     "state": "active"
   },
   {
@@ -121898,7 +121898,7 @@
     "rfStatewide": false,
     "name": "Pyrmonter Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-14T14:24:18.365Z",
+    "controlDate": "2026-04-20T13:26:51.885Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -143091,7 +143091,7 @@
     "name": "www.dejure.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T14:30:15.301Z",
+    "controlDate": "2026-04-20T13:29:50.043Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144710,7 +144710,7 @@
     "name": "Yacht classic",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T14:41:01.236Z",
+    "controlDate": "2026-04-20T13:37:29.786Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149014,7 +149014,7 @@
     "name": "DEWEZET am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T14:23:54.579Z",
+    "controlDate": "2026-04-20T13:26:28.612Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
