@@ -11385,7 +11385,7 @@
     "name": "www.radiocorax.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T09:42:13.921Z",
+    "controlDate": "2026-04-20T10:12:12.251Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33699,7 +33699,7 @@
     "name": "Rosenheimerin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T09:44:24.499Z",
+    "controlDate": "2026-04-20T10:13:06.224Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33769,7 +33769,7 @@
     "name": "Chiemgauerin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T09:44:13.453Z",
+    "controlDate": "2026-04-20T10:12:59.444Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45044,7 +45044,7 @@
     "name": "www.spirittv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T10:26:32.863Z",
+    "controlDate": "2026-04-20T10:20:40.082Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71224,7 +71224,7 @@
     "rfStatewide": false,
     "name": "der helgoländer",
     "type": "print",
-    "controlDate": "2025-10-14T10:28:49.297Z",
+    "controlDate": "2026-04-20T10:57:33.399Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71245,7 +71245,7 @@
     "rfStatewide": false,
     "name": "Cuxhavener Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-14T10:28:27.674Z",
+    "controlDate": "2026-04-20T10:57:18.319Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -71265,7 +71265,7 @@
     "rfStatewide": false,
     "name": "Niederelbe-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-14T10:28:37.952Z",
+    "controlDate": "2026-04-20T10:57:26.167Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -78353,7 +78353,7 @@
     "name": "www.moovielive.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T10:32:30.455Z",
+    "controlDate": "2026-04-20T11:00:06.780Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -113217,7 +113217,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T09:41:15.547Z",
+    "controlDate": "2026-04-20T10:06:17.483Z",
     "state": "active"
   },
   {
@@ -121385,7 +121385,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T10:28:58.187Z",
+    "controlDate": "2026-04-20T10:57:41.388Z",
     "state": "active"
   },
   {
@@ -156638,7 +156638,7 @@
     "name": "Cux Journal",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T10:28:15.250Z",
+    "controlDate": "2026-04-20T10:57:09.627Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
