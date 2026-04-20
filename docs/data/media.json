@@ -9630,7 +9630,7 @@
     "name": "www.de24live.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T12:57:15.662Z",
+    "controlDate": "2026-04-20T13:05:33.797Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12115,7 +12115,7 @@
     "name": "www.doebelner-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T12:24:40.463Z",
+    "controlDate": "2026-04-20T12:55:56.417Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -20773,7 +20773,7 @@
     "name": "www.hubu.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T14:05:42.913Z",
+    "controlDate": "2026-04-20T13:08:32.671Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23589,7 +23589,7 @@
     "name": "Familienzeit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-14T12:31:47.303Z",
+    "controlDate": "2026-04-20T12:57:45.956Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48565,7 +48565,7 @@
     "name": "www.die-deutsche-wirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T12:56:32.301Z",
+    "controlDate": "2026-04-20T13:05:07.813Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94639,7 +94639,7 @@
     "rfStatewide": false,
     "name": "Camping",
     "type": "print",
-    "controlDate": "2025-10-14T11:50:01.843Z",
+    "controlDate": "2026-04-20T11:20:28.736Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101606,7 +101606,7 @@
     "name": "www.dazn.com/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T11:17:03.678Z",
+    "controlDate": "2026-04-20T11:14:23.133Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -101716,9 +101716,9 @@
       "type": "organization"
     },
     "rfStatewide": false,
-    "name": "Sächsische Zeitung (Ausgabe Dresden)",
+    "name": "Sächsische Zeitung ",
     "type": "print",
-    "controlDate": "2025-10-14T12:32:00.838Z",
+    "controlDate": "2026-04-20T12:57:56.245Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -101741,7 +101741,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T12:24:55.820Z",
+    "controlDate": "2026-04-20T12:56:04.928Z",
     "state": "active"
   },
   {
@@ -118686,7 +118686,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-41f5-44ce-9297-a1e821a305e8",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118706,7 +118706,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-841f-45f4-950b-589fc17d3e10",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118726,7 +118726,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-6538-4b93-a051-a2b415e019b1",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118772,7 +118772,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-aa49-4370-996c-88ec764415bd",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118792,7 +118792,7 @@
   },
   {
     "pressPublishingIntervals": 312,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-db58-40b3-8dc2-686fead0766b",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118822,7 +118822,7 @@
     "rfStatewide": false,
     "name": "Döbelner Anzeiger",
     "type": "print",
-    "controlDate": "2025-10-14T12:21:50.472Z",
+    "controlDate": "2026-04-20T12:57:37.332Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -139220,7 +139220,7 @@
     "name": "www.mixed.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T14:04:47.255Z",
+    "controlDate": "2026-04-20T13:06:57.550Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
