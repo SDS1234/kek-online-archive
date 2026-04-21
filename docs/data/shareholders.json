@@ -26422,7 +26422,7 @@
     "squuid": "5be1a6b6-a5cc-47e1-ad55-477c084b25cb",
     "name": "Deutsche Druck- und Verlagsgesellschaft mbH (DDVG)",
     "state": "active",
-    "controlDate": "2025-10-15T08:59:31.688Z",
+    "controlDate": "2026-04-21T12:32:50.037Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143309,7 +143309,7 @@
     "name": "Deutsche Eishockey Liga GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5d35c012-33f5-4f80-aaa0-635d0eb504bf",
-    "controlDate": "2025-10-15T09:01:26.588Z",
+    "controlDate": "2026-04-21T12:34:12.990Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -167681,7 +167681,7 @@
     "squuid": "5d302baf-273a-47b2-a322-944d8e9b680a",
     "name": "Deutsche Lufthansa AG",
     "state": "active",
-    "controlDate": "2025-10-15T09:08:10.816Z",
+    "controlDate": "2026-04-21T12:36:46.576Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -203411,7 +203411,7 @@
     "squuid": "61e6ef3f-1098-499a-b061-6327eb545487",
     "name": "Deutsche Börse AG",
     "state": "active",
-    "controlDate": "2025-10-15T08:47:08.466Z",
+    "controlDate": "2026-04-21T11:58:57.339Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206138,7 +206138,7 @@
     "squuid": "61e82b8c-d5e1-4cef-ad1d-204dcbad5bff",
     "name": "Deutsche Leichtathletik Marketing GmbH",
     "state": "active",
-    "controlDate": "2025-10-15T09:03:19.661Z",
+    "controlDate": "2026-04-21T12:36:27.492Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230005,7 +230005,7 @@
     "squuid": "5f032da1-e30a-45e3-9808-c56fc0db23b3",
     "name": "Deutsche Eishockey Liga Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-15T09:01:07.132Z",
+    "controlDate": "2026-04-21T12:34:03.359Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258541,7 +258541,7 @@
     "name": "Deutsche Medien-Manufaktur GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c318-4ed1-b567-bdae970c06ea",
-    "controlDate": "2025-10-15T09:11:35.534Z",
+    "controlDate": "2026-04-21T12:43:46.800Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258674,6 +258674,15 @@
         "held": {
           "squuid": "5be1a6b1-d6c4-4850-a604-bae3c64ddfde",
           "name": "Grün"
+        }
+      },
+      {
+        "squuid": "69e77328-db45-409e-b93c-7a3fcc1eeffc",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69e772e7-b09f-470b-b18a-b1aa4edbb2ae",
+          "name": "essen & trinken - low carb"
         }
       }
     ]
@@ -258828,15 +258837,6 @@
         "held": {
           "squuid": "5be1a6b1-13c5-44de-9855-1191d94093e6",
           "name": "www.couchstyle.de"
-        }
-      },
-      {
-        "squuid": "5efdc81e-498f-4a37-b314-0dcdc5ee39ad",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-e561-4d6e-8cde-0c1aae39a02d",
-          "name": "www.livingathome.de"
         }
       },
       {
@@ -302346,7 +302346,7 @@
     "squuid": "5ec51a32-8776-4157-8aa8-8e666cf864e6",
     "name": "Deutsche Medien-Manufaktur Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-15T09:11:00.337Z",
+    "controlDate": "2026-04-21T12:43:39.440Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

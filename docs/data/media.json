@@ -11803,7 +11803,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T09:25:33.803Z",
+    "controlDate": "2026-04-21T12:57:35.145Z",
     "state": "active"
   },
   {
@@ -13152,7 +13152,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-14T11:34:33.294Z",
+    "controlDate": "2026-04-21T12:57:18.644Z",
     "state": "active"
   },
   {
@@ -33312,7 +33312,7 @@
     "name": "www.einfachhausgemacht.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T09:24:32.695Z",
+    "controlDate": "2026-04-21T12:55:47.850Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40543,7 +40543,7 @@
     "name": "www.flow-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T09:24:44.480Z",
+    "controlDate": "2026-04-21T12:56:39.505Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41465,7 +41465,7 @@
     "name": "www.del.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T09:02:54.152Z",
+    "controlDate": "2026-04-21T12:35:20.916Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43678,7 +43678,7 @@
     "name": "Landlust Zuhaus",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T09:14:24.234Z",
+    "controlDate": "2026-04-21T12:49:23.561Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43861,7 +43861,7 @@
     "name": "www.landlust-zuhaus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T09:25:19.204Z",
+    "controlDate": "2026-04-21T12:57:28.085Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -103720,7 +103720,7 @@
       "state": "active"
     },
     "controlDate": "2025-10-28T10:48:18.317Z",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -104806,7 +104806,7 @@
     "rfStatewide": false,
     "name": "Garten Flora",
     "type": "print",
-    "controlDate": "2025-10-14T11:34:01.430Z",
+    "controlDate": "2026-04-21T12:48:58.757Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104851,7 +104851,7 @@
     "rfStatewide": false,
     "name": "Grün",
     "type": "print",
-    "controlDate": "2025-10-14T11:34:09.605Z",
+    "controlDate": "2026-04-21T12:49:05.695Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113435,7 +113435,7 @@
     "rfStatewide": false,
     "name": "essen & trinken",
     "type": "print",
-    "controlDate": "2025-10-15T09:15:10.889Z",
+    "controlDate": "2026-04-21T12:49:46.653Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113456,7 +113456,7 @@
     "rfStatewide": false,
     "name": "Living at home",
     "type": "print",
-    "controlDate": "2025-10-15T09:14:32.832Z",
+    "controlDate": "2026-04-21T12:49:32.491Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113481,7 +113481,7 @@
     "rfStatewide": false,
     "name": "essen & trinken - für jeden Tag",
     "type": "print",
-    "controlDate": "2025-10-15T09:17:17.946Z",
+    "controlDate": "2026-04-21T12:49:59.425Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113523,7 +113523,7 @@
     "rfStatewide": false,
     "name": "Landlust",
     "type": "print",
-    "controlDate": "2025-10-15T09:13:58.972Z",
+    "controlDate": "2026-04-21T12:49:15.489Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113544,7 +113544,7 @@
     "rfStatewide": false,
     "name": "Einfach Hausgemacht",
     "type": "print",
-    "controlDate": "2025-10-15T09:13:00.339Z",
+    "controlDate": "2026-04-21T12:48:51.668Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -140993,7 +140993,7 @@
     "name": "www.boerse-frankfurt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T08:55:46.756Z",
+    "controlDate": "2026-04-21T11:59:02.686Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142758,7 +142758,7 @@
     "name": "www.leichtathletik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T09:03:29.383Z",
+    "controlDate": "2026-04-21T12:36:31.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150393,6 +150393,25 @@
     }
   },
   {
+    "pressPublishingIntervals": 6,
+    "state": "active",
+    "squuid": "69e772e7-b09f-470b-b18a-b1aa4edbb2ae",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "essen & trinken - low carb",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Food"
+  },
+  {
     "state": "active",
     "squuid": "5f929448-c79c-48c9-967e-448125f968df",
     "organization": {
@@ -152275,7 +152294,7 @@
     "name": "www.bundesbank.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T08:38:59.396Z",
+    "controlDate": "2026-04-21T11:56:25.222Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
