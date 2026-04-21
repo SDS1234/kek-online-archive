@@ -95843,7 +95843,7 @@
     "squuid": "5f1019f9-0cec-4117-9db6-06777350ca73",
     "name": "Deutsche Bank AG",
     "state": "active",
-    "controlDate": "2025-10-15T08:36:50.235Z",
+    "controlDate": "2026-04-21T11:55:10.582Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -156425,7 +156425,7 @@
     "squuid": "66461b06-aa74-4f28-8f04-c289b6562983",
     "name": "DERA Capital GmbH",
     "state": "active",
-    "controlDate": "2025-10-15T08:29:17.694Z",
+    "controlDate": "2026-04-21T11:48:39.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242896,7 +242896,7 @@
     "name": "Der Spiegel GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3a3f-4929-98aa-e84553ad4632",
-    "controlDate": "2025-10-15T08:23:02.568Z",
+    "controlDate": "2026-04-21T10:41:45.505Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -264002,6 +264002,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69e76520-cac2-43f6-9edf-58895c0e9a06",
+    "name": "Amundi S.A.",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -287195,7 +287208,7 @@
     "squuid": "6571d384-62e7-4d83-8ece-027e7926b207",
     "name": "Der Vermögensberater Verlags- und Servicegesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-15T08:28:25.080Z",
+    "controlDate": "2026-04-21T10:43:38.573Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
