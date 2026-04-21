@@ -5627,7 +5627,7 @@
     "rfStatewide": false,
     "name": "Unsere Jagd",
     "type": "print",
-    "controlDate": "2025-10-15T14:35:47.130Z",
+    "controlDate": "2026-04-21T14:21:08.109Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -6245,7 +6245,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-23T10:56:32.179Z",
+    "controlDate": "2026-04-21T14:23:45.496Z",
     "state": "active"
   },
   {
@@ -6369,7 +6369,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T14:40:06.018Z",
+    "controlDate": "2026-04-21T14:25:06.803Z",
     "state": "active"
   },
   {
@@ -10185,7 +10185,7 @@
     "rfStatewide": false,
     "name": "Das Parlament",
     "type": "print",
-    "controlDate": "2025-10-15T14:06:33.856Z",
+    "controlDate": "2026-04-21T13:42:06.658Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10209,7 +10209,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T14:06:46.168Z",
+    "controlDate": "2026-04-21T13:42:12.296Z",
     "state": "active"
   },
   {
@@ -13810,7 +13810,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T14:13:50.748Z",
+    "controlDate": "2026-04-21T14:03:26.336Z",
     "state": "active"
   },
   {
@@ -15555,7 +15555,7 @@
     "rfStatewide": false,
     "name": "Monumente",
     "type": "print",
-    "controlDate": "2025-10-15T13:55:43.609Z",
+    "controlDate": "2026-04-21T13:14:40.200Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20798,7 +20798,7 @@
     "rfStatewide": false,
     "name": "Niedersächsischer Jäger",
     "type": "print",
-    "controlDate": "2025-10-15T14:34:57.237Z",
+    "controlDate": "2026-04-21T14:20:14.099Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -34552,7 +34552,7 @@
     "name": "www.deutsche-apotheker-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:05:01.875Z",
+    "controlDate": "2026-04-21T13:36:19.316Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36910,7 +36910,7 @@
     "name": "www.dfb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:28:00.037Z",
+    "controlDate": "2026-04-21T14:09:36.960Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44314,7 +44314,7 @@
     "name": "www.ahgz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:12:46.679Z",
+    "controlDate": "2026-04-21T14:02:42.767Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44454,7 +44454,7 @@
     "name": "www.agrarzeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:12:26.185Z",
+    "controlDate": "2026-04-21T14:02:33.657Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46147,7 +46147,7 @@
     "name": "www.wochenblatt-dlv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:40:57.961Z",
+    "controlDate": "2026-04-21T14:25:26.492Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -56682,7 +56682,7 @@
     "name": "www.etailment.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:12:52.535Z",
+    "controlDate": "2026-04-21T14:03:04.411Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -62746,7 +62746,7 @@
     "name": "www.food-service.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:13:29.433Z",
+    "controlDate": "2026-04-21T14:03:17.533Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81381,7 +81381,7 @@
     "rfStatewide": false,
     "name": "Horizont",
     "type": "print",
-    "controlDate": "2025-10-15T14:11:51.493Z",
+    "controlDate": "2026-04-21T14:02:15.013Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -81402,7 +81402,7 @@
     "rfStatewide": false,
     "name": "Der Handel",
     "type": "print",
-    "controlDate": "2025-10-15T14:11:43.152Z",
+    "controlDate": "2026-04-21T14:02:04.100Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93350,7 +93350,7 @@
     "rfStatewide": false,
     "name": "Kanu-Sport",
     "type": "print",
-    "controlDate": "2025-10-15T14:29:48.170Z",
+    "controlDate": "2026-04-21T14:12:13.551Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94290,7 +94290,7 @@
     "name": "www.landundforst.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:39:25.995Z",
+    "controlDate": "2026-04-21T14:23:53.774Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94336,7 +94336,7 @@
     "name": "Land & Forst",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T14:34:31.669Z",
+    "controlDate": "2026-04-21T14:20:08.120Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96301,7 +96301,7 @@
     "name": "Bayerisches Landwirtschaftliches Wochenblatt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T14:34:09.838Z",
+    "controlDate": "2026-04-21T14:19:34.725Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96717,7 +96717,7 @@
     "name": "www.unserejagd.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:40:42.883Z",
+    "controlDate": "2026-04-21T14:25:15.353Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96783,7 +96783,7 @@
     "name": "www.niedersaechsischer-jaeger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:39:48.840Z",
+    "controlDate": "2026-04-21T14:24:05.386Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97142,7 +97142,7 @@
     "rfStatewide": false,
     "name": "kraut & rüben",
     "type": "print",
-    "controlDate": "2025-10-15T14:39:04.172Z",
+    "controlDate": "2026-04-21T14:22:30.905Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97163,7 +97163,7 @@
     "rfStatewide": false,
     "name": "Pirsch",
     "type": "print",
-    "controlDate": "2025-10-15T14:35:31.833Z",
+    "controlDate": "2026-04-21T14:20:56.924Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105753,7 +105753,7 @@
     "rfStatewide": false,
     "name": "DAV Panorama",
     "type": "print",
-    "controlDate": "2025-10-15T14:01:03.098Z",
+    "controlDate": "2026-04-21T13:27:46.177Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -110846,7 +110846,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-15T14:28:52.363Z",
+    "controlDate": "2026-04-21T14:10:59.229Z",
     "state": "active"
   },
   {
@@ -125245,7 +125245,7 @@
     "name": "www.bauernzeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T11:34:22.765Z",
+    "controlDate": "2026-04-21T14:23:13.293Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133061,7 +133061,7 @@
     "name": "agrarheute",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T14:36:26.319Z",
+    "controlDate": "2026-04-21T14:21:40.939Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135653,7 +135653,7 @@
     "name": "www.ptaheute.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:05:13.666Z",
+    "controlDate": "2026-04-21T13:36:27.204Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136307,7 +136307,7 @@
     "name": "www.textilwirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:14:29.780Z",
+    "controlDate": "2026-04-21T14:03:44.770Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137026,7 +137026,7 @@
     "name": "bienen&natur",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T14:36:52.158Z",
+    "controlDate": "2026-04-21T14:21:55.121Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137233,7 +137233,7 @@
     "name": "www.bienenundnatur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:38:26.711Z",
+    "controlDate": "2026-04-21T14:23:31.826Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142806,7 +142806,7 @@
     "name": "www.lebensmittelzeitung.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:14:17.820Z",
+    "controlDate": "2026-04-21T14:03:35.678Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145481,7 +145481,7 @@
     "name": "www.bundestag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:07:42.687Z",
+    "controlDate": "2026-04-21T13:42:57.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146933,7 +146933,7 @@
     "name": "Bauernzeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-15T14:33:34.634Z",
+    "controlDate": "2026-04-21T14:19:07.227Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148758,7 +148758,7 @@
     "name": "www.agrarheute.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T14:37:50.922Z",
+    "controlDate": "2026-04-21T14:22:58.226Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150810,7 +150810,7 @@
     "name": "www.dw.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-15T13:58:56.909Z",
+    "controlDate": "2026-04-21T13:26:30.316Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
