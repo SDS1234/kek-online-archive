@@ -30736,8 +30736,8 @@ digraph {
     type=tv
     state=active
     label="DF1 HD"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=5
+    num_owners_weighted=4.0500
     num_medias=0
     num_medias_weighted=0.0000
     name="66bdd171-1f21-415b-a95f-42c8b14824d8"
@@ -30760,8 +30760,8 @@ digraph {
     type=shareholder
     state=active
     label="DF1 Medien GmbH & Co. KG"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=4
+    num_owners_weighted=3.0500
     num_medias=2
     num_medias_weighted=2.0000
     name="66bdd734-6a9d-42f4-87ea-d7bfdb16f819"
@@ -30772,8 +30772,8 @@ digraph {
     type=shareholder
     state=active
     label="DF1 Medien Verwaltungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="68efba8d-f693-4522-a932-ef71f79be950"
@@ -30894,8 +30894,8 @@ digraph {
     label="DFL Deutsche Fußball Liga e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=4.0000
+    num_medias=6
+    num_medias_weighted=4.1280
     name="5be1a6b6-d3eb-4474-95bc-d8bc80db6d05"
     in_degree=0
     out_degree=1
@@ -30906,11 +30906,11 @@ digraph {
     label="DFL Deutsche Fußball Liga GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=4
-    num_medias_weighted=4.0000
+    num_medias=6
+    num_medias_weighted=4.1280
     name="5be1a6b6-61e5-4d97-8dfb-e3fff67a6771"
     in_degree=1
-    out_degree=4
+    out_degree=5
   ];
   2576 [
     type=shareholder
@@ -36501,7 +36501,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="64f05eba-3974-457a-ba20-a04043c85ab7"
-    in_degree=3
+    in_degree=4
     out_degree=2
   ];
   3042 [
@@ -178324,8 +178324,8 @@ digraph {
     type=online
     state=active
     label="www.df1.de"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=5
+    num_owners_weighted=4.0500
     num_medias=0
     num_medias_weighted=0.0000
     name="6864e4ac-7263-4e5e-8f61-7ef73466635e"
@@ -223023,6 +223023,10 @@ digraph {
   ];
   2575 -> 2576 [
     weight=100
+    type=owns
+  ];
+  2575 -> 3041 [
+    weight=6.4
     type=owns
   ];
   2575 -> 11780 [
