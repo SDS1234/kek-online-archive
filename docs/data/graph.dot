@@ -31444,8 +31444,8 @@ digraph {
     type=shareholder
     state=active
     label="Die JUSTUS gGmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="698de9c2-92bf-4ea1-bce8-7eef586ff1a0"
@@ -32019,7 +32019,7 @@ digraph {
   2668 [
     type=shareholder
     state=active
-    label="Diener. Patrick"
+    label="Diener, Patrick"
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
