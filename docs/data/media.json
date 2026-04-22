@@ -3325,7 +3325,7 @@
     "rfStatewide": false,
     "name": "Odenwälder Zeitung",
     "type": "print",
-    "controlDate": "2025-10-16T08:06:17.155Z",
+    "controlDate": "2026-04-22T11:55:40.306Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -15434,7 +15434,7 @@
     "name": "Weinheimer Nachrichten am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-16T08:07:03.055Z",
+    "controlDate": "2026-04-22T11:57:49.472Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15674,7 +15674,7 @@
     "name": "Odenwälder Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-16T08:06:29.560Z",
+    "controlDate": "2026-04-22T11:55:54.957Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34504,7 +34504,7 @@
     "name": "www.fraenkischertag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:24:49.993Z",
+    "controlDate": "2026-04-22T13:04:48.690Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36381,7 +36381,7 @@
     "name": "www.radiogalaxy.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T11:06:21.037Z",
+    "controlDate": "2026-04-22T13:01:55.319Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81443,7 +81443,7 @@
     "rfStatewide": false,
     "name": "Weinheimer Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-16T08:06:51.974Z",
+    "controlDate": "2026-04-22T11:56:20.663Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81466,7 +81466,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-16T08:07:46.512Z",
+    "controlDate": "2026-04-22T11:58:17.574Z",
     "state": "active"
   },
   {
@@ -83113,7 +83113,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-16T11:13:09.152Z",
+    "controlDate": "2026-04-22T13:05:37.897Z",
     "state": "active"
   },
   {
@@ -88207,7 +88207,7 @@
     "name": "StadtLandKind",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-16T08:06:42.162Z",
+    "controlDate": "2026-04-22T11:56:09.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88268,7 +88268,7 @@
     "name": "www.stadtlandkind.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T08:07:34.540Z",
+    "controlDate": "2026-04-22T11:58:09.708Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89230,7 +89230,7 @@
     "name": "MainKind",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-16T08:06:05.664Z",
+    "controlDate": "2026-04-22T11:55:26.056Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90452,7 +90452,7 @@
     "name": "www.mainkind-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T08:07:24.665Z",
+    "controlDate": "2026-04-22T11:58:00.918Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138606,7 +138606,7 @@
     "name": "www.fraenkischertag.de/saalezeitung",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T11:12:56.694Z",
+    "controlDate": "2026-04-22T13:05:20.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154796,7 +154796,7 @@
     "name": "www.fraenkischertag.de/bayerischerundschau",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T11:12:39.814Z",
+    "controlDate": "2026-04-22T13:05:06.899Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158314,7 +158314,7 @@
     "name": "www.fraenkischertag.de/coburgertageblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-16T11:12:47.349Z",
+    "controlDate": "2026-04-22T13:05:13.632Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

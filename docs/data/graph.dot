@@ -8440,7 +8440,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=981
+    num_owners=980
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8452,8 +8452,8 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=980
-    num_owners_weighted=19.7371
+    num_owners=979
+    num_owners_weighted=19.7308
     num_medias=7
     num_medias_weighted=0.0000
     name="6059f9d1-7500-4287-be63-5ed896c0498b"
@@ -15856,8 +15856,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=913
-    num_owners_weighted=17.6430
+    num_owners=912
+    num_owners_weighted=17.6332
     num_medias=7
     num_medias_weighted=1.3300
     name="66fd2eb7-3324-4b3c-bc5d-6b986f5223db"
@@ -15868,8 +15868,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=913
-    num_owners_weighted=18.6430
+    num_owners=912
+    num_owners_weighted=18.6332
     num_medias=7
     num_medias_weighted=0.0000
     name="5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
@@ -15976,7 +15976,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=983
+    num_owners=982
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -27220,7 +27220,7 @@ digraph {
     type=shareholder
     state=active
     label="D. Schwarz Beteiligungs-KG"
-    num_owners=8
+    num_owners=14
     num_owners_weighted=8.0000
     num_medias=2
     num_medias_weighted=0.8420
@@ -31444,12 +31444,12 @@ digraph {
     type=shareholder
     state=active
     label="Die JUSTUS gGmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=7
+    num_owners_weighted=5.0166
     num_medias=2
     num_medias_weighted=0.0000
     name="698de9c2-92bf-4ea1-bce8-7eef586ff1a0"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   2621 [
@@ -32080,8 +32080,8 @@ digraph {
     type=shareholder
     state=active
     label="Diesbach Medien GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=18
     num_medias_weighted=9.0842
     name="5be1a6b6-d41e-47d1-90af-5480eed011d5"
@@ -32176,8 +32176,8 @@ digraph {
     type=shareholder
     state=active
     label="Dieter Schwarz Stiftung gGmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="6992e2b8-79c9-42d0-99f4-450716734c80"
@@ -32188,13 +32188,13 @@ digraph {
     type=shareholder
     state=active
     label="Dieter Schwarz TV-Vermögensverwaltung GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=6
+    num_owners_weighted=4.0166
     num_medias=2
     num_medias_weighted=0.0000
     name="698defba-caa1-4606-875e-ca16e51c9079"
     in_degree=2
-    out_degree=1
+    out_degree=4
   ];
   2683 [
     type=shareholder
@@ -32224,37 +32224,37 @@ digraph {
     type=shareholder
     state=active
     label="Dieter von Holtzbrinck Ventures Fonds III GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=22
+    num_owners_weighted=10.4166
     num_medias=3
     num_medias_weighted=0.0020
     name="690b1e58-9e70-4736-aafb-5b6591f345bc"
-    in_degree=7
+    in_degree=8
     out_degree=1
   ];
   2686 [
     type=shareholder
     state=active
     label="Dieter von Holtzbrinck Ventures GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=14
+    num_owners_weighted=7.0992
     num_medias=3
     num_medias_weighted=0.0038
     name="690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
     in_degree=3
-    out_degree=1
+    out_degree=2
   ];
   2687 [
     type=shareholder
     state=active
     label="Dieter von Holtzbrinck Vermögensverwaltung GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=8
+    num_owners_weighted=5.3320
     num_medias=3
     num_medias_weighted=0.0023
     name="69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
     in_degree=1
-    out_degree=1
+    out_degree=2
   ];
   2688 [
     type=shareholder
@@ -41332,8 +41332,8 @@ digraph {
     type=shareholder
     state=active
     label="Enote GmbH"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=30
+    num_owners_weighted=8.3240
     num_medias=3
     num_medias_weighted=0.0648
     name="68f7447f-44e3-4079-9be8-cd1a17df8d58"
@@ -87376,8 +87376,8 @@ digraph {
     type=shareholder
     state=active
     label="LRM LokalRadio Mannheim GmbH"
-    num_owners=293
-    num_owners_weighted=27.3228
+    num_owners=292
+    num_owners_weighted=27.3026
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-f71b-4dda-9c18-b54ae82b981b"
@@ -89260,8 +89260,8 @@ digraph {
     type=print
     state=active
     label=MainKind
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e1214b-9eaf-448f-b796-7040fe28e501"
@@ -106144,8 +106144,8 @@ digraph {
     type=print
     state=active
     label="Odenwälder Zeitung"
-    num_owners=45
-    num_owners_weighted=33.7968
+    num_owners=44
+    num_owners_weighted=32.7968
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1779-4791-be19-349e477646bf"
@@ -106156,8 +106156,8 @@ digraph {
     type=print
     state=active
     label="Odenwälder Zeitung am Sonntag"
-    num_owners=45
-    num_owners_weighted=33.7968
+    num_owners=44
+    num_owners_weighted=32.7968
     num_medias=0
     num_medias_weighted=0.0000
     name="63e4fb0f-e323-48ef-8771-33d2938f6cb0"
@@ -119392,8 +119392,8 @@ digraph {
     type=radio
     state=active
     label="Radio Regenbogen (Mannheim)"
-    num_owners=293
-    num_owners_weighted=27.3228
+    num_owners=292
+    num_owners_weighted=27.3026
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0406-49b0-91ee-c09c6d5809a3"
@@ -119428,8 +119428,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden Geschäftsführungs-GmbH"
-    num_owners=293
-    num_owners_weighted=27.3228
+    num_owners=292
+    num_owners_weighted=27.3026
     num_medias=9
     num_medias_weighted=0.0000
     name="5ef1f2a2-c1d0-4ab9-9672-daa7b297b23f"
@@ -119440,8 +119440,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden GmbH & Co. KG"
-    num_owners=293
-    num_owners_weighted=26.3228
+    num_owners=292
+    num_owners_weighted=26.3026
     num_medias=9
     num_medias_weighted=2.0000
     name="5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
@@ -122428,8 +122428,8 @@ digraph {
     type=radio
     state=active
     label="Regenbogen 2"
-    num_owners=294
-    num_owners_weighted=28.3228
+    num_owners=293
+    num_owners_weighted=28.3026
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-59f0-4a74-893e-57e588483f7d"
@@ -131092,7 +131092,7 @@ digraph {
     type=shareholder
     state=active
     label="SB Dienstleistung KG"
-    num_owners=11
+    num_owners=17
     num_owners_weighted=11.0000
     num_medias=2
     num_medias_weighted=0.8420
@@ -134601,7 +134601,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="698df047-3107-48ca-af6e-fc31aa72ad17"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11217 [
@@ -134649,7 +134649,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0004
     name="698deefe-1af7-4537-b84a-92502f6012a2"
-    in_degree=7
+    in_degree=8
     out_degree=1
   ];
   11221 [
@@ -139300,7 +139300,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=982
+    num_owners=981
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -143752,8 +143752,8 @@ digraph {
     type=print
     state=active
     label=StadtLandKind
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e12035-b0f4-448e-8277-000084e89d63"
@@ -160449,7 +160449,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.0001
     name="69396c70-5032-4564-a97e-db8d908cae3e"
-    in_degree=1
+    in_degree=2
     out_degree=1
   ];
   13371 [
@@ -165256,8 +165256,8 @@ digraph {
     type=print
     state=active
     label="Weinheimer Nachrichten"
-    num_owners=45
-    num_owners_weighted=33.7968
+    num_owners=44
+    num_owners_weighted=32.7968
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e78b-40d9-a532-da7f0a27c1b4"
@@ -165268,8 +165268,8 @@ digraph {
     type=print
     state=active
     label="Weinheimer Nachrichten am Sonntag"
-    num_owners=45
-    num_owners_weighted=33.7968
+    num_owners=44
+    num_owners_weighted=32.7968
     num_medias=0
     num_medias_weighted=0.0000
     name="63e4faff-bbb9-43d5-a595-29acbb3f125a"
@@ -174640,7 +174640,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=982
+    num_owners=981
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -190240,8 +190240,8 @@ digraph {
     type=online
     state=active
     label="www.mainkind-magazin.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e1216c-aa5e-4013-a2f4-9e4103b84077"
@@ -198292,7 +198292,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=982
+    num_owners=981
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199060,7 +199060,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=982
+    num_owners=981
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199276,7 +199276,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=982
+    num_owners=981
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -202528,8 +202528,8 @@ digraph {
     type=online
     state=active
     label="www.stadtlandkind.info"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e1204b-6645-415e-b8a5-01d0ecbfbcd0"
@@ -207508,8 +207508,8 @@ digraph {
     type=online
     state=active
     label="www.wnoz.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7797-4017-a0d3-8cff48673538"
@@ -223521,6 +223521,18 @@ digraph {
     weight=1
     type=owns
   ];
+  2682 -> 2620 [
+    weight=100
+    type=owns
+  ];
+  2682 -> 11216 [
+    weight=1
+    type=owns
+  ];
+  2682 -> 11220 [
+    weight=28.57
+    type=owns
+  ];
   2683 -> 7884 [
     weight=1
     type=owns
@@ -223533,11 +223545,19 @@ digraph {
     weight=3.11
     type=owns
   ];
+  2686 -> 2685 [
+    weight=34.04
+    type=owns
+  ];
   2686 -> 3444 [
     weight=5.88
     type=owns
   ];
   2687 -> 2686 [
+    weight=60
+    type=owns
+  ];
+  2687 -> 13370 [
     weight=60
     type=owns
   ];
