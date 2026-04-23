@@ -5574,11 +5574,11 @@ digraph {
     label="Amundi S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=19
+    num_medias_weighted=0.0009
     name="69e76520-cac2-43f6-9edf-58895c0e9a06"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   465 [
     type=shareholder
@@ -26901,7 +26901,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="6874e949-83e8-48c0-a9e3-c5b96c6805fa"
-    in_degree=1
+    in_degree=3
     out_degree=2
   ];
   2242 [
@@ -121650,11 +121650,11 @@ digraph {
     label="Raschke, Thomas Clemens"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.6666
     name="69e5fd4c-910b-46b1-afdc-1155d5b8f399"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10138 [
     type=shareholder
@@ -140286,11 +140286,11 @@ digraph {
     label="SoulVision Holding GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.6666
     name="69e5fd86-6590-4ce6-bbde-a198585eb4cc"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11691 [
     type=print
@@ -149082,11 +149082,11 @@ digraph {
     label="Supreme Universal Holdings Ltd."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=19
-    num_medias_weighted=0.0009
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f17fc11-8ab6-45eb-b46c-66ae4967d0a5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12424 [
     type=shareholder
@@ -213237,6 +213237,10 @@ digraph {
     weight=3
     type=owns
   ];
+  464 -> 2492 [
+    weight=3.001
+    type=owns
+  ];
   465 -> 2543 [
     weight=1
     type=owns
@@ -257533,6 +257537,10 @@ digraph {
     weight=24.5
     type=owns
   ];
+  10137 -> 2241 [
+    weight=33.33
+    type=owns
+  ];
   10138 -> 3136 [
     weight=16.67
     type=owns
@@ -265345,6 +265353,10 @@ digraph {
     weight=42.5
     type=owns
   ];
+  11690 -> 2241 [
+    weight=33.33
+    type=owns
+  ];
   11695 -> 11694 [
     weight=100
     type=operates
@@ -268507,10 +268519,6 @@ digraph {
   ];
   12419 -> 13034 [
     weight=1
-    type=owns
-  ];
-  12423 -> 2492 [
-    weight=3.05
     type=owns
   ];
   12424 -> 11232 [
