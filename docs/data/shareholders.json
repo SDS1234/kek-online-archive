@@ -36022,7 +36022,7 @@
     "name": "Discovery Communications Deutschland GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ee49-4a3b-a184-2f0cbe7dffcf",
-    "controlDate": "2025-10-16T11:38:57.814Z",
+    "controlDate": "2026-04-22T14:07:28.263Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -241833,6 +241833,7 @@
     "squuid": "69e5fd86-6590-4ce6-bbde-a198585eb4cc",
     "name": "SoulVision Holding GmbH",
     "state": "active",
+    "controlDate": "2026-04-28T10:46:13.169Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -294684,6 +294685,19 @@
           "squuid": "5be1a6b1-9d29-4d58-bd71-2c65578a3871",
           "name": "Gronkh"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69f08fd6-eca3-4c86-8d63-371628ee697c",
+    "name": "Giese, Linda",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
