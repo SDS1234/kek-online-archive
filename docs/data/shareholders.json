@@ -6524,7 +6524,7 @@
     "squuid": "5be1a6b6-668b-417d-ac9e-d9e62d1f68cb",
     "name": "Discovery Communications LL.C.",
     "state": "active",
-    "controlDate": "2025-10-16T11:47:31.424Z",
+    "controlDate": "2026-04-28T11:04:19.338Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8035,7 +8035,7 @@
     "squuid": "5be1a6b6-a38f-41db-90bc-fed17f3adf5b",
     "name": "Disney Enterprises, Inc.",
     "state": "active",
-    "controlDate": "2025-10-16T11:51:56.163Z",
+    "controlDate": "2026-04-28T11:08:04.152Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11072,7 +11072,7 @@
     "squuid": "5be1a6b6-0de8-4f9d-b549-1bb726eaacbb",
     "name": "Disney/ABC International Television, Inc.",
     "state": "active",
-    "controlDate": "2025-10-16T11:52:27.201Z",
+    "controlDate": "2026-04-28T11:08:37.773Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -32165,7 +32165,7 @@
     "squuid": "5be1a6b6-cb21-4188-b1c0-c6b2d022afd0",
     "name": "Ditting Media Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T11:58:21.460Z",
+    "controlDate": "2026-04-28T11:12:04.721Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36195,7 +36195,7 @@
     "squuid": "5be1a6b6-b9a6-478e-b6f3-ae229f4a9397",
     "name": "Discovery Communications Europe Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T11:46:48.752Z",
+    "controlDate": "2026-04-28T11:03:56.059Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -36213,7 +36213,7 @@
     "squuid": "5be1a6b6-d1a0-4040-8a84-30323f3d02f9",
     "name": "Discovery Merger Sub LLC",
     "state": "active",
-    "controlDate": "2025-10-16T11:48:59.609Z",
+    "controlDate": "2026-04-28T11:06:36.075Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -48593,7 +48593,7 @@
     "squuid": "5be1a6b6-a79d-4e2b-9cf5-ebe795045d8f",
     "name": "Discovery Communications Holdings LL.C.",
     "state": "active",
-    "controlDate": "2025-10-16T11:47:08.441Z",
+    "controlDate": "2026-04-28T11:04:06.658Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -48944,7 +48944,7 @@
     "squuid": "5be1a6b6-fd4c-4a0b-91a7-a76adaf867c0",
     "name": "DNE Music Publishing Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:18:17.437Z",
+    "controlDate": "2026-04-28T11:53:45.673Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -48962,7 +48962,7 @@
     "squuid": "5be1a6b6-6def-4cf2-b59f-a4f97d435e5b",
     "name": "DNI Global LLP",
     "state": "active",
-    "controlDate": "2025-10-16T12:19:56.003Z",
+    "controlDate": "2026-04-28T11:55:02.529Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -70629,7 +70629,7 @@
     "squuid": "5be1a6b6-9b81-4a93-89d4-133f3cdffaed",
     "name": "DNI Foreign Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:19:36.308Z",
+    "controlDate": "2026-04-28T11:54:27.723Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -75019,6 +75019,15 @@
         "held": {
           "squuid": "5be1a6b1-f3b8-4141-b40d-e554de3de88d",
           "name": "www.oz-online.de"
+        }
+      },
+      {
+        "squuid": "69f0988e-b217-42af-9c89-0bffb946b3e7",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69f0984e-7816-4328-b86e-5fdc5a4cecab",
+          "name": "Tag 7 (Delmenhorst)"
         }
       }
     ]
@@ -79619,6 +79628,7 @@
     "squuid": "5be1a6b6-7a6c-4271-a31e-8a8d71025ef6",
     "name": "Dodge & Cox",
     "state": "active",
+    "controlDate": "2026-04-28T12:10:37.879Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85409,7 +85419,7 @@
     "squuid": "5be1a6b6-16e0-4cbe-ba66-81123dafc84a",
     "name": "DNI German Holdings I Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:19:42.523Z",
+    "controlDate": "2026-04-28T11:54:37.065Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85535,7 +85545,7 @@
     "squuid": "5be1a6b6-49f9-47de-8959-87391f8ed9f7",
     "name": "DNI German Holdings II Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:19:49.675Z",
+    "controlDate": "2026-04-28T11:54:51.361Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85553,7 +85563,7 @@
     "squuid": "5be1a6b6-2fbe-4df9-8bc3-6e14754bf12a",
     "name": "DNI Europe Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:19:23.692Z",
+    "controlDate": "2026-04-28T11:54:14.288Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85571,7 +85581,7 @@
     "squuid": "5be1a6b6-f0ce-4703-b1df-0450281ce53f",
     "name": "DNI Group Holdings LL.C.",
     "state": "active",
-    "controlDate": "2025-10-16T12:20:02.784Z",
+    "controlDate": "2026-04-28T11:55:11.200Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85589,7 +85599,7 @@
     "squuid": "5be1a6b6-b660-4075-a99f-ac09f6bf0cc7",
     "name": "Discovery Foreign Holdings, Inc.",
     "state": "active",
-    "controlDate": "2025-10-16T11:48:26.038Z",
+    "controlDate": "2026-04-28T11:06:05.697Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89159,7 +89169,7 @@
     "squuid": "5be1a6b6-ed7a-4b5c-83ab-745682f19f14",
     "name": "Discovery Luxembourg Holdings 1 S.A.R.L.",
     "state": "active",
-    "controlDate": "2025-10-16T11:48:34.806Z",
+    "controlDate": "2026-04-28T11:06:16.328Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89177,7 +89187,7 @@
     "squuid": "5be1a6b6-7035-481a-b487-81aaba8452c0",
     "name": "Discovery Luxembourg Holdings 2 S.A.R.L.",
     "state": "active",
-    "controlDate": "2025-10-16T11:48:41.503Z",
+    "controlDate": "2026-04-28T11:06:22.730Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -91539,7 +91549,7 @@
     "squuid": "5eb2b574-a5f4-4332-b31d-813162b5154d",
     "name": "Dobler & Co. GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T13:12:32.600Z",
+    "controlDate": "2026-04-28T11:59:55.895Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -124238,7 +124248,7 @@
     "squuid": "5be1a6b6-0ee7-47f2-a915-b345cd4ddc28",
     "name": "Ditzen GmbH & Co",
     "state": "active",
-    "controlDate": "2025-10-16T11:59:57.738Z",
+    "controlDate": "2026-04-28T11:13:50.117Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -138953,7 +138963,7 @@
     "squuid": "5be1a6b6-ce3d-4fa0-857a-2943fec90d45",
     "name": "Distribution & Marketing GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T11:57:48.534Z",
+    "controlDate": "2026-04-28T11:11:05.255Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -152038,7 +152048,7 @@
     "squuid": "5d10973b-3a7b-4603-85c9-243e23d9f890",
     "name": "DK Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-16T12:14:04.838Z",
+    "controlDate": "2026-04-28T11:31:39.761Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -171319,7 +171329,7 @@
     "squuid": "5ebe84cc-3400-4ae3-ba80-429d87c7a0e5",
     "name": "DK Medien Verwaltungs- und Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-16T12:05:08.982Z",
+    "controlDate": "2026-04-28T11:18:01.792Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200354,7 +200364,7 @@
     "squuid": "62b32aab-957c-46d3-a54b-758c23ffa59f",
     "name": "DMB-Verlag Verlags- und Verwaltungsgesellschaft des Deutschen Mieterbundes mbH",
     "state": "active",
-    "controlDate": "2025-10-16T12:15:08.040Z",
+    "controlDate": "2026-04-28T11:50:14.358Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204261,7 +204271,7 @@
     "squuid": "5f071aaf-3529-43a5-8a6b-3d3fe079a13c",
     "name": "DK Medien Management GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T12:14:13.027Z",
+    "controlDate": "2026-04-28T11:31:45.651Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -206422,7 +206432,7 @@
         "state": "active",
         "held": {
           "squuid": "63d9160c-dc91-4472-95af-1426084e9156",
-          "name": "www.krams-online.de"
+          "name": "www.lokale-wochenzeitungen.de/kreisblatt-am-sonntag"
         }
       },
       {
@@ -226846,7 +226856,7 @@
     "squuid": "5ef5de59-c3a7-4a49-8f2f-3d8632b88c98",
     "name": "Discovery Content Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T11:47:45.768Z",
+    "controlDate": "2026-04-28T11:05:48.032Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -234245,7 +234255,7 @@
     "squuid": "5be1a6b6-a7ce-4311-a3df-35b42e673e60",
     "name": "Dolde Medien Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T15:20:45.721Z",
+    "controlDate": "2026-04-28T12:13:28.051Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239773,7 +239783,7 @@
     "name": "DK Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-18f9-48d6-a1e6-34a9205f316a",
-    "controlDate": "2025-10-16T12:03:56.937Z",
+    "controlDate": "2026-04-28T11:16:10.026Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239806,7 +239816,16 @@
         "state": "active",
         "held": {
           "squuid": "63d9160c-dc91-4472-95af-1426084e9156",
-          "name": "www.krams-online.de"
+          "name": "www.lokale-wochenzeitungen.de/kreisblatt-am-sonntag"
+        }
+      },
+      {
+        "squuid": "69f09885-5dbf-409c-be4d-5e1ca4707283",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69f0984e-7816-4328-b86e-5fdc5a4cecab",
+          "name": "Tag 7 (Delmenhorst)"
         }
       }
     ]
@@ -252388,7 +252407,7 @@
     "squuid": "5be1a6b6-e660-46e0-bd90-afea41f8964c",
     "name": "DOCMAtische Gesellschaft Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T15:19:12.591Z",
+    "controlDate": "2026-04-28T12:07:56.675Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253616,7 +253635,7 @@
     "squuid": "5be1a6b6-65b7-4296-b04d-fcb87179b75e",
     "name": "DocCheck Community GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T15:15:33.428Z",
+    "controlDate": "2026-04-28T12:04:54.270Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253640,7 +253659,7 @@
     "squuid": "5be1a6b6-6816-42ce-a098-ba786fd091f4",
     "name": "DocCheck AG",
     "state": "active",
-    "controlDate": "2025-10-16T15:16:37.290Z",
+    "controlDate": "2026-04-28T12:04:02.960Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282909,7 +282928,7 @@
     "squuid": "5be1a6b6-71c8-45d3-9a6e-9829e10ff57f",
     "name": "DNI Barbados Holdings 2 Srl.",
     "state": "active",
-    "controlDate": "2025-10-16T12:18:45.797Z",
+    "controlDate": "2026-04-28T11:54:06.433Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282945,7 +282964,7 @@
     "squuid": "5be1a6b6-4de1-4f76-b1d5-75d689d30fd2",
     "name": "DNI Netherlands Holdings 2",
     "state": "active",
-    "controlDate": "2025-10-16T12:20:20.754Z",
+    "controlDate": "2026-04-28T11:55:39.549Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282963,7 +282982,7 @@
     "squuid": "5be1a6b6-b090-435a-a5f8-a5e22a08b997",
     "name": "DNI Netherlands Holdings 1",
     "state": "active",
-    "controlDate": "2025-10-16T12:20:15.465Z",
+    "controlDate": "2026-04-28T11:55:30.673Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282999,7 +283018,7 @@
     "squuid": "5be1a6b6-be4d-4067-ad44-1ed7d1702bb8",
     "name": "DNI Jersey 1 Ltd.",
     "state": "active",
-    "controlDate": "2025-10-16T12:20:08.656Z",
+    "controlDate": "2026-04-28T11:55:21.228Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -307375,7 +307394,7 @@
     "squuid": "5ee8ac68-8671-45a8-91fb-65eabc6ffc53",
     "name": "Doblerdruck GmbH",
     "state": "active",
-    "controlDate": "2025-10-16T15:12:26.649Z",
+    "controlDate": "2026-04-28T12:01:33.213Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
