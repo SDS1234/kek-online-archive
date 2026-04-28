@@ -33987,7 +33987,7 @@ digraph {
   2832 [
     type=shareholder
     state=active
-    label="Dolde Medien Verlag GmbH"
+    label="DoldeMedien Verlag GmbH"
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=6
@@ -34456,8 +34456,8 @@ digraph {
     type=shareholder
     state=active
     label="Dornier Medien Beteiligungs GmbH & Co. KG"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=8
     num_medias_weighted=7.5000
     name="5be1a6b6-4b7e-4540-9328-ae2ee4d41794"
@@ -34473,7 +34473,7 @@ digraph {
     num_medias=8
     num_medias_weighted=7.5000
     name="5f0580fa-7732-474c-a202-7561c3672200"
-    in_degree=3
+    in_degree=2
     out_degree=1
   ];
   2873 [
@@ -34486,14 +34486,14 @@ digraph {
     num_medias_weighted=0.0000
     name="5f0d76d7-633c-495a-b506-f18554778397"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   2874 [
     type=shareholder
     state=active
     label="Dornier Medien Verwaltungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=8
     num_medias_weighted=0.0000
     name="68f1fdc8-a00a-4999-b702-c18e77d15fc4"
@@ -125992,8 +125992,8 @@ digraph {
     type=shareholder
     state=active
     label="Rock World GmbH"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=5
     num_medias_weighted=0.0000
     name="67408fbf-f242-446f-b4d1-4ea9230d7d08"
@@ -126124,8 +126124,8 @@ digraph {
     type=shareholder
     state=active
     label="Rockworld Digital GmbH"
-    num_owners=7
-    num_owners_weighted=4.5000
+    num_owners=8
+    num_owners_weighted=5.0000
     num_medias=1
     num_medias_weighted=1.0000
     name="6673f960-53df-48fe-8106-2e5aebbe2d72"
@@ -144172,8 +144172,8 @@ digraph {
     type=radio
     state=active
     label="Star FM"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-98fc-4cf8-a9f3-bee6167d09a5"
@@ -144184,8 +144184,8 @@ digraph {
     type=shareholder
     state=active
     label="Star FM GmbH & Co. KG"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=5
     num_medias_weighted=4.5000
     name="5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0"
@@ -144196,8 +144196,8 @@ digraph {
     type=shareholder
     state=active
     label="STAR FM GmbH & Co. KG (Niederlassung Berlin)"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-fd71-4dcf-95ea-d597070a15e0"
@@ -144208,8 +144208,8 @@ digraph {
     type=radio
     state=active
     label="STAR FM Maximum Rock (Berlin)"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-498b-4234-9972-86cf10280ea2"
@@ -144220,8 +144220,8 @@ digraph {
     type=radio
     state=active
     label="STAR FM MAXIMUM ROCK national"
-    num_owners=8
-    num_owners_weighted=5.5000
+    num_owners=9
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6673f9b2-2b74-49b2-8dcc-a21781f27a13"
@@ -144232,8 +144232,8 @@ digraph {
     type=radio
     state=active
     label="STAR FM MAXIMUM ROCK Sachsen"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="64f1d85d-684b-41df-8dc2-23e223c64419"
@@ -144244,8 +144244,8 @@ digraph {
     type=shareholder
     state=active
     label="STAR FM Nürnberg Verwaltungs GmbH"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f96dc32-cd53-4987-b16f-ed689e744fa3"
@@ -144256,8 +144256,8 @@ digraph {
     type=radio
     state=active
     label="star fm Schwabach/Lauf/Fürth"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-303f-40b1-8be2-0a28e77be333"
@@ -174436,8 +174436,8 @@ digraph {
     type=online
     state=active
     label="www.berlin.starfm.de"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f33eed5-1b7b-4ed8-ab5c-1e8213566c34"
@@ -192784,8 +192784,8 @@ digraph {
     type=online
     state=active
     label="www.nbg.starfm.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f96db7c-a90f-4e03-b2ab-1826bf72f71e"
@@ -202768,8 +202768,8 @@ digraph {
     type=online
     state=active
     label="www.starfm.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f0d7487-afcc-4681-9d77-13506c48b5b6"
@@ -224402,10 +224402,6 @@ digraph {
     type=owns
   ];
   2873 -> 2871 [
-    weight=1
-    type=owns
-  ];
-  2873 -> 2872 [
     weight=1
     type=owns
   ];

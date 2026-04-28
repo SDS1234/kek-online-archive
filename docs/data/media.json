@@ -366,7 +366,7 @@
     "rfStatewide": false,
     "name": "Schrobenhausener Zeitung",
     "type": "print",
-    "controlDate": "2025-10-17T08:02:34.914Z",
+    "controlDate": "2026-04-28T13:56:18.696Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -386,7 +386,7 @@
     "rfStatewide": false,
     "name": "Eichstätter Kurier",
     "type": "print",
-    "controlDate": "2025-10-17T08:00:39.234Z",
+    "controlDate": "2026-04-28T13:55:40.517Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -406,7 +406,7 @@
     "rfStatewide": false,
     "name": "Hilpoltsteiner Kurier",
     "type": "print",
-    "controlDate": "2025-10-17T08:02:11.606Z",
+    "controlDate": "2026-04-28T13:55:50.043Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -426,7 +426,7 @@
     "rfStatewide": false,
     "name": "Pfaffenhofener Kurier",
     "type": "print",
-    "controlDate": "2025-10-17T08:02:24.985Z",
+    "controlDate": "2026-04-28T13:56:01.110Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -449,7 +449,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-17T08:04:23.057Z",
+    "controlDate": "2026-04-28T13:58:48.940Z",
     "state": "active"
   },
   {
@@ -467,7 +467,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-17T08:03:12.290Z",
+    "controlDate": "2026-04-28T13:58:37.559Z",
     "state": "active"
   },
   {
@@ -13393,7 +13393,7 @@
     "name": "www.eichstaetter-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:04:36.214Z",
+    "controlDate": "2026-04-28T13:59:07.489Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26394,7 +26394,7 @@
     "name": "www.hilpoltsteiner-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:05:17.928Z",
+    "controlDate": "2026-04-28T13:59:21.985Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33103,7 +33103,7 @@
     "name": "www.pfaffenhofener-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:05:47.340Z",
+    "controlDate": "2026-04-28T13:59:49.568Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35913,7 +35913,7 @@
     "name": "www.donnerwetter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:21:10.011Z",
+    "controlDate": "2026-04-28T14:08:15.155Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36036,7 +36036,7 @@
     "name": "www.schrobenhausener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:06:01.202Z",
+    "controlDate": "2026-04-28T14:00:00.720Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37830,7 +37830,7 @@
     "name": "www.ingolstadt-today.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T08:05:32.235Z",
+    "controlDate": "2026-04-28T13:59:37.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80713,7 +80713,7 @@
     "rfStatewide": false,
     "name": "Aichacher Zeitung",
     "type": "print",
-    "controlDate": "2025-10-17T08:00:08.223Z",
+    "controlDate": "2026-04-28T13:55:13.567Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81522,7 +81522,7 @@
     "rfStatewide": false,
     "name": "Serbske Nowiny",
     "type": "print",
-    "controlDate": "2025-10-17T07:50:38.305Z",
+    "controlDate": "2026-04-28T12:28:13.708Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97208,7 +97208,7 @@
     "rfStatewide": false,
     "name": "Donaukurier",
     "type": "print",
-    "controlDate": "2025-10-17T08:00:30.285Z",
+    "controlDate": "2026-04-28T13:55:31.393Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119054,7 +119054,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-17T07:50:44.729Z",
+    "controlDate": "2026-04-28T12:28:59.611Z",
     "state": "active"
   },
   {
@@ -126601,7 +126601,7 @@
     "name": "www.sportdeutschland.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T09:14:17.581Z",
+    "controlDate": "2026-04-28T14:22:46.451Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130456,7 +130456,7 @@
     "name": "www.dotdash.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T09:15:51.942Z",
+    "controlDate": "2026-04-28T14:23:36.969Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147068,7 +147068,7 @@
     "name": "www.domradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T07:56:56.274Z",
+    "controlDate": "2026-04-28T12:30:30.016Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
