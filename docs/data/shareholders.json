@@ -4107,14 +4107,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -5633,9 +5628,14 @@
     "controlDate": "2025-06-28T13:07:07.669Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -5700,9 +5700,20 @@
     "state": "active",
     "organizations": [
       {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+        "name": "BLM",
+        "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
       }
     ]
@@ -33484,19 +33495,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -306805,14 +306806,9 @@
     "controlDate": "2026-01-09T15:17:32.685Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]

@@ -14721,7 +14721,7 @@ digraph {
     num_medias=36
     num_medias_weighted=16.3940
     name="5be1a6b6-dcd1-45cc-8903-9c1d3d04def1"
-    in_degree=13
+    in_degree=12
     out_degree=2
   ];
   1227 [
@@ -15798,8 +15798,8 @@ digraph {
     label="Bierschenck, Burkhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0128
+    num_medias=0
+    num_medias_weighted=0.0000
     name="60bf5601-f1d0-40a3-a2ac-8b2af755cde5"
     in_degree=0
     out_degree=1
@@ -74250,11 +74250,11 @@ digraph {
     label="Kaltenegger, Maria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=36
-    num_medias_weighted=0.2459
+    num_medias=0
+    num_medias_weighted=0.0000
     name="605c985b-b401-4dba-b3e2-26ed69f2ae25"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6188 [
     type=shareholder
@@ -130110,8 +130110,8 @@ digraph {
     label="Sachon, Erna Hermine gen. Ernestine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0003
     name="60bf61ae-b8c6-4686-b9be-06ac3a91ed02"
     in_degree=0
     out_degree=2
@@ -159474,11 +159474,11 @@ digraph {
     label="Verlag Neuer Merkur GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=0.0128
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d14bf45-433d-4650-a0dc-efd3eab094f4"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   13290 [
     type=shareholder
@@ -159594,11 +159594,11 @@ digraph {
     label="Verlag W. Sachon GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0003
     name="60bf5f7f-a829-4931-8303-8b928c302f56"
     in_degree=1
-    out_degree=0
+    out_degree=1
   ];
   13300 [
     type=shareholder
@@ -239401,10 +239401,6 @@ digraph {
     weight=80
     type=owns
   ];
-  6187 -> 1226 [
-    weight=1.5
-    type=owns
-  ];
   6188 -> 7262 [
     weight=3
     type=owns
@@ -271929,10 +271925,6 @@ digraph {
     weight=100
     type=operates
   ];
-  13289 -> 1046 [
-    weight=3.01
-    type=owns
-  ];
   13290 -> 16116 [
     weight=100
     type=operates
@@ -272228,6 +272220,10 @@ digraph {
   13298 -> 15850 [
     weight=100
     type=operates
+  ];
+  13299 -> 1046 [
+    weight=1
+    type=owns
   ];
   13301 -> 3288 [
     weight=100
