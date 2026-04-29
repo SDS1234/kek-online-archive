@@ -13734,8 +13734,8 @@ digraph {
     label="Benoit, Mireille"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2215
+    num_medias=267
+    num_medias_weighted=0.9551
     name="5be1a6b6-fd34-4218-a3a3-fd1bdcb5ef7c"
     in_degree=0
     out_degree=3
@@ -32994,8 +32994,8 @@ digraph {
     label="Distelbarth, Annette"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.9791
+    num_medias=267
+    num_medias_weighted=4.2224
     name="5be1a6b6-7080-4c66-a301-003e8fbbf0db"
     in_degree=0
     out_degree=3
@@ -33006,8 +33006,8 @@ digraph {
     label="Distelbarth, Katja"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.9791
+    num_medias=267
+    num_medias_weighted=4.2224
     name="5be1a6b6-bdca-4671-a879-6147433cbdea"
     in_degree=0
     out_degree=3
@@ -33018,8 +33018,8 @@ digraph {
     label="Distelbarth, Marc Nicolai"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.4779
+    num_medias=267
+    num_medias_weighted=2.0609
     name="5be1a6b6-111a-4b7e-a06a-621be95bea4b"
     in_degree=0
     out_degree=3
@@ -33030,8 +33030,8 @@ digraph {
     label="Distelbarth, Margret"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.4196
+    num_medias=267
+    num_medias_weighted=1.8096
     name="5be1a6b6-0b3f-4a81-9af7-01fae4a2ba10"
     in_degree=0
     out_degree=3
@@ -33054,8 +33054,8 @@ digraph {
     label="Distelbarth, Tilmann"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=6.2361
+    num_medias=267
+    num_medias_weighted=26.8928
     name="5be1a6b6-5a72-43f0-ad07-b38e841ca9c7"
     in_degree=0
     out_degree=3
@@ -33066,8 +33066,8 @@ digraph {
     label="Distelbarth-Reusch, Liane"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.3264
+    num_medias=267
+    num_medias_weighted=1.4075
     name="5be1a6b6-8863-4f6f-916b-79bba2eb9f4b"
     in_degree=0
     out_degree=3
@@ -35298,11 +35298,11 @@ digraph {
     label="Druck & Medien Heilbronn GmbH"
     num_owners=15
     num_owners_weighted=15.0000
-    num_medias=93
-    num_medias_weighted=11.6564
+    num_medias=267
+    num_medias_weighted=50.2670
     name="5be1a6b6-f5de-4429-80a9-9391441615c9"
     in_degree=15
-    out_degree=6
+    out_degree=7
   ];
   2942 [
     type=shareholder
@@ -42030,8 +42030,8 @@ digraph {
     label="Erbengemeinschaft nach Hervé Radisson (Patrick Radisson, Chantal Radisson, Mireille Benoit, Sylvie Vincent)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.4428
+    num_medias=267
+    num_medias_weighted=1.1764
     name="5df9fef6-30e2-4792-b267-437f32e65c8d"
     in_degree=0
     out_degree=3
@@ -80430,8 +80430,8 @@ digraph {
     label="Krüger, Christel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.3147
+    num_medias=267
+    num_medias_weighted=1.3572
     name="5be1a6b6-4379-44ca-aba8-adb797562499"
     in_degree=0
     out_degree=3
@@ -80442,8 +80442,8 @@ digraph {
     label="Krüger, Hertha"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.1632
+    num_medias=267
+    num_medias_weighted=0.7037
     name="5be1a6b6-785b-40a5-8c3d-343bb3a5d765"
     in_degree=0
     out_degree=3
@@ -82206,8 +82206,8 @@ digraph {
     label="Ladenburger, Alesia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2904
+    num_medias=267
+    num_medias_weighted=1.3715
     name="5be1a6b6-bb85-416b-9844-4da3558517e9"
     in_degree=0
     out_degree=3
@@ -121062,8 +121062,8 @@ digraph {
     label="Radisson, Chantal"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2215
+    num_medias=267
+    num_medias_weighted=0.9551
     name="5be1a6b6-4189-4c1f-a4aa-37ef899d3abd"
     in_degree=0
     out_degree=3
@@ -121086,8 +121086,8 @@ digraph {
     label="Radisson, Patrick"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2215
+    num_medias=267
+    num_medias_weighted=0.9551
     name="5be1a6b6-8e0c-4ed1-8f36-b8a324a74b0e"
     in_degree=0
     out_degree=3
@@ -123774,8 +123774,8 @@ digraph {
     label="Reusch, Cecilia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2904
+    num_medias=267
+    num_medias_weighted=1.3715
     name="5be1a6b6-eee8-45ef-98a1-c7b88effd840"
     in_degree=0
     out_degree=3
@@ -160962,8 +160962,8 @@ digraph {
     label="Vincent, Sylvie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=93
-    num_medias_weighted=0.2215
+    num_medias=267
+    num_medias_weighted=0.9551
     name="5be1a6b6-7777-4a9f-95a4-4ab6c710d75b"
     in_degree=0
     out_degree=3
@@ -209649,7 +209649,7 @@ digraph {
     num_medias=254
     num_medias_weighted=38.9864
     name="5be1a6b6-09d2-4a02-b37d-f07967576dce"
-    in_degree=1
+    in_degree=2
     out_degree=2
   ];
   17471 [
@@ -224718,7 +224718,11 @@ digraph {
     type=owns
   ];
   2941 -> 12531 [
-    weight=5.61
+    weight=5.67
+    type=owns
+  ];
+  2941 -> 17470 [
+    weight=100
     type=owns
   ];
   2941 -> 2885 [

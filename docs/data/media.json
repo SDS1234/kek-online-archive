@@ -4153,7 +4153,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-17T10:10:56.111Z",
+    "controlDate": "2026-04-29T07:27:31.712Z",
     "state": "active"
   },
   {
@@ -39434,7 +39434,7 @@
     "name": "www.wochenblatt.vkz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T10:11:04.821Z",
+    "controlDate": "2026-04-29T07:27:40.712Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40035,7 +40035,7 @@
     "name": "lesenzwert",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-15T12:20:39.708Z",
+    "controlDate": "2026-04-29T07:27:08.104Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44026,7 +44026,7 @@
     "name": "DNN am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-17T10:45:48.614Z",
+    "controlDate": "2026-04-29T07:47:08.878Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69749,7 +69749,7 @@
     "rfStatewide": false,
     "name": "Vaihinger Kreiszeitung",
     "type": "print",
-    "controlDate": "2025-10-17T10:10:24.701Z",
+    "controlDate": "2026-04-29T07:26:56.621Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70841,7 +70841,7 @@
     "rfStatewide": false,
     "name": "Dresdner Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-17T10:46:02.932Z",
+    "controlDate": "2026-04-29T07:47:19.543Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118971,7 +118971,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-19T16:02:33.463Z",
+    "controlDate": "2026-04-29T07:47:28.323Z",
     "state": "active"
   },
   {
@@ -148915,7 +148915,7 @@
     "name": "www.radio-augsburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-17T10:35:55.833Z",
+    "controlDate": "2026-04-29T07:38:44.169Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153912,7 +153912,7 @@
     "name": "www.tv-mittelrhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T13:09:43.667Z",
+    "controlDate": "2026-04-29T07:58:01.252Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154004,7 +154004,7 @@
     "name": "www.ww-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T13:10:24.594Z",
+    "controlDate": "2026-04-29T07:58:07.198Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
