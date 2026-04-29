@@ -1,7 +1,7 @@
 {
   "pressPublishingIntervals": 52,
   "state": "active",
-  "squuid": "66584d6a-323a-4c9b-aa13-930244a1f0e6",
+  "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,28 +11,28 @@
     {
       "type": "operate",
       "holder": {
-        "name": "RND RedaktionsNetzwerk Deutschland GmbH",
-        "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d"
+        "name": "Druck- und Verlagsanstalt ''Neue Presse'' GmbH",
+        "squuid": "5be1a6b6-1e81-4164-913c-85bb36d68221"
       },
-      "squuid": "66584d9c-cb85-40c2-9d0c-4eac63f656b2",
+      "squuid": "69f1c624-d0d0-4c84-86d0-69c55d73be26",
       "state": "active"
     },
     {
       "type": "operate",
       "holder": {
-        "name": "Druck- und Verlagshaus J.C. Erhardt GmbH",
-        "squuid": "5be1a6b6-dd71-4b69-a2ce-2d279709db97"
+        "name": "Frankenpost Verlag GmbH",
+        "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234"
       },
-      "squuid": "66584da8-cf5b-43c9-89b8-f268abde7970",
+      "squuid": "69f1c631-b6a3-4b28-ad6a-9ba30163fcc1",
       "state": "active"
     }
   ],
-  "name": "NDZ am Sonntag",
+  "name": "Neue Presse am Sonntag",
   "pressEditionsIVW": false,
   "rfPublicPrivate": false,
   "pressDistributionArea": "nur als ePaper",
   "type": "print",
-  "controlDate": "2026-04-29T09:31:28.150Z",
+  "controlDate": "2026-04-29T08:49:56.654Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

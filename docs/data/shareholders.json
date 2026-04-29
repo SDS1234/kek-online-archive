@@ -4325,7 +4325,7 @@
     "squuid": "63b802f5-5c77-458b-ab22-15a97167b887",
     "name": "DTN Schweiz AG",
     "state": "active",
-    "controlDate": "2025-10-17T13:02:06.253Z",
+    "controlDate": "2026-04-29T09:52:09.507Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4552,7 +4552,7 @@
     "squuid": "5ec51f52-a9f0-4877-b907-ce3f69538a04",
     "name": "Druck und Verlag Köhring Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-17T11:36:06.874Z",
+    "controlDate": "2026-04-29T08:21:29.795Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -19505,7 +19505,7 @@
     "name": "Druckerei und Verlag Hans Högel KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f496-4b01-9204-ae8cbb56a1c9",
-    "controlDate": "2025-10-17T12:49:40.753Z",
+    "controlDate": "2026-04-29T09:41:26.468Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -19962,7 +19962,7 @@
     "squuid": "5cb74c22-0d93-4491-a253-f98685ffbc69",
     "name": "Druckhaus Nürnberg GmbH",
     "state": "active",
-    "controlDate": "2026-01-12T12:31:05.658Z",
+    "controlDate": "2026-04-29T09:49:55.934Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27288,7 +27288,7 @@
     "squuid": "63eba798-430b-4a62-9b30-d1825b4319d5",
     "name": "Druck + Verlag Josef Wegener GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T11:34:10.692Z",
+    "controlDate": "2026-04-29T08:19:07.119Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43764,7 +43764,7 @@
     "squuid": "5be1a6b6-1e81-4164-913c-85bb36d68221",
     "name": "Druck- und Verlagsanstalt ''Neue Presse'' GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T11:50:24.107Z",
+    "controlDate": "2026-04-29T08:43:39.391Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43837,6 +43837,15 @@
         "held": {
           "squuid": "5be1a6b1-2e06-4255-befa-f73fe47472a9",
           "name": "www.np-coburg.de"
+        }
+      },
+      {
+        "squuid": "69f1c624-d0d0-4c84-86d0-69c55d73be26",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6",
+          "name": "Neue Presse am Sonntag"
         }
       }
     ]
@@ -44342,6 +44351,15 @@
         "held": {
           "squuid": "682ee1f7-54c6-48df-ad29-f7553590328a",
           "name": "www.gemeindeblatt.digital"
+        }
+      },
+      {
+        "squuid": "69f1c631-b6a3-4b28-ad6a-9ba30163fcc1",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6",
+          "name": "Neue Presse am Sonntag"
         }
       }
     ]
@@ -73170,7 +73188,7 @@
     "name": "Druck- und Verlagsgesellschaft Köhring GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-0141-4364-b990-7124c2e65875",
-    "controlDate": "2025-10-17T11:35:56.008Z",
+    "controlDate": "2026-04-29T08:21:48.180Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73861,7 +73879,7 @@
     "squuid": "5be1a6b6-dd71-4b69-a2ce-2d279709db97",
     "name": "Druck- und Verlagshaus J.C. Erhardt GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T12:29:44.361Z",
+    "controlDate": "2026-04-29T09:31:02.511Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -98398,7 +98416,7 @@
     "name": "Druck- und Verlagshaus Hermann Daniel GmbH & Co KG Betriebsgesellschaft",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3fe1-4a5e-978d-c5d57e719297",
-    "controlDate": "2025-10-17T12:10:32.297Z",
+    "controlDate": "2026-04-29T09:22:38.642Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -131282,7 +131300,7 @@
     "squuid": "5be1a6b6-b99e-430e-8cd0-d72d20fa211e",
     "name": "Duisburger Versorgungs- und Verkehrsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-17T13:37:46.498Z",
+    "controlDate": "2026-04-29T09:59:01.995Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -165463,7 +165481,7 @@
     "squuid": "5ec3dd7a-e6be-4fb2-9bf1-4e95f67848b2",
     "name": "Druck- und Pressehaus GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T11:40:37.495Z",
+    "controlDate": "2026-04-29T08:29:46.668Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204321,7 +204339,7 @@
     "squuid": "61e6f4f9-1c14-4b88-839d-9304df023083",
     "name": "DS Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T13:01:14.496Z",
+    "controlDate": "2026-04-29T09:51:10.100Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214380,10 +214398,10 @@
   },
   {
     "state": "active",
-    "name": "Druckerei und Verlag H. Hofmann GmbH & Co KG",
+    "name": "Druckerei und Verlag H. Hofmann GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4fcf-4f09-a04d-c5ef14d2019e",
-    "controlDate": "2025-10-17T12:44:05.149Z",
+    "controlDate": "2026-04-29T09:35:36.032Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -220197,7 +220215,7 @@
     "squuid": "5be1a6b6-2123-4c9e-8b2a-c56cf8c82f58",
     "name": "Druckerei Fuchs, Verlag Schwarzwälder Post, Inhaber Hanspeter Schwendemann e.K",
     "state": "active",
-    "controlDate": "2025-10-17T12:37:47.785Z",
+    "controlDate": "2026-04-29T09:33:41.083Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220846,7 +220864,7 @@
     "squuid": "5be1a6b6-ca12-4993-958c-8a1b8d98a3ca",
     "name": "Druck- und Verlagsgesellschaft Bietigheim mbH",
     "state": "active",
-    "controlDate": "2025-10-17T11:57:08.932Z",
+    "controlDate": "2026-04-29T08:56:47.568Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -220933,7 +220951,7 @@
     "squuid": "5be1a6b6-9aea-4e05-a044-57210f8f9a59",
     "name": "Druck- und Verlagshaus Hüpke & Sohn Weserland-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T12:21:28.346Z",
+    "controlDate": "2026-04-29T09:26:32.854Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -222292,7 +222310,7 @@
     "name": "Druck- und Pressehaus Naumann GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7965-4235-96c0-9db33ee19d4b",
-    "controlDate": "2025-10-17T11:43:03.954Z",
+    "controlDate": "2026-04-29T08:30:51.887Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253629,7 +253647,7 @@
     "squuid": "5be1a6b6-9669-442f-b2ce-81bd90cbafd6",
     "name": "DTN Germany GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T13:02:39.957Z",
+    "controlDate": "2026-04-29T09:53:50.192Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -265723,7 +265741,7 @@
     "squuid": "62d81f6a-f37f-475c-a99f-993c23776145",
     "name": "Druckhaus Mainfranken GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T12:55:28.980Z",
+    "controlDate": "2026-04-29T09:47:34.658Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267180,7 +267198,7 @@
     "squuid": "5ee37acc-6ec6-471a-910f-8edb453d1459",
     "name": "Druck- und Verlagshaus Hermann Daniel VerwaItungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T12:08:32.742Z",
+    "controlDate": "2026-04-29T09:22:25.651Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271396,7 +271414,7 @@
     "squuid": "5be1a6b6-19d3-49a9-bf4f-92e995d66dbb",
     "name": "DTN Europe Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-10-17T13:01:57.173Z",
+    "controlDate": "2026-04-29T09:51:58.396Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -278980,7 +278998,7 @@
     "squuid": "5be1a6b6-651a-45e0-9db0-186aca6b0b9c",
     "name": "Druckerei und Verlag Karl Ziegler GmbH",
     "state": "active",
-    "controlDate": "2025-10-17T12:54:18.958Z",
+    "controlDate": "2026-04-29T09:45:00.004Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
