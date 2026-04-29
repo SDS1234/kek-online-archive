@@ -4794,11 +4794,11 @@ digraph {
     label="Altehoefer, Brigitte"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=73
-    num_medias_weighted=0.0132
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-5b3e-4177-8534-a3ca24589b7e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   400 [
     type=print
@@ -41778,11 +41778,11 @@ digraph {
     label="Erbengemeinschaft Dr. Gerhard Hauser (Christof Hauser, Michael Hauser)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=73
-    num_medias_weighted=0.0066
+    num_medias=0
+    num_medias_weighted=0.0000
     name="664c8501-fbb6-48ef-a69a-6a2706ae405c"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3482 [
     type=shareholder
@@ -41838,11 +41838,11 @@ digraph {
     label="Erbengemeinschaft Helmut Keller (Kai Keller, Uwe Keller)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=73
-    num_medias_weighted=0.0132
+    num_medias=0
+    num_medias_weighted=0.0000
     name="664c84d6-8d7c-4632-8a1f-5b8fba210003"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3487 [
     type=shareholder
@@ -48426,8 +48426,8 @@ digraph {
     label="Frank, Cornelia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=77
-    num_medias_weighted=1.0657
+    num_medias=4
+    num_medias_weighted=1.0600
     name="5be1a6b6-a268-4de3-b8d4-e3eaa909246d"
     in_degree=0
     out_degree=1
@@ -61890,11 +61890,11 @@ digraph {
     label="Hauser, Dr. Theo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=73
-    num_medias_weighted=0.0066
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-37f7-4e1f-bff1-d1a870f89e84"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5158 [
     type=shareholder
@@ -62598,11 +62598,11 @@ digraph {
     label="Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft"
     num_owners=3
     num_owners_weighted=2.0000
-    num_medias=77
-    num_medias_weighted=4.0214
+    num_medias=4
+    num_medias_weighted=4.0000
     name="5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b"
     in_degree=3
-    out_degree=5
+    out_degree=4
   ];
   5217 [
     type=shareholder
@@ -62610,7 +62610,7 @@ digraph {
     label="Heidenheimer Zeitung Verlagsgesellschaft mbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=77
+    num_medias=4
     num_medias_weighted=0.0000
     name="5ece46e2-76dd-469c-8848-d9cbc1c8f016"
     in_degree=1
@@ -150381,7 +150381,7 @@ digraph {
     num_medias=73
     num_medias_weighted=16.4919
     name="5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
-    in_degree=38
+    in_degree=33
     out_degree=2
   ];
   12532 [
@@ -168114,7 +168114,7 @@ digraph {
     label="Wilhelm, Dirk Martin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=77
+    num_medias=4
     num_medias_weighted=0.0000
     name="68359e30-d518-4b2a-935f-944b9d8c60d0"
     in_degree=0
@@ -213045,10 +213045,6 @@ digraph {
     weight=100
     type=operates
   ];
-  399 -> 12531 [
-    weight=1
-    type=owns
-  ];
   408 -> 409 [
     weight=100
     type=owns
@@ -226957,20 +226953,12 @@ digraph {
     weight=12.5
     type=owns
   ];
-  3481 -> 12531 [
-    weight=1
-    type=owns
-  ];
   3483 -> 12770 [
     weight=100
     type=owns
   ];
   3485 -> 11509 [
     weight=3.1
-    type=owns
-  ];
-  3486 -> 12531 [
-    weight=1
     type=owns
   ];
   3490 -> 1595 [
@@ -234669,10 +234657,6 @@ digraph {
     weight=100
     type=owns
   ];
-  5157 -> 12531 [
-    weight=1
-    type=owns
-  ];
   5160 -> 13036 [
     weight=4.63
     type=owns
@@ -234882,10 +234866,6 @@ digraph {
     type=owns
   ];
   5212 -> 10234 [
-    weight=1
-    type=owns
-  ];
-  5216 -> 12531 [
     weight=1
     type=owns
   ];
