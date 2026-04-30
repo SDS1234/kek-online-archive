@@ -5575,7 +5575,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=19
-    num_medias_weighted=0.0009
+    num_medias_weighted=0.0007
     name="69e76520-cac2-43f6-9edf-58895c0e9a06"
     in_degree=0
     out_degree=1
@@ -23491,7 +23491,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0308
+    num_medias_weighted=0.0305
     name="5be1a6b6-7007-41df-ab4e-ed7f52e8f110"
     in_degree=0
     out_degree=2
@@ -28015,7 +28015,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=19
-    num_medias_weighted=0.0298
+    num_medias_weighted=0.0238
     name="5f0dbdcc-4002-4401-aa50-f03bdc26d1a6"
     in_degree=1
     out_degree=2
@@ -29911,7 +29911,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=19
-    num_medias_weighted=0.0298
+    num_medias_weighted=0.0238
     name="5f1019f9-0cec-4117-9db6-06777350ca73"
     in_degree=5
     out_degree=1
@@ -30199,7 +30199,7 @@ digraph {
     num_owners=19
     num_owners_weighted=10.5000
     num_medias=20
-    num_medias_weighted=1.0006
+    num_medias_weighted=1.0005
     name="5f02dd72-8c1b-4faa-a1b0-236f43af03f4"
     in_degree=3
     out_degree=2
@@ -30211,7 +30211,7 @@ digraph {
     num_owners=10
     num_owners_weighted=10.0000
     num_medias=20
-    num_medias_weighted=0.6004
+    num_medias_weighted=0.6003
     name="5f102067-9197-4ded-9a36-8a0556e5b3fb"
     in_degree=10
     out_degree=1
@@ -32644,7 +32644,7 @@ digraph {
     type=radio
     state=active
     label="Discofox Antenne"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -36148,8 +36148,8 @@ digraph {
     type=shareholder
     state=active
     label="dunk media group GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=21
     num_medias_weighted=1.0000
     name="6888a62a-6fe9-40cc-9e9f-cf0affae719a"
@@ -36391,7 +36391,7 @@ digraph {
     num_owners=31
     num_owners_weighted=10.7961
     num_medias=19
-    num_medias_weighted=0.0380
+    num_medias_weighted=0.0304
     name="5efaedaf-47bf-4056-a1ef-77a33e63fff0"
     in_degree=2
     out_degree=1
@@ -36403,7 +36403,7 @@ digraph {
     num_owners=10
     num_owners_weighted=8.7694
     num_medias=19
-    num_medias_weighted=0.0375
+    num_medias_weighted=0.0300
     name="5f02dd2f-a75c-4b4f-8bfb-340dd621327e"
     in_degree=4
     out_degree=1
@@ -36415,7 +36415,7 @@ digraph {
     num_owners=32
     num_owners_weighted=11.7961
     num_medias=19
-    num_medias_weighted=0.0380
+    num_medias_weighted=0.0304
     name="5be1a6b6-c474-4fe8-87d9-642d012c049e"
     in_degree=1
     out_degree=2
@@ -36493,28 +36493,28 @@ digraph {
     out_degree=0
   ];
   3041 [
-    type=shareholder
-    state=active
-    label="Dyn Media GmbH"
-    num_owners=12
-    num_owners_weighted=5.8911
-    num_medias=2
-    num_medias_weighted=2.0000
-    name="64f05eba-3974-457a-ba20-a04043c85ab7"
-    in_degree=4
-    out_degree=2
-  ];
-  3042 [
     type=tv
     state=active
     label="Dyn Sport"
-    num_owners=13
-    num_owners_weighted=6.8911
+    num_owners=16
+    num_owners_weighted=7.2195
     num_medias=0
     num_medias_weighted=0.0000
     name="64f05fe8-c332-4d09-9554-63b9e6dbfd3b"
     in_degree=1
     out_degree=0
+  ];
+  3042 [
+    type=shareholder
+    state=active
+    label="Dyn Sport GmbH"
+    num_owners=15
+    num_owners_weighted=6.2195
+    num_medias=2
+    num_medias_weighted=2.0000
+    name="64f05eba-3974-457a-ba20-a04043c85ab7"
+    in_degree=4
+    out_degree=2
   ];
   3043 [
     type=shareholder
@@ -72160,8 +72160,8 @@ digraph {
     type=radio
     state=active
     label="jazz fm"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="688b39a1-94cc-46c8-bb1d-1320ebf40aaa"
@@ -87352,7 +87352,7 @@ digraph {
     type=radio
     state=active
     label="lounge plus – chillout radio"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -91264,7 +91264,7 @@ digraph {
     type=radio
     state=active
     label="MAXX FM (Berlin)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -103831,7 +103831,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=19
-    num_medias_weighted=0.0019
+    num_medias_weighted=0.0015
     name="5f0dbdf6-9b4a-4b14-9d0d-1f595c54e0ef"
     in_degree=0
     out_degree=1
@@ -108931,7 +108931,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=19
-    num_medias_weighted=0.0014
+    num_medias_weighted=0.0011
     name="5f17fbf2-0f46-4333-a59d-6e6bd8a56b38"
     in_degree=0
     out_degree=1
@@ -112063,7 +112063,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0590
+    num_medias_weighted=0.0589
     name="5f155520-c156-4373-affa-4820d9012bf7"
     in_degree=0
     out_degree=1
@@ -112087,7 +112087,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0590
+    num_medias_weighted=0.0589
     name="5f1554e9-1451-4eec-a4bf-120b2648a57a"
     in_degree=0
     out_degree=1
@@ -112111,7 +112111,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0590
+    num_medias_weighted=0.0589
     name="5f155534-82c9-41e1-81ae-a1a758df38f6"
     in_degree=0
     out_degree=1
@@ -112171,7 +112171,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0590
+    num_medias_weighted=0.0589
     name="5f15550c-7bc1-41d9-8b00-c40efb974b47"
     in_degree=0
     out_degree=1
@@ -112195,7 +112195,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=20
-    num_medias_weighted=0.0590
+    num_medias_weighted=0.0589
     name="5f1554f9-ecdd-499e-b2e4-d89519886a09"
     in_degree=0
     out_degree=1
@@ -116044,7 +116044,7 @@ digraph {
     type=radio
     state=active
     label="radio B2 (Hessen)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -116056,7 +116056,7 @@ digraph {
     type=shareholder
     state=active
     label="radio B2 GmbH"
-    num_owners=1
+    num_owners=2
     num_owners_weighted=1.0000
     num_medias=20
     num_medias_weighted=20.0000
@@ -117532,7 +117532,7 @@ digraph {
     type=radio
     state=active
     label="radio GOLD (Berlin)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132136,7 +132136,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio (Berlin)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132148,7 +132148,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio (bundesweit)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132160,7 +132160,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio (Mecklenburg-Vorpommern)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132172,7 +132172,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio (SLM)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132184,7 +132184,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio (Thüringen)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132196,7 +132196,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio - Das Schlager Radio"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132208,7 +132208,7 @@ digraph {
     type=radio
     state=active
     label="Schlager Radio plus (Berlin)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -144328,7 +144328,7 @@ digraph {
     type=radio
     state=active
     label="STAR*SAT RADIO (Berlin)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -144340,7 +144340,7 @@ digraph {
     type=radio
     state=active
     label="STAR*SAT RADIO (bundesweit)"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -146659,7 +146659,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=19
-    num_medias_weighted=0.0250
+    num_medias_weighted=0.0200
     name="5f17fcdd-b8aa-4566-9ef0-ca4121a3280a"
     in_degree=0
     out_degree=1
@@ -146755,7 +146755,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=19
-    num_medias_weighted=0.0058
+    num_medias_weighted=0.0046
     name="5f0dbe77-c7a9-4afd-bed7-3b12d5e49acc"
     in_degree=0
     out_degree=1
@@ -178684,7 +178684,7 @@ digraph {
     type=online
     state=active
     label="www.discofox-antenne.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -179320,8 +179320,8 @@ digraph {
     type=online
     state=active
     label="www.dyn.sport"
-    num_owners=13
-    num_owners_weighted=6.8911
+    num_owners=16
+    num_owners_weighted=7.2195
     num_medias=0
     num_medias_weighted=0.0000
     name="65b0ecb3-4aa3-4b71-8716-9a6bda973edd"
@@ -189868,7 +189868,7 @@ digraph {
     type=online
     state=active
     label="www.loungeplus.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -190660,7 +190660,7 @@ digraph {
     type=online
     state=active
     label="www.maxxfmberlin.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -197272,7 +197272,7 @@ digraph {
     type=online
     state=active
     label="www.radiogold.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -200308,7 +200308,7 @@ digraph {
     type=online
     state=active
     label="www.schlagerradiob2.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -202804,7 +202804,7 @@ digraph {
     type=online
     state=active
     label="www.starsat.de"
-    num_owners=2
+    num_owners=3
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -214745,7 +214745,7 @@ digraph {
     weight=100
     type=owns
   ];
-  799 -> 3041 [
+  799 -> 3042 [
     weight=42.5
     type=owns
   ];
@@ -223061,7 +223061,7 @@ digraph {
     weight=100
     type=owns
   ];
-  2575 -> 3041 [
+  2575 -> 3042 [
     weight=6.4
     type=owns
   ];
@@ -225370,7 +225370,7 @@ digraph {
     type=owns
   ];
   3034 -> 374 [
-    weight=3.85
+    weight=2.97
     type=owns
   ];
   3034 -> 9530 [
@@ -225381,11 +225381,11 @@ digraph {
     weight=1
     type=owns
   ];
-  3041 -> 3042 [
+  3042 -> 3041 [
     weight=100
     type=operates
   ];
-  3041 -> 14943 [
+  3042 -> 14943 [
     weight=100
     type=operates
   ];
@@ -257885,7 +257885,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10202 -> 3041 [
+  10202 -> 3042 [
     weight=9
     type=owns
   ];
@@ -263065,7 +263065,7 @@ digraph {
     weight=1
     type=owns
   ];
-  11221 -> 3041 [
+  11221 -> 3042 [
     weight=42.1
     type=owns
   ];
