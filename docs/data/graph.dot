@@ -23133,7 +23133,7 @@ digraph {
     num_medias=42
     num_medias_weighted=0.1106
     name="5be1a6b6-a32c-4753-8627-e04281f49dc3"
-    in_degree=4
+    in_degree=3
     out_degree=1
   ];
   1928 [
@@ -24021,7 +24021,7 @@ digraph {
     num_medias=97
     num_medias_weighted=3.6837
     name="5be1a6b6-1830-46a1-ac52-73c3fa740a75"
-    in_degree=12
+    in_degree=13
     out_degree=7
   ];
   2002 [
@@ -24033,7 +24033,7 @@ digraph {
     num_medias=97
     num_medias_weighted=0.0000
     name="5ebbff38-f9b1-47fa-a4f7-8d42b86cefb7"
-    in_degree=8
+    in_degree=9
     out_degree=1
   ];
   2003 [
@@ -63378,11 +63378,11 @@ digraph {
     label="Heistermann von Ziehlberg, Erika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=42
-    num_medias_weighted=0.0332
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-5c48-42a6-92cd-16dd1c0bbae2"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5282 [
     type=shareholder
@@ -126366,11 +126366,11 @@ digraph {
     label="Romanek-Pfahler, Stefanie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=97
     num_medias_weighted=0.0000
     name="69e0e0e7-10fb-4abe-aa5f-9ea99e1527df"
     in_degree=0
-    out_degree=0
+    out_degree=2
   ];
   10531 [
     type=shareholder
@@ -235501,10 +235501,6 @@ digraph {
     weight=10
     type=owns
   ];
-  5281 -> 1927 [
-    weight=30
-    type=owns
-  ];
   5282 -> 1927 [
     weight=40
     type=owns
@@ -260096,6 +260092,14 @@ digraph {
   10528 -> 16598 [
     weight=100
     type=operates
+  ];
+  10530 -> 2001 [
+    weight=3.23
+    type=owns
+  ];
+  10530 -> 2002 [
+    weight=3.22
+    type=owns
   ];
   10531 -> 8678 [
     weight=1
