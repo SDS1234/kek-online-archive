@@ -8238,11 +8238,11 @@ digraph {
     label="Attenkofer GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=256
+    num_medias_weighted=0.0339
     name="69e20910-73f2-4102-8181-7458ab31f0a2"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   687 [
     type=shareholder
@@ -25125,7 +25125,7 @@ digraph {
     num_medias=256
     num_medias_weighted=48.4087
     name="5be1a6b6-f22b-4544-889f-d31615692dc4"
-    in_degree=2
+    in_degree=3
     out_degree=46
   ];
   2094 [
@@ -214155,6 +214155,10 @@ digraph {
   ];
   685 -> 690 [
     weight=83.7
+    type=owns
+  ];
+  686 -> 2093 [
+    weight=1
     type=owns
   ];
   687 -> 9074 [
