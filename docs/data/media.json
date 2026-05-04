@@ -1076,7 +1076,7 @@
     "rfStatewide": false,
     "name": "Ahlener Tageblatt",
     "type": "print",
-    "controlDate": "2025-10-20T10:35:09.094Z",
+    "controlDate": "2026-05-04T08:17:59.169Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1139,7 +1139,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-20T10:35:38.256Z",
+    "controlDate": "2026-05-04T08:18:33.085Z",
     "state": "active"
   },
   {
@@ -41841,7 +41841,7 @@
     "name": "www.wersekurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-20T10:36:04.191Z",
+    "controlDate": "2026-05-04T08:18:46.498Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48454,7 +48454,7 @@
     "name": "hierzulande",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T10:35:28.493Z",
+    "controlDate": "2026-05-04T08:18:19.723Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85017,7 +85017,7 @@
     "rfStatewide": false,
     "name": "Die Glocke",
     "type": "print",
-    "controlDate": "2025-10-20T10:35:18.800Z",
+    "controlDate": "2026-05-04T08:18:09.748Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -143327,7 +143327,7 @@
     "name": "www.hierzulande.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-05-19T13:05:08.861Z",
+    "controlDate": "2026-05-04T08:18:39.883Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

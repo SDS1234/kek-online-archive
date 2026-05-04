@@ -81998,7 +81998,7 @@
     "name": "E. Holterdorf GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c488-44e2-a1a2-a1fade69831a",
-    "controlDate": "2025-10-20T10:34:53.618Z",
+    "controlDate": "2026-05-04T08:17:39.801Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -213147,6 +213147,7 @@
     "squuid": "69e20910-73f2-4102-8181-7458ab31f0a2",
     "name": "Attenkofer GmbH",
     "state": "active",
+    "controlDate": "2026-05-04T07:55:41.111Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -218582,7 +218583,7 @@
     "squuid": "5eb00b6f-51ba-47f3-8424-887cd762ffe0",
     "name": "E. Holterdorf Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T10:34:47.276Z",
+    "controlDate": "2026-05-04T08:17:15.775Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244797,7 +244798,7 @@
     "squuid": "5be1a6b6-a950-4b1a-b4f6-3880b3acd982",
     "name": "e-quadrat communications gmbh",
     "state": "active",
-    "controlDate": "2025-10-20T10:00:37.374Z",
+    "controlDate": "2026-05-04T08:06:59.204Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306202,6 +306203,19 @@
     ]
   },
   {
+    "squuid": "69f854fd-d3c2-405e-800a-1d73575d8a7f",
+    "name": "Albrecht, Anatol",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "61dff99d-ab4e-4701-b4c0-231676963949",
     "name": "DocPlanner SubHoldings B.V.",
     "state": "archived",
@@ -306265,6 +306279,19 @@
           "squuid": "63ea152e-dd02-4143-a8d7-56c04349f893",
           "name": "www.der-lokalanzeiger.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "69f854f0-ea94-44ef-a851-5be0c2119720",
+    "name": "Albrecht, Yannick",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -306436,7 +306463,7 @@
     "squuid": "5d14bef7-3599-4e36-ac95-9a445288f28d",
     "name": "E. Albrecht Verlags-KG",
     "state": "active",
-    "controlDate": "2025-10-20T10:03:06.426Z",
+    "controlDate": "2026-05-04T08:11:10.779Z",
     "limitedPartnership": true,
     "organizations": [
       {
