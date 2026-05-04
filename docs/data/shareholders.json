@@ -4913,7 +4913,7 @@
     "squuid": "5d318d6b-b29a-4118-b8eb-f43d90262544",
     "name": "Einbock GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:32:42.133Z",
+    "controlDate": "2026-05-04T14:57:40.483Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24278,9 +24278,9 @@
   },
   {
     "squuid": "5d31ad30-29ce-451b-a6d3-e1765c0a95a9",
-    "name": "egghead Medien GmbH",
+    "name": "egghead Medienservice GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T12:24:41.078Z",
+    "controlDate": "2026-05-04T13:59:10.666Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -68820,7 +68820,7 @@
     "squuid": "5be1a6b6-5043-4571-9285-522e3bbdf93d",
     "name": "EGRO-Direktwerbung GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:13:08.515Z",
+    "controlDate": "2026-05-04T14:30:17.448Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84595,7 +84595,7 @@
     "squuid": "6852bad3-2c39-427b-bba6-49adc50398c4",
     "name": "Eduardo Gordillo GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T12:03:33.744Z",
+    "controlDate": "2026-05-04T13:55:30.831Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -133505,7 +133505,7 @@
     "squuid": "5d244f6b-27a8-4e17-b15a-9cef7848dcdc",
     "name": "ECA Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:41:48.271Z",
+    "controlDate": "2026-05-04T13:14:35.215Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139205,7 +139205,7 @@
     "squuid": "5be1a6b6-7b81-4b50-8e0f-4291b6790d20",
     "name": "Echo Zeitungen GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:43:09.522Z",
+    "controlDate": "2026-05-04T13:14:57.579Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139287,6 +139287,15 @@
         "held": {
           "squuid": "5be1a6b1-6a4b-4d8b-974e-105768e78a7b",
           "name": "Dieburger Anzeiger"
+        }
+      },
+      {
+        "squuid": "69f89eb4-7131-4c70-9d32-3904e24040ae",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-bc2a-44e9-b021-e2e2a1c654cf",
+          "name": "Rüsselsheimer Echo"
         }
       }
     ]
@@ -161334,7 +161343,7 @@
     "squuid": "5ebbabf0-1a73-407e-99bc-581090c4a440",
     "name": "Edel Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-10-20T11:55:40.792Z",
+    "controlDate": "2026-05-04T13:35:14.840Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166374,7 +166383,7 @@
     "squuid": "5f8072bc-58e8-44e8-a7a2-0176183f1d6d",
     "name": "EICURA Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:18:57.358Z",
+    "controlDate": "2026-05-04T14:34:09.969Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -186753,7 +186762,7 @@
     "squuid": "654e3210-c2c1-44b7-a84d-d7d0fc2932f3",
     "name": "EFa Vermögensverwaltungs KG",
     "state": "active",
-    "controlDate": "2025-10-20T12:08:46.071Z",
+    "controlDate": "2026-05-04T13:56:49.486Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -189556,7 +189565,7 @@
     "squuid": "5d372501-75bd-4cec-ad12-1bdeb34cfdda",
     "name": "EHC Eisbären Management GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:16:44.588Z",
+    "controlDate": "2026-05-04T14:30:38.839Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190882,7 +190891,7 @@
     "squuid": "5d3729ad-71bf-43e4-9461-882027bb315e",
     "name": "EHC Red Bull München GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:17:14.716Z",
+    "controlDate": "2026-05-04T14:30:48.225Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192763,7 +192772,7 @@
     "squuid": "61e57df9-416c-46f8-b68e-4537c3ad0c15",
     "name": "Einstieg GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:40:46.503Z",
+    "controlDate": "2026-05-04T15:01:57.496Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210991,7 +211000,7 @@
     "squuid": "5ee23fda-d782-4cc2-bc5a-9c10182d804f",
     "name": "Eigenrauch Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:22:26.345Z",
+    "controlDate": "2026-05-04T14:49:54.054Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -213110,7 +213119,7 @@
     "squuid": "5be1a6b6-4c47-4f29-8bdd-f4d99f00d0cb",
     "name": "Edition Musikant Musikverlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:57:03.010Z",
+    "controlDate": "2026-05-04T13:47:20.536Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221760,7 +221769,7 @@
     "squuid": "5be1a6b6-f3f6-42df-859a-44f666dd9a3e",
     "name": "Egmont Ehapa Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T12:27:01.687Z",
+    "controlDate": "2026-05-04T14:01:08.095Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221887,15 +221896,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-c3f7-4149-a301-1e3743c38e8c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-451a-4977-964e-1f87fcad90f8",
-          "name": "Monster High"
-        }
-      },
-      {
         "squuid": "5be43e5c-c51f-41ee-a278-09f932aa59b5",
         "type": "operate",
         "state": "active",
@@ -221964,7 +221964,7 @@
         "state": "active",
         "held": {
           "squuid": "659fdab1-9f40-4a11-ac64-4afa511dd0b4",
-          "name": "Heroes of Manga"
+          "name": "Legacy Collection"
         }
       },
       {
@@ -222009,7 +222009,7 @@
     "squuid": "5be1a6b6-67f7-4906-9af6-ea355f4919fc",
     "name": "Einhard-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:37:03.117Z",
+    "controlDate": "2026-05-04T14:58:19.650Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239203,7 +239203,7 @@
     "squuid": "5be1a6b6-b18c-4507-8069-c16fdf191746",
     "name": "Ein Herz für Tiere Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:24:13.157Z",
+    "controlDate": "2026-05-04T14:51:59.012Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239237,15 +239237,6 @@
         "held": {
           "squuid": "5be1a6b1-d10f-4d92-9c1a-967dc1d906d4",
           "name": "Partner Hund"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-3352-40d6-a7c0-d338a5a0d7bc",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-e275-4353-836d-66631b84b5cd",
-          "name": "Dogs today"
         }
       },
       {
@@ -241950,7 +241941,7 @@
     "squuid": "5be1a6b6-fbc3-45de-bee2-dc21435d2fa3",
     "name": "Egmont Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T12:28:45.425Z",
+    "controlDate": "2026-05-04T14:02:00.155Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267079,7 +267070,7 @@
     "squuid": "5be1a6b6-b819-45e6-87ca-dac0f09f4d56",
     "name": "Egmont International Holding A/S",
     "state": "active",
-    "controlDate": "2025-10-20T12:28:56.170Z",
+    "controlDate": "2026-05-04T14:03:54.642Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -270193,7 +270184,7 @@
     "squuid": "5ef9bd3c-9df7-4b77-a582-08401a622a32",
     "name": "Ehrenklau Druck GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T13:17:41.629Z",
+    "controlDate": "2026-05-04T14:32:04.427Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -278002,20 +277993,10 @@
     "controlDate": "2025-10-27T09:29:55.977Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-5ace-4173-af05-d0351eacc8cc",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-bc2a-44e9-b021-e2e2a1c654cf",
-          "name": "Rüsselsheimer Echo"
-        }
       }
     ]
   },
@@ -280323,7 +280304,7 @@
     "squuid": "5c51b217-a2f5-46f0-88ac-b38d1b3d3589",
     "name": "Echte Mamas GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:51:10.783Z",
+    "controlDate": "2026-05-04T13:30:21.168Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

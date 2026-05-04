@@ -7424,7 +7424,7 @@
     "rfStatewide": false,
     "name": "My little Pony",
     "type": "print",
-    "controlDate": "2025-10-20T12:55:28.406Z",
+    "controlDate": "2026-05-04T14:16:51.353Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7445,7 +7445,7 @@
     "rfStatewide": false,
     "name": "Lustiges Taschenbuch spezial",
     "type": "print",
-    "controlDate": "2025-10-20T12:52:05.206Z",
+    "controlDate": "2026-05-04T14:13:24.855Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7466,7 +7466,7 @@
     "rfStatewide": false,
     "name": "Donald Duck",
     "type": "print",
-    "controlDate": "2025-10-20T12:46:57.184Z",
+    "controlDate": "2026-05-04T14:11:32.981Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -7477,7 +7477,7 @@
   },
   {
     "pressPublishingIntervals": 12,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-451a-4977-964e-1f87fcad90f8",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -8055,7 +8055,7 @@
     "rfStatewide": false,
     "name": "Peppa Pig",
     "type": "print",
-    "controlDate": "2025-10-20T12:58:14.168Z",
+    "controlDate": "2026-05-04T14:21:36.477Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -9395,7 +9395,7 @@
     "rfStatewide": false,
     "name": "Dogs",
     "type": "print",
-    "controlDate": "2025-10-20T13:27:08.143Z",
+    "controlDate": "2026-05-04T14:52:18.459Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14585,7 +14585,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-20T13:37:16.163Z",
+    "controlDate": "2026-05-04T15:00:05.801Z",
     "state": "active"
   },
   {
@@ -16321,7 +16321,7 @@
     "name": "www.juraforum.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-20T13:33:43.239Z",
+    "controlDate": "2026-05-04T14:57:46.663Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27055,7 +27055,7 @@
     "name": "Donald Duck & Co",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:47:23.830Z",
+    "controlDate": "2026-05-04T14:11:44.216Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37467,7 +37467,7 @@
     "name": "Lustiges Taschenbuch Enten-Edition",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:51:55.605Z",
+    "controlDate": "2026-05-04T14:13:15.079Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41890,7 +41890,7 @@
     "name": "Wendy Comics",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T13:02:43.624Z",
+    "controlDate": "2026-05-04T14:22:49.410Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -51601,7 +51601,7 @@
     "name": "Disney Stitch",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:41:19.898Z",
+    "controlDate": "2026-05-04T14:10:27.667Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79593,7 +79593,7 @@
     "name": "Echo am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T11:46:46.020Z",
+    "controlDate": "2026-05-04T13:19:32.805Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81423,7 +81423,7 @@
     "rfStatewide": false,
     "name": "Dieburger Anzeiger",
     "type": "print",
-    "controlDate": "2025-10-20T11:46:34.953Z",
+    "controlDate": "2026-05-04T13:16:46.016Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82128,7 +82128,7 @@
     "rfStatewide": false,
     "name": "Micky Maus Magazin",
     "type": "print",
-    "controlDate": "2025-10-20T12:53:28.606Z",
+    "controlDate": "2026-05-04T14:14:37.586Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82149,7 +82149,7 @@
     "rfStatewide": false,
     "name": "Disney Die Eiskönigin spezial",
     "type": "print",
-    "controlDate": "2025-10-20T12:35:46.460Z",
+    "controlDate": "2026-05-04T14:09:45.486Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82170,7 +82170,7 @@
     "rfStatewide": false,
     "name": "Wendy",
     "type": "print",
-    "controlDate": "2025-10-20T13:02:30.947Z",
+    "controlDate": "2026-05-04T14:22:36.546Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82212,7 +82212,7 @@
     "rfStatewide": false,
     "name": "Barbie",
     "type": "print",
-    "controlDate": "2025-10-20T12:32:57.195Z",
+    "controlDate": "2026-05-04T14:07:09.230Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82254,7 +82254,7 @@
     "rfStatewide": false,
     "name": "Winnie Puuh",
     "type": "print",
-    "controlDate": "2025-10-20T13:02:54.268Z",
+    "controlDate": "2026-05-04T14:22:57.898Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82275,7 +82275,7 @@
     "rfStatewide": false,
     "name": "Galileo Genial",
     "type": "print",
-    "controlDate": "2025-10-20T12:48:27.307Z",
+    "controlDate": "2026-05-04T14:12:45.151Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82320,7 +82320,7 @@
     "rfStatewide": false,
     "name": "Lustiges Taschenbuch",
     "type": "print",
-    "controlDate": "2025-10-20T12:51:28.131Z",
+    "controlDate": "2026-05-04T14:13:06.223Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82403,7 +82403,7 @@
     "rfStatewide": false,
     "name": "Disney Prinzessin",
     "type": "print",
-    "controlDate": "2025-10-20T12:36:08.270Z",
+    "controlDate": "2026-05-04T14:09:57.112Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82465,7 +82465,7 @@
     "rfStatewide": false,
     "name": "Micky Maus Comics",
     "type": "print",
-    "controlDate": "2025-10-20T12:53:01.778Z",
+    "controlDate": "2026-05-04T14:14:22.682Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82486,7 +82486,7 @@
     "rfStatewide": false,
     "name": "Disney Die Eiskönigin",
     "type": "print",
-    "controlDate": "2025-10-20T12:34:12.980Z",
+    "controlDate": "2026-05-04T14:09:36.924Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -82549,7 +82549,7 @@
     "rfStatewide": false,
     "name": "Kirchenzeitung für das Bistum Aachen",
     "type": "print",
-    "controlDate": "2025-10-20T13:37:08.809Z",
+    "controlDate": "2026-05-04T14:59:58.720Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99006,7 +99006,7 @@
     "name": "Barbie Spezial",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:33:27.740Z",
+    "controlDate": "2026-05-04T14:07:18.942Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -100251,7 +100251,7 @@
     "rfStatewide": false,
     "name": "Darmstädter Echo",
     "type": "print",
-    "controlDate": "2025-10-20T11:46:21.813Z",
+    "controlDate": "2026-05-04T13:16:32.635Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -100878,7 +100878,7 @@
     "rfStatewide": false,
     "name": "Ein Herz für Tiere",
     "type": "print",
-    "controlDate": "2025-10-20T13:27:27.177Z",
+    "controlDate": "2026-05-04T14:52:34.441Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100925,7 +100925,7 @@
     "rfStatewide": false,
     "name": "Geliebte Katze",
     "type": "print",
-    "controlDate": "2025-10-20T13:27:37.485Z",
+    "controlDate": "2026-05-04T14:52:41.638Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100946,7 +100946,7 @@
     "rfStatewide": false,
     "name": "Partner Hund",
     "type": "print",
-    "controlDate": "2025-10-20T13:27:46.775Z",
+    "controlDate": "2026-05-04T14:52:49.449Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104479,7 +104479,7 @@
     "rfStatewide": false,
     "name": "Mädchen",
     "type": "print",
-    "controlDate": "2025-10-20T12:55:38.253Z",
+    "controlDate": "2026-05-04T14:16:19.493Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104500,7 +104500,7 @@
     "rfStatewide": false,
     "name": "Popcorn",
     "type": "print",
-    "controlDate": "2025-10-20T12:56:41.663Z",
+    "controlDate": "2026-05-04T14:22:26.999Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116401,7 +116401,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-e275-4353-836d-66631b84b5cd",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -116411,7 +116411,7 @@
     "rfStatewide": false,
     "name": "Dogs today",
     "type": "print",
-    "controlDate": "2025-10-20T13:27:18.047Z",
+    "controlDate": "2026-05-04T14:52:26.666Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116474,7 +116474,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-20T13:27:53.912Z",
+    "controlDate": "2026-05-04T14:52:58.408Z",
     "state": "active"
   },
   {
@@ -119491,7 +119491,7 @@
     "rfStatewide": false,
     "name": "Rüsselsheimer Echo",
     "type": "print",
-    "controlDate": "2025-10-27T09:30:52.887Z",
+    "controlDate": "2026-05-04T13:27:25.811Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119625,7 +119625,7 @@
     "rfStatewide": false,
     "name": "Odenwälder Echo",
     "type": "print",
-    "controlDate": "2025-10-20T11:47:11.652Z",
+    "controlDate": "2026-05-04T13:20:05.294Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119645,7 +119645,7 @@
     "rfStatewide": false,
     "name": "Starkenburger Echo",
     "type": "print",
-    "controlDate": "2026-01-12T10:52:00.729Z",
+    "controlDate": "2026-05-04T13:21:27.071Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119689,7 +119689,7 @@
     "rfStatewide": false,
     "name": "Groß-Gerauer Echo",
     "type": "print",
-    "controlDate": "2025-10-20T11:46:59.259Z",
+    "controlDate": "2026-05-04T13:19:45.510Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -134365,7 +134365,7 @@
     "name": "www.einstieg.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-20T13:41:06.141Z",
+    "controlDate": "2026-05-04T15:04:01.340Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137003,10 +137003,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Heroes of Manga",
+    "name": "Legacy Collection",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:50:22.260Z",
+    "controlDate": "2026-05-04T14:12:55.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142878,7 +142878,7 @@
     "name": "www.kraichgau.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-20T12:24:48.298Z",
+    "controlDate": "2026-05-04T13:59:16.493Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153120,7 +153120,7 @@
     "name": "www.echtemamas.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-20T11:52:48.653Z",
+    "controlDate": "2026-05-04T13:30:30.125Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153703,7 +153703,7 @@
     "name": "Disney Prinzessin spezial",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:36:35.405Z",
+    "controlDate": "2026-05-04T14:10:05.810Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153937,7 +153937,7 @@
     "name": "Disney Stars",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-20T12:37:12.763Z",
+    "controlDate": "2026-05-04T14:10:18.554Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163713,7 +163713,7 @@
     "name": "www.vrm-wochenblaetter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:13:23.090Z",
+    "controlDate": "2026-05-04T13:23:28.950Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
