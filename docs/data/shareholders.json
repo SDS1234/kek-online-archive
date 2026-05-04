@@ -55517,7 +55517,7 @@
     "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df",
     "name": "Ebner Pressegesellschaft GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-20T11:21:38.822Z",
+    "controlDate": "2026-05-04T08:48:22.184Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -99157,7 +99157,7 @@
     "squuid": "5be1a6b6-581e-47b2-9825-26042dfbf904",
     "name": "Verlagsgruppe Ebner Ulm GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-11T13:51:27.975Z",
+    "controlDate": "2026-05-04T09:29:42.557Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -163020,7 +163020,7 @@
     "squuid": "5ca5f485-2f5b-480e-9ff5-23fe9505c952",
     "name": "ebiz GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T10:55:04.748Z",
+    "controlDate": "2026-05-04T08:32:05.219Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169781,7 +169781,7 @@
     "squuid": "5f843fe0-3e4a-4179-a857-3ebcaa7f1e2c",
     "name": "EazyBioLive and Vital GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T10:43:19.014Z",
+    "controlDate": "2026-05-04T08:27:12.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -174440,7 +174440,7 @@
     "squuid": "5ebd3d24-4dd7-47d5-92ef-61cf0345c6b9",
     "name": "Ebner Ulm MGV GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:02:47.101Z",
+    "controlDate": "2026-05-04T08:45:21.879Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180680,6 +180680,19 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69f8677d-0a77-4946-a265-7226b941ec7a",
+    "name": "Kasten, Fabian",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -221588,7 +221601,7 @@
     "name": "Ebner Media Group GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-84e9-4f17-a677-1e326d5da9f2",
-    "controlDate": "2025-10-20T11:04:37.178Z",
+    "controlDate": "2026-05-04T08:41:06.653Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221643,15 +221656,6 @@
         }
       },
       {
-        "squuid": "5c5ad932-823b-422b-bf04-b389dbed7104",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c5ad837-034d-4f50-918e-0a83f47e317e",
-          "name": "wohin."
-        }
-      },
-      {
         "squuid": "621768db-121f-4178-ab81-dad44b65c589",
         "type": "operate",
         "state": "active",
@@ -221667,15 +221671,6 @@
         "held": {
           "squuid": "621cc575-c2a1-480b-a834-c67f21063ab4",
           "name": "www.print.de"
-        }
-      },
-      {
-        "squuid": "62b09b19-4932-4050-a8c8-bb8578f05b7c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-ee85-4a7f-95a9-6dbe3703ad95",
-          "name": "www.keybords.de"
         }
       },
       {
@@ -232438,7 +232433,7 @@
     "squuid": "5eb021e1-5dff-4c26-a5f2-5614fd012f71",
     "name": "Ebner GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T11:00:57.021Z",
+    "controlDate": "2026-05-04T08:37:34.421Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232996,7 +232991,7 @@
     "squuid": "5eb0232d-f75b-41da-826a-5d879b90b1ce",
     "name": "Verlagsgruppe Ebner Ulm Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-11T13:49:28.358Z",
+    "controlDate": "2026-05-04T09:33:19.352Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -252198,7 +252193,7 @@
     "squuid": "5c5071dd-4a12-4a02-b4a4-7a843b26139b",
     "name": "Eberle Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-20T10:47:38.613Z",
+    "controlDate": "2026-05-04T08:30:03.160Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -252307,7 +252302,7 @@
     "name": "Eat Smarter GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-08c9-499d-b377-78178a433d69",
-    "controlDate": "2025-10-20T10:38:42.447Z",
+    "controlDate": "2026-05-04T08:26:00.381Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267877,7 +267872,7 @@
     "squuid": "5be1a6b6-7c0b-48f9-a266-4eafdb443c57",
     "name": "eBay International AG",
     "state": "active",
-    "controlDate": "2025-10-20T10:45:56.662Z",
+    "controlDate": "2026-05-04T08:28:43.488Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300370,7 +300365,7 @@
     "squuid": "5ec50cd3-35e7-48cb-9dc6-d597bbe8a176",
     "name": "Eat Smarter Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-20T10:37:51.553Z",
+    "controlDate": "2026-05-04T08:25:53.991Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
