@@ -161127,56 +161127,29 @@
   {
     "squuid": "620526cb-319b-4925-915c-323e60d74589",
     "name": "Dumrath & Co. GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-04-30T11:51:31.458Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
   },
   {
-    "state": "active",
-    "name": "Dumrath & Fassnacht KG (GmbH & Co.)",
-    "limitedPartnership": true,
     "squuid": "620526aa-92d9-4ff8-9789-da52975886a7",
+    "name": "Dumrath & Fassnacht KG (GmbH & Co.)",
+    "state": "archived",
     "controlDate": "2026-04-30T11:55:57.187Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "62052745-9855-437a-95bb-921a3c891f1a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "620526e1-2f24-4ad4-a6c0-3b8c6becccb8",
-          "name": "www.hamburg-magazin.de"
-        }
-      },
-      {
-        "squuid": "62052760-6876-4505-b2f9-b9316432952c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6205270d-5b49-4613-b5eb-d2b4b8b501ff",
-          "name": "www.kiel-magazin.de"
-        }
-      },
-      {
-        "squuid": "620527b4-7c96-4044-ac58-2924ff20580b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6205271c-a310-4c3e-8a6f-bf8b6ee188a4",
-          "name": "www.luebeck-magazin.de"
-        }
       }
     ]
   },
@@ -167736,7 +167709,7 @@
     "squuid": "5f9aa77f-92ed-46fb-9e26-c463aba573b2",
     "name": "Dumrath & Fassnacht Verwaltung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-30T11:56:15.269Z",
+    "controlDate": "2026-05-05T16:18:43.897Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -189803,15 +189776,45 @@
     ]
   },
   {
-    "squuid": "69fa10de-2dcc-4082-9645-70549da4afb1",
-    "name": "Heise & Dumrath Medien GmbH & Co. KG",
     "state": "active",
+    "name": "Heise & Dumrath Medien GmbH & Co. KG",
+    "limitedPartnership": true,
+    "squuid": "69fa10de-2dcc-4082-9645-70549da4afb1",
+    "controlDate": "2026-05-05T16:08:08.450Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69fa11b5-5c1d-4fbc-94e0-d3cd4de72172",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "620526e1-2f24-4ad4-a6c0-3b8c6becccb8",
+          "name": "www.hamburg-magazin.de"
+        }
+      },
+      {
+        "squuid": "69fa11cf-96e4-46de-ad7f-34a1c89b8f65",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6205270d-5b49-4613-b5eb-d2b4b8b501ff",
+          "name": "www.kiel-magazin.de"
+        }
+      },
+      {
+        "squuid": "69fa11e7-cb5a-4822-ab02-4f2037cdf6d5",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6205271c-a310-4c3e-8a6f-bf8b6ee188a4",
+          "name": "www.luebeck-magazin.de"
+        }
       }
     ]
   },
@@ -190456,6 +190459,19 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69fa16ac-5074-4ce3-8931-efa70fbfc1cf",
+    "name": "Heise & Dumrath Medien Geschäftsführungs-GmbH",
+    "state": "active",
+    "controlDate": "2026-05-05T16:15:44.622Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
