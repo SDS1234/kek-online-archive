@@ -1670,7 +1670,7 @@
     "squuid": "68763289-ed66-40a6-93c3-fc5ff6a8832c",
     "name": "F-Invest UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-10-22T11:02:50.797Z",
+    "controlDate": "2026-05-05T12:09:25.620Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4306,7 +4306,7 @@
     "squuid": "666bed6a-3e78-4238-833a-7028273d38ec",
     "name": "F-World GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T11:03:30.090Z",
+    "controlDate": "2026-05-05T12:10:07.603Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12567,7 +12567,7 @@
     "squuid": "5be1a6b6-1f45-422c-9390-75197848d1aa",
     "name": "Extra-Radio Rundfunkprogramm GmbH",
     "state": "active",
-    "controlDate": "2025-10-21T14:26:41.715Z",
+    "controlDate": "2026-05-05T11:56:16.548Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49596,7 +49596,7 @@
     "squuid": "5be1a6b6-064d-4865-b9cf-1ed14ee01812",
     "name": "F&M Film und Medien Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T11:02:34.540Z",
+    "controlDate": "2026-05-05T12:05:45.202Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -56192,7 +56192,7 @@
     "name": "F. Wolff & Sohn KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f96c-4e11-901f-037faf330020",
-    "controlDate": "2025-10-22T12:15:53.950Z",
+    "controlDate": "2026-05-05T12:29:02.442Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -80532,7 +80532,7 @@
     "squuid": "5be1a6b6-cbf4-47d2-9a60-33d8de97af4b",
     "name": "F.i.S.-Fernsehen in Sachsen GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T12:31:59.656Z",
+    "controlDate": "2026-05-05T12:51:04.458Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -106732,27 +106732,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "62a8b2f5-6e40-411c-9fe5-f07bd55b70ff",
-    "controlDate": "2025-10-22T10:56:50.525Z",
+    "name": "Extra-Tip Werbegesellschaft mbH & Co. KG",
+    "state": "archived",
+    "controlDate": "2026-05-05T11:57:53.255Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "62a8b313-360a-4fad-9a16-cc95abbf3d9b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "62a8b289-9e26-411f-8fe8-981ebaec068e",
-          "name": "www.lokalo24.de"
-        }
       }
     ]
   },
@@ -109090,12 +109080,13 @@
   {
     "squuid": "62a8b365-6b5c-4565-b17a-c8aa869700f5",
     "name": "Extra-Tip Verwaltungs-GmbH",
-    "state": "active",
-    "controlDate": "2025-10-22T10:56:39.777Z",
+    "state": "archived",
+    "controlDate": "2026-05-05T11:57:44.848Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -123152,7 +123143,7 @@
     "squuid": "5ee21f31-f385-4bda-8581-d53b2dc3fafa",
     "name": "Fahner Concept & Digital GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T14:01:53.997Z",
+    "controlDate": "2026-05-05T12:54:39.685Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150704,7 +150695,7 @@
     "squuid": "5f9a8866-a194-4014-a962-5cc3cfe959ba",
     "name": "F. Holzer GmbH (Österreich)",
     "state": "active",
-    "controlDate": "2025-10-22T12:13:43.926Z",
+    "controlDate": "2026-05-05T12:12:15.255Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -174651,7 +174642,7 @@
     "squuid": "6851744b-0a40-404f-aee7-4be606d11981",
     "name": "fahrwerkfilm GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T14:03:49.876Z",
+    "controlDate": "2026-05-05T12:57:49.689Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176941,7 +176932,7 @@
     "squuid": "63e37239-be3f-48bc-8921-3feebffc45e0",
     "name": "EXTRA-TIP Werbungs- und Vertriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-22T10:59:00.497Z",
+    "controlDate": "2026-05-05T12:04:28.575Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194167,7 +194158,7 @@
     "squuid": "60192ac8-42d0-4acf-8346-582da6aa1453",
     "name": "Fachverlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T14:00:37.730Z",
+    "controlDate": "2026-05-05T12:54:16.451Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197188,7 +197179,7 @@
     "squuid": "6373b7b3-3d15-4608-880e-5c68a836b267",
     "name": "falkemedia Fräulein Medien GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T14:15:17.158Z",
+    "controlDate": "2026-05-05T13:19:01.150Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -212771,7 +212762,7 @@
     "squuid": "5be1a6b6-2ddb-45c7-a773-78de315d8d94",
     "name": "F.A.Z. Electronic Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T12:23:23.318Z",
+    "controlDate": "2026-05-05T12:47:16.160Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237764,7 +237755,7 @@
     "squuid": "5be1a6b6-2e7d-4005-98f8-b8cee474afc5",
     "name": "F.A.Z. Business Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T12:23:13.728Z",
+    "controlDate": "2026-05-05T12:40:52.130Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256048,15 +256039,6 @@
         }
       },
       {
-        "squuid": "62a8b2ac-d2fd-4108-945a-cd8f826a7529",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "62a8b289-9e26-411f-8fe8-981ebaec068e",
-          "name": "www.lokalo24.de"
-        }
-      },
-      {
         "squuid": "62a8b601-0686-4862-9ed4-0fab0f772540",
         "type": "operate",
         "state": "active",
@@ -256799,7 +256781,7 @@
     "squuid": "5be1a6b6-fe51-45c8-bb97-01124f8b3978",
     "name": "falkemedia digital GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T14:07:45.082Z",
+    "controlDate": "2026-05-05T13:14:10.793Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261914,7 +261896,7 @@
     "squuid": "5be1a6b6-76c9-4752-89d6-2802a7271609",
     "name": "Fahner Familienbeteiligungsgesellschaft bR",
     "state": "active",
-    "controlDate": "2025-10-22T14:02:02.743Z",
+    "controlDate": "2026-05-05T12:56:31.608Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301960,7 +301942,7 @@
     "squuid": "5f96d030-8ab9-44c6-a739-9479f1355cd4",
     "name": "F. Holzer GmbH",
     "state": "active",
-    "controlDate": "2025-10-22T12:13:28.626Z",
+    "controlDate": "2026-05-05T12:11:49.175Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
