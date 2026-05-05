@@ -44355,7 +44355,7 @@ digraph {
   3696 [
     type=shareholder
     state=active
-    label="Evangelisches Medienhaus GmbH"
+    label="Evangelisches Medienhaus GmbH (Leipzig)"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=22
@@ -44367,7 +44367,7 @@ digraph {
   3697 [
     type=shareholder
     state=active
-    label="Evangelisches Medienhaus GmbH Stuttgart"
+    label="Evangelisches Medienhaus GmbH (Stuttgart)"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=1
@@ -44668,8 +44668,8 @@ digraph {
     type=shareholder
     state=active
     label="Extra Verlagsgesellschaft mbH"
-    num_owners=61
-    num_owners_weighted=21.6059
+    num_owners=62
+    num_owners_weighted=22.6059
     num_medias=1
     num_medias_weighted=1.0000
     name="63e3cf74-db05-4475-ba94-da6e26fe14af"
@@ -180724,8 +180724,8 @@ digraph {
     type=online
     state=active
     label="www.extra-verlag.de"
-    num_owners=62
-    num_owners_weighted=22.6059
+    num_owners=63
+    num_owners_weighted=23.6059
     num_medias=0
     num_medias_weighted=0.0000
     name="63e3cf45-9d1c-4eb1-841f-a88a67789ca5"
