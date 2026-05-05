@@ -42364,8 +42364,8 @@ digraph {
     type=shareholder
     state=active
     label="ern Media GmbH"
-    num_owners=16
-    num_owners_weighted=16.0000
+    num_owners=45
+    num_owners_weighted=12.6620
     num_medias=3
     num_medias_weighted=0.1296
     name="5cadbf24-e92f-4bca-815c-78be20d8f5b8"
@@ -42724,8 +42724,8 @@ digraph {
     type=shareholder
     state=active
     label="Es Costes Verwaltungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="68495885-c283-4670-9701-6145904f7904"
@@ -82670,6 +82670,18 @@ digraph {
   ];
   6889 [
     type=print
+    state=active
+    label="Land Idee Beste Rezepte"
+    num_owners=18
+    num_owners_weighted=10.3614
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5c17c915-0911-430a-8482-b11074a24721"
+    in_degree=1
+    out_degree=0
+  ];
+  6890 [
+    type=print
     state=archived
     label="Land Idee Dekoideen"
     num_owners=0
@@ -82678,18 +82690,6 @@ digraph {
     num_medias_weighted=0.0000
     name="5be1a6b1-ac69-477c-ac3e-f6f634ae8c64"
     in_degree=0
-    out_degree=0
-  ];
-  6890 [
-    type=print
-    state=active
-    label="Land Idee Rezeptreihe"
-    num_owners=18
-    num_owners_weighted=10.3614
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5c17c915-0911-430a-8482-b11074a24721"
-    in_degree=1
     out_degree=0
   ];
   6891 [
@@ -119224,8 +119224,8 @@ digraph {
     type=radio
     state=active
     label="Radio Paradiso 98.2 (Berlin-Brandenburg)"
-    num_owners=77
-    num_owners_weighted=25.7395
+    num_owners=106
+    num_owners_weighted=25.9193
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-298a-48a7-bc83-986d96bc7ac2"
@@ -119236,8 +119236,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Paradiso GmbH & Co. KG"
-    num_owners=76
-    num_owners_weighted=24.7395
+    num_owners=105
+    num_owners_weighted=24.9193
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-f3bc-43d6-9d76-6f69bc5dec0d"
@@ -195052,8 +195052,8 @@ digraph {
     type=online
     state=active
     label="www.paradiso-nord.de"
-    num_owners=77
-    num_owners_weighted=41.6795
+    num_owners=106
+    num_owners_weighted=41.8593
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1abf27-1c06-4196-893b-1b1682f586f5"
@@ -195064,8 +195064,8 @@ digraph {
     type=online
     state=active
     label="www.paradiso.de"
-    num_owners=77
-    num_owners_weighted=25.7395
+    num_owners=106
+    num_owners_weighted=25.9193
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1abaf9-d927-40c1-aba7-cf9f9688ea28"
@@ -227630,7 +227630,7 @@ digraph {
     type=owns
   ];
   3688 -> 3530 [
-    weight=100
+    weight=50
     type=owns
   ];
   3688 -> 3674 [
@@ -229861,7 +229861,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4280 -> 6890 [
+  4280 -> 6889 [
     weight=100
     type=operates
   ];

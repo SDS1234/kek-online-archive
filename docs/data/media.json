@@ -6427,7 +6427,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 8,
+    "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5c17c915-0911-430a-8482-b11074a24721",
     "organization": {
@@ -6435,10 +6435,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Land Idee Rezeptreihe",
+    "name": "Land Idee Beste Rezepte",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-27T11:16:48.563Z",
+    "controlDate": "2026-05-05T08:17:37.586Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12484,7 +12484,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-21T12:44:33.497Z",
+    "controlDate": "2026-05-05T09:48:17.775Z",
     "state": "active"
   },
   {
@@ -12812,7 +12812,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-21T11:43:03.804Z",
+    "controlDate": "2026-05-05T09:05:18.305Z",
     "state": "active"
   },
   {
@@ -16973,7 +16973,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-21T12:50:55.561Z",
+    "controlDate": "2026-05-05T09:53:08.979Z",
     "state": "active"
   },
   {
@@ -33448,7 +33448,7 @@
     "name": "www.europa.eu",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T12:12:05.582Z",
+    "controlDate": "2026-05-05T09:16:50.205Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35097,7 +35097,7 @@
     "name": "espresso",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-21T11:32:16.798Z",
+    "controlDate": "2026-05-05T08:53:08.708Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35354,7 +35354,7 @@
     "name": "www.espresso-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:32:23.861Z",
+    "controlDate": "2026-05-05T08:53:16.468Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43086,7 +43086,7 @@
     "name": "www.sonnenklar.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T12:17:14.652Z",
+    "controlDate": "2026-05-05T09:19:34.527Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69687,7 +69687,7 @@
     "rfStatewide": false,
     "name": "Obst und Garten",
     "type": "print",
-    "controlDate": "2025-10-21T11:42:26.014Z",
+    "controlDate": "2026-05-05T09:04:04.625Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69708,7 +69708,7 @@
     "rfStatewide": false,
     "name": "Gartenpraxis",
     "type": "print",
-    "controlDate": "2025-10-21T11:41:34.166Z",
+    "controlDate": "2026-05-05T09:03:49.643Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -69981,7 +69981,7 @@
     "name": "www.obst-und-garten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:43:12.169Z",
+    "controlDate": "2026-05-05T09:05:27.253Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94660,7 +94660,7 @@
     "rfStatewide": false,
     "name": "Evangelisches Gemeindeblatt für Württemberg",
     "type": "print",
-    "controlDate": "2025-10-21T12:34:31.510Z",
+    "controlDate": "2026-05-05T09:37:56.482Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94681,7 +94681,7 @@
     "rfStatewide": false,
     "name": "Benjamin",
     "type": "print",
-    "controlDate": "2025-10-21T12:33:47.799Z",
+    "controlDate": "2026-05-05T09:37:48.881Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95494,7 +95494,7 @@
     "rfStatewide": false,
     "name": "Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-10-21T12:50:49.315Z",
+    "controlDate": "2026-05-05T09:53:00.785Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116678,7 +116678,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-21T12:34:40.961Z",
+    "controlDate": "2026-05-05T09:38:04.773Z",
     "state": "active"
   },
   {
@@ -126625,7 +126625,7 @@
     "name": "www.emstv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T12:20:33.285Z",
+    "controlDate": "2026-05-05T09:22:24.114Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127088,7 +127088,7 @@
     "name": "Jagd in Baden-Württemberg",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-21T11:41:59.838Z",
+    "controlDate": "2026-05-05T09:03:56.935Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134429,7 +134429,7 @@
     "name": "www.firmenauto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:51:46.116Z",
+    "controlDate": "2026-05-05T09:12:39.171Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134497,7 +134497,7 @@
     "name": "www.eurotransport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:51:26.888Z",
+    "controlDate": "2026-05-05T09:12:26.917Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136103,7 +136103,7 @@
     "name": "www.paradiso-nord.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T12:55:18.699Z",
+    "controlDate": "2026-05-05T09:58:38.338Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144484,7 +144484,7 @@
     "name": "BW agrar",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-21T11:41:24.342Z",
+    "controlDate": "2026-05-05T09:03:41.689Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144729,7 +144729,7 @@
     "name": "www.bwagrar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:42:55.444Z",
+    "controlDate": "2026-05-05T09:05:08.546Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147423,7 +147423,7 @@
     "name": "www.erf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T08:23:03.054Z",
+    "controlDate": "2026-05-05T08:35:56.831Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149081,7 +149081,7 @@
     "name": "Fernfahrer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-21T11:51:18.849Z",
+    "controlDate": "2026-05-05T09:12:19.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151912,7 +151912,7 @@
     "name": "www.radioerzgebirge.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-14T10:54:11.663Z",
+    "controlDate": "2026-05-05T08:44:55.465Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158893,7 +158893,7 @@
     "name": "www.fernfahrer.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-21T11:51:38.037Z",
+    "controlDate": "2026-05-05T09:12:33.499Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
