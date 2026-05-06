@@ -315,7 +315,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-26T14:18:11.164Z",
+    "controlDate": "2026-05-06T09:51:02.029Z",
     "state": "active"
   },
   {
@@ -10602,7 +10602,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-24T13:52:53.228Z",
+    "controlDate": "2026-05-06T09:32:55.347Z",
     "state": "active"
   },
   {
@@ -29715,7 +29715,7 @@
     "name": "www.finanztip.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-24T12:53:52.543Z",
+    "controlDate": "2026-05-06T08:45:30.394Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45787,7 +45787,7 @@
     "name": "www.gemeindeblatt.digital",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-26T14:18:24.124Z",
+    "controlDate": "2026-05-06T09:52:34.669Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82967,7 +82967,7 @@
     "rfStatewide": false,
     "name": "Flensborg Avis",
     "type": "print",
-    "controlDate": "2025-10-24T13:07:51.476Z",
+    "controlDate": "2026-05-06T08:58:06.586Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83155,7 +83155,7 @@
     "rfStatewide": false,
     "name": "Frankenpost",
     "type": "print",
-    "controlDate": "2025-10-26T14:17:52.525Z",
+    "controlDate": "2026-05-06T09:48:21.484Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -94223,9 +94223,9 @@
       "type": "organization"
     },
     "rfStatewide": false,
-    "name": "Freundin Fit for Fun",
+    "name": "Fit for Fun",
     "type": "print",
-    "controlDate": "2025-10-24T13:01:36.245Z",
+    "controlDate": "2026-05-06T08:49:16.277Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101927,7 +101927,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-24T12:49:01.266Z",
+    "controlDate": "2026-05-06T08:08:18.700Z",
     "state": "active"
   },
   {
@@ -104698,7 +104698,7 @@
     "rfStatewide": false,
     "name": "Der Hund",
     "type": "print",
-    "controlDate": "2025-10-24T13:52:45.517Z",
+    "controlDate": "2026-05-06T09:32:48.923Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -110900,7 +110900,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-24T12:55:41.966Z",
+    "controlDate": "2026-05-06T08:46:46.988Z",
     "state": "active"
   },
   {
@@ -117782,7 +117782,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-24T13:07:58.528Z",
+    "controlDate": "2026-05-06T08:58:14.387Z",
     "state": "active"
   },
   {
@@ -133654,6 +133654,25 @@
     }
   },
   {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "69fb0e77-5fb9-4f02-97f9-423d2f606019",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Frankenpost am Sonntag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-05-06T09:48:50.233Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
     "state": "archived",
     "squuid": "678520af-597b-46ea-b489-e0903dcb300f",
     "organization": {
@@ -146367,7 +146386,7 @@
     "name": "www.radiofrankfurt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-26T14:28:52.172Z",
+    "controlDate": "2026-05-06T09:55:10.082Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162987,7 +163006,7 @@
     "name": "www.fupa.net/region/sachsen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-24T13:56:43.456Z",
+    "controlDate": "2026-05-06T09:38:30.584Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

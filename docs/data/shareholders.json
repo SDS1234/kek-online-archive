@@ -23862,7 +23862,7 @@
     "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e",
     "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
     "state": "active",
-    "controlDate": "2025-10-26T14:11:02.067Z",
+    "controlDate": "2026-05-06T09:42:54.645Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -44259,7 +44259,7 @@
     "squuid": "5be1a6b6-73f5-4250-97c6-a6bfa6880234",
     "name": "Frankenpost Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-26T14:12:54.889Z",
+    "controlDate": "2026-05-06T09:47:08.667Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -44362,6 +44362,15 @@
         "held": {
           "squuid": "69f1c5f2-4ab5-4ddc-b058-6f7337f1afa6",
           "name": "Neue Presse am Sonntag"
+        }
+      },
+      {
+        "squuid": "69fb0ea9-1160-44b2-9d11-7e443b72a700",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69fb0e77-5fb9-4f02-97f9-423d2f606019",
+          "name": "Frankenpost am Sonntag"
         }
       }
     ]
@@ -46783,7 +46792,7 @@
     "squuid": "5d31caf7-326c-4414-ac94-af7dad8ab366",
     "name": "Finanztip Verbraucherinformation GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T12:53:47.601Z",
+    "controlDate": "2026-05-06T08:44:22.905Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50413,7 +50422,7 @@
     "squuid": "5be1a6b6-3f8c-43dc-b333-1d4109f613ea",
     "name": "Fox International Channels (US), Inc.",
     "state": "active",
-    "controlDate": "2025-10-24T13:54:41.158Z",
+    "controlDate": "2026-05-06T09:37:54.230Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50437,7 +50446,7 @@
     "squuid": "5be1a6b6-b286-4990-8764-b1b723722988",
     "name": "Fox International, LLC",
     "state": "active",
-    "controlDate": "2025-10-24T13:55:00.028Z",
+    "controlDate": "2026-05-06T09:38:05.215Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50461,7 +50470,7 @@
     "squuid": "5be1a6b6-ef40-4e0e-8a27-5490af7aecfa",
     "name": "Fox Entertainment Group, LLC",
     "state": "active",
-    "controlDate": "2025-10-24T13:54:30.977Z",
+    "controlDate": "2026-05-06T09:37:37.708Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -82599,7 +82608,7 @@
     "squuid": "5be1a6b6-31ef-439c-942e-1f47b420f897",
     "name": "Fleißig Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:05:26.063Z",
+    "controlDate": "2026-05-06T08:55:09.198Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -97836,7 +97845,7 @@
     "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d",
     "name": "Fleißig Pressehaus Immobilien Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:07:05.405Z",
+    "controlDate": "2026-05-06T08:57:16.860Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -100959,7 +100968,7 @@
     "squuid": "5cc70c37-5b94-4790-b253-0f68d1d16df7",
     "name": "Fleißig Pressehaus Immobilien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-24T13:06:18.996Z",
+    "controlDate": "2026-05-06T08:57:04.894Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -139648,7 +139657,7 @@
     "squuid": "5be1a6b6-9f6d-4906-b135-0592ed9fcc8e",
     "name": "Flensborg Avis AG",
     "state": "active",
-    "controlDate": "2025-10-24T13:07:21.650Z",
+    "controlDate": "2026-05-06T08:57:45.097Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152821,7 +152830,7 @@
     "squuid": "5c47426b-7513-4efc-aeac-73ea254f112e",
     "name": "Finanztreff GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T12:55:32.147Z",
+    "controlDate": "2026-05-06T08:46:40.602Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -188556,7 +188565,7 @@
     "squuid": "6347ea06-6b8c-4cc2-b1a2-f899e5024540",
     "name": "fons securis aerarium GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:09:48.136Z",
+    "controlDate": "2026-05-06T09:05:31.928Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191481,7 +191490,7 @@
     "squuid": "5d372cb8-53cc-4478-bfa6-8090b3a33654",
     "name": "Fischtown Pinguins Bremerhaven SB GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T12:59:32.999Z",
+    "controlDate": "2026-05-06T08:47:38.503Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196163,7 +196172,7 @@
     "squuid": "5e5901c8-6ef8-4ea0-abff-097a0598557b",
     "name": "Fininvest S.p.A. (Familie Berlusconi)",
     "state": "active",
-    "controlDate": "2023-10-20T13:12:38.722Z",
+    "controlDate": "2026-05-06T08:47:01.664Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -211061,7 +211070,7 @@
     "squuid": "5be1a6b6-ea96-44de-9112-318e72389935",
     "name": "FM Rundfunkprogrammanbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:09:17.455Z",
+    "controlDate": "2026-05-06T09:01:07.211Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -213914,7 +213923,7 @@
     "name": "Frankfurt Business Radio GmbH & Co. Betriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-459f-4276-9a2e-c2715db219a5",
-    "controlDate": "2025-10-26T14:27:14.607Z",
+    "controlDate": "2026-05-06T09:55:20.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -215874,7 +215883,7 @@
     "squuid": "6093c16e-a6e9-49b0-aa64-00f6585b0038",
     "name": "FootballCo Services Ltd.",
     "state": "active",
-    "controlDate": "2025-10-24T13:50:03.805Z",
+    "controlDate": "2026-05-06T09:30:00.731Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -231691,7 +231700,7 @@
     "squuid": "6854466f-2ec0-457d-82d7-0794850710f3",
     "name": "FourShare GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:53:43.942Z",
+    "controlDate": "2026-05-06T09:37:21.683Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -233015,7 +233024,7 @@
     "squuid": "5be1a6b6-ef50-47e6-82e9-624c61250632",
     "name": "Fit for Fun Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:00:34.260Z",
+    "controlDate": "2026-05-06T08:48:03.925Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -233030,7 +233039,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-b325-44e3-bf68-ffadc71f88b5",
-          "name": "Freundin Fit for Fun"
+          "name": "Fit for Fun"
         }
       }
     ]
@@ -238293,7 +238302,7 @@
     "squuid": "5be1a6b6-2bed-43cc-bba9-9295b799a194",
     "name": "finanzen.net GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T12:44:48.877Z",
+    "controlDate": "2026-05-06T08:06:17.194Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -241596,7 +241605,7 @@
     "squuid": "5be1a6b6-a3d2-4371-bb6f-d0d8a9489a84",
     "name": "Forum Zeitschriften und Spezialmedien GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:52:36.631Z",
+    "controlDate": "2026-05-06T09:32:28.653Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242011,7 +242020,7 @@
     "squuid": "5be1a6b6-7364-488a-bde8-934b93b9160c",
     "name": "Forum Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:51:58.624Z",
+    "controlDate": "2026-05-06T09:32:04.509Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249888,7 +249897,7 @@
     "squuid": "66585731-c4a2-4d5c-a993-0c5830be2d74",
     "name": "Flyeralarm Industries GmbH",
     "state": "active",
-    "controlDate": "2025-10-24T13:08:58.260Z",
+    "controlDate": "2026-05-06T09:00:12.801Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -270115,7 +270124,7 @@
     "squuid": "6334654e-d733-4b83-a0c4-e4791a478dd4",
     "name": "Forum Holding GmbH",
     "state": "active",
-    "controlDate": "2025-05-22T08:07:54.313Z",
+    "controlDate": "2026-05-06T09:30:34.885Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306179,7 +306188,7 @@
     "squuid": "615472ae-8902-4846-974b-9ff0aa30b448",
     "name": "FPM Sportmanagement UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-10-24T13:56:08.200Z",
+    "controlDate": "2026-05-06T09:38:25.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
