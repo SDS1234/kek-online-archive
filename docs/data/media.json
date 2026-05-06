@@ -3310,7 +3310,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-27T09:10:24.675Z",
+    "controlDate": "2026-05-06T13:59:14.141Z",
     "state": "active"
   },
   {
@@ -9900,7 +9900,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-27T08:15:15.538Z",
+    "controlDate": "2026-05-06T12:56:47.083Z",
     "state": "active"
   },
   {
@@ -12978,7 +12978,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-27T09:00:51.962Z",
+    "controlDate": "2026-05-06T13:44:54.934Z",
     "state": "active"
   },
   {
@@ -14256,7 +14256,7 @@
     "name": "Tauber-Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-27T09:09:25.590Z",
+    "controlDate": "2026-05-06T13:58:54.851Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -14714,7 +14714,7 @@
     "name": "Fränkische Nachrichten am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-27T09:09:09.919Z",
+    "controlDate": "2026-05-06T13:58:39.158Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -21971,7 +21971,7 @@
     "name": "www.tauber-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:10:45.155Z",
+    "controlDate": "2026-05-06T13:59:23.631Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81361,7 +81361,7 @@
     "rfStatewide": false,
     "name": "Windsheimer Zeitung",
     "type": "print",
-    "controlDate": "2025-10-27T08:58:21.822Z",
+    "controlDate": "2026-05-06T13:44:43.677Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -82987,7 +82987,7 @@
     "rfStatewide": false,
     "name": "Fränkische Landeszeitung",
     "type": "print",
-    "controlDate": "2025-10-27T08:57:45.906Z",
+    "controlDate": "2026-05-06T13:44:19.703Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83007,7 +83007,7 @@
     "rfStatewide": false,
     "name": "Fränkische Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-27T09:08:56.183Z",
+    "controlDate": "2026-05-06T13:58:23.223Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83027,7 +83027,7 @@
     "rfStatewide": false,
     "name": "Tauber-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-27T09:09:18.398Z",
+    "controlDate": "2026-05-06T13:58:47.127Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86342,10 +86342,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.flz.de/fhw",
+    "name": "www.flz.de/wochenblaetter",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T08:59:51.827Z",
+    "controlDate": "2026-05-06T13:45:08.765Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86496,7 +86496,7 @@
     "name": "www.flz.de/wib",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:00:02.472Z",
+    "controlDate": "2026-05-06T13:45:17.406Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88875,7 +88875,7 @@
     "rfStatewide": false,
     "name": "Fränkischer Anzeiger",
     "type": "print",
-    "controlDate": "2025-10-27T08:57:58.642Z",
+    "controlDate": "2026-05-06T13:44:29.414Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -91944,7 +91944,7 @@
     "rfStatewide": false,
     "name": "Freundin",
     "type": "print",
-    "controlDate": "2025-10-27T08:14:54.929Z",
+    "controlDate": "2026-05-06T12:55:56.533Z",
     "pressKind": "Frauen, zweiwö¶.",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93037,7 +93037,7 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "Freundin Coaching",
+    "name": "Freundin Job & Finanzen",
     "rfPublicPrivate": false,
     "type": "print",
     "controlDate": "2025-10-27T08:15:05.809Z",
@@ -102835,7 +102835,7 @@
     "name": "www.nordwest-sonntagsblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-03T14:50:11.929Z",
+    "controlDate": "2026-05-06T13:14:12.944Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -107025,7 +107025,7 @@
     "name": "www.friebo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T08:26:32.148Z",
+    "controlDate": "2026-05-06T13:14:04.689Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139566,7 +139566,7 @@
     "name": "www.radioroland.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:51:08.529Z",
+    "controlDate": "2026-05-06T14:42:37.545Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144638,7 +144638,7 @@
     "name": "www.windsheimer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:00:17.499Z",
+    "controlDate": "2026-05-06T13:45:26.403Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154346,7 +154346,7 @@
     "name": "www.ffn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:50:02.796Z",
+    "controlDate": "2026-05-06T14:42:12.452Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157482,7 +157482,7 @@
     "name": "www.frf1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T08:24:53.224Z",
+    "controlDate": "2026-05-06T13:11:09.980Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162213,7 +162213,7 @@
     "name": "www.radiobollerwagen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T09:50:28.198Z",
+    "controlDate": "2026-05-06T14:42:24.699Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

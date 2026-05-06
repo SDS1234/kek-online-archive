@@ -1288,8 +1288,8 @@ digraph {
     type=radio
     state=active
     label="917XFM"
-    num_owners=524
-    num_owners_weighted=14.4142
+    num_owners=507
+    num_owners_weighted=14.4058
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-497c-4085-a20e-c9acd3237568"
@@ -4996,8 +4996,8 @@ digraph {
     type=shareholder
     state=active
     label="Altmühlfranken Verlag GmbH"
-    num_owners=27
-    num_owners_weighted=7.1663
+    num_owners=19
+    num_owners_weighted=5.3925
     num_medias=2
     num_medias_weighted=2.0000
     name="63d001e6-ba1a-4e73-afbe-d3e72765bafd"
@@ -6208,8 +6208,8 @@ digraph {
     type=radio
     state=active
     label="Antenne Bayern"
-    num_owners=506
-    num_owners_weighted=15.5214
+    num_owners=489
+    num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-edc7-45cf-af45-3e7e7f4a077e"
@@ -6232,8 +6232,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Bayern GmbH & Co. KG"
-    num_owners=505
-    num_owners_weighted=14.5214
+    num_owners=488
+    num_owners_weighted=14.5005
     num_medias=28
     num_medias_weighted=6.5959
     name="5be1a6b6-5d70-4275-a2da-4ea50ee1b6af"
@@ -6244,8 +6244,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Bayern Verwaltungs GmbH"
-    num_owners=504
-    num_owners_weighted=15.2456
+    num_owners=487
+    num_owners_weighted=15.2247
     num_medias=28
     num_medias_weighted=0.0000
     name="5f05d01e-110b-4c4c-b1bc-50fc3778e8f6"
@@ -6580,8 +6580,8 @@ digraph {
     type=radio
     state=active
     label="Antenne NRW"
-    num_owners=508
-    num_owners_weighted=17.5214
+    num_owners=491
+    num_owners_weighted=17.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="62737b37-fc46-4bf5-8442-c41284b7f68e"
@@ -6592,8 +6592,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne NRW GmbH & Co. KG"
-    num_owners=508
-    num_owners_weighted=16.5214
+    num_owners=491
+    num_owners_weighted=16.5005
     num_medias=1
     num_medias_weighted=1.0000
     name="618d061b-b42a-42a2-8bdb-b956f64723f6"
@@ -6604,8 +6604,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne NRW Verwaltungs GmbH"
-    num_owners=508
-    num_owners_weighted=17.5214
+    num_owners=491
+    num_owners_weighted=17.5005
     num_medias=1
     num_medias_weighted=0.0000
     name="618d063b-33cb-447d-99b9-988e5e617d97"
@@ -6616,8 +6616,8 @@ digraph {
     type=radio
     state=active
     label="antenne OSTALGIE"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="68501644-a7af-4705-9d4a-98e6f641abec"
@@ -6736,8 +6736,8 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5328-405a-961d-0a01341a1198"
@@ -6748,8 +6748,8 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN Classics"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="6850126c-41e1-4321-852c-fda3478ca614"
@@ -6760,8 +6760,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen GmbH & Co. KG"
-    num_owners=409
-    num_owners_weighted=26.1644
+    num_owners=401
+    num_owners_weighted=26.0580
     num_medias=8
     num_medias_weighted=8.0000
     name="5be1a6b6-5864-4d2d-abd2-19cfbc09b41b"
@@ -6772,8 +6772,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen Verwaltungs-GmbH"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=8
     num_medias_weighted=0.0000
     name="5f1e961b-d252-417c-b597-1153ee73c985"
@@ -6904,8 +6904,8 @@ digraph {
     type=shareholder
     state=active
     label="Anzeigenblatt Bamberg GmbH"
-    num_owners=30
-    num_owners_weighted=16.6000
+    num_owners=22
+    num_owners_weighted=10.2136
     num_medias=1
     num_medias_weighted=1.0000
     name="63f8bcc4-1895-499a-9445-2da754dc57d2"
@@ -8488,7 +8488,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=980
+    num_owners=963
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8500,7 +8500,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=979
+    num_owners=962
     num_owners_weighted=19.7308
     num_medias=7
     num_medias_weighted=0.0000
@@ -10996,8 +10996,8 @@ digraph {
     type=shareholder
     state=active
     label="Bamberger Rundfunk GmbH & Co. Studiobetriebs-KG"
-    num_owners=36
-    num_owners_weighted=15.5000
+    num_owners=28
+    num_owners_weighted=10.1780
     num_medias=15
     num_medias_weighted=3.0000
     name="6900bc03-d546-4c48-b50b-f48224b23bca"
@@ -11008,8 +11008,8 @@ digraph {
     type=shareholder
     state=active
     label="Bamberger Rundfunk Verwaltungs-GmbH"
-    num_owners=35
-    num_owners_weighted=14.5000
+    num_owners=27
+    num_owners_weighted=9.1780
     num_medias=15
     num_medias_weighted=0.0000
     name="5f902453-07a6-4733-afd6-079f0727e945"
@@ -12184,8 +12184,8 @@ digraph {
     type=shareholder
     state=active
     label="Baumann GmbH + Co KG"
-    num_owners=21
-    num_owners_weighted=16.8390
+    num_owners=13
+    num_owners_weighted=8.5260
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-17a0-447f-a12a-e437f7b031a0"
@@ -12412,8 +12412,8 @@ digraph {
     type=print
     state=active
     label="Bayerische Rundschau"
-    num_owners=24
-    num_owners_weighted=24.0000
+    num_owners=16
+    num_owners_weighted=13.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-479e-4b0a-9595-209e04e73321"
@@ -15904,7 +15904,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=912
+    num_owners=895
     num_owners_weighted=17.6332
     num_medias=7
     num_medias_weighted=1.3300
@@ -15916,7 +15916,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=912
+    num_owners=895
     num_owners_weighted=18.6332
     num_medias=7
     num_medias_weighted=0.0000
@@ -16024,7 +16024,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=982
+    num_owners=965
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -17164,8 +17164,8 @@ digraph {
     type=radio
     state=active
     label=BLR
-    num_owners=467
-    num_owners_weighted=21.8170
+    num_owners=450
+    num_owners_weighted=21.2133
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-211e-4412-99e2-bb90efdd74d0"
@@ -17176,8 +17176,8 @@ digraph {
     type=shareholder
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal- Radioprogramme Verwaltungsgesellschaft mbH"
-    num_owners=465
-    num_owners_weighted=19.2437
+    num_owners=448
+    num_owners_weighted=18.6400
     num_medias=2
     num_medias_weighted=0.0000
     name="5f8ee729-73ea-4d65-9931-a88827eabd91"
@@ -17188,8 +17188,8 @@ digraph {
     type=shareholder
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal-Radioprogramme mbH & Co. KG"
-    num_owners=466
-    num_owners_weighted=20.8170
+    num_owners=449
+    num_owners_weighted=20.2133
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-e22f-4238-9e02-98b8dcee8417"
@@ -25576,8 +25576,8 @@ digraph {
     type=print
     state=active
     label="Coburger Tageblatt"
-    num_owners=24
-    num_owners_weighted=24.0000
+    num_owners=16
+    num_owners_weighted=13.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-28c9-4487-94cd-2013c53401be"
@@ -32440,8 +32440,8 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern GmbH & Co. KG"
-    num_owners=592
-    num_owners_weighted=7.3429
+    num_owners=575
+    num_owners_weighted=7.3407
     num_medias=12
     num_medias_weighted=3.0938
     name="5be1a6b6-a007-40ef-96ec-632d31222118"
@@ -32452,8 +32452,8 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern Verwaltungs-GmbH"
-    num_owners=592
-    num_owners_weighted=10.5165
+    num_owners=575
+    num_owners_weighted=10.5143
     num_medias=12
     num_medias_weighted=0.0000
     name="5ef31a06-6049-4c9a-b927-934a4dc1376e"
@@ -32464,8 +32464,8 @@ digraph {
     type=shareholder
     state=active
     label="Digitalhaus Franken GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=5
     num_medias_weighted=5.0000
     name="604a46d7-2329-4db3-ab33-adf5784822dc"
@@ -34468,8 +34468,8 @@ digraph {
     type=radio
     state=active
     label=Dorfkindradio
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="685137f0-a9ac-4e40-8122-7bb9973f7f97"
@@ -34672,8 +34672,8 @@ digraph {
     type=shareholder
     state=active
     label="dpa Deutsche Presse Agentur GmbH"
-    num_owners=831
-    num_owners_weighted=63.1832
+    num_owners=814
+    num_owners_weighted=63.0876
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
@@ -37984,8 +37984,8 @@ digraph {
     type=radio
     state=active
     label=egoFM
-    num_owners=600
-    num_owners_weighted=6.5256
+    num_owners=583
+    num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
     name="5e59118d-c876-44a0-8d01-d92e1509a78f"
@@ -38008,8 +38008,8 @@ digraph {
     type=radio
     state=active
     label="egoFM (Sachsen)"
-    num_owners=600
-    num_owners_weighted=6.5256
+    num_owners=583
+    num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
     name="5d0b4ea4-fbdc-424c-8ad9-972cb3501190"
@@ -49012,8 +49012,8 @@ digraph {
     type=shareholder
     state=active
     label="FRC Radio Coburg GmbH"
-    num_owners=20
-    num_owners_weighted=20.0000
+    num_owners=12
+    num_owners_weighted=9.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-e6ce-4936-9b81-e853bf2dd942"
@@ -50034,11 +50034,11 @@ digraph {
     label="Frerichs, Jessica"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.0850
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f048ddb-5cc0-4f5c-93fa-b62101a6b598"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4170 [
     type=shareholder
@@ -50319,7 +50319,7 @@ digraph {
   4193 [
     type=print
     state=active
-    label="Freundin Coaching"
+    label="Freundin Job & Finanzen"
     num_owners=8
     num_owners_weighted=8.0000
     num_medias=0
@@ -50620,12 +50620,12 @@ digraph {
     type=shareholder
     state=active
     label="Friesischer Rundfunk GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=1
     num_medias_weighted=1.0000
     name="5f048bd4-6b74-4923-aa55-3ec757f48e58"
-    in_degree=3
+    in_degree=1
     out_degree=1
   ];
   4219 [
@@ -50959,7 +50959,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=43
-    num_medias_weighted=9.8245
+    num_medias_weighted=9.8261
     name="5be1a6b6-603e-4daa-9117-0f773abf368b"
     in_degree=2
     out_degree=10
@@ -51016,8 +51016,8 @@ digraph {
     type=print
     state=active
     label="Fränkischer Tag"
-    num_owners=24
-    num_owners_weighted=24.0000
+    num_owners=16
+    num_owners_weighted=13.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-596d-4cec-8319-286fd30a80fc"
@@ -51028,8 +51028,8 @@ digraph {
     type=shareholder
     state=active
     label="Fränkischer Tag GmbH"
-    num_owners=17
-    num_owners_weighted=17.0000
+    num_owners=9
+    num_owners_weighted=6.3560
     num_medias=67
     num_medias_weighted=7.0327
     name="5bf40545-4596-4b19-b5ef-85b703781941"
@@ -51820,7 +51820,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Coburg GmbH & Co. KG"
-    num_owners=293
+    num_owners=285
     num_owners_weighted=4.6514
     num_medias=14
     num_medias_weighted=2.0000
@@ -51832,8 +51832,8 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Coburg Verwaltungs-GmbH"
-    num_owners=292
-    num_owners_weighted=15.6514
+    num_owners=284
+    num_owners_weighted=10.3294
     num_medias=14
     num_medias_weighted=0.0000
     name="5f92ac1a-f936-4dd8-86ae-2ae256189db9"
@@ -51964,8 +51964,8 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Oberfranken GmbH & Co. KG"
-    num_owners=297
-    num_owners_weighted=12.9138
+    num_owners=289
+    num_owners_weighted=9.7206
     num_medias=1
     num_medias_weighted=1.0000
     name="6874f2cd-bc97-47de-9f2d-0f5595cb55f6"
@@ -52876,8 +52876,8 @@ digraph {
     type=radio
     state=active
     label="Galaxy Bayern"
-    num_owners=592
-    num_owners_weighted=10.5165
+    num_owners=575
+    num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-edf8-40c9-bb8e-efbe20edca3b"
@@ -54316,7 +54316,7 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG"
-    num_owners=465
+    num_owners=448
     num_owners_weighted=1.0000
     num_medias=12
     num_medias_weighted=0.3729
@@ -54328,8 +54328,8 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme GmbH"
-    num_owners=464
-    num_owners_weighted=15.4842
+    num_owners=447
+    num_owners_weighted=15.2638
     num_medias=12
     num_medias_weighted=0.0000
     name="5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
@@ -76660,8 +76660,8 @@ digraph {
     type=shareholder
     state=active
     label="Kitzinger Heimatzeitungen Verwaltungs-GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5ec3b9ba-5701-4250-b702-7a140e5b698d"
@@ -77728,8 +77728,8 @@ digraph {
     type=shareholder
     state=active
     label="KMG Kissinger Mediengesellschaft mbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5ee352e5-308f-4cfe-9af9-ab7bc8188218"
@@ -81052,8 +81052,8 @@ digraph {
     type=shareholder
     state=active
     label="Kurier-Verlag GmbH (Hildburghausen)"
-    num_owners=27
-    num_owners_weighted=2.9403
+    num_owners=19
+    num_owners_weighted=2.6174
     num_medias=1
     num_medias_weighted=1.0000
     name="63e114ce-f043-4850-91bf-e6a10eb4662a"
@@ -84052,8 +84052,8 @@ digraph {
     type=shareholder
     state=active
     label="Laut AG"
-    num_owners=531
-    num_owners_weighted=11.4328
+    num_owners=514
+    num_owners_weighted=11.4272
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-92d3-41f7-9672-ad84fe778e5f"
@@ -92776,8 +92776,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft KG"
-    num_owners=421
-    num_owners_weighted=34.6934
+    num_owners=404
+    num_owners_weighted=32.7521
     num_medias=2
     num_medias_weighted=0.6352
     name="5be1a6b6-c525-4b11-a1b7-9969a9671afb"
@@ -92788,8 +92788,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG"
-    num_owners=433
-    num_owners_weighted=36.5019
+    num_owners=416
+    num_owners_weighted=34.8250
     num_medias=30
     num_medias_weighted=1.2890
     name="5be1a6b6-cc99-4fd3-96f9-d2ef9847c76f"
@@ -92800,8 +92800,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. Bayernprogramm KG"
-    num_owners=434
-    num_owners_weighted=10.3399
+    num_owners=417
+    num_owners_weighted=10.2561
     num_medias=28
     num_medias_weighted=1.6424
     name="5be1a6b6-6695-4a51-aff3-301b5257336b"
@@ -92980,8 +92980,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengruppe Oberfranken - Radioanbieter GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=20
     num_medias_weighted=1.3000
     name="62c5907b-0527-483c-9b0d-1e9ed4599d5a"
@@ -92992,8 +92992,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengruppe Oberfranken Digital GmbH & Co. KG"
-    num_owners=22
-    num_owners_weighted=21.0000
+    num_owners=14
+    num_owners_weighted=10.3560
     num_medias=20
     num_medias_weighted=0.0000
     name="5c890a2f-a3a3-4fce-ae78-799243759958"
@@ -93004,8 +93004,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengruppe Oberfranken Digital Verwaltung GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=20
     num_medias_weighted=0.0000
     name="5f902677-bef0-424c-875c-834738a1108e"
@@ -93016,8 +93016,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengruppe Oberfranken GmbH & Co. KG"
-    num_owners=20
-    num_owners_weighted=19.0000
+    num_owners=12
+    num_owners_weighted=8.3560
     num_medias=65
     num_medias_weighted=14.3317
     name="5be1a6b6-77ea-4cc0-b206-105ee3aec7f8"
@@ -93028,8 +93028,8 @@ digraph {
     type=shareholder
     state=active
     label="Mediengruppe Oberfranken Verwaltung GmbH"
-    num_owners=20
-    num_owners_weighted=20.0000
+    num_owners=12
+    num_owners_weighted=9.3560
     num_medias=65
     num_medias_weighted=0.0000
     name="5eb555ce-4bce-4583-81b4-e97104459739"
@@ -93715,7 +93715,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=43
-    num_medias_weighted=4.9122
+    num_medias_weighted=4.9130
     name="5be1a6b6-5040-4d62-afc6-59ad0f93e348"
     in_degree=0
     out_degree=1
@@ -94372,8 +94372,8 @@ digraph {
     type=shareholder
     state=active
     label="Meininger Mediengesellschaft mbH"
-    num_owners=281
-    num_owners_weighted=15.3028
+    num_owners=273
+    num_owners_weighted=9.9808
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-aaa1-40ae-8cac-3414f7c6c6d2"
@@ -94384,8 +94384,8 @@ digraph {
     type=print
     state=active
     label="Meininger Tageblatt"
-    num_owners=282
-    num_owners_weighted=16.3028
+    num_owners=274
+    num_owners_weighted=10.9808
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-224f-49a9-a65f-9c81e2f25a07"
@@ -95596,8 +95596,8 @@ digraph {
     type=shareholder
     state=active
     label="mgo Lokale Medien GmbH & Co. KG"
-    num_owners=22
-    num_owners_weighted=21.0000
+    num_owners=14
+    num_owners_weighted=10.3560
     num_medias=57
     num_medias_weighted=11.0000
     name="5be1a6b6-1ba9-4404-8b0b-eacd59f83952"
@@ -95608,8 +95608,8 @@ digraph {
     type=shareholder
     state=active
     label="mgo Lokale Medien Verwaltung GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=57
     num_medias_weighted=0.0000
     name="5eb55471-a568-47c8-b2a8-4847ee915596"
@@ -95620,8 +95620,8 @@ digraph {
     type=shareholder
     state=active
     label="mgo Redaktionen GmbH & Co KG"
-    num_owners=22
-    num_owners_weighted=21.0000
+    num_owners=14
+    num_owners_weighted=10.3560
     num_medias=4
     num_medias_weighted=4.0000
     name="5bf3f388-501e-47f0-8eed-d55ff3346624"
@@ -95632,8 +95632,8 @@ digraph {
     type=shareholder
     state=active
     label="mgo Redaktionen Verwaltung GmbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=4
     num_medias_weighted=0.0000
     name="5eb55664-279a-4b99-bc91-042d9ac5e7e3"
@@ -100002,11 +100002,11 @@ digraph {
     label="Müller, Michaela"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.4250
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f048dc3-b716-421e-9093-df2fb4af477b"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   8334 [
     type=shareholder
@@ -103204,8 +103204,8 @@ digraph {
     type=shareholder
     state=active
     label="news aktuell GmbH"
-    num_owners=832
-    num_owners_weighted=64.1832
+    num_owners=815
+    num_owners_weighted=64.0876
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-30b2-40ee-b6d6-ee42532cd80b"
@@ -105340,8 +105340,8 @@ digraph {
     type=shareholder
     state=active
     label="NRW Audio GmbH & Co. KG"
-    num_owners=1198
-    num_owners_weighted=18.2749
+    num_owners=1181
+    num_owners_weighted=18.2674
     num_medias=2
     num_medias_weighted=2.0000
     name="62e77c1e-8d4c-4f03-9965-9f4964d8faec"
@@ -105352,8 +105352,8 @@ digraph {
     type=shareholder
     state=active
     label="NRW Audio Verwaltungs GmbH"
-    num_owners=1198
-    num_owners_weighted=19.2749
+    num_owners=1181
+    num_owners_weighted=19.2674
     num_medias=2
     num_medias_weighted=0.0000
     name="66597352-82de-466f-9c63-48ce93d12587"
@@ -105400,8 +105400,8 @@ digraph {
     type=radio
     state=active
     label=NRW1
-    num_owners=1198
-    num_owners_weighted=19.2749
+    num_owners=1181
+    num_owners_weighted=19.2674
     num_medias=0
     num_medias_weighted=0.0000
     name="62e778b5-2d67-4da9-b14a-0e7d26fdacd6"
@@ -106816,8 +106816,8 @@ digraph {
     type=radio
     state=active
     label="OLDIE ANTENNE (SLM)"
-    num_owners=506
-    num_owners_weighted=15.5214
+    num_owners=489
+    num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="634ebe96-dd0c-444a-a901-fadde2da700f"
@@ -113704,7 +113704,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern GmbH & Co. KG"
-    num_owners=501
+    num_owners=484
     num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
@@ -113716,8 +113716,8 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern Verwaltungs-GmbH"
-    num_owners=500
-    num_owners_weighted=18.8063
+    num_owners=483
+    num_owners_weighted=18.1898
     num_medias=2
     num_medias_weighted=0.0000
     name="60bf33f1-d3f1-46a9-b894-e9d883037faf"
@@ -114232,8 +114232,8 @@ digraph {
     type=shareholder
     state=active
     label="prospega GmbH"
-    num_owners=25
-    num_owners_weighted=10.3326
+    num_owners=17
+    num_owners_weighted=6.7850
     num_medias=4
     num_medias_weighted=1.5910
     name="63ce97bf-2d00-4afc-8155-46e90e225226"
@@ -116956,7 +116956,7 @@ digraph {
     type=radio
     state=active
     label="Radio Eins"
-    num_owners=294
+    num_owners=286
     num_owners_weighted=5.6514
     num_medias=0
     num_medias_weighted=0.0000
@@ -117400,8 +117400,8 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Allgäu"
-    num_owners=592
-    num_owners_weighted=10.5165
+    num_owners=575
+    num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
     name="690df305-112d-440b-bd7e-b366e02d4647"
@@ -117556,8 +117556,8 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Oberfranken"
-    num_owners=298
-    num_owners_weighted=13.9138
+    num_owners=290
+    num_owners_weighted=10.7206
     num_medias=0
     num_medias_weighted=0.0000
     name="6874f1c3-e401-4625-bc1b-0dfec67ec10f"
@@ -118912,8 +118912,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation GmbH & Co. KG"
-    num_owners=600
-    num_owners_weighted=5.5256
+    num_owners=583
+    num_owners_weighted=5.5255
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d"
@@ -118924,8 +118924,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation Verwaltungs GmbH"
-    num_owners=600
-    num_owners_weighted=6.5256
+    num_owners=583
+    num_owners_weighted=6.5255
     num_medias=2
     num_medias_weighted=0.0000
     name="5f3e679a-4dfe-4d09-99da-e75bafb59939"
@@ -119344,7 +119344,7 @@ digraph {
     type=radio
     state=active
     label="Radio Plassenburg"
-    num_owners=37
+    num_owners=29
     num_owners_weighted=4.5000
     num_medias=0
     num_medias_weighted=0.0000
@@ -119356,8 +119356,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Plassenburg Studiobetriebs- und Werbegesellschaft mbH"
-    num_owners=35
-    num_owners_weighted=14.5000
+    num_owners=27
+    num_owners_weighted=9.1780
     num_medias=14
     num_medias_weighted=0.0000
     name="5f92e6fb-0f9b-46b4-a79d-fc4c660967d8"
@@ -119368,7 +119368,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Plassenburg Studiobetriebs- und Werbegesellschaft mbH & Co. Hörfunksender KG"
-    num_owners=36
+    num_owners=28
     num_owners_weighted=3.5000
     num_medias=14
     num_medias_weighted=2.0000
@@ -120340,8 +120340,8 @@ digraph {
     type=radio
     state=active
     label="radio TOP 40"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e268-4ce8-82d8-7c7055d49b91"
@@ -125968,8 +125968,8 @@ digraph {
     type=radio
     state=active
     label="ROCK ANTENNE"
-    num_owners=521
-    num_owners_weighted=16.7908
+    num_owners=504
+    num_owners_weighted=16.7738
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2e58-4a0b-85fd-5295dca15a7b"
@@ -126028,8 +126028,8 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne GmbH & Co. KG"
-    num_owners=520
-    num_owners_weighted=15.7908
+    num_owners=503
+    num_owners_weighted=15.7738
     num_medias=9
     num_medias_weighted=4.6232
     name="663f31ad-2575-4939-ba50-9d678cf013c0"
@@ -126040,8 +126040,8 @@ digraph {
     type=radio
     state=active
     label="ROCK ANTENNE Hamburg"
-    num_owners=523
-    num_owners_weighted=13.4142
+    num_owners=506
+    num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2241-4401-9c72-0bf8d3728dcd"
@@ -126052,7 +126052,7 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Hamburg GmbH & Co. KG"
-    num_owners=523
+    num_owners=506
     num_owners_weighted=4.6350
     num_medias=5
     num_medias_weighted=5.0000
@@ -126064,8 +126064,8 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Hamburg Verwaltung GmbH"
-    num_owners=523
-    num_owners_weighted=13.4142
+    num_owners=506
+    num_owners_weighted=13.4058
     num_medias=5
     num_medias_weighted=0.0000
     name="5f0320d8-00b1-484b-aa84-8d11728b5cb7"
@@ -126088,8 +126088,8 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Verwaltungs GmbH"
-    num_owners=519
-    num_owners_weighted=14.7908
+    num_owners=502
+    num_owners_weighted=14.7738
     num_medias=9
     num_medias_weighted=0.0000
     name="5f03225b-4983-4b1d-8d7f-c5d7315a7281"
@@ -129976,8 +129976,8 @@ digraph {
     type=print
     state=active
     label="Saale-Zeitung"
-    num_owners=24
-    num_owners_weighted=24.0000
+    num_owners=16
+    num_owners_weighted=13.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f085-4168-8824-22fa7ec202f2"
@@ -130912,7 +130912,7 @@ digraph {
     type=tv
     state=active
     label="Sat.1 17:30 live für Bayern (Regionalfenster)"
-    num_owners=502
+    num_owners=485
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -139444,7 +139444,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=981
+    num_owners=964
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -167887,7 +167887,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=43
-    num_medias_weighted=4.9122
+    num_medias_weighted=4.9130
     name="5be1a6b6-1508-46d3-ac7e-82f41796513b"
     in_degree=0
     out_degree=1
@@ -170056,8 +170056,8 @@ digraph {
     type=shareholder
     state=active
     label="Wochenzeitung Coburg GmbH"
-    num_owners=26
-    num_owners_weighted=6.1663
+    num_owners=18
+    num_owners_weighted=4.3925
     num_medias=1
     num_medias_weighted=1.0000
     name="63d9451b-15e2-4d4a-9e58-a19f20385f13"
@@ -170956,8 +170956,8 @@ digraph {
     type=shareholder
     state=active
     label="WPV Gesellschaft für Werbung, Presse und Vertrieb mbH"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=15
     num_medias_weighted=2.1103
     name="5be1a6b6-066f-451c-b247-87acd547bf32"
@@ -171604,8 +171604,8 @@ digraph {
     type=online
     state=active
     label="www.917xfm.de"
-    num_owners=523
-    num_owners_weighted=13.4142
+    num_owners=506
+    num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
     name="693ae31a-a7f5-4647-804f-5d6e7ca37e45"
@@ -172456,8 +172456,8 @@ digraph {
     type=online
     state=active
     label="www.alsterradio.de"
-    num_owners=523
-    num_owners_weighted=13.4142
+    num_owners=506
+    num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
     name="693ae300-e792-4cde-9d3a-00746d52d511"
@@ -172864,8 +172864,8 @@ digraph {
     type=online
     state=active
     label="www.antenne.de"
-    num_owners=506
-    num_owners_weighted=15.5214
+    num_owners=489
+    num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="5c50655b-b048-40c1-86d0-0f3a11144841"
@@ -172996,8 +172996,8 @@ digraph {
     type=online
     state=active
     label="www.antennethueringen.de"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1e950a-d42a-4408-ac71-12c6df3ef884"
@@ -174796,7 +174796,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=981
+    num_owners=964
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -175228,8 +175228,8 @@ digraph {
     type=online
     state=active
     label="www.blr.de"
-    num_owners=467
-    num_owners_weighted=21.8170
+    num_owners=450
+    num_owners_weighted=21.2133
     num_medias=0
     num_medias_weighted=0.0000
     name="5f8ee669-8e3b-4f56-92bf-31c5608f9444"
@@ -179188,8 +179188,8 @@ digraph {
     type=online
     state=active
     label="www.dorfkindradio.de"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="69d79d85-4196-4747-b5e6-4106922db597"
@@ -181623,24 +181623,24 @@ digraph {
   15135 [
     type=online
     state=active
-    label="www.flz.de/fhw"
-    num_owners=3
-    num_owners_weighted=3.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="63e11ca0-2317-4e77-9887-973593a86b7a"
-    in_degree=1
-    out_degree=0
-  ];
-  15136 [
-    type=online
-    state=active
     label="www.flz.de/wib"
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e11c82-03bd-4e6b-ab41-5d70988b307a"
+    in_degree=1
+    out_degree=0
+  ];
+  15136 [
+    type=online
+    state=active
+    label="www.flz.de/wochenblaetter"
+    num_owners=3
+    num_owners_weighted=3.0000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="63e11ca0-2317-4e77-9887-973593a86b7a"
     in_degree=1
     out_degree=0
   ];
@@ -181936,8 +181936,8 @@ digraph {
     type=online
     state=active
     label="www.fraenkischertag.de"
-    num_owners=23
-    num_owners_weighted=23.0000
+    num_owners=15
+    num_owners_weighted=12.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="604a46b4-c8ec-45e9-bf77-9513184d5da8"
@@ -181948,8 +181948,8 @@ digraph {
     type=online
     state=active
     label="www.fraenkischertag.de/bayerischerundschau"
-    num_owners=23
-    num_owners_weighted=23.0000
+    num_owners=15
+    num_owners_weighted=12.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="63c7e2bb-cf43-4ab0-b03e-fbd3d504d4a1"
@@ -181960,8 +181960,8 @@ digraph {
     type=online
     state=active
     label="www.fraenkischertag.de/coburgertageblatt"
-    num_owners=23
-    num_owners_weighted=23.0000
+    num_owners=15
+    num_owners_weighted=12.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="63c943e2-fa7c-46ca-bff3-bdb402b0cf9b"
@@ -181984,8 +181984,8 @@ digraph {
     type=online
     state=active
     label="www.fraenkischertag.de/saalezeitung"
-    num_owners=23
-    num_owners_weighted=23.0000
+    num_owners=15
+    num_owners_weighted=12.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="6578847d-d84d-4952-8613-a855c52bca6c"
@@ -182008,8 +182008,8 @@ digraph {
     type=online
     state=active
     label="www.franken-aktuell.de"
-    num_owners=36
-    num_owners_weighted=11.1663
+    num_owners=28
+    num_owners_weighted=9.3925
     num_medias=0
     num_medias_weighted=0.0000
     name="63e227d6-b3ad-4e78-b194-ef35cd0f6bec"
@@ -182320,8 +182320,8 @@ digraph {
     type=online
     state=active
     label="www.frf1.de"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f048b65-9b03-4e8d-9951-9fab3c54a240"
@@ -183148,8 +183148,8 @@ digraph {
     type=online
     state=active
     label="www.galaxy-oberfranken.de"
-    num_owners=37
-    num_owners_weighted=16.5000
+    num_owners=29
+    num_owners_weighted=11.1780
     num_medias=0
     num_medias_weighted=0.0000
     name="5f902349-03de-453e-b71f-17c69c0169cb"
@@ -186652,8 +186652,8 @@ digraph {
     type=online
     state=active
     label="www.infranken.de"
-    num_owners=23
-    num_owners_weighted=23.0000
+    num_owners=15
+    num_owners_weighted=12.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1f3a-41ae-9d0e-4090a0a24ffb"
@@ -186736,8 +186736,8 @@ digraph {
     type=online
     state=active
     label="www.inrlp.de"
-    num_owners=22
-    num_owners_weighted=22.0000
+    num_owners=14
+    num_owners_weighted=11.3560
     num_medias=0
     num_medias_weighted=0.0000
     name="61c33b8d-4597-4be7-9b68-752b572097c0"
@@ -186796,8 +186796,8 @@ digraph {
     type=online
     state=active
     label="www.insuedthueringen.de"
-    num_owners=283
-    num_owners_weighted=19.6055
+    num_owners=275
+    num_owners_weighted=14.2835
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-fe03-4888-86fb-a62f3fdbd481"
@@ -189136,8 +189136,8 @@ digraph {
     type=online
     state=active
     label="www.laut.de"
-    num_owners=532
-    num_owners_weighted=12.4328
+    num_owners=515
+    num_owners_weighted=12.4272
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ba82-4d4b-bf16-2906fa75449c"
@@ -191272,8 +191272,8 @@ digraph {
     type=online
     state=active
     label="www.meininger-tageblatt.de"
-    num_owners=283
-    num_owners_weighted=19.6055
+    num_owners=275
+    num_owners_weighted=14.2835
     num_medias=0
     num_medias_weighted=0.0000
     name="65cb5184-ed5f-439c-9b8f-807a4369517a"
@@ -193468,8 +193468,8 @@ digraph {
     type=online
     state=active
     label="www.newsaktuell.de"
-    num_owners=833
-    num_owners_weighted=65.1832
+    num_owners=816
+    num_owners_weighted=65.0876
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-fbae-45c7-8b1a-fa1c47537195"
@@ -193480,7 +193480,7 @@ digraph {
     type=online
     state=active
     label="www.newstime.joyn.de/themen/sat1-bayern"
-    num_owners=502
+    num_owners=485
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -194116,8 +194116,8 @@ digraph {
     type=online
     state=active
     label="www.nrw1.de"
-    num_owners=1198
-    num_owners_weighted=19.2749
+    num_owners=1181
+    num_owners_weighted=19.2674
     num_medias=0
     num_medias_weighted=0.0000
     name="6659718d-02c8-454c-af17-0f9e85baddcc"
@@ -194488,8 +194488,8 @@ digraph {
     type=online
     state=active
     label="www.oldie-antenne.de"
-    num_owners=506
-    num_owners_weighted=15.5214
+    num_owners=489
+    num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="64c22f5a-eda5-45bc-a47d-56095e316de7"
@@ -195880,8 +195880,8 @@ digraph {
     type=online
     state=active
     label="www.presseportal.de"
-    num_owners=833
-    num_owners_weighted=65.1832
+    num_owners=816
+    num_owners_weighted=65.0876
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1c70-45b8-801f-12ab479876af"
@@ -196456,8 +196456,8 @@ digraph {
     type=online
     state=active
     label="www.radio-bamberg.de"
-    num_owners=37
-    num_owners_weighted=16.5000
+    num_owners=29
+    num_owners_weighted=11.1780
     num_medias=0
     num_medias_weighted=0.0000
     name="5f929152-b373-4bd2-a695-debfdb828c0b"
@@ -196708,7 +196708,7 @@ digraph {
     type=online
     state=active
     label="www.radio-plassenburg.de"
-    num_owners=37
+    num_owners=29
     num_owners_weighted=4.5000
     num_medias=0
     num_medias_weighted=0.0000
@@ -197236,7 +197236,7 @@ digraph {
     type=online
     state=active
     label="www.radioeins.com"
-    num_owners=294
+    num_owners=286
     num_owners_weighted=5.6514
     num_medias=0
     num_medias_weighted=0.0000
@@ -197368,8 +197368,8 @@ digraph {
     type=online
     state=active
     label="www.radiogalaxy.de"
-    num_owners=592
-    num_owners_weighted=10.5165
+    num_owners=575
+    num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
     name="646f5bc8-1568-40fe-9014-4c32a58ce90d"
@@ -198004,8 +198004,8 @@ digraph {
     type=online
     state=active
     label="www.radiotop40.de"
-    num_owners=409
-    num_owners_weighted=30.1644
+    num_owners=401
+    num_owners_weighted=30.0580
     num_medias=0
     num_medias_weighted=0.0000
     name="5f29630a-c8da-4be2-94d8-dc2357346803"
@@ -198448,7 +198448,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=981
+    num_owners=964
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199180,8 +199180,8 @@ digraph {
     type=online
     state=active
     label="www.rockantenne.de"
-    num_owners=521
-    num_owners_weighted=16.7908
+    num_owners=504
+    num_owners_weighted=16.7738
     num_medias=0
     num_medias_weighted=0.0000
     name="5f03232b-8605-4dc3-8ba3-784533b74827"
@@ -199192,8 +199192,8 @@ digraph {
     type=online
     state=active
     label="www.rockantenne.hamburg"
-    num_owners=523
-    num_owners_weighted=13.4142
+    num_owners=506
+    num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
     name="5efca46a-d830-430f-aace-7daf36c14092"
@@ -199216,7 +199216,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=981
+    num_owners=964
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199432,7 +199432,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=981
+    num_owners=964
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199840,8 +199840,8 @@ digraph {
     type=online
     state=active
     label="www.rundschau.info"
-    num_owners=28
-    num_owners_weighted=3.9403
+    num_owners=20
+    num_owners_weighted=3.6174
     num_medias=0
     num_medias_weighted=0.0000
     name="63e11464-7513-4c5b-852d-8158e15a0b9f"
@@ -206788,8 +206788,8 @@ digraph {
     type=online
     state=active
     label="www.webradio.de"
-    num_owners=506
-    num_owners_weighted=15.5214
+    num_owners=489
+    num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2c7c8b-e83d-4842-bc80-0583008fc972"
@@ -208228,8 +208228,8 @@ digraph {
     type=online
     state=active
     label="www.wochenzeitung-online.de"
-    num_owners=28
-    num_owners_weighted=8.1663
+    num_owners=20
+    num_owners_weighted=6.3925
     num_medias=0
     num_medias_weighted=0.0000
     name="63d0014e-27ea-4e59-8d53-5e015140bdfa"
@@ -208240,8 +208240,8 @@ digraph {
     type=online
     state=active
     label="www.wochenzeitung.de"
-    num_owners=28
-    num_owners_weighted=8.1663
+    num_owners=20
+    num_owners_weighted=6.3925
     num_medias=0
     num_medias_weighted=0.0000
     name="63ce9821-ca77-45f0-b036-3014570dd22f"
@@ -229317,10 +229317,6 @@ digraph {
     weight=100
     type=operates
   ];
-  4169 -> 4218 [
-    weight=8.5
-    type=owns
-  ];
   4179 -> 4181 [
     weight=94
     type=owns
@@ -229542,11 +229538,11 @@ digraph {
     type=owns
   ];
   4246 -> 7732 [
-    weight=1.89
+    weight=1.97
     type=owns
   ];
   4246 -> 7731 [
-    weight=1.48
+    weight=1.63
     type=owns
   ];
   4246 -> 4245 [
@@ -248579,10 +248575,6 @@ digraph {
   ];
   8332 -> 55 [
     weight=20
-    type=owns
-  ];
-  8333 -> 4218 [
-    weight=42.5
     type=owns
   ];
   8335 -> 139 [
