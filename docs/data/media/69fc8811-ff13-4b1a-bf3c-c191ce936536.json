@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "onlineAsOfDateIVW": "",
-  "squuid": "5c51c7a8-8736-40c6-a097-30903e46e365",
+  "squuid": "69fc8811-ff13-4b1a-bf3c-c191ce936536",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,19 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "fupa GmbH",
-        "squuid": "5c51c7b5-01f4-4f98-9086-8968e1540cf6"
+        "name": "Funkhaus Nürnberg Studiobetriebs-GmbH",
+        "squuid": "5be1a6b6-01da-4c86-8564-5246716290f4"
       },
-      "squuid": "5c51c80a-0929-4a0f-b774-6e2fb5536939",
+      "squuid": "69fc882d-db5d-42f2-88c8-8f0a02265385",
       "state": "active"
     }
   ],
-  "name": "www.fupa.net",
+  "name": "www.fiestamania.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-05-07T13:33:08.496Z",
-  "onlineIVWPI": 0,
-  "onlineAsOfDateAGOF": "",
+  "controlDate": "2026-05-07T12:39:53.672Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -34,7 +31,5 @@
     "name": "Online Medienangebot",
     "type": "online-offer-type",
     "state": "active"
-  },
-  "onlineVisitsIVW": 0,
-  "onlineAGOF": 0
+  }
 }

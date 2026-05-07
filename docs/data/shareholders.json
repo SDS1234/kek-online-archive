@@ -2459,7 +2459,7 @@
     "squuid": "5f28003a-6cb9-485b-b364-ecf9dd4670f9",
     "name": "Funkhaus Halle Komplementär-GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:22:26.313Z",
+    "controlDate": "2026-05-07T12:19:49.139Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12795,7 +12795,7 @@
     "name": "Funkhaus Regensburg GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d53d-429c-b17b-21d935c65e5b",
-    "controlDate": "2025-10-27T16:09:57.798Z",
+    "controlDate": "2026-05-07T13:17:01.577Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -14470,7 +14470,7 @@
     "squuid": "5be1a6b6-01da-4c86-8564-5246716290f4",
     "name": "Funkhaus Nürnberg Studiobetriebs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:54:47.506Z",
+    "controlDate": "2026-05-07T12:36:39.553Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -14606,6 +14606,15 @@
         "held": {
           "squuid": "5be1a6b1-10d8-45ec-88ae-eccc699405cc",
           "name": "Hit Radio N1"
+        }
+      },
+      {
+        "squuid": "69fc882d-db5d-42f2-88c8-8f0a02265385",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69fc8811-ff13-4b1a-bf3c-c191ce936536",
+          "name": "www.fiestamania.de"
         }
       }
     ]
@@ -16572,7 +16581,7 @@
     "name": "Funkhaus Straubing GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f68d-49c4-8ee5-4264e52fbef5",
-    "controlDate": "2025-10-27T16:30:38.293Z",
+    "controlDate": "2026-05-07T13:26:53.599Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17197,7 +17206,7 @@
     "name": "Funkhaus Rosenheim GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-040f-4b3c-a4ef-629758453272",
-    "controlDate": "2025-10-27T16:16:48.009Z",
+    "controlDate": "2026-05-07T13:19:14.703Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17294,7 +17303,7 @@
     "name": "Funkhaus Coburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a3d5-49fc-bc72-77b1727e864f",
-    "controlDate": "2025-10-27T15:07:13.256Z",
+    "controlDate": "2026-05-07T12:02:10.344Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17500,7 +17509,7 @@
     "name": "Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a605-4423-ae1c-61cdc0b0de95",
-    "controlDate": "2025-10-27T15:01:19.013Z",
+    "controlDate": "2026-05-07T11:56:29.839Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -18255,7 +18264,7 @@
     "name": "Funkhaus Landshut GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6e30-474f-a100-be7d7cf5192f",
-    "controlDate": "2025-10-27T15:44:27.230Z",
+    "controlDate": "2026-05-07T12:34:18.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20587,7 +20596,7 @@
     "name": "Funkhaus Passau GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f513-4842-a215-498137a17a32",
-    "controlDate": "2025-10-27T16:02:13.849Z",
+    "controlDate": "2026-05-07T12:51:37.972Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20777,7 +20786,7 @@
     "name": "Funkhaus Freiburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398",
-    "controlDate": "2025-10-27T15:12:26.706Z",
+    "controlDate": "2026-05-07T12:04:48.490Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20799,15 +20808,6 @@
         "held": {
           "squuid": "5be1a6b1-819c-4eb8-9f11-6a5d811dce7e",
           "name": "baden.fm"
-        }
-      },
-      {
-        "squuid": "5eeb6abe-66f5-4c0f-9029-39a6cfe73155",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5eeb6a7b-79e7-4deb-b15e-f5eee07b4866",
-          "name": "www.baden.fm"
         }
       }
     ]
@@ -21256,6 +21256,7 @@
     "squuid": "5be1a6b6-75df-4151-a1c0-6ee5e0c6bd4f",
     "name": "Förderverein für das Freie Radio Stuttgart e.V.",
     "state": "active",
+    "controlDate": "2026-05-07T13:42:18.713Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27031,7 +27032,7 @@
     "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653",
     "name": "Funke Mediengruppe GmbH & Co. KGaA",
     "state": "active",
-    "controlDate": "2025-10-27T13:11:06.722Z",
+    "controlDate": "2026-05-07T11:44:02.787Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -31812,7 +31813,7 @@
     "name": "Funkhaus Halle GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5fcf-45b5-9357-652833a2d4dc",
-    "controlDate": "2025-10-27T15:22:37.831Z",
+    "controlDate": "2026-05-07T12:21:51.432Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38810,7 +38811,7 @@
     "squuid": "5be1a6b6-0d30-44bc-85af-adea183b75e1",
     "name": "fx-net Internet Based Services GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:50:17.269Z",
+    "controlDate": "2026-05-07T13:36:30.783Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -47867,7 +47868,7 @@
     "name": "Funkhaus Ingolstadt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-859b-4b56-9e5d-e4d7cb1f43d6",
-    "controlDate": "2025-10-27T15:38:47.424Z",
+    "controlDate": "2026-05-07T12:29:12.404Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52312,7 +52313,7 @@
     "squuid": "68ff75e9-e742-40b3-8a1e-7e46ef6605ad",
     "name": "Funke Women, People & Family GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:02:27.020Z",
+    "controlDate": "2026-05-07T11:35:54.985Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -126940,7 +126941,7 @@
     "squuid": "5f90289c-004d-421f-b1ba-b0aa970fceda",
     "name": "Funkhaus Passau Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:02:06.224Z",
+    "controlDate": "2026-05-07T12:51:27.826Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -130751,7 +130752,7 @@
     "squuid": "5f902dc1-8fee-40ae-88c5-9abb0e9cc356",
     "name": "Funkhaus Regensburg GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:09:50.356Z",
+    "controlDate": "2026-05-07T13:16:06.609Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -131956,7 +131957,7 @@
     "squuid": "5f903b91-2a11-42b5-b684-303f270d0a9f",
     "name": "Funkhaus Aschaffenburg GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:59:24.377Z",
+    "controlDate": "2026-05-07T11:54:04.081Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -133637,7 +133638,7 @@
     "squuid": "5f9041b9-a6e7-4a65-94de-8d988283fa15",
     "name": "Funkhaus Ingolstadt Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:38:26.153Z",
+    "controlDate": "2026-05-07T12:29:03.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137712,7 +137713,7 @@
     "squuid": "5f904aad-3ea6-49af-8cd6-449bfa3f116e",
     "name": "Funkhaus Landshut Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:44:17.305Z",
+    "controlDate": "2026-05-07T12:33:44.226Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -138224,7 +138225,7 @@
     "squuid": "5be1a6b6-1954-4555-8d73-75140891eee2",
     "name": "PN Medien GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T11:22:00.970Z",
+    "controlDate": "2026-05-07T13:13:15.029Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155032,7 +155033,7 @@
     "squuid": "5eeb6b61-69f5-4e21-be9c-60e7f02b84ac",
     "name": "Funkhaus Freiburg Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:12:20.898Z",
+    "controlDate": "2026-05-07T12:03:22.341Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170568,7 +170569,7 @@
     "squuid": "65a7ef06-230c-4def-8714-b941038436ff",
     "name": "Funke National Brands Digital GmbH",
     "state": "active",
-    "controlDate": "2025-05-23T14:09:22.832Z",
+    "controlDate": "2026-05-07T11:19:30.528Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -175255,7 +175256,7 @@
     "squuid": "5c5d6043-ab67-49ca-8a91-21c28160b7e0",
     "name": "Funke Publishing GmbH (vormals Funke Zentralredaktion GmbH) ",
     "state": "active",
-    "controlDate": "2025-10-27T14:10:34.927Z",
+    "controlDate": "2026-05-07T11:30:57.904Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -176733,7 +176734,7 @@
     "squuid": "5d3073cd-f3cf-41fe-9cc5-455f58f59e69",
     "name": "FUNKE Österreich Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:47:45.421Z",
+    "controlDate": "2026-05-07T11:41:50.147Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184608,6 +184609,7 @@
     "squuid": "60a4f4e9-541f-4595-ba4d-551aae220f9f",
     "name": "Förderverein für ein Freies Radio Karlsruhe e.V.",
     "state": "active",
+    "controlDate": "2026-05-07T13:44:17.996Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190704,7 +190706,7 @@
     "squuid": "61e560a4-792c-41af-8b63-2673ac7ce903",
     "name": "FVW Medien GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:48:15.525Z",
+    "controlDate": "2026-05-07T13:34:51.668Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201211,6 +201213,30 @@
     ]
   },
   {
+    "squuid": "69fc8080-3ead-4182-9008-08c9eeca8f57",
+    "name": "baden.audio GmbH",
+    "state": "active",
+    "controlDate": "2026-05-07T12:11:23.824Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69fc80bf-5639-4bea-86a1-11d36e5a49a2",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5eeb6a7b-79e7-4deb-b15e-f5eee07b4866",
+          "name": "www.baden.fm"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5ec3bf59-fcbd-49f5-972c-1149f41fc90a",
     "name": "Jaumann Verwaltungs GmbH",
     "state": "active",
@@ -202959,7 +202985,7 @@
     "squuid": "68f0d16d-a799-4dfc-9a89-995bd0ea457c",
     "name": "Funkhaus Würzburg Studiobetriebs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-31T09:51:02.888Z",
+    "controlDate": "2026-05-07T13:27:17.739Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205592,7 +205618,7 @@
     "squuid": "6274dd53-1042-4cc5-b19b-82c8cd02ba50",
     "name": "Funke One GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:06:44.728Z",
+    "controlDate": "2026-05-07T11:30:09.409Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216909,7 +216935,7 @@
     "squuid": "5ce69f45-63d2-4b4b-89a9-4ff5f62268e7",
     "name": "Funkhaus Pfaffenhofen GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:05:31.481Z",
+    "controlDate": "2026-05-07T12:59:59.430Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -228751,7 +228777,7 @@
     "squuid": "6093dace-825a-4773-9685-4da57015a822",
     "name": "Funke Medien Thüringen GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T13:09:20.516Z",
+    "controlDate": "2026-05-07T11:08:11.470Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239578,7 +239604,7 @@
     "squuid": "5be1a6b6-d1b5-4f08-9d05-0f6246e0fca2",
     "name": "Funke TV Guide GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:30:08.555Z",
+    "controlDate": "2026-05-07T11:31:11.039Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257151,7 +257177,7 @@
     "squuid": "5be1a6b6-987d-489e-8519-0c3e5e663454",
     "name": "Funke OTZ Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:08:07.417Z",
+    "controlDate": "2026-05-07T11:40:12.970Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261550,7 +261576,7 @@
     "squuid": "5f919e94-9676-4009-8036-fc8fb920c5af",
     "name": "Funkhaus Straubing Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:29:47.331Z",
+    "controlDate": "2026-05-07T13:26:14.380Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -269728,7 +269754,7 @@
     "squuid": "5f92ac1a-f936-4dd8-86ae-2ae256189db9",
     "name": "Funkhaus Coburg Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T15:06:20.517Z",
+    "controlDate": "2026-05-07T12:01:20.948Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -293783,7 +293809,7 @@
     "squuid": "5c51c7b5-01f4-4f98-9086-8968e1540cf6",
     "name": "fupa GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T16:31:44.275Z",
+    "controlDate": "2026-05-07T13:33:03.806Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
