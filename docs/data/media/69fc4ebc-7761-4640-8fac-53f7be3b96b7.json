@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "63e4c69f-1482-473b-a71c-fb82829fbd9b",
+  "squuid": "69fc4ebc-7761-4640-8fac-53f7be3b96b7",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,17 +10,17 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Funke Harz Kurier GmbH",
-        "squuid": "6082ce0d-e395-446b-a145-7b7adbf5a7b2"
+        "name": "Hamburger Klönschnack Verlag & Medien GmbH",
+        "squuid": "69fc4ee5-7eb1-47d0-94c8-41e62bce9c33"
       },
-      "squuid": "63e4c6ba-97ae-4ea8-8988-bb1831b429c9",
+      "squuid": "69fc4f10-a01b-47b1-918e-cbfab25ba7e2",
       "state": "active"
     }
   ],
-  "name": "www.harzkurier.de/anzeigenblaetter",
+  "name": "www.kloenschnack.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-05-07T09:39:07.286Z",
+  "controlDate": "2026-05-07T08:36:05.567Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

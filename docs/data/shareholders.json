@@ -23211,7 +23211,7 @@
     "squuid": "68ff477a-0b81-43be-9eec-4001fa9c9b3a",
     "name": "Funke Medien National Brands GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T10:29:53.913Z",
+    "controlDate": "2026-05-07T10:39:17.651Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91810,7 +91810,7 @@
     "squuid": "5be1a6b6-09ab-484b-9101-6d223b5a7c82",
     "name": "Funke Medien Niedersachsen GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T12:28:08.663Z",
+    "controlDate": "2026-05-07T10:39:30.054Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -98841,7 +98841,7 @@
     "squuid": "5be1a6b6-f68e-4f1a-a959-6f0b5d032ec0",
     "name": "Funke Medien NRW GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T12:50:34.849Z",
+    "controlDate": "2026-05-07T10:55:14.811Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -149800,7 +149800,7 @@
     "squuid": "6082ce0d-e395-446b-a145-7b7adbf5a7b2",
     "name": "Funke Harz Kurier GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T10:46:46.872Z",
+    "controlDate": "2026-05-07T09:38:23.735Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152429,7 +152429,7 @@
     "squuid": "5eba8120-54dc-4e1b-a9b6-48b92cf07a4b",
     "name": "Funke Management GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:21:54.617Z",
+    "controlDate": "2026-05-07T09:48:35.676Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -155346,7 +155346,7 @@
     "squuid": "602a9778-652e-45fd-a279-d6da098d36b7",
     "name": "Funke Lifestyle GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:20:12.751Z",
+    "controlDate": "2026-05-07T09:42:07.962Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155355,15 +155355,6 @@
       }
     ],
     "operates": [
-      {
-        "squuid": "602a9797-a60c-4e34-b0bb-13c2161b86d4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-ac4c-424b-81e4-7e15c52e43f5",
-          "name": "Cosy"
-        }
-      },
       {
         "squuid": "602a99be-d1f5-49ae-bc10-c93368d55363",
         "type": "operate",
@@ -155416,6 +155407,15 @@
         "held": {
           "squuid": "5be1a6b1-b9a3-4393-b1ea-3cbe98484430",
           "name": "Myself"
+        }
+      },
+      {
+        "squuid": "69fc5269-bf5e-4921-b0bc-922c0e055e00",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69fc51be-a0b5-4c13-875f-f08f4ef40eff",
+          "name": "Land Idee Altes Wissen"
         }
       }
     ]
@@ -162297,7 +162297,7 @@
     "squuid": "602fb5c5-8a47-4153-ae62-59c8766feea0",
     "name": "Funke Entertain GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T10:16:05.461Z",
+    "controlDate": "2026-05-07T09:29:33.546Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162701,7 +162701,7 @@
     "squuid": "63e0fbc1-8d59-4580-a5ea-6caca7ff31f7",
     "name": "Funke Media Sales Thüringen GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:35:12.517Z",
+    "controlDate": "2026-05-07T10:23:14.360Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169826,7 +169826,7 @@
     "squuid": "5d30489b-dd64-4853-88b2-3bcdc5902f06",
     "name": "Funke Media Sales NRW GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:35:57.114Z",
+    "controlDate": "2026-05-07T10:04:58.744Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183459,7 +183459,7 @@
     "squuid": "63d1314c-2da8-4369-a357-e9bc5894af60",
     "name": "Funke Media Sales & Services Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:23:59.125Z",
+    "controlDate": "2026-05-07T09:50:34.347Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183635,7 +183635,7 @@
     "squuid": "63d13228-54a6-40c4-b3ea-2f1978a46efc",
     "name": "Funke Media Sales & Services Hamburg GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:25:26.384Z",
+    "controlDate": "2026-05-07T09:53:39.744Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183650,16 +183650,7 @@
         "state": "active",
         "held": {
           "squuid": "63e3bba8-3497-4a0a-b7fb-4153be9bd305",
-          "name": "www.hamburger-wochenblatt.de"
-        }
-      },
-      {
-        "squuid": "65b8e207-bc68-4b73-9b17-56613df941aa",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "65b8e110-3303-42f7-af99-258c868789ce",
-          "name": "www.sachsenwald.com"
+          "name": "www.hamburgerwochenblatt.de"
         }
       },
       {
@@ -183678,15 +183669,6 @@
         "held": {
           "squuid": "65b8e335-9863-4ea0-94b3-8cd6034d3a87",
           "name": "www.niendorfer-wochenblatt.de"
-        }
-      },
-      {
-        "squuid": "66603e7a-ecc1-445d-872e-ee217b1b4695",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "66603e5d-5812-469c-b265-e2aa3f3071f0",
-          "name": "www.glinder-zeitung.de"
         }
       }
     ]
@@ -188701,7 +188683,7 @@
     "squuid": "66605ad7-8b90-455c-b773-119a2b46688d",
     "name": "Funke Medien GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T12:03:50.915Z",
+    "controlDate": "2026-05-07T10:32:27.761Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196112,6 +196094,30 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "69fc4ee5-7eb1-47d0-94c8-41e62bce9c33",
+    "name": "Hamburger Klönschnack Verlag & Medien GmbH",
+    "state": "active",
+    "controlDate": "2026-05-07T08:36:59.833Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69fc4f10-a01b-47b1-918e-cbfab25ba7e2",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "69fc4ebc-7761-4640-8fac-53f7be3b96b7",
+          "name": "www.kloenschnack.de"
+        }
       }
     ]
   },
@@ -218454,7 +218460,7 @@
     "squuid": "5be1a6b6-7e9f-4303-9e08-72753c2153a3",
     "name": "Funke Digital GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T10:00:28.067Z",
+    "controlDate": "2026-05-07T09:20:27.570Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232046,7 +232052,7 @@
     "squuid": "5be1a6b6-eb02-4cfa-9a0d-4686605539d2",
     "name": "Funke Medien Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T11:56:21.139Z",
+    "controlDate": "2026-05-07T10:28:48.739Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239465,7 +239471,7 @@
     "squuid": "5be1a6b6-f3ae-464c-aceb-c2c79f90ca3b",
     "name": "Funke Medien Hamburg GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T12:04:20.252Z",
+    "controlDate": "2026-05-07T10:32:44.046Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239878,7 +239884,7 @@
     "squuid": "5be1a6b6-e401-4d54-a358-f0e55ecc7a4d",
     "name": "Funke Life GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T10:55:37.217Z",
+    "controlDate": "2026-05-07T09:40:32.291Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
