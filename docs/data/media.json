@@ -9305,7 +9305,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T14:06:30.951Z",
+    "controlDate": "2026-05-07T14:25:02.993Z",
     "state": "active"
   },
   {
@@ -40774,7 +40774,7 @@
     "name": "www.stern.de/neon",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T10:54:11.351Z",
+    "controlDate": "2026-05-07T14:35:20.115Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46355,7 +46355,7 @@
     "name": "www.radio-fds.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T16:54:06.177Z",
+    "controlDate": "2026-05-07T13:41:14.141Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46475,7 +46475,7 @@
     "name": "www.wueste-welle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T16:58:54.186Z",
+    "controlDate": "2026-05-07T13:45:14.264Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -103761,7 +103761,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T10:49:22.113Z",
+    "controlDate": "2026-05-07T14:18:56.691Z",
     "state": "active"
   },
   {
@@ -103779,7 +103779,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T10:47:46.977Z",
+    "controlDate": "2026-05-07T14:18:44.915Z",
     "state": "active"
   },
   {
@@ -106667,7 +106667,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T10:53:59.080Z",
+    "controlDate": "2026-05-07T14:34:19.595Z",
     "state": "active"
   },
   {
@@ -111985,7 +111985,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T10:52:55.770Z",
+    "controlDate": "2026-05-07T14:31:26.712Z",
     "state": "active"
   },
   {
@@ -113631,7 +113631,7 @@
     "rfStatewide": false,
     "name": "Couch",
     "type": "print",
-    "controlDate": "2025-10-28T10:46:57.712Z",
+    "controlDate": "2026-05-07T14:18:29.938Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -156135,7 +156135,7 @@
     "name": "www.antenne-pirmasens.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T17:05:04.440Z",
+    "controlDate": "2026-05-07T13:49:55.241Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162738,7 +162738,7 @@
     "name": "www.antenne-zweibruecken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T17:05:28.459Z",
+    "controlDate": "2026-05-07T13:51:19.566Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163146,7 +163146,7 @@
     "name": "www.freies-radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-27T16:55:34.199Z",
+    "controlDate": "2026-05-07T13:43:27.356Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

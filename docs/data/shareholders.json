@@ -32370,7 +32370,7 @@
     "squuid": "5be1a6b6-bb46-4290-bd58-31a66aae8af8",
     "name": "G + D Grafik + Druck GmbH + Co. KG",
     "state": "active",
-    "controlDate": "2025-10-27T17:11:43.281Z",
+    "controlDate": "2026-05-07T13:56:50.390Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -53721,7 +53721,7 @@
     "squuid": "5ef1f7e8-eb06-4dfd-8ed3-3ac756351d91",
     "name": "G. Braun Immobilien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-28T11:03:30.388Z",
+    "controlDate": "2026-05-07T14:42:26.151Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -86306,7 +86306,7 @@
     "squuid": "5eb13a96-25d5-4fec-827c-081c887e1458",
     "name": "G. T. Werbung, Gesellschaft mit beschränkter Haftung",
     "state": "active",
-    "controlDate": "2025-10-28T11:04:52.829Z",
+    "controlDate": "2026-05-07T14:45:31.570Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -100851,6 +100851,15 @@
         "held": {
           "squuid": "652926b6-30d5-420b-b346-a31f703bb1b3",
           "name": "Sesame Street's Mecha Builders"
+        }
+      },
+      {
+        "squuid": "69fca0b0-208d-46dd-b23c-a7c623e9a778",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e",
+          "name": "www.capital.de"
         }
       }
     ]
@@ -148704,7 +148713,7 @@
     "squuid": "5f086df2-3467-4cc5-9015-452a3f036f13",
     "name": "G + D Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T17:11:55.900Z",
+    "controlDate": "2026-05-07T13:54:23.402Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155621,7 +155630,7 @@
     "squuid": "5f9a9c47-d1e4-4aa5-8ba3-08b9b962d75c",
     "name": "G. Braun Immobilien Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-28T11:03:39.970Z",
+    "controlDate": "2026-05-07T14:42:12.604Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -203562,6 +203571,57 @@
     ]
   },
   {
+    "squuid": "69fca08f-d3ea-4264-afc7-1b5a4ab8c0f8",
+    "name": "RTL News GmbH",
+    "state": "active",
+    "controlDate": "2026-05-07T14:37:29.643Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "69fca0b9-8ee1-42c2-868d-b91bfa37b8ef",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e",
+          "name": "www.capital.de"
+        }
+      },
+      {
+        "squuid": "69fca24c-c4cc-40ba-913e-c26314c447e6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-d29e-4bf8-8dd9-d1916ed30919",
+          "name": "www.geo.de"
+        }
+      },
+      {
+        "squuid": "69fca2f8-7a94-48fc-a19d-681eb442871b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-b59e-4faf-8394-692284216688",
+          "name": "www.stern.de"
+        }
+      },
+      {
+        "squuid": "69fca334-d0a8-473c-9a13-35158f728963",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "611bac06-fc0f-46f0-9f88-bd2f8d5fbdbf",
+          "name": "www.stern.de/neon"
+        }
+      }
+    ]
+  },
+  {
     "state": "active",
     "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
@@ -229943,7 +230003,7 @@
     "squuid": "5be1a6b6-13e2-404a-bb45-4d161ba2d0b5",
     "name": "G+J Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-25T13:23:31.638Z",
+    "controlDate": "2026-05-07T14:30:04.636Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229986,15 +230046,6 @@
         "held": {
           "squuid": "611bac06-fc0f-46f0-9f88-bd2f8d5fbdbf",
           "name": "www.stern.de/neon"
-        }
-      },
-      {
-        "squuid": "62ea49ff-83eb-4cda-b401-8c7eecb4d7e0",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4f39-4517-8037-b63b8e24d57e",
-          "name": "www.capital.de"
         }
       }
     ]
@@ -258737,7 +258788,7 @@
     "squuid": "5be1a6b6-c170-448f-b8f9-48cff0aa69dc",
     "name": "G+J Living Digital GmbH",
     "state": "active",
-    "controlDate": "2025-10-28T10:46:47.520Z",
+    "controlDate": "2026-05-07T14:17:42.765Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -293912,7 +293963,7 @@
     "squuid": "5f3bc86f-7a7a-4c01-a725-9c937c5452a4",
     "name": "G & G Medien Funkhaus GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T17:04:49.930Z",
+    "controlDate": "2026-05-07T13:49:10.316Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
