@@ -12258,7 +12258,7 @@
     "rfStatewide": false,
     "name": "epd Film",
     "type": "print",
-    "controlDate": "2025-10-28T13:01:54.124Z",
+    "controlDate": "2026-05-08T13:00:54.590Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12299,7 +12299,7 @@
     "rfStatewide": false,
     "name": "Der Gemeindebrief",
     "type": "print",
-    "controlDate": "2025-10-28T13:01:10.225Z",
+    "controlDate": "2026-05-08T13:00:13.823Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12323,7 +12323,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T13:03:40.549Z",
+    "controlDate": "2026-05-08T13:01:47.213Z",
     "state": "active"
   },
   {
@@ -12338,7 +12338,7 @@
     "rfStatewide": false,
     "name": "chrismon",
     "type": "print",
-    "controlDate": "2025-10-28T13:01:45.700Z",
+    "controlDate": "2026-05-08T13:00:27.605Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12386,7 +12386,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T13:02:34.863Z",
+    "controlDate": "2026-05-08T13:01:03.095Z",
     "state": "active"
   },
   {
@@ -84459,7 +84459,7 @@
     "name": "www.epd-medien.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:02:59.728Z",
+    "controlDate": "2026-05-08T13:01:20.542Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129884,7 +129884,7 @@
     "name": "www.epd.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:03:29.459Z",
+    "controlDate": "2026-05-08T13:01:31.393Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130045,7 +130045,7 @@
     "name": "www.rundfunk.evangelisch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:04:48.092Z",
+    "controlDate": "2026-05-08T13:02:16.198Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130174,7 +130174,7 @@
     "name": "www.epd-film.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:02:50.694Z",
+    "controlDate": "2026-05-08T13:01:10.966Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130400,7 +130400,7 @@
     "name": "www.gemeindebrief.evangelisch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:03:51.035Z",
+    "controlDate": "2026-05-08T13:01:57.459Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137606,7 +137606,7 @@
     "name": "www.religionen-entdecken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T13:04:36.016Z",
+    "controlDate": "2026-05-08T13:02:06.397Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

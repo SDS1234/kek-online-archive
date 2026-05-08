@@ -8488,7 +8488,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=963
+    num_owners=965
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8500,7 +8500,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=962
+    num_owners=964
     num_owners_weighted=19.7308
     num_medias=7
     num_medias_weighted=0.0000
@@ -15916,7 +15916,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=895
+    num_owners=897
     num_owners_weighted=17.6332
     num_medias=7
     num_medias_weighted=1.3300
@@ -15928,7 +15928,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=895
+    num_owners=897
     num_owners_weighted=18.6332
     num_medias=7
     num_medias_weighted=0.0000
@@ -16036,7 +16036,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=965
+    num_owners=967
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -32452,7 +32452,7 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern GmbH & Co. KG"
-    num_owners=575
+    num_owners=577
     num_owners_weighted=7.3407
     num_medias=12
     num_medias_weighted=3.0938
@@ -32464,7 +32464,7 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern Verwaltungs-GmbH"
-    num_owners=575
+    num_owners=577
     num_owners_weighted=10.5143
     num_medias=12
     num_medias_weighted=0.0000
@@ -37996,7 +37996,7 @@ digraph {
     type=radio
     state=active
     label=egoFM
-    num_owners=583
+    num_owners=585
     num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
@@ -38020,7 +38020,7 @@ digraph {
     type=radio
     state=active
     label="egoFM (Sachsen)"
-    num_owners=583
+    num_owners=585
     num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
@@ -52888,7 +52888,7 @@ digraph {
     type=radio
     state=active
     label="Galaxy Bayern"
-    num_owners=575
+    num_owners=577
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -54328,7 +54328,7 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG"
-    num_owners=448
+    num_owners=450
     num_owners_weighted=1.0000
     num_medias=12
     num_medias_weighted=0.3729
@@ -54340,8 +54340,8 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme GmbH"
-    num_owners=447
-    num_owners_weighted=15.2638
+    num_owners=449
+    num_owners_weighted=16.3471
     num_medias=12
     num_medias_weighted=0.0000
     name="5be1a6b6-dc24-47cf-9ec2-e3f9b61bc5d2"
@@ -117436,7 +117436,7 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Allgäu"
-    num_owners=575
+    num_owners=577
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -118948,7 +118948,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation GmbH & Co. KG"
-    num_owners=583
+    num_owners=585
     num_owners_weighted=5.5255
     num_medias=2
     num_medias_weighted=2.0000
@@ -118960,7 +118960,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation Verwaltungs GmbH"
-    num_owners=583
+    num_owners=585
     num_owners_weighted=6.5255
     num_medias=2
     num_medias_weighted=0.0000
@@ -139492,7 +139492,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=964
+    num_owners=966
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -174844,7 +174844,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=964
+    num_owners=966
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -197440,7 +197440,7 @@ digraph {
     type=online
     state=active
     label="www.radiogalaxy.de"
-    num_owners=575
+    num_owners=577
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -198520,7 +198520,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=964
+    num_owners=966
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199288,7 +199288,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=964
+    num_owners=966
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199504,7 +199504,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=964
+    num_owners=966
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
