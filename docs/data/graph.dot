@@ -8238,11 +8238,11 @@ digraph {
     label="ATLAS Infrastructure Partners Ltd."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0009
+    num_medias=0
+    num_medias_weighted=0.0000
     name="64789884-d9bc-4a60-a1d6-e1037e1c9627"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   687 [
     type=shareholder
@@ -20791,7 +20791,7 @@ digraph {
     num_owners=7
     num_owners_weighted=6.0000
     num_medias=92
-    num_medias_weighted=6.5205
+    num_medias_weighted=6.5240
     name="5be1a6b6-9540-4111-bf03-3717c3fd2dd4"
     in_degree=6
     out_degree=3
@@ -39801,7 +39801,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5d3020b6-b98b-447f-ae74-c9a4b0217bef"
-    in_degree=5
+    in_degree=6
     out_degree=2
   ];
   3317 [
@@ -47058,11 +47058,11 @@ digraph {
     label="First Maven Pty"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0014
     name="69fb29c6-3cdc-42cf-8727-9742b018f8be"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3922 [
     type=print
@@ -48825,7 +48825,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0277
     name="5d30270b-4a67-4bc0-83ea-e8fd643870b2"
-    in_degree=5
+    in_degree=6
     out_degree=1
   ];
   4069 [
@@ -53511,7 +53511,7 @@ digraph {
   4459 [
     type=shareholder
     state=active
-    label="GAW Gesellschaft für Anzeigenwerbung Würzburg GmbH"
+    label="GAW Gesellschaft für Anzeigen-Werbung Würzburg GmbH"
     num_owners=9
     num_owners_weighted=6.5250
     num_medias=1
@@ -55926,11 +55926,11 @@ digraph {
     label="Giese, Linda"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.6666
     name="69f08fd6-eca3-4c86-8d63-371628ee697c"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4661 [
     type=shareholder
@@ -58614,11 +58614,11 @@ digraph {
     label="Gude Eintracht GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0312
     name="69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4885 [
     type=shareholder
@@ -84210,11 +84210,11 @@ digraph {
     label="Lazard Asset Management Company LLC"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.0509
+    num_medias=3
+    num_medias_weighted=0.0518
     name="5d2de1db-b1e1-45af-b408-1b948789215d"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   7018 [
     type=shareholder
@@ -84715,7 +84715,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=92
-    num_medias_weighted=2.1259
+    num_medias_weighted=2.1267
     name="5be1a6b6-3b18-4d22-86d4-aaadd1f291c8"
     in_degree=0
     out_degree=1
@@ -84727,7 +84727,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=92
-    num_medias_weighted=2.1259
+    num_medias_weighted=2.1267
     name="5be1a6b6-a323-4dbe-bada-87be475eb7da"
     in_degree=0
     out_degree=1
@@ -84739,7 +84739,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=92
-    num_medias_weighted=2.1259
+    num_medias_weighted=2.1267
     name="5be1a6b6-969e-499e-8c1f-9d3176296037"
     in_degree=0
     out_degree=2
@@ -84751,7 +84751,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=92
-    num_medias_weighted=2.1259
+    num_medias_weighted=2.1267
     name="5be1a6b6-f425-4e63-b154-0c834d72cbcd"
     in_degree=0
     out_degree=2
@@ -124015,7 +124015,7 @@ digraph {
     num_owners=7
     num_owners_weighted=7.0000
     num_medias=90
-    num_medias_weighted=6.5205
+    num_medias_weighted=6.5240
     name="5be1a6b6-b2a4-4e47-80ab-e7f4b265c112"
     in_degree=2
     out_degree=10
@@ -140481,7 +140481,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.6666
     name="69e5fd86-6590-4ce6-bbde-a198585eb4cc"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11707 [
@@ -214341,10 +214341,6 @@ digraph {
     weight=100
     type=owns
   ];
-  686 -> 4068 [
-    weight=3.08
-    type=owns
-  ];
   689 -> 694 [
     weight=83.7
     type=owns
@@ -228689,6 +228685,10 @@ digraph {
     weight=1.86
     type=owns
   ];
+  3921 -> 4068 [
+    weight=4.99
+    type=owns
+  ];
   3924 -> 8713 [
     weight=100
     type=owns
@@ -232865,6 +232865,10 @@ digraph {
     weight=1
     type=owns
   ];
+  4660 -> 11706 [
+    weight=100
+    type=owns
+  ];
   4662 -> 2278 [
     weight=35
     type=owns
@@ -233756,6 +233760,10 @@ digraph {
   4883 -> 17045 [
     weight=100
     type=operates
+  ];
+  4884 -> 3316 [
+    weight=1.56
+    type=owns
   ];
   4889 -> 13330 [
     weight=1
@@ -242559,6 +242567,10 @@ digraph {
   ];
   7016 -> 7335 [
     weight=25.1
+    type=owns
+  ];
+  7017 -> 4068 [
+    weight=3.07
     type=owns
   ];
   7017 -> 14232 [
@@ -258634,7 +258646,7 @@ digraph {
     type=owns
   ];
   10334 -> 12547 [
-    weight=1.61
+    weight=1.63
     type=owns
   ];
   10334 -> 3122 [

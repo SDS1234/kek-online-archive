@@ -12218,7 +12218,7 @@
     "name": "Hildesheimer Allgemeine Zeitung. Sarstedter Anzeiger",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-28T12:03:26.076Z",
+    "controlDate": "2026-05-08T10:18:55.311Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26510,7 +26510,7 @@
     "name": "www.sarstedter-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T12:03:45.366Z",
+    "controlDate": "2026-05-08T10:19:13.223Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29008,7 +29008,7 @@
     "name": "www.geislinger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T12:16:11.265Z",
+    "controlDate": "2026-05-08T10:24:16.880Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42739,7 +42739,7 @@
     "name": "Alblust",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-28T11:51:14.626Z",
+    "controlDate": "2026-05-08T10:13:41.949Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48109,7 +48109,7 @@
     "name": "www.deutschland-spielt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T11:15:32.761Z",
+    "controlDate": "2026-05-08T09:54:37.932Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79932,7 +79932,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-de6b-4a9c-90fb-3443a2cda9e3",
     "organization": {
@@ -83338,7 +83338,7 @@
     "rfStatewide": false,
     "name": "Gandersheimer Kreisblatt",
     "type": "print",
-    "controlDate": "2025-10-28T11:19:36.143Z",
+    "controlDate": "2026-05-08T09:56:38.774Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83358,7 +83358,7 @@
     "rfStatewide": false,
     "name": "Hildesheimer Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2025-10-28T12:03:14.021Z",
+    "controlDate": "2026-05-08T10:18:46.269Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83417,7 +83417,7 @@
     "rfStatewide": false,
     "name": "Schifferstadter Tagblatt",
     "type": "print",
-    "controlDate": "2025-10-28T12:11:50.642Z",
+    "controlDate": "2026-05-08T10:21:35.166Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83437,7 +83437,7 @@
     "rfStatewide": false,
     "name": "Geislinger Zeitung",
     "type": "print",
-    "controlDate": "2025-10-28T12:15:55.800Z",
+    "controlDate": "2026-05-08T10:24:03.054Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88577,7 +88577,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-d0b5-4313-bfac-4fc70c8e86f3",
     "organization": {
@@ -92664,7 +92664,7 @@
     "name": "HAZ am Sonntag (Hildesheim)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-28T12:02:59.360Z",
+    "controlDate": "2026-05-08T10:18:34.955Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -120040,7 +120040,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T12:12:36.935Z",
+    "controlDate": "2026-05-08T10:21:40.753Z",
     "state": "active"
   },
   {
@@ -121669,7 +121669,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T12:03:36.906Z",
+    "controlDate": "2026-05-08T10:19:04.248Z",
     "state": "active"
   },
   {
@@ -121785,7 +121785,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T11:19:48.718Z",
+    "controlDate": "2026-05-08T09:56:48.457Z",
     "state": "active"
   },
   {
@@ -149496,7 +149496,7 @@
     "name": "www.swp-wochenblatt.weekli.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T10:29:34.391Z",
+    "controlDate": "2026-05-08T10:24:24.284Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154390,7 +154390,7 @@
     "name": "www.alblust.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T11:51:20.896Z",
+    "controlDate": "2026-05-08T10:13:48.823Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
