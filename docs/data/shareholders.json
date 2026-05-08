@@ -141380,15 +141380,6 @@
         }
       },
       {
-        "squuid": "63614886-1cf3-4dd4-9602-964cad73d899",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7fdc-4599-929b-e4b334a01ce1",
-          "name": "Gießener Anzeiger"
-        }
-      },
-      {
         "squuid": "63638f64-71df-4cd2-9f03-9315f05eb502",
         "type": "operate",
         "state": "active",
@@ -194254,7 +194245,7 @@
     "name": "GA Media GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "61850c66-c172-46f1-b046-60943ec049e1",
-    "controlDate": "2025-10-28T11:09:43.527Z",
+    "controlDate": "2026-05-08T07:57:11.644Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194300,7 +194291,7 @@
     "squuid": "61850c7d-fa35-474e-985c-5a46aacf82e0",
     "name": "GA Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-28T11:10:54.775Z",
+    "controlDate": "2026-05-08T08:15:38.181Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -207689,7 +207680,7 @@
     "squuid": "5beed44b-fc78-4862-a188-292bd997a43d",
     "name": "Gall und Hirschmann oHG",
     "state": "active",
-    "controlDate": "2025-10-28T11:12:28.749Z",
+    "controlDate": "2026-05-08T08:42:05.739Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -277564,6 +277555,15 @@
           "squuid": "65c0ef08-4060-4d30-b68a-f86aab0bfc51",
           "name": "Der Sonntag (Oldenburg)"
         }
+      },
+      {
+        "squuid": "69fd9b8d-3c9f-4763-b1c3-7dbc73cbb3c5",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7fdc-4599-929b-e4b334a01ce1",
+          "name": "Gießener Anzeiger"
+        }
       }
     ]
   },
@@ -285733,7 +285733,7 @@
     "squuid": "5be1a6b6-9f13-4558-8b27-7df843692ad5",
     "name": "G.O.L.F.-Time Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-28T11:06:51.585Z",
+    "controlDate": "2026-05-08T07:55:08.267Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
