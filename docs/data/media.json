@@ -26534,7 +26534,7 @@
     "name": "www.gevestor.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T16:08:48.709Z",
+    "controlDate": "2026-05-11T09:12:15.926Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43909,7 +43909,7 @@
     "name": "www.motorvision.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:24:45.621Z",
+    "controlDate": "2026-05-11T08:29:53.860Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79932,7 +79932,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-de6b-4a9c-90fb-3443a2cda9e3",
     "organization": {
@@ -88577,7 +88577,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-d0b5-4313-bfac-4fc70c8e86f3",
     "organization": {
@@ -97619,7 +97619,7 @@
     "rfStatewide": false,
     "name": "Modelleisenbahner",
     "type": "print",
-    "controlDate": "2025-10-28T14:39:10.968Z",
+    "controlDate": "2026-05-11T08:17:57.439Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97685,7 +97685,7 @@
     "rfStatewide": false,
     "name": "MIBA",
     "type": "print",
-    "controlDate": "2025-10-28T14:38:17.978Z",
+    "controlDate": "2026-05-11T08:17:25.770Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97706,7 +97706,7 @@
     "rfStatewide": false,
     "name": "Eisenbahn-Romantik",
     "type": "print",
-    "controlDate": "2025-10-28T14:36:58.299Z",
+    "controlDate": "2026-05-11T08:16:46.559Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104242,7 +104242,7 @@
     "name": "www.german-football-partners.de/fernsehen/gfl-tv/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:25:19.992Z",
+    "controlDate": "2026-05-11T08:32:29.924Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -104287,7 +104287,7 @@
     "rfStatewide": false,
     "name": "Auto classic",
     "type": "print",
-    "controlDate": "2025-10-28T14:36:04.063Z",
+    "controlDate": "2026-05-11T08:14:56.097Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104308,7 +104308,7 @@
     "rfStatewide": false,
     "name": "Militär & Geschichte",
     "type": "print",
-    "controlDate": "2025-10-28T14:38:40.756Z",
+    "controlDate": "2026-05-11T08:17:42.498Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104374,7 +104374,7 @@
     "rfStatewide": false,
     "name": "Modellfan",
     "type": "print",
-    "controlDate": "2025-10-28T14:39:25.681Z",
+    "controlDate": "2026-05-11T08:18:28.457Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104395,7 +104395,7 @@
     "rfStatewide": false,
     "name": "Clausewitz",
     "type": "print",
-    "controlDate": "2025-10-28T14:36:33.316Z",
+    "controlDate": "2026-05-11T08:15:50.796Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107139,7 +107139,7 @@
     "name": "www.offiziellecharts.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T16:12:29.089Z",
+    "controlDate": "2026-05-11T09:31:32.544Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115126,7 +115126,7 @@
     "rfStatewide": false,
     "name": "Digitale Modellbahn",
     "type": "print",
-    "controlDate": "2025-10-28T14:36:48.424Z",
+    "controlDate": "2026-05-11T08:16:10.004Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115743,7 +115743,7 @@
     "rfStatewide": false,
     "name": "Schiff classic",
     "type": "print",
-    "controlDate": "2025-10-28T14:39:59.736Z",
+    "controlDate": "2026-05-11T08:18:57.680Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115802,7 +115802,7 @@
     "rfStatewide": false,
     "name": "Traktor classic",
     "type": "print",
-    "controlDate": "2025-10-28T14:41:03.628Z",
+    "controlDate": "2026-05-11T08:19:43.212Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115973,7 +115973,7 @@
     "rfStatewide": false,
     "name": "Bahn Extra",
     "type": "print",
-    "controlDate": "2025-10-28T14:36:14.299Z",
+    "controlDate": "2026-05-11T08:15:31.869Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116012,7 +116012,7 @@
     "rfStatewide": false,
     "name": "Straßenbahn Magazin",
     "type": "print",
-    "controlDate": "2025-10-28T14:40:55.629Z",
+    "controlDate": "2026-05-11T08:19:08.051Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116075,7 +116075,7 @@
     "rfStatewide": false,
     "name": "Lok Magazin",
     "type": "print",
-    "controlDate": "2025-10-28T14:37:38.516Z",
+    "controlDate": "2026-05-11T08:17:13.604Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116114,7 +116114,7 @@
     "rfStatewide": false,
     "name": "Eisenbahn Magazin",
     "type": "print",
-    "controlDate": "2025-10-28T14:58:30.057Z",
+    "controlDate": "2026-05-11T08:16:27.383Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116135,7 +116135,7 @@
     "rfStatewide": false,
     "name": "N-Bahn-Magazin",
     "type": "print",
-    "controlDate": "2025-10-28T14:39:36.113Z",
+    "controlDate": "2026-05-11T08:18:47.352Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -129740,7 +129740,7 @@
     "name": "www.healthtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:27:06.357Z",
+    "controlDate": "2026-05-11T08:34:56.352Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131268,7 +131268,7 @@
     "name": "www.eisenbahn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T14:58:51.014Z",
+    "controlDate": "2026-05-11T08:09:47.706Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140073,7 +140073,7 @@
     "name": "www.gesund.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:51:30.267Z",
+    "controlDate": "2026-05-11T09:10:21.793Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152353,7 +152353,7 @@
     "name": "www.of-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:31:40.788Z",
+    "controlDate": "2026-05-11T08:55:19.486Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156923,7 +156923,7 @@
     "name": "www.genius.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T14:15:29.423Z",
+    "controlDate": "2026-05-11T08:00:25.476Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
