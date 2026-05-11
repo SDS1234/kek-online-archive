@@ -11886,7 +11886,7 @@ digraph {
     label="Bauer, Dr. Christoph"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
+    num_medias=58
     num_medias_weighted=0.0000
     name="66586287-b715-41e0-b12e-4695d8ab8df0"
     in_degree=0
@@ -16662,7 +16662,7 @@ digraph {
     label="Bitter, Adele"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
+    num_medias=183
     num_medias_weighted=0.0000
     name="6712281a-1a96-4a9c-8c32-ca9944c892ea"
     in_degree=0
@@ -16674,8 +16674,8 @@ digraph {
     label="Bitter, Brigitte-Silvie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=16.1427
+    num_medias=183
+    num_medias_weighted=15.9927
     name="5be1a6b6-03e8-4a5a-a395-765a04f41ffe"
     in_degree=0
     out_degree=1
@@ -20598,8 +20598,8 @@ digraph {
     label="Brücher, Daniel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1957
+    num_medias=58
+    num_medias_weighted=0.1954
     name="5be1a6b6-8618-4929-88e1-748cf6eb922e"
     in_degree=0
     out_degree=1
@@ -24378,7 +24378,7 @@ digraph {
     label="CHE KG"
     num_owners=7
     num_owners_weighted=6.0000
-    num_medias=184
+    num_medias=183
     num_medias_weighted=0.0000
     name="5eb2e68f-75ca-42ab-9976-bd4a90c7f395"
     in_degree=2
@@ -35934,7 +35934,7 @@ digraph {
     label="DuMont Geschäftsführungs-GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=59
+    num_medias=58
     num_medias_weighted=0.0000
     name="5eb93ea2-35af-42b3-83e8-7ab82c60f966"
     in_degree=3
@@ -35994,8 +35994,8 @@ digraph {
     label="DuMont Mediengruppe GmbH & Co. KG"
     num_owners=23
     num_owners_weighted=22.0000
-    num_medias=59
-    num_medias_weighted=13.7803
+    num_medias=58
+    num_medias_weighted=13.7582
     name="5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
     in_degree=22
     out_degree=4
@@ -36006,8 +36006,8 @@ digraph {
     label="DuMont Regional Media GmbH"
     num_owners=24
     num_owners_weighted=23.0000
-    num_medias=59
-    num_medias_weighted=13.7803
+    num_medias=58
+    num_medias_weighted=13.7582
     name="5be1a6b6-34ef-45b6-9fef-9ac918a32345"
     in_degree=1
     out_degree=1
@@ -36018,7 +36018,7 @@ digraph {
     label="DuMont Regionalmedienholding Geschäftsführungsgesellschaft mbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=59
+    num_medias=58
     num_medias_weighted=0.0000
     name="5eb9384a-2eed-439a-905c-e454adac8b60"
     in_degree=2
@@ -36030,8 +36030,8 @@ digraph {
     label="DuMont Regionalmedienholding GmbH & Co KG"
     num_owners=26
     num_owners_weighted=25.0000
-    num_medias=59
-    num_medias_weighted=13.7803
+    num_medias=58
+    num_medias_weighted=13.7582
     name="5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
     in_degree=2
     out_degree=13
@@ -36066,8 +36066,8 @@ digraph {
     label="DuMont Schütte, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=2.4804
+    num_medias=58
+    num_medias_weighted=2.4765
     name="5be1a6b6-7f77-4f7b-975f-a4787e195a69"
     in_degree=0
     out_degree=3
@@ -36078,8 +36078,8 @@ digraph {
     label="DuMont-Schütte, August"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.0689
+    num_medias=58
+    num_medias_weighted=0.0688
     name="60783adc-5613-4c82-ba89-f6cc83e64b38"
     in_degree=0
     out_degree=1
@@ -36090,8 +36090,8 @@ digraph {
     label="DuMont-Schütte, Hannibal"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.0689
+    num_medias=58
+    num_medias_weighted=0.0688
     name="60783aef-d8ea-421f-987e-a3b7a29bce4a"
     in_degree=0
     out_degree=1
@@ -36102,8 +36102,8 @@ digraph {
     label="DuMont-Schütte, Philippa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.0689
+    num_medias=58
+    num_medias_weighted=0.0688
     name="60783b05-6ad9-4c94-a24b-c2f689000d0a"
     in_degree=0
     out_degree=1
@@ -38862,8 +38862,8 @@ digraph {
     label="Eigenbesitz der Heinen-Verlag GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=0.4689
+    num_medias=29
+    num_medias_weighted=0.4332
     name="61791115-f415-4441-ae1c-31059be9c7a2"
     in_degree=0
     out_degree=1
@@ -40566,8 +40566,8 @@ digraph {
     label="Elstermann, Hermann"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=2.6904
+    num_medias=183
+    num_medias_weighted=2.6654
     name="5be1a6b6-f51c-4ee6-9c93-36248be2e777"
     in_degree=0
     out_degree=1
@@ -40578,8 +40578,8 @@ digraph {
     label="Elstermann, Jan Dirk"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=34.9758
+    num_medias=183
+    num_medias_weighted=34.6508
     name="5be1a6b6-3868-4768-8803-191197f84de2"
     in_degree=0
     out_degree=1
@@ -41694,7 +41694,7 @@ digraph {
     label="Erbengemeinschaft (ungeteilt) Andreas Fromm, Maximilian Pfeil, Johanna Fromm-Bruns, Nicolas L. Fromm"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
+    num_medias=183
     num_medias_weighted=0.0000
     name="64887015-3ade-41e7-a431-320c21f182ab"
     in_degree=0
@@ -42342,8 +42342,8 @@ digraph {
     label="Erfurt, Nadine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.5967
+    num_medias=58
+    num_medias_weighted=0.5957
     name="5be1a6b6-4ee9-4380-a8fb-f26ae41306b3"
     in_degree=0
     out_degree=1
@@ -50898,8 +50898,8 @@ digraph {
     label="Fromm, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=17.9345
+    num_medias=183
+    num_medias_weighted=17.7679
     name="5be1a6b6-efe2-4878-932a-a3b7bc298c1f"
     in_degree=0
     out_degree=1
@@ -50910,8 +50910,8 @@ digraph {
     label="Fromm, Nicolas L."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=1.7918
+    num_medias=183
+    num_medias_weighted=1.7752
     name="64886f35-ae90-4f6f-b69d-fecd6dda438f"
     in_degree=0
     out_degree=1
@@ -50922,8 +50922,8 @@ digraph {
     label="Fromm-Bruns, Johanna"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=16.1427
+    num_medias=183
+    num_medias_weighted=15.9927
     name="5be1a6b6-8e10-40b5-942f-b6d391b55dbd"
     in_degree=0
     out_degree=1
@@ -63066,8 +63066,8 @@ digraph {
     label="Heinen, Helmut"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=5.7879
+    num_medias=29
+    num_medias_weighted=5.3472
     name="5be1a6b6-672e-4de5-9df3-f6d1d7890c22"
     in_degree=0
     out_degree=2
@@ -63078,8 +63078,8 @@ digraph {
     label="Heinen, Johannes"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=0.0105
+    num_medias=29
+    num_medias_weighted=0.0097
     name="5be1a6b6-a285-4998-8fff-d96eb202a0a3"
     in_degree=0
     out_degree=1
@@ -63090,8 +63090,8 @@ digraph {
     label="Heinen, Matthias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=30
-    num_medias_weighted=0.0105
+    num_medias=29
+    num_medias_weighted=0.0097
     name="5be1a6b6-0f22-4954-bbcb-35360bc22761"
     in_degree=0
     out_degree=1
@@ -63126,11 +63126,11 @@ digraph {
     label="Heinen-Verlag GmbH"
     num_owners=33
     num_owners_weighted=4.2964
-    num_medias=30
-    num_medias_weighted=13.1225
+    num_medias=29
+    num_medias_weighted=12.1225
     name="5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
     in_degree=6
-    out_degree=13
+    out_degree=12
   ];
   5261 [
     type=shareholder
@@ -64218,7 +64218,7 @@ digraph {
     label="Hermann Elstermann GmbH"
     num_owners=7
     num_owners_weighted=6.0000
-    num_medias=184
+    num_medias=183
     num_medias_weighted=0.0000
     name="5eb2e6ba-84df-4fd1-b689-db8ccb1eca28"
     in_degree=1
@@ -81558,8 +81558,8 @@ digraph {
     label="Kölnische Verlagsdruckerei GmbH"
     num_owners=33
     num_owners_weighted=5.4471
-    num_medias=30
-    num_medias_weighted=6.5668
+    num_medias=29
+    num_medias_weighted=6.0668
     name="5be1a6b6-de39-4a11-9404-927d9956f6d6"
     in_degree=3
     out_degree=1
@@ -82182,7 +82182,7 @@ digraph {
     label="L.V. Fromm GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=184
+    num_medias=183
     num_medias_weighted=0.0000
     name="5eb2e59f-0282-4d02-897b-c63df0613e81"
     in_degree=1
@@ -82194,8 +82194,8 @@ digraph {
     label="L.V. Fromm Verwaltungsgesellschaft mbH & Co KG"
     num_owners=6
     num_owners_weighted=5.0000
-    num_medias=184
-    num_medias_weighted=53.8089
+    num_medias=183
+    num_medias_weighted=53.3089
     name="5be1a6b6-247b-40f5-80f1-0a66263980d0"
     in_degree=5
     out_degree=3
@@ -88494,11 +88494,11 @@ digraph {
     label="M. DuMont Schauberg Expedition der Kölnischen Zeitung GmbH & Co KG"
     num_owners=28
     num_owners_weighted=1.0000
-    num_medias=27
-    num_medias_weighted=19.1005
+    num_medias=26
+    num_medias_weighted=18.1005
     name="5be1a6b6-9d5d-484c-a27a-6a9349842635"
     in_degree=2
-    out_degree=23
+    out_degree=22
   ];
   7375 [
     type=shareholder
@@ -88506,7 +88506,7 @@ digraph {
     label="M. DuMont Schauberg Verwaltungs-GmbH"
     num_owners=27
     num_owners_weighted=26.0000
-    num_medias=27
+    num_medias=26
     num_medias_weighted=0.0000
     name="5eb93f9f-2398-4506-93d8-87abb7cde3fb"
     in_degree=1
@@ -91554,8 +91554,8 @@ digraph {
     label="Mayer-Schlagintweit, Nicola"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1723
+    num_medias=58
+    num_medias_weighted=0.1720
     name="5be1a6b6-3eeb-46fb-b844-0a2815b66259"
     in_degree=0
     out_degree=1
@@ -94218,8 +94218,8 @@ digraph {
     label="Meinders & Elstermann GmbH & Co KG"
     num_owners=7
     num_owners_weighted=4.0000
-    num_medias=184
-    num_medias_weighted=53.8089
+    num_medias=183
+    num_medias_weighted=53.3089
     name="5be1a6b6-3ed7-4849-8e3f-a61d5cad7d36"
     in_degree=5
     out_degree=4
@@ -102294,11 +102294,11 @@ digraph {
     label="Neue Osnabrücker Zeitung GmbH & Co. KG"
     num_owners=16
     num_owners_weighted=8.0000
-    num_medias=175
-    num_medias_weighted=93.0934
+    num_medias=174
+    num_medias_weighted=92.0934
     name="5be1a6b6-11e0-4409-8a35-b11600f37cca"
     in_degree=3
-    out_degree=102
+    out_degree=101
   ];
   8525 [
     type=print
@@ -103050,8 +103050,8 @@ digraph {
     label="Neven DuMont, Caroline"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.2756
+    num_medias=58
+    num_medias_weighted=0.2752
     name="5be1a6b6-ac7b-4e63-a2c2-988dbc5d89fe"
     in_degree=0
     out_degree=1
@@ -103086,8 +103086,8 @@ digraph {
     label="Neven DuMont, Isabella"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=3.4285
+    num_medias=58
+    num_medias_weighted=3.4230
     name="5be1a6b6-351c-4df6-87c8-7ac43baaf472"
     in_degree=0
     out_degree=3
@@ -103098,8 +103098,8 @@ digraph {
     label="Neven DuMont, Kimberly"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.4961
+    num_medias=58
+    num_medias_weighted=0.4953
     name="60783b29-fde7-4306-ad55-6e22d56e8a96"
     in_degree=0
     out_degree=1
@@ -103110,8 +103110,8 @@ digraph {
     label="Neven DuMont, Nathalie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1378
+    num_medias=58
+    num_medias_weighted=0.1376
     name="5be1a6b6-571c-455b-b26c-c138d1f18421"
     in_degree=0
     out_degree=1
@@ -103122,8 +103122,8 @@ digraph {
     label="Neven DuMont, Paul"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.0689
+    num_medias=58
+    num_medias_weighted=0.0688
     name="671b8675-dadf-4baa-afe9-469d1e80ed4c"
     in_degree=0
     out_degree=1
@@ -103134,8 +103134,8 @@ digraph {
     label="Neven DuMont, Robin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.4961
+    num_medias=58
+    num_medias_weighted=0.4953
     name="60783b3f-6791-4311-b305-bb21653784d3"
     in_degree=0
     out_degree=1
@@ -106230,8 +106230,8 @@ digraph {
     label="Ochoa Neven DuMont, Natalia Sofia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1378
+    num_medias=58
+    num_medias_weighted=0.1376
     name="60783b60-5221-41d6-a8b4-c9251f495c70"
     in_degree=0
     out_degree=1
@@ -106242,8 +106242,8 @@ digraph {
     label="Ochoa Neven DuMont, Sofia Carlota"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.0689
+    num_medias=58
+    num_medias_weighted=0.0688
     name="66586a8a-6533-4daf-906c-017ec4f9358f"
     in_degree=0
     out_degree=1
@@ -107682,7 +107682,7 @@ digraph {
     label="Osnabrücker Zeitungs-GmbH"
     num_owners=16
     num_owners_weighted=9.0000
-    num_medias=175
+    num_medias=174
     num_medias_weighted=0.0000
     name="5eb2c2be-f081-48d7-ad68-933aa54f734b"
     in_degree=1
@@ -110586,8 +110586,8 @@ digraph {
     label="Pfeil, Maximilian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=184
-    num_medias_weighted=17.9345
+    num_medias=183
+    num_medias_weighted=17.7679
     name="5be1a6b6-2e45-4926-a7bf-4c873e547c0c"
     in_degree=0
     out_degree=1
@@ -132474,8 +132474,8 @@ digraph {
     label="Schlagintweit, Kaya"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1723
+    num_medias=58
+    num_medias_weighted=0.1720
     name="5be1a6b6-0dfd-4ad0-8c76-926bcaf30540"
     in_degree=0
     out_degree=1
@@ -136410,8 +136410,8 @@ digraph {
     label="Schütte, Ingo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.5967
+    num_medias=58
+    num_medias_weighted=0.5957
     name="5be1a6b6-fd7a-4a95-8145-bcac5d84a298"
     in_degree=0
     out_degree=1
@@ -136434,8 +136434,8 @@ digraph {
     label="Schütte, Marco"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.5967
+    num_medias=58
+    num_medias_weighted=0.5957
     name="5be1a6b6-805b-42ad-9b26-d434423ae28a"
     in_degree=0
     out_degree=1
@@ -150830,14 +150830,14 @@ digraph {
   ];
   12569 [
     type=print
-    state=active
+    state=archived
     label="Tag 7 (Köln)"
-    num_owners=51
-    num_owners_weighted=17.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="683ef862-b61f-49a7-adc3-a23e219e0215"
-    in_degree=3
+    in_degree=0
     out_degree=0
   ];
   12570 [
@@ -161286,8 +161286,8 @@ digraph {
     label="Vischer, Cornelia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=2.2737
+    num_medias=58
+    num_medias_weighted=2.2701
     name="5be1a6b6-76e3-4763-801f-0d7c9feb9535"
     in_degree=0
     out_degree=1
@@ -161298,8 +161298,8 @@ digraph {
     label="Vischer, Gregor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.1378
+    num_medias=58
+    num_medias_weighted=0.1376
     name="5be1a6b6-31a0-4956-ab44-e22a5a112be1"
     in_degree=0
     out_degree=1
@@ -161310,8 +161310,8 @@ digraph {
     label="Vischer, Paula"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=59
-    num_medias_weighted=0.9991
+    num_medias=58
+    num_medias_weighted=0.9975
     name="66586aa2-fc9e-41ab-a37e-a380081fba87"
     in_degree=0
     out_degree=1
@@ -235225,10 +235225,6 @@ digraph {
     weight=100
     type=operates
   ];
-  5260 -> 12569 [
-    weight=100
-    type=operates
-  ];
   5260 -> 16660 [
     weight=100
     type=operates
@@ -243965,10 +243961,6 @@ digraph {
     weight=100
     type=operates
   ];
-  7374 -> 12569 [
-    weight=100
-    type=operates
-  ];
   7374 -> 14950 [
     weight=100
     type=operates
@@ -249858,10 +249850,6 @@ digraph {
     type=operates
   ];
   8524 -> 12486 [
-    weight=100
-    type=operates
-  ];
-  8524 -> 12569 [
     weight=100
     type=operates
   ];

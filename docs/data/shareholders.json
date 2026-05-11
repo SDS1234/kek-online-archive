@@ -57471,15 +57471,6 @@
           "squuid": "5be1a6b1-9e45-4944-8ab7-2ee45ee4731a",
           "name": "Bonner Rundschau"
         }
-      },
-      {
-        "squuid": "683ef8b0-d30a-47dd-b651-3c3a5ba983d4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "683ef862-b61f-49a7-adc3-a23e219e0215",
-          "name": "Tag 7 (Köln)"
-        }
       }
     ]
   },
@@ -74834,15 +74825,6 @@
         "held": {
           "squuid": "67498c26-4dc9-47df-80cf-95ce2a9bc1dd",
           "name": "Tag 7 (Osnabrück)"
-        }
-      },
-      {
-        "squuid": "683ef8bb-b2e1-40a5-be98-c907420704ee",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "683ef862-b61f-49a7-adc3-a23e219e0215",
-          "name": "Tag 7 (Köln)"
         }
       },
       {
@@ -221729,15 +221711,6 @@
         "held": {
           "squuid": "673f0a60-4fb7-4ad9-b4ec-c383af8dd6ce",
           "name": "Kölner Stadt-Anzeiger am Sonntag"
-        }
-      },
-      {
-        "squuid": "683ef8a4-6fbf-4852-8735-944f7b32b32e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "683ef862-b61f-49a7-adc3-a23e219e0215",
-          "name": "Tag 7 (Köln)"
         }
       }
     ]

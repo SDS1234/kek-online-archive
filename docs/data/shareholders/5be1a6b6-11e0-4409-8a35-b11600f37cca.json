@@ -929,15 +929,6 @@
     {
       "type": "operate",
       "held": {
-        "name": "Tag 7 (Köln)",
-        "squuid": "683ef862-b61f-49a7-adc3-a23e219e0215"
-      },
-      "squuid": "683ef8bb-b2e1-40a5-be98-c907420704ee",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
         "name": "Münsterländische Tageszeitung",
         "squuid": "5be1a6b1-3bcb-4158-8680-e0c20f8a9f47"
       },
