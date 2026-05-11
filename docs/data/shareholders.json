@@ -27137,7 +27137,7 @@
     "name": "Göttinger Tageblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-df12-40ce-9518-f463bea5e8d8",
-    "controlDate": "2025-10-29T15:31:23.626Z",
+    "controlDate": "2026-05-11T15:05:04.446Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -74846,15 +74846,6 @@
         }
       },
       {
-        "squuid": "684fdf4f-5bf9-49be-813e-de5c4d00c573",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "684fddd0-6044-4949-80c8-451af7423e54",
-          "name": "Tag 7 (Cloppenburg/Vechta)"
-        }
-      },
-      {
         "squuid": "684fdfc4-2f05-49ea-87f5-98a60cb671b0",
         "type": "operate",
         "state": "active",
@@ -74888,15 +74879,6 @@
         "held": {
           "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c",
           "name": "www.on-online.de"
-        }
-      },
-      {
-        "squuid": "6932c45a-10f8-453b-aed5-f462669880dd",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6932c391-62d9-4899-ae57-4d43090cdcc0",
-          "name": "Tag 7 (Leer/Aurich)"
         }
       },
       {
@@ -74945,12 +74927,12 @@
         }
       },
       {
-        "squuid": "69f0988e-b217-42af-9c89-0bffb946b3e7",
+        "squuid": "6a01f4f5-42c4-4b88-a95d-2fb49ad921ef",
         "type": "operate",
         "state": "active",
         "held": {
-          "squuid": "69f0984e-7816-4328-b86e-5fdc5a4cecab",
-          "name": "Tag 7 (Delmenhorst)"
+          "squuid": "5be1a6b1-3ef9-4ad6-8a59-3930911852ed",
+          "name": "www.rheiderland.de"
         }
       }
     ]
@@ -89143,7 +89125,7 @@
     "squuid": "5be1a6b6-58b8-4a65-8b14-5449b8fdc44f",
     "name": "GT Medien GmbH",
     "state": "active",
-    "controlDate": "2025-05-28T15:29:28.555Z",
+    "controlDate": "2026-05-11T13:46:07.999Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89945,7 +89927,7 @@
     "squuid": "5be1a6b6-b2f5-4197-887f-e5417f3b446f",
     "name": "GT3 Software- und Beteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T14:45:33.698Z",
+    "controlDate": "2026-05-11T13:49:32.499Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -118333,7 +118315,7 @@
     "squuid": "5be1a6b6-793e-42a1-90a5-5697512c1ad7",
     "name": "Grünwalder TV-Studio Fernsehprojektierungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-29T14:42:33.014Z",
+    "controlDate": "2026-05-11T13:45:14.636Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -124867,15 +124849,6 @@
           "squuid": "5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c",
           "name": "www.on-online.de"
         }
-      },
-      {
-        "squuid": "6932c44f-0e7b-4717-80fb-5dfe6abb8cfc",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6932c391-62d9-4899-ae57-4d43090cdcc0",
-          "name": "Tag 7 (Leer/Aurich)"
-        }
       }
     ]
   },
@@ -124884,7 +124857,7 @@
     "name": "H. Risius GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8d79-401b-975b-320626692ad3",
-    "controlDate": "2025-10-30T09:37:50.548Z",
+    "controlDate": "2026-05-11T15:13:56.487Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143326,7 +143299,7 @@
     "squuid": "5be1a6b6-f72a-4e6b-b517-41d91fea9591",
     "name": "GVB GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-29T15:17:05.004Z",
+    "controlDate": "2026-05-11T14:03:49.314Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -147543,7 +147516,7 @@
     "squuid": "670687fd-a3be-4ffa-a6ca-c8f1ed1f521c",
     "name": "GT4 Software und Beteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T14:46:12.745Z",
+    "controlDate": "2026-05-11T13:51:20.508Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150377,6 +150350,39 @@
     ]
   },
   {
+    "squuid": "6a01e7c5-8e07-4f2a-941a-2e1831b62d16",
+    "name": "Rhein Main Medienhaus GmbH",
+    "state": "active",
+    "controlDate": "2026-05-11T14:44:29.581Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a01eaf4-3004-4ff0-ace6-2f4d7f272530",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63d7b252-af50-439b-ae93-738459dab655",
+          "name": "www.giessener-zeitung.de"
+        }
+      },
+      {
+        "squuid": "6a01ef15-89c2-414a-a36b-7285c568c4cb",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "63d7affd-c4ce-4012-8f60-92e9f5fd4cd7",
+          "name": "www.bote.de"
+        }
+      }
+    ]
+  },
+  {
     "squuid": "5d3979c4-7865-44a0-b245-dcd129f97beb",
     "name": "Imbau Montagen Bau-Fertigelemente GmbH",
     "state": "active",
@@ -150863,6 +150869,39 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a01eaad-2014-4dc2-a057-569cb8817e94",
+    "name": "GNZ Verlags GmbH",
+    "state": "active",
+    "controlDate": "2026-05-11T14:53:27.566Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a01ecd8-378f-41c5-86db-936ec90e5fce",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7539-46dd-9111-0e238f381b8d",
+          "name": "www.gnz.de"
+        }
+      },
+      {
+        "squuid": "6a01ed2f-f556-4a30-a2d7-5ba298dae8b8",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4424-4fb4-913b-4b6f75369d4c",
+          "name": "Gelnhäuser Neue Zeitung"
+        }
       }
     ]
   },
@@ -156413,9 +156452,9 @@
   },
   {
     "squuid": "5d398848-4bc9-413f-be06-5d25873e5c4b",
-    "name": "GSB Betriebs- und Beteiligungs GmbH.",
+    "name": "GSB Betriebs- und Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T14:45:02.101Z",
+    "controlDate": "2026-05-11T13:45:44.213Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172352,7 +172391,7 @@
     "squuid": "5ebd3244-2e19-4300-9730-424af0cc92aa",
     "name": "GVB Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:15:16.188Z",
+    "controlDate": "2026-05-11T14:04:15.453Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -192111,7 +192150,7 @@
     "squuid": "5d2c85b1-784b-4713-88f2-245c92bd363a",
     "name": "Guardian News & Media Ltd.",
     "state": "active",
-    "controlDate": "2025-10-29T14:46:55.329Z",
+    "controlDate": "2026-05-11T13:53:35.146Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193413,7 +193452,7 @@
     "squuid": "5f1a9f68-83a2-408d-9620-c1999729396e",
     "name": "GVG GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:21:15.863Z",
+    "controlDate": "2026-05-11T14:07:31.761Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196645,24 +196684,14 @@
   {
     "squuid": "63d7b25d-6d07-49c1-a3ea-b41d03edd6b8",
     "name": "GZ Medien GmbH",
-    "state": "active",
-    "controlDate": "2025-10-29T15:27:20.524Z",
+    "state": "archived",
+    "controlDate": "2026-05-11T14:21:14.630Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "63d7b276-d09a-42e8-9dec-4175d9972bb5",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63d7b252-af50-439b-ae93-738459dab655",
-          "name": "www.giessener-zeitung.de"
-        }
       }
     ]
   },
@@ -222631,45 +222660,16 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Druck- und Pressehaus Naumann GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-7965-4235-96c0-9db33ee19d4b",
+    "name": "Druck- und Pressehaus Naumann GmbH & Co KG",
+    "state": "active",
     "controlDate": "2026-04-29T08:30:51.887Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-e06e-4504-b4f6-26aee45d3f6a",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4424-4fb4-913b-4b6f75369d4c",
-          "name": "Gelnhäuser Neue Zeitung"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-8785-47ef-8644-62b7c74d33ff",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7539-46dd-9111-0e238f381b8d",
-          "name": "www.gnz.de"
-        }
-      },
-      {
-        "squuid": "63d7b049-2a0d-41e0-afec-57c3d4b43add",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63d7affd-c4ce-4012-8f60-92e9f5fd4cd7",
-          "name": "www.bote.de"
-        }
       }
     ]
   },
@@ -234623,7 +234623,7 @@
     "squuid": "5be1a6b6-ad71-43a1-9487-fc074b7dcd8f",
     "name": "GVG Gesellschaft für Verlagsgeschäfte oHG",
     "state": "active",
-    "controlDate": "2025-10-29T15:18:22.107Z",
+    "controlDate": "2026-05-11T14:06:32.797Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -239778,15 +239778,6 @@
           "squuid": "63d9160c-dc91-4472-95af-1426084e9156",
           "name": "www.lokale-wochenzeitungen.de/kreisblatt-am-sonntag"
         }
-      },
-      {
-        "squuid": "69f09885-5dbf-409c-be4d-5e1ca4707283",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "69f0984e-7816-4328-b86e-5fdc5a4cecab",
-          "name": "Tag 7 (Delmenhorst)"
-        }
       }
     ]
   },
@@ -242987,7 +242978,7 @@
     "squuid": "5be1a6b6-2bff-4969-8b2b-b4dc2f860c2f",
     "name": "gutefrage.net GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:09:20.637Z",
+    "controlDate": "2026-05-11T13:54:16.841Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -265680,7 +265671,7 @@
     "squuid": "5f3a6f48-86b0-431a-a02a-d1435a08015a",
     "name": "GW Holding GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:24:51.100Z",
+    "controlDate": "2026-05-11T14:17:15.291Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -279124,15 +279115,6 @@
           "squuid": "684fdde3-f1b9-4190-bb57-4385e5f94f27",
           "name": "Promenade"
         }
-      },
-      {
-        "squuid": "684fdf44-b0df-4289-bfe0-fcca5ce54060",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "684fddd0-6044-4949-80c8-451af7423e54",
-          "name": "Tag 7 (Cloppenburg/Vechta)"
-        }
       }
     ]
   },
@@ -286093,7 +286075,7 @@
     "squuid": "5be1a6b6-4c26-46d7-97e6-374bb94f1a53",
     "name": "GvH Vermögensverwaltungsgesellschaft XXXIII mbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:24:19.110Z",
+    "controlDate": "2026-05-11T14:16:16.887Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -289961,7 +289943,7 @@
     "squuid": "5ec26fff-308c-4b66-9320-a491368c5313",
     "name": "Günther Niemeyer GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T15:35:50.896Z",
+    "controlDate": "2026-05-11T15:09:58.259Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -292129,7 +292111,7 @@
     "squuid": "5be1a6b6-6138-4e70-a529-1a139c3cfa8f",
     "name": "GVG Verwaltungs-GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-29T15:21:01.926Z",
+    "controlDate": "2026-05-11T14:14:12.374Z",
     "limitedPartnership": true,
     "organizations": [
       {
