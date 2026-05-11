@@ -12018,8 +12018,8 @@ digraph {
     label="Bauer, Prof. Dr. Werner"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-74b7-4360-83bc-f6d4fecbcb5d"
     in_degree=0
     out_degree=1
@@ -14574,8 +14574,8 @@ digraph {
     label="Bertelsmann Capital Holding GmbH"
     num_owners=13
     num_owners_weighted=5.2640
-    num_medias=206
-    num_medias_weighted=63.4248
+    num_medias=205
+    num_medias_weighted=62.6641
     name="5be1a6b6-a85b-4085-9d44-305f43201b7d"
     in_degree=1
     out_degree=1
@@ -14586,7 +14586,7 @@ digraph {
     label="Bertelsmann Management SE"
     num_owners=9
     num_owners_weighted=9.0000
-    num_medias=233
+    num_medias=232
     num_medias_weighted=0.0000
     name="5f070afd-5070-4eb7-beee-4b9bc2c46eb8"
     in_degree=1
@@ -14598,8 +14598,8 @@ digraph {
     label="Bertelsmann SE & Co. KGaA"
     num_owners=12
     num_owners_weighted=4.2640
-    num_medias=233
-    num_medias_weighted=67.1783
+    num_medias=232
+    num_medias_weighted=66.4176
     name="5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76"
     in_degree=4
     out_degree=4
@@ -14610,8 +14610,8 @@ digraph {
     label="Bertelsmann Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=52.1303
+    num_medias=232
+    num_medias_weighted=51.5401
     name="5be1a6b6-bf36-4505-83b4-823c842c8df3"
     in_degree=0
     out_degree=1
@@ -14622,8 +14622,8 @@ digraph {
     label="Bertelsmann Verwaltungsgesellschaft mbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=233
-    num_medias_weighted=2.2169
+    num_medias=232
+    num_medias_weighted=2.1918
     name="5be1a6b6-d5e7-4704-b7d7-fc44101813c3"
     in_degree=8
     out_degree=2
@@ -16180,8 +16180,8 @@ digraph {
     type=print
     state=active
     label="Bild + Funk"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-794a-40d2-b47e-fadfb8b394e0"
@@ -20730,8 +20730,8 @@ digraph {
     label="Buberl, Dr. Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-2e77-4098-a200-baa0e526fbfd"
     in_degree=0
     out_degree=1
@@ -22122,8 +22122,8 @@ digraph {
     label="BVG Familienstiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=1.1084
+    num_medias=232
+    num_medias_weighted=1.0959
     name="65254565-7c66-4b64-a3f6-230a39ffa25a"
     in_degree=0
     out_degree=1
@@ -22134,8 +22134,8 @@ digraph {
     label="BVG Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.5764
+    num_medias=232
+    num_medias_weighted=0.5699
     name="5be1a6b6-69e7-4f06-b067-2d61a6d42a28"
     in_degree=0
     out_degree=1
@@ -25482,8 +25482,8 @@ digraph {
     label="CLT-UFA S.A."
     num_owners=19
     num_owners_weighted=9.9929
-    num_medias=206
-    num_medias_weighted=83.3808
+    num_medias=205
+    num_medias_weighted=82.3808
     name="5be1a6b6-f5bf-477e-81eb-7e13fe0744b1"
     in_degree=2
     out_degree=3
@@ -39246,8 +39246,8 @@ digraph {
     label="Eigenbesitz der RTL Group S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=206
-    num_medias_weighted=0.6319
+    num_medias=205
+    num_medias_weighted=0.6243
     name="5be1a6b6-d50b-4fcf-807c-4af90e264d41"
     in_degree=0
     out_degree=1
@@ -45390,8 +45390,8 @@ digraph {
     label="Familie Mohn"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=12.8311
+    num_medias=232
+    num_medias_weighted=12.6858
     name="5be1a6b6-1245-4680-afa1-9b4de5d743e8"
     in_degree=0
     out_degree=1
@@ -57040,8 +57040,8 @@ digraph {
     type=print
     state=active
     label=Gong
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ff7f-4ae1-b34e-badebeedc07a"
@@ -57076,8 +57076,8 @@ digraph {
     type=shareholder
     state=active
     label="Gong Verlag GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=17
+    num_owners_weighted=9.3614
     num_medias=6
     num_medias_weighted=6.0000
     name="5be1a6b6-53f8-4684-b1de-1947f404b78f"
@@ -58242,11 +58242,11 @@ digraph {
     label="Gruner + Jahr Deutschland GmbH"
     num_owners=23
     num_owners_weighted=13.9929
-    num_medias=21
-    num_medias_weighted=19.0182
+    num_medias=20
+    num_medias_weighted=18.0182
     name="61dd83e4-35a5-4db5-b2e9-a7ffb22f26fc"
     in_degree=1
-    out_degree=15
+    out_degree=14
   ];
   4854 [
     type=shareholder
@@ -83176,8 +83176,8 @@ digraph {
     type=shareholder
     state=active
     label="LandIdee Verlag GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-c80a-472e-a23d-d65ad9deccd6"
@@ -97230,8 +97230,8 @@ digraph {
     label="Mohn, Christoph"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-b02b-4e3c-93fc-8cddd1a3d16e"
     in_degree=0
     out_degree=1
@@ -97242,8 +97242,8 @@ digraph {
     label="Mohn, Dr. Brigitte"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-707c-4a47-8736-5678b37c8407"
     in_degree=0
     out_degree=1
@@ -97254,8 +97254,8 @@ digraph {
     label="Mohn, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-8ddb-4101-bd5b-007be842c305"
     in_degree=0
     out_degree=1
@@ -105508,8 +105508,8 @@ digraph {
     type=print
     state=active
     label="nur TV"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ab86-4e49-9899-99bd4bbcb6f6"
@@ -127722,8 +127722,8 @@ digraph {
     label="RTL Deutschland GmbH"
     num_owners=22
     num_owners_weighted=12.9929
-    num_medias=64
-    num_medias_weighted=59.6872
+    num_medias=63
+    num_medias_weighted=58.6872
     name="5be1a6b6-6bb3-4d6e-97ab-81d991235520"
     in_degree=1
     out_degree=2
@@ -127758,8 +127758,8 @@ digraph {
     label="RTL Group GmbH"
     num_owners=20
     num_owners_weighted=10.9929
-    num_medias=204
-    num_medias_weighted=81.3808
+    num_medias=203
+    num_medias_weighted=80.3808
     name="5be1a6b6-8121-4304-890e-61c94a6f08d0"
     in_degree=1
     out_degree=2
@@ -127770,8 +127770,8 @@ digraph {
     label="RTL Group S.A."
     num_owners=17
     num_owners_weighted=8.0154
-    num_medias=206
-    num_medias_weighted=83.1473
+    num_medias=205
+    num_medias_weighted=82.1501
     name="5be1a6b6-7474-4c9a-a706-95e39a65b236"
     in_degree=4
     out_degree=2
@@ -137690,14 +137690,14 @@ digraph {
   ];
   11474 [
     type=print
-    state=active
+    state=archived
     label="Sesame Street's Mecha Builders"
-    num_owners=24
-    num_owners_weighted=14.9929
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="652926b6-30d5-420b-b346-a31f703bb1b3"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   11475 [
@@ -138498,8 +138498,8 @@ digraph {
     label="Silchester International Investors LLP"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=208
-    num_medias_weighted=4.1693
+    num_medias=207
+    num_medias_weighted=4.1193
     name="5f69bc5d-b011-4f36-9f27-1dd656420f87"
     in_degree=0
     out_degree=2
@@ -146742,8 +146742,8 @@ digraph {
     label="Streubesitz an der CLT-UFA S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=206
-    num_medias_weighted=0.2335
+    num_medias=205
+    num_medias_weighted=0.2307
     name="5be1a6b6-bb31-455d-8886-58a46c187534"
     in_degree=0
     out_degree=1
@@ -147498,8 +147498,8 @@ digraph {
     label="Streubesitz an der RTL Group S.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=206
-    num_medias_weighted=14.9249
+    num_medias=205
+    num_medias_weighted=14.7459
     name="5be1a6b6-feae-4ddc-a9cf-693499ffac4b"
     in_degree=0
     out_degree=1
@@ -155704,8 +155704,8 @@ digraph {
     type=print
     state=active
     label="TV clever"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c159-40aa-8d13-459d2db70591"
@@ -155728,8 +155728,8 @@ digraph {
     type=print
     state=active
     label="TV direkt"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-90fe-4e21-b532-2151071ea755"
@@ -156052,8 +156052,8 @@ digraph {
     type=print
     state=active
     label="TV Sudoku"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=18
+    num_owners_weighted=10.3614
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a8ee-49fb-a49a-1651fb293982"
@@ -156918,8 +156918,8 @@ digraph {
     label="Uebber, Bodo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=233
-    num_medias_weighted=0.0887
+    num_medias=232
+    num_medias_weighted=0.0877
     name="5be1a6b6-adf6-46b8-902a-e8d6c4ef8318"
     in_degree=0
     out_degree=1
@@ -156942,8 +156942,8 @@ digraph {
     label="UFA Film und Fernseh GmbH"
     num_owners=21
     num_owners_weighted=11.9929
-    num_medias=204
-    num_medias_weighted=81.3808
+    num_medias=203
+    num_medias_weighted=80.3808
     name="5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41"
     in_degree=1
     out_degree=3
@@ -233610,10 +233610,6 @@ digraph {
     type=operates
   ];
   4853 -> 11342 [
-    weight=100
-    type=operates
-  ];
-  4853 -> 11474 [
     weight=100
     type=operates
   ];

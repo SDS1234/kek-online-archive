@@ -4287,7 +4287,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T11:41:27.991Z",
+    "controlDate": "2026-05-11T11:43:40.686Z",
     "state": "active"
   },
   {
@@ -6217,7 +6217,7 @@
     "name": "www.extra-wochenende.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-14T11:26:19.855Z",
+    "controlDate": "2026-05-11T11:43:03.655Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -9104,7 +9104,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T12:38:14.862Z",
+    "controlDate": "2026-05-11T12:48:19.968Z",
     "state": "active"
   },
   {
@@ -21061,7 +21061,7 @@
     "rfStatewide": false,
     "name": "Ideat - Contemporary Life",
     "type": "print",
-    "controlDate": "2025-10-29T11:53:51.412Z",
+    "controlDate": "2026-05-11T11:56:47.988Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22785,7 +22785,7 @@
     "rfStatewide": false,
     "name": "Wohn!Design",
     "type": "print",
-    "controlDate": "2025-10-29T11:54:00.660Z",
+    "controlDate": "2026-05-11T11:56:55.269Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -32486,7 +32486,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "652926b6-30d5-420b-b346-a31f703bb1b3",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -42502,7 +42502,7 @@
     "name": "www.mef-line.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:27:30.075Z",
+    "controlDate": "2026-05-11T11:23:58.732Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42878,7 +42878,7 @@
     "name": "www.schlank-gesund-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T14:32:16.606Z",
+    "controlDate": "2026-05-11T13:29:02.861Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42903,7 +42903,7 @@
     "name": "Schlank & gesund",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-29T14:30:58.258Z",
+    "controlDate": "2026-05-11T13:27:47.840Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42994,7 +42994,7 @@
     "name": "www.landhausliving.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T14:31:46.019Z",
+    "controlDate": "2026-05-11T13:28:34.136Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43150,7 +43150,7 @@
     "name": "www.landundberge.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T14:32:04.766Z",
+    "controlDate": "2026-05-11T13:28:54.371Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43198,7 +43198,7 @@
     "name": "www.landleben-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T14:31:55.005Z",
+    "controlDate": "2026-05-11T13:28:42.276Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43482,7 +43482,7 @@
     "name": "www.traumwohnen-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T14:32:27.696Z",
+    "controlDate": "2026-05-11T13:29:10.952Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46912,7 +46912,7 @@
     "name": "www.greifswald-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T12:33:30.559Z",
+    "controlDate": "2026-05-11T12:25:01.152Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83614,7 +83614,7 @@
     "rfStatewide": false,
     "name": "Bild + Funk",
     "type": "print",
-    "controlDate": "2025-10-27T14:42:20.697Z",
+    "controlDate": "2026-05-11T11:54:06.689Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83635,7 +83635,7 @@
     "rfStatewide": false,
     "name": "Gong",
     "type": "print",
-    "controlDate": "2026-02-02T14:25:53.957Z",
+    "controlDate": "2026-05-11T11:54:18.631Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83656,7 +83656,7 @@
     "rfStatewide": false,
     "name": "nur TV",
     "type": "print",
-    "controlDate": "2025-10-27T14:45:21.154Z",
+    "controlDate": "2026-05-11T11:55:42.400Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83677,7 +83677,7 @@
     "rfStatewide": false,
     "name": "TV Sudoku",
     "type": "print",
-    "controlDate": "2025-10-27T14:44:05.639Z",
+    "controlDate": "2026-05-11T11:54:25.837Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83788,7 +83788,7 @@
     "rfStatewide": false,
     "name": "Goslarsche Zeitung",
     "type": "print",
-    "controlDate": "2025-10-29T12:08:51.056Z",
+    "controlDate": "2026-05-11T12:03:41.184Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83808,7 +83808,7 @@
     "rfStatewide": false,
     "name": "Grafschafter Nachrichten",
     "type": "print",
-    "controlDate": "2025-10-29T12:18:01.612Z",
+    "controlDate": "2026-05-11T12:18:23.883Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83909,7 +83909,7 @@
     "rfStatewide": false,
     "name": "Art",
     "type": "print",
-    "controlDate": "2025-10-29T13:59:39.628Z",
+    "controlDate": "2026-05-11T13:02:39.440Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83972,7 +83972,7 @@
     "rfStatewide": false,
     "name": "Geo",
     "type": "print",
-    "controlDate": "2025-10-29T14:00:09.570Z",
+    "controlDate": "2026-05-11T13:04:53.949Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84041,7 +84041,7 @@
     "rfStatewide": false,
     "name": "Schöner Wohnen",
     "type": "print",
-    "controlDate": "2025-10-29T14:02:42.695Z",
+    "controlDate": "2026-05-11T12:57:00.044Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84083,7 +84083,7 @@
     "rfStatewide": false,
     "name": "stern",
     "type": "print",
-    "controlDate": "2025-10-29T14:05:54.537Z",
+    "controlDate": "2026-05-11T13:06:56.467Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84104,7 +84104,7 @@
     "rfStatewide": false,
     "name": "Häuser",
     "type": "print",
-    "controlDate": "2025-10-29T14:02:05.987Z",
+    "controlDate": "2026-05-11T12:57:14.783Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84188,7 +84188,7 @@
     "rfStatewide": false,
     "name": "Geolino",
     "type": "print",
-    "controlDate": "2025-10-29T14:01:28.146Z",
+    "controlDate": "2026-05-11T13:05:07.805Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84355,7 +84355,7 @@
     "rfStatewide": false,
     "name": "Geolino mini",
     "type": "print",
-    "controlDate": "2025-10-29T14:01:43.797Z",
+    "controlDate": "2026-05-11T13:05:13.616Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84397,7 +84397,7 @@
     "rfStatewide": false,
     "name": "Geo Epoche",
     "type": "print",
-    "controlDate": "2025-10-29T14:01:18.588Z",
+    "controlDate": "2026-05-11T13:05:01.687Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84418,7 +84418,7 @@
     "rfStatewide": false,
     "name": "stern crime",
     "type": "print",
-    "controlDate": "2025-10-29T14:06:09.816Z",
+    "controlDate": "2026-05-11T13:07:04.732Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93584,7 +93584,7 @@
     "rfStatewide": false,
     "name": "LandLeben",
     "type": "print",
-    "controlDate": "2025-10-29T14:30:19.969Z",
+    "controlDate": "2026-05-11T13:27:32.502Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93605,7 +93605,7 @@
     "rfStatewide": false,
     "name": "Landhaus Living",
     "type": "print",
-    "controlDate": "2025-10-29T14:30:36.577Z",
+    "controlDate": "2026-05-11T13:27:40.709Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -93668,7 +93668,7 @@
     "rfStatewide": false,
     "name": "TraumWohnen",
     "type": "print",
-    "controlDate": "2025-10-29T14:31:32.295Z",
+    "controlDate": "2026-05-11T13:27:56.754Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94315,7 +94315,7 @@
     "rfStatewide": false,
     "name": "GG Lifestyle Personalities Real Estate",
     "type": "print",
-    "controlDate": "2025-10-29T12:37:22.235Z",
+    "controlDate": "2026-05-11T12:48:13.288Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95951,7 +95951,7 @@
     "rfStatewide": false,
     "name": "Capital",
     "type": "print",
-    "controlDate": "2025-10-29T13:59:57.284Z",
+    "controlDate": "2026-05-11T13:02:53.692Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -100271,7 +100271,7 @@
     "rfStatewide": false,
     "name": "Der Teckbote",
     "type": "print",
-    "controlDate": "2025-10-29T11:40:24.245Z",
+    "controlDate": "2026-05-11T11:42:49.197Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103156,7 +103156,7 @@
     "rfStatewide": false,
     "name": "TV direkt",
     "type": "print",
-    "controlDate": "2025-10-27T14:45:00.756Z",
+    "controlDate": "2026-05-11T11:54:40.958Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103797,7 +103797,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T12:09:01.754Z",
+    "controlDate": "2026-05-11T12:04:33.754Z",
     "state": "active"
   },
   {
@@ -104156,7 +104156,7 @@
     "rfStatewide": false,
     "name": "Land & Berge",
     "type": "print",
-    "controlDate": "2025-10-29T14:29:35.453Z",
+    "controlDate": "2026-05-11T13:27:24.318Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107931,7 +107931,7 @@
     "name": "www.kirchheim-erleben.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:41:19.108Z",
+    "controlDate": "2026-05-11T11:43:30.326Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -108957,7 +108957,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T11:48:54.516Z",
+    "controlDate": "2026-05-11T11:51:58.329Z",
     "state": "active"
   },
   {
@@ -110012,7 +110012,7 @@
     "name": "www.panorama-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T12:11:51.287Z",
+    "controlDate": "2026-05-11T12:04:41.254Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -110243,7 +110243,7 @@
     "name": "www.wirtschaft-im-harz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T12:12:02.179Z",
+    "controlDate": "2026-05-11T12:04:50.309Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -110951,7 +110951,7 @@
     "name": "GN Insider",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-29T12:17:11.489Z",
+    "controlDate": "2026-05-11T12:18:13.939Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -114989,7 +114989,7 @@
     "rfStatewide": false,
     "name": "TV clever",
     "type": "print",
-    "controlDate": "2025-10-27T14:44:28.652Z",
+    "controlDate": "2026-05-11T11:54:33.245Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -122480,7 +122480,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-29T12:23:22.534Z",
+    "controlDate": "2026-05-11T12:18:34.361Z",
     "state": "active"
   },
   {
@@ -125775,7 +125775,7 @@
     "name": "www.glueckauftv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:27:21.212Z",
+    "controlDate": "2026-05-11T11:23:51.166Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137442,7 +137442,7 @@
     "name": "www.altenburg.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:30:05.768Z",
+    "controlDate": "2026-05-11T11:25:29.557Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139438,7 +139438,7 @@
     "name": "www.ideat.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:54:07.762Z",
+    "controlDate": "2026-05-11T11:57:01.818Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139482,7 +139482,7 @@
     "name": "www.wohndesign.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:54:14.981Z",
+    "controlDate": "2026-05-11T11:57:07.629Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141780,7 +141780,7 @@
     "name": "Der Grafschafter",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-29T12:17:00.857Z",
+    "controlDate": "2026-05-11T12:18:05.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145754,7 +145754,7 @@
     "name": "www.tvb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-29T11:47:55.128Z",
+    "controlDate": "2026-05-11T11:51:43.251Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

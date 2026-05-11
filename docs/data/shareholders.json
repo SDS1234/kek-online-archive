@@ -3956,7 +3956,7 @@
     "squuid": "605b1172-11ac-421d-8b18-0e3d3f823beb",
     "name": "Grafschafter Nachrichten GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T12:15:38.507Z",
+    "controlDate": "2026-05-11T12:17:53.524Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57555,7 +57555,7 @@
     "squuid": "5e5f952d-8c37-4065-bed6-028124dfc3bb",
     "name": "Groupe Marc de Lacharrière S.A.",
     "state": "active",
-    "controlDate": "2025-05-26T12:36:18.769Z",
+    "controlDate": "2026-05-11T12:47:46.697Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -73442,7 +73442,7 @@
     "name": "Goslarsche Zeitung Karl Krause GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ed8f-40d1-93a4-86ae227cfa63",
-    "controlDate": "2025-10-29T12:07:48.295Z",
+    "controlDate": "2026-05-11T12:03:13.748Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73570,7 +73570,7 @@
     "squuid": "5be1a6b6-db48-4fae-beae-6550991fa8ca",
     "name": "GN Holding GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-10-29T11:32:33.532Z",
+    "controlDate": "2026-05-11T11:33:21.610Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -85641,7 +85641,7 @@
     "squuid": "5be1a6b6-5812-4d4e-8a03-3df013f4b1cc",
     "name": "Godd Media Broadcast GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:46:56.199Z",
+    "controlDate": "2026-05-11T11:48:52.421Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -93384,7 +93384,7 @@
     "squuid": "5be1a6b6-0768-47e6-89a1-26f58e8da15a",
     "name": "Gläser & Kümmerle GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-29T11:24:46.664Z",
+    "controlDate": "2026-05-11T11:19:48.659Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -93519,7 +93519,7 @@
     "squuid": "5be1a6b6-4042-452c-96bc-3602172e3e77",
     "name": "GO Druck Media Verlag GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-29T11:37:30.541Z",
+    "controlDate": "2026-05-11T11:35:48.896Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -100746,7 +100746,7 @@
     "squuid": "61dd83e4-35a5-4db5-b2e9-a7ffb22f26fc",
     "name": "Gruner + Jahr Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T13:58:36.679Z",
+    "controlDate": "2026-05-11T12:52:11.520Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -100843,15 +100843,6 @@
         "held": {
           "squuid": "5be1a6b1-9e9a-401b-b4b0-98f6c93eab19",
           "name": "stern crime"
-        }
-      },
-      {
-        "squuid": "652926fe-5ad7-44d7-ad83-001830f0f046",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "652926b6-30d5-420b-b346-a31f703bb1b3",
-          "name": "Sesame Street's Mecha Builders"
         }
       },
       {
@@ -141264,7 +141255,7 @@
     "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7",
     "name": "Gießener Anzeiger Beteiligungs-GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-10-28T16:32:51.099Z",
+    "controlDate": "2026-05-11T11:08:51.826Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -149297,7 +149288,7 @@
     "squuid": "5eb9539a-03d0-40d9-b815-724fe8ffe77a",
     "name": "Gläser & Kümmerle Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:24:36.066Z",
+    "controlDate": "2026-05-11T11:19:18.299Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -152137,7 +152128,7 @@
     "squuid": "5f202407-ae50-4eac-8ba2-f3e9b72bdd1f",
     "name": "Greifswald TV GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T12:33:22.993Z",
+    "controlDate": "2026-05-11T12:24:55.738Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178018,7 +178009,7 @@
     "squuid": "5ec26058-5df2-4b1c-919f-e2e128ee2bd1",
     "name": "GMZ Gesellschaft für Medien-, Druck- und Zeitungsverlagsbeteiligungen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:30:43.775Z",
+    "controlDate": "2026-05-11T11:28:17.581Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -178161,7 +178152,7 @@
     "squuid": "5ec262b6-8a72-4454-8a57-134cfe8bd0f3",
     "name": "GO Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:39:50.522Z",
+    "controlDate": "2026-05-11T11:37:04.042Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184037,7 +184028,7 @@
     "squuid": "607987e0-5f9b-4e31-b515-3cbaf7fb75f1",
     "name": "Grüner Verlag Green Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T14:28:19.452Z",
+    "controlDate": "2026-05-11T13:25:57.984Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190440,7 +190431,7 @@
     "squuid": "5d372848-901e-414f-9c18-ce4cc8d9bdc9",
     "name": "Grizzlys Wolfsburg GmbH ",
     "state": "active",
-    "controlDate": "2025-10-29T12:33:44.961Z",
+    "controlDate": "2026-05-11T12:25:16.934Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197352,7 +197343,7 @@
     "squuid": "5f77242e-6499-46a8-b152-e5067976285d",
     "name": "GML Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:29:56.708Z",
+    "controlDate": "2026-05-11T11:25:24.415Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200027,7 +200018,7 @@
     "name": "Rock Antenne GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0",
-    "controlDate": "2025-12-11T15:33:43.571Z",
+    "controlDate": "2026-05-11T11:29:42.843Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -212389,7 +212380,7 @@
     "squuid": "5be1a6b6-ff9b-45da-a4e0-ab327e1f0577",
     "name": "Glück Auf! TV GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:25:24.775Z",
+    "controlDate": "2026-05-11T11:22:43.722Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -212899,7 +212890,7 @@
     "squuid": "5be1a6b6-cb83-4c93-b55a-e99dbddb3148",
     "name": "Gottmann GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T12:14:52.938Z",
+    "controlDate": "2026-05-11T12:17:37.232Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -222748,7 +222739,7 @@
     "squuid": "5be1a6b6-53f8-4684-b1de-1947f404b78f",
     "name": "Gong Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-10-27T14:40:20.052Z",
+    "controlDate": "2026-05-11T11:53:39.312Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230156,7 +230147,7 @@
     "squuid": "5be1a6b6-97f7-41f1-b6ed-5894b19d4b11",
     "name": "GMZ Gesellschaft für Medien-, Druck- und Zeitungsverlagsbeteiligungen mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-10-29T11:31:52.477Z",
+    "controlDate": "2026-05-11T11:28:30.173Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -233217,7 +233208,7 @@
     "squuid": "5be1a6b6-e2b7-4aad-80ef-91543d993e73",
     "name": "Grund Genug Verlag und Werbe GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T12:37:12.657Z",
+    "controlDate": "2026-05-11T12:47:57.962Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238651,7 +238642,7 @@
     "name": "GO Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ef37-465a-9cf0-8001dd0ea273",
-    "controlDate": "2025-10-29T11:40:06.892Z",
+    "controlDate": "2026-05-11T11:37:14.218Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245087,7 +245078,7 @@
     "squuid": "5be1a6b6-2225-4fa4-b3f8-95be3d5aa7a6",
     "name": "Golem Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:48:13.727Z",
+    "controlDate": "2026-05-11T11:51:54.809Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275055,6 +275046,7 @@
     "squuid": "5be1a6b6-47e3-40ab-a2a7-f2a99502f338",
     "name": "GMD (Treuhand)",
     "state": "active",
+    "controlDate": "2026-05-11T11:24:30.619Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -281381,7 +281373,7 @@
     "squuid": "5ecbcaf1-6c34-4fdf-af62-1f5f25bc843d",
     "name": "Grafschafter Nachrichten Verwaltungs- und Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-26T12:16:02.751Z",
+    "controlDate": "2026-05-11T12:22:00.252Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -284137,7 +284129,7 @@
     "squuid": "5be1a6b6-d906-4663-94e8-c570efd76c45",
     "name": "Gras Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T12:28:55.481Z",
+    "controlDate": "2026-05-11T12:23:00.683Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -289475,7 +289467,7 @@
     "squuid": "5be1a6b6-1455-41e3-9c08-f6fd859ff6fe",
     "name": "GLG Green Lifestyle GmbH",
     "state": "active",
-    "controlDate": "2025-10-28T16:55:57.491Z",
+    "controlDate": "2026-05-11T11:16:43.255Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -302039,7 +302031,7 @@
     "squuid": "5e1c95cd-deea-4696-8ecc-da884de01937",
     "name": "Good Life Publishing GmbH",
     "state": "active",
-    "controlDate": "2025-10-29T11:53:00.315Z",
+    "controlDate": "2026-05-11T11:56:41.981Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
