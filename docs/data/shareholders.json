@@ -91,7 +91,7 @@
     "squuid": "644a3c8a-21b2-44f0-9a65-c13aafe989f0",
     "name": "HCH GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:38:36.599Z",
+    "controlDate": "2026-05-12T14:10:58.151Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -10909,7 +10909,7 @@
     "name": "Hearst Networks Germany GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-691a-4719-a645-ba81919e7449",
-    "controlDate": "2025-10-30T12:52:14.259Z",
+    "controlDate": "2026-05-12T14:41:50.053Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11044,7 +11044,7 @@
     "squuid": "5be1a6b6-6144-45f6-bc05-b9fe666ba0dc",
     "name": "Hearst Communications, Inc.",
     "state": "active",
-    "controlDate": "2025-10-30T12:47:37.101Z",
+    "controlDate": "2026-05-12T14:38:27.891Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -57394,7 +57394,7 @@
     "squuid": "5be1a6b6-b9b0-4706-bd6c-15559db4e2d9",
     "name": "Heinen-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-11-04T11:20:16.805Z",
+    "controlDate": "2026-05-12T15:47:05.486Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -61307,8 +61307,9 @@
     "controlDate": "2019-05-28T09:28:40.110Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -70741,7 +70742,7 @@
     "squuid": "5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e",
     "name": "Hearst Holding, Inc.",
     "state": "active",
-    "controlDate": "2025-10-30T12:47:51.213Z",
+    "controlDate": "2026-05-12T14:39:05.506Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -70765,7 +70766,7 @@
     "squuid": "5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6",
     "name": "Hearst LT, Inc.",
     "state": "active",
-    "controlDate": "2025-10-30T12:49:48.700Z",
+    "controlDate": "2026-05-12T14:39:17.754Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -93605,10 +93606,10 @@
   },
   {
     "state": "active",
-    "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft",
+    "name": "Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b",
-    "controlDate": "2025-11-04T12:04:07.312Z",
+    "controlDate": "2026-05-12T15:09:11.193Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -122016,7 +122017,7 @@
     "squuid": "5be1a6b6-5bf9-4e05-8593-c05455dad5de",
     "name": "Haymarket Media GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:31:50.087Z",
+    "controlDate": "2026-05-12T14:08:20.261Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -167569,7 +167570,7 @@
     "squuid": "5f9aa7a3-9bf1-4232-9556-c04acf9556c0",
     "name": "hdm holding geschäftsführung gmbH",
     "state": "active",
-    "controlDate": "2025-11-03T10:52:58.614Z",
+    "controlDate": "2026-05-12T14:13:28.560Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -199832,7 +199833,7 @@
     "squuid": "5efb416b-05ec-49ba-99f9-255697ea4d3b",
     "name": "Headline24 Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:41:09.078Z",
+    "controlDate": "2026-05-12T14:17:26.292Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210958,7 +210959,7 @@
     "squuid": "5eafff06-21a8-4f76-89f1-01d6286528db",
     "name": "HB GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:33:55.414Z",
+    "controlDate": "2026-05-12T14:08:44.927Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -214854,7 +214855,7 @@
     "name": "Heilbronner Stimme GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4101-48cc-94c1-224d9edfe288",
-    "controlDate": "2025-11-04T12:10:18.591Z",
+    "controlDate": "2026-05-12T15:16:47.684Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -222936,7 +222937,7 @@
     "squuid": "5be1a6b6-a4fe-476a-b466-ee5bb6c5778f",
     "name": "Heel Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-11-04T11:04:28.486Z",
+    "controlDate": "2026-05-12T14:49:29.452Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244925,7 +244926,7 @@
     "name": "Heimspiel Medien GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-e8d7-496a-9478-2af67aa65220",
-    "controlDate": "2025-11-04T11:15:47.136Z",
+    "controlDate": "2026-05-12T15:36:27.209Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -249114,7 +249115,7 @@
     "squuid": "5be1a6b6-8f92-48e9-88e7-9719d4fbec16",
     "name": "Haus & Grund Bayern Verlag und Service GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:26:41.549Z",
+    "controlDate": "2026-05-12T14:02:47.303Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251124,7 +251125,7 @@
     "squuid": "5be1a6b6-5f02-4475-9c85-ccb2907ae149",
     "name": "hdm holding gmbh & co. kg",
     "state": "active",
-    "controlDate": "2025-11-03T11:00:28.669Z",
+    "controlDate": "2026-05-12T14:16:59.454Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -266411,7 +266412,7 @@
     "name": "Headline24 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5c519127-37f9-4a1d-9827-6371752cd2d7",
-    "controlDate": "2025-10-30T12:41:59.044Z",
+    "controlDate": "2026-05-12T14:17:34.454Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282970,7 +282971,7 @@
     "squuid": "5be1a6b6-b6fc-45b7-8cf2-f027769eaff8",
     "name": "Hearst Networks Holding, Inc.",
     "state": "active",
-    "controlDate": "2025-10-30T12:54:48.600Z",
+    "controlDate": "2026-05-12T14:39:29.213Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -286421,7 +286422,7 @@
     "squuid": "5be1a6b6-9959-4fbb-b5e2-a00480f28916",
     "name": "Haus & Grund Deutschland Verlag und Service GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:27:48.241Z",
+    "controlDate": "2026-05-12T14:03:04.777Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -289750,7 +289751,7 @@
     "squuid": "5be1a6b6-c3b2-4d87-a4a4-2b4285e49898",
     "name": "HBV Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-10-30T12:34:55.365Z",
+    "controlDate": "2026-05-12T14:09:39.960Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298704,7 +298705,7 @@
     "squuid": "5ece46e2-76dd-469c-8848-d9cbc1c8f016",
     "name": "Heidenheimer Zeitung Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-04T11:13:14.921Z",
+    "controlDate": "2026-05-12T15:11:08.061Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306210,7 +306211,7 @@
     "squuid": "5df9f9f1-5309-4755-ae87-b195136cc806",
     "name": "Heilbronner Stimme Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-04T12:10:08.490Z",
+    "controlDate": "2026-05-12T15:16:35.633Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -306598,7 +306599,7 @@
     "squuid": "5ee8a7ef-6b8e-4d3e-b268-531655c111d4",
     "name": "Haymarket Worldwide Ltd.",
     "state": "active",
-    "controlDate": "2025-10-30T12:33:34.112Z",
+    "controlDate": "2026-05-12T14:08:26.627Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

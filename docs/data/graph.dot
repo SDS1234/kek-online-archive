@@ -208,7 +208,7 @@ digraph {
     type=radio
     state=active
     label="089 Kult"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=12.8693
     num_medias=0
     num_medias_weighted=0.0000
@@ -1036,7 +1036,7 @@ digraph {
     type=radio
     state=active
     label="80er-Radio harmony"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -1048,7 +1048,7 @@ digraph {
     type=shareholder
     state=active
     label="80s80s Audio GmbH & Co. KG"
-    num_owners=911
+    num_owners=910
     num_owners_weighted=32.1427
     num_medias=2
     num_medias_weighted=2.0000
@@ -1096,7 +1096,7 @@ digraph {
     type=radio
     state=active
     label="80s80s Radio (Hamburg)"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -1228,7 +1228,7 @@ digraph {
     type=radio
     state=active
     label="90s90s Radio"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -1240,7 +1240,7 @@ digraph {
     type=radio
     state=active
     label="90s90s Sachsen"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -1288,7 +1288,7 @@ digraph {
     type=radio
     state=active
     label="917XFM"
-    num_owners=507
+    num_owners=506
     num_owners_weighted=14.4058
     num_medias=0
     num_medias_weighted=0.0000
@@ -1312,7 +1312,7 @@ digraph {
     type=radio
     state=active
     label="94,3 rs2 Berlin-Brandenburg"
-    num_owners=893
+    num_owners=892
     num_owners_weighted=18.0104
     num_medias=0
     num_medias_weighted=0.0000
@@ -1636,7 +1636,7 @@ digraph {
     type=shareholder
     state=active
     label="a.tv GmbH & Co. KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=9.0062
     num_medias=2
     num_medias_weighted=2.0000
@@ -1648,7 +1648,7 @@ digraph {
     type=shareholder
     state=active
     label="a.tv Verwaltungs-GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=8.0062
     num_medias=2
     num_medias_weighted=0.0000
@@ -4900,7 +4900,7 @@ digraph {
     type=radio
     state=active
     label=AlternativeFM
-    num_owners=363
+    num_owners=362
     num_owners_weighted=9.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -5572,7 +5572,7 @@ digraph {
     type=shareholder
     state=active
     label="Amperwelle GmbH"
-    num_owners=360
+    num_owners=359
     num_owners_weighted=12.2293
     num_medias=3
     num_medias_weighted=3.0000
@@ -5752,7 +5752,7 @@ digraph {
     type=shareholder
     state=active
     label="Anbietergemeinschaft Radio Oberwiesenthal"
-    num_owners=897
+    num_owners=896
     num_owners_weighted=13.6596
     num_medias=1
     num_medias_weighted=1.0000
@@ -6208,7 +6208,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Bayern"
-    num_owners=489
+    num_owners=488
     num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -6232,7 +6232,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Bayern GmbH & Co. KG"
-    num_owners=488
+    num_owners=487
     num_owners_weighted=14.5005
     num_medias=28
     num_medias_weighted=6.5959
@@ -6244,7 +6244,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Bayern Verwaltungs GmbH"
-    num_owners=487
+    num_owners=486
     num_owners_weighted=15.2247
     num_medias=28
     num_medias_weighted=0.0000
@@ -6472,7 +6472,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6484,7 +6484,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen 80er"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6496,7 +6496,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen 90er"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6508,7 +6508,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen Charts"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6520,7 +6520,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Niedersachsen Geschäftsführungs-GmbH"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=20
     num_medias_weighted=0.0000
@@ -6532,7 +6532,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Niedersachsen GmbH & Co. KG"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=21.5865
     num_medias=20
     num_medias_weighted=10.0492
@@ -6544,7 +6544,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen Oldie"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6556,7 +6556,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen Relax"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6568,7 +6568,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Niedersachsen Rock"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -6580,7 +6580,7 @@ digraph {
     type=radio
     state=active
     label="Antenne NRW"
-    num_owners=491
+    num_owners=490
     num_owners_weighted=17.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -6592,7 +6592,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne NRW GmbH & Co. KG"
-    num_owners=491
+    num_owners=490
     num_owners_weighted=16.5005
     num_medias=1
     num_medias_weighted=1.0000
@@ -6604,7 +6604,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne NRW Verwaltungs GmbH"
-    num_owners=491
+    num_owners=490
     num_owners_weighted=17.5005
     num_medias=1
     num_medias_weighted=0.0000
@@ -6616,7 +6616,7 @@ digraph {
     type=radio
     state=active
     label="antenne OSTALGIE"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -6688,7 +6688,7 @@ digraph {
     type=radio
     state=active
     label="Antenne Sachsen (Regionen Leipzig, Dresden, Chemnitz, Oberlausitz/Niederschlesien, Vogtland/Westsachsen)"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -6736,7 +6736,7 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -6748,7 +6748,7 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN Classics"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -6760,7 +6760,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen GmbH & Co. KG"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=26.0749
     num_medias=8
     num_medias_weighted=8.0000
@@ -6772,7 +6772,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen Verwaltungs-GmbH"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=8
     num_medias_weighted=0.0000
@@ -7060,7 +7060,7 @@ digraph {
     type=radio
     state=active
     label="apollo radio )))"
-    num_owners=411
+    num_owners=410
     num_owners_weighted=21.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -7156,7 +7156,7 @@ digraph {
     type=shareholder
     state=active
     label="ARA ANBIETERGEMEINSCHAFT RADIO AKTUELL Anbietergesellschaft Mittelstand GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=17
     num_medias_weighted=1.0398
@@ -8488,7 +8488,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=967
+    num_owners=966
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8500,7 +8500,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=966
+    num_owners=965
     num_owners_weighted=19.7317
     num_medias=7
     num_medias_weighted=0.0000
@@ -8668,7 +8668,7 @@ digraph {
     type=tv
     state=active
     label="augsburg.tv"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=10.0062
     num_medias=0
     num_medias_weighted=0.0000
@@ -11104,7 +11104,7 @@ digraph {
     type=radio
     state=active
     label="barba radio"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -12616,7 +12616,7 @@ digraph {
     type=shareholder
     state=active
     label="Bayern Tele GmbH Fernsehproduktion bayerischer Zeitschriftenverlage"
-    num_owners=378
+    num_owners=377
     num_owners_weighted=14.5693
     num_medias=2
     num_medias_weighted=0.4236
@@ -12700,7 +12700,7 @@ digraph {
     type=radio
     state=active
     label="BB Radio (Berlin)"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=14.2068
     num_medias=0
     num_medias_weighted=0.0000
@@ -12712,7 +12712,7 @@ digraph {
     type=shareholder
     state=active
     label="BB RADIO Lokalwellen Brandenburg GmbH & Co. KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=13.2068
     num_medias=1
     num_medias_weighted=1.0000
@@ -12724,7 +12724,7 @@ digraph {
     type=shareholder
     state=active
     label="BB RADIO Länderwelle Berlin/Brandenburg Beteiligungs GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=7.9569
     num_medias=15
     num_medias_weighted=0.0000
@@ -12736,7 +12736,7 @@ digraph {
     type=shareholder
     state=active
     label="BB RADIO Länderwelle Berlin/Brandenburg GmbH & Co. Kommanditgesellschaft"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=12.2068
     num_medias=15
     num_medias_weighted=11.9500
@@ -12844,7 +12844,7 @@ digraph {
     type=shareholder
     state=active
     label="BCS Broadcast Sachsen GmbH & Co. KG"
-    num_owners=408
+    num_owners=407
     num_owners_weighted=18.6430
     num_medias=14
     num_medias_weighted=14.0000
@@ -12856,7 +12856,7 @@ digraph {
     type=shareholder
     state=active
     label="BCS Broadcast Sachsen Verwaltungsgesellschaft mbH"
-    num_owners=407
+    num_owners=406
     num_owners_weighted=17.6430
     num_medias=14
     num_medias_weighted=0.0000
@@ -14344,7 +14344,7 @@ digraph {
     type=radio
     state=active
     label="Berliner Rundfunk 91.4"
-    num_owners=899
+    num_owners=898
     num_owners_weighted=10.4844
     num_medias=0
     num_medias_weighted=0.0000
@@ -14956,7 +14956,7 @@ digraph {
     type=shareholder
     state=active
     label="Betriebsgesellschaft Radio 95.0 GmbH"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=14.8991
     num_medias=2
     num_medias_weighted=0.0000
@@ -15916,7 +15916,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=897
+    num_owners=896
     num_owners_weighted=17.6332
     num_medias=7
     num_medias_weighted=1.3300
@@ -15928,7 +15928,7 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=897
+    num_owners=896
     num_owners_weighted=18.6332
     num_medias=7
     num_medias_weighted=0.0000
@@ -16024,7 +16024,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Rheinland-Pfalz"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=22.6351
     num_medias=0
     num_medias_weighted=0.0000
@@ -16036,7 +16036,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=969
+    num_owners=968
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -16924,7 +16924,7 @@ digraph {
     type=shareholder
     state=active
     label="Blickpunkt Verlag GmbH"
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6411
     num_medias=1
     num_medias_weighted=1.0000
@@ -17176,7 +17176,7 @@ digraph {
     type=radio
     state=active
     label=BLR
-    num_owners=450
+    num_owners=449
     num_owners_weighted=21.2133
     num_medias=0
     num_medias_weighted=0.0000
@@ -17188,7 +17188,7 @@ digraph {
     type=shareholder
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal- Radioprogramme Verwaltungsgesellschaft mbH"
-    num_owners=448
+    num_owners=447
     num_owners_weighted=18.6400
     num_medias=2
     num_medias_weighted=0.0000
@@ -17200,7 +17200,7 @@ digraph {
     type=shareholder
     state=active
     label="BLR Dienstleistungsgesellschaft für Bayerische Lokal-Radioprogramme mbH & Co. KG"
-    num_owners=449
+    num_owners=448
     num_owners_weighted=20.2133
     num_medias=2
     num_medias_weighted=2.0000
@@ -20704,7 +20704,7 @@ digraph {
     type=print
     state=active
     label="BSZ Bayerische Staatszeitung"
-    num_owners=295
+    num_owners=294
     num_owners_weighted=6.0489
     num_medias=0
     num_medias_weighted=0.0000
@@ -28840,7 +28840,7 @@ digraph {
     type=radio
     state=active
     label="delta radio"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=12.0081
     num_medias=0
     num_medias_weighted=0.0000
@@ -28852,7 +28852,7 @@ digraph {
     type=shareholder
     state=active
     label="delta radio GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=12.0081
     num_medias=42
     num_medias_weighted=0.0000
@@ -28864,7 +28864,7 @@ digraph {
     type=shareholder
     state=active
     label="delta radio GmbH & Co. Kommanditgesellschaft"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=10.2058
     num_medias=42
     num_medias_weighted=2.8550
@@ -31060,7 +31060,7 @@ digraph {
     type=print
     state=active
     label="Diabetes Anker"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -31600,7 +31600,7 @@ digraph {
     type=radio
     state=active
     label="DIE NEUE 107.7"
-    num_owners=521
+    num_owners=520
     num_owners_weighted=18.6617
     num_medias=0
     num_medias_weighted=0.0000
@@ -31624,7 +31624,7 @@ digraph {
     type=radio
     state=active
     label="die neue welle"
-    num_owners=363
+    num_owners=362
     num_owners_weighted=9.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -32452,7 +32452,7 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern GmbH & Co. KG"
-    num_owners=577
+    num_owners=576
     num_owners_weighted=7.3407
     num_medias=12
     num_medias_weighted=3.0938
@@ -32464,7 +32464,7 @@ digraph {
     type=shareholder
     state=active
     label="Digitaler Rundfunk Bayern Verwaltungs-GmbH"
-    num_owners=577
+    num_owners=576
     num_owners_weighted=10.5143
     num_medias=12
     num_medias_weighted=0.0000
@@ -33220,7 +33220,7 @@ digraph {
     type=shareholder
     state=active
     label="Ditting Media Beteiligungs GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=42
     num_medias_weighted=0.2238
@@ -34264,7 +34264,7 @@ digraph {
     type=radio
     state=active
     label="Donau 3 FM"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -34276,7 +34276,7 @@ digraph {
     type=radio
     state=active
     label="Donau 3 FM"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -34480,7 +34480,7 @@ digraph {
     type=radio
     state=active
     label=Dorfkindradio
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -34684,7 +34684,7 @@ digraph {
     type=shareholder
     state=active
     label="dpa Deutsche Presse Agentur GmbH"
-    num_owners=816
+    num_owners=815
     num_owners_weighted=63.1080
     num_medias=2
     num_medias_weighted=2.0000
@@ -34756,7 +34756,7 @@ digraph {
     type=shareholder
     state=active
     label="Dr. Fischer und Ellwanger KG Media GbR"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=2.6375
     num_medias=15
     num_medias_weighted=1.1000
@@ -35440,7 +35440,7 @@ digraph {
     type=shareholder
     state=active
     label="Druck- und Verlagsanstalt ''Neue Presse'' GmbH"
-    num_owners=256
+    num_owners=255
     num_owners_weighted=3.6055
     num_medias=40
     num_medias_weighted=3.6002
@@ -36129,7 +36129,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="620526aa-92d9-4ff8-9789-da52975886a7"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   3011 [
@@ -36150,8 +36150,8 @@ digraph {
     label="Dumrath & Fassnacht Verwaltung GmbH & Co. KG"
     num_owners=10
     num_owners_weighted=1.0000
-    num_medias=78
-    num_medias_weighted=0.2900
+    num_medias=81
+    num_medias_weighted=0.9200
     name="5f9aa77f-92ed-46fb-9e26-c463aba573b2"
     in_degree=5
     out_degree=1
@@ -36162,8 +36162,8 @@ digraph {
     label="Dumrath, Dr. Christoph"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
-    num_medias_weighted=0.0580
+    num_medias=81
+    num_medias_weighted=0.1840
     name="5fbd2011-f249-4401-84b8-9c1d66f8168c"
     in_degree=0
     out_degree=3
@@ -36174,8 +36174,8 @@ digraph {
     label="Dumrath, Gunvar"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
-    num_medias_weighted=0.0725
+    num_medias=81
+    num_medias_weighted=0.2300
     name="6050c80b-bb5e-4d76-a22e-e2231e90d078"
     in_degree=0
     out_degree=1
@@ -36198,7 +36198,7 @@ digraph {
     label="Dumrath-Tsohatzis, Franzisca"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
+    num_medias=81
     num_medias_weighted=0.0000
     name="6050c84d-8d3b-4bd1-94e3-acc729c457dc"
     in_degree=0
@@ -37996,7 +37996,7 @@ digraph {
     type=radio
     state=active
     label=egoFM
-    num_owners=585
+    num_owners=584
     num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
@@ -38020,7 +38020,7 @@ digraph {
     type=radio
     state=active
     label="egoFM (Sachsen)"
-    num_owners=585
+    num_owners=584
     num_owners_weighted=6.5255
     num_medias=0
     num_medias_weighted=0.0000
@@ -41020,7 +41020,7 @@ digraph {
     type=radio
     state=active
     label="Energy Bremen"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=11.0705
     num_medias=0
     num_medias_weighted=0.0000
@@ -41032,7 +41032,7 @@ digraph {
     type=radio
     state=active
     label="Energy Bremen (bundesweit)"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=11.0705
     num_medias=0
     num_medias_weighted=0.0000
@@ -42724,7 +42724,7 @@ digraph {
     type=shareholder
     state=active
     label="Erzgebirge Rundfunkgesellschaft mbH & Co. KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=2
     num_medias_weighted=2.0000
@@ -43324,7 +43324,7 @@ digraph {
     type=shareholder
     state=active
     label="EUROCAST GmbH Radio Venture & Management"
-    num_owners=912
+    num_owners=911
     num_owners_weighted=10.9605
     num_medias=2
     num_medias_weighted=1.8670
@@ -43336,7 +43336,7 @@ digraph {
     type=shareholder
     state=active
     label="Eurocast Rundfunk Beteiligungs GmbH"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=7.9955
     num_medias=0
     num_medias_weighted=0.0000
@@ -46456,7 +46456,7 @@ digraph {
     type=radio
     state=active
     label="FFH-Rock"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -46684,7 +46684,7 @@ digraph {
     type=radio
     state=active
     label="Fiesta Mania Radio"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -48510,11 +48510,11 @@ digraph {
     label="Frank, Cornelia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=1.0600
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-a268-4de3-b8d4-e3eaa909246d"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4043 [
     type=shareholder
@@ -48532,7 +48532,7 @@ digraph {
     type=tv
     state=active
     label="Franken Fernsehen"
-    num_owners=372
+    num_owners=371
     num_owners_weighted=9.7682
     num_medias=0
     num_medias_weighted=0.0000
@@ -48556,7 +48556,7 @@ digraph {
     type=print
     state=active
     label=Frankenpost
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6411
     num_medias=0
     num_medias_weighted=0.0000
@@ -48568,7 +48568,7 @@ digraph {
     type=print
     state=active
     label="Frankenpost am Sonntag"
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6411
     num_medias=0
     num_medias_weighted=0.0000
@@ -48580,7 +48580,7 @@ digraph {
     type=shareholder
     state=active
     label="Frankenpost Verlag GmbH"
-    num_owners=256
+    num_owners=255
     num_owners_weighted=3.6411
     num_medias=48
     num_medias_weighted=10.3039
@@ -49564,7 +49564,7 @@ digraph {
     type=print
     state=active
     label="Freies Wort"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -51808,7 +51808,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Aschaffenburg GmbH"
-    num_owners=357
+    num_owners=356
     num_owners_weighted=10.3350
     num_medias=17
     num_medias_weighted=0.0000
@@ -51820,7 +51820,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Aschaffenburg GmbH & Co. Studiobetriebs-KG"
-    num_owners=358
+    num_owners=357
     num_owners_weighted=9.5354
     num_medias=17
     num_medias_weighted=5.1554
@@ -51832,7 +51832,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Coburg GmbH & Co. KG"
-    num_owners=285
+    num_owners=284
     num_owners_weighted=4.6514
     num_medias=14
     num_medias_weighted=2.0000
@@ -51844,7 +51844,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Coburg Verwaltungs-GmbH"
-    num_owners=284
+    num_owners=283
     num_owners_weighted=10.3294
     num_medias=14
     num_medias_weighted=0.0000
@@ -51964,7 +51964,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Nürnberg Studiobetriebs-GmbH"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=2.0695
     num_medias=24
     num_medias_weighted=12.1774
@@ -51976,7 +51976,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Oberfranken GmbH & Co. KG"
-    num_owners=289
+    num_owners=288
     num_owners_weighted=9.7206
     num_medias=1
     num_medias_weighted=1.0000
@@ -52036,7 +52036,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Regensburg GmbH"
-    num_owners=360
+    num_owners=359
     num_owners_weighted=5.3500
     num_medias=14
     num_medias_weighted=0.0000
@@ -52048,7 +52048,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Regensburg GmbH & Co. Studiobetriebs-KG"
-    num_owners=361
+    num_owners=360
     num_owners_weighted=9.1569
     num_medias=14
     num_medias_weighted=2.1634
@@ -52108,7 +52108,7 @@ digraph {
     type=shareholder
     state=active
     label="Funkhaus Würzburg Studiobetriebs-GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=10.3327
     num_medias=14
     num_medias_weighted=2.1109
@@ -52888,7 +52888,7 @@ digraph {
     type=radio
     state=active
     label="Galaxy Bayern"
-    num_owners=577
+    num_owners=576
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -54328,7 +54328,7 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme Beteiligungs-GmbH & Co. KG"
-    num_owners=450
+    num_owners=449
     num_owners_weighted=1.0000
     num_medias=12
     num_medias_weighted=0.3729
@@ -54340,7 +54340,7 @@ digraph {
     type=shareholder
     state=active
     label="Gemeinschaft Digitaler Radio Programme GmbH"
-    num_owners=449
+    num_owners=448
     num_owners_weighted=16.3471
     num_medias=12
     num_medias_weighted=0.0000
@@ -57064,7 +57064,7 @@ digraph {
     type=radio
     state=active
     label="Gong 96.3 in Ingolstadt"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=12.8693
     num_medias=0
     num_medias_weighted=0.0000
@@ -57076,7 +57076,7 @@ digraph {
     type=radio
     state=active
     label="gong fm"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -60376,7 +60376,7 @@ digraph {
     type=radio
     state=active
     label="Hamburg 2"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=14.8991
     num_medias=0
     num_medias_weighted=0.0000
@@ -60462,7 +60462,7 @@ digraph {
     label="Hamburger Adressbuch-Verlag Dumrath & Fassnacht GmbH"
     num_owners=9
     num_owners_weighted=4.5000
-    num_medias=78
+    num_medias=81
     num_medias_weighted=0.0000
     name="5fbd204d-75ab-4b1e-8df1-c1b1013a2e0a"
     in_degree=4
@@ -62358,7 +62358,7 @@ digraph {
     label="hdm holding geschäftsführung gmbH"
     num_owners=20
     num_owners_weighted=8.9500
-    num_medias=78
+    num_medias=81
     num_medias_weighted=0.0000
     name="5f9aa7a3-9bf1-4232-9556-c04acf9556c0"
     in_degree=1
@@ -62370,7 +62370,7 @@ digraph {
     label="hdm holding gmbh & co. kg"
     num_owners=20
     num_owners_weighted=6.7400
-    num_medias=78
+    num_medias=81
     num_medias_weighted=1.3809
     name="5be1a6b6-5f02-4475-9c85-ccb2907ae149"
     in_degree=3
@@ -62692,8 +62692,8 @@ digraph {
     type=print
     state=active
     label="Heidenheimer Neue Presse"
-    num_owners=97
-    num_owners_weighted=22.0500
+    num_owners=96
+    num_owners_weighted=21.0500
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4e71-4553-8d75-fb58197ea883"
@@ -62704,8 +62704,8 @@ digraph {
     type=print
     state=active
     label="Heidenheimer Zeitung"
-    num_owners=97
-    num_owners_weighted=22.0500
+    num_owners=96
+    num_owners_weighted=21.0500
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2eae-4830-a906-722ac4130a9b"
@@ -62715,13 +62715,13 @@ digraph {
   5226 [
     type=shareholder
     state=active
-    label="Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. Kommanditgesellschaft"
-    num_owners=3
-    num_owners_weighted=2.0000
+    label="Heidenheimer Zeitung Gesellschaft mit beschränkter Haftung u. Co. KG"
+    num_owners=2
+    num_owners_weighted=1.0000
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-ed0e-4ba4-8ca3-c1e11c5e420b"
-    in_degree=3
+    in_degree=2
     out_degree=4
   ];
   5227 [
@@ -63357,7 +63357,7 @@ digraph {
     num_medias=3
     num_medias_weighted=3.0000
     name="69fa10de-2dcc-4082-9645-70549da4afb1"
-    in_degree=1
+    in_degree=2
     out_degree=4
   ];
   5280 [
@@ -63390,7 +63390,7 @@ digraph {
     label="Heise Gruppe Geschäftsführungs GmbH"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=99
+    num_medias=102
     num_medias_weighted=0.0000
     name="5ebbfc8d-936a-482a-9115-5277fad1b998"
     in_degree=1
@@ -63402,8 +63402,8 @@ digraph {
     label="Heise Gruppe GmbH & Co KG"
     num_owners=7
     num_owners_weighted=3.0000
-    num_medias=99
-    num_medias_weighted=19.8650
+    num_medias=102
+    num_medias_weighted=22.2350
     name="5be1a6b6-ab7e-48fe-8e65-e7801311d8df"
     in_degree=6
     out_degree=4
@@ -63438,8 +63438,8 @@ digraph {
     label="Heise, Ansgar"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=99
-    num_medias_weighted=12.1177
+    num_medias=102
+    num_medias_weighted=13.5634
     name="5be1a6b6-d67d-47cc-bcc5-d021be1615ce"
     in_degree=0
     out_degree=1
@@ -63450,8 +63450,8 @@ digraph {
     label="Heise, Charlotte"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=99
-    num_medias_weighted=1.1919
+    num_medias=102
+    num_medias_weighted=1.3341
     name="64808caa-8145-4400-8ac4-0331744fcabd"
     in_degree=0
     out_degree=1
@@ -63462,8 +63462,8 @@ digraph {
     label="Heise, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=99
-    num_medias_weighted=3.9730
+    num_medias=102
+    num_medias_weighted=4.4470
     name="5be1a6b6-2c12-4d99-87c7-57eda4c0942d"
     in_degree=0
     out_degree=1
@@ -63486,8 +63486,8 @@ digraph {
     label="Heise, Johanna"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=99
-    num_medias_weighted=1.5467
+    num_medias=102
+    num_medias_weighted=1.7126
     name="5be1a6b6-14b3-4c47-9255-99dbeea62968"
     in_degree=0
     out_degree=3
@@ -63498,8 +63498,8 @@ digraph {
     label="Heise, Luise"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=99
-    num_medias_weighted=1.1919
+    num_medias=102
+    num_medias_weighted=1.3341
     name="64808c9f-6b5d-4740-acf6-cc1165a64688"
     in_degree=0
     out_degree=1
@@ -65524,7 +65524,7 @@ digraph {
     type=radio
     state=active
     label="Hit Radio FFH"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -65536,7 +65536,7 @@ digraph {
     type=radio
     state=active
     label="Hit Radio N1"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -68058,8 +68058,8 @@ digraph {
     label="HUD Beteiligungs KG"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=78
-    num_medias_weighted=0.0725
+    num_medias=81
+    num_medias_weighted=0.2300
     name="5fbd201f-7ffd-4cbd-928d-84865b1039d1"
     in_degree=3
     out_degree=2
@@ -68286,8 +68286,8 @@ digraph {
     label="Huth, Wilhelm"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
-    num_medias_weighted=0.0870
+    num_medias=81
+    num_medias_weighted=0.2760
     name="5fbd202e-4017-4ae1-863d-d9b979208e4d"
     in_degree=0
     out_degree=2
@@ -69112,7 +69112,7 @@ digraph {
     type=shareholder
     state=active
     label="Hüthig GmbH"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=4
     num_medias_weighted=4.0000
@@ -70984,7 +70984,7 @@ digraph {
     type=shareholder
     state=active
     label="IR Holding GmbH"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=13.2068
     num_medias=13
     num_medias_weighted=9.9500
@@ -73948,7 +73948,7 @@ digraph {
     type=shareholder
     state=active
     label="K.F. Schimper Verlag GmbH"
-    num_owners=913
+    num_owners=912
     num_owners_weighted=11.9605
     num_medias=2
     num_medias_weighted=1.8670
@@ -80812,7 +80812,7 @@ digraph {
     type=shareholder
     state=active
     label="kulthitRadio GmbH & Co. Studiobetriebs KG"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=15.9139
     num_medias=3
     num_medias_weighted=3.0000
@@ -80836,7 +80836,7 @@ digraph {
     type=radio
     state=active
     label="Kulthitradio.nrw"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=16.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -83080,7 +83080,7 @@ digraph {
     type=radio
     state=active
     label="LandesWelle Thüringen"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=14.8138
     num_medias=0
     num_medias_weighted=0.0000
@@ -83092,7 +83092,7 @@ digraph {
     type=shareholder
     state=active
     label="Landeswelle Thüringen Geschäftsführungs-GmbH"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=14.8138
     num_medias=2
     num_medias_weighted=0.0000
@@ -83104,7 +83104,7 @@ digraph {
     type=shareholder
     state=active
     label="LandesWelle Thüringen GmbH & Co. KG"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=13.8138
     num_medias=2
     num_medias_weighted=2.0000
@@ -84100,7 +84100,7 @@ digraph {
     type=shareholder
     state=active
     label="Laut AG"
-    num_owners=514
+    num_owners=513
     num_owners_weighted=11.4272
     num_medias=1
     num_medias_weighted=1.0000
@@ -85540,7 +85540,7 @@ digraph {
     type=shareholder
     state=active
     label="LFS Landesfunk Sachsen GmbH"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=22.3192
     num_medias=3
     num_medias_weighted=2.5000
@@ -86740,7 +86740,7 @@ digraph {
     type=shareholder
     state=active
     label="Lokalfernsehen Nürnberg GmbH"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=14.1382
     num_medias=4
     num_medias_weighted=0.7696
@@ -88576,7 +88576,7 @@ digraph {
     type=shareholder
     state=active
     label="M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=4
     num_medias_weighted=3.3333
@@ -88588,7 +88588,7 @@ digraph {
     type=shareholder
     state=active
     label="M.O.R.E. Lokalfunk Baden-Württemberg Verwaltungs-GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=9.4569
     num_medias=4
     num_medias_weighted=0.0000
@@ -92848,7 +92848,7 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft KG"
-    num_owners=404
+    num_owners=403
     num_owners_weighted=32.7521
     num_medias=2
     num_medias_weighted=0.6352
@@ -92860,7 +92860,7 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Radio 2000 KG"
-    num_owners=416
+    num_owners=415
     num_owners_weighted=34.8250
     num_medias=30
     num_medias_weighted=1.2890
@@ -92872,7 +92872,7 @@ digraph {
     type=shareholder
     state=active
     label="Mediengesellschaft der Bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. Bayernprogramm KG"
-    num_owners=417
+    num_owners=416
     num_owners_weighted=10.2561
     num_medias=28
     num_medias_weighted=1.6424
@@ -93244,7 +93244,7 @@ digraph {
     type=shareholder
     state=active
     label="Medienhaus Südwest GmbH & Co. KG"
-    num_owners=370
+    num_owners=369
     num_owners_weighted=1.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -93256,7 +93256,7 @@ digraph {
     type=shareholder
     state=active
     label="Medienhaus Südwest Verwaltungs-GmbH"
-    num_owners=369
+    num_owners=368
     num_owners_weighted=6.8317
     num_medias=1
     num_medias_weighted=0.0000
@@ -93556,7 +93556,7 @@ digraph {
     type=shareholder
     state=active
     label="MedTrix GmbH"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=2
     num_medias_weighted=2.0000
@@ -94444,7 +94444,7 @@ digraph {
     type=shareholder
     state=active
     label="Meininger Mediengesellschaft mbH"
-    num_owners=273
+    num_owners=272
     num_owners_weighted=9.9808
     num_medias=3
     num_medias_weighted=3.0000
@@ -94456,7 +94456,7 @@ digraph {
     type=print
     state=active
     label="Meininger Tageblatt"
-    num_owners=274
+    num_owners=273
     num_owners_weighted=10.9808
     num_medias=0
     num_medias_weighted=0.0000
@@ -98584,7 +98584,7 @@ digraph {
     type=shareholder
     state=active
     label="MUC-West Radio- und Programmanbieter GmbH & Co. KG"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=10.3921
     num_medias=3
     num_medias_weighted=0.6990
@@ -98596,7 +98596,7 @@ digraph {
     type=shareholder
     state=active
     label="MUC-West Verwaltungs-GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=11.3921
     num_medias=3
     num_medias_weighted=0.0000
@@ -99052,7 +99052,7 @@ digraph {
     type=shareholder
     state=active
     label="MV Verwaltungs GmbH"
-    num_owners=911
+    num_owners=910
     num_owners_weighted=33.1427
     num_medias=2
     num_medias_weighted=0.0000
@@ -100300,7 +100300,7 @@ digraph {
     type=shareholder
     state=active
     label="Münchener Wochenblatt Verlags- und Werbegesellschaft mbH"
-    num_owners=252
+    num_owners=251
     num_owners_weighted=2.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -100624,7 +100624,7 @@ digraph {
     type=radio
     state=active
     label="N90,4...Beat"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -102172,7 +102172,7 @@ digraph {
     type=shareholder
     state=active
     label="Neue Bayreuther Anzeigenblattverlags GmbH"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=5.3667
     num_medias=1
     num_medias_weighted=1.0000
@@ -102196,7 +102196,7 @@ digraph {
     type=shareholder
     state=active
     label="Neue Berliner Rundfunk GmbH & Co. KG"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=9.4844
     num_medias=2
     num_medias_weighted=2.0000
@@ -102208,7 +102208,7 @@ digraph {
     type=shareholder
     state=active
     label="Neue Berliner Rundfunk Verwaltungs GmbH"
-    num_owners=897
+    num_owners=896
     num_owners_weighted=22.0453
     num_medias=2
     num_medias_weighted=0.0000
@@ -102352,7 +102352,7 @@ digraph {
     type=print
     state=active
     label="Neue Presse (Coburg)"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -102376,7 +102376,7 @@ digraph {
     type=print
     state=active
     label="Neue Presse am Sonntag"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -103276,7 +103276,7 @@ digraph {
     type=shareholder
     state=active
     label="news aktuell GmbH"
-    num_owners=817
+    num_owners=816
     num_owners_weighted=64.1080
     num_medias=2
     num_medias_weighted=2.0000
@@ -103420,7 +103420,7 @@ digraph {
     type=shareholder
     state=active
     label="NF Medien-Anbietergesellschaft mbH"
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -104320,7 +104320,7 @@ digraph {
     type=shareholder
     state=active
     label="NORA NordOstsee RAdio Beteiligungs GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=23.5790
     num_medias=42
     num_medias_weighted=0.0000
@@ -104332,7 +104332,7 @@ digraph {
     type=shareholder
     state=active
     label="NORA NordOstsee Radio GmbH & Co. KG"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=10.7074
     num_medias=42
     num_medias_weighted=2.7684
@@ -104416,7 +104416,7 @@ digraph {
     type=print
     state=active
     label="Nordbayerischer Kurier"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=5.3667
     num_medias=0
     num_medias_weighted=0.0000
@@ -104440,7 +104440,7 @@ digraph {
     type=shareholder
     state=active
     label="Nordbayerischer Kurier Zeitungsverlag GmbH"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=4.3667
     num_medias=39
     num_medias_weighted=4.4364
@@ -105412,7 +105412,7 @@ digraph {
     type=shareholder
     state=active
     label="NRW Audio GmbH & Co. KG"
-    num_owners=1183
+    num_owners=1182
     num_owners_weighted=18.2687
     num_medias=2
     num_medias_weighted=2.0000
@@ -105424,7 +105424,7 @@ digraph {
     type=shareholder
     state=active
     label="NRW Audio Verwaltungs GmbH"
-    num_owners=1183
+    num_owners=1182
     num_owners_weighted=19.2687
     num_medias=2
     num_medias_weighted=0.0000
@@ -105472,7 +105472,7 @@ digraph {
     type=radio
     state=active
     label=NRW1
-    num_owners=1183
+    num_owners=1182
     num_owners_weighted=19.2687
     num_medias=0
     num_medias_weighted=0.0000
@@ -106888,7 +106888,7 @@ digraph {
     type=radio
     state=active
     label="OLDIE ANTENNE (SLM)"
-    num_owners=489
+    num_owners=488
     num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -107164,7 +107164,7 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service Beteiligungsgesellschaft mbH"
-    num_owners=777
+    num_owners=776
     num_owners_weighted=37.6509
     num_medias=0
     num_medias_weighted=0.0000
@@ -107176,7 +107176,7 @@ digraph {
     type=shareholder
     state=active
     label="OMS-Online Marketing Service GmbH & Co. KG"
-    num_owners=777
+    num_owners=776
     num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -108040,7 +108040,7 @@ digraph {
     type=radio
     state=active
     label="Ostseewelle HIT-RADIO Hamburg/Schleswig-Holstein"
-    num_owners=369
+    num_owners=368
     num_owners_weighted=13.7293
     num_medias=0
     num_medias_weighted=0.0000
@@ -108052,7 +108052,7 @@ digraph {
     type=radio
     state=active
     label="Ostseewelle HITRADIO Mecklenburg-Vorpommern"
-    num_owners=369
+    num_owners=368
     num_owners_weighted=13.7293
     num_medias=0
     num_medias_weighted=0.0000
@@ -109588,7 +109588,7 @@ digraph {
     type=shareholder
     state=active
     label="PBR Privater Bremer Rundfunk Beteiligungs GmbH"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=11.0705
     num_medias=3
     num_medias_weighted=0.0000
@@ -109600,7 +109600,7 @@ digraph {
     type=shareholder
     state=active
     label="PBR Privater Bremer Rundfunk GmbH & Co. KG"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=10.0705
     num_medias=3
     num_medias_weighted=3.0000
@@ -111400,7 +111400,7 @@ digraph {
     type=radio
     state=active
     label="Pirate Gong"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -111592,7 +111592,7 @@ digraph {
     type=radio
     state=active
     label="planet radio"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -111604,7 +111604,7 @@ digraph {
     type=radio
     state=active
     label="planet radio black beats"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -113752,7 +113752,7 @@ digraph {
     type=shareholder
     state=active
     label="Privater Sächsischer Rundfunk GmbH"
-    num_owners=893
+    num_owners=892
     num_owners_weighted=21.3192
     num_medias=7
     num_medias_weighted=4.8734
@@ -113776,7 +113776,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern GmbH & Co. KG"
-    num_owners=484
+    num_owners=483
     num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
@@ -113788,7 +113788,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatfernsehen in Bayern Verwaltungs-GmbH"
-    num_owners=483
+    num_owners=482
     num_owners_weighted=18.1898
     num_medias=2
     num_medias_weighted=0.0000
@@ -113812,7 +113812,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatradio Landeswelle Mecklenburg-Vorpommern GmbH & Co. Studiobetriebs KG"
-    num_owners=368
+    num_owners=367
     num_owners_weighted=12.7293
     num_medias=3
     num_medias_weighted=3.0000
@@ -113824,7 +113824,7 @@ digraph {
     type=shareholder
     state=active
     label="Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH"
-    num_owners=367
+    num_owners=366
     num_owners_weighted=15.6192
     num_medias=3
     num_medias_weighted=0.0000
@@ -115336,7 +115336,7 @@ digraph {
     type=radio
     state=active
     label="R.SA"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=23.3192
     num_medias=0
     num_medias_weighted=0.0000
@@ -115348,7 +115348,7 @@ digraph {
     type=radio
     state=active
     label="R.SH Gold"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -115360,7 +115360,7 @@ digraph {
     type=radio
     state=active
     label="R.SH Radio Schleswig-Holstein"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -115588,7 +115588,7 @@ digraph {
     type=radio
     state=active
     label="RADIO 21"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -115600,7 +115600,7 @@ digraph {
     type=radio
     state=active
     label="Radio 21 - Bester Rock'n Pop für Hamburg"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -115612,7 +115612,7 @@ digraph {
     type=radio
     state=active
     label="Radio 21 - Bester Rock'n Pop für Schleswig-Holstein"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -115624,7 +115624,7 @@ digraph {
     type=radio
     state=active
     label="Radio 21 - NRWs bester ROCK'N POP"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -115636,7 +115636,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio 21 Beteiligungs GmbH"
-    num_owners=829
+    num_owners=828
     num_owners_weighted=16.9043
     num_medias=12
     num_medias_weighted=0.0000
@@ -115660,7 +115660,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio 21 GmbH & Co. KG"
-    num_owners=830
+    num_owners=829
     num_owners_weighted=20.1006
     num_medias=12
     num_medias_weighted=10.2460
@@ -115684,7 +115684,7 @@ digraph {
     type=tv
     state=active
     label="RADIO 21 TV"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -115948,7 +115948,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio 95.0 GmbH & Co. KG"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=13.8991
     num_medias=2
     num_medias_weighted=2.0000
@@ -116308,7 +116308,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Bayreuth GmbH"
-    num_owners=272
+    num_owners=271
     num_owners_weighted=4.8188
     num_medias=14
     num_medias_weighted=0.0000
@@ -116320,7 +116320,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Bayreuth GmbH & Co. Mainwelle KG"
-    num_owners=273
+    num_owners=272
     num_owners_weighted=5.8188
     num_medias=14
     num_medias_weighted=2.0000
@@ -116476,7 +116476,7 @@ digraph {
     type=shareholder
     state=active
     label="RADIO BOB GmbH & Co. KG"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=30.9774
     num_medias=2
     num_medias_weighted=2.0000
@@ -116488,7 +116488,7 @@ digraph {
     type=shareholder
     state=active
     label="RADIO BOB Verwaltung GmbH"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=31.9774
     num_medias=2
     num_medias_weighted=0.0000
@@ -116500,7 +116500,7 @@ digraph {
     type=radio
     state=active
     label="Radio BOB!"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=31.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -116512,7 +116512,7 @@ digraph {
     type=radio
     state=active
     label="Radio BOB! Schleswig-Holstein"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=23.5790
     num_medias=0
     num_medias_weighted=0.0000
@@ -116740,7 +116740,7 @@ digraph {
     type=radio
     state=active
     label="Radio Chemnitz (Fenster)"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -116752,7 +116752,7 @@ digraph {
     type=radio
     state=active
     label="Radio Chemnitz 2"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -116764,7 +116764,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Chemnitz UKW 102,1 GmbH & Co. Studiobetriebs KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=16
     num_medias_weighted=3.4385
@@ -116908,7 +116908,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Donauspatz Programmanbieter GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=11.4354
     num_medias=15
     num_medias_weighted=0.0000
@@ -116920,7 +116920,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Donauspatz Programmanbieter GmbH & Co. Hörfunk KG"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=2.7500
     num_medias=15
     num_medias_weighted=1.7213
@@ -116932,7 +116932,7 @@ digraph {
     type=radio
     state=active
     label="Radio Dresden (Fenster)"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -116944,7 +116944,7 @@ digraph {
     type=radio
     state=active
     label="Radio Dresden 2"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -116956,7 +116956,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Dresden GmbH & Co. Studiobetriebs KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=16
     num_medias_weighted=3.3015
@@ -117028,7 +117028,7 @@ digraph {
     type=radio
     state=active
     label="Radio Eins"
-    num_owners=286
+    num_owners=285
     num_owners_weighted=5.6514
     num_medias=0
     num_medias_weighted=0.0000
@@ -117160,7 +117160,7 @@ digraph {
     type=radio
     state=active
     label="Radio Erzgebirge - Wir lieben das Erzgebirge!"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -117172,7 +117172,7 @@ digraph {
     type=radio
     state=active
     label="Radio Erzgebirge 107,7"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=14.6596
     num_medias=0
     num_medias_weighted=0.0000
@@ -117280,7 +117280,7 @@ digraph {
     type=radio
     state=active
     label="Radio Fantasy"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -117292,7 +117292,7 @@ digraph {
     type=radio
     state=active
     label="Radio Fantasy (Allgäu-Donau-Iller)"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -117304,7 +117304,7 @@ digraph {
     type=radio
     state=active
     label="Radio Fantasy Classix"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -117328,7 +117328,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Fantasy GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=9.4569
     num_medias=5
     num_medias_weighted=5.0000
@@ -117340,7 +117340,7 @@ digraph {
     type=radio
     state=active
     label="Radio Fantasy Lounge"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -117472,7 +117472,7 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Allgäu"
-    num_owners=577
+    num_owners=576
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -117496,7 +117496,7 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Aschaffenburg"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=10.5354
     num_medias=0
     num_medias_weighted=0.0000
@@ -117628,7 +117628,7 @@ digraph {
     type=radio
     state=active
     label="Radio Galaxy Oberfranken"
-    num_owners=290
+    num_owners=289
     num_owners_weighted=10.7206
     num_medias=0
     num_medias_weighted=0.0000
@@ -117760,7 +117760,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Gong 2000 Programmanbieter GmbH"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=8.8568
     num_medias=4
     num_medias_weighted=0.0000
@@ -117772,7 +117772,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Gong 2000 Programmanbieter GmbH & Co. Hörfunk für München KG"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=11.8693
     num_medias=4
     num_medias_weighted=4.0000
@@ -117784,7 +117784,7 @@ digraph {
     type=radio
     state=active
     label="Radio Gong 96,3 München"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=12.8693
     num_medias=0
     num_medias_weighted=0.0000
@@ -117808,7 +117808,7 @@ digraph {
     type=radio
     state=active
     label="Radio Gong 97,1 Nürnberg"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=16.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -117820,7 +117820,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Gong Nürnberg Programmanbieter GmbH & Co. KG"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=15.9139
     num_medias=25
     num_medias_weighted=4.6751
@@ -117832,7 +117832,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Gong Nürnberg Programmanbieter Verwaltungs-GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=25
     num_medias_weighted=0.0000
@@ -117856,7 +117856,7 @@ digraph {
     type=radio
     state=active
     label="Radio Gong Würzburg"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -117868,7 +117868,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Görlitz GmbH & Co. Studiobetriebs KG"
-    num_owners=358
+    num_owners=357
     num_owners_weighted=12.3391
     num_medias=2
     num_medias_weighted=2.0000
@@ -117880,7 +117880,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Görlitz Rundfunkverwaltungsgesellschaft mbH"
-    num_owners=357
+    num_owners=356
     num_owners_weighted=11.7858
     num_medias=2
     num_medias_weighted=0.0000
@@ -118300,7 +118300,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Karlsruhe GmbH & Co. KG"
-    num_owners=362
+    num_owners=361
     num_owners_weighted=8.1006
     num_medias=5
     num_medias_weighted=4.3333
@@ -118312,7 +118312,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Karlsruhe Verwaltungs GmbH"
-    num_owners=361
+    num_owners=360
     num_owners_weighted=5.7126
     num_medias=5
     num_medias_weighted=0.0000
@@ -118420,7 +118420,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio L 12 Verwaltung GmbH"
-    num_owners=521
+    num_owners=520
     num_owners_weighted=18.6617
     num_medias=2
     num_medias_weighted=0.0000
@@ -118432,7 +118432,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio L12 GmbH & Co. KG"
-    num_owners=521
+    num_owners=520
     num_owners_weighted=17.6617
     num_medias=2
     num_medias_weighted=2.0000
@@ -118444,7 +118444,7 @@ digraph {
     type=radio
     state=active
     label="Radio Lausitz (Fenster)"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=13.3391
     num_medias=0
     num_medias_weighted=0.0000
@@ -118456,7 +118456,7 @@ digraph {
     type=radio
     state=active
     label="Radio Leipzig (Fenster)"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -118468,7 +118468,7 @@ digraph {
     type=radio
     state=active
     label="Radio Leipzig 2"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -118648,7 +118648,7 @@ digraph {
     type=radio
     state=active
     label="Radio Mainwelle"
-    num_owners=274
+    num_owners=273
     num_owners_weighted=6.8188
     num_medias=0
     num_medias_weighted=0.0000
@@ -118864,7 +118864,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio N1 Anbietergesellschaft mbH"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=24
     num_medias_weighted=1.1520
@@ -118936,7 +118936,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Neptun Rundfunk-Verwaltungs GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=6.1850
     num_medias=42
     num_medias_weighted=0.0858
@@ -118984,7 +118984,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation GmbH & Co. KG"
-    num_owners=585
+    num_owners=584
     num_owners_weighted=5.5255
     num_medias=2
     num_medias_weighted=2.0000
@@ -118996,7 +118996,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Next Generation Verwaltungs GmbH"
-    num_owners=585
+    num_owners=584
     num_owners_weighted=6.5255
     num_medias=2
     num_medias_weighted=0.0000
@@ -119536,7 +119536,7 @@ digraph {
     type=radio
     state=active
     label="Radio Primavera"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=10.5354
     num_medias=0
     num_medias_weighted=0.0000
@@ -119560,7 +119560,7 @@ digraph {
     type=radio
     state=active
     label="Radio PSR"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=22.3192
     num_medias=0
     num_medias_weighted=0.0000
@@ -119980,7 +119980,7 @@ digraph {
     type=radio
     state=active
     label="Radio SAW"
-    num_owners=909
+    num_owners=908
     num_owners_weighted=24.1550
     num_medias=0
     num_medias_weighted=0.0000
@@ -120184,7 +120184,7 @@ digraph {
     type=radio
     state=active
     label="Radio Teddy (Bayern)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120196,7 +120196,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Berlin)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120208,7 +120208,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Bremen)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120220,7 +120220,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (bundesweit)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120232,7 +120232,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Hamburg)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120244,7 +120244,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Hessen)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120256,7 +120256,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Mecklenburg-Vorpommern)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120268,7 +120268,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (NRW)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120280,7 +120280,7 @@ digraph {
     type=radio
     state=active
     label="Radio Teddy (SLM)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120292,7 +120292,7 @@ digraph {
     type=radio
     state=active
     label="Radio TEDDY (Thüringen)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -120304,7 +120304,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio TEDDY GmbH & Co. KG"
-    num_owners=365
+    num_owners=364
     num_owners_weighted=15.3320
     num_medias=13
     num_medias_weighted=11.0722
@@ -120316,7 +120316,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio TEDDY Verwaltungs GmbH"
-    num_owners=364
+    num_owners=363
     num_owners_weighted=14.8749
     num_medias=13
     num_medias_weighted=0.0000
@@ -120328,7 +120328,7 @@ digraph {
     type=radio
     state=active
     label="Radio The WOLF Hamburg"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -120340,7 +120340,7 @@ digraph {
     type=radio
     state=active
     label="Radio The WOLF Schleswig-Holstein"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -120412,7 +120412,7 @@ digraph {
     type=radio
     state=active
     label="radio TOP 40"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -120424,7 +120424,7 @@ digraph {
     type=radio
     state=active
     label="Radio TOP FM"
-    num_owners=361
+    num_owners=360
     num_owners_weighted=13.2293
     num_medias=0
     num_medias_weighted=0.0000
@@ -120796,7 +120796,7 @@ digraph {
     type=radio
     state=active
     label="Radio Zwickau (Fenster)"
-    num_owners=361
+    num_owners=360
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -120808,7 +120808,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Zwickau Programm-, Produktions- und Werbegesellschaft mbH & Co. KG"
-    num_owners=360
+    num_owners=359
     num_owners_weighted=10.4569
     num_medias=16
     num_medias_weighted=2.8905
@@ -120820,7 +120820,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Zwickau Verwaltungs-, Programm-, Produktions- und Werbegesellschaft mbH"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=11.7713
     num_medias=16
     num_medias_weighted=0.0000
@@ -120832,7 +120832,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio-Information Audio-Service Zwei GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=17.0104
     num_medias=6
     num_medias_weighted=2.9642
@@ -120928,7 +120928,7 @@ digraph {
     type=shareholder
     state=active
     label="RADIO/TELE FFH GmbH"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=8
     num_medias_weighted=0.0000
@@ -120940,7 +120940,7 @@ digraph {
     type=shareholder
     state=active
     label="RADIO/TELE FFH GmbH & Co. Betriebs-KG"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=33.6932
     num_medias=8
     num_medias_weighted=8.0000
@@ -121024,7 +121024,7 @@ digraph {
     type=shareholder
     state=active
     label="radioblut Geschäftsführungs GmbH"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=4.0042
     num_medias=2
     num_medias_weighted=0.0000
@@ -121036,7 +121036,7 @@ digraph {
     type=shareholder
     state=active
     label="radioblut GmbH & Co. Studiobetriebs KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=3.0042
     num_medias=2
     num_medias_weighted=1.0170
@@ -121048,7 +121048,7 @@ digraph {
     type=shareholder
     state=active
     label="RadioCom Nord GmbH"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=1
     num_medias_weighted=1.0000
@@ -122140,7 +122140,7 @@ digraph {
     type=shareholder
     state=active
     label="RBTZ Rundfunk Beteiligungsgesellschaft Bayerischer Tageszeitungen mbH & Co. KG"
-    num_owners=325
+    num_owners=324
     num_owners_weighted=12.1917
     num_medias=195
     num_medias_weighted=13.3263
@@ -122896,7 +122896,7 @@ digraph {
     type=shareholder
     state=active
     label="REGIOCAST GmbH & Co. KG"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=13.6199
     num_medias=42
     num_medias_weighted=20.3615
@@ -122908,7 +122908,7 @@ digraph {
     type=shareholder
     state=active
     label="REGIOCAST Verwaltungs GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=42
     num_medias_weighted=0.0000
@@ -123028,7 +123028,7 @@ digraph {
     type=shareholder
     state=active
     label="REGOLD GmbH & Co. KG"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=20.0334
     num_medias=2
     num_medias_weighted=0.6236
@@ -123040,7 +123040,7 @@ digraph {
     type=shareholder
     state=active
     label="REGOLD Verwaltungs GmbH"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=21.0334
     num_medias=2
     num_medias_weighted=0.0000
@@ -124804,7 +124804,7 @@ digraph {
     type=shareholder
     state=active
     label="Rheinland-Pfälzische Rundfunk GmbH & Co. KG"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=15.6595
     num_medias=10
     num_medias_weighted=3.0000
@@ -124816,7 +124816,7 @@ digraph {
     type=shareholder
     state=active
     label="Rheinland-Pfälzische Rundfunkbetriebsgesellschaft mbH"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=22.6351
     num_medias=10
     num_medias_weighted=0.0000
@@ -126052,7 +126052,7 @@ digraph {
     type=radio
     state=active
     label="ROCK ANTENNE"
-    num_owners=504
+    num_owners=503
     num_owners_weighted=16.7738
     num_medias=0
     num_medias_weighted=0.0000
@@ -126112,7 +126112,7 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne GmbH & Co. KG"
-    num_owners=503
+    num_owners=502
     num_owners_weighted=15.7738
     num_medias=9
     num_medias_weighted=4.6232
@@ -126124,7 +126124,7 @@ digraph {
     type=radio
     state=active
     label="ROCK ANTENNE Hamburg"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
@@ -126136,7 +126136,7 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Hamburg GmbH & Co. KG"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=4.6350
     num_medias=5
     num_medias_weighted=5.0000
@@ -126148,7 +126148,7 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Hamburg Verwaltung GmbH"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=13.4058
     num_medias=5
     num_medias_weighted=0.0000
@@ -126172,7 +126172,7 @@ digraph {
     type=shareholder
     state=active
     label="Rock Antenne Verwaltungs GmbH"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=14.7738
     num_medias=9
     num_medias_weighted=0.0000
@@ -126280,7 +126280,7 @@ digraph {
     type=radio
     state=active
     label="ROCKLAND (Sachsen)"
-    num_owners=909
+    num_owners=908
     num_owners_weighted=24.1550
     num_medias=0
     num_medias_weighted=0.0000
@@ -127420,7 +127420,7 @@ digraph {
     type=radio
     state=active
     label="RPR Eins"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=22.6351
     num_medias=0
     num_medias_weighted=0.0000
@@ -127444,7 +127444,7 @@ digraph {
     type=radio
     state=active
     label="RPR Rheinland-Pfälzische Rundfunk GmbH & Co. KG"
-    num_owners=502
+    num_owners=501
     num_owners_weighted=22.6351
     num_medias=0
     num_medias_weighted=0.0000
@@ -127864,7 +127864,7 @@ digraph {
     type=shareholder
     state=active
     label="RTL Hessen Programmfenster GmbH"
-    num_owners=593
+    num_owners=592
     num_owners_weighted=22.3545
     num_medias=0
     num_medias_weighted=0.0000
@@ -131008,7 +131008,7 @@ digraph {
     type=tv
     state=active
     label="Sat.1 17:30 live für Bayern (Regionalfenster)"
-    num_owners=485
+    num_owners=484
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -132460,7 +132460,7 @@ digraph {
     type=radio
     state=active
     label="Schlagerplanet Radio (bundesweit)"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -132472,7 +132472,7 @@ digraph {
     type=radio
     state=active
     label="SchlagerPlanet Radio (SLM)"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -139540,7 +139540,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=968
+    num_owners=967
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -148396,7 +148396,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong Aschaffenburg GmbH & Co. Studiobetriebs KG"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -148408,7 +148408,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong Bayern Verwaltungs GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=195
     num_medias_weighted=0.0000
@@ -148420,7 +148420,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong Deutschland Verwaltungs GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=23
     num_medias_weighted=0.0000
@@ -148432,7 +148432,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong GmbH & Co. Studiobetriebs KG"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=11.6013
     num_medias=195
     num_medias_weighted=30.9806
@@ -148444,7 +148444,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong GmbH AV Produktionsgesellschaft & Co. Betriebs KG"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -148456,7 +148456,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Gong Niedersachsen GmbH & Co. Studiobetriebs KG"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=15.9139
     num_medias=20
     num_medias_weighted=1.9093
@@ -148480,7 +148480,7 @@ digraph {
     type=shareholder
     state=active
     label="Studio Leipzig Rundfunkprogramm GmbH & Co. Studiobetriebs KG"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=16
     num_medias_weighted=4.3290
@@ -148708,7 +148708,7 @@ digraph {
     type=print
     state=active
     label="stz Südthüringer Zeitung"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -148924,7 +148924,7 @@ digraph {
     type=shareholder
     state=active
     label="Suhler Verlag Verwaltungsgesellschaft mbH"
-    num_owners=256
+    num_owners=255
     num_owners_weighted=3.6055
     num_medias=17
     num_medias_weighted=0.0000
@@ -148936,7 +148936,7 @@ digraph {
     type=shareholder
     state=active
     label="Suhler Verlagsgesellschaft mbH & Co. KG"
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6055
     num_medias=17
     num_medias_weighted=10.6458
@@ -149044,7 +149044,7 @@ digraph {
     type=radio
     state=active
     label="sunshine live"
-    num_owners=927
+    num_owners=926
     num_owners_weighted=16.4501
     num_medias=0
     num_medias_weighted=0.0000
@@ -149056,7 +149056,7 @@ digraph {
     type=radio
     state=active
     label="SUNSHINE LIVE"
-    num_owners=893
+    num_owners=892
     num_owners_weighted=30.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -149080,7 +149080,7 @@ digraph {
     type=shareholder
     state=active
     label="sunshine live Geschäftsführungs-GmbH"
-    num_owners=927
+    num_owners=926
     num_owners_weighted=16.4501
     num_medias=2
     num_medias_weighted=0.0000
@@ -149092,7 +149092,7 @@ digraph {
     type=shareholder
     state=active
     label="sunshine live GmbH & Co. KG"
-    num_owners=927
+    num_owners=926
     num_owners_weighted=15.4501
     num_medias=2
     num_medias_weighted=2.0000
@@ -149440,7 +149440,7 @@ digraph {
     type=shareholder
     state=active
     label="SV Friedmann Holding GmbH"
-    num_owners=250
+    num_owners=249
     num_owners_weighted=2.0916
     num_medias=75
     num_medias_weighted=4.0590
@@ -149488,8 +149488,8 @@ digraph {
     type=shareholder
     state=active
     label="SV Top GmbH"
-    num_owners=248
-    num_owners_weighted=41.6181
+    num_owners=247
+    num_owners_weighted=41.6170
     num_medias=75
     num_medias_weighted=0.0089
     name="5be1a6b6-346f-46a9-b49d-111ebfb8df47"
@@ -149980,7 +149980,7 @@ digraph {
     type=radio
     state=active
     label="Sächsische Lokalradios (Mantel)"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=7.3260
     num_medias=0
     num_medias_weighted=0.0000
@@ -150004,7 +150004,7 @@ digraph {
     type=shareholder
     state=active
     label="Sächsische Lokalrundfunk-Dienstleistungsprogramm GmbH & Co. Studiobetriebs-KG"
-    num_owners=365
+    num_owners=364
     num_owners_weighted=6.3260
     num_medias=15
     num_medias_weighted=7.3000
@@ -150016,7 +150016,7 @@ digraph {
     type=shareholder
     state=active
     label="Sächsische Lokalrundfunk-Dienstleistungsprogramm Verwaltungs-GmbH"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=10.3527
     num_medias=19
     num_medias_weighted=0.0000
@@ -150124,7 +150124,7 @@ digraph {
     type=shareholder
     state=active
     label="Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=2
     num_medias_weighted=0.0000
@@ -150136,7 +150136,7 @@ digraph {
     type=shareholder
     state=active
     label="Sächsisches Gemeinschaftsprogramm GmbH & Co. KG"
-    num_owners=410
+    num_owners=409
     num_owners_weighted=20.6430
     num_medias=2
     num_medias_weighted=2.0000
@@ -150256,7 +150256,7 @@ digraph {
     type=print
     state=active
     label="Süddeutsche Zeitung"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -150268,7 +150268,7 @@ digraph {
     type=shareholder
     state=active
     label="Süddeutsche Zeitung Digitale Medien GmbH"
-    num_owners=252
+    num_owners=251
     num_owners_weighted=2.3922
     num_medias=1
     num_medias_weighted=1.0000
@@ -150304,7 +150304,7 @@ digraph {
     type=shareholder
     state=active
     label="Süddeutsche Zeitung GmbH"
-    num_owners=252
+    num_owners=251
     num_owners_weighted=2.3922
     num_medias=8
     num_medias_weighted=6.0182
@@ -150316,7 +150316,7 @@ digraph {
     type=print
     state=active
     label="Süddeutsche Zeitung Langstrecke"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -150328,7 +150328,7 @@ digraph {
     type=shareholder
     state=active
     label="Süddeutscher Verlag GmbH"
-    num_owners=251
+    num_owners=250
     num_owners_weighted=1.3922
     num_medias=75
     num_medias_weighted=21.6481
@@ -150340,7 +150340,7 @@ digraph {
     type=shareholder
     state=active
     label="Süddeutscher Verlag Hüthig Fachinformationen GmbH"
-    num_owners=252
+    num_owners=251
     num_owners_weighted=2.3922
     num_medias=201
     num_medias_weighted=6.9542
@@ -150616,8 +150616,8 @@ digraph {
     type=shareholder
     state=active
     label="Südwestdeutsche Medienholding GmbH"
-    num_owners=246
-    num_owners_weighted=48.7307
+    num_owners=245
+    num_owners_weighted=48.7294
     num_medias=75
     num_medias_weighted=17.5891
     name="5be1a6b6-f0b4-4918-a667-d5f8c5d968d0"
@@ -151516,7 +151516,7 @@ digraph {
     type=shareholder
     state=active
     label="Tele 1 Fernsehen für Augsburg GmbH & Co. Betriebs KG"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=7.6862
     num_medias=0
     num_medias_weighted=0.0000
@@ -151828,7 +151828,7 @@ digraph {
     type=shareholder
     state=active
     label="Teleradio-Beteiligungsgesellschaft mbH"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=195
     num_medias_weighted=0.9542
@@ -152668,7 +152668,7 @@ digraph {
     type=shareholder
     state=active
     label="The Farm GmbH"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=1
     num_medias_weighted=1.0000
@@ -155716,7 +155716,7 @@ digraph {
     type=shareholder
     state=active
     label="TV Bayern GmbH Bayerische Lokal-Fernsehprogramm Gesellschaft"
-    num_owners=450
+    num_owners=449
     num_owners_weighted=13.9487
     num_medias=2
     num_medias_weighted=0.8000
@@ -155728,7 +155728,7 @@ digraph {
     type=tv
     state=active
     label="TV Bayern Live"
-    num_owners=457
+    num_owners=456
     num_owners_weighted=11.5721
     num_medias=0
     num_medias_weighted=0.0000
@@ -155740,7 +155740,7 @@ digraph {
     type=shareholder
     state=active
     label="TV Bayern Programmgesellschaft mbH"
-    num_owners=456
+    num_owners=455
     num_owners_weighted=10.5721
     num_medias=2
     num_medias_weighted=2.0000
@@ -156424,7 +156424,7 @@ digraph {
     type=shareholder
     state=active
     label="TVF Fernsehen in Franken Programm GmbH"
-    num_owners=371
+    num_owners=370
     num_owners_weighted=8.7682
     num_medias=4
     num_medias_weighted=2.0800
@@ -156496,7 +156496,7 @@ digraph {
     type=shareholder
     state=active
     label="TVN Fernseh-Beteiligungsgesellschaft mbH Nürnberg"
-    num_owners=353
+    num_owners=352
     num_owners_weighted=6.9394
     num_medias=4
     num_medias_weighted=0.2704
@@ -159328,7 +159328,7 @@ digraph {
     type=shareholder
     state=active
     label="Verlag Bayerische Staatszeitung GmbH"
-    num_owners=294
+    num_owners=293
     num_owners_weighted=5.0489
     num_medias=2
     num_medias_weighted=2.0000
@@ -159496,7 +159496,7 @@ digraph {
     type=shareholder
     state=active
     label="Verlag für die Frau GmbH"
-    num_owners=352
+    num_owners=351
     num_owners_weighted=14.9139
     num_medias=24
     num_medias_weighted=5.4041
@@ -161644,7 +161644,7 @@ digraph {
     type=shareholder
     state=active
     label="VMG Verlags- und Mediengesellschaft mbH & Co. KG"
-    num_owners=908
+    num_owners=907
     num_owners_weighted=23.1550
     num_medias=6
     num_medias_weighted=4.4668
@@ -162618,8 +162618,8 @@ digraph {
     label="von Poschinger-Camphausen Grau, Astrid"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
-    num_medias_weighted=0.0362
+    num_medias=81
+    num_medias_weighted=0.1150
     name="6050c993-c677-4d39-a90a-76c6a9268de1"
     in_degree=0
     out_degree=1
@@ -162630,8 +162630,8 @@ digraph {
     label="von Poschinger-Camphausen Sünner, Ottmar"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
-    num_medias_weighted=0.0362
+    num_medias=81
+    num_medias_weighted=0.1150
     name="6050c9b1-c704-4bce-83c5-198a6f342309"
     in_degree=0
     out_degree=1
@@ -162666,7 +162666,7 @@ digraph {
     label="von Poschinger-Camphausen, Konstantin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=78
+    num_medias=81
     num_medias_weighted=0.0000
     name="6050c976-ca77-40e8-ab11-47c464add252"
     in_degree=0
@@ -163134,8 +163134,8 @@ digraph {
     label="VPC Beteiligungs KG"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=78
-    num_medias_weighted=0.0725
+    num_medias=81
+    num_medias_weighted=0.2300
     name="5fbd1ff9-bde2-41ce-8eeb-e7a36e92ed37"
     in_degree=3
     out_degree=2
@@ -170092,7 +170092,7 @@ digraph {
     type=shareholder
     state=active
     label="Wochenspiegel Coburg-Sonneberg Verlag GmbH"
-    num_owners=260
+    num_owners=259
     num_owners_weighted=7.6055
     num_medias=1
     num_medias_weighted=1.0000
@@ -170104,7 +170104,7 @@ digraph {
     type=shareholder
     state=active
     label="Wochenspiegel Thüringen GmbH & Co. KG"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=6.6055
     num_medias=2
     num_medias_weighted=2.0000
@@ -170116,7 +170116,7 @@ digraph {
     type=shareholder
     state=active
     label="Wochenspiegel Thüringen Verwaltungs GmbH"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=2
     num_medias_weighted=0.0000
@@ -171652,7 +171652,7 @@ digraph {
     type=online
     state=active
     label="www.80s80s.de"
-    num_owners=911
+    num_owners=910
     num_owners_weighted=33.1427
     num_medias=0
     num_medias_weighted=0.0000
@@ -171700,7 +171700,7 @@ digraph {
     type=online
     state=active
     label="www.90s90s.de"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -171712,7 +171712,7 @@ digraph {
     type=online
     state=active
     label="www.917xfm.de"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
@@ -171736,7 +171736,7 @@ digraph {
     type=online
     state=active
     label="www.986charivari.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -172348,7 +172348,7 @@ digraph {
     type=online
     state=active
     label="www.all-electronics.de"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -172564,7 +172564,7 @@ digraph {
     type=online
     state=active
     label="www.alsterradio.de"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
@@ -172612,7 +172612,7 @@ digraph {
     type=online
     state=active
     label="www.alternativefm.de"
-    num_owners=363
+    num_owners=362
     num_owners_weighted=9.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -172816,7 +172816,7 @@ digraph {
     type=online
     state=active
     label="www.antenna-bw.de"
-    num_owners=371
+    num_owners=370
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -172960,7 +172960,7 @@ digraph {
     type=online
     state=active
     label="www.antenne.com"
-    num_owners=526
+    num_owners=525
     num_owners_weighted=22.5865
     num_medias=0
     num_medias_weighted=0.0000
@@ -172972,7 +172972,7 @@ digraph {
     type=online
     state=active
     label="www.antenne.de"
-    num_owners=489
+    num_owners=488
     num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -173092,7 +173092,7 @@ digraph {
     type=online
     state=active
     label="www.antennesachsen.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -173104,7 +173104,7 @@ digraph {
     type=online
     state=active
     label="www.antennethueringen.de"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -173188,7 +173188,7 @@ digraph {
     type=online
     state=active
     label="www.apolloradio.de"
-    num_owners=411
+    num_owners=410
     num_owners_weighted=21.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -173524,7 +173524,7 @@ digraph {
     type=online
     state=active
     label="www.augsburg.tv"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=10.0062
     num_medias=0
     num_medias_weighted=0.0000
@@ -174100,7 +174100,7 @@ digraph {
     type=online
     state=active
     label="www.barbaradio.de"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -174256,7 +174256,7 @@ digraph {
     type=online
     state=active
     label="www.bayerische-staatszeitung.de"
-    num_owners=295
+    num_owners=294
     num_owners_weighted=6.0489
     num_medias=0
     num_medias_weighted=0.0000
@@ -174400,7 +174400,7 @@ digraph {
     type=online
     state=active
     label="www.bbradio.de"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=13.2068
     num_medias=0
     num_medias_weighted=0.0000
@@ -174712,7 +174712,7 @@ digraph {
     type=online
     state=active
     label="www.berliner-rundfunk.de"
-    num_owners=899
+    num_owners=898
     num_owners_weighted=10.4844
     num_medias=0
     num_medias_weighted=0.0000
@@ -174904,7 +174904,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=968
+    num_owners=967
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -175336,7 +175336,7 @@ digraph {
     type=online
     state=active
     label="www.blr.de"
-    num_owners=450
+    num_owners=449
     num_owners_weighted=21.2133
     num_medias=0
     num_medias_weighted=0.0000
@@ -176812,7 +176812,7 @@ digraph {
     type=online
     state=active
     label="www.charivari.com"
-    num_owners=362
+    num_owners=361
     num_owners_weighted=10.1569
     num_medias=0
     num_medias_weighted=0.0000
@@ -178084,7 +178084,7 @@ digraph {
     type=online
     state=active
     label="www.deltaradio.de"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=12.0081
     num_medias=0
     num_medias_weighted=0.0000
@@ -178636,7 +178636,7 @@ digraph {
     type=online
     state=active
     label="www.diabetes-anker.de"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -178708,7 +178708,7 @@ digraph {
     type=online
     state=active
     label="www.die-neue-welle.de"
-    num_owners=363
+    num_owners=362
     num_owners_weighted=9.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -178780,7 +178780,7 @@ digraph {
     type=online
     state=active
     label="www.dieneue1077.de"
-    num_owners=521
+    num_owners=520
     num_owners_weighted=18.6617
     num_medias=0
     num_medias_weighted=0.0000
@@ -178876,7 +178876,7 @@ digraph {
     type=online
     state=active
     label="www.digitalpirate.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -179212,7 +179212,7 @@ digraph {
     type=online
     state=active
     label="www.donau3fm.de"
-    num_owners=356
+    num_owners=355
     num_owners_weighted=11.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -179296,7 +179296,7 @@ digraph {
     type=online
     state=active
     label="www.dorfkindradio.de"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -180136,7 +180136,7 @@ digraph {
     type=online
     state=active
     label="www.elektro.net"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -180316,7 +180316,7 @@ digraph {
     type=online
     state=active
     label="www.energy.de/bremen"
-    num_owners=902
+    num_owners=901
     num_owners_weighted=18.0705
     num_medias=0
     num_medias_weighted=0.0000
@@ -181036,7 +181036,7 @@ digraph {
     type=online
     state=active
     label="www.fantasy.de"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=10.4569
     num_medias=0
     num_medias_weighted=0.0000
@@ -181300,7 +181300,7 @@ digraph {
     type=online
     state=active
     label="www.ffh.de"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -181324,7 +181324,7 @@ digraph {
     type=online
     state=active
     label="www.fiestamania.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -182152,7 +182152,7 @@ digraph {
     type=online
     state=active
     label="www.frankenfernsehen.tv"
-    num_owners=372
+    num_owners=371
     num_owners_weighted=9.7682
     num_medias=0
     num_medias_weighted=0.0000
@@ -182164,7 +182164,7 @@ digraph {
     type=online
     state=active
     label="www.frankenpost.de"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6411
     num_medias=0
     num_medias_weighted=0.0000
@@ -182332,7 +182332,7 @@ digraph {
     type=online
     state=active
     label="www.freies-wort.de"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=6.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -183292,7 +183292,7 @@ digraph {
     type=online
     state=active
     label="www.galaxy916.de"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=10.5354
     num_medias=0
     num_medias_weighted=0.0000
@@ -183592,7 +183592,7 @@ digraph {
     type=online
     state=active
     label="www.gemeindeblatt.digital"
-    num_owners=257
+    num_owners=256
     num_owners_weighted=4.6411
     num_medias=0
     num_medias_weighted=0.0000
@@ -184300,7 +184300,7 @@ digraph {
     type=online
     state=active
     label="www.gong971.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -184312,7 +184312,7 @@ digraph {
     type=online
     state=active
     label="www.gongfm.de"
-    num_owners=362
+    num_owners=361
     num_owners_weighted=10.1569
     num_medias=0
     num_medias_weighted=0.0000
@@ -184876,7 +184876,7 @@ digraph {
     type=online
     state=active
     label="www.hamburg-zwei.de"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=14.8991
     num_medias=0
     num_medias_weighted=0.0000
@@ -185068,7 +185068,7 @@ digraph {
     type=online
     state=active
     label="www.harmonyfm.de"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -185812,7 +185812,7 @@ digraph {
     type=online
     state=active
     label="www.highlight-web.de"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -185920,7 +185920,7 @@ digraph {
     type=online
     state=active
     label="www.hitradio-rtl.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -185932,7 +185932,7 @@ digraph {
     type=online
     state=active
     label="www.hitradion1.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -186400,8 +186400,8 @@ digraph {
     type=online
     state=active
     label="www.hz.de"
-    num_owners=96
-    num_owners_weighted=21.0500
+    num_owners=95
+    num_owners_weighted=20.0500
     num_medias=0
     num_medias_weighted=0.0000
     name="61768a62-a05b-46ea-9f2c-959eeae3daf4"
@@ -186700,7 +186700,7 @@ digraph {
     type=online
     state=active
     label="www.imsueden.de/top-fm"
-    num_owners=362
+    num_owners=361
     num_owners_weighted=19.5241
     num_medias=0
     num_medias_weighted=0.0000
@@ -186916,7 +186916,7 @@ digraph {
     type=online
     state=active
     label="www.insuedthueringen.de"
-    num_owners=275
+    num_owners=274
     num_owners_weighted=14.2835
     num_medias=0
     num_medias_weighted=0.0000
@@ -187276,7 +187276,7 @@ digraph {
     type=online
     state=active
     label="www.jetzt.de"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -188380,7 +188380,7 @@ digraph {
     type=online
     state=active
     label="www.koelsch-radio.de"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=16.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -188740,7 +188740,7 @@ digraph {
     type=online
     state=active
     label="www.kulthitradio.de"
-    num_owners=354
+    num_owners=353
     num_owners_weighted=16.9139
     num_medias=0
     num_medias_weighted=0.0000
@@ -188788,7 +188788,7 @@ digraph {
     type=online
     state=active
     label="www.kurier.de"
-    num_owners=260
+    num_owners=259
     num_owners_weighted=6.3667
     num_medias=0
     num_medias_weighted=0.0000
@@ -188884,8 +188884,8 @@ digraph {
     type=online
     state=active
     label="www.laendle24.de"
-    num_owners=4
-    num_owners_weighted=3.0000
+    num_owners=3
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e4d4e6-2863-44c8-aedc-91bc4b139236"
@@ -188956,7 +188956,7 @@ digraph {
     type=online
     state=active
     label="www.landeswelle.de"
-    num_owners=898
+    num_owners=897
     num_owners_weighted=14.8138
     num_medias=0
     num_medias_weighted=0.0000
@@ -189268,7 +189268,7 @@ digraph {
     type=online
     state=active
     label="www.laut.de"
-    num_owners=515
+    num_owners=514
     num_owners_weighted=12.4272
     num_medias=0
     num_medias_weighted=0.0000
@@ -190528,7 +190528,7 @@ digraph {
     type=online
     state=active
     label="www.mainfranken24.de"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=11.3327
     num_medias=0
     num_medias_weighted=0.0000
@@ -190564,7 +190564,7 @@ digraph {
     type=online
     state=active
     label="www.mainwelle.de"
-    num_owners=274
+    num_owners=273
     num_owners_weighted=6.8188
     num_medias=0
     num_medias_weighted=0.0000
@@ -191344,7 +191344,7 @@ digraph {
     type=online
     state=active
     label="www.meincharivari.de"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=11.3327
     num_medias=0
     num_medias_weighted=0.0000
@@ -191416,7 +191416,7 @@ digraph {
     type=online
     state=active
     label="www.meininger-tageblatt.de"
-    num_owners=275
+    num_owners=274
     num_owners_weighted=14.2835
     num_medias=0
     num_medias_weighted=0.0000
@@ -191428,7 +191428,7 @@ digraph {
     type=online
     state=active
     label="www.meinlieblingsradio.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -192928,7 +192928,7 @@ digraph {
     type=online
     state=active
     label="www.n904beat.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -193612,7 +193612,7 @@ digraph {
     type=online
     state=active
     label="www.newsaktuell.de"
-    num_owners=818
+    num_owners=817
     num_owners_weighted=65.1080
     num_medias=0
     num_medias_weighted=0.0000
@@ -193624,7 +193624,7 @@ digraph {
     type=online
     state=active
     label="www.newstime.joyn.de/themen/sat1-bayern"
-    num_owners=485
+    num_owners=484
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -193924,7 +193924,7 @@ digraph {
     type=online
     state=active
     label="www.nordbayerischer-kurier.de"
-    num_owners=260
+    num_owners=259
     num_owners_weighted=6.3667
     num_medias=0
     num_medias_weighted=0.0000
@@ -194224,7 +194224,7 @@ digraph {
     type=online
     state=active
     label="www.np-coburg.de"
-    num_owners=258
+    num_owners=257
     num_owners_weighted=5.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -194260,7 +194260,7 @@ digraph {
     type=online
     state=active
     label="www.nrw1.de"
-    num_owners=1183
+    num_owners=1182
     num_owners_weighted=19.2687
     num_medias=0
     num_medias_weighted=0.0000
@@ -194632,7 +194632,7 @@ digraph {
     type=online
     state=active
     label="www.oldie-antenne.de"
-    num_owners=489
+    num_owners=488
     num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -195028,7 +195028,7 @@ digraph {
     type=online
     state=active
     label="www.ostseewelle.de"
-    num_owners=369
+    num_owners=368
     num_owners_weighted=13.7293
     num_medias=0
     num_medias_weighted=0.0000
@@ -195616,7 +195616,7 @@ digraph {
     type=online
     state=active
     label="www.pharma-food.de"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -195796,7 +195796,7 @@ digraph {
     type=online
     state=active
     label="www.planetradio.de"
-    num_owners=569
+    num_owners=568
     num_owners_weighted=40.8623
     num_medias=0
     num_medias_weighted=0.0000
@@ -196024,7 +196024,7 @@ digraph {
     type=online
     state=active
     label="www.presseportal.de"
-    num_owners=818
+    num_owners=817
     num_owners_weighted=65.1080
     num_medias=0
     num_medias_weighted=0.0000
@@ -196048,7 +196048,7 @@ digraph {
     type=online
     state=active
     label="www.prima-sonntag.de"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=10.5354
     num_medias=0
     num_medias_weighted=0.0000
@@ -196084,7 +196084,7 @@ digraph {
     type=online
     state=active
     label="www.primavera24.de"
-    num_owners=359
+    num_owners=358
     num_owners_weighted=10.5354
     num_medias=0
     num_medias_weighted=0.0000
@@ -197032,7 +197032,7 @@ digraph {
     type=online
     state=active
     label="www.radio21.de"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -197044,7 +197044,7 @@ digraph {
     type=online
     state=active
     label="www.radio21.de/nrw"
-    num_owners=832
+    num_owners=831
     num_owners_weighted=22.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -197200,7 +197200,7 @@ digraph {
     type=online
     state=active
     label="www.radiobob.de"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=25.5790
     num_medias=0
     num_medias_weighted=0.0000
@@ -197284,7 +197284,7 @@ digraph {
     type=online
     state=active
     label="www.radiochemnitz.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -197356,7 +197356,7 @@ digraph {
     type=online
     state=active
     label="www.radiodresden.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -197380,7 +197380,7 @@ digraph {
     type=online
     state=active
     label="www.radioeins.com"
-    num_owners=286
+    num_owners=285
     num_owners_weighted=5.6514
     num_medias=0
     num_medias_weighted=0.0000
@@ -197452,7 +197452,7 @@ digraph {
     type=online
     state=active
     label="www.radioerzgebirge.de"
-    num_owners=410
+    num_owners=409
     num_owners_weighted=30.1117
     num_medias=0
     num_medias_weighted=0.0000
@@ -197488,7 +197488,7 @@ digraph {
     type=online
     state=active
     label="www.radiof.de"
-    num_owners=377
+    num_owners=376
     num_owners_weighted=12.3060
     num_medias=0
     num_medias_weighted=0.0000
@@ -197512,7 +197512,7 @@ digraph {
     type=online
     state=active
     label="www.radiogalaxy.de"
-    num_owners=577
+    num_owners=576
     num_owners_weighted=10.5143
     num_medias=0
     num_medias_weighted=0.0000
@@ -197560,7 +197560,7 @@ digraph {
     type=online
     state=active
     label="www.radiogong.de"
-    num_owners=355
+    num_owners=354
     num_owners_weighted=12.8693
     num_medias=0
     num_medias_weighted=0.0000
@@ -197716,7 +197716,7 @@ digraph {
     type=online
     state=active
     label="www.radiolausitz.de"
-    num_owners=414
+    num_owners=413
     num_owners_weighted=32.0884
     num_medias=0
     num_medias_weighted=0.0000
@@ -197728,7 +197728,7 @@ digraph {
     type=online
     state=active
     label="www.radioleipzig.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -197968,7 +197968,7 @@ digraph {
     type=online
     state=active
     label="www.radiopsr.de"
-    num_owners=894
+    num_owners=893
     num_owners_weighted=22.3192
     num_medias=0
     num_medias_weighted=0.0000
@@ -198052,7 +198052,7 @@ digraph {
     type=online
     state=active
     label="www.radiosaw.de"
-    num_owners=909
+    num_owners=908
     num_owners_weighted=24.1550
     num_medias=0
     num_medias_weighted=0.0000
@@ -198124,7 +198124,7 @@ digraph {
     type=online
     state=active
     label="www.radioteddy.de"
-    num_owners=366
+    num_owners=365
     num_owners_weighted=16.3320
     num_medias=0
     num_medias_weighted=0.0000
@@ -198148,7 +198148,7 @@ digraph {
     type=online
     state=active
     label="www.radiotop40.de"
-    num_owners=403
+    num_owners=402
     num_owners_weighted=30.0749
     num_medias=0
     num_medias_weighted=0.0000
@@ -198244,7 +198244,7 @@ digraph {
     type=online
     state=active
     label="www.radiozwickau.de"
-    num_owners=409
+    num_owners=408
     num_owners_weighted=19.6430
     num_medias=0
     num_medias_weighted=0.0000
@@ -198592,7 +198592,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=968
+    num_owners=967
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199324,7 +199324,7 @@ digraph {
     type=online
     state=active
     label="www.rockantenne.de"
-    num_owners=504
+    num_owners=503
     num_owners_weighted=16.7738
     num_medias=0
     num_medias_weighted=0.0000
@@ -199336,7 +199336,7 @@ digraph {
     type=online
     state=active
     label="www.rockantenne.hamburg"
-    num_owners=506
+    num_owners=505
     num_owners_weighted=13.4058
     num_medias=0
     num_medias_weighted=0.0000
@@ -199360,7 +199360,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=968
+    num_owners=967
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199396,7 +199396,7 @@ digraph {
     type=online
     state=active
     label="www.rockland.fm"
-    num_owners=909
+    num_owners=908
     num_owners_weighted=24.1550
     num_medias=0
     num_medias_weighted=0.0000
@@ -199576,7 +199576,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=968
+    num_owners=967
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199588,7 +199588,7 @@ digraph {
     type=online
     state=active
     label="www.rs2.de"
-    num_owners=893
+    num_owners=892
     num_owners_weighted=18.0104
     num_medias=0
     num_medias_weighted=0.0000
@@ -199612,7 +199612,7 @@ digraph {
     type=online
     state=active
     label="www.rsa-sachsen.de"
-    num_owners=895
+    num_owners=894
     num_owners_weighted=23.3192
     num_medias=0
     num_medias_weighted=0.0000
@@ -199624,7 +199624,7 @@ digraph {
     type=online
     state=active
     label="www.rsh.de"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -200560,7 +200560,7 @@ digraph {
     type=online
     state=active
     label="www.schlagerplanetradio.com"
-    num_owners=892
+    num_owners=891
     num_owners_weighted=29.9774
     num_medias=0
     num_medias_weighted=0.0000
@@ -203428,7 +203428,7 @@ digraph {
     type=online
     state=active
     label="www.sueddeutsche.de"
-    num_owners=254
+    num_owners=253
     num_owners_weighted=4.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -203512,7 +203512,7 @@ digraph {
     type=online
     state=active
     label="www.suedthueringer-zeitung.de"
-    num_owners=259
+    num_owners=258
     num_owners_weighted=6.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -203572,7 +203572,7 @@ digraph {
     type=online
     state=active
     label="www.sunshine-live.de"
-    num_owners=927
+    num_owners=926
     num_owners_weighted=16.4501
     num_medias=0
     num_medias_weighted=0.0000
@@ -203968,7 +203968,7 @@ digraph {
     type=online
     state=active
     label="www.sz-dossier.de"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -203980,7 +203980,7 @@ digraph {
     type=online
     state=active
     label="www.sz-magazin.de"
-    num_owners=253
+    num_owners=252
     num_owners_weighted=3.3922
     num_medias=0
     num_medias_weighted=0.0000
@@ -204580,7 +204580,7 @@ digraph {
     type=online
     state=active
     label="www.the-wolf.de"
-    num_owners=831
+    num_owners=830
     num_owners_weighted=21.1006
     num_medias=0
     num_medias_weighted=0.0000
@@ -204832,7 +204832,7 @@ digraph {
     type=online
     state=active
     label="www.top-fm.de"
-    num_owners=361
+    num_owners=360
     num_owners_weighted=13.2293
     num_medias=0
     num_medias_weighted=0.0000
@@ -205336,7 +205336,7 @@ digraph {
     type=online
     state=active
     label="www.tvbayernlive.de"
-    num_owners=457
+    num_owners=456
     num_owners_weighted=11.5721
     num_medias=0
     num_medias_weighted=0.0000
@@ -206932,7 +206932,7 @@ digraph {
     type=online
     state=active
     label="www.webradio.de"
-    num_owners=489
+    num_owners=488
     num_owners_weighted=15.5005
     num_medias=0
     num_medias_weighted=0.0000
@@ -208288,7 +208288,7 @@ digraph {
     type=online
     state=active
     label="www.wochenspiegel-thueringen.de"
-    num_owners=260
+    num_owners=259
     num_owners_weighted=7.6055
     num_medias=0
     num_medias_weighted=0.0000
@@ -208312,7 +208312,7 @@ digraph {
     type=online
     state=active
     label="www.wochenspiegel.digital"
-    num_owners=263
+    num_owners=262
     num_owners_weighted=10.6411
     num_medias=0
     num_medias_weighted=0.0000
@@ -208660,7 +208660,7 @@ digraph {
     type=online
     state=active
     label="www.ws-fz.de"
-    num_owners=260
+    num_owners=259
     num_owners_weighted=6.3667
     num_medias=0
     num_medias_weighted=0.0000
@@ -229009,10 +229009,6 @@ digraph {
     weight=1.37
     type=owns
   ];
-  4042 -> 5226 [
-    weight=26.5
-    type=owns
-  ];
   4048 -> 1410 [
     weight=100
     type=owns
@@ -234933,7 +234929,7 @@ digraph {
     weight=1
     type=owns
   ];
-  5197 -> 3010 [
+  5197 -> 5279 [
     weight=100
     type=owns
   ];

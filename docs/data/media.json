@@ -2989,7 +2989,7 @@
     "rfStatewide": false,
     "name": "Hohenloher Zeitung",
     "type": "print",
-    "controlDate": "2026-02-02T15:50:11.522Z",
+    "controlDate": "2026-05-12T15:17:24.471Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3009,7 +3009,7 @@
     "rfStatewide": false,
     "name": "Kraichgau Stimme",
     "type": "print",
-    "controlDate": "2025-11-04T11:34:11.783Z",
+    "controlDate": "2026-05-12T15:17:38.029Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3032,7 +3032,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:35:54.741Z",
+    "controlDate": "2026-05-12T15:18:20.526Z",
     "state": "active"
   },
   {
@@ -9836,7 +9836,7 @@
     "name": "www.laendle24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-04T11:29:29.420Z",
+    "controlDate": "2026-05-12T15:10:56.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13663,7 +13663,7 @@
     "rfStatewide": false,
     "name": "Haus & Grund",
     "type": "print",
-    "controlDate": "2025-10-30T12:28:37.721Z",
+    "controlDate": "2026-05-12T14:03:21.212Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21900,7 +21900,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:10:04.583Z",
+    "controlDate": "2026-05-12T14:52:09.773Z",
     "state": "active"
   },
   {
@@ -41109,7 +41109,7 @@
     "name": "www.hz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-04T11:26:51.011Z",
+    "controlDate": "2026-05-12T15:10:45.569Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47738,7 +47738,7 @@
     "name": "WirtschaftsStimme",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-04T11:34:34.150Z",
+    "controlDate": "2026-05-12T15:17:49.022Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84688,7 +84688,7 @@
     "rfStatewide": false,
     "name": "Armbanduhren",
     "type": "print",
-    "controlDate": "2025-11-04T11:07:36.321Z",
+    "controlDate": "2026-05-12T14:51:25.449Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84748,7 +84748,7 @@
     "rfStatewide": false,
     "name": "Heidenheimer Neue Presse",
     "type": "print",
-    "controlDate": "2026-02-02T15:41:59.509Z",
+    "controlDate": "2026-05-12T15:10:19.436Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84768,7 +84768,7 @@
     "rfStatewide": false,
     "name": "Heidenheimer Zeitung",
     "type": "print",
-    "controlDate": "2026-02-02T15:42:11.651Z",
+    "controlDate": "2026-05-12T15:10:32.634Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84788,7 +84788,7 @@
     "rfStatewide": false,
     "name": "Heilbronner Stimme",
     "type": "print",
-    "controlDate": "2025-11-04T11:33:41.969Z",
+    "controlDate": "2026-05-12T15:17:11.231Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108705,7 +108705,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:16:50.423Z",
+    "controlDate": "2026-05-12T15:37:28.416Z",
     "state": "active"
   },
   {
@@ -108723,7 +108723,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:16:01.295Z",
+    "controlDate": "2026-05-12T15:37:20.031Z",
     "state": "active"
   },
   {
@@ -115520,7 +115520,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:10:43.967Z",
+    "controlDate": "2026-05-12T14:52:26.212Z",
     "state": "active"
   },
   {
@@ -115535,7 +115535,7 @@
     "rfStatewide": false,
     "name": "Maranello World",
     "type": "print",
-    "controlDate": "2025-11-04T11:08:48.394Z",
+    "controlDate": "2026-05-12T14:52:02.693Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115556,7 +115556,7 @@
     "rfStatewide": false,
     "name": "MIXX Das Beste aus dem Thermomix",
     "type": "print",
-    "controlDate": "2025-11-04T11:08:10.590Z",
+    "controlDate": "2026-05-12T14:51:42.932Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -115580,7 +115580,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-04T11:10:15.825Z",
+    "controlDate": "2026-05-12T14:52:17.516Z",
     "state": "active"
   },
   {
@@ -116603,7 +116603,7 @@
     "rfStatewide": false,
     "name": "Bayerische Hausbesitzer-Zeitung",
     "type": "print",
-    "controlDate": "2025-10-30T12:27:13.743Z",
+    "controlDate": "2026-05-12T14:02:51.893Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -133858,7 +133858,7 @@
     "name": "www.crimeandinvestigation.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:53:42.201Z",
+    "controlDate": "2026-05-12T14:45:09.200Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140413,7 +140413,7 @@
     "name": "www.history.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:54:26.121Z",
+    "controlDate": "2026-05-12T14:45:17.607Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148683,7 +148683,7 @@
     "name": "Der Sonntag (Heilbronn)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-04T11:51:50.701Z",
+    "controlDate": "2026-05-12T15:16:59.513Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150325,7 +150325,7 @@
     "name": "www.heidelberg24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:43:08.375Z",
+    "controlDate": "2026-05-12T14:17:43.215Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150845,7 +150845,7 @@
     "name": "www.mannheim24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:43:38.122Z",
+    "controlDate": "2026-05-12T14:17:59.839Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150917,7 +150917,7 @@
     "name": "www.ludwigshafen24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:43:16.494Z",
+    "controlDate": "2026-05-12T14:17:50.900Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156028,7 +156028,7 @@
     "name": "Hamburger Grundeigentum",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-30T12:28:28.106Z",
+    "controlDate": "2026-05-12T14:03:13.233Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162854,7 +162854,7 @@
     "name": "www.kraichgau-stimme.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-04T11:35:40.981Z",
+    "controlDate": "2026-05-12T15:18:11.510Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163294,7 +163294,7 @@
     "name": "www.hohenloher-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-04T11:34:58.901Z",
+    "controlDate": "2026-05-12T15:18:00.831Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
