@@ -11731,7 +11731,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T09:48:34.756Z",
+    "controlDate": "2026-05-12T12:11:37.561Z",
     "state": "active"
   },
   {
@@ -13551,7 +13551,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T11:30:56.662Z",
+    "controlDate": "2026-05-12T13:16:10.915Z",
     "state": "active"
   },
   {
@@ -23806,7 +23806,7 @@
     "name": "www.haufe.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T12:07:04.679Z",
+    "controlDate": "2026-05-12T13:58:26.614Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42970,7 +42970,7 @@
     "name": "www.hallo-verlag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T10:07:52.193Z",
+    "controlDate": "2026-05-12T12:24:04.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43885,7 +43885,7 @@
     "name": "www.haanertreff.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T09:44:06.527Z",
+    "controlDate": "2026-05-12T12:06:28.450Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79986,7 +79986,7 @@
     "name": "www.hannover.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T11:38:03.822Z",
+    "controlDate": "2026-05-12T13:25:49.060Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83480,7 +83480,7 @@
     "name": "www.hamburg1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T12:02:58.024Z",
+    "controlDate": "2026-05-12T12:26:29.848Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84608,7 +84608,7 @@
     "rfStatewide": false,
     "name": "Hanauer Anzeiger",
     "type": "print",
-    "controlDate": "2025-10-30T11:28:44.545Z",
+    "controlDate": "2026-05-12T13:15:02.373Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95996,7 +95996,7 @@
     "rfStatewide": false,
     "name": "WirtschaftsWoche",
     "type": "print",
-    "controlDate": "2025-10-30T11:36:14.158Z",
+    "controlDate": "2026-05-12T13:19:58.219Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96017,7 +96017,7 @@
     "rfStatewide": false,
     "name": "Handelsblatt",
     "type": "print",
-    "controlDate": "2025-10-30T11:34:17.008Z",
+    "controlDate": "2026-05-12T13:19:26.585Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96040,7 +96040,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T11:36:25.532Z",
+    "controlDate": "2026-05-12T13:20:08.039Z",
     "state": "active"
   },
   {
@@ -96082,7 +96082,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T11:37:01.883Z",
+    "controlDate": "2026-05-12T13:20:24.940Z",
     "state": "active"
   },
   {
@@ -100212,7 +100212,7 @@
     "rfStatewide": false,
     "name": "econo",
     "type": "print",
-    "controlDate": "2025-10-30T09:47:50.526Z",
+    "controlDate": "2026-05-12T12:11:26.809Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104677,7 +104677,7 @@
     "rfStatewide": false,
     "name": "Handballwoche",
     "type": "print",
-    "controlDate": "2025-10-30T11:30:49.247Z",
+    "controlDate": "2026-05-12T13:16:03.963Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -120505,7 +120505,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T11:28:54.506Z",
+    "controlDate": "2026-05-12T13:15:08.987Z",
     "state": "active"
   },
   {
@@ -140948,7 +140948,7 @@
     "name": "www.karriere.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-30T11:36:35.017Z",
+    "controlDate": "2026-05-12T13:20:16.532Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
