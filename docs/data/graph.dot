@@ -7713,7 +7713,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5be1a6b6-c54b-4406-bde3-230c746b3f1f"
-    in_degree=4
+    in_degree=5
     out_degree=1
   ];
   643 [
@@ -27607,7 +27607,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=63
-    num_medias_weighted=3.3954
+    num_medias_weighted=3.9804
     name="644a3c7d-43d7-46ac-807c-5a742e478613"
     in_degree=1
     out_degree=1
@@ -41659,7 +41659,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0061
+    num_medias_weighted=0.0058
     name="6841560a-c2cf-42e2-a708-793b3637a099"
     in_degree=0
     out_degree=1
@@ -41671,7 +41671,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0061
+    num_medias_weighted=0.0058
     name="6841561a-4499-4a60-ad33-35595a3b2476"
     in_degree=0
     out_degree=1
@@ -59550,11 +59550,11 @@ digraph {
     label="Haarmann, Wolf-Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.3323
+    num_medias=2
+    num_medias_weighted=0.0360
     name="5be1a6b6-f75f-46c7-ba0b-d3f6d82041a4"
     in_degree=0
-    out_degree=3
+    out_degree=1
   ];
   4963 [
     type=shareholder
@@ -62311,7 +62311,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=63
-    num_medias_weighted=3.3954
+    num_medias_weighted=3.9804
     name="644a3c8a-21b2-44f0-9a65-c13aafe989f0"
     in_degree=1
     out_degree=1
@@ -64531,7 +64531,7 @@ digraph {
     num_owners=10
     num_owners_weighted=8.2000
     num_medias=36
-    num_medias_weighted=2.5047
+    num_medias_weighted=2.5048
     name="5ece622d-407b-4752-8c14-978522219ca4"
     in_degree=1
     out_degree=7
@@ -64603,7 +64603,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=2
-    num_medias_weighted=0.1000
+    num_medias_weighted=0.0952
     name="682c44d5-b571-4302-b426-4c4f87423279"
     in_degree=5
     out_degree=1
@@ -64674,11 +64674,11 @@ digraph {
     label="Hessischer Rundfunk (hr)"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=17
+    num_medias=19
     num_medias_weighted=17.0000
     name="5be1a6b6-702f-43a4-8d85-f61441c4dac6"
     in_degree=1
-    out_degree=17
+    out_degree=18
   ];
   5390 [
     type=shareholder
@@ -64710,11 +64710,11 @@ digraph {
     label="Hetzler, Julia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.3323
+    num_medias=2
+    num_medias_weighted=0.0360
     name="5be1a6b6-bfd3-4138-ad00-e71d6ae1a892"
     in_degree=0
-    out_degree=3
+    out_degree=1
   ];
   5393 [
     type=shareholder
@@ -65215,7 +65215,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0510
+    num_medias_weighted=0.0485
     name="68415655-c843-4afd-8499-0f283cf816f0"
     in_degree=2
     out_degree=1
@@ -72139,7 +72139,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0508
+    num_medias_weighted=0.0483
     name="68495857-8ca6-4a17-b884-fa929c939f0d"
     in_degree=0
     out_degree=1
@@ -85243,7 +85243,7 @@ digraph {
     num_owners=7
     num_owners_weighted=5.0000
     num_medias=63
-    num_medias_weighted=6.7908
+    num_medias_weighted=7.9608
     name="644a36fc-6bcf-4074-a8b5-83ad54441d66"
     in_degree=3
     out_degree=1
@@ -85255,7 +85255,7 @@ digraph {
     num_owners=3
     num_owners_weighted=1.0000
     num_medias=63
-    num_medias_weighted=27.1631
+    num_medias_weighted=31.8431
     name="644a36ea-ef7f-46ee-82d2-30afa172f946"
     in_degree=1
     out_degree=1
@@ -128337,7 +128337,7 @@ digraph {
     num_medias=29
     num_medias_weighted=0.0000
     name="5ec4fd1f-3bf4-4b8e-a256-1e46185ff8bc"
-    in_degree=6
+    in_degree=3
     out_degree=3
   ];
   10695 [
@@ -128346,11 +128346,11 @@ digraph {
     label="Rubens-Laarmann, Anne"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.8463
+    num_medias=2
+    num_medias_weighted=0.0917
     name="5be1a6b6-eb28-4491-8d3d-53dcb347cef3"
     in_degree=0
-    out_degree=3
+    out_degree=1
   ];
   10696 [
     type=shareholder
@@ -128611,7 +128611,7 @@ digraph {
     num_owners=9
     num_owners_weighted=3.4000
     num_medias=63
-    num_medias_weighted=33.9539
+    num_medias_weighted=39.8039
     name="5be1a6b6-14da-496b-bc44-539f1cb09793"
     in_degree=4
     out_degree=26
@@ -150667,7 +150667,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=63
-    num_medias_weighted=3.3954
+    num_medias_weighted=3.9804
     name="644a3f67-2fd2-4ad7-880b-0d416fca1471"
     in_degree=0
     out_degree=1
@@ -159642,11 +159642,11 @@ digraph {
     label="Verlag Lensing-Wolff GmbH & Co. KG"
     num_owners=12
     num_owners_weighted=5.4000
-    num_medias=14
+    num_medias=34
     num_medias_weighted=12.0212
     name="5be1a6b6-0e2b-4b2a-8b1f-59ef8c74ae48"
     in_degree=3
-    out_degree=14
+    out_degree=15
   ];
   13304 [
     type=shareholder
@@ -159654,7 +159654,7 @@ digraph {
     label="Verlag Lensing-Wolff Verwaltungsgesellschaft mbH"
     num_owners=12
     num_owners_weighted=6.4000
-    num_medias=14
+    num_medias=34
     num_medias_weighted=0.0000
     name="5ec4fe1a-1514-4536-8c3f-f0d2a5be9cf3"
     in_degree=1
@@ -162691,7 +162691,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0184
+    num_medias_weighted=0.0175
     name="6841563e-0d21-482f-bf7c-fa9fc15f847c"
     in_degree=0
     out_degree=1
@@ -162703,7 +162703,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0184
+    num_medias_weighted=0.0175
     name="6841562e-47bf-4d3b-80e6-5c6b9ff16b8a"
     in_degree=0
     out_degree=1
@@ -211161,7 +211161,7 @@ digraph {
     num_medias=28
     num_medias_weighted=10.8773
     name="5be1a6b6-cf69-4ed0-a3d0-55dbe01f0150"
-    in_degree=7
+    in_degree=5
     out_degree=8
   ];
   17597 [
@@ -234181,14 +234181,6 @@ digraph {
     weight=3
     type=owns
   ];
-  4962 -> 10694 [
-    weight=3
-    type=owns
-  ];
-  4962 -> 17596 [
-    weight=3
-    type=owns
-  ];
   4964 -> 9981 [
     weight=27
     type=owns
@@ -235970,7 +235962,7 @@ digraph {
     type=owns
   ];
   5383 -> 3316 [
-    weight=5
+    weight=4.76
     type=owns
   ];
   5386 -> 5491 [
@@ -235979,6 +235971,10 @@ digraph {
   ];
   5388 -> 5191 [
     weight=100
+    type=owns
+  ];
+  5389 -> 642 [
+    weight=3.5
     type=owns
   ];
   5389 -> 17521 [
@@ -236054,14 +236050,6 @@ digraph {
     type=owns
   ];
   5392 -> 10693 [
-    weight=3
-    type=owns
-  ];
-  5392 -> 10694 [
-    weight=3
-    type=owns
-  ];
-  5392 -> 17596 [
     weight=3
     type=owns
   ];
@@ -261173,14 +261161,6 @@ digraph {
     weight=7.64
     type=owns
   ];
-  10695 -> 10694 [
-    weight=7.64
-    type=owns
-  ];
-  10695 -> 17596 [
-    weight=7.64
-    type=owns
-  ];
   10696 -> 10693 [
     weight=30.36
     type=owns
@@ -272043,6 +272023,10 @@ digraph {
   ];
   13303 -> 13304 [
     weight=100
+    type=owns
+  ];
+  13303 -> 17596 [
+    weight=95
     type=owns
   ];
   13303 -> 2890 [

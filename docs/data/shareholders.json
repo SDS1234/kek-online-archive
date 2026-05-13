@@ -2922,7 +2922,7 @@
     "squuid": "605b0e23-76ef-4b04-86e0-5f27a90a2f99",
     "name": "Hellendoorn Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:34:37.135Z",
+    "controlDate": "2026-05-13T10:00:40.289Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -4114,7 +4114,7 @@
     "squuid": "63e4e21d-4bb2-4392-8a82-623979e460b3",
     "name": "Hero Medien GmbH",
     "state": "active",
-    "controlDate": "2025-11-05T15:43:29.271Z",
+    "controlDate": "2026-05-13T11:04:03.866Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -5876,7 +5876,7 @@
     "squuid": "5f8d7f04-d803-40b1-84e2-394641abaefc",
     "name": "Helmut Weber Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-10-30T09:43:30.241Z",
+    "controlDate": "2026-05-13T10:06:02.878Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16456,7 +16456,7 @@
     "squuid": "5be1a6b6-4f89-4dd8-a451-4c346bf4b9fa",
     "name": "HeronMedia Werbegesellschaft m.b.H.",
     "state": "active",
-    "controlDate": "2025-11-05T15:47:25.045Z",
+    "controlDate": "2026-05-13T11:08:21.115Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34445,7 +34445,7 @@
     "name": "Hellweg Radio Betriebsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-813a-45d8-9edf-a4f4a31319a3",
-    "controlDate": "2025-11-04T11:00:58.429Z",
+    "controlDate": "2026-05-13T10:04:49.913Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51176,7 +51176,7 @@
     "squuid": "5f0f1515-4238-4d61-8058-42b44c8d01b6",
     "name": "Hellweg Radio Betriebs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-04T11:00:50.254Z",
+    "controlDate": "2026-05-13T10:04:13.241Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52608,7 +52608,7 @@
     "squuid": "5f0f1699-4910-491d-9ecb-65316700d34d",
     "name": "Hellweg Presseholding Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-05-27T14:36:30.251Z",
+    "controlDate": "2026-05-13T10:01:17.185Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -77189,7 +77189,7 @@
     "squuid": "5be1a6b6-702f-43a4-8d85-f61441c4dac6",
     "name": "Hessischer Rundfunk (hr)",
     "state": "active",
-    "controlDate": "2020-06-30T13:56:49.566Z",
+    "controlDate": "2026-05-13T11:25:39.338Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -82089,9 +82089,9 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
     ],
@@ -92642,7 +92642,7 @@
     "squuid": "5eb02c7b-f462-475d-b4f8-26045727ec4b",
     "name": "Herbert Fleißig Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-05T13:16:31.653Z",
+    "controlDate": "2026-05-13T10:06:58.113Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -94355,7 +94355,7 @@
     "name": "Hermann Kuhn GmbH & Co. KG.",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ca33-458a-bf2d-b6ed99151936",
-    "controlDate": "2025-11-05T15:33:36.067Z",
+    "controlDate": "2026-05-13T10:15:11.452Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -103776,7 +103776,7 @@
     "squuid": "5eb2e6ba-84df-4fd1-b689-db8ccb1eca28",
     "name": "Hermann Elstermann GmbH",
     "state": "active",
-    "controlDate": "2025-11-05T15:22:15.144Z",
+    "controlDate": "2026-05-13T10:14:19.592Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -127495,12 +127495,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
       }
     ]
   },
@@ -133892,7 +133886,7 @@
     "squuid": "5be1a6b6-2fa3-4e68-a696-c5b3480667b2",
     "name": "Hellweg Presseholding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-05-27T14:36:39.100Z",
+    "controlDate": "2026-05-13T10:02:16.950Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -157574,7 +157568,7 @@
     "squuid": "5d398b0f-dc9f-4425-972d-33af010d8256",
     "name": "HG Holding GmbH",
     "state": "active",
-    "controlDate": "2025-11-06T09:11:02.182Z",
+    "controlDate": "2026-05-13T11:30:29.453Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -170540,9 +170534,9 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
+        "name": "LFM NRW",
+        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
     ]
@@ -174954,7 +174948,7 @@
     "squuid": "5ebbfbfc-1ac1-4259-87d4-ad64cd624e74",
     "name": "Heise Medien Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T11:13:31.272Z",
+    "controlDate": "2026-05-13T09:52:07.770Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -175098,7 +175092,7 @@
     "squuid": "5ebbfc8d-936a-482a-9115-5277fad1b998",
     "name": "Heise Gruppe Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T11:12:48.501Z",
+    "controlDate": "2026-05-13T09:48:11.337Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -176189,7 +176183,7 @@
     "squuid": "5ebbfd26-c989-49e5-95ba-60de98fed240",
     "name": "Heise Beteiligung Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T11:03:55.727Z",
+    "controlDate": "2026-05-13T09:46:45.113Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -198536,7 +198530,7 @@
     "squuid": "5d385b85-3ea0-4faa-9c04-bcf229bf3258",
     "name": "HELGE Immobilien GmbH & Co. KG ",
     "state": "active",
-    "controlDate": "2025-11-03T11:29:10.915Z",
+    "controlDate": "2026-05-13T09:57:24.108Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -203230,7 +203224,7 @@
     "squuid": "682c44d5-b571-4302-b426-4c4f87423279",
     "name": "Herzschlag Eintracht GmbH",
     "state": "active",
-    "controlDate": "2025-11-06T09:04:02.452Z",
+    "controlDate": "2026-05-13T11:22:30.181Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -216277,12 +216271,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
       }
     ]
   },
@@ -216295,12 +216283,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
     ]
@@ -233557,7 +233539,7 @@
     "squuid": "5be1a6b6-3657-4eee-a53d-ce2390c2c4e3",
     "name": "Heinrichs-Verlag gGmbH",
     "state": "active",
-    "controlDate": "2025-11-03T10:42:16.261Z",
+    "controlDate": "2026-05-13T09:32:34.736Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243151,7 +243133,7 @@
     "squuid": "5be1a6b6-ab7e-48fe-8e65-e7801311d8df",
     "name": "Heise Gruppe GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-11-03T11:10:36.513Z",
+    "controlDate": "2026-05-13T09:50:39.824Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -246900,7 +246882,7 @@
     "squuid": "5f042ee7-55bd-4d54-aae9-54297776b22f",
     "name": "Heitmann Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T11:28:09.129Z",
+    "controlDate": "2026-05-13T09:56:53.704Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253744,7 +253726,7 @@
     "squuid": "5be1a6b6-7b79-44fb-ab3e-a8b5fbb7008c",
     "name": "HiFi.de GmbH",
     "state": "active",
-    "controlDate": "2025-11-06T09:11:20.398Z",
+    "controlDate": "2026-05-13T11:30:45.322Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257340,7 +257322,7 @@
     "squuid": "5be1a6b6-5976-4b14-acd4-9473568f4fa1",
     "name": "Herder GmbH",
     "state": "active",
-    "controlDate": "2025-11-05T13:17:45.152Z",
+    "controlDate": "2026-05-13T10:08:55.482Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273731,7 +273713,7 @@
     "name": "Heise Medien GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-dea3-4150-8ba6-7e255764afee",
-    "controlDate": "2025-11-03T11:15:27.038Z",
+    "controlDate": "2026-05-13T09:52:15.626Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -280582,7 +280564,7 @@
     "squuid": "5be1a6b6-8648-44d6-8332-53de2f2f0afb",
     "name": "Herforder Kreisblatt Busse GmbH",
     "state": "active",
-    "controlDate": "2025-11-05T13:17:59.052Z",
+    "controlDate": "2026-05-13T10:09:57.845Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -293708,7 +293690,7 @@
     "squuid": "5be1a6b6-72b5-4b80-90aa-d86a471f3a3e",
     "name": "Heise Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-03T11:04:11.342Z",
+    "controlDate": "2026-05-13T09:47:50.220Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -301315,7 +301297,7 @@
     "squuid": "5ece622d-407b-4752-8c14-978522219ca4",
     "name": "Hersbrucker Zeitung GmbH Verlag und Medienservice",
     "state": "active",
-    "controlDate": "2025-11-05T15:54:35.335Z",
+    "controlDate": "2026-05-13T11:12:36.538Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304948,7 +304930,7 @@
     "squuid": "61df0148-a2f0-432b-8b6c-283ba50899ac",
     "name": "HELGE Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T11:29:04.616Z",
+    "controlDate": "2026-05-13T09:57:16.263Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
