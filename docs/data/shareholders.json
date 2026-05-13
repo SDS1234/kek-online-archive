@@ -17896,7 +17896,7 @@
     "squuid": "5be1a6b6-0b65-4b63-9f8e-e2036840f966",
     "name": "Historic Time Warner, Inc.",
     "state": "active",
-    "controlDate": "2025-11-07T10:26:35.417Z",
+    "controlDate": "2026-05-13T13:09:36.674Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -27317,7 +27317,7 @@
     "name": "HITZEROTH Druck + Medien GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-767f-45eb-ac1b-f21476624449",
-    "controlDate": "2025-11-11T11:28:15.151Z",
+    "controlDate": "2026-05-13T13:38:46.752Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27932,7 +27932,7 @@
     "squuid": "5be1a6b6-e79a-4eb6-a721-0a69e892e6e9",
     "name": "High View GmbH",
     "state": "active",
-    "controlDate": "2025-11-06T09:16:31.954Z",
+    "controlDate": "2026-05-13T12:06:56.113Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -33895,7 +33895,7 @@
     "squuid": "69383a4a-4138-476b-b09e-5136b333cde9",
     "name": "HL-Radio Betriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-09T15:08:22.401Z",
+    "controlDate": "2026-05-13T14:05:54.315Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49380,7 +49380,7 @@
     "squuid": "5be1a6b6-f658-46b1-9195-6a62234756bb",
     "name": "HITRADIO RTL Sachsen GmbH",
     "state": "active",
-    "controlDate": "2025-11-11T11:23:58.855Z",
+    "controlDate": "2026-05-13T13:29:50.634Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50537,7 +50537,7 @@
     "squuid": "5be1a6b6-0866-45c9-a7f0-6eaee52c93c9",
     "name": "Highlight Communications AG",
     "state": "active",
-    "controlDate": "2026-04-09T09:29:13.187Z",
+    "controlDate": "2026-05-13T12:59:24.726Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -52172,7 +52172,7 @@
     "squuid": "5be1a6b6-7179-4d1e-a276-e0773c9d9084",
     "name": "HITRADIO RT1 Südschwaben GmbH",
     "state": "active",
-    "controlDate": "2025-11-10T14:31:03.268Z",
+    "controlDate": "2026-05-13T13:20:30.563Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -75975,7 +75975,7 @@
     "squuid": "5be1a6b6-bebd-48b2-aa4d-f5997b1217f9",
     "name": "HITRADIO RT1 Augsburg GmbH",
     "state": "active",
-    "controlDate": "2025-11-10T13:49:27.400Z",
+    "controlDate": "2026-05-13T13:15:47.841Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -76538,7 +76538,7 @@
     "squuid": "5ee1f773-7680-4b1d-970e-dd6b5c2bdb82",
     "name": "Hitzeroth Druck + Medien Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-11T11:28:06.463Z",
+    "controlDate": "2026-05-13T13:37:37.788Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137960,7 +137960,7 @@
     "squuid": "5be1a6b6-3aee-49bd-b315-e946bc324a67",
     "name": "HITRADIO RT1 Nordschwaben OHG",
     "state": "active",
-    "controlDate": "2025-11-10T14:29:07.276Z",
+    "controlDate": "2026-05-13T13:20:03.286Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162695,6 +162695,19 @@
           "squuid": "63e0fb71-680b-4dfc-8c13-cd8a79398dc7",
           "name": "www.meinanzeiger.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a047c93-e3c6-4cae-8a64-b71fe3390563",
+    "name": "Erbengemeinschaft nach Michael Friemel (Kathleen Heidi Böhme, Michael Bert Friemel)",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -189708,7 +189721,7 @@
     "squuid": "5f198649-bfd6-42b9-a542-012cca9600d6",
     "name": "HITC Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-11-10T11:22:30.822Z",
+    "controlDate": "2026-05-13T13:10:48.499Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200043,7 +200056,7 @@
     "squuid": "5d3860d4-5636-4398-b78b-0635b216c39d",
     "name": "Himrich Familien GmbH",
     "state": "active",
-    "controlDate": "2025-11-07T09:51:18.627Z",
+    "controlDate": "2026-05-13T13:02:21.961Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210512,7 +210525,7 @@
     "squuid": "5be1a6b6-dc75-4623-85b7-a8889e837411",
     "name": "HKM Medien GmbH",
     "state": "active",
-    "controlDate": "2025-11-11T11:33:51.598Z",
+    "controlDate": "2026-05-13T13:41:58.788Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -222980,7 +222993,7 @@
     "name": "Hoehl-Druck GmbH & Co Hersfelder Zeitung KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-69ec-412f-b770-f717c01aa177",
-    "controlDate": "2025-11-12T13:31:38.512Z",
+    "controlDate": "2026-05-13T14:15:00.281Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -232213,7 +232226,7 @@
     "squuid": "5ee245d9-6d06-40b0-83fc-efc25f5c4176",
     "name": "Hinnerwisch & Schmidt GmbH",
     "state": "active",
-    "controlDate": "2025-11-07T10:10:57.085Z",
+    "controlDate": "2026-05-13T13:05:30.314Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258646,7 +258659,7 @@
     "squuid": "68415655-c843-4afd-8499-0f283cf816f0",
     "name": "Hillcrest Familienholding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-06-11T10:17:29.453Z",
+    "controlDate": "2026-05-13T13:01:28.595Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -273872,7 +273885,7 @@
     "squuid": "5be1a6b6-171e-4701-9f8f-4ecd1db2a89f",
     "name": "Highlight Event and Entertainment AG",
     "state": "active",
-    "controlDate": "2025-11-07T09:44:10.717Z",
+    "controlDate": "2026-05-13T12:59:48.783Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -286029,7 +286042,7 @@
     "squuid": "5be1a6b6-7f88-4cae-97e2-965e97a988c6",
     "name": "HIM Holtzbrinck 22 GmbH",
     "state": "active",
-    "controlDate": "2025-11-07T09:51:04.194Z",
+    "controlDate": "2026-05-13T13:01:59.595Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -286630,7 +286643,7 @@
     "squuid": "5be1a6b6-b6ba-4844-a3d4-0a3c3e6dc4a5",
     "name": "Hinz&Kunzt gemeinnützige Verlags- und Vertriebs GmbH",
     "state": "active",
-    "controlDate": "2025-11-07T10:21:28.560Z",
+    "controlDate": "2026-05-13T13:07:05.510Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292552,7 +292565,7 @@
     "squuid": "5be1a6b6-605a-438a-83f7-b251754c47d4",
     "name": "Hitradio MS One Programmanbieter GmbH",
     "state": "active",
-    "controlDate": "2025-11-10T11:26:54.585Z",
+    "controlDate": "2026-05-13T13:11:25.988Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
