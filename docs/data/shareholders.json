@@ -66491,7 +66491,7 @@
     "squuid": "62bd9059-f1a8-4a94-aead-06e1e4a72926",
     "name": "Holderstock Media GmbH",
     "state": "active",
-    "controlDate": "2025-11-12T13:38:46.739Z",
+    "controlDate": "2026-05-13T14:37:16.926Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -131061,7 +131061,7 @@
     "squuid": "5be1a6b6-f351-497b-bc2b-4a8d2c95f02a",
     "name": "Holding der Landeshauptstadt Düsseldorf GmbH",
     "state": "active",
-    "controlDate": "2025-11-12T13:43:21.219Z",
+    "controlDate": "2026-05-13T14:41:58.517Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -141894,7 +141894,7 @@
     "squuid": "5f105f1c-aa56-444e-8d09-8fcf4ec1c5d6",
     "name": "Holding für Versorgung und Verkehr GmbH Bochum",
     "state": "active",
-    "controlDate": "2025-11-12T13:43:42.922Z",
+    "controlDate": "2026-05-13T14:42:11.403Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163488,6 +163488,19 @@
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e",
+    "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -221084,7 +221097,7 @@
     "squuid": "5d35cbb0-932a-4aed-9554-ec09fb9323c2",
     "name": "Hoepfner Bräu Friedrich Hoepfner Verwaltungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-12T13:35:05.937Z",
+    "controlDate": "2026-05-13T14:19:59.290Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -257086,7 +257099,7 @@
     "squuid": "5be1a6b6-f21a-4ca2-b515-21a06d8d34ab",
     "name": "Hoheliethe Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-12T13:38:22.169Z",
+    "controlDate": "2026-05-13T14:35:13.663Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300470,7 +300483,7 @@
     "squuid": "5f3bf24a-9d74-45bc-ac4f-907f869d3183",
     "name": "Hoepfner Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-12T13:35:15.553Z",
+    "controlDate": "2026-05-13T14:27:30.791Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
