@@ -14946,7 +14946,7 @@
     "squuid": "5be1a6b6-8648-48ef-80fd-95a81989ad79",
     "name": "Heinrich Delp GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T10:38:08.408Z",
+    "controlDate": "2026-05-13T09:22:15.729Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57407,71 +57407,6 @@
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-3f69-48af-8c99-199c65750da4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7b3e-44f4-831a-d90455b3a821",
-          "name": "Kölnische Rundschau"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-a8ef-44fc-bfca-70622460496e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-9975-4180-bdc7-7523ed11ac3b",
-          "name": "www.rundschau-online.de"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-2ee2-4928-97d2-63217f843fb2",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-10d9-42c6-9b4b-83c46f19b0a9",
-          "name": "Bergische Landeszeitung"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-3682-4100-bc68-3cc706a7cbd7",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5a15-44c2-bd6f-012404c2189a",
-          "name": "Oberbergische Volkszeitung"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-0303-4d71-add1-3d2400d215da",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-e0e7-4ae1-bf35-977bdf77dd74",
-          "name": "Rhein-Erft-Rundschau"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-28a8-483f-b6aa-a5e77b080337",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-0db1-42cb-b32c-e0bae88ae498",
-          "name": "Rhein-Sieg-Rundschau"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-10d7-4045-b8d4-0c2c7dadb7e1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-9e45-4944-8ab7-2ee45ee4731a",
-          "name": "Bonner Rundschau"
-        }
-      }
     ]
   },
   {
@@ -92170,7 +92105,7 @@
     "name": "Heinrich Bauer Verlag KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-67b7-4589-bbfc-4b048b7eebc2",
-    "controlDate": "2025-11-03T10:26:00.164Z",
+    "controlDate": "2026-05-13T09:17:00.371Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -94231,7 +94166,7 @@
     "squuid": "5be1a6b6-2104-420c-86af-351f3b8f4b0d",
     "name": "Heinr. Kip GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-11-03T10:10:50.890Z",
+    "controlDate": "2026-05-13T09:15:19.483Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -95457,7 +95392,7 @@
     "name": "Heinrich Rüttgerodt GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2158-40cc-b11e-3da6a8b84b46",
-    "controlDate": "2025-11-03T10:38:51.602Z",
+    "controlDate": "2026-05-13T09:28:31.273Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -165343,7 +165278,7 @@
     "squuid": "605338c9-3017-46c0-b0b7-e152f814821c",
     "name": "Heinevetter & Co. GmbH",
     "state": "active",
-    "controlDate": "2025-11-04T11:20:48.892Z",
+    "controlDate": "2026-05-13T09:13:23.686Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218828,7 +218763,7 @@
     "squuid": "5be1a6b6-d453-4e56-984c-454d990cc291",
     "name": "Heinrich Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-03T10:33:12.028Z",
+    "controlDate": "2026-05-13T09:21:10.776Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

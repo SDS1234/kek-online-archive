@@ -14025,7 +14025,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-10d9-42c6-9b4b-83c46f19b0a9"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   1169 [
@@ -18129,7 +18129,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9e45-4944-8ab7-2ee45ee4731a"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   1511 [
@@ -20599,7 +20599,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1954
+    num_medias_weighted=0.1932
     name="5be1a6b6-8618-4929-88e1-748cf6eb922e"
     in_degree=0
     out_degree=1
@@ -35995,7 +35995,7 @@ digraph {
     num_owners=23
     num_owners_weighted=22.0000
     num_medias=58
-    num_medias_weighted=13.7582
+    num_medias_weighted=13.6035
     name="5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
     in_degree=22
     out_degree=4
@@ -36007,7 +36007,7 @@ digraph {
     num_owners=24
     num_owners_weighted=23.0000
     num_medias=58
-    num_medias_weighted=13.7582
+    num_medias_weighted=13.6035
     name="5be1a6b6-34ef-45b6-9fef-9ac918a32345"
     in_degree=1
     out_degree=1
@@ -36031,7 +36031,7 @@ digraph {
     num_owners=26
     num_owners_weighted=25.0000
     num_medias=58
-    num_medias_weighted=13.7582
+    num_medias_weighted=13.6035
     name="5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
     in_degree=2
     out_degree=13
@@ -36067,7 +36067,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=2.4765
+    num_medias_weighted=2.4486
     name="5be1a6b6-7f77-4f7b-975f-a4787e195a69"
     in_degree=0
     out_degree=3
@@ -36079,7 +36079,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0688
+    num_medias_weighted=0.0680
     name="60783adc-5613-4c82-ba89-f6cc83e64b38"
     in_degree=0
     out_degree=1
@@ -36091,7 +36091,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0688
+    num_medias_weighted=0.0680
     name="60783aef-d8ea-421f-987e-a3b7a29bce4a"
     in_degree=0
     out_degree=1
@@ -36103,7 +36103,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0688
+    num_medias_weighted=0.0680
     name="60783b05-6ad9-4c94-a24b-c2f689000d0a"
     in_degree=0
     out_degree=1
@@ -38862,8 +38862,8 @@ digraph {
     label="Eigenbesitz der Heinen-Verlag GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.4332
+    num_medias=22
+    num_medias_weighted=0.1833
     name="61791115-f415-4441-ae1c-31059be9c7a2"
     in_degree=0
     out_degree=1
@@ -42343,7 +42343,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5957
+    num_medias_weighted=0.5890
     name="5be1a6b6-4ee9-4380-a8fb-f26ae41306b3"
     in_degree=0
     out_degree=1
@@ -63066,8 +63066,8 @@ digraph {
     label="Heinen, Helmut"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=5.3472
+    num_medias=22
+    num_medias_weighted=2.2623
     name="5be1a6b6-672e-4de5-9df3-f6d1d7890c22"
     in_degree=0
     out_degree=2
@@ -63078,8 +63078,8 @@ digraph {
     label="Heinen, Johannes"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.0097
+    num_medias=22
+    num_medias_weighted=0.0041
     name="5be1a6b6-a285-4998-8fff-d96eb202a0a3"
     in_degree=0
     out_degree=1
@@ -63090,8 +63090,8 @@ digraph {
     label="Heinen, Matthias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=29
-    num_medias_weighted=0.0097
+    num_medias=22
+    num_medias_weighted=0.0041
     name="5be1a6b6-0f22-4954-bbcb-35360bc22761"
     in_degree=0
     out_degree=1
@@ -63126,11 +63126,11 @@ digraph {
     label="Heinen-Verlag GmbH"
     num_owners=33
     num_owners_weighted=4.2964
-    num_medias=29
-    num_medias_weighted=12.1225
+    num_medias=22
+    num_medias_weighted=5.1225
     name="5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
     in_degree=6
-    out_degree=12
+    out_degree=5
   ];
   5261 [
     type=shareholder
@@ -81549,7 +81549,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7b3e-44f4-831a-d90455b3a821"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   6796 [
@@ -81558,8 +81558,8 @@ digraph {
     label="Kölnische Verlagsdruckerei GmbH"
     num_owners=33
     num_owners_weighted=5.4471
-    num_medias=29
-    num_medias_weighted=6.0668
+    num_medias=22
+    num_medias_weighted=2.5668
     name="5be1a6b6-de39-4a11-9404-927d9956f6d6"
     in_degree=3
     out_degree=1
@@ -91579,7 +91579,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1720
+    num_medias_weighted=0.1700
     name="5be1a6b6-3eeb-46fb-b844-0a2815b66259"
     in_degree=0
     out_degree=1
@@ -103075,7 +103075,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.2752
+    num_medias_weighted=0.2721
     name="5be1a6b6-ac7b-4e63-a2c2-988dbc5d89fe"
     in_degree=0
     out_degree=1
@@ -103111,7 +103111,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=3.4230
+    num_medias_weighted=3.3845
     name="5be1a6b6-351c-4df6-87c8-7ac43baaf472"
     in_degree=0
     out_degree=3
@@ -103123,7 +103123,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.4953
+    num_medias_weighted=0.4897
     name="60783b29-fde7-4306-ad55-6e22d56e8a96"
     in_degree=0
     out_degree=1
@@ -103135,7 +103135,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1376
+    num_medias_weighted=0.1360
     name="5be1a6b6-571c-455b-b26c-c138d1f18421"
     in_degree=0
     out_degree=1
@@ -103147,7 +103147,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0688
+    num_medias_weighted=0.0680
     name="671b8675-dadf-4baa-afe9-469d1e80ed4c"
     in_degree=0
     out_degree=1
@@ -103159,7 +103159,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.4953
+    num_medias_weighted=0.4897
     name="60783b3f-6791-4311-b305-bb21653784d3"
     in_degree=0
     out_degree=1
@@ -105945,7 +105945,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5a15-44c2-bd6f-012404c2189a"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   8829 [
@@ -106255,7 +106255,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1376
+    num_medias_weighted=0.1360
     name="60783b60-5221-41d6-a8b4-c9251f495c70"
     in_degree=0
     out_degree=1
@@ -106267,7 +106267,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0688
+    num_medias_weighted=0.0680
     name="66586a8a-6533-4daf-906c-017ec4f9358f"
     in_degree=0
     out_degree=1
@@ -124449,7 +124449,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e0e7-4ae1-bf35-977bdf77dd74"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   10371 [
@@ -124605,7 +124605,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0db1-42cb-b32c-e0bae88ae498"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   10384 [
@@ -132499,7 +132499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1720
+    num_medias_weighted=0.1700
     name="5be1a6b6-0dfd-4ad0-8c76-926bcaf30540"
     in_degree=0
     out_degree=1
@@ -136435,7 +136435,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5957
+    num_medias_weighted=0.5890
     name="5be1a6b6-fd7a-4a95-8145-bcac5d84a298"
     in_degree=0
     out_degree=1
@@ -136459,7 +136459,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5957
+    num_medias_weighted=0.5890
     name="5be1a6b6-805b-42ad-9b26-d434423ae28a"
     in_degree=0
     out_degree=1
@@ -161323,7 +161323,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=2.2701
+    num_medias_weighted=2.2446
     name="5be1a6b6-76e3-4763-801f-0d7c9feb9535"
     in_degree=0
     out_degree=1
@@ -161335,7 +161335,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1376
+    num_medias_weighted=0.1360
     name="5be1a6b6-31a0-4956-ab44-e22a5a112be1"
     in_degree=0
     out_degree=1
@@ -161347,7 +161347,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.9975
+    num_medias_weighted=0.9863
     name="66586aa2-fc9e-41ab-a37e-a380081fba87"
     in_degree=0
     out_degree=1
@@ -199977,7 +199977,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9975-4180-bdc7-7523ed11ac3b"
-    in_degree=3
+    in_degree=2
     out_degree=0
   ];
   16665 [
@@ -235240,34 +235240,6 @@ digraph {
   5260 -> 2890 [
     weight=1
     type=owns
-  ];
-  5260 -> 1168 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 1510 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 6795 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 8828 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 10370 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 10383 [
-    weight=100
-    type=operates
-  ];
-  5260 -> 16664 [
-    weight=100
-    type=operates
   ];
   5261 -> 5699 [
     weight=1
