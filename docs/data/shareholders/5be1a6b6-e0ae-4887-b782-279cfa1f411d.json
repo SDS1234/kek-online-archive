@@ -1541,6 +1541,15 @@
       },
       "squuid": "6a05d17e-a931-4333-b1d0-ec3e73fd8299",
       "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "DAZ am Sonntag",
+        "squuid": "6a05e708-debc-471e-995d-59add9ca8fbc"
+      },
+      "squuid": "6a05e785-7b5d-446e-a813-ed36e7de167b",
+      "state": "active"
     }
   ],
   "credits": "IJK",

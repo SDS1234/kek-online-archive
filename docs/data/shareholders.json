@@ -272982,6 +272982,33 @@
           "squuid": "5be1a6b1-0a0b-42ac-b845-1914e17d572f",
           "name": "www.dnn.de"
         }
+      },
+      {
+        "squuid": "6a05e779-1c87-4a34-9240-abd6a492fef0",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05e708-debc-471e-995d-59add9ca8fbc",
+          "name": "DAZ am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05e84f-94e0-400e-bb5f-841d9e0dd2e6",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-13f6-4a3e-9941-546938f0b7ca",
+          "name": "Döbelner Allgemeine Zeitung"
+        }
+      },
+      {
+        "squuid": "6a05e86e-00ab-4aac-b0ef-4f85be2daa60",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "65bd0f83-e9c7-47d5-ad9f-74dbaedc1355",
+          "name": "www.doebelner-allgemeine-zeitung.de"
+        }
       }
     ]
   },
@@ -275397,33 +275424,14 @@
   {
     "squuid": "66910c03-0e27-46ab-b9ca-2c6ecebc3606",
     "name": "Döbelner Medien GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-04-30T13:44:02.895Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "66910c61-17cc-4598-8e39-b17b2896a5f8",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-13f6-4a3e-9941-546938f0b7ca",
-          "name": "Döbelner Allgemeine Zeitung"
-        }
-      },
-      {
-        "squuid": "66914bcf-e14b-45e5-94b3-68d697cc54ad",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "65bd0f83-e9c7-47d5-ad9f-74dbaedc1355",
-          "name": "www.doebelner-allgemeine-zeitung.de"
-        }
       }
     ]
   },
@@ -277787,6 +277795,15 @@
         "held": {
           "squuid": "5be1a6b1-6de4-4f88-9c70-87df22790d79",
           "name": "Naumburger Tageblatt"
+        }
+      },
+      {
+        "squuid": "6a05e785-7b5d-446e-a813-ed36e7de167b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05e708-debc-471e-995d-59add9ca8fbc",
+          "name": "DAZ am Sonntag"
         }
       }
     ]
