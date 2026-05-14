@@ -27026,6 +27026,33 @@
           "squuid": "65e1bb3d-c265-4892-82f9-762fab85dea8",
           "name": "www.suedthueringer-zeitung.de"
         }
+      },
+      {
+        "squuid": "6a05dfd5-b75d-41d6-9040-a795dd562684",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05defa-4ff9-4063-b00b-a18dfe090d59",
+          "name": "Freies Wort am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05e013-3699-44f5-865e-0478eb6fca48",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05df22-062b-4e11-9b0b-ab5d8bf26466",
+          "name": "Südthüringer Zeitung am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05e053-301c-4a52-b56b-1d7ce93b6213",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05df0f-7b03-473d-9c46-f5baf8a952cd",
+          "name": "Meininger Tageblatt am Sonntag"
+        }
       }
     ]
   },
@@ -44373,6 +44400,69 @@
         "held": {
           "squuid": "69fb0e77-5fb9-4f02-97f9-423d2f606019",
           "name": "Frankenpost am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05ddf2-5160-4940-b4df-eaefd98a9516",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05dd8a-970f-491c-82bb-35c6d5e533e8",
+          "name": "Kurier am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05de52-1871-4828-b66d-d067a3637e57",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-2ef9-454a-8f55-fd2a5a461dfe",
+          "name": "Freies Wort"
+        }
+      },
+      {
+        "squuid": "6a05df93-d411-42e2-a8ea-2a9ab26d79ad",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-224f-49a9-a65f-9c81e2f25a07",
+          "name": "Meininger Tageblatt"
+        }
+      },
+      {
+        "squuid": "6a05dfa8-cff5-45bc-ab32-968935f14824",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-ea0d-4399-8f41-4fce74159509",
+          "name": "stz Südthüringer Zeitung"
+        }
+      },
+      {
+        "squuid": "6a05dfea-975d-4187-adaa-e0ca69e4e9b3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05defa-4ff9-4063-b00b-a18dfe090d59",
+          "name": "Freies Wort am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05e01e-1d0a-48bd-ae8f-3ee0fefc71ca",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05df22-062b-4e11-9b0b-ab5d8bf26466",
+          "name": "Südthüringer Zeitung am Sonntag"
+        }
+      },
+      {
+        "squuid": "6a05e05e-a132-464e-b5e9-df19949a4041",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05df0f-7b03-473d-9c46-f5baf8a952cd",
+          "name": "Meininger Tageblatt am Sonntag"
         }
       }
     ]
@@ -182638,6 +182728,15 @@
           "squuid": "65ce16b1-f9d6-4914-9bbc-58431b95383c",
           "name": "www.nordbayerischer-kurier.de"
         }
+      },
+      {
+        "squuid": "6a05dde8-ddec-4582-90b3-82bd8d3b38c3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05dd8a-970f-491c-82bb-35c6d5e533e8",
+          "name": "Kurier am Sonntag"
+        }
       }
     ]
   },
@@ -235632,6 +235731,15 @@
           "squuid": "65cb5184-ed5f-439c-9b8f-807a4369517a",
           "name": "www.meininger-tageblatt.de"
         }
+      },
+      {
+        "squuid": "6a05e048-b7ad-4114-b628-9a488bce8c28",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a05df0f-7b03-473d-9c46-f5baf8a952cd",
+          "name": "Meininger Tageblatt am Sonntag"
+        }
       }
     ]
   },
@@ -277490,6 +277598,195 @@
         "held": {
           "squuid": "5be1a6b1-7fdc-4599-929b-e4b334a01ce1",
           "name": "Gießener Anzeiger"
+        }
+      },
+      {
+        "squuid": "6a05cd0f-3674-4127-9017-7f5d0dc29572",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-c47a-4cf2-8f64-f1f6583ec990",
+          "name": "Magdeburger Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cd32-da69-48d4-bbf1-ba5f8e764481",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-3f27-47d1-88a9-98b78da08fd9",
+          "name": "Burger Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cd50-8bdb-40f4-b55b-62d3b8798add",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-f8d0-4251-bb2a-418652791028",
+          "name": "Gardelegener Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cd7b-9f93-4310-85ae-cbcf042117e3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5f41-433f-b692-d37dbe6efed3",
+          "name": "Genthiner Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cd98-4693-4289-8525-0c2bcd2c9395",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-c95a-487c-a23c-de651fbd969d",
+          "name": "Halberstädter Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cdb8-8b81-405b-b223-0f5d9b541092",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-8b9d-4c94-bee9-e486ca601313",
+          "name": "Haldensleber Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cdda-a913-4f13-9f02-345d13f6ae78",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-766d-40ff-af3e-55b1d07517c6",
+          "name": "Harzer Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cdf9-4399-46ec-a518-1a9aafe42fbc",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-aa69-460e-bed8-990bd0f6ff50",
+          "name": "Havelberger Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05ce1e-cada-4a29-9475-5719679449ea",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5c19-41be-b126-184a1b3751c5",
+          "name": "Klötzer Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05ce41-1abf-4179-ae6a-8db88a7fd7a4",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-bed2-4435-898b-f73869cbe444",
+          "name": "Oschersleber Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05ce65-b2d7-4476-a184-2f03a141594b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7b43-47ab-830a-57e9c7d88dd5",
+          "name": "Osterburger Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cf76-eb8d-4764-b786-6231d63b6628",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-10a4-4761-bda4-d11171fcd0d3",
+          "name": "Salzwedeler Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cf95-5dd4-474a-b457-1edd005291d5",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-e0aa-4fd3-9f02-2e3288107a23",
+          "name": "Schönebecker Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cfb3-7e27-40a3-b3eb-22b9be8d8377",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-5941-4c96-b003-d33e9a039ea2",
+          "name": "Staßfurter Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cfd1-e00a-4b26-a731-f22d4fcc4878",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6bab-41db-9b6b-adfb00f21bc9",
+          "name": "Stendaler Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05cfee-040b-418c-aff6-d35457ae1d0d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-4ca2-40a2-84e5-f99b6a486f3a",
+          "name": "Wanzleber Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05d00b-3c35-458a-a805-28a17b9bf78d",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-0cb0-4a59-9bce-26edefa19e41",
+          "name": "Wolmirstädter Volkstimme"
+        }
+      },
+      {
+        "squuid": "6a05d02d-3f92-47ed-9151-09b4fee73e50",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-78d1-46f2-a36a-9464f9be82fb",
+          "name": "Zerbster Volksstimme"
+        }
+      },
+      {
+        "squuid": "6a05d0ea-0ce7-4d1f-8c75-3173516bf9ec",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7f0e-4d39-9d5d-1e9a850f7dc2",
+          "name": "Mitteldeutsche Zeitung"
+        }
+      },
+      {
+        "squuid": "6a05d10a-32d4-45ab-a937-2bc62199c919",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-75e6-4a69-aa95-fbc4f68ffe77",
+          "name": "Mitteldeutsche Zeitung (Ausgabe Nebra)"
+        }
+      },
+      {
+        "squuid": "6a05d17e-a931-4333-b1d0-ec3e73fd8299",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-6de4-4f88-9c70-87df22790d79",
+          "name": "Naumburger Tageblatt"
         }
       }
     ]

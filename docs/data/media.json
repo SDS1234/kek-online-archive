@@ -90870,6 +90870,25 @@
     }
   },
   {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "6a05dd8a-970f-491c-82bb-35c6d5e533e8",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Kurier am Sonntag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-05-14T14:34:56.817Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
     "pressPublishingIntervals": 13,
     "state": "active",
     "squuid": "5be1a6b1-a8ae-43a2-b2a4-36a676c0a66d",
@@ -91543,6 +91562,25 @@
   {
     "pressPublishingIntervals": 52,
     "state": "active",
+    "squuid": "6a05df0f-7b03-473d-9c46-f5baf8a952cd",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Meininger Tageblatt am Sonntag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-05-14T14:45:58.993Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
     "squuid": "5be1a6b1-e799-47d6-87f9-7bb03336f72d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91580,6 +91618,25 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "6a05defa-4ff9-4063-b00b-a18dfe090d59",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Freies Wort am Sonntag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-05-14T14:44:03.746Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
     }
   },
   {
@@ -91685,6 +91742,25 @@
       "type": "organization"
     },
     "pressKind": "Kinder"
+  },
+  {
+    "pressPublishingIntervals": 52,
+    "state": "active",
+    "squuid": "6a05df22-062b-4e11-9b0b-ab5d8bf26466",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Südthüringer Zeitung am Sonntag",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-05-14T14:45:06.851Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
   },
   {
     "pressPublishingIntervals": 4,
