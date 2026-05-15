@@ -10744,7 +10744,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-13T09:50:00.455Z",
+    "controlDate": "2026-05-15T08:21:54.830Z",
     "state": "active"
   },
   {
@@ -10762,7 +10762,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-13T09:50:10.360Z",
+    "controlDate": "2026-05-15T08:22:03.438Z",
     "state": "active"
   },
   {
@@ -15530,7 +15530,7 @@
     "name": "www.xplore-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-13T10:09:25.070Z",
+    "controlDate": "2026-05-15T09:37:16.896Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37854,7 +37854,7 @@
     "name": "www.bergblick-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-13T10:08:04.765Z",
+    "controlDate": "2026-05-15T09:37:06.844Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80693,7 +80693,7 @@
     "rfStatewide": false,
     "name": "Der Westallgäuer",
     "type": "print",
-    "controlDate": "2026-04-09T08:36:16.657Z",
+    "controlDate": "2026-05-15T08:11:21.173Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85061,7 +85061,7 @@
     "rfStatewide": false,
     "name": "handwerk magazin",
     "type": "print",
-    "controlDate": "2025-11-13T09:49:51.852Z",
+    "controlDate": "2026-05-15T08:20:43.328Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85082,7 +85082,7 @@
     "rfStatewide": false,
     "name": "Deutsche Handwerks Zeitung",
     "type": "print",
-    "controlDate": "2025-11-13T09:49:40.474Z",
+    "controlDate": "2026-05-15T08:20:34.689Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105391,7 +105391,7 @@
     "name": "www.hse.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-13T09:54:28.449Z",
+    "controlDate": "2026-05-15T09:09:55.053Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129266,7 +129266,7 @@
     "name": "www.westallgaeuer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:42:41.148Z",
+    "controlDate": "2026-05-15T08:11:40.232Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140146,7 +140146,7 @@
     "name": "www.meintophotel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-13T09:50:18.843Z",
+    "controlDate": "2026-05-15T08:22:09.326Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147759,7 +147759,7 @@
     "name": "www.hope-media.eu",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-13T09:55:25.753Z",
+    "controlDate": "2026-05-15T09:13:23.128Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

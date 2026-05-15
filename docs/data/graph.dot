@@ -67003,7 +67003,7 @@ digraph {
     num_owners=4
     num_owners_weighted=4.0000
     num_medias=30
-    num_medias_weighted=0.0037
+    num_medias_weighted=0.0039
     name="684984be-a267-4e90-be3b-593ed182fdf6"
     in_degree=4
     out_degree=1
@@ -67951,7 +67951,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=32
-    num_medias_weighted=0.4007
+    num_medias_weighted=0.4008
     name="683706a1-ead4-4669-927c-32733735cd18"
     in_degree=0
     out_degree=3
