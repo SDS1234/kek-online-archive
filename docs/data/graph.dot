@@ -13135,7 +13135,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=17
-    num_medias_weighted=6.7716
+    num_medias_weighted=6.8216
     name="5c4ed8d9-bd8b-4af4-871b-7d18deb24188"
     in_degree=0
     out_degree=1
@@ -13207,7 +13207,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=17
-    num_medias_weighted=3.3858
+    num_medias_weighted=3.4108
     name="5c4ed8e4-c34b-4f72-96f0-671bea0acd3a"
     in_degree=0
     out_degree=1
@@ -59323,7 +59323,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=17
-    num_medias_weighted=3.3858
+    num_medias_weighted=3.4108
     name="5c4ed8ed-b0d7-4674-9e19-8d21b9633a31"
     in_degree=0
     out_degree=1
@@ -71143,7 +71143,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=4
-    num_medias_weighted=1.3872
+    num_medias_weighted=1.4872
     name="680b51e3-f330-4173-9b84-a97c05cd0f31"
     in_degree=2
     out_degree=1
@@ -238486,7 +238486,7 @@ digraph {
     type=owns
   ];
   5928 -> 7284 [
-    weight=68
+    weight=72.9
     type=owns
   ];
   5929 -> 5930 [
