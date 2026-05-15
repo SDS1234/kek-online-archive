@@ -68837,7 +68837,7 @@ digraph {
     state=active
     label="Hörfunk Burgkirchen-Mühldorf Betriebsgesellschaft mbH"
     num_owners=75
-    num_owners_weighted=15.2170
+    num_owners_weighted=14.5382
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-5861-44b2-a9ef-7fd1555d039d"
@@ -69379,7 +69379,7 @@ digraph {
     num_owners=20
     num_owners_weighted=9.6000
     num_medias=13
-    num_medias_weighted=12.2000
+    num_medias_weighted=12.3500
     name="5ecd04cd-1105-41ef-a205-d30dc50f8fbd"
     in_degree=3
     out_degree=13
@@ -70397,7 +70397,7 @@ digraph {
     state=active
     label="Inn-Salzach-Welle"
     num_owners=76
-    num_owners_weighted=16.2170
+    num_owners_weighted=15.5382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d844-4c7f-a1f5-27033bca3d8c"
@@ -70684,8 +70684,8 @@ digraph {
     type=shareholder
     state=active
     label="Internationale Gabriele-Sophia-Stiftung Verwaltungs-GmbH"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=8
+    num_owners_weighted=8.0000
     num_medias=2
     num_medias_weighted=0.4000
     name="6852d6fb-0128-4b2f-9a31-523a15dc4939"
@@ -118361,7 +118361,7 @@ digraph {
     state=active
     label="Radio ISW (Inn-Salzach-Welle)"
     num_owners=76
-    num_owners_weighted=16.2170
+    num_owners_weighted=15.5382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3646-40a1-9b34-27422913faaa"
@@ -120040,8 +120040,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio SANTEC GmbH"
-    num_owners=12
-    num_owners_weighted=4.8000
+    num_owners=11
+    num_owners_weighted=4.6000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-8b99-447e-a438-2ed91e37195f"
@@ -140536,8 +140536,8 @@ digraph {
     type=tv
     state=active
     label="Sophia TV"
-    num_owners=13
-    num_owners_weighted=5.8000
+    num_owners=12
+    num_owners_weighted=5.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a6ec-4f94-b34c-8733694b0542"
@@ -187157,7 +187157,7 @@ digraph {
     state=active
     label="www.isw.fm"
     num_owners=76
-    num_owners_weighted=16.2170
+    num_owners_weighted=15.5382
     num_medias=0
     num_medias_weighted=0.0000
     name="5f915613-6e70-4549-ba87-3615c95ddd73"
@@ -197032,8 +197032,8 @@ digraph {
     type=online
     state=active
     label="www.radio-santec.com"
-    num_owners=13
-    num_owners_weighted=5.8000
+    num_owners=12
+    num_owners_weighted=5.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f117fc1-c89c-4a62-9a11-c5113e4b4a6a"
@@ -237482,7 +237482,7 @@ digraph {
     type=owns
   ];
   5781 -> 172 [
-    weight=70
+    weight=85
     type=owns
   ];
   5781 -> 7463 [

@@ -13828,7 +13828,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T10:03:56.130Z",
+    "controlDate": "2026-05-15T10:41:02.928Z",
     "state": "active"
   },
   {
@@ -13846,7 +13846,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T10:23:17.271Z",
+    "controlDate": "2026-05-15T11:18:14.571Z",
     "state": "active"
   },
   {
@@ -18116,7 +18116,7 @@
     "name": "www.imdb.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:16:02.016Z",
+    "controlDate": "2026-05-15T11:10:17.691Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26626,7 +26626,7 @@
     "name": "www.info-pforzheim.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:24:21.620Z",
+    "controlDate": "2026-05-15T11:21:14.381Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30488,7 +30488,7 @@
     "name": "www.fernsehserien.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:19:17.263Z",
+    "controlDate": "2026-05-15T11:12:02.737Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32109,7 +32109,7 @@
     "name": "www.wunschliste.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:19:31.809Z",
+    "controlDate": "2026-05-15T11:12:10.117Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33626,7 +33626,7 @@
     "name": "www.24rhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:52:24.245Z",
+    "controlDate": "2026-05-15T10:33:43.840Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34456,7 +34456,7 @@
     "name": "www.bw24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:00:56.130Z",
+    "controlDate": "2026-05-15T10:34:55.975Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44406,7 +44406,7 @@
     "name": "www.all-electronics.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:42:30.066Z",
+    "controlDate": "2026-05-15T10:20:56.654Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47451,7 +47451,7 @@
     "name": "www.channelpartner.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:07:29.490Z",
+    "controlDate": "2026-05-15T10:44:22.808Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -54655,7 +54655,7 @@
     "name": "www.elektro.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:42:43.039Z",
+    "controlDate": "2026-05-15T10:21:05.983Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -80173,7 +80173,7 @@
     "name": "www.meissen-fernsehen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T11:02:04.032Z",
+    "controlDate": "2026-05-15T11:30:32.196Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88059,7 +88059,7 @@
     "name": "www.highlight-web.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:42:58.227Z",
+    "controlDate": "2026-05-15T10:21:14.963Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -88632,7 +88632,7 @@
     "name": "INFO",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-14T10:24:14.949Z",
+    "controlDate": "2026-05-15T11:21:05.548Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89796,7 +89796,7 @@
     "name": "www.24auto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:51:54.907Z",
+    "controlDate": "2026-05-15T10:31:35.348Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90015,7 +90015,7 @@
     "name": "www.24vita.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:53:12.613Z",
+    "controlDate": "2026-05-15T10:34:14.153Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90144,7 +90144,7 @@
     "name": "www.24royal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:52:51.670Z",
+    "controlDate": "2026-05-15T10:34:00.819Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90431,7 +90431,7 @@
     "name": "www.wirtschaftskraft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:24:34.230Z",
+    "controlDate": "2026-05-15T11:22:16.572Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -91959,7 +91959,7 @@
     "name": "www.ingame.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:28:45.178Z",
+    "controlDate": "2026-05-15T11:24:02.797Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -92241,7 +92241,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T10:07:54.964Z",
+    "controlDate": "2026-05-15T10:44:44.851Z",
     "state": "active"
   },
   {
@@ -92259,7 +92259,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T10:07:49.081Z",
+    "controlDate": "2026-05-15T10:44:39.161Z",
     "state": "active"
   },
   {
@@ -94925,7 +94925,7 @@
     "rfStatewide": false,
     "name": "Idea - das Magazin",
     "type": "print",
-    "controlDate": "2025-11-14T10:03:47.132Z",
+    "controlDate": "2026-05-15T10:40:55.970Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97968,7 +97968,7 @@
     "rfStatewide": false,
     "name": "familie & co",
     "type": "print",
-    "controlDate": "2025-11-14T10:13:05.301Z",
+    "controlDate": "2026-05-15T10:52:40.549Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98033,7 +98033,7 @@
     "rfStatewide": false,
     "name": "baby & co",
     "type": "print",
-    "controlDate": "2025-11-14T10:12:56.334Z",
+    "controlDate": "2026-05-15T10:52:33.094Z",
     "pressKind": "Familie",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101997,7 +101997,7 @@
     "rfStatewide": false,
     "name": "impulse",
     "type": "print",
-    "controlDate": "2025-11-14T10:23:09.447Z",
+    "controlDate": "2026-05-15T11:18:06.750Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113086,7 +113086,7 @@
     "name": "www.badberka.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T09:43:52.667Z",
+    "controlDate": "2026-05-15T10:54:31.293Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -113543,7 +113543,7 @@
     "name": "www.pharma-food.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:43:05.573Z",
+    "controlDate": "2026-05-15T10:21:23.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -114939,7 +114939,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T11:24:43.709Z",
+    "controlDate": "2026-05-15T11:41:40.925Z",
     "state": "active"
   },
   {
@@ -134265,7 +134265,7 @@
     "name": "www.it-times.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T11:19:41.589Z",
+    "controlDate": "2026-05-15T11:41:13.404Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140853,7 +140853,7 @@
     "name": "www.isw.fm/iswtv/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:52:32.568Z",
+    "controlDate": "2026-05-15T11:29:13.675Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143382,7 +143382,7 @@
     "name": "www.familieundco.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:13:14.378Z",
+    "controlDate": "2026-05-15T10:52:46.852Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143730,7 +143730,7 @@
     "name": "www.computerwoche.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:07:39.498Z",
+    "controlDate": "2026-05-15T10:44:30.480Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144567,7 +144567,7 @@
     "name": "www.isw.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:38:25.075Z",
+    "controlDate": "2026-05-15T09:48:32.155Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145439,7 +145439,7 @@
     "name": "www.einfach-tasty.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:01:09.545Z",
+    "controlDate": "2026-05-15T10:35:11.318Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145600,7 +145600,7 @@
     "name": "www.buzzfeed.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:00:26.438Z",
+    "controlDate": "2026-05-15T10:34:44.734Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148933,7 +148933,7 @@
     "name": "www.stadtklar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:24:28.076Z",
+    "controlDate": "2026-05-15T11:21:21.853Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151953,7 +151953,7 @@
     "name": "www.serienjunkies.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:02:06.825Z",
+    "controlDate": "2026-05-15T10:36:18.192Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155128,7 +155128,7 @@
     "name": "www.24hamburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T09:52:13.236Z",
+    "controlDate": "2026-05-15T10:33:16.445Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156295,7 +156295,7 @@
     "name": "www.horeb.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T11:04:13.955Z",
+    "controlDate": "2026-05-15T11:37:20.748Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
