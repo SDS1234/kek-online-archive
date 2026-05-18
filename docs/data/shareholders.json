@@ -4522,6 +4522,19 @@
     ]
   },
   {
+    "squuid": "6a0b2ef6-e10e-4922-b671-e1ccd2af5f8b",
+    "name": "Kicker Ventures GmbH",
+    "state": "active",
+    "controlDate": "2026-05-18T15:26:40.704Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "68764451-63f3-41ee-9d9d-be277bfa05d1",
     "name": "Gregor Stemmle Verwaltungsgesellschaft mbH",
     "state": "active",
@@ -4949,6 +4962,19 @@
   {
     "squuid": "68651895-528a-4e4c-862f-4e21b5a7c98f",
     "name": "PNC-Consulting",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a0b33f1-0264-45b4-afc9-6d91badce9bc",
+    "name": "AMC International Productions B.V.",
     "state": "active",
     "organizations": [
       {
@@ -7912,7 +7938,7 @@
     "squuid": "5be1a6b6-4416-48cc-b784-a80a013f474c",
     "name": "KG Beteiligungsgesellschaft für SPIEGEL-Mitarbeiter mbH & Co.",
     "state": "active",
-    "controlDate": "2025-11-15T13:00:47.150Z",
+    "controlDate": "2026-05-18T15:17:18.335Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -8329,7 +8355,7 @@
     "squuid": "5be1a6b6-981e-4738-8602-d42b4ee91a40",
     "name": "Kinowelt Television GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T13:54:14.092Z",
+    "controlDate": "2026-05-18T15:42:25.567Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -22040,7 +22066,7 @@
     "squuid": "5be99659-93f8-4ea6-a68a-384c07e6b9b7",
     "name": "Katapult-Magazin gGmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:35:56.908Z",
+    "controlDate": "2026-05-18T14:56:56.000Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28089,7 +28115,7 @@
     "squuid": "5be1a6b6-26fb-4acd-925d-a450a1e7cc9d",
     "name": "Kephas Stiftung gemeinnützige GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:56:11.433Z",
+    "controlDate": "2026-05-18T15:14:35.660Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -51834,7 +51860,7 @@
     "squuid": "5be1a6b6-1c0e-42af-9022-68be9f160fa8",
     "name": "Kieler Zeitung Verwaltungs GmbH & Co. Beteiligungs KG",
     "state": "active",
-    "controlDate": "2025-11-15T13:43:39.946Z",
+    "controlDate": "2026-05-18T15:35:05.484Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -89543,7 +89569,7 @@
     "squuid": "5eb1763b-5255-4be3-a174-6a461ca3536f",
     "name": "KD Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:46:32.895Z",
+    "controlDate": "2026-05-18T15:06:12.713Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -118412,7 +118438,7 @@
     "squuid": "5be1a6b6-6aeb-49a6-8afb-207596e10dcd",
     "name": "Karl Rauch Verlag GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-15T12:30:54.325Z",
+    "controlDate": "2026-05-18T14:35:08.739Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -124914,7 +124940,7 @@
     "name": "Karl Sasse Druck und Verlag der Rotenburger Kreiszeitung und Visselhöveder Nachrichten Buch- und Offsetdruckerei GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3957-4acd-9788-3fe9ae2c4e4d",
-    "controlDate": "2025-11-15T12:31:26.852Z",
+    "controlDate": "2026-05-18T14:36:12.213Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -139812,7 +139838,7 @@
     "name": "Kieler Zeitung Verlags- und Druckerei KG GmbH & Co",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4710-4293-8149-c314bcc4d3b9",
-    "controlDate": "2025-11-15T13:45:11.657Z",
+    "controlDate": "2026-05-18T15:36:14.936Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144016,6 +144042,7 @@
     "squuid": "698b244e-0aa4-4eda-9d4c-f3fb5d620d89",
     "name": "kicker sportsworld GmbH",
     "state": "active",
+    "controlDate": "2026-05-18T15:20:30.809Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -154604,7 +154631,7 @@
     "squuid": "5ede4eef-3e69-44ab-b2b8-3d067e381364",
     "name": "KN-Druck GmbH",
     "state": "active",
-    "controlDate": "2025-11-16T11:52:20.952Z",
+    "controlDate": "2026-05-18T15:33:27.623Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -177316,7 +177343,7 @@
     "squuid": "5f0d9715-dd94-4962-a312-3ff483feb435",
     "name": "Kietzmann Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T13:53:57.597Z",
+    "controlDate": "2026-05-18T15:41:05.043Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180417,7 +180444,7 @@
     "name": "Kehrwieder Verlags GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63d10b85-5775-4ef9-a3c6-aad6caa89d21",
-    "controlDate": "2025-11-15T12:54:27.400Z",
+    "controlDate": "2026-05-18T15:09:55.282Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180455,7 +180482,7 @@
     "squuid": "63d10b9f-0536-46f9-826d-b5a9f066048c",
     "name": "Kehrwieder Verlag Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:50:48.169Z",
+    "controlDate": "2026-05-18T15:09:49.849Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182791,8 +182818,9 @@
   },
   {
     "squuid": "62fb78f0-4a54-4bf1-9a4d-9c03c01472a1",
-    "name": "Streubesitz an der Genius Brands International, Inc.",
+    "name": "Streubesitz an der Kartoon Studios, Inc.",
     "state": "active",
+    "controlDate": "2026-05-18T14:38:17.056Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -192372,7 +192400,7 @@
     "squuid": "5d3730b6-3a8d-48e8-bdaf-1988a731a3cd",
     "name": "KEC Vertriebs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-15T12:47:24.786Z",
+    "controlDate": "2026-05-18T15:09:24.667Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -195657,7 +195685,7 @@
     "squuid": "5d384b08-9f61-4ad8-a5de-e97a158d90df",
     "name": "KBS-Spritztechnik GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:42:23.398Z",
+    "controlDate": "2026-05-18T15:04:35.959Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198616,7 +198644,7 @@
     "squuid": "5f06eb94-7892-460e-921e-b0e47cb3e95f",
     "name": "KEC Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:48:00.228Z",
+    "controlDate": "2026-05-18T15:08:22.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217260,7 +217288,7 @@
     "squuid": "5be1a6b6-1137-43cc-9365-562ae495b8c6",
     "name": "Kietzmann Hotz-Beteiligung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-15T13:50:15.117Z",
+    "controlDate": "2026-05-18T15:40:01.115Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -232707,7 +232735,7 @@
     "squuid": "5be1a6b6-371f-43e2-8680-03c4b12f90fc",
     "name": "Katholische Frauengemeinschaft Deutschlands e.V.",
     "state": "active",
-    "controlDate": "2020-05-22T12:18:23.145Z",
+    "controlDate": "2026-05-18T15:02:40.405Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237999,7 +238027,7 @@
     "squuid": "5be1a6b6-b933-42c4-9667-1c3e24c3c66a",
     "name": "KD Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-15T12:45:52.103Z",
+    "controlDate": "2026-05-18T15:06:55.472Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -296633,7 +296661,7 @@
     "squuid": "5be1a6b6-dc2d-4c15-a19c-aec255d724a1",
     "name": "Kering Group",
     "state": "active",
-    "controlDate": "2025-11-15T12:59:31.683Z",
+    "controlDate": "2026-05-18T15:15:39.353Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -305407,7 +305435,7 @@
     "squuid": "60e5a633-8131-4be6-960b-b4637032a7d3",
     "name": "Katapult MV GmbH",
     "state": "active",
-    "controlDate": "2025-11-15T12:35:19.150Z",
+    "controlDate": "2026-05-18T14:56:34.281Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
