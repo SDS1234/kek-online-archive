@@ -3966,11 +3966,11 @@ digraph {
     label="Albrecht, Anatol"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0165
     name="69f854fd-d3c2-405e-800a-1d73575d8a7f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   331 [
     type=shareholder
@@ -3990,11 +3990,11 @@ digraph {
     label="Albrecht, Hansgeorg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0330
+    num_medias=0
+    num_medias_weighted=0.0000
     name="60bf5db6-531b-4d04-9a60-4d758b60cb8c"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   333 [
     type=shareholder
@@ -4014,11 +4014,11 @@ digraph {
     label="Albrecht, Yannick"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0165
     name="69f854f0-ea94-44ef-a851-5be0c2119720"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   335 [
     type=shareholder
@@ -36957,7 +36957,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0330
     name="5d14bef7-3599-4e36-ac95-9a445288f28d"
-    in_degree=2
+    in_degree=3
     out_degree=1
   ];
   3080 [
@@ -37410,11 +37410,11 @@ digraph {
     label="Ebner, Eberhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=277
-    num_medias_weighted=13.3795
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d121d88-64e4-461b-aa57-1230b76c51b6"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3118 [
     type=shareholder
@@ -75018,11 +75018,11 @@ digraph {
     label="Kasten, Fabian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=277
+    num_medias_weighted=2.4474
     name="69f8677d-0a77-4946-a265-7226b941ec7a"
     in_degree=0
-    out_degree=0
+    out_degree=2
   ];
   6252 [
     type=shareholder
@@ -160197,7 +160197,7 @@ digraph {
     num_medias=277
     num_medias_weighted=0.0000
     name="5eb0232d-f75b-41da-826a-5d879b90b1ce"
-    in_degree=11
+    in_degree=12
     out_degree=1
   ];
   13350 [
@@ -213161,16 +213161,20 @@ digraph {
     weight=50
     type=owns
   ];
+  330 -> 3079 [
+    weight=50
+    type=owns
+  ];
   331 -> 8096 [
     weight=2.5
     type=owns
   ];
-  332 -> 3079 [
-    weight=100
-    type=owns
-  ];
   333 -> 3079 [
     weight=1
+    type=owns
+  ];
+  334 -> 3079 [
+    weight=50
     type=owns
   ];
   335 -> 11259 [
@@ -226103,10 +226107,6 @@ digraph {
   ];
   3116 -> 13349 [
     weight=10
-    type=owns
-  ];
-  3117 -> 13348 [
-    weight=17.33
     type=owns
   ];
   3118 -> 13348 [
@@ -239887,6 +239887,14 @@ digraph {
   ];
   6250 -> 2545 [
     weight=50
+    type=owns
+  ];
+  6251 -> 13348 [
+    weight=3.17
+    type=owns
+  ];
+  6251 -> 13349 [
+    weight=3.15
     type=owns
   ];
   6252 -> 13348 [
