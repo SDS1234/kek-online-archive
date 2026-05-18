@@ -8433,7 +8433,7 @@ digraph {
     num_medias=8
     num_medias_weighted=8.0000
     name="5eeb7b89-1d1d-486f-b21f-09fd3bc32248"
-    in_degree=7
+    in_degree=6
     out_degree=9
   ];
   703 [
@@ -71659,10 +71659,10 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=32
-    num_medias_weighted=8.2131
+    num_medias_weighted=9.9331
     name="5be1a6b6-af8c-4fb4-a72d-cac4a19d2c8f"
     in_degree=1
-    out_degree=4
+    out_degree=2
   ];
   5972 [
     type=shareholder
@@ -71671,10 +71671,10 @@ digraph {
     num_owners=4
     num_owners_weighted=4.0000
     num_medias=32
-    num_medias_weighted=8.2131
+    num_medias_weighted=9.9331
     name="5be1a6b6-1037-47b7-a3b8-713f5c565218"
     in_degree=4
-    out_degree=4
+    out_degree=2
   ];
   5973 [
     type=shareholder
@@ -113337,7 +113337,7 @@ digraph {
     num_medias=7
     num_medias_weighted=3.1170
     name="5be1a6b6-8c11-4526-af08-275ec93dea8b"
-    in_degree=36
+    in_degree=35
     out_degree=2
   ];
   9445 [
@@ -118869,7 +118869,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
-    in_degree=15
+    in_degree=14
     out_degree=3
   ];
   9906 [
@@ -122625,7 +122625,7 @@ digraph {
     num_medias=9
     num_medias_weighted=9.0000
     name="5de7ab4e-e35a-4fc7-8289-dd27e04bb28b"
-    in_degree=5
+    in_degree=4
     out_degree=10
   ];
   10219 [
@@ -153655,7 +153655,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=32
-    num_medias_weighted=0.6570
+    num_medias_weighted=0.7946
     name="5be1a6b6-d41b-475f-ac0b-da4d602c2fb7"
     in_degree=0
     out_degree=2
@@ -153679,7 +153679,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=32
-    num_medias_weighted=2.1354
+    num_medias_weighted=2.5826
     name="5be1a6b6-19bf-4371-8651-98fd9536fee6"
     in_degree=0
     out_degree=2
@@ -153691,7 +153691,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=32
-    num_medias_weighted=5.4207
+    num_medias_weighted=6.5559
     name="5be1a6b6-8aad-4903-8358-d0361e614712"
     in_degree=0
     out_degree=2
@@ -238813,28 +238813,12 @@ digraph {
     weight=100
     type=owns
   ];
-  5971 -> 9905 [
-    weight=48
-    type=owns
-  ];
-  5971 -> 10218 [
-    weight=14
-    type=owns
-  ];
-  5972 -> 702 [
-    weight=11.2
-    type=owns
-  ];
   5972 -> 5971 [
     weight=100
     type=owns
   ];
   5972 -> 9047 [
     weight=10
-    type=owns
-  ];
-  5972 -> 9444 [
-    weight=1
     type=owns
   ];
   5973 -> 5972 [

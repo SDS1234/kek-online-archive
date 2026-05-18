@@ -2008,7 +2008,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:06:56.094Z",
+    "controlDate": "2026-05-18T10:02:05.338Z",
     "state": "active"
   },
   {
@@ -12544,7 +12544,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:33:50.825Z",
+    "controlDate": "2026-05-18T10:30:53.833Z",
     "state": "active"
   },
   {
@@ -13337,7 +13337,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:51:20.022Z",
+    "controlDate": "2026-05-18T10:44:23.822Z",
     "state": "active"
   },
   {
@@ -14603,7 +14603,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:17:39.637Z",
+    "controlDate": "2026-05-18T10:09:24.883Z",
     "state": "active"
   },
   {
@@ -19260,7 +19260,7 @@
     "rfStatewide": false,
     "name": "Kutter & Küste",
     "type": "print",
-    "controlDate": "2025-11-14T13:56:49.425Z",
+    "controlDate": "2026-05-18T10:54:10.326Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19382,7 +19382,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:51:27.607Z",
+    "controlDate": "2026-05-18T10:44:31.934Z",
     "state": "active"
   },
   {
@@ -19454,7 +19454,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:51:11.463Z",
+    "controlDate": "2026-05-18T10:44:14.470Z",
     "state": "active"
   },
   {
@@ -27869,7 +27869,7 @@
     "name": "DZ Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-14T13:06:32.975Z",
+    "controlDate": "2026-05-18T10:01:40.566Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28222,7 +28222,7 @@
     "name": "BZ Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-14T13:09:06.447Z",
+    "controlDate": "2026-05-18T10:05:22.508Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72596,7 +72596,7 @@
     "rfStatewide": false,
     "name": "Zevener Zeitung",
     "type": "print",
-    "controlDate": "2025-11-14T13:22:29.140Z",
+    "controlDate": "2026-05-18T10:28:45.421Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79657,7 +79657,7 @@
     "rfStatewide": false,
     "name": "Kanu Magazin",
     "type": "print",
-    "controlDate": "2025-11-14T13:50:54.483Z",
+    "controlDate": "2026-05-18T10:43:58.477Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -79740,7 +79740,7 @@
     "rfStatewide": false,
     "name": "Kirchenzeitung für das Erzbistum Köln",
     "type": "print",
-    "controlDate": "2025-11-14T13:17:31.845Z",
+    "controlDate": "2026-05-18T10:09:17.971Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83913,7 +83913,7 @@
     "rfStatewide": false,
     "name": "Walsroder Zeitung",
     "type": "print",
-    "controlDate": "2025-11-14T12:46:36.186Z",
+    "controlDate": "2026-05-18T09:49:39.953Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84940,7 +84940,7 @@
     "rfStatewide": false,
     "name": "Land erleben",
     "type": "print",
-    "controlDate": "2025-11-14T13:04:39.519Z",
+    "controlDate": "2026-05-18T09:58:19.859Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84961,7 +84961,7 @@
     "rfStatewide": false,
     "name": "Die Harke",
     "type": "print",
-    "controlDate": "2025-11-14T13:04:26.961Z",
+    "controlDate": "2026-05-18T09:58:09.991Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -85103,7 +85103,7 @@
     "rfStatewide": false,
     "name": "Dülmener Zeitung",
     "type": "print",
-    "controlDate": "2025-11-14T13:06:48.756Z",
+    "controlDate": "2026-05-18T10:01:57.902Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86249,7 +86249,7 @@
     "rfStatewide": false,
     "name": "Reiter Revue International",
     "type": "print",
-    "controlDate": "2025-11-14T13:57:49.678Z",
+    "controlDate": "2026-05-18T10:56:16.866Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86808,7 +86808,7 @@
     "rfStatewide": false,
     "name": "Borkener Zeitung",
     "type": "print",
-    "controlDate": "2025-11-14T13:09:16.121Z",
+    "controlDate": "2026-05-18T10:05:30.782Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86848,7 +86848,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:09:24.552Z",
+    "controlDate": "2026-05-18T10:05:38.517Z",
     "state": "active"
   },
   {
@@ -87977,7 +87977,7 @@
     "rfStatewide": false,
     "name": "Evangelisches Sonntagsblatt aus Bayern",
     "type": "print",
-    "controlDate": "2025-11-14T13:33:43.900Z",
+    "controlDate": "2026-05-18T10:30:46.460Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94001,7 +94001,7 @@
     "name": "DH am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-14T13:04:08.887Z",
+    "controlDate": "2026-05-18T09:57:56.603Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -96620,7 +96620,7 @@
     "rfStatewide": false,
     "name": "tennisMagazin",
     "type": "print",
-    "controlDate": "2025-11-14T13:59:10.220Z",
+    "controlDate": "2026-05-18T10:58:07.530Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96662,7 +96662,7 @@
     "rfStatewide": false,
     "name": "tauchen",
     "type": "print",
-    "controlDate": "2025-11-14T13:51:02.590Z",
+    "controlDate": "2026-05-18T10:44:06.585Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96683,7 +96683,7 @@
     "rfStatewide": false,
     "name": "Golf Magazin",
     "type": "print",
-    "controlDate": "2025-11-14T13:50:46.043Z",
+    "controlDate": "2026-05-18T10:43:50.206Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96728,7 +96728,7 @@
     "rfStatewide": false,
     "name": "Jäger",
     "type": "print",
-    "controlDate": "2025-11-14T13:56:07.588Z",
+    "controlDate": "2026-05-18T10:53:39.334Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96749,7 +96749,7 @@
     "rfStatewide": false,
     "name": "Blinker",
     "type": "print",
-    "controlDate": "2025-11-14T13:55:15.188Z",
+    "controlDate": "2026-05-18T10:53:05.707Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96770,7 +96770,7 @@
     "rfStatewide": false,
     "name": "Fliegen Fischen",
     "type": "print",
-    "controlDate": "2025-11-14T13:55:41.860Z",
+    "controlDate": "2026-05-18T10:53:14.599Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96791,7 +96791,7 @@
     "rfStatewide": false,
     "name": "Angelwoche",
     "type": "print",
-    "controlDate": "2025-11-14T13:54:48.872Z",
+    "controlDate": "2026-05-18T10:52:22.986Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96812,7 +96812,7 @@
     "rfStatewide": false,
     "name": "fotoMagazin",
     "type": "print",
-    "controlDate": "2025-11-14T13:58:59.707Z",
+    "controlDate": "2026-05-18T10:57:57.369Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96833,7 +96833,7 @@
     "rfStatewide": false,
     "name": "fliegermagazin",
     "type": "print",
-    "controlDate": "2025-11-14T13:58:26.684Z",
+    "controlDate": "2026-05-18T10:57:28.356Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96878,7 +96878,7 @@
     "rfStatewide": false,
     "name": "St. Georg",
     "type": "print",
-    "controlDate": "2025-11-14T13:58:15.056Z",
+    "controlDate": "2026-05-18T10:56:58.334Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96899,7 +96899,7 @@
     "rfStatewide": false,
     "name": "Aero international",
     "type": "print",
-    "controlDate": "2025-11-14T13:54:09.004Z",
+    "controlDate": "2026-05-18T10:51:09.155Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96965,7 +96965,7 @@
     "rfStatewide": false,
     "name": "Mein Pferd",
     "type": "print",
-    "controlDate": "2025-11-14T13:57:25.464Z",
+    "controlDate": "2026-05-18T10:55:05.253Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97010,7 +97010,7 @@
     "rfStatewide": false,
     "name": "Karpfen",
     "type": "print",
-    "controlDate": "2025-11-14T13:56:36.985Z",
+    "controlDate": "2026-05-18T10:53:49.279Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97031,7 +97031,7 @@
     "rfStatewide": false,
     "name": "Angelsee Aktuell",
     "type": "print",
-    "controlDate": "2025-11-14T13:54:41.632Z",
+    "controlDate": "2026-05-18T10:52:12.275Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -121441,7 +121441,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:22:40.290Z",
+    "controlDate": "2026-05-18T10:28:53.204Z",
     "state": "active"
   },
   {
@@ -121823,7 +121823,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T13:04:49.311Z",
+    "controlDate": "2026-05-18T09:58:28.259Z",
     "state": "active"
   },
   {
@@ -121841,7 +121841,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-14T12:47:08.209Z",
+    "controlDate": "2026-05-18T09:50:12.900Z",
     "state": "active"
   },
   {
@@ -131972,7 +131972,7 @@
     "name": "www.findling-heideregion.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T12:46:54.137Z",
+    "controlDate": "2026-05-18T09:49:57.753Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153543,7 +153543,7 @@
     "name": "www.wochenspiegel-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T12:47:00.794Z",
+    "controlDate": "2026-05-18T09:50:06.352Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153758,7 +153758,7 @@
     "name": "findling",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-14T12:46:45.826Z",
+    "controlDate": "2026-05-18T09:49:48.394Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
