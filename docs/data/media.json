@@ -5316,7 +5316,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:13:05.258Z",
+    "controlDate": "2026-05-19T13:14:36.988Z",
     "state": "active"
   },
   {
@@ -6944,7 +6944,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:01:52.767Z",
+    "controlDate": "2026-05-19T11:45:50.493Z",
     "state": "active"
   },
   {
@@ -9482,7 +9482,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:03:54.080Z",
+    "controlDate": "2026-05-19T11:46:10.477Z",
     "state": "active"
   },
   {
@@ -15714,7 +15714,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:12:37.383Z",
+    "controlDate": "2026-05-19T13:14:17.367Z",
     "state": "active"
   },
   {
@@ -16090,7 +16090,7 @@
     "name": "www.moinmoin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T09:16:25.905Z",
+    "controlDate": "2026-05-19T13:26:39.187Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17107,7 +17107,7 @@
     "name": "www.literaturfernsehen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:37:40.141Z",
+    "controlDate": "2026-05-19T12:02:41.363Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -19546,7 +19546,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:41:45.776Z",
+    "controlDate": "2026-05-19T13:36:02.636Z",
     "state": "active"
   },
   {
@@ -21102,7 +21102,7 @@
     "rfStatewide": false,
     "name": "Iss dich gesund",
     "type": "print",
-    "controlDate": "2025-11-16T11:00:41.784Z",
+    "controlDate": "2026-05-19T11:33:31.223Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21583,7 +21583,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:54:06.014Z",
+    "controlDate": "2026-05-19T12:26:03.019Z",
     "state": "active"
   },
   {
@@ -21849,7 +21849,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:22:46.586Z",
+    "controlDate": "2026-05-19T11:46:20.366Z",
     "state": "active"
   },
   {
@@ -22106,7 +22106,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:12:28.845Z",
+    "controlDate": "2026-05-19T13:14:10.748Z",
     "state": "active"
   },
   {
@@ -23300,7 +23300,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:46:31.506Z",
+    "controlDate": "2026-05-19T10:56:22.329Z",
     "state": "active"
   },
   {
@@ -23318,7 +23318,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:44:24.466Z",
+    "controlDate": "2026-05-19T10:55:58.690Z",
     "state": "active"
   },
   {
@@ -23336,7 +23336,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:45:56.506Z",
+    "controlDate": "2026-05-19T10:56:10.538Z",
     "state": "active"
   },
   {
@@ -23354,7 +23354,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:48:27.756Z",
+    "controlDate": "2026-05-19T10:57:21.398Z",
     "state": "active"
   },
   {
@@ -23372,7 +23372,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:47:27.540Z",
+    "controlDate": "2026-05-19T10:57:05.287Z",
     "state": "active"
   },
   {
@@ -23390,7 +23390,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:46:54.007Z",
+    "controlDate": "2026-05-19T10:56:58.907Z",
     "state": "active"
   },
   {
@@ -23440,7 +23440,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T10:48:18.245Z",
+    "controlDate": "2026-05-19T10:57:14.570Z",
     "state": "active"
   },
   {
@@ -23991,6 +23991,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2026-01-19T15:35:51.373Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6a0c525b-326d-41f2-9ac8-e97059e3c44c",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.reutlingen1.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-05-19T12:06:59.140Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29080,7 +29104,7 @@
     "name": "www.beatsradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:43:01.150Z",
+    "controlDate": "2026-05-19T12:12:14.178Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29384,10 +29408,10 @@
       "name": "DL",
       "type": "organization"
     },
-    "name": "www.meinschlaf.de",
+    "name": "www.vital.de/iss-dich-gesund",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:23:52.670Z",
+    "controlDate": "2026-05-19T12:01:52.103Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34105,7 +34129,7 @@
     "name": "Meine Stars von damals",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-16T11:10:46.958Z",
+    "controlDate": "2026-05-19T11:35:31.052Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36285,7 +36309,7 @@
     "name": "www.weinwisser.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T12:20:17.702Z",
+    "controlDate": "2026-05-19T13:20:31.819Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45903,7 +45927,7 @@
     "name": "www.holsteiner-allgemeine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:47:58.562Z",
+    "controlDate": "2026-05-19T12:18:43.203Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46331,7 +46355,7 @@
     "name": "www.prima-wochenende.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-01T15:23:23.627Z",
+    "controlDate": "2026-05-19T13:27:37.578Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46679,7 +46703,7 @@
     "name": "www.ihranzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-21T09:40:51.482Z",
+    "controlDate": "2026-05-19T13:26:31.511Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -58855,7 +58879,7 @@
     "name": "www.filmdienst.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:53:30.670Z",
+    "controlDate": "2026-05-19T12:25:55.308Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83480,7 +83504,7 @@
     "name": "www.hamburg1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-12T12:26:29.848Z",
+    "controlDate": "2026-05-19T13:05:13.071Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85211,7 +85235,7 @@
     "rfStatewide": false,
     "name": "Für Sie",
     "type": "print",
-    "controlDate": "2025-11-16T11:00:07.343Z",
+    "controlDate": "2026-05-19T11:31:00.435Z",
     "pressKind": "Frauen, zweiwö¶.",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85232,7 +85256,7 @@
     "rfStatewide": false,
     "name": "petra",
     "type": "print",
-    "controlDate": "2025-11-16T11:01:04.594Z",
+    "controlDate": "2026-05-19T11:41:32.086Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85298,7 +85322,7 @@
     "rfStatewide": false,
     "name": "vital",
     "type": "print",
-    "controlDate": "2025-11-16T11:01:42.261Z",
+    "controlDate": "2026-05-19T11:44:02.762Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85591,7 +85615,7 @@
     "rfStatewide": false,
     "name": "super tv",
     "type": "print",
-    "controlDate": "2025-11-16T10:43:51.328Z",
+    "controlDate": "2026-05-19T10:53:42.752Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85612,7 +85636,7 @@
     "rfStatewide": false,
     "name": "7 Tage",
     "type": "print",
-    "controlDate": "2025-11-16T11:08:25.103Z",
+    "controlDate": "2026-05-19T11:16:27.871Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85654,7 +85678,7 @@
     "rfStatewide": false,
     "name": "Frau mit Herz",
     "type": "print",
-    "controlDate": "2025-11-16T11:09:31.936Z",
+    "controlDate": "2026-05-19T11:30:21.727Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85675,7 +85699,7 @@
     "rfStatewide": false,
     "name": "Rezepte mit Pfiff",
     "type": "print",
-    "controlDate": "2025-11-16T11:11:33.599Z",
+    "controlDate": "2026-05-19T11:40:10.826Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85696,7 +85720,7 @@
     "rfStatewide": false,
     "name": "Woche der Frau",
     "type": "print",
-    "controlDate": "2025-11-16T11:12:12.657Z",
+    "controlDate": "2026-05-19T11:43:38.916Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85717,7 +85741,7 @@
     "rfStatewide": false,
     "name": "TV piccolino",
     "type": "print",
-    "controlDate": "2025-11-16T10:42:50.417Z",
+    "controlDate": "2026-05-19T10:53:21.808Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85738,7 +85762,7 @@
     "rfStatewide": false,
     "name": "Lea",
     "type": "print",
-    "controlDate": "2025-11-16T11:10:22.707Z",
+    "controlDate": "2026-05-19T11:34:50.012Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85780,7 +85804,7 @@
     "rfStatewide": false,
     "name": "Die neue Frau",
     "type": "print",
-    "controlDate": "2025-11-16T11:09:10.352Z",
+    "controlDate": "2026-05-19T11:24:58.731Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85822,7 +85846,7 @@
     "rfStatewide": false,
     "name": "Adel aktuell",
     "type": "print",
-    "controlDate": "2025-11-16T11:08:45.631Z",
+    "controlDate": "2026-05-19T11:17:11.645Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86224,7 +86248,7 @@
     "name": "www.deutscheins.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:37:26.441Z",
+    "controlDate": "2026-05-19T12:02:30.735Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90297,7 +90321,7 @@
     "rfStatewide": false,
     "name": "Viel Spaß",
     "type": "print",
-    "controlDate": "2025-11-16T11:12:02.575Z",
+    "controlDate": "2026-05-19T11:42:48.516Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94991,7 +95015,7 @@
     "rfStatewide": false,
     "name": "Kneipp Journal aktiv & gesund",
     "type": "print",
-    "controlDate": "2025-11-16T11:58:25.866Z",
+    "controlDate": "2026-05-19T12:28:00.953Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97906,7 +97930,7 @@
     "rfStatewide": false,
     "name": "Playboy (Deutschland-Ausgabe)",
     "type": "print",
-    "controlDate": "2025-11-16T12:41:30.283Z",
+    "controlDate": "2026-05-19T13:35:45.696Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99063,7 +99087,7 @@
     "rfStatewide": false,
     "name": "Grazia",
     "type": "print",
-    "controlDate": "2025-11-16T11:00:15.363Z",
+    "controlDate": "2026-05-19T11:31:47.756Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104050,7 +104074,7 @@
     "rfStatewide": false,
     "name": "Bild Woche",
     "type": "print",
-    "controlDate": "2025-11-16T10:41:12.419Z",
+    "controlDate": "2026-05-19T10:52:48.553Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104090,7 +104114,7 @@
     "rfStatewide": false,
     "name": "Funk Uhr",
     "type": "print",
-    "controlDate": "2025-11-16T10:41:48.163Z",
+    "controlDate": "2026-05-19T10:52:57.349Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104115,7 +104139,7 @@
     "rfStatewide": false,
     "name": "TV neu!",
     "type": "print",
-    "controlDate": "2025-11-16T10:42:35.597Z",
+    "controlDate": "2026-05-19T10:53:13.221Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104139,7 +104163,7 @@
     "rfStatewide": false,
     "name": "die zwei",
     "type": "print",
-    "controlDate": "2025-11-16T10:43:27.167Z",
+    "controlDate": "2026-05-19T10:53:34.361Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104160,7 +104184,7 @@
     "rfStatewide": false,
     "name": "TV 4x7",
     "type": "print",
-    "controlDate": "2025-11-16T10:42:25.667Z",
+    "controlDate": "2026-05-19T10:53:05.104Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104181,7 +104205,7 @@
     "rfStatewide": false,
     "name": "tv 4 Wochen",
     "type": "print",
-    "controlDate": "2025-11-16T10:44:02.525Z",
+    "controlDate": "2026-05-19T10:54:04.313Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104657,7 +104681,7 @@
     "rfStatewide": false,
     "name": "Jolie",
     "type": "print",
-    "controlDate": "2025-11-16T11:10:13.527Z",
+    "controlDate": "2026-05-19T11:34:05.790Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104855,7 +104879,7 @@
     "rfStatewide": false,
     "name": "OK!",
     "type": "print",
-    "controlDate": "2025-11-16T11:11:06.800Z",
+    "controlDate": "2026-05-19T11:38:00.376Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104879,7 +104903,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:24:00.059Z",
+    "controlDate": "2026-05-19T11:47:16.419Z",
     "state": "active"
   },
   {
@@ -106011,7 +106035,7 @@
     "name": "www.klassikradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:43:09.989Z",
+    "controlDate": "2026-05-19T12:12:22.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -108265,7 +108289,7 @@
     "name": "www.radio-hannover.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:51:29.681Z",
+    "controlDate": "2026-05-19T12:22:35.251Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -108595,7 +108619,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:23:10.735Z",
+    "controlDate": "2026-05-19T11:46:37.548Z",
     "state": "active"
   },
   {
@@ -108613,7 +108637,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:23:42.599Z",
+    "controlDate": "2026-05-19T11:46:49.148Z",
     "state": "active"
   },
   {
@@ -109466,7 +109490,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:04:01.032Z",
+    "controlDate": "2026-05-19T11:47:24.363Z",
     "state": "active"
   },
   {
@@ -109916,7 +109940,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T12:49:53.076Z",
+    "controlDate": "2026-05-19T13:41:17.149Z",
     "state": "active"
   },
   {
@@ -112019,7 +112043,7 @@
     "rfStatewide": false,
     "name": "Bild der Wissenschaft",
     "type": "print",
-    "controlDate": "2025-11-16T12:11:18.612Z",
+    "controlDate": "2026-05-19T13:13:41.983Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112040,7 +112064,7 @@
     "rfStatewide": false,
     "name": "Damals",
     "type": "print",
-    "controlDate": "2025-11-16T12:11:27.320Z",
+    "controlDate": "2026-05-19T13:13:51.181Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112061,7 +112085,7 @@
     "rfStatewide": false,
     "name": "natur",
     "type": "print",
-    "controlDate": "2025-11-16T12:12:17.150Z",
+    "controlDate": "2026-05-19T13:14:03.813Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112085,7 +112109,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T14:11:15.883Z",
+    "controlDate": "2026-05-19T13:14:28.392Z",
     "state": "active"
   },
   {
@@ -112764,7 +112788,7 @@
     "rfStatewide": false,
     "name": "IN",
     "type": "print",
-    "controlDate": "2025-11-16T11:09:53.252Z",
+    "controlDate": "2026-05-19T11:33:19.403Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114921,7 +114945,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-16T11:04:50.798Z",
+    "controlDate": "2026-05-19T11:47:34.154Z",
     "state": "active"
   },
   {
@@ -134934,7 +134958,7 @@
     "name": "www.kompass.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T12:05:16.320Z",
+    "controlDate": "2026-05-19T13:10:45.102Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141795,7 +141819,7 @@
     "name": "www.selection-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T12:20:08.612Z",
+    "controlDate": "2026-05-19T13:19:31.810Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142674,7 +142698,7 @@
     "name": "Sports Illustrated",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-16T12:41:37.944Z",
+    "controlDate": "2026-05-19T13:35:53.727Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142693,7 +142717,7 @@
     "name": "www.sportsillustrated.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T12:41:53.334Z",
+    "controlDate": "2026-05-19T13:36:09.439Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155732,7 +155756,7 @@
     "name": "Smokersclub",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-16T12:19:20.737Z",
+    "controlDate": "2026-05-19T13:19:16.322Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156160,7 +156184,7 @@
     "name": "Weinwisser",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-16T12:19:59.536Z",
+    "controlDate": "2026-05-19T13:19:24.842Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159232,7 +159256,7 @@
     "name": "www.rtf1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:37:57.491Z",
+    "controlDate": "2026-05-19T12:04:08.154Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160015,7 +160039,7 @@
     "name": "www.bweins.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:37:15.022Z",
+    "controlDate": "2026-05-19T12:02:22.300Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160039,7 +160063,7 @@
     "name": "www.prometheus-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-16T11:37:50.468Z",
+    "controlDate": "2026-05-19T12:02:52.459Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
