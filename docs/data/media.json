@@ -1990,7 +1990,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-18T12:03:13.998Z",
+    "controlDate": "2026-05-20T12:21:11.978Z",
     "state": "active"
   },
   {
@@ -27468,7 +27468,7 @@
     "name": "LVZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-18T11:14:55.170Z",
+    "controlDate": "2026-05-20T11:22:25.237Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28677,7 +28677,7 @@
     "name": "www.radio-livelive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:13:21.251Z",
+    "controlDate": "2026-05-20T12:26:26.284Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30214,7 +30214,7 @@
     "name": "www.welleniederrhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:45:34.174Z",
+    "controlDate": "2026-05-20T13:06:20.848Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37975,7 +37975,7 @@
     "name": "LZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-18T12:02:44.346Z",
+    "controlDate": "2026-05-20T12:20:50.888Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38371,7 +38371,7 @@
     "name": "www.radiocottbus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:27:28.442Z",
+    "controlDate": "2026-05-20T12:53:10.341Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69715,7 +69715,7 @@
     "rfStatewide": false,
     "name": "Torgauer Zeitung",
     "type": "print",
-    "controlDate": "2026-01-07T11:02:43.565Z",
+    "controlDate": "2026-05-20T11:23:21.960Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86374,7 +86374,7 @@
     "rfStatewide": false,
     "name": "Lippische Landes-Zeitung",
     "type": "print",
-    "controlDate": "2025-11-18T12:03:00.529Z",
+    "controlDate": "2026-05-20T12:21:01.793Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -91171,7 +91171,7 @@
     "rfStatewide": false,
     "name": "Leipziger Volkszeitung",
     "type": "print",
-    "controlDate": "2025-11-18T11:15:05.898Z",
+    "controlDate": "2026-05-20T11:22:36.133Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -91194,7 +91194,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-18T11:16:06.297Z",
+    "controlDate": "2026-05-20T11:23:35.003Z",
     "state": "active"
   },
   {
@@ -119070,7 +119070,7 @@
     "rfStatewide": false,
     "name": "Oschatzer Allgemeine Zeitung",
     "type": "print",
-    "controlDate": "2025-11-18T11:15:18.382Z",
+    "controlDate": "2026-05-20T11:22:43.564Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119090,7 +119090,7 @@
     "rfStatewide": false,
     "name": "Osterländer Volkszeitung",
     "type": "print",
-    "controlDate": "2025-11-18T11:15:27.085Z",
+    "controlDate": "2026-05-20T11:22:51.388Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -132344,7 +132344,7 @@
     "name": "www.lokale-informationen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T11:46:26.909Z",
+    "controlDate": "2026-05-20T11:49:28.574Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132868,7 +132868,7 @@
     "name": "www.ligainsider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T11:58:38.061Z",
+    "controlDate": "2026-05-20T12:13:43.944Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138272,7 +138272,7 @@
     "name": "Ostwestfälische Wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-23T12:55:47.802Z",
+    "controlDate": "2026-05-20T12:24:02.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139029,7 +139029,7 @@
     "name": "TZ/OVZ/OAZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-18T11:15:38.455Z",
+    "controlDate": "2026-05-20T11:23:08.436Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148365,7 +148365,7 @@
     "name": "www.rsa-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T11:50:21.971Z",
+    "controlDate": "2026-05-20T11:51:33.243Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149256,7 +149256,7 @@
     "name": "www.radiowmw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:44:12.585Z",
+    "controlDate": "2026-05-20T12:58:51.426Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153431,7 +153431,7 @@
     "name": "www.radio912.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:41:35.860Z",
+    "controlDate": "2026-05-20T13:00:58.020Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158624,7 +158624,7 @@
     "name": "www.l-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-17T11:04:03.845Z",
+    "controlDate": "2026-05-20T12:29:28.070Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159724,7 +159724,7 @@
     "name": "www.radiolippe.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:00:52.881Z",
+    "controlDate": "2026-05-20T12:17:03.793Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163038,7 +163038,7 @@
     "name": "www.radiorsg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:49:43.301Z",
+    "controlDate": "2026-05-20T13:20:51.759Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
