@@ -28726,7 +28726,7 @@
     "name": "LN am Montag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-26T08:43:38.324Z",
+    "controlDate": "2026-05-20T14:56:40.080Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29484,7 +29484,7 @@
     "name": "Die Wirtschaft (Lübeck und Schleswig-Holstein)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-26T08:43:22.349Z",
+    "controlDate": "2026-05-20T14:56:30.158Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29503,7 +29503,7 @@
     "name": "www.wochenspiegel-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-26T08:45:36.749Z",
+    "controlDate": "2026-05-20T14:59:13.024Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29851,7 +29851,7 @@
     "name": "www.antenneniederrhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:16:45.271Z",
+    "controlDate": "2026-05-20T13:47:48.428Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39118,7 +39118,7 @@
     "name": "www.radiowuppertal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T12:51:50.515Z",
+    "controlDate": "2026-05-20T13:38:00.878Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39670,7 +39670,7 @@
     "name": "www.radiorst.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:31:56.602Z",
+    "controlDate": "2026-05-20T14:07:47.994Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40098,7 +40098,7 @@
     "name": "www.antenne-pfalz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:33:19.349Z",
+    "controlDate": "2026-05-20T14:11:30.943Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41841,7 +41841,7 @@
     "name": "www.l-iz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-26T08:38:13.737Z",
+    "controlDate": "2026-05-20T14:47:50.595Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48569,7 +48569,7 @@
     "name": "www.antennemuenster.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:29:30.828Z",
+    "controlDate": "2026-05-20T13:59:20.327Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86294,7 +86294,7 @@
     "rfStatewide": false,
     "name": "Lausitzer Rundschau",
     "type": "print",
-    "controlDate": "2025-11-18T14:15:53.863Z",
+    "controlDate": "2026-05-20T14:36:33.587Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86418,7 +86418,7 @@
     "rfStatewide": false,
     "name": "Lübecker Nachrichten",
     "type": "print",
-    "controlDate": "2025-11-26T08:44:06.031Z",
+    "controlDate": "2026-05-20T14:56:54.312Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -117802,7 +117802,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-11-26T08:44:23.333Z",
+    "controlDate": "2026-05-20T14:58:46.553Z",
     "state": "active"
   },
   {
@@ -129753,7 +129753,7 @@
     "name": "LZ Leipziger Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-26T08:37:42.818Z",
+    "controlDate": "2026-05-20T14:47:32.796Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138441,7 +138441,7 @@
     "name": "www.ludwigsburger-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-26T08:25:11.936Z",
+    "controlDate": "2026-05-20T14:40:57.059Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145257,7 +145257,7 @@
     "name": "www.lora924.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T14:07:29.252Z",
+    "controlDate": "2026-05-20T14:17:38.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154155,7 +154155,7 @@
     "name": "www.antenneduesseldorf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:10:13.628Z",
+    "controlDate": "2026-05-20T13:45:14.051Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155565,7 +155565,7 @@
     "name": "www.antenne-landau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:33:08.897Z",
+    "controlDate": "2026-05-20T14:11:23.472Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156089,7 +156089,7 @@
     "name": "www.antenne-trier.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:33:25.986Z",
+    "controlDate": "2026-05-20T14:11:54.919Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160015,7 +160015,7 @@
     "name": "www.radioneandertal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:20:36.720Z",
+    "controlDate": "2026-05-20T13:55:33.066Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160821,7 +160821,7 @@
     "name": "www.radio901.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:27:45.559Z",
+    "controlDate": "2026-05-20T13:57:32.343Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161107,7 +161107,7 @@
     "name": "www.news894.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-18T13:18:03.701Z",
+    "controlDate": "2026-05-20T13:50:51.851Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161942,7 +161942,7 @@
     "name": "www.radioton.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-10T13:41:07.684Z",
+    "controlDate": "2026-05-20T14:10:11.796Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
