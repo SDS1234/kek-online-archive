@@ -20611,7 +20611,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1932
+    num_medias_weighted=0.1920
     name="5be1a6b6-8618-4929-88e1-748cf6eb922e"
     in_degree=0
     out_degree=1
@@ -33453,7 +33453,7 @@ digraph {
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-18f9-48d6-a1e6-34a9205f316a"
-    in_degree=4
+    in_degree=3
     out_degree=4
   ];
   2788 [
@@ -36031,7 +36031,7 @@ digraph {
     num_owners=23
     num_owners_weighted=22.0000
     num_medias=58
-    num_medias_weighted=13.6035
+    num_medias_weighted=13.5177
     name="5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5"
     in_degree=22
     out_degree=4
@@ -36043,7 +36043,7 @@ digraph {
     num_owners=24
     num_owners_weighted=23.0000
     num_medias=58
-    num_medias_weighted=13.6035
+    num_medias_weighted=13.5177
     name="5be1a6b6-34ef-45b6-9fef-9ac918a32345"
     in_degree=1
     out_degree=1
@@ -36067,10 +36067,10 @@ digraph {
     num_owners=26
     num_owners_weighted=25.0000
     num_medias=58
-    num_medias_weighted=13.6035
+    num_medias_weighted=13.5177
     name="5be1a6b6-ef0d-457b-8db1-fea99e30f23e"
     in_degree=2
-    out_degree=13
+    out_degree=12
   ];
   3006 [
     type=shareholder
@@ -36103,7 +36103,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=2.4486
+    num_medias_weighted=2.4332
     name="5be1a6b6-7f77-4f7b-975f-a4787e195a69"
     in_degree=0
     out_degree=3
@@ -36115,7 +36115,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0680
+    num_medias_weighted=0.0676
     name="60783adc-5613-4c82-ba89-f6cc83e64b38"
     in_degree=0
     out_degree=1
@@ -36127,7 +36127,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0680
+    num_medias_weighted=0.0676
     name="60783aef-d8ea-421f-987e-a3b7a29bce4a"
     in_degree=0
     out_degree=1
@@ -36139,7 +36139,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0680
+    num_medias_weighted=0.0676
     name="60783b05-6ad9-4c94-a24b-c2f689000d0a"
     in_degree=0
     out_degree=1
@@ -41727,7 +41727,7 @@ digraph {
   3477 [
     type=shareholder
     state=active
-    label="Erbengemeinschaft (ungeteilt) Andreas Fromm, Maximilian Pfeil, Johanna Fromm-Bruns, Nicolas L. Fromm"
+    label="Erbengemeinschaft (ungeteilt) Andreas Fromm, Maximilian Pfeil, Nicolas L. Fromm"
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=183
@@ -42391,7 +42391,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5890
+    num_medias_weighted=0.5853
     name="5be1a6b6-4ee9-4380-a8fb-f26ae41306b3"
     in_degree=0
     out_degree=1
@@ -63189,7 +63189,7 @@ digraph {
     num_medias=22
     num_medias_weighted=5.1225
     name="5be1a6b6-b9b0-4706-bd6c-15559db4e2d9"
-    in_degree=6
+    in_degree=5
     out_degree=5
   ];
   5266 [
@@ -81208,8 +81208,8 @@ digraph {
     type=shareholder
     state=active
     label="Kurpfälzische Verlagsbeteiligungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=201
     num_medias_weighted=6.9542
     name="695bf519-25dd-4c3f-a861-2180a2103f1c"
@@ -82282,7 +82282,7 @@ digraph {
     num_medias_weighted=53.3089
     name="5be1a6b6-247b-40f5-80f1-0a66263980d0"
     in_degree=5
-    out_degree=3
+    out_degree=2
   ];
   6857 [
     type=shareholder
@@ -84185,7 +84185,7 @@ digraph {
     state=active
     label="Laut AG"
     num_owners=513
-    num_owners_weighted=11.4272
+    num_owners_weighted=11.4412
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-92d3-41f7-9672-ad84fe778e5f"
@@ -91663,7 +91663,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1700
+    num_medias_weighted=0.1690
     name="5be1a6b6-3eeb-46fb-b844-0a2815b66259"
     in_degree=0
     out_degree=1
@@ -103171,7 +103171,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.2721
+    num_medias_weighted=0.2704
     name="5be1a6b6-ac7b-4e63-a2c2-988dbc5d89fe"
     in_degree=0
     out_degree=1
@@ -103207,7 +103207,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=3.3845
+    num_medias_weighted=3.3632
     name="5be1a6b6-351c-4df6-87c8-7ac43baaf472"
     in_degree=0
     out_degree=3
@@ -103219,7 +103219,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.4897
+    num_medias_weighted=0.4866
     name="60783b29-fde7-4306-ad55-6e22d56e8a96"
     in_degree=0
     out_degree=1
@@ -103231,7 +103231,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1360
+    num_medias_weighted=0.1352
     name="5be1a6b6-571c-455b-b26c-c138d1f18421"
     in_degree=0
     out_degree=1
@@ -103243,7 +103243,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0680
+    num_medias_weighted=0.0676
     name="671b8675-dadf-4baa-afe9-469d1e80ed4c"
     in_degree=0
     out_degree=1
@@ -103255,7 +103255,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.4897
+    num_medias_weighted=0.4866
     name="60783b3f-6791-4311-b305-bb21653784d3"
     in_degree=0
     out_degree=1
@@ -106351,7 +106351,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1360
+    num_medias_weighted=0.1352
     name="60783b60-5221-41d6-a8b4-c9251f495c70"
     in_degree=0
     out_degree=1
@@ -106363,7 +106363,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.0680
+    num_medias_weighted=0.0676
     name="66586a8a-6533-4daf-906c-017ec4f9358f"
     in_degree=0
     out_degree=1
@@ -132607,7 +132607,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1700
+    num_medias_weighted=0.1690
     name="5be1a6b6-0dfd-4ad0-8c76-926bcaf30540"
     in_degree=0
     out_degree=1
@@ -136543,7 +136543,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5890
+    num_medias_weighted=0.5853
     name="5be1a6b6-fd7a-4a95-8145-bcac5d84a298"
     in_degree=0
     out_degree=1
@@ -136567,7 +136567,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.5890
+    num_medias_weighted=0.5853
     name="5be1a6b6-805b-42ad-9b26-d434423ae28a"
     in_degree=0
     out_degree=1
@@ -161455,7 +161455,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=2.2446
+    num_medias_weighted=2.2304
     name="5be1a6b6-76e3-4763-801f-0d7c9feb9535"
     in_degree=0
     out_degree=1
@@ -161467,7 +161467,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.1360
+    num_medias_weighted=0.1352
     name="5be1a6b6-31a0-4956-ab44-e22a5a112be1"
     in_degree=0
     out_degree=1
@@ -161479,7 +161479,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=58
-    num_medias_weighted=0.9863
+    num_medias_weighted=0.9800
     name="66586aa2-fc9e-41ab-a37e-a380081fba87"
     in_degree=0
     out_degree=1
@@ -189401,7 +189401,7 @@ digraph {
     state=active
     label="www.laut.de"
     num_owners=514
-    num_owners_weighted=12.4272
+    num_owners_weighted=12.4412
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ba82-4d4b-bf16-2906fa75449c"
@@ -225537,10 +225537,6 @@ digraph {
     weight=100
     type=owns
   ];
-  3005 -> 5265 [
-    weight=2.21
-    type=owns
-  ];
   3005 -> 6723 [
     weight=100
     type=owns
@@ -242251,10 +242247,6 @@ digraph {
   ];
   6855 -> 6856 [
     weight=1
-    type=owns
-  ];
-  6856 -> 2787 [
-    weight=50
     type=owns
   ];
   6856 -> 8782 [
