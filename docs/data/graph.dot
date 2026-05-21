@@ -10492,12 +10492,12 @@ digraph {
     type=radio
     state=active
     label="baden.fm"
-    num_owners=13
-    num_owners_weighted=2.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-819c-4eb8-9f11-6a5d811dce7e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   875 [
@@ -19674,11 +19674,11 @@ digraph {
     label="Breitner, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=7
-    num_medias_weighted=2.9000
+    num_medias=1
+    num_medias_weighted=0.5000
     name="5be1a6b6-3b01-468e-84b9-f5b644aa5c89"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   1640 [
     type=shareholder
@@ -19686,11 +19686,11 @@ digraph {
     label="Breitner, Nicole"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=7
-    num_medias_weighted=1.4000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ce69fcc-0493-4104-af6e-392ed7b69026"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1641 [
     type=radio
@@ -31662,7 +31662,7 @@ digraph {
     label="Die Neue Welle Beteiligungs- und Verwaltungsgesellschaft mbH"
     num_owners=8
     num_owners_weighted=5.0000
-    num_medias=266
+    num_medias=265
     num_medias_weighted=0.0000
     name="5be1a6b6-91ce-43a5-be72-79eee118b011"
     in_degree=1
@@ -31686,7 +31686,7 @@ digraph {
     label="Die Neue Welle Rundfunk-Verwaltungsgesellschaft mbH & Co. KG"
     num_owners=10
     num_owners_weighted=2.0000
-    num_medias=266
+    num_medias=265
     num_medias_weighted=33.8261
     name="5efef438-7c82-454e-beb9-493d1f5ec407"
     in_degree=3
@@ -48102,11 +48102,11 @@ digraph {
     label="Forster, Tobias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=7
-    num_medias_weighted=2.8000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ce69fbb-c9a0-481e-b096-3ee7f36d8825"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4009 [
     type=shareholder
@@ -51902,15 +51902,15 @@ digraph {
   ];
   4325 [
     type=shareholder
-    state=active
+    state=archived
     label="Funkhaus Freiburg GmbH & Co. KG"
-    num_owners=12
-    num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=1.3333
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-56ad-46d4-8221-517da639f398"
-    in_degree=3
-    out_degree=3
+    in_degree=2
+    out_degree=0
   ];
   4326 [
     type=shareholder
@@ -51918,11 +51918,11 @@ digraph {
     label="Funkhaus Freiburg Verwaltungs GmbH"
     num_owners=11
     num_owners_weighted=3.0000
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="5eeb6b61-69f5-4e21-be9c-60e7f02b84ac"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   4327 [
     type=shareholder
@@ -52070,15 +52070,15 @@ digraph {
   ];
   4339 [
     type=shareholder
-    state=active
+    state=archived
     label="Funkhaus Pfaffenhofen GmbH"
-    num_owners=3
-    num_owners_weighted=3.0000
-    num_medias=7
-    num_medias_weighted=7.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ce69f45-63d2-4b4b-89a9-4ff5f62268e7"
-    in_degree=3
-    out_degree=7
+    in_degree=0
+    out_degree=0
   ];
   4340 [
     type=shareholder
@@ -68622,7 +68622,7 @@ digraph {
     label="Härtl, Barbara Theresia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=287
+    num_medias=286
     num_medias_weighted=0.0000
     name="5efb01b2-c85e-48a8-90cb-224ae737729f"
     in_degree=0
@@ -69748,36 +69748,36 @@ digraph {
     type=radio
     state=active
     label="Ilmwelle 90s"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5ce6a0b8-c7c7-4e61-875c-325f718a411d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   5813 [
     type=radio
     state=active
     label="Ilmwelle Event"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5ce6a10f-c7e7-419a-8c58-c6a039e9dc72"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   5814 [
     type=radio
     state=active
     label="Ilmwelle Schlager"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5ce6a01b-15e9-4eaf-99b5-66505bdf30c5"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   5815 [
@@ -93328,24 +93328,24 @@ digraph {
     type=shareholder
     state=active
     label="Medienhaus Südwest GmbH & Co. KG"
-    num_owners=369
+    num_owners=368
     num_owners_weighted=1.0000
     num_medias=1
     num_medias_weighted=1.0000
     name="611a29be-20ab-4a5e-a86b-ef5f24460dda"
-    in_degree=4
+    in_degree=3
     out_degree=1
   ];
   7778 [
     type=shareholder
     state=active
     label="Medienhaus Südwest Verwaltungs-GmbH"
-    num_owners=368
-    num_owners_weighted=6.8317
+    num_owners=367
+    num_owners_weighted=6.5332
     num_medias=1
     num_medias_weighted=0.0000
     name="611a2a6a-1cd6-4581-af9e-c2f913aa7453"
-    in_degree=3
+    in_degree=2
     out_degree=1
   ];
   7779 [
@@ -100026,7 +100026,7 @@ digraph {
     label="Müller Medien GmbH & Co. KG"
     num_owners=7
     num_owners_weighted=4.0000
-    num_medias=266
+    num_medias=265
     num_medias_weighted=0.0000
     name="5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c"
     in_degree=5
@@ -100038,7 +100038,7 @@ digraph {
     label="Müller Medien Verwaltungs-GmbH"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=266
+    num_medias=265
     num_medias_weighted=0.0000
     name="5eff1bdd-2f05-49d1-8bdc-6a31d8a7f979"
     in_degree=3
@@ -107754,7 +107754,7 @@ digraph {
     label="Oschmann, Constanze"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=300
+    num_medias=299
     num_medias_weighted=6.2704
     name="5be1a6b6-649e-43f5-ab9a-1ced442fd834"
     in_degree=0
@@ -107766,7 +107766,7 @@ digraph {
     label="Oschmann, Gunther"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=287
+    num_medias=286
     num_medias_weighted=1.4538
     name="5be1a6b6-5e9d-48fa-b088-265055082ac9"
     in_degree=0
@@ -107778,7 +107778,7 @@ digraph {
     label="Oschmann, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=301
+    num_medias=300
     num_medias_weighted=7.1660
     name="5be1a6b6-2941-49b8-ad22-038b5aa868af"
     in_degree=0
@@ -118324,12 +118324,12 @@ digraph {
     type=radio
     state=active
     label="Radio Ilmwelle"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-68c0-4614-bc7c-dc457eba972f"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9861 [
@@ -119560,24 +119560,24 @@ digraph {
     type=radio
     state=active
     label="Radio PN Eins Dance"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-497c-4af2-aa5e-cc4b535026e3"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9964 [
     type=radio
     state=active
     label="Radio PN Eins Urban"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5ce6a1f8-e0bb-4b8e-ac1f-20a8c401c5e4"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   9965 [
@@ -142506,7 +142506,7 @@ digraph {
     label="SR Beteiligungs GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=287
+    num_medias=286
     num_medias_weighted=0.0000
     name="5efb014d-25a1-4255-8bb8-6138f8307e74"
     in_degree=2
@@ -142518,7 +142518,7 @@ digraph {
     label="SR Broadcast Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=266
+    num_medias=265
     num_medias_weighted=0.0000
     name="5eeb6bb9-7b98-4b92-9235-53f76ae93224"
     in_degree=4
@@ -142542,7 +142542,7 @@ digraph {
     label="SR Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=287
+    num_medias=286
     num_medias_weighted=0.0000
     name="5f905285-3715-460e-affd-dc041afaea8a"
     in_degree=4
@@ -172960,7 +172960,7 @@ digraph {
     type=online
     state=active
     label="www.antenna-bw.de"
-    num_owners=370
+    num_owners=369
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -195340,12 +195340,12 @@ digraph {
     type=online
     state=active
     label="www.pafnet.tv"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f914ff1-eddf-47b5-b54f-8864b00f1046"
-    in_degree=2
+    in_degree=1
     out_degree=0
   ];
   16279 [
@@ -219205,16 +219205,8 @@ digraph {
     weight=24.75
     type=owns
   ];
-  1639 -> 4339 [
-    weight=40
-    type=owns
-  ];
   1639 -> 9347 [
     weight=50
-    type=owns
-  ];
-  1640 -> 4339 [
-    weight=20
     type=owns
   ];
   1646 -> 1645 [
@@ -229061,10 +229053,6 @@ digraph {
     weight=100
     type=owns
   ];
-  4008 -> 4339 [
-    weight=40
-    type=owns
-  ];
   4009 -> 4010 [
     weight=100
     type=owns
@@ -231449,22 +231437,6 @@ digraph {
     weight=1
     type=owns
   ];
-  4325 -> 7777 [
-    weight=33.33
-    type=owns
-  ];
-  4325 -> 7778 [
-    weight=33.33
-    type=owns
-  ];
-  4325 -> 874 [
-    weight=100
-    type=operates
-  ];
-  4326 -> 4325 [
-    weight=1
-    type=owns
-  ];
   4327 -> 4328 [
     weight=100
     type=owns
@@ -231648,34 +231620,6 @@ digraph {
   4338 -> 4337 [
     weight=1
     type=owns
-  ];
-  4339 -> 5812 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 5813 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 5814 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 9860 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 9963 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 9964 [
-    weight=100
-    type=operates
-  ];
-  4339 -> 16278 [
-    weight=100
-    type=operates
   ];
   4340 -> 4341 [
     weight=1

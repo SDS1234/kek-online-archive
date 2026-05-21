@@ -20817,33 +20817,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Funkhaus Freiburg GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-56ad-46d4-8221-517da639f398",
+    "name": "Funkhaus Freiburg GmbH & Co. KG",
+    "state": "archived",
     "controlDate": "2026-05-07T12:04:48.490Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-8488-42cd-bc1d-d4f4c59a861f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-819c-4eb8-9f11-6a5d811dce7e",
-          "name": "baden.fm"
-        }
       }
     ]
   },
@@ -138217,12 +138201,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
       }
     ]
   },
@@ -155107,14 +155085,9 @@
     "controlDate": "2026-05-07T12:03:22.341Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -217065,84 +217038,14 @@
   {
     "squuid": "5ce69f45-63d2-4b4b-89a9-4ff5f62268e7",
     "name": "Funkhaus Pfaffenhofen GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-05-07T12:59:59.430Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5ce69f62-c682-4e36-ab16-b7a328689c8b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-68c0-4614-bc7c-dc457eba972f",
-          "name": "Radio Ilmwelle"
-        }
-      },
-      {
-        "squuid": "5ce6a030-5222-4c0d-a2b4-464ed1eec355",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5ce6a01b-15e9-4eaf-99b5-66505bdf30c5",
-          "name": "Ilmwelle Schlager"
-        }
-      },
-      {
-        "squuid": "5ce6a0dc-4abf-452d-98a7-a1c492ba379e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5ce6a0b8-c7c7-4e61-875c-325f718a411d",
-          "name": "Ilmwelle 90s"
-        }
-      },
-      {
-        "squuid": "5ce6a126-ee22-4301-bcf6-1385e5d4788c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5ce6a10f-c7e7-419a-8c58-c6a039e9dc72",
-          "name": "Ilmwelle Event"
-        }
-      },
-      {
-        "squuid": "5ce6a1aa-89b2-4910-baf7-1a4ac4d1556e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-497c-4af2-aa5e-cc4b535026e3",
-          "name": "Radio PN Eins Dance"
-        }
-      },
-      {
-        "squuid": "5ce6a21b-9d1c-4ef2-96db-1f4df7463a6b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5ce6a1f8-e0bb-4b8e-ac1f-20a8c401c5e4",
-          "name": "Radio PN Eins Urban"
-        }
-      },
-      {
-        "squuid": "5f9151c3-f7d5-4be8-8b6e-f9b3e986f313",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f914ff1-eddf-47b5-b54f-8864b00f1046",
-          "name": "www.pafnet.tv"
-        }
       }
     ]
   },
@@ -217628,14 +217531,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -217689,14 +217587,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
