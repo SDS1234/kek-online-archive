@@ -14032,8 +14032,8 @@ digraph {
     type=print
     state=active
     label="Bergische Landeszeitung"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-10d9-42c6-9b4b-83c46f19b0a9"
@@ -18136,8 +18136,8 @@ digraph {
     type=print
     state=active
     label="Bonner Rundschau"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9e45-4944-8ab7-2ee45ee4731a"
@@ -30844,12 +30844,12 @@ digraph {
     type=shareholder
     state=active
     label="DF1 Medien Verwaltungs GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=2
     num_medias_weighted=0.0000
     name="68efba8d-f693-4522-a932-ef71f79be950"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   2571 [
@@ -31545,7 +31545,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1e36-40c2-bdde-a70ed43eacf4"
-    in_degree=1
+    in_degree=2
     out_degree=0
   ];
   2629 [
@@ -56805,7 +56805,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="6a01eaad-2014-4dc2-a057-569cb8817e94"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   4734 [
@@ -66846,8 +66846,8 @@ digraph {
     label="Holland, Alexandra"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=305
-    num_medias_weighted=47.7769
+    num_medias=303
+    num_medias_weighted=46.7769
     name="5be1a6b6-e4a8-43b9-9b8b-d928c7d64d0e"
     in_degree=0
     out_degree=1
@@ -81628,8 +81628,8 @@ digraph {
     type=print
     state=active
     label="Kölnische Rundschau"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7b3e-44f4-831a-d90455b3a821"
@@ -88578,11 +88578,11 @@ digraph {
     label="M von A & C GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=10
-    num_medias_weighted=4.6663
+    num_medias=14
+    num_medias_weighted=8.6662
     name="5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
     in_degree=4
-    out_degree=6
+    out_degree=8
   ];
   7382 [
     type=shareholder
@@ -88684,13 +88684,13 @@ digraph {
     type=shareholder
     state=active
     label="M.T.I. Teleport München GmbH Gesellschaft für Satellitenübertragungen"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=1.9000
     name="68efb9dc-a1a2-4250-bb45-dba0b8d6255b"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   7391 [
     type=shareholder
@@ -88782,8 +88782,8 @@ digraph {
     label="Maas, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=10
-    num_medias_weighted=0.2333
+    num_medias=14
+    num_medias_weighted=0.4333
     name="5f688cf9-8eea-4b17-b828-8839bb7ecb3a"
     in_degree=0
     out_degree=1
@@ -88818,8 +88818,8 @@ digraph {
     label="Maas, Bernd"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=10
-    num_medias_weighted=2.0464
+    num_medias=14
+    num_medias_weighted=4.0864
     name="5f3a8e0a-1c0e-4b33-82ce-036d81535fb6"
     in_degree=0
     out_degree=2
@@ -88830,8 +88830,8 @@ digraph {
     label="Maas, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=10
-    num_medias_weighted=0.2333
+    num_medias=14
+    num_medias_weighted=0.4333
     name="5f688d11-95c0-4ea1-8d51-5335addbaf91"
     in_degree=0
     out_degree=1
@@ -88878,8 +88878,8 @@ digraph {
     label="Maas, Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=10
-    num_medias_weighted=1.6558
+    num_medias=14
+    num_medias_weighted=3.2158
     name="5f3a8e00-12e2-4e84-a495-a00040faa0f5"
     in_degree=0
     out_degree=2
@@ -89139,7 +89139,7 @@ digraph {
   7428 [
     type=shareholder
     state=active
-    label="Madsack Travel GmbH & Co. KG"
+    label="Madsack Reisereporter GmbH & Co. KG"
     num_owners=43
     num_owners_weighted=35.6882
     num_medias=1
@@ -89151,7 +89151,7 @@ digraph {
   7429 [
     type=shareholder
     state=active
-    label="Madsack Travel Verwaltungs-GmbH"
+    label="Madsack Reisereporter Verwaltungs-GmbH"
     num_owners=43
     num_owners_weighted=36.6882
     num_medias=1
@@ -89478,11 +89478,11 @@ digraph {
     label="Main-Post GmbH"
     num_owners=8
     num_owners_weighted=8.0000
-    num_medias=27
-    num_medias_weighted=22.0310
+    num_medias=25
+    num_medias_weighted=20.0310
     name="5be1a6b6-8b22-4880-b165-294a9c44a51b"
     in_degree=1
-    out_degree=26
+    out_degree=24
   ];
   7457 [
     type=print
@@ -93090,8 +93090,8 @@ digraph {
     label="Mediengruppe Main-Post GmbH"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=28
-    num_medias_weighted=23.0310
+    num_medias=26
+    num_medias_weighted=21.0310
     name="5be1a6b6-fd86-43fb-894e-c03676de820a"
     in_degree=1
     out_degree=3
@@ -106036,8 +106036,8 @@ digraph {
     type=print
     state=active
     label="Oberbergische Volkszeitung"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5a15-44c2-bd6f-012404c2189a"
@@ -109830,8 +109830,8 @@ digraph {
     label="PDV Medien Beteiligungs GmbH"
     num_owners=6
     num_owners_weighted=6.0000
-    num_medias=28
-    num_medias_weighted=23.0310
+    num_medias=26
+    num_medias_weighted=21.0310
     name="5be1a6b6-f0e4-450f-b580-d39b9fe9dd58"
     in_degree=1
     out_degree=1
@@ -113262,11 +113262,11 @@ digraph {
     label="Presse-Druck- und Verlags-GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=305
-    num_medias_weighted=95.5539
+    num_medias=303
+    num_medias_weighted=93.5539
     name="5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6"
     in_degree=5
-    out_degree=63
+    out_degree=64
   ];
   9439 [
     type=shareholder
@@ -124509,7 +124509,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="6a01e7c5-8e07-4f2a-941a-2e1831b62d16"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   10376 [
@@ -124552,8 +124552,8 @@ digraph {
     type=print
     state=active
     label="Rhein-Erft-Rundschau"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e0e7-4ae1-bf35-977bdf77dd74"
@@ -124708,8 +124708,8 @@ digraph {
     type=print
     state=active
     label="Rhein-Sieg-Rundschau"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0db1-42cb-b32c-e0bae88ae498"
@@ -132138,8 +132138,8 @@ digraph {
     label="Scherer, Antonia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=305
-    num_medias_weighted=6.3734
+    num_medias=303
+    num_medias_weighted=6.2400
     name="67530b43-6b59-4fe5-86ae-6e19b63aae34"
     in_degree=0
     out_degree=1
@@ -132150,8 +132150,8 @@ digraph {
     label="Scherer, Benedikt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=305
-    num_medias_weighted=6.3734
+    num_medias=303
+    num_medias_weighted=6.2400
     name="67530b35-3318-426c-b7c5-9fcb152531c6"
     in_degree=0
     out_degree=1
@@ -132162,8 +132162,8 @@ digraph {
     label="Scherer, Ellinor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=305
-    num_medias_weighted=47.7769
+    num_medias=303
+    num_medias_weighted=46.7769
     name="5be1a6b6-7e99-44bf-a402-968de38d5ca6"
     in_degree=0
     out_degree=1
@@ -132174,8 +132174,8 @@ digraph {
     label="Scherer, Viktoria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=305
-    num_medias_weighted=6.3734
+    num_medias=303
+    num_medias_weighted=6.2400
     name="67530b27-e2d3-4600-b431-a9525f0d7465"
     in_degree=0
     out_degree=1
@@ -172946,14 +172946,14 @@ digraph {
   ];
   14412 [
     type=online
-    state=active
+    state=archived
     label="www.ansbachplus.de"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6373c0cc-8851-4778-8b11-abb445e4700e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14413 [
@@ -190910,14 +190910,14 @@ digraph {
   ];
   15909 [
     type=online
-    state=active
+    state=archived
     label="www.markt.mainpost.de"
-    num_owners=9
-    num_owners_weighted=9.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="63e4cecc-13bf-468f-9368-5e4d968801ed"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   15910 [
@@ -200116,8 +200116,8 @@ digraph {
     type=online
     state=active
     label="www.rundschau-online.de"
-    num_owners=51
-    num_owners_weighted=17.6350
+    num_owners=45
+    num_owners_weighted=11.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9975-4180-bdc7-7523ed11ac3b"
@@ -244001,8 +244001,16 @@ digraph {
     weight=65
     type=owns
   ];
+  7381 -> 4733 [
+    weight=100
+    type=owns
+  ];
   7381 -> 8870 [
     weight=50
+    type=owns
+  ];
+  7381 -> 10375 [
+    weight=100
     type=owns
   ];
   7381 -> 10724 [
@@ -244151,6 +244159,10 @@ digraph {
   ];
   7390 -> 2569 [
     weight=95
+    type=owns
+  ];
+  7390 -> 2570 [
+    weight=100
     type=owns
   ];
   7391 -> 9315 [
@@ -244473,10 +244485,6 @@ digraph {
     weight=100
     type=operates
   ];
-  7456 -> 14412 [
-    weight=100
-    type=operates
-  ];
   7456 -> 15886 [
     weight=100
     type=operates
@@ -244486,10 +244494,6 @@ digraph {
     type=operates
   ];
   7456 -> 15894 [
-    weight=100
-    type=operates
-  ];
-  7456 -> 15909 [
     weight=100
     type=operates
   ];
@@ -254902,6 +254906,10 @@ digraph {
     type=operates
   ];
   9438 -> 2475 [
+    weight=100
+    type=operates
+  ];
+  9438 -> 2628 [
     weight=100
     type=operates
   ];

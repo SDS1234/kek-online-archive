@@ -8101,7 +8101,7 @@
     "squuid": "5be1a6b6-e7d4-42fd-aacd-37234b231d29",
     "name": "Mainstream Media AG",
     "state": "active",
-    "controlDate": "2025-11-26T13:20:46.557Z",
+    "controlDate": "2026-05-21T09:48:59.358Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -12288,7 +12288,7 @@
     "name": "M.O.R.E. Lokalfunk Baden-Württemberg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b593-4d54-b4af-940456ef3a1e",
-    "controlDate": "2025-11-26T09:24:28.297Z",
+    "controlDate": "2026-05-21T08:35:05.961Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -14354,6 +14354,15 @@
         "held": {
           "squuid": "5be1a6b1-7928-4153-997f-a3561203e08f",
           "name": "www.mainpost.de"
+        }
+      },
+      {
+        "squuid": "6a0ed072-53de-4083-b080-aff3554643b0",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-1e36-40c2-bdde-a70ed43eacf4",
+          "name": "Die Kitzinger"
         }
       }
     ]
@@ -28085,7 +28094,7 @@
     "squuid": "696f6eed-d091-4662-8b88-a98f9dfaac5d",
     "name": "Madsack Beteiligungsholding GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-20T12:12:36.421Z",
+    "controlDate": "2026-05-21T09:00:22.027Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -31007,7 +31016,7 @@
     "squuid": "696f71ac-5070-4a84-80c6-3c72c70de46e",
     "name": "Madsack Beteiligungs-Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-20T12:18:09.411Z",
+    "controlDate": "2026-05-21T08:59:23.940Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -45578,7 +45587,7 @@
     "squuid": "5be1a6b6-8b22-4880-b165-294a9c44a51b",
     "name": "Main-Post GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:58:48.507Z",
+    "controlDate": "2026-05-21T09:21:29.113Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -45726,24 +45735,6 @@
         "held": {
           "squuid": "6373bf35-94e6-45ae-a4ca-60e94286b932",
           "name": "www.mamamia-online.de"
-        }
-      },
-      {
-        "squuid": "6373c0e3-d0fd-4d37-9eb8-97b418705b93",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6373c0cc-8851-4778-8b11-abb445e4700e",
-          "name": "www.ansbachplus.de"
-        }
-      },
-      {
-        "squuid": "63e4d309-0e03-409c-a88b-c22ff272a9ee",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "63e4cecc-13bf-468f-9368-5e4d968801ed",
-          "name": "www.markt.mainpost.de"
         }
       },
       {
@@ -51550,7 +51541,7 @@
     "squuid": "5be1a6b6-e877-4a7f-83e4-fca3b960215f",
     "name": "m2m Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:30:56.417Z",
+    "controlDate": "2026-05-21T08:39:50.679Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -68137,7 +68128,7 @@
     "squuid": "5be1a6b6-515c-477d-a9e9-fb6a094d1d99",
     "name": "Mach 2 GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:33:54.251Z",
+    "controlDate": "2026-05-21T08:41:35.012Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -88871,7 +88862,7 @@
     "squuid": "5be1a6b6-f4da-445b-86ce-e43d31d929cf",
     "name": "Marco Polo TV GmbH",
     "state": "active",
-    "controlDate": "2025-11-27T10:16:15.480Z",
+    "controlDate": "2026-05-21T10:29:25.681Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -88910,7 +88901,7 @@
     "name": "MAIRDUMONT GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6485-4973-9bbc-8ac6b12caaf9",
-    "controlDate": "2025-11-26T14:54:41.768Z",
+    "controlDate": "2026-05-21T10:06:45.158Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -88952,7 +88943,7 @@
     "squuid": "5be1a6b6-1975-4503-9c2a-805f1b6655c8",
     "name": "Mair-Jickeli Familien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-26T13:23:50.728Z",
+    "controlDate": "2026-05-21T10:05:32.176Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -94571,7 +94562,7 @@
     "name": "M. Liehners Hofbuchdruckerei GmbH & Co KG Verlagsanstalt",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-fa97-4da9-8d7c-539bb062a458",
-    "controlDate": "2025-11-26T09:18:30.975Z",
+    "controlDate": "2026-05-21T08:31:25.800Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118672,7 +118663,7 @@
     "name": "Madsack Medienagentur GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "65955e4e-02f6-4e73-bd83-4382a11b8dd9",
-    "controlDate": "2025-11-26T12:48:01.312Z",
+    "controlDate": "2026-05-21T09:10:20.105Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -121722,7 +121713,7 @@
     "squuid": "5be1a6b6-4add-4b03-bec9-315127c38099",
     "name": "Madsack Hörfunk GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:35:51.541Z",
+    "controlDate": "2026-05-21T09:01:51.275Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143676,7 +143667,7 @@
     "squuid": "5eddfe9a-07a3-41a5-bd6b-d6bbcbda2789",
     "name": "MAIRDUMONT Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T14:53:19.202Z",
+    "controlDate": "2026-05-21T10:06:24.656Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146784,7 +146775,7 @@
     "squuid": "5eb93f9f-2398-4506-93d8-87abb7cde3fb",
     "name": "M. DuMont Schauberg Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:14:33.018Z",
+    "controlDate": "2026-05-21T08:12:58.010Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148708,10 +148699,10 @@
   },
   {
     "state": "active",
-    "name": "Madsack Travel GmbH & Co. KG",
+    "name": "Madsack Reisereporter GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "64a54bc5-e43e-4be3-8a82-6efa07bfa423",
-    "controlDate": "2025-11-26T12:48:43.661Z",
+    "controlDate": "2026-05-21T09:11:05.932Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -149195,9 +149186,9 @@
   },
   {
     "squuid": "64a54be0-298d-41ee-be6e-daf6b093129f",
-    "name": "Madsack Travel Verwaltungs-GmbH",
+    "name": "Madsack Reisereporter Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:49:22.654Z",
+    "controlDate": "2026-05-21T09:10:57.348Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161666,7 +161657,7 @@
     "squuid": "5ebbaefa-f781-4801-a86e-3320ebe39c28",
     "name": "M. Liehners Hofbuchdruckerei Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T09:18:17.748Z",
+    "controlDate": "2026-05-21T08:29:28.548Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162157,7 +162148,7 @@
     "squuid": "5ca5e744-a1db-4363-a5e4-fd5046738930",
     "name": "M. Kunze GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T09:16:44.791Z",
+    "controlDate": "2026-05-21T08:27:59.090Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -167875,7 +167866,7 @@
     "squuid": "6357f209-81d3-46ff-b906-d8399a6637a3",
     "name": "M und M Ehrenklau GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-11-26T09:07:00.867Z",
+    "controlDate": "2026-05-21T08:00:39.312Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -174438,7 +174429,7 @@
     "squuid": "5d306500-3291-491f-86c7-54dca32b7f70",
     "name": "Mag. Dvorak-Stocker Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:52:29.461Z",
+    "controlDate": "2026-05-21T09:15:44.640Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -180042,7 +180033,7 @@
     "name": "Madsack Medien Hannover GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63e3ca42-7122-44e3-8fd3-b5196b28773d",
-    "controlDate": "2025-11-26T12:36:46.404Z",
+    "controlDate": "2026-05-21T09:02:48.984Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183445,7 +183436,7 @@
     "squuid": "6634d84d-5dd4-4e4c-b77e-63770e003071",
     "name": "MainSent GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T13:15:46.231Z",
+    "controlDate": "2026-05-21T09:43:39.608Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192630,7 +192621,7 @@
     "squuid": "63d26634-ae41-4cd5-86b2-f478ae16a1be",
     "name": "Magazinverlag Bremen GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:54:09.017Z",
+    "controlDate": "2026-05-21T09:16:01.093Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -196238,7 +196229,7 @@
     "squuid": "5dfbb2f4-263f-48ba-b481-53154bb258cc",
     "name": "Main-Echo Verlags- und Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:55:19.019Z",
+    "controlDate": "2026-05-21T09:18:37.407Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197759,7 +197750,7 @@
     "squuid": "63d7beff-3977-4bab-b73b-7f9d8cc8493f",
     "name": "M + B Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T09:06:11.391Z",
+    "controlDate": "2026-05-21T07:57:12.281Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198883,7 +198874,7 @@
     "squuid": "5f7afd54-6aed-43aa-a1ea-e13f1450c9cc",
     "name": "MAKU Kommunikationstechnik GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T14:57:56.383Z",
+    "controlDate": "2026-05-21T10:09:49.227Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -201508,7 +201499,7 @@
     "squuid": "68efb9dc-a1a2-4250-bb45-dba0b8d6255b",
     "name": "M.T.I. Teleport München GmbH Gesellschaft für Satellitenübertragungen",
     "state": "active",
-    "controlDate": "2025-10-21T07:43:01.377Z",
+    "controlDate": "2026-05-21T08:37:39.242Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -213524,7 +213515,7 @@
     "squuid": "5be1a6b6-9076-49d5-9623-baf697191974",
     "name": "M D V, Mönchhof Druck- und Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-27T11:42:59.988Z",
+    "controlDate": "2026-05-21T07:57:41.365Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221493,7 +221484,7 @@
     "name": "M. DuMont Schauberg Expedition der Kölnischen Zeitung GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9d5d-484c-a27a-6a9349842635",
-    "controlDate": "2025-11-26T12:18:32.635Z",
+    "controlDate": "2026-05-21T08:13:42.456Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -224394,7 +224385,7 @@
     "squuid": "5be1a6b6-9798-4c29-b529-ae86f0d972bd",
     "name": "manager magazin Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-26T15:16:51.566Z",
+    "controlDate": "2026-05-21T10:11:41.365Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -224445,7 +224436,7 @@
     "squuid": "5be1a6b6-ad5a-4f35-9ae0-44805ba7c400",
     "name": "Mannheimer Morgen GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T15:57:45.644Z",
+    "controlDate": "2026-05-21T10:15:05.052Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -235227,7 +235218,7 @@
     "name": "Madsack Medien Ostniedersachsen GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-f0ef-4915-9ba2-3ec011981af2",
-    "controlDate": "2025-11-26T12:40:15.083Z",
+    "controlDate": "2026-05-21T09:05:33.837Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244865,7 +244856,7 @@
     "name": "manager magazin new media GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-328d-4826-8fd5-c964305d4b23",
-    "controlDate": "2025-11-26T15:02:28.715Z",
+    "controlDate": "2026-05-21T10:13:31.111Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245846,7 +245837,7 @@
     "squuid": "5be1a6b6-4535-4926-a4a0-54c0126219b9",
     "name": "Madsack Venture GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:50:19.926Z",
+    "controlDate": "2026-05-21T09:13:08.663Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -251066,7 +251057,7 @@
     "squuid": "5be1a6b6-372d-42bb-a08b-a989accfe158",
     "name": "Maker Media GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T14:56:43.749Z",
+    "controlDate": "2026-05-21T10:08:23.189Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273601,7 +273592,7 @@
     "squuid": "5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4",
     "name": "M von A & C GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T09:14:21.715Z",
+    "controlDate": "2026-05-21T08:07:03.586Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280611,7 +280602,7 @@
     "squuid": "5be1a6b6-10db-4622-b61d-5c7a6abc15e0",
     "name": "Main-Netz Media GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T12:57:53.287Z",
+    "controlDate": "2026-05-21T09:19:07.730Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288417,7 +288408,7 @@
     "squuid": "5be1a6b6-520d-431b-9b0a-e4145b4e8cf8",
     "name": "mareverlag GmbH & Co. oHG",
     "state": "active",
-    "controlDate": "2025-11-27T10:17:16.775Z",
+    "controlDate": "2026-05-21T10:31:03.635Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304268,7 +304259,7 @@
     "squuid": "5f3e5dbf-77f7-4b35-9d44-29ce2169f7de",
     "name": "M.O.R.E. Lokalfunk Baden-Württemberg Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-11-26T09:25:31.760Z",
+    "controlDate": "2026-05-21T08:34:56.724Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304602,7 +304593,7 @@
     "squuid": "5c52e340-9440-4ca8-8812-6fddf78f7278",
     "name": "Management der elumeo SE",
     "state": "active",
-    "controlDate": "2025-11-26T15:01:41.235Z",
+    "controlDate": "2026-05-21T10:10:45.122Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
