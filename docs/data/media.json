@@ -10894,7 +10894,7 @@
     "rfStatewide": false,
     "name": "Diabetes Anker",
     "type": "print",
-    "controlDate": "2025-12-01T10:04:28.226Z",
+    "controlDate": "2026-05-22T07:56:11.161Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10918,7 +10918,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T10:04:36.667Z",
+    "controlDate": "2026-05-22T07:56:17.182Z",
     "state": "active"
   },
   {
@@ -14073,7 +14073,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T10:16:02.558Z",
+    "controlDate": "2026-05-22T08:11:48.945Z",
     "state": "active"
   },
   {
@@ -29151,7 +29151,7 @@
     "name": "www.meininger-tageblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:32:37.022Z",
+    "controlDate": "2026-05-22T08:38:02.859Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31853,7 +31853,7 @@
     "name": "www.freising-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:54:29.679Z",
+    "controlDate": "2026-05-22T08:48:25.030Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31925,7 +31925,7 @@
     "name": "www.dachauer-rundschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:54:17.146Z",
+    "controlDate": "2026-05-22T08:48:13.565Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34528,7 +34528,7 @@
     "name": "www.fraenkischertag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-22T13:04:48.690Z",
+    "controlDate": "2026-05-22T09:28:29.668Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -64694,7 +64694,7 @@
     "name": "www.radio-koe.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:08:30.007Z",
+    "controlDate": "2026-05-22T08:08:41.065Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72358,7 +72358,7 @@
     "rfStatewide": false,
     "name": "Kevelaerer Blatt",
     "type": "print",
-    "controlDate": "2025-12-01T10:15:18.232Z",
+    "controlDate": "2026-05-22T08:11:41.940Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72439,7 +72439,7 @@
     "rfStatewide": false,
     "name": "tz",
     "type": "print",
-    "controlDate": "2025-12-01T10:57:47.560Z",
+    "controlDate": "2026-05-22T08:50:50.019Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72462,7 +72462,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T10:57:36.247Z",
+    "controlDate": "2026-05-22T08:51:00.657Z",
     "state": "active"
   },
   {
@@ -83095,7 +83095,7 @@
     "rfStatewide": false,
     "name": "Bayerische Rundschau",
     "type": "print",
-    "controlDate": "2025-12-01T11:23:05.385Z",
+    "controlDate": "2026-05-22T09:27:33.186Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83118,7 +83118,7 @@
     "rfStatewide": false,
     "name": "Fränkischer Tag",
     "type": "print",
-    "controlDate": "2025-12-01T11:24:02.117Z",
+    "controlDate": "2026-05-22T09:27:52.244Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -83138,7 +83138,7 @@
     "rfStatewide": false,
     "name": "Coburger Tageblatt",
     "type": "print",
-    "controlDate": "2025-12-01T11:23:12.736Z",
+    "controlDate": "2026-05-22T09:27:43.609Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87093,7 +87093,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T11:11:41.622Z",
+    "controlDate": "2026-05-22T09:21:26.711Z",
     "state": "active"
   },
   {
@@ -91595,7 +91595,7 @@
     "name": "Meininger Tageblatt am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-14T14:45:58.993Z",
+    "controlDate": "2026-05-22T08:37:50.204Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94184,7 +94184,7 @@
     "name": "www.marktkorb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:32:57.007Z",
+    "controlDate": "2026-05-22T09:52:11.880Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94244,7 +94244,7 @@
     "name": "www.wochen-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:33:05.355Z",
+    "controlDate": "2026-05-22T09:52:17.995Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94556,7 +94556,7 @@
     "name": "www.franken-aktuell.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T12:43:36.704Z",
+    "controlDate": "2026-05-22T09:30:44.155Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97282,7 +97282,7 @@
     "rfStatewide": false,
     "name": "Meininger Tageblatt",
     "type": "print",
-    "controlDate": "2025-12-01T10:31:45.324Z",
+    "controlDate": "2026-05-22T08:37:31.860Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -97887,7 +97887,7 @@
     "rfStatewide": false,
     "name": "Saale-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-01T11:24:31.724Z",
+    "controlDate": "2026-05-22T09:28:00.793Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107842,7 +107842,7 @@
     "state": "active"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "61c33b8d-4597-4be7-9b68-752b572097c0",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -118432,7 +118432,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-01T11:16:23.847Z",
+    "controlDate": "2026-05-22T09:22:12.858Z",
     "state": "active"
   },
   {
@@ -128117,7 +128117,7 @@
     "name": "www.daimler.com/live",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:36:13.996Z",
+    "controlDate": "2026-05-22T08:43:31.713Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131452,7 +131452,7 @@
     "name": "www.rblive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:13:21.256Z",
+    "controlDate": "2026-05-22T09:21:51.282Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134885,7 +134885,7 @@
     "name": "www.sao.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:14:12.871Z",
+    "controlDate": "2026-05-22T09:22:01.150Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138849,7 +138849,7 @@
     "name": "www.fraenkischertag.de/saalezeitung",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-22T13:05:20.674Z",
+    "controlDate": "2026-05-22T09:28:58.552Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141060,7 +141060,7 @@
     "name": "www.metropolfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T11:05:13.602Z",
+    "controlDate": "2026-05-22T09:07:06.257Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146470,7 +146470,7 @@
     "name": "www.megaradiomix.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:08:17.479Z",
+    "controlDate": "2026-05-22T08:08:32.090Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155063,7 +155063,7 @@
     "name": "www.fraenkischertag.de/bayerischerundschau",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-22T13:05:06.899Z",
+    "controlDate": "2026-05-22T09:28:44.503Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156687,7 +156687,7 @@
     "name": "www.meerradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:06:48.384Z",
+    "controlDate": "2026-05-22T08:04:36.711Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158600,7 +158600,7 @@
     "name": "www.fraenkischertag.de/coburgertageblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-22T13:05:13.632Z",
+    "controlDate": "2026-05-22T09:28:52.094Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

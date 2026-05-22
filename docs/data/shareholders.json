@@ -14385,7 +14385,7 @@
     "squuid": "5e303067-ee73-4e4c-9496-f3aec4626bc0",
     "name": "MFE MEDIAFOREUROPE N. V.",
     "state": "active",
-    "controlDate": "2025-12-01T11:08:54.400Z",
+    "controlDate": "2026-05-22T09:17:01.976Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -16854,7 +16854,7 @@
     "squuid": "666c47fc-1740-4e98-a41e-358c3de2634f",
     "name": "MedTrix GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:03:49.264Z",
+    "controlDate": "2026-05-22T07:56:06.042Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -16907,7 +16907,7 @@
     "name": "Merkur tz Redaktions GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2335-4d4b-ada5-63324533b0b7",
-    "controlDate": "2025-12-01T10:56:23.477Z",
+    "controlDate": "2026-05-22T08:49:25.176Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22622,7 +22622,7 @@
     "squuid": "5be1a6b6-9346-4caa-9830-6d105196b16b",
     "name": "Meier & Cie. AG",
     "state": "active",
-    "controlDate": "2025-12-01T10:20:31.538Z",
+    "controlDate": "2026-05-22T08:19:12.160Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24993,7 +24993,7 @@
     "name": "METROPOL FM GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-f3b1-43e2-ada8-d877ac037057",
-    "controlDate": "2025-12-01T11:04:54.089Z",
+    "controlDate": "2026-05-22T09:05:07.915Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -46421,7 +46421,7 @@
     "squuid": "668d5ce2-67d9-483c-bc6e-0969a424a3f6",
     "name": "Merkur.com AG",
     "state": "active",
-    "controlDate": "2025-12-01T11:03:15.113Z",
+    "controlDate": "2026-05-22T08:54:58.747Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -55273,7 +55273,7 @@
     "squuid": "5be1a6b6-80f4-40a1-9801-590a31d82c7b",
     "name": "Merkur Thorhauer GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-01T10:53:46.056Z",
+    "controlDate": "2026-05-22T08:46:18.932Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -59402,7 +59402,7 @@
     "squuid": "63ef7959-2ea3-4d38-8f09-db1bfc35049d",
     "name": "Merkur tz Media GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:54:05.769Z",
+    "controlDate": "2026-05-22T08:47:50.084Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -81719,7 +81719,7 @@
     "squuid": "5be1a6b6-c416-44ee-89cf-1376f5d72e71",
     "name": "MEGA Radio Bayern GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:08:09.585Z",
+    "controlDate": "2026-05-22T08:08:23.672Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -94942,7 +94942,7 @@
     "squuid": "5be1a6b6-3ed7-4849-8e3f-a61d5cad7d36",
     "name": "Meinders & Elstermann GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-01T10:24:25.381Z",
+    "controlDate": "2026-05-22T08:33:40.242Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -98207,7 +98207,7 @@
     "squuid": "5be1a6b6-d263-4998-a53a-9655e768103f",
     "name": "Meinerzhagener Druck- und Verlagshaus Walther Kämper GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-01T10:29:58.446Z",
+    "controlDate": "2026-05-22T08:34:49.762Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -102783,14 +102783,9 @@
     "controlDate": "2019-06-14T10:46:56.522Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -150090,7 +150085,7 @@
     "squuid": "5eb95890-b9c0-445e-b62a-83d91b21a981",
     "name": "Mergelsberg Beteiligungs- und Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:29:41.440Z",
+    "controlDate": "2026-05-22T08:45:11.358Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151341,7 +151336,7 @@
     "squuid": "5efc76f5-eddc-40a3-bc96-25a353eddc3f",
     "name": "Mega Top Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:14:17.415Z",
+    "controlDate": "2026-05-22T08:11:27.127Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -155196,9 +155191,8 @@
     "controlDate": "2026-05-07T12:03:22.341Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -168973,7 +168967,7 @@
     "name": "MGV Mediengestaltungs- und Vermarktungs GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63e22a46-0181-45b6-ace7-61dabb479fa7",
-    "controlDate": "2025-12-01T11:32:35.989Z",
+    "controlDate": "2026-05-22T09:52:02.489Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169558,7 +169552,7 @@
     "squuid": "63e22abb-fab2-41c2-94c4-80f4e72341e1",
     "name": "MGV Mediengestaltung und Vermarktung Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:32:25.045Z",
+    "controlDate": "2026-05-22T09:51:51.434Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206277,7 +206271,7 @@
     "squuid": "5eb55471-a568-47c8-b2a8-4847ee915596",
     "name": "mgo Lokale Medien Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:22:05.191Z",
+    "controlDate": "2026-05-22T09:25:39.630Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206477,7 +206471,7 @@
     "squuid": "5eb55664-279a-4b99-bc91-042d9ac5e7e3",
     "name": "mgo Redaktionen Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2024-11-26T16:04:06.794Z",
+    "controlDate": "2026-05-22T09:49:34.039Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214089,6 +214083,8 @@
     "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5",
     "name": "Funkhaus Freiburg GmbH & Co. KG",
     "state": "active",
+    "controlDate": "2026-05-22T07:51:33.755Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -215382,7 +215378,7 @@
     "squuid": "5be1a6b6-4684-4c43-b22b-32d4686264f0",
     "name": "Mercedes-Benz Group AG",
     "state": "active",
-    "controlDate": "2025-12-01T10:36:07.743Z",
+    "controlDate": "2026-05-22T08:42:56.240Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -218775,7 +218771,7 @@
     "squuid": "5be1a6b6-9b6b-4afc-a511-ecba36539dc2",
     "name": "MFS-Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:09:46.319Z",
+    "controlDate": "2026-05-22T09:18:00.818Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -221800,7 +221796,7 @@
     "squuid": "6093d144-e89b-4b56-a627-e870616bab85",
     "name": "MGM Digital GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:11:32.783Z",
+    "controlDate": "2026-05-22T09:19:46.702Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234338,6 +234334,18 @@
     ]
   },
   {
+    "squuid": "6a1010a3-3ed5-420a-91df-5417c37dfb64",
+    "name": "Müller, Carsten",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-a7ce-4311-a3df-35b42e673e60",
     "name": "DoldeMedien Verlag GmbH",
     "state": "active",
@@ -235773,7 +235781,7 @@
     "squuid": "5be1a6b6-aaa1-40ae-8cac-3414f7c6c6d2",
     "name": "Meininger Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:31:34.275Z",
+    "controlDate": "2026-05-22T08:37:18.909Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257560,7 +257568,7 @@
     "squuid": "5be1a6b6-9924-4efa-8a5f-382cabf4525b",
     "name": "Merlin Computer-Grafik GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:03:26.694Z",
+    "controlDate": "2026-05-22T09:04:05.532Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -261861,7 +261869,7 @@
     "name": "mgo Redaktionen GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5bf3f388-501e-47f0-8eed-d55ff3346624",
-    "controlDate": "2024-11-26T16:04:12.440Z",
+    "controlDate": "2026-05-22T09:49:30.582Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -266707,7 +266715,7 @@
     "squuid": "642d8a4a-78ba-4bf3-b6dd-d144b3675029",
     "name": "MF Anzeigenblatt Verlag und Beteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T11:08:34.209Z",
+    "controlDate": "2026-05-22T09:10:49.304Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275004,7 +275012,7 @@
     "squuid": "5be1a6b6-9bf7-4b0b-8bc6-683e340c0154",
     "name": "Mervans Holdings Inc.",
     "state": "active",
-    "controlDate": "2025-12-01T11:04:02.924Z",
+    "controlDate": "2026-05-22T09:04:41.214Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -279089,7 +279097,7 @@
     "squuid": "5ee39096-089c-4568-8f6c-f935e340081a",
     "name": "Merkur tz Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:56:14.848Z",
+    "controlDate": "2026-05-22T08:52:01.163Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280574,7 +280582,7 @@
     "name": "mgo Lokale Medien GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1ba9-4404-8b0b-eacd59f83952",
-    "controlDate": "2025-12-01T11:22:32.877Z",
+    "controlDate": "2026-05-22T09:25:50.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280680,15 +280688,6 @@
         "held": {
           "squuid": "5be1a6b1-1f3a-41ae-9d0e-4090a0a24ffb",
           "name": "www.infranken.de"
-        }
-      },
-      {
-        "squuid": "65bba3c5-206e-462e-b9d3-e130771f3ab7",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "61c33b8d-4597-4be7-9b68-752b572097c0",
-          "name": "www.inrlp.de"
         }
       },
       {
@@ -287589,7 +287588,7 @@
     "name": "Mega Top GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-3b38-4afc-a62b-d4be1f1af1a6",
-    "controlDate": "2025-12-01T10:14:37.655Z",
+    "controlDate": "2026-05-22T08:11:34.457Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298184,7 +298183,7 @@
     "squuid": "5f0475bf-cf17-41ff-9919-07eb22113d2a",
     "name": "Meer Radio GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:06:42.528Z",
+    "controlDate": "2026-05-22T08:03:09.834Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304579,6 +304578,7 @@
     "squuid": "69174f5e-ce97-4bec-a7d7-08751f376eda",
     "name": "MegaDruck.de Produktions- und Vertriebs-GmbH",
     "state": "active",
+    "controlDate": "2026-05-22T08:13:45.893Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305603,7 +305603,7 @@
     "squuid": "5f180382-ec37-4ded-ac0b-677bcce2f067",
     "name": "Mediobanca S.p.A.",
     "state": "active",
-    "controlDate": "2025-12-01T10:03:26.389Z",
+    "controlDate": "2026-05-22T07:55:47.920Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -307171,7 +307171,7 @@
     "squuid": "5d14bf88-a015-47d9-bca5-04fe0dd75e1d",
     "name": "Meisenbach GmbH",
     "state": "active",
-    "controlDate": "2025-12-01T10:33:29.979Z",
+    "controlDate": "2026-05-22T08:40:01.321Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
