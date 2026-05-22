@@ -2776,8 +2776,8 @@ digraph {
     type=print
     state=active
     label=Adesso
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f220-4b66-983e-b590b8f7e699"
@@ -7725,7 +7725,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5be1a6b6-c54b-4406-bde3-230c746b3f1f"
-    in_degree=5
+    in_degree=6
     out_degree=1
   ];
   644 [
@@ -21640,8 +21640,8 @@ digraph {
     type=print
     state=active
     label="Burger Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3f27-47d1-88a9-98b78da08fd9"
@@ -21832,8 +21832,8 @@ digraph {
     type=print
     state=active
     label=Busfahrer
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b60c-4c9e-a6ef-996b3f1535a8"
@@ -21916,8 +21916,8 @@ digraph {
     type=print
     state=active
     label="Business Spotlight"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4fcb-460e-b222-71b8798e198c"
@@ -29932,8 +29932,8 @@ digraph {
     type=print
     state=active
     label="Deutsch perfekt"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-99ac-4427-ab14-6cc89c35dadc"
@@ -31972,8 +31972,8 @@ digraph {
     type=print
     state=active
     label="Die Zeit"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1c98-47a5-a81b-834ff95dc198"
@@ -37708,8 +37708,8 @@ digraph {
     type=print
     state=active
     label="Ecos de Espana"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0a27-4f6f-b77c-fa5c323d0ae5"
@@ -53332,8 +53332,8 @@ digraph {
     type=print
     state=active
     label="Gardelegener Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f8d0-4251-bb2a-418652791028"
@@ -53836,8 +53836,8 @@ digraph {
     type=print
     state=active
     label="Gehirn & Geist"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5285-4482-9ea5-ebc80e05b7bc"
@@ -54652,8 +54652,8 @@ digraph {
     type=print
     state=active
     label="Genthiner Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5f41-433f-b692-d37dbe6efed3"
@@ -54880,8 +54880,8 @@ digraph {
     type=shareholder
     state=active
     label="Georg von Holtzbrinck GmbH & Co. KG"
-    num_owners=5
-    num_owners_weighted=4.0000
+    num_owners=7
+    num_owners_weighted=5.0000
     num_medias=49
     num_medias_weighted=18.9800
     name="5be1a6b6-3efe-470d-89eb-1d230f00b5fa"
@@ -54892,8 +54892,8 @@ digraph {
     type=shareholder
     state=active
     label="Georg von Holtzbrinck GmbH & Co. Zeitverlag Beteiligungsgesellschaft"
-    num_owners=7
-    num_owners_weighted=6.0000
+    num_owners=9
+    num_owners_weighted=7.0000
     num_medias=26
     num_medias_weighted=13.0000
     name="5be1a6b6-cf74-4eb3-a52d-d6f0fbe8601b"
@@ -54904,8 +54904,8 @@ digraph {
     type=shareholder
     state=active
     label="Georg von Holtzbrinck Internationale Medienbeteiligungen GmbH"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=8
+    num_owners_weighted=6.0000
     num_medias=23
     num_medias_weighted=5.9800
     name="5be1a6b6-a36b-4004-9b1c-a7b714da4155"
@@ -59044,8 +59044,8 @@ digraph {
     type=shareholder
     state=active
     label="GvH Vermögensverwaltungsgesellschaft XXIIIa GmbH"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=8
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-3c73-4d32-a2dd-3f5bbb928f38"
@@ -59056,8 +59056,8 @@ digraph {
     type=shareholder
     state=active
     label="GvH Vermögensverwaltungsgesellschaft XXXIII mbH"
-    num_owners=8
-    num_owners_weighted=7.0000
+    num_owners=10
+    num_owners_weighted=8.0000
     num_medias=23
     num_medias_weighted=5.9800
     name="5be1a6b6-4c26-46d7-97e6-374bb94f1a53"
@@ -60232,8 +60232,8 @@ digraph {
     type=print
     state=active
     label="Halberstädter Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c95a-487c-a23c-de651fbd969d"
@@ -60244,8 +60244,8 @@ digraph {
     type=print
     state=active
     label="Haldensleber Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8b9d-4c94-bee9-e486ca601313"
@@ -61576,8 +61576,8 @@ digraph {
     type=print
     state=active
     label="Harzer Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-766d-40ff-af3e-55b1d07517c6"
@@ -62212,8 +62212,8 @@ digraph {
     type=print
     state=active
     label="Havelberger Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-aa69-460e-bed8-990bd0f6ff50"
@@ -65404,8 +65404,8 @@ digraph {
     type=shareholder
     state=active
     label="HIM Holtzbrinck 22 GmbH"
-    num_owners=7
-    num_owners_weighted=6.0000
+    num_owners=9
+    num_owners_weighted=7.0000
     num_medias=23
     num_medias_weighted=5.9800
     name="5be1a6b6-7f88-4cae-97e2-965e97a988c6"
@@ -67000,8 +67000,8 @@ digraph {
     type=shareholder
     state=active
     label="Holtzbrinck Digital GmbH"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=8
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-05b4-4e2e-8071-2362aa8670b0"
@@ -77860,8 +77860,8 @@ digraph {
     type=print
     state=active
     label="Klötzer Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5c19-41be-b126-184a1b3751c5"
@@ -81028,8 +81028,8 @@ digraph {
     type=print
     state=active
     label="Kunst und Auktionen"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3b31-4561-adbb-adb2d76b557b"
@@ -89284,8 +89284,8 @@ digraph {
     type=print
     state=active
     label="Magdeburger Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c47a-4cf2-8f64-f1f6583ec990"
@@ -95920,8 +95920,8 @@ digraph {
     type=shareholder
     state=active
     label="MHH Medien Holding Hamburg AG"
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=5
     num_medias_weighted=4.9930
     name="5be1a6b6-156f-455f-ba2a-6e3b6510ae1b"
@@ -96343,7 +96343,7 @@ digraph {
     num_owners=10
     num_owners_weighted=8.2000
     num_medias=37
-    num_medias_weighted=5.0040
+    num_medias_weighted=5.0042
     name="5be1a6b6-1576-49ad-a2a1-769cecc7a4a7"
     in_degree=1
     out_degree=7
@@ -96751,7 +96751,7 @@ digraph {
     num_owners=9
     num_owners_weighted=6.3560
     num_medias=50
-    num_medias_weighted=10.4011
+    num_medias_weighted=10.4022
     name="6182a8c5-5829-4a5d-89e7-50633e76656e"
     in_degree=1
     out_degree=15
@@ -96846,11 +96846,11 @@ digraph {
     label="Mitteldeutscher Rundfunk (MDR)"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=22
+    num_medias=24
     num_medias_weighted=22.0000
     name="5be1a6b6-bd02-4fb7-8bd9-8294ee3500fb"
     in_degree=1
-    out_degree=22
+    out_degree=23
   ];
   8071 [
     type=shareholder
@@ -97636,8 +97636,8 @@ digraph {
     type=shareholder
     state=active
     label="Monika Schoeller Familiengesellschaft mbH & Co KG"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=49
     num_medias_weighted=9.4900
     name="5be1a6b6-c6b4-4c64-94e2-ce8dc66854f2"
@@ -104788,8 +104788,8 @@ digraph {
     type=radio
     state=active
     label="Nordic beatz"
-    num_owners=6
-    num_owners_weighted=5.9972
+    num_owners=7
+    num_owners_weighted=6.9958
     num_medias=0
     num_medias_weighted=0.0000
     name="5e1f20e4-f898-43fb-b5b8-878da122e08a"
@@ -104800,8 +104800,8 @@ digraph {
     type=radio
     state=active
     label="Nordic life & style"
-    num_owners=6
-    num_owners_weighted=5.9972
+    num_owners=7
+    num_owners_weighted=6.9958
     num_medias=0
     num_medias_weighted=0.0000
     name="5e1f232e-9623-4e0b-8457-28ebec9ceb67"
@@ -104812,8 +104812,8 @@ digraph {
     type=radio
     state=active
     label="Nordic Radio"
-    num_owners=6
-    num_owners_weighted=5.9972
+    num_owners=7
+    num_owners_weighted=6.9958
     num_medias=0
     num_medias_weighted=0.0000
     name="5e1f1be1-e56f-4902-8da5-fa66c7cd8dba"
@@ -107812,8 +107812,8 @@ digraph {
     type=print
     state=active
     label="Oschersleber Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-bed2-4435-898b-f73869cbe444"
@@ -107956,8 +107956,8 @@ digraph {
     type=print
     state=active
     label="Osterburger Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7b43-47ab-830a-57e9c7d88dd5"
@@ -119464,8 +119464,8 @@ digraph {
     type=radio
     state=active
     label="Radio P.O.S."
-    num_owners=6
-    num_owners_weighted=5.9972
+    num_owners=7
+    num_owners_weighted=6.9958
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3151-4abd-95bc-6ba996800962"
@@ -119668,8 +119668,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Point of Sale GmbH"
-    num_owners=5
-    num_owners_weighted=4.9972
+    num_owners=6
+    num_owners_weighted=5.9958
     num_medias=5
     num_medias_weighted=5.0000
     name="5be1a6b6-df1d-414d-aff6-b0278c2fca89"
@@ -130912,8 +130912,8 @@ digraph {
     type=print
     state=active
     label="Salzwedeler Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-10a4-4761-bda4-d11171fcd0d3"
@@ -136336,8 +136336,8 @@ digraph {
     type=print
     state=active
     label="Schönebecker Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e0aa-4fd3-9f02-2e3288107a23"
@@ -141184,8 +141184,8 @@ digraph {
     type=print
     state=active
     label="Spektrum der Wissenschaft"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8e42-4042-87a4-c60d255b32f3"
@@ -141196,8 +141196,8 @@ digraph {
     type=shareholder
     state=active
     label="Spektrum der Wissenschaft Verlagsgesellschaft mbH"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=8
     num_medias_weighted=8.0000
     name="5be1a6b6-3f89-46b0-9c8b-362f335002c0"
@@ -141208,8 +141208,8 @@ digraph {
     type=print
     state=active
     label="Spektrum Die Woche"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="60363e19-b42d-48d3-a1dd-74e2e294e571"
@@ -141220,8 +141220,8 @@ digraph {
     type=print
     state=active
     label="Spektrum Geschichte"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="60363e29-f311-445d-9133-afa13caf469b"
@@ -141232,8 +141232,8 @@ digraph {
     type=print
     state=active
     label="Spektrum Gesundheit"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5fa50a3d-2831-484a-ac4e-be0e7151753c"
@@ -141244,8 +141244,8 @@ digraph {
     type=print
     state=active
     label="Spektrum Psychologie"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5c6be3ed-00be-45cf-85f9-761389dd389c"
@@ -142276,8 +142276,8 @@ digraph {
     type=print
     state=active
     label=Spotlight
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-429d-4cd4-aa7b-4bbbe8fb7fa1"
@@ -142372,8 +142372,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Fachmedien Wiesbaden GmbH"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-d096-4bc9-a509-dbe419151026"
@@ -142384,8 +142384,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Medizin Verlag GmbH"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-a7df-49a0-be28-c8ea5f8ab3f0"
@@ -142396,8 +142396,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature AG & Co. KGaA"
-    num_owners=11
-    num_owners_weighted=6.7100
+    num_owners=13
+    num_owners_weighted=7.2400
     num_medias=23
     num_medias_weighted=16.8130
     name="5be1a6b6-0de1-471f-a8f9-bf05cab69142"
@@ -142408,8 +142408,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature Deutschland GmbH"
-    num_owners=15
-    num_owners_weighted=8.9050
+    num_owners=17
+    num_owners_weighted=9.2924
     num_medias=23
     num_medias_weighted=23.0000
     name="5be1a6b6-af7c-4f1d-b610-d0f4a4bb8ff1"
@@ -142420,8 +142420,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature International GmbH"
-    num_owners=17
-    num_owners_weighted=10.9050
+    num_owners=19
+    num_owners_weighted=11.2924
     num_medias=8
     num_medias_weighted=8.0000
     name="5be1a6b6-0f25-4aa0-ba8a-72b9544d23d7"
@@ -142432,8 +142432,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature Management AG"
-    num_owners=10
-    num_owners_weighted=5.7100
+    num_owners=12
+    num_owners_weighted=6.2400
     num_medias=23
     num_medias_weighted=0.0000
     name="60c35cae-2055-434d-9df5-6df478cf9b72"
@@ -142444,8 +142444,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature One GmbH"
-    num_owners=13
-    num_owners_weighted=6.9050
+    num_owners=15
+    num_owners_weighted=7.2924
     num_medias=23
     num_medias_weighted=23.0000
     name="5be1a6b6-98d9-4b98-948a-ee46e5fd0664"
@@ -142456,8 +142456,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature Three GmbH"
-    num_owners=16
-    num_owners_weighted=9.9050
+    num_owners=18
+    num_owners_weighted=10.2924
     num_medias=23
     num_medias_weighted=23.0000
     name="5be1a6b6-f2a9-45b1-bd71-232ceffa4fb4"
@@ -142468,8 +142468,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer Nature Two GmbH"
-    num_owners=14
-    num_owners_weighted=7.9050
+    num_owners=16
+    num_owners_weighted=8.2924
     num_medias=23
     num_medias_weighted=23.0000
     name="5be1a6b6-0813-4ce6-9c60-b6e38b734787"
@@ -142540,8 +142540,8 @@ digraph {
     type=shareholder
     state=active
     label="Springer-Verlag GmbH"
-    num_owners=17
-    num_owners_weighted=10.9050
+    num_owners=19
+    num_owners_weighted=11.2924
     num_medias=6
     num_medias_weighted=6.0000
     name="5be1a6b6-e031-4d91-b9c0-c7b3a5877101"
@@ -144916,8 +144916,8 @@ digraph {
     type=print
     state=active
     label="Staßfurter Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5941-4c96-b003-d33e9a039ea2"
@@ -145432,8 +145432,8 @@ digraph {
     type=print
     state=active
     label="Stendaler Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6bab-41db-9b6b-adfb00f21bc9"
@@ -145552,8 +145552,8 @@ digraph {
     type=print
     state=active
     label="Sterne und Weltraum"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a4a9-498f-ba03-234ed8c8aff4"
@@ -151660,8 +151660,8 @@ digraph {
     type=shareholder
     state=active
     label="Tecvia GmbH"
-    num_owners=17
-    num_owners_weighted=10.9050
+    num_owners=19
+    num_owners_weighted=11.2924
     num_medias=9
     num_medias_weighted=9.0000
     name="5be1a6b6-6094-4054-9cf9-a01fca2f5286"
@@ -152224,8 +152224,8 @@ digraph {
     type=shareholder
     state=active
     label="tempus Zeitungsverlags- und Beteiligungsgesellschaft mbH"
-    num_owners=6
-    num_owners_weighted=5.0000
+    num_owners=8
+    num_owners_weighted=6.0000
     num_medias=26
     num_medias_weighted=0.0000
     name="5ec3cda2-5eb5-4a07-9d3a-aee588578f87"
@@ -152236,8 +152236,8 @@ digraph {
     type=shareholder
     state=active
     label="tempus Zeitverlag Geschäftsführungsgesellschaft mbH"
-    num_owners=17
-    num_owners_weighted=7.6660
+    num_owners=19
+    num_owners_weighted=8.1660
     num_medias=26
     num_medias_weighted=0.0000
     name="5ec3cbdb-420a-4420-a17b-c476b230882e"
@@ -155596,8 +155596,8 @@ digraph {
     type=print
     state=active
     label=Trucker
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-343a-42df-82a7-19e704a6f828"
@@ -160336,8 +160336,8 @@ digraph {
     type=shareholder
     state=active
     label="Verlagsgruppe Georg von Holtzbrinck GmbH"
-    num_owners=4
-    num_owners_weighted=3.0000
+    num_owners=6
+    num_owners_weighted=4.0000
     num_medias=49
     num_medias_weighted=0.0000
     name="5be1a6b6-d60b-442a-b6cd-ee9a770b1646"
@@ -164584,8 +164584,8 @@ digraph {
     type=print
     state=active
     label="Wanzleber Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4ca2-40a2-84e5-f99b6a486f3a"
@@ -166504,8 +166504,8 @@ digraph {
     type=print
     state=active
     label=Weltkunst
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-13c8-4d7c-bd4c-47e631ebc33f"
@@ -170992,8 +170992,8 @@ digraph {
     type=print
     state=active
     label="Wolmirstädter Volkstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0cb0-4a59-9bce-26edefa19e41"
@@ -172276,8 +172276,8 @@ digraph {
     type=online
     state=active
     label="www.adesso-online.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d711-4ca3-80a2-5d434c99fff5"
@@ -172348,8 +172348,8 @@ digraph {
     type=online
     state=active
     label="www.aerztezeitung.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-31da-4f35-860b-457e6cb6336d"
@@ -173920,8 +173920,8 @@ digraph {
     type=online
     state=active
     label="www.autoflotte.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="61f2b378-1f61-42eb-b41f-9d3fca3fc00d"
@@ -173956,8 +173956,8 @@ digraph {
     type=online
     state=active
     label="www.autohaus.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="61f2b461-9922-4ec8-83ab-f6b796cfa0e1"
@@ -173992,8 +173992,8 @@ digraph {
     type=online
     state=active
     label="www.autoservicepraxis.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="61f2b2ef-0d0b-4fc0-8c4e-a2d539129ec0"
@@ -176524,8 +176524,8 @@ digraph {
     type=online
     state=active
     label="www.busfahrermagazin.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3ff2-4708-9571-0c2efb521e35"
@@ -176584,8 +176584,8 @@ digraph {
     type=online
     state=active
     label="www.business-spotlight.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e829-4e97-b39c-11c749fe1c12"
@@ -178624,8 +178624,8 @@ digraph {
     type=online
     state=active
     label="www.deutsch-perfekt.com"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-453d-479c-9429-7084562ee66a"
@@ -179956,8 +179956,8 @@ digraph {
     type=online
     state=active
     label="www.ecos-online.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a621-4caf-a38d-03a166060309"
@@ -179968,8 +179968,8 @@ digraph {
     type=online
     state=active
     label="www.ecoute.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-bb27-417a-8f3a-a12be5d36127"
@@ -194920,8 +194920,8 @@ digraph {
     type=online
     state=active
     label="www.omnibusrevue.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="62177233-4b40-4407-bd83-bdce51cb7fc9"
@@ -197080,8 +197080,8 @@ digraph {
     type=online
     state=active
     label="www.radio-pos.de"
-    num_owners=6
-    num_owners_weighted=5.9972
+    num_owners=7
+    num_owners_weighted=6.9958
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1ab6e8-e696-44aa-8513-d94f7330a173"
@@ -202252,8 +202252,8 @@ digraph {
     type=online
     state=active
     label="www.spektrum.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1761-4d27-b3fc-93b204389640"
@@ -202612,8 +202612,8 @@ digraph {
     type=online
     state=active
     label="www.spotlight-online.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-22ca-4bb2-ab03-6e8d60b87be7"
@@ -202696,8 +202696,8 @@ digraph {
     type=online
     state=active
     label="www.springermedizin.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="678790e4-5a8f-4370-9033-208918c072f8"
@@ -202708,8 +202708,8 @@ digraph {
     type=online
     state=active
     label="www.springerpflege.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="6787915c-c274-40ef-82ee-b15d57ceec1c"
@@ -202720,8 +202720,8 @@ digraph {
     type=online
     state=active
     label="www.springerprofessional.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5c58075a-da99-4982-93cb-c8708eb1d8b7"
@@ -205384,8 +205384,8 @@ digraph {
     type=online
     state=active
     label="www.trucker.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-fc97-4975-b5e4-d50c9509afe4"
@@ -206308,8 +206308,8 @@ digraph {
     type=online
     state=active
     label="www.verkehrsrundschau.de"
-    num_owners=18
-    num_owners_weighted=11.9050
+    num_owners=20
+    num_owners_weighted=12.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="622f4c6a-a7bd-4bb6-912d-ae5d41cddc44"
@@ -207364,8 +207364,8 @@ digraph {
     type=online
     state=active
     label="www.weltkunst.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6342-4d26-b652-73f0d5966344"
@@ -207916,8 +207916,8 @@ digraph {
     type=online
     state=active
     label="www.wirtschaftslexikon.gabler.de"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c4b4-4066-a93c-9f149b8be845"
@@ -209632,8 +209632,8 @@ digraph {
     type=online
     state=active
     label="www.zeit.de"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-f69f-487a-a35f-7650b87c5eb2"
@@ -209644,8 +209644,8 @@ digraph {
     type=online
     state=active
     label="www.zeit.de/zeitmagazin"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="6864deae-1752-4410-bb95-70ac7634712c"
@@ -209656,8 +209656,8 @@ digraph {
     type=online
     state=active
     label="www.zeit.de/zett"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="6348145c-9f47-4cf1-af6e-deee5fff2854"
@@ -210856,8 +210856,8 @@ digraph {
     type=print
     state=active
     label="Zeit Campus"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-43ee-417e-8b33-47500bada650"
@@ -210892,8 +210892,8 @@ digraph {
     type=print
     state=active
     label="Zeit für Unternehmer"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5e315b3b-9da5-4275-b10b-16255816f815"
@@ -210904,8 +210904,8 @@ digraph {
     type=print
     state=active
     label="Zeit Geschichte"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-cc9b-4e52-aeb9-49e8e896632d"
@@ -210916,8 +210916,8 @@ digraph {
     type=print
     state=active
     label="Zeit Leo"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-43f0-4b58-9b14-060489772a2e"
@@ -210928,8 +210928,8 @@ digraph {
     type=shareholder
     state=active
     label="Zeit Online GmbH"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-547b-49b7-8252-0c93219905df"
@@ -210940,8 +210940,8 @@ digraph {
     type=shareholder
     state=active
     label="Zeit Sprachen GmbH"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=12
     num_medias_weighted=12.0000
     name="5be1a6b6-f857-47cd-b763-80858f65a225"
@@ -210952,8 +210952,8 @@ digraph {
     type=print
     state=active
     label="Zeit Verbrechen"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="6048ebdb-3e3b-4554-a532-7bb4e611b712"
@@ -210964,8 +210964,8 @@ digraph {
     type=shareholder
     state=active
     label="Zeit Weltkunst Verlag GmbH"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=3
     num_medias_weighted=3.0000
     name="5be1a6b6-1ef2-4f74-a8ff-d3588cdf95c8"
@@ -210976,8 +210976,8 @@ digraph {
     type=print
     state=active
     label="Zeit Wissen"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-373f-4f1f-8f22-e46996a92458"
@@ -210988,8 +210988,8 @@ digraph {
     type=print
     state=active
     label="Zeitmagazin Wochenmarkt"
-    num_owners=19
-    num_owners_weighted=9.6660
+    num_owners=21
+    num_owners_weighted=10.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="634813e5-ae7d-4e82-b92d-44b2fcbb59ad"
@@ -211456,8 +211456,8 @@ digraph {
     type=shareholder
     state=active
     label="Zeitverlag Gerd Bucerius GmbH & Co KG"
-    num_owners=18
-    num_owners_weighted=8.6660
+    num_owners=20
+    num_owners_weighted=9.1660
     num_medias=26
     num_medias_weighted=26.0000
     name="5be1a6b6-dd6a-41c7-81ed-4225dceddcfb"
@@ -211528,8 +211528,8 @@ digraph {
     type=print
     state=active
     label="Zerbster Volksstimme"
-    num_owners=101
-    num_owners_weighted=27.0500
+    num_owners=143
+    num_owners_weighted=62.7382
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-78d1-46f2-a36a-9464f9be82fb"
@@ -212332,8 +212332,8 @@ digraph {
     type=print
     state=active
     label="Ärzte Zeitung"
-    num_owners=19
-    num_owners_weighted=12.9050
+    num_owners=21
+    num_owners_weighted=13.2924
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ece2-4804-9ec5-0cee42c698f3"
@@ -212356,8 +212356,8 @@ digraph {
     type=print
     state=active
     label="écoute"
-    num_owners=20
-    num_owners_weighted=10.6660
+    num_owners=22
+    num_owners_weighted=11.1660
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ca86-42c8-a17c-9e861c5c74b6"
@@ -247150,7 +247150,7 @@ digraph {
     type=owns
   ];
   8062 -> 7749 [
-    weight=4.33
+    weight=4.47
     type=owns
   ];
   8062 -> 7748 [
@@ -247324,6 +247324,10 @@ digraph {
   8067 -> 17378 [
     weight=100
     type=operates
+  ];
+  8070 -> 643 [
+    weight=5.26
+    type=owns
   ];
   8070 -> 7666 [
     weight=100
