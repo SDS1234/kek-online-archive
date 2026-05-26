@@ -1,6 +1,6 @@
 {
   "state": "active",
-  "squuid": "65c398bd-c302-4554-a674-fa3303ba1ca5",
+  "squuid": "6a1592db-ebb3-4b62-908e-0540a55b15eb",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -10,23 +10,22 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Märkisches Medienhaus GmbH & Co KG",
-        "squuid": "5be1a6b6-77a9-41c7-a6e8-f04daa097183"
+        "name": "Neue Osnabrücker Zeitung GmbH & Co. KG",
+        "squuid": "5be1a6b6-11e0-4409-8a35-b11600f37cca"
       },
-      "squuid": "65c398d4-605b-493e-9832-d9b7240c714f",
+      "squuid": "6a1592f5-21df-49d9-a6fd-9be53270684f",
       "state": "active"
     }
   ],
-  "name": "www.hennigsdorfer-generalanzeiger.de",
+  "name": "www.noz.de",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-05-26T09:23:09.731Z",
+  "controlDate": "2026-05-26T12:32:33.733Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
     "type": "organization"
   },
-  "description": "Überregionale Inhalte des Portals von der Neuen Berliner Redaktionsgesellschaft.",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",

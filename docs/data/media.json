@@ -92,7 +92,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "63d0fba2-c1e7-4a2a-abda-45bc5b4e6a14",
     "organization": {
@@ -103,7 +103,7 @@
     "name": "Südwest Presse Zolleralbkreis/Schmiecha Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-06T11:33:13.095Z",
+    "controlDate": "2026-05-26T13:00:13.827Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -1521,7 +1521,7 @@
     "rfStatewide": false,
     "name": "Altenaer Kreisblatt",
     "type": "print",
-    "controlDate": "2025-12-02T11:48:59.640Z",
+    "controlDate": "2026-05-26T09:10:56.026Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1565,7 +1565,7 @@
     "rfStatewide": false,
     "name": "Süderländer Volksfreund",
     "type": "print",
-    "controlDate": "2025-12-02T11:50:56.786Z",
+    "controlDate": "2026-05-26T09:11:49.253Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1585,7 +1585,7 @@
     "rfStatewide": false,
     "name": "Meinerzhagener Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T11:50:00.585Z",
+    "controlDate": "2026-05-26T09:11:26.961Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1605,7 +1605,7 @@
     "rfStatewide": false,
     "name": "Allgemeiner Anzeiger (Halver)",
     "type": "print",
-    "controlDate": "2025-12-02T11:48:48.005Z",
+    "controlDate": "2026-05-26T09:10:47.283Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1628,7 +1628,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T12:00:11.060Z",
+    "controlDate": "2026-05-26T09:13:23.468Z",
     "state": "active"
   },
   {
@@ -2129,7 +2129,7 @@
     "rfStatewide": false,
     "name": "Grevener Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T11:26:23.012Z",
+    "controlDate": "2026-05-26T08:41:58.608Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2152,7 +2152,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T11:27:00.340Z",
+    "controlDate": "2026-05-26T08:42:32.364Z",
     "state": "active"
   },
   {
@@ -3532,7 +3532,7 @@
     "name": "www.syfy.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:11:59.504Z",
+    "controlDate": "2026-05-26T11:01:54.547Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -4171,7 +4171,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T10:53:09.486Z",
+    "controlDate": "2026-05-26T08:53:51.883Z",
     "state": "active"
   },
   {
@@ -4421,7 +4421,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-11ed-4c66-a914-5a7608f41d53",
     "organization": {
@@ -4481,7 +4481,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-ac19-4bdb-8bac-ba74b2368752",
     "organization": {
@@ -4492,7 +4492,7 @@
     "rfStatewide": false,
     "name": "NWZ. Göppinger Kreisnachrichten",
     "type": "print",
-    "controlDate": "2024-11-29T14:34:39.296Z",
+    "controlDate": "2026-05-26T12:54:43.013Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4655,7 +4655,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T14:21:16.976Z",
+    "controlDate": "2026-05-26T11:15:58.048Z",
     "state": "active"
   },
   {
@@ -8687,7 +8687,7 @@
     "rfStatewide": false,
     "name": "BUNDmagazin",
     "type": "print",
-    "controlDate": "2025-12-02T14:05:04.271Z",
+    "controlDate": "2026-05-26T10:12:02.877Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15732,7 +15732,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T14:04:38.606Z",
+    "controlDate": "2026-05-26T10:10:27.852Z",
     "state": "active"
   },
   {
@@ -15768,7 +15768,7 @@
     "rfStatewide": false,
     "name": "Naturfreundin",
     "type": "print",
-    "controlDate": "2025-12-02T14:06:17.063Z",
+    "controlDate": "2026-05-26T10:36:12.016Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15792,7 +15792,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-26T09:46:40.724Z",
+    "controlDate": "2026-05-26T10:52:53.536Z",
     "state": "active"
   },
   {
@@ -24747,7 +24747,7 @@
     "name": "www.gransee-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:07:40.380Z",
+    "controlDate": "2026-05-26T09:22:57.278Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24797,7 +24797,7 @@
     "name": "www.meinerzhagener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:01:22.034Z",
+    "controlDate": "2026-05-26T09:13:44.079Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24821,7 +24821,7 @@
     "name": "www.altenaer-kreisblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T11:59:54.924Z",
+    "controlDate": "2026-05-26T09:13:14.312Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25954,7 +25954,7 @@
     "name": "www.hennigsdorfer-generalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:07:59.011Z",
+    "controlDate": "2026-05-26T09:23:09.731Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28359,7 +28359,7 @@
     "name": "Tag 7 (Osnabrück)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-03T09:08:37.918Z",
+    "controlDate": "2026-05-26T12:25:38.007Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28452,7 +28452,7 @@
     "name": "MZ Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-02T11:26:36.326Z",
+    "controlDate": "2026-05-26T08:42:11.096Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28588,7 +28588,7 @@
     "name": "acht.neun",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-03T09:19:57.092Z",
+    "controlDate": "2026-05-26T13:05:35.735Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28653,7 +28653,7 @@
     "name": "www.acht-neun.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-03T09:21:36.355Z",
+    "controlDate": "2026-05-26T13:06:39.409Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28816,7 +28816,7 @@
     "name": "www.alb-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-17T11:35:51.244Z",
+    "controlDate": "2026-05-26T13:07:09.038Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29032,7 +29032,7 @@
     "name": "www.geislinger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-08T10:24:16.880Z",
+    "controlDate": "2026-05-26T13:08:04.454Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29527,7 +29527,7 @@
     "name": "www.haller-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-20T13:21:07.039Z",
+    "controlDate": "2026-05-26T13:08:23.127Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31301,7 +31301,7 @@
     "name": "www.hohenloher-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-20T14:49:00.911Z",
+    "controlDate": "2026-05-26T13:08:57.535Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31439,7 +31439,7 @@
     "name": "Die Wirtschaft (Osnabrück/Emsland/Grafschaft Bentheim)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-03T09:05:11.590Z",
+    "controlDate": "2026-05-26T12:22:56.203Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31834,7 +31834,7 @@
     "name": "premium & style",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-03T09:09:25.562Z",
+    "controlDate": "2026-05-26T12:26:19.061Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31877,7 +31877,7 @@
     "name": "www.oranienburger-generalanzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:09:01.213Z",
+    "controlDate": "2026-05-26T09:24:04.194Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31973,7 +31973,7 @@
     "name": "www.hohenzollerische-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-20T14:49:12.787Z",
+    "controlDate": "2026-05-26T13:09:31.052Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32201,7 +32201,7 @@
     "name": "www.neue-wuerttembergische-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T09:57:34.733Z",
+    "controlDate": "2026-05-26T13:10:20.307Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32281,7 +32281,7 @@
     "name": "www.reutlinger-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T12:28:54.939Z",
+    "controlDate": "2026-05-26T13:10:36.587Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32495,7 +32495,7 @@
     "name": "www.rundschau-gaildorf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T12:52:31.625Z",
+    "controlDate": "2026-05-26T13:11:14.028Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35797,7 +35797,7 @@
     "name": "www.ruppiner-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:10:11.562Z",
+    "controlDate": "2026-05-26T09:24:18.141Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36614,7 +36614,7 @@
     "name": "www.koeln.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:42:06.949Z",
+    "controlDate": "2026-05-26T11:25:16.023Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37510,7 +37510,7 @@
     "name": "www.suederlaender-tageblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:01:37.182Z",
+    "controlDate": "2026-05-26T09:14:44.781Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37602,7 +37602,7 @@
     "name": "www.energy.de/sachsen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:50:40.843Z",
+    "controlDate": "2026-05-26T11:32:04.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38741,7 +38741,7 @@
     "name": "www.blickpunkt-brandenburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:07:27.996Z",
+    "controlDate": "2026-05-26T09:22:45.163Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38790,7 +38790,7 @@
     "name": "MAZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-02T11:36:02.615Z",
+    "controlDate": "2026-05-26T08:57:48.508Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39550,7 +39550,7 @@
     "name": "www.moz.de/brawo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:08:21.235Z",
+    "controlDate": "2026-05-26T09:23:29.142Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39646,7 +39646,7 @@
     "name": "www.moz.de/thema/maerkischer-sonntag",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:08:52.054Z",
+    "controlDate": "2026-05-26T09:23:56.435Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39694,7 +39694,7 @@
     "name": "www.moz.de/thema/maerkischer-markt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:08:42.796Z",
+    "controlDate": "2026-05-26T09:23:48.321Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39800,7 +39800,7 @@
     "name": "www.moz.de/thema/maerker",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:08:29.951Z",
+    "controlDate": "2026-05-26T09:23:38.284Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44272,7 +44272,7 @@
     "name": "www.muenchen.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:30:47.104Z",
+    "controlDate": "2026-05-26T09:58:58.286Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46239,7 +46239,7 @@
     "name": "www.pctipp.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-03T09:02:16.703Z",
+    "controlDate": "2026-05-26T12:02:03.512Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47248,7 +47248,7 @@
     "name": "www.netflix.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:43:04.093Z",
+    "controlDate": "2026-05-26T11:25:50.198Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -54981,7 +54981,7 @@
     "name": "www.neueins.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:51:40.315Z",
+    "controlDate": "2026-05-26T11:52:29.377Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -60781,7 +60781,7 @@
     "name": "www.zdnet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:44:10.889Z",
+    "controlDate": "2026-05-26T11:27:34.459Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70574,7 +70574,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-b33e-4465-8f34-4fc43aa4a107",
     "organization": {
@@ -70752,7 +70752,7 @@
     "name": "unternehmen [!]",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-03T09:20:26.704Z",
+    "controlDate": "2026-05-26T13:06:24.849Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81363,7 +81363,7 @@
     "name": "www.neckar-chronik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T15:37:15.197Z",
+    "controlDate": "2026-05-26T13:09:48.916Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83474,7 +83474,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-35bb-4b14-b5e7-08e01752462a",
     "organization": {
@@ -84661,7 +84661,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-ec85-4e9c-aef6-31ed645d509a",
     "organization": {
@@ -84672,7 +84672,7 @@
     "rfStatewide": false,
     "name": "Südwest Presse/Metzinger-Uracher Volksblatt",
     "type": "print",
-    "controlDate": "2026-01-06T11:33:40.921Z",
+    "controlDate": "2026-05-26T13:00:48.090Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84681,7 +84681,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-effc-476c-9656-3d032e30728a",
     "organization": {
@@ -85034,7 +85034,7 @@
     ]
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-c18e-4a7c-96d2-a6dba16ed87a",
     "organization": {
@@ -85045,7 +85045,7 @@
     "rfStatewide": false,
     "name": "Hohenzollerische Zeitung",
     "type": "print",
-    "controlDate": "2026-01-06T11:32:46.800Z",
+    "controlDate": "2026-05-26T12:54:27.253Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86459,7 +86459,7 @@
     "rfStatewide": false,
     "name": "Lüdenscheider Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-02T11:49:09.960Z",
+    "controlDate": "2026-05-26T09:11:14.378Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86479,7 +86479,7 @@
     "rfStatewide": false,
     "name": "Oranienburger Generalanzeiger",
     "type": "print",
-    "controlDate": "2025-12-02T12:06:28.869Z",
+    "controlDate": "2026-05-26T09:19:58.909Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86502,7 +86502,7 @@
     "rfStatewide": false,
     "name": "Märkische Oderzeitung",
     "type": "print",
-    "controlDate": "2025-12-02T12:06:19.517Z",
+    "controlDate": "2026-05-26T09:19:50.532Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86525,7 +86525,7 @@
     "rfStatewide": false,
     "name": "Märkische Allgemeine",
     "type": "print",
-    "controlDate": "2025-12-02T11:36:16.427Z",
+    "controlDate": "2026-05-26T08:58:04.635Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87296,7 +87296,7 @@
     "rfStatewide": false,
     "name": "Münchner Merkur",
     "type": "print",
-    "controlDate": "2025-12-02T12:34:30.355Z",
+    "controlDate": "2026-05-26T10:03:53.530Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87358,7 +87358,7 @@
     "rfStatewide": false,
     "name": "Murrhardter Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T10:52:53.221Z",
+    "controlDate": "2026-05-26T08:47:43.972Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87404,7 +87404,7 @@
     "rfStatewide": false,
     "name": "Neue Osnabrücker Zeitung",
     "type": "print",
-    "controlDate": "2025-12-03T09:07:34.547Z",
+    "controlDate": "2026-05-26T12:25:05.719Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87427,14 +87427,14 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:05:19.606Z",
+    "controlDate": "2026-05-26T12:29:24.149Z",
     "state": "active",
     "matchedNames": [
       "noz.de"
     ]
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "matchedNames": [
       "Südwest Presse"
     ],
@@ -87468,7 +87468,7 @@
     "rfStatewide": false,
     "name": "nd.Der Tag (Wochenendausgabe unter dem Titel nd.Die Woche)",
     "type": "print",
-    "controlDate": "2025-12-02T14:19:51.260Z",
+    "controlDate": "2026-05-26T11:15:51.173Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89037,7 +89037,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-5101-4b7b-bce3-c2000b2497e7",
     "organization": {
@@ -89048,7 +89048,7 @@
     "rfStatewide": false,
     "name": "Schwäbisches Tagblatt",
     "type": "print",
-    "controlDate": "2025-12-17T15:34:37.216Z",
+    "controlDate": "2026-05-26T12:59:21.285Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89696,7 +89696,7 @@
     "rfStatewide": false,
     "name": "Süderländer Tageblatt",
     "type": "print",
-    "controlDate": "2025-12-02T11:50:11.646Z",
+    "controlDate": "2026-05-26T09:11:37.641Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90772,7 +90772,7 @@
     "name": "www.13thstreet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:11:43.009Z",
+    "controlDate": "2026-05-26T11:01:31.005Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97679,7 +97679,7 @@
     "rfStatewide": false,
     "name": "Gmünder Tagespost",
     "type": "print",
-    "controlDate": "2025-12-18T09:03:00.258Z",
+    "controlDate": "2026-05-26T12:52:34.714Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -100304,7 +100304,7 @@
     "rfStatewide": false,
     "name": "Eberbacher Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T14:33:03.439Z",
+    "controlDate": "2026-05-26T11:19:32.506Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -103062,7 +103062,7 @@
     "rfStatewide": false,
     "name": "Münstersche Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T11:26:50.307Z",
+    "controlDate": "2026-05-26T08:42:21.065Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -104928,7 +104928,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f218bbd-cd8d-4ae0-8e45-4e928429012d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -104938,7 +104938,7 @@
     "name": "www.eonline.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:11:50.807Z",
+    "controlDate": "2026-05-26T11:02:03.087Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105975,7 +105975,7 @@
     "rfStatewide": false,
     "name": "Naturschutz heute",
     "type": "print",
-    "controlDate": "2026-02-04T12:42:48.370Z",
+    "controlDate": "2026-05-26T10:52:45.637Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107459,7 +107459,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T15:38:38.499Z",
+    "controlDate": "2026-05-26T13:11:53.677Z",
     "state": "active"
   },
   {
@@ -107976,7 +107976,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T14:48:00.215Z",
+    "controlDate": "2026-05-26T11:30:19.406Z",
     "state": "active"
   },
   {
@@ -110317,7 +110317,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-03T09:23:20.528Z",
+    "controlDate": "2026-05-26T13:11:43.313Z",
     "state": "active"
   },
   {
@@ -112441,7 +112441,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T12:36:31.321Z",
+    "controlDate": "2026-05-26T10:05:33.022Z",
     "state": "active"
   },
   {
@@ -112584,7 +112584,7 @@
     "rfStatewide": false,
     "name": "Natur & Heilen",
     "type": "print",
-    "controlDate": "2025-12-02T14:04:01.220Z",
+    "controlDate": "2026-05-26T10:10:18.527Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112809,7 +112809,7 @@
     "rfStatewide": false,
     "name": "Haller Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-06T11:27:02.409Z",
+    "controlDate": "2026-05-26T12:52:10.428Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112818,7 +112818,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-d63f-44d9-b848-20ea4b0d2ab0",
     "organization": {
@@ -112829,7 +112829,7 @@
     "rfStatewide": false,
     "name": "Hohenloher Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-06T11:27:31.738Z",
+    "controlDate": "2026-05-26T12:53:29.423Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112838,7 +112838,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-9731-480f-9878-e4e44266befd",
     "organization": {
@@ -112849,7 +112849,7 @@
     "rfStatewide": false,
     "name": "Rundschau",
     "type": "print",
-    "controlDate": "2026-01-06T11:28:57.787Z",
+    "controlDate": "2026-05-26T12:57:40.903Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -113487,7 +113487,7 @@
     "name": "www.luedenscheider-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:01:02.466Z",
+    "controlDate": "2026-05-26T09:13:35.352Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -114733,7 +114733,7 @@
     "name": "www.nerdstar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T11:28:46.558Z",
+    "controlDate": "2026-05-26T11:23:28.735Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -118211,7 +118211,7 @@
     "rfStatewide": false,
     "name": "Hennigsdorfer Generalanzeiger",
     "type": "print",
-    "controlDate": "2025-12-02T12:06:09.317Z",
+    "controlDate": "2026-05-26T09:19:30.639Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118231,7 +118231,7 @@
     "rfStatewide": false,
     "name": "Gransee-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-02T12:05:59.133Z",
+    "controlDate": "2026-05-26T09:19:21.821Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118251,7 +118251,7 @@
     "rfStatewide": false,
     "name": "Ruppiner Anzeiger",
     "type": "print",
-    "controlDate": "2025-12-02T12:06:38.471Z",
+    "controlDate": "2026-05-26T09:20:09.238Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -118274,7 +118274,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T12:08:08.107Z",
+    "controlDate": "2026-05-26T09:23:20.033Z",
     "state": "active"
   },
   {
@@ -118376,7 +118376,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T11:36:24.257Z",
+    "controlDate": "2026-05-26T08:58:18.083Z",
     "state": "active"
   },
   {
@@ -122284,7 +122284,7 @@
     "rfStatewide": false,
     "name": "Bramscher Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-03T09:04:45.880Z",
+    "controlDate": "2026-05-26T12:22:22.863Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122304,7 +122304,7 @@
     "rfStatewide": false,
     "name": "Bersenbrücker Kreisblatt",
     "type": "print",
-    "controlDate": "2025-12-03T09:04:12.826Z",
+    "controlDate": "2026-05-26T12:21:45.461Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122343,7 +122343,7 @@
     "rfStatewide": false,
     "name": "Lingener Tagespost",
     "type": "print",
-    "controlDate": "2025-12-03T09:06:07.300Z",
+    "controlDate": "2026-05-26T12:23:43.439Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122363,7 +122363,7 @@
     "rfStatewide": false,
     "name": "Meppener Tagespost",
     "type": "print",
-    "controlDate": "2025-12-03T09:07:16.677Z",
+    "controlDate": "2026-05-26T12:24:45.202Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122383,7 +122383,7 @@
     "rfStatewide": false,
     "name": "Ems-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-03T09:05:44.513Z",
+    "controlDate": "2026-05-26T12:23:22.864Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122423,7 +122423,7 @@
     "rfStatewide": false,
     "name": "Wittlager Kreisblatt",
     "type": "print",
-    "controlDate": "2025-12-03T09:08:58.021Z",
+    "controlDate": "2026-05-26T12:26:04.689Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122443,7 +122443,7 @@
     "rfStatewide": false,
     "name": "Meller Kreisblatt",
     "type": "print",
-    "controlDate": "2025-12-03T09:06:58.394Z",
+    "controlDate": "2026-05-26T12:23:58.032Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122466,7 +122466,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:04:46.071Z",
+    "controlDate": "2026-05-26T12:28:43.909Z",
     "state": "active"
   },
   {
@@ -122484,7 +122484,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:04:37.988Z",
+    "controlDate": "2026-05-26T12:28:37.716Z",
     "state": "active"
   },
   {
@@ -122526,7 +122526,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:04:58.728Z",
+    "controlDate": "2026-05-26T12:29:18.330Z",
     "state": "active"
   },
   {
@@ -122544,7 +122544,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:05:12.704Z",
+    "controlDate": "2026-05-26T12:29:12.900Z",
     "state": "active"
   },
   {
@@ -122586,7 +122586,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:04:52.393Z",
+    "controlDate": "2026-05-26T12:28:48.458Z",
     "state": "active"
   },
   {
@@ -122604,7 +122604,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:05:32.831Z",
+    "controlDate": "2026-05-26T12:29:29.259Z",
     "state": "active"
   },
   {
@@ -122622,7 +122622,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T17:05:05.904Z",
+    "controlDate": "2026-05-26T12:29:02.365Z",
     "state": "active"
   },
   {
@@ -125685,7 +125685,7 @@
     "name": "www.ws-fz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T14:55:42.011Z",
+    "controlDate": "2026-05-26T11:54:26.838Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130229,7 +130229,7 @@
     "name": "www.berliner-rundfunk.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T15:01:50.546Z",
+    "controlDate": "2026-05-26T11:58:02.318Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136661,7 +136661,7 @@
     "name": "www.wotsch.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-02T12:31:09.247Z",
+    "controlDate": "2026-05-26T10:00:39.799Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136955,7 +136955,7 @@
     "name": "www.kreiszeitung-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T13:47:48.780Z",
+    "controlDate": "2026-05-26T11:59:52.568Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146566,7 +146566,7 @@
     "name": "www.citystories-ulm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-03T09:22:20.931Z",
+    "controlDate": "2026-05-26T13:07:20.399Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149656,7 +149656,7 @@
     "name": "www.swp-wochenblatt.weekli.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-08T10:24:24.284Z",
+    "controlDate": "2026-05-26T13:11:29.716Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157459,6 +157459,30 @@
   },
   {
     "state": "active",
+    "squuid": "6a1592db-ebb3-4b62-908e-0540a55b15eb",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.noz.de",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-05-26T12:32:33.733Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "66bf5866-d628-40a0-bfda-9c166b04a3e7",
     "organization": {
       "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
@@ -160869,7 +160893,7 @@
     "name": "www.fupa.net/region/suedwest",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-03T09:22:44.548Z",
+    "controlDate": "2026-05-26T13:07:52.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
