@@ -53623,7 +53623,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=4
-    num_medias_weighted=0.2176
+    num_medias_weighted=0.0000
     name="5ce272fb-1834-4182-a287-bffdaf7ff9ce"
     in_degree=1
     out_degree=1
@@ -59742,11 +59742,11 @@ digraph {
     label="Haberger, Michaela"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=5
+    num_medias_weighted=0.0339
     name="6a031613-d74e-41f3-a83a-66a9c301e32c"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4979 [
     type=shareholder
@@ -62527,7 +62527,7 @@ digraph {
     num_owners=4
     num_owners_weighted=3.8912
     num_medias=4
-    num_medias_weighted=4.0000
+    num_medias_weighted=0.0000
     name="5be1a6b6-6144-45f6-bc05-b9fe666ba0dc"
     in_degree=2
     out_degree=1
@@ -62539,7 +62539,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=4
-    num_medias_weighted=3.7824
+    num_medias_weighted=0.0000
     name="5be1a6b6-b9bb-462d-bd11-1333ff3b3f1e"
     in_degree=1
     out_degree=2
@@ -62551,10 +62551,10 @@ digraph {
     num_owners=5
     num_owners_weighted=4.8912
     num_medias=4
-    num_medias_weighted=4.0000
+    num_medias_weighted=0.0000
     name="5be1a6b6-892a-48c6-8ffd-bcbce6f9b4a6"
     in_degree=1
-    out_degree=4
+    out_degree=3
   ];
   5213 [
     type=shareholder
@@ -62577,7 +62577,7 @@ digraph {
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-691a-4719-a645-ba81919e7449"
-    in_degree=1
+    in_degree=3
     out_degree=4
   ];
   5215 [
@@ -62586,11 +62586,11 @@ digraph {
     label="Hearst Networks Holding, Inc."
     num_owners=6
     num_owners_weighted=5.8912
-    num_medias=0
+    num_medias=4
     num_medias_weighted=0.0000
     name="5be1a6b6-b6fc-45b7-8cf2-f027769eaff8"
     in_degree=1
-    out_degree=1
+    out_degree=2
   ];
   5216 [
     type=shareholder
@@ -105105,7 +105105,7 @@ digraph {
     num_medias=100
     num_medias_weighted=8.7406
     name="5be1a6b6-6d98-47de-ac59-bdd22da3974d"
-    in_degree=7
+    in_degree=8
     out_degree=6
   ];
   8759 [
@@ -152899,7 +152899,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=13
-    num_medias_weighted=8.2824
+    num_medias_weighted=4.5000
     name="5be1a6b6-e70f-4ab1-a969-243af661dabd"
     in_degree=1
     out_degree=3
@@ -152911,7 +152911,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=13
-    num_medias_weighted=8.2824
+    num_medias_weighted=4.5000
     name="5ce27341-2dac-4d89-83be-c2f643b5f2c9"
     in_degree=0
     out_degree=1
@@ -152922,11 +152922,11 @@ digraph {
     label="The History Channel (Germany) Beteiligungs GmbH"
     num_owners=6
     num_owners_weighted=5.8912
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=4
+    num_medias_weighted=3.9800
     name="5be1a6b6-58f2-47f9-a3b1-d30cf538f812"
     in_degree=1
-    out_degree=0
+    out_degree=1
   ];
   12744 [
     type=shareholder
@@ -152934,11 +152934,11 @@ digraph {
     label="The History Channel (Germany) Holdings GmbH"
     num_owners=7
     num_owners_weighted=3.9456
-    num_medias=0
+    num_medias=4
     num_medias_weighted=0.0000
     name="5be1a6b6-b19d-4d43-8a2e-633a7b1689e8"
     in_degree=2
-    out_degree=0
+    out_degree=1
   ];
   12745 [
     type=print
@@ -160698,11 +160698,11 @@ digraph {
     label="Verwaltungsgesellschaft Emder Zeitung GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=100
     num_medias_weighted=0.0000
     name="6a030d3d-8cf5-4c24-bfa5-092f1f5f0fc2"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   13392 [
     type=shareholder
@@ -165258,11 +165258,11 @@ digraph {
     label="Weber, Christa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
-    num_medias_weighted=0.0220
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f8d7f63-851b-41da-9711-5a1e8ab2f356"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   13772 [
     type=shareholder
@@ -234413,6 +234413,10 @@ digraph {
     weight=100
     type=operates
   ];
+  4978 -> 4960 [
+    weight=37
+    type=owns
+  ];
   4979 -> 11460 [
     weight=35
     type=owns
@@ -235149,10 +235153,6 @@ digraph {
     weight=94.56
     type=owns
   ];
-  5212 -> 5214 [
-    weight=100
-    type=owns
-  ];
   5212 -> 5215 [
     weight=100
     type=owns
@@ -235180,6 +235180,10 @@ digraph {
   5214 -> 15508 [
     weight=100
     type=operates
+  ];
+  5215 -> 5214 [
+    weight=1
+    type=owns
   ];
   5215 -> 12744 [
     weight=50
@@ -270065,6 +270069,14 @@ digraph {
     weight=100
     type=owns
   ];
+  12743 -> 5214 [
+    weight=99.5
+    type=owns
+  ];
+  12744 -> 5214 [
+    weight=1
+    type=owns
+  ];
   12746 -> 2429 [
     weight=20.2
     type=owns
@@ -273233,6 +273245,10 @@ digraph {
     weight=1
     type=owns
   ];
+  13391 -> 8758 [
+    weight=1
+    type=owns
+  ];
   13393 -> 4621 [
     weight=1
     type=owns
@@ -274870,10 +274886,6 @@ digraph {
     type=owns
   ];
   13770 -> 4960 [
-    weight=24
-    type=owns
-  ];
-  13771 -> 4960 [
     weight=24
     type=owns
   ];
