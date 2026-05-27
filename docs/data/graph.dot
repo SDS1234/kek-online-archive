@@ -42126,11 +42126,11 @@ digraph {
     label="Erbengemeinschaft nach Michael Friemel (Kathleen Heidi Böhme, Michael Bert Friemel)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=15
+    num_medias_weighted=0.0467
     name="6a047c93-e3c6-4cae-8a64-b71fe3390563"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3511 [
     type=shareholder
@@ -50634,11 +50634,11 @@ digraph {
     label="Friemel, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=15
-    num_medias_weighted=0.0467
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-340a-45fc-bfc0-0e630da5bdcf"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4220 [
     type=shareholder
@@ -66222,11 +66222,11 @@ digraph {
     label="Hoepfner Besser Wohnen GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=4
+    num_medias_weighted=0.1873
     name="6a048a1b-ec57-4d41-9136-984b353a2c9e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5519 [
     type=shareholder
@@ -66237,7 +66237,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.3496
     name="5d35cbb0-932a-4aed-9554-ec09fb9323c2"
-    in_degree=4
+    in_degree=5
     out_degree=3
   ];
   5520 [
@@ -227461,6 +227461,10 @@ digraph {
     weight=2.2
     type=owns
   ];
+  3510 -> 5486 [
+    weight=1
+    type=owns
+  ];
   3511 -> 2972 [
     weight=8.3
     type=owns
@@ -229826,10 +229830,6 @@ digraph {
     type=owns
   ];
   4218 -> 4217 [
-    weight=1
-    type=owns
-  ];
-  4219 -> 5486 [
     weight=1
     type=owns
   ];
@@ -236643,6 +236643,10 @@ digraph {
   ];
   5517 -> 5256 [
     weight=33.3
+    type=owns
+  ];
+  5518 -> 5519 [
+    weight=53.58
     type=owns
   ];
   5519 -> 870 [
