@@ -99537,7 +99537,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="64c10f04-6e02-41b1-9b8d-b95ea3bd679a"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   8295 [
@@ -111558,11 +111558,11 @@ digraph {
     label="Pippart, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=2.0000
     name="5c581415-d30e-4cbb-86f2-35cca35a4d9e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   9297 [
     type=shareholder
@@ -254475,6 +254475,10 @@ digraph {
   ];
   9295 -> 9294 [
     weight=19
+    type=owns
+  ];
+  9296 -> 8294 [
+    weight=100
     type=owns
   ];
   9297 -> 2100 [
