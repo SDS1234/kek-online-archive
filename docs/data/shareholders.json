@@ -992,7 +992,7 @@
     "squuid": "5d308be8-db59-467a-b397-514f3763b1b8",
     "name": "Krone-Verlag GmbH & Co. Vermögensverwaltung KG",
     "state": "active",
-    "controlDate": "2026-05-20T07:57:08.676Z",
+    "controlDate": "2026-05-28T10:39:40.508Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -1018,7 +1018,7 @@
     "squuid": "5d308c26-bc81-426b-acb6-011874beb13b",
     "name": "NKZ Austria-Beteiligungs GmbH ",
     "state": "active",
-    "controlDate": "2025-06-14T13:27:48.560Z",
+    "controlDate": "2026-05-28T10:37:21.385Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -1641,7 +1641,7 @@
     "squuid": "5f0dbdf6-9b4a-4b14-9d0d-1f595c54e0ef",
     "name": "Nippon Life Insurance Company",
     "state": "active",
-    "controlDate": "2025-12-03T11:28:39.939Z",
+    "controlDate": "2026-05-28T10:36:22.899Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31188,7 +31188,7 @@
     "squuid": "5be1a6b6-45a9-499c-9b56-add326f29bc4",
     "name": "NiedersachsenRadio GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-03T10:42:07.479Z",
+    "controlDate": "2026-05-28T10:32:26.088Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -148266,7 +148266,7 @@
     "squuid": "5f7dccdb-5a9b-4700-a588-19230bbd222c",
     "name": "Niederbayern TV Programm- und Werbe-GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T10:37:11.658Z",
+    "controlDate": "2026-05-28T10:23:48.285Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -150995,7 +150995,7 @@
     "squuid": "5f7dd8ac-80e9-4600-a702-e19ee6ce8cf8",
     "name": "Niederbayern TV Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T10:37:41.743Z",
+    "controlDate": "2026-05-28T10:24:25.118Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163702,6 +163702,8 @@
     "squuid": "6a048a1b-ec57-4d41-9136-984b353a2c9e",
     "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
     "state": "active",
+    "controlDate": "2026-05-28T09:34:08.500Z",
+    "limitedPartnership": true,
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170440,7 +170442,7 @@
     "squuid": "5cab626e-4766-4537-95c3-64d96fef1fb4",
     "name": "Niederbayern TV Programm- und Werbe-GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-03T10:37:25.824Z",
+    "controlDate": "2026-05-28T10:24:08.679Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -193061,7 +193063,7 @@
     "squuid": "5efb0e0e-8653-4232-8528-55f983e244bd",
     "name": "NiedersachsenRadio Beteiligung GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T10:42:00.887Z",
+    "controlDate": "2026-05-28T10:32:19.397Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -225010,7 +225012,7 @@
     "squuid": "5ccacbf6-a59f-42fd-8dcb-8c22e0d52fcb",
     "name": "Niederbayern TV Passau GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T10:36:19.264Z",
+    "controlDate": "2026-05-28T10:23:26.495Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -274937,7 +274939,7 @@
     "squuid": "5be1a6b6-f52d-4e2d-8bd3-bc7c08590a8b",
     "name": "Nissan Motor Co., Ltd.",
     "state": "active",
-    "controlDate": "2025-12-03T11:28:51.349Z",
+    "controlDate": "2026-05-28T10:36:33.907Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -303615,6 +303617,19 @@
     ]
   },
   {
+    "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943",
+    "name": "Hoepfner Besser Wohnen Verwaltungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f16ea09-f838-4e83-9781-a140740296c3",
     "name": "Radio Minden-Lübbecke GmbH",
     "state": "active",
@@ -306322,7 +306337,7 @@
     "squuid": "6399a41f-9e30-4381-9fca-264aa0bd5311",
     "name": "Niemeyer Rundfunk GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T11:23:35.120Z",
+    "controlDate": "2026-05-28T10:33:38.304Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
