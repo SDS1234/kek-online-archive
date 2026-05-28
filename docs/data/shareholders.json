@@ -1158,7 +1158,7 @@
     "squuid": "60fe9878-3c4e-4334-ad7d-09325ac048b3",
     "name": "Nordsee-Zeitung GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T14:41:15.793Z",
+    "controlDate": "2026-05-28T12:25:59.546Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -12541,7 +12541,7 @@
     "squuid": "5be1a6b6-36c7-4893-9dd4-73765ce4a934",
     "name": "NRJ Hörfunk Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-15T10:50:46.143Z",
+    "controlDate": "2026-05-28T13:05:03.629Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17821,7 +17821,7 @@
     "squuid": "5be1a6b6-ba6f-4b8d-9817-de768ab3d30c",
     "name": "ntv Nachrichtenfernsehen GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T12:21:48.704Z",
+    "controlDate": "2026-05-28T13:09:33.737Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -23525,7 +23525,7 @@
     "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d",
     "name": "Nordwest-Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-12T11:19:51.714Z",
+    "controlDate": "2026-05-28T12:35:50.759Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -24745,7 +24745,7 @@
     "squuid": "5be1a6b6-d59b-4f83-a4a5-c6914ffc5d00",
     "name": "NRJ Group S.A.",
     "state": "active",
-    "controlDate": "2025-12-04T10:43:34.977Z",
+    "controlDate": "2026-05-28T13:04:27.848Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32237,7 +32237,7 @@
     "name": "NORA NordOstsee Radio GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d080-44e2-a6f5-d56f8f5c4334",
-    "controlDate": "2025-12-03T12:28:24.053Z",
+    "controlDate": "2026-05-28T11:09:37.174Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43584,7 +43584,7 @@
     "squuid": "5be1a6b6-e7b4-4d33-a1f4-c4d87758fbef",
     "name": "Neue Welle Würzburg Rundfunkprogrammgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-27T11:46:23.784Z",
+    "controlDate": "2026-05-28T13:35:36.299Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91146,7 +91146,7 @@
     "squuid": "5eb2ae39-2a64-4b5a-ac8a-c127889348f4",
     "name": "NWZ-Grundstücksverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-04T12:35:00.928Z",
+    "controlDate": "2026-05-28T13:13:29.391Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -95194,7 +95194,7 @@
     "squuid": "5be1a6b6-c472-41cd-929b-92ddc54a0324",
     "name": "Nordbayerische Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-12T12:30:02.077Z",
+    "controlDate": "2026-05-28T11:12:14.625Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95994,6 +95994,51 @@
         "held": {
           "squuid": "63d00057-b391-4b5f-afc6-bc14bffa2f4d",
           "name": "www.suedfinder.de"
+        }
+      },
+      {
+        "squuid": "6a18304d-fe3f-4a31-86a5-f41a3ebf34a4",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7bdc-48e0-a984-82d695df58a7",
+          "name": "www.nnn.de"
+        }
+      },
+      {
+        "squuid": "6a18306d-dc55-47d1-bcd7-ff5c29269c21",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-2432-45bd-ba15-d075e3b152b0",
+          "name": "www.nordkurier.de"
+        }
+      },
+      {
+        "squuid": "6a18308e-7d85-4b31-b58e-4d714094631b",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-bdb9-4237-87b6-88833e2aa5d5",
+          "name": "www.prignitzer.de"
+        }
+      },
+      {
+        "squuid": "6a1830bc-0e08-437c-8231-e893450f3574",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-7eb4-4768-ac97-6b82685767db",
+          "name": "www.svz.de"
+        }
+      },
+      {
+        "squuid": "6a1830d9-7964-4e1d-8bc7-d42b401817e0",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "667e782d-a3cb-4338-a3e9-9ea10a56b122",
+          "name": "www.uckermarkkurier.de"
         }
       }
     ]
@@ -97628,7 +97673,7 @@
     "squuid": "5be1a6b6-08d2-4c51-b8a2-a20e3090b99a",
     "name": "NWZ-Grundstücksgesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-04T12:35:06.496Z",
+    "controlDate": "2026-05-28T13:14:25.323Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -143883,7 +143928,7 @@
     "name": "NNP GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "637b6f8a-10ed-41c5-818a-9e26c01f8f4b",
-    "controlDate": "2025-12-03T11:44:26.631Z",
+    "controlDate": "2026-05-28T10:42:12.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -143994,7 +144039,7 @@
     "squuid": "637b6fa7-e2c4-4e19-9c8b-816c7f2b32dc",
     "name": "NNP Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T11:44:16.413Z",
+    "controlDate": "2026-05-28T10:41:08.793Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148499,7 +148544,7 @@
     "squuid": "5eb2ab46-0d20-46bd-a0d9-a26dad0d1ada",
     "name": "Nordwest-Medien Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-12T11:23:10.309Z",
+    "controlDate": "2026-05-28T12:34:45.771Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -154424,6 +154469,7 @@
     "squuid": "6a030d3d-8cf5-4c24-bfa5-092f1f5f0fc2",
     "name": "Verwaltungsgesellschaft Emder Zeitung GmbH",
     "state": "active",
+    "controlDate": "2026-05-28T12:36:50.971Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -172056,6 +172102,7 @@
     "squuid": "64f982df-d9b8-402a-8736-340550feb6b7",
     "name": "Oberlausitzer Radio e.V.",
     "state": "active",
+    "controlDate": "2026-05-28T14:10:01.203Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172306,7 +172353,7 @@
     "name": "Nordwest Media Vermarktungsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "637f907b-45ea-4a64-aa67-cc281b3f330a",
-    "controlDate": "2025-12-03T14:50:02.474Z",
+    "controlDate": "2026-05-28T12:32:28.447Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173284,7 +173331,7 @@
     "squuid": "637f910d-6993-47ab-bf98-8b5577474922",
     "name": "Nordwest-Wochenzeitungen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-03T14:52:39.166Z",
+    "controlDate": "2026-05-28T12:38:50.838Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -174145,7 +174192,7 @@
     "squuid": "5edf9f22-9af4-4e44-aae6-9efbb4c19915",
     "name": "Nordkurier Mediengruppe Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T14:10:13.422Z",
+    "controlDate": "2026-05-28T11:31:15.656Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -179625,7 +179672,7 @@
     "squuid": "5de8ff4a-6696-48ba-be1c-849bbcc17b00",
     "name": "NOWEDA Apothekergenossenschaft eG",
     "state": "active",
-    "controlDate": "2024-12-02T14:51:17.960Z",
+    "controlDate": "2026-05-28T12:54:42.501Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182829,7 +182876,7 @@
     "squuid": "5c53152b-b3eb-4f9b-919d-edebc741d132",
     "name": "Nordbayerischer Kurier Zeitungsverlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T12:36:32.717Z",
+    "controlDate": "2026-05-28T11:14:58.537Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184836,7 +184883,7 @@
     "squuid": "63d13f5a-b99f-46fa-9aaa-4cfabb878389",
     "name": "Oberbergische Anzeigenblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T14:08:17.991Z",
+    "controlDate": "2026-05-28T14:07:39.831Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -184913,7 +184960,7 @@
     "name": "Oberbergische Anzeigenblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63d13ede-6894-431e-8d11-edc05d60aaa7",
-    "controlDate": "2025-12-04T14:08:25.950Z",
+    "controlDate": "2026-05-28T14:07:52.650Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193450,7 +193497,7 @@
     "squuid": "5d381e9f-bffe-4d03-94d4-73118b2e02c5",
     "name": "Nürnberg Ice Tigers Eishockey GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T13:54:05.445Z",
+    "controlDate": "2026-05-28T13:41:50.783Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194593,7 +194640,7 @@
     "squuid": "5f1aabe8-560a-45a8-9197-04d4e960a140",
     "name": "NORA NordOstsee RAdio Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T12:27:55.909Z",
+    "controlDate": "2026-05-28T11:05:19.010Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -199855,7 +199902,7 @@
     "squuid": "5d0ce512-a8b5-4657-b00d-efc4280983f4",
     "name": "Norges Bank Investment Management",
     "state": "active",
-    "controlDate": "2025-12-03T15:02:35.735Z",
+    "controlDate": "2026-05-28T12:52:54.694Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -205888,7 +205935,7 @@
     "name": "Nordbayerische Anzeigenverwaltung GmbH",
     "limitedPartnership": false,
     "squuid": "63d90671-aa9e-4530-ab5e-ade6c640c1bf",
-    "controlDate": "2025-12-03T12:32:52.693Z",
+    "controlDate": "2026-05-28T11:10:29.687Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206556,7 +206603,7 @@
     "squuid": "63d92686-83a7-47da-aff0-79489d13ff98",
     "name": "NOZ Digital GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T10:11:52.620Z",
+    "controlDate": "2026-05-28T12:56:16.026Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214365,7 +214412,7 @@
     "squuid": "5be1a6b6-40bb-4639-bd38-924be5c7a61b",
     "name": "noventis-capital Beratungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-03T15:09:30.695Z",
+    "controlDate": "2026-05-28T12:53:58.556Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214797,7 +214844,7 @@
     "squuid": "5fb7dc29-bd80-41d8-ba6a-2c9d1bf83255",
     "name": "Novomatic AG",
     "state": "active",
-    "controlDate": "2025-12-03T15:10:33.156Z",
+    "controlDate": "2026-05-28T12:54:24.245Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -224000,7 +224047,7 @@
     "name": "Nordkurier Mediengruppe GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2919-4398-9b38-8299ccaf8b7d",
-    "controlDate": "2025-12-03T14:12:04.492Z",
+    "controlDate": "2026-05-28T11:31:21.976Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226179,7 +226226,7 @@
     "name": "Nordwest-Zeitung Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b2f4-4429-bd16-474ad6037163",
-    "controlDate": "2025-12-03T14:53:24.364Z",
+    "controlDate": "2026-05-28T12:48:22.407Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226312,7 +226359,7 @@
     "name": "Oberbadisches Verlagshaus Georg Jaumann GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8244-4014-b06f-ccb9f2ef13e8",
-    "controlDate": "2025-12-04T13:57:22.650Z",
+    "controlDate": "2026-05-28T13:45:14.841Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237455,7 +237502,7 @@
     "squuid": "5be1a6b6-f188-46bc-b0e9-b8363472fc5c",
     "name": "Nordis Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-03T14:02:58.496Z",
+    "controlDate": "2026-05-28T11:28:07.582Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -245378,7 +245425,7 @@
     "squuid": "5be1a6b6-2910-4bdc-a025-b9c93f2739cb",
     "name": "OC Projects, Optendrenk & Calinski GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T14:27:14.001Z",
+    "controlDate": "2026-05-28T14:14:20.405Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253424,7 +253471,7 @@
     "squuid": "5be1a6b6-32e0-4347-b17f-dcdba478c0a5",
     "name": "NPG Digital GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T10:27:27.874Z",
+    "controlDate": "2026-05-28T13:02:37.743Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -268066,7 +268113,7 @@
     "squuid": "63c57eba-fc9e-471a-974f-11904a66fab3",
     "name": "NOVENTI Health SE",
     "state": "active",
-    "controlDate": "2025-12-03T15:08:42.297Z",
+    "controlDate": "2026-05-28T12:53:18.110Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -272625,7 +272672,7 @@
     "squuid": "66597352-82de-466f-9c63-48ce93d12587",
     "name": "NRW Audio Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T13:53:13.361Z",
+    "controlDate": "2026-05-28T13:07:01.752Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276358,7 +276405,7 @@
     "squuid": "5be1a6b6-682a-49d4-b30c-7af1031ec849",
     "name": "NOZ MEDIEN Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T10:26:08.764Z",
+    "controlDate": "2026-05-28T13:01:48.768Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276459,7 +276506,7 @@
     "squuid": "5be1a6b6-9108-41f9-83fc-659e3d06e8c5",
     "name": "NOZ MEDIEN Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T10:25:40.080Z",
+    "controlDate": "2026-05-28T13:01:43.168Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294606,7 +294653,7 @@
     "name": "NRW Audio GmbH & Co. KG ",
     "limitedPartnership": true,
     "squuid": "62e77c1e-8d4c-4f03-9965-9f4964d8faec",
-    "controlDate": "2025-12-04T12:10:30.824Z",
+    "controlDate": "2026-05-28T13:08:08.093Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295330,7 +295377,7 @@
     "squuid": "5be1a6b6-636a-4801-b4e9-c0b3eae60c94",
     "name": "Obotritia Capital KGaA",
     "state": "active",
-    "controlDate": "2025-12-04T14:26:53.892Z",
+    "controlDate": "2026-05-28T14:12:35.766Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -299744,7 +299791,7 @@
     "squuid": "62e8e7b2-3958-41df-9126-6f19eb15e28a",
     "name": "O. Schmidt Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-04T13:54:42.958Z",
+    "controlDate": "2026-05-28T13:43:49.701Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
