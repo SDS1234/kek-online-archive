@@ -6940,8 +6940,8 @@ digraph {
     type=print
     state=active
     label="Anzeiger für Harlingerland"
-    num_owners=58
-    num_owners_weighted=44.8550
+    num_owners=46
+    num_owners_weighted=39.6882
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e175-4857-9dcb-ed04d8b4e73d"
@@ -24030,8 +24030,8 @@ digraph {
     label="CCG-Commercial Coordination Germany GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=6
-    num_medias_weighted=5.0317
+    num_medias=8
+    num_medias_weighted=7.0317
     name="5de77f74-129f-40c7-bcf1-f782ddc4c838"
     in_degree=1
     out_degree=1
@@ -24906,8 +24906,8 @@ digraph {
     label="Cichon, Dr. Claudia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=2.1574
+    num_medias=98
+    num_medias_weighted=2.2029
     name="5be1a6b6-8735-445c-bdb1-342bd1b6bbc5"
     in_degree=0
     out_degree=1
@@ -29419,7 +29419,7 @@ digraph {
     num_owners=14
     num_owners_weighted=6.6512
     num_medias=57
-    num_medias_weighted=14.9823
+    num_medias_weighted=14.9831
     name="5be1a6b6-ad84-44f3-8258-e132afd0a441"
     in_degree=3
     out_degree=8
@@ -34891,7 +34891,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=57
-    num_medias_weighted=5.2258
+    num_medias_weighted=5.2261
     name="5be1a6b6-c3dc-4e89-b5c5-99384c383dcd"
     in_degree=2
     out_degree=1
@@ -35670,8 +35670,8 @@ digraph {
     label="Druckhaus Nürnberg GmbH"
     num_owners=8
     num_owners_weighted=6.2000
-    num_medias=91
-    num_medias_weighted=26.9837
+    num_medias=92
+    num_medias_weighted=27.5739
     name="5cb74c22-0d93-4491-a253-f98685ffbc69"
     in_degree=6
     out_degree=1
@@ -36918,8 +36918,8 @@ digraph {
     label="Düthorn, Dr. Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=2.1574
+    num_medias=98
+    num_medias_weighted=2.2029
     name="5be1a6b6-a22c-4e32-9cf3-663df5badf1b"
     in_degree=0
     out_degree=1
@@ -38718,8 +38718,8 @@ digraph {
     label="Eigenbesitz der Druckhaus Nürnberg GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=14.8680
+    num_medias=92
+    num_medias_weighted=15.1932
     name="5d08bf81-f743-4414-80f1-c2a18051c68f"
     in_degree=0
     out_degree=1
@@ -42138,8 +42138,8 @@ digraph {
     label="Erbengemeinschaft nach Toni Schnell (Samuel Schnell, Louisa Schnell, Vinzenz Schnell, Helena Schnell)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=2.2396
+    num_medias=92
+    num_medias_weighted=2.2886
     name="67b74d46-98c7-483e-8765-d99bf29791ac"
     in_degree=0
     out_degree=1
@@ -50598,8 +50598,8 @@ digraph {
     label="Friedrich, Holger"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=5.0317
+    num_medias=8
+    num_medias_weighted=7.0317
     name="5de7808c-2b20-4d2b-9814-4e6a90037a54"
     in_degree=0
     out_degree=1
@@ -68334,8 +68334,8 @@ digraph {
     label="Hussendörfer, Monika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=4.3147
+    num_medias=98
+    num_medias_weighted=4.4058
     name="5be1a6b6-02cb-4f9a-9832-3fcc27788176"
     in_degree=0
     out_degree=3
@@ -74253,7 +74253,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5c582787-efd6-4af4-9cc3-97ec6ce3ad3d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   6188 [
@@ -76029,7 +76029,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="6a0b2ef6-e10e-4922-b671-e1ccd2af5f8b"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   6336 [
@@ -106291,7 +106291,7 @@ digraph {
     num_owners=15
     num_owners_weighted=7.6512
     num_medias=49
-    num_medias_weighted=9.9570
+    num_medias_weighted=9.9578
     name="65b6866a-f884-460f-80fa-ea8ebc0a2f01"
     in_degree=1
     out_degree=12
@@ -106720,8 +106720,8 @@ digraph {
     type=shareholder
     state=active
     label="OF Verlagsgesellschaft mbH & Co. KG"
-    num_owners=57
-    num_owners_weighted=6.1668
+    num_owners=45
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="61d6bdcc-2255-497f-83b3-db819106bc76"
@@ -107238,11 +107238,11 @@ digraph {
     label="Olympia-Verlag GmbH"
     num_owners=14
     num_owners_weighted=11.3626
-    num_medias=30
-    num_medias_weighted=5.5610
+    num_medias=31
+    num_medias_weighted=6.5610
     name="5be1a6b6-7bf8-4f0c-a3cd-eafbcbdcc5e0"
     in_degree=1
-    out_degree=6
+    out_degree=7
   ];
   8937 [
     type=shareholder
@@ -107334,11 +107334,11 @@ digraph {
     label="OMH Ostdeutsche Medienholding GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=6
-    num_medias_weighted=5.0317
+    num_medias=8
+    num_medias_weighted=7.0317
     name="5be1a6b6-43b9-40fe-b1b1-f680ebfdd4bc"
     in_degree=1
-    out_degree=1
+    out_degree=2
   ];
   8945 [
     type=shareholder
@@ -107949,7 +107949,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="69a581c8-408a-4cf1-8f64-6e4389185e54"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   8996 [
@@ -109195,7 +109195,7 @@ digraph {
     num_owners=6
     num_owners_weighted=5.0000
     num_medias=57
-    num_medias_weighted=5.2258
+    num_medias_weighted=5.2261
     name="5be1a6b6-0b45-440e-80ae-66ded3928a70"
     in_degree=5
     out_degree=2
@@ -111691,7 +111691,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=57
-    num_medias_weighted=1.8290
+    num_medias_weighted=1.8291
     name="5be1a6b6-08ee-4ad3-8f53-f3a4915e6322"
     in_degree=0
     out_degree=1
@@ -133926,8 +133926,8 @@ digraph {
     label="Schnell, Bärbel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=3.6054
+    num_medias=98
+    num_medias_weighted=3.6813
     name="5be1a6b6-2f51-4f1d-8097-b8b478279bb5"
     in_degree=0
     out_degree=3
@@ -133938,8 +133938,8 @@ digraph {
     label="Schnell, Helena"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=0.8687
+    num_medias=92
+    num_medias_weighted=0.8877
     name="67f39958-de32-4bc9-8ad0-85b28e483b84"
     in_degree=0
     out_degree=1
@@ -133950,8 +133950,8 @@ digraph {
     label="Schnell, Louisa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=0.8687
+    num_medias=92
+    num_medias_weighted=0.8877
     name="67f39965-07f9-453b-a7be-956b6af40563"
     in_degree=0
     out_degree=1
@@ -133974,8 +133974,8 @@ digraph {
     label="Schnell, Samuel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=0.8687
+    num_medias=92
+    num_medias_weighted=0.8877
     name="67f39981-4d4b-4f78-b13a-33650c591056"
     in_degree=0
     out_degree=1
@@ -133998,8 +133998,8 @@ digraph {
     label="Schnell, Vinzenz"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=91
-    num_medias_weighted=0.8687
+    num_medias=92
+    num_medias_weighted=0.8877
     name="67f39974-0aaa-43fe-acc9-0b7e7f16e1be"
     in_degree=0
     out_degree=1
@@ -134010,8 +134010,8 @@ digraph {
     label="Schnell-Pleyer, Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=97
-    num_medias_weighted=3.5899
+    num_medias=98
+    num_medias_weighted=3.6658
     name="5be1a6b6-9d1f-4553-a857-d18fd890cce3"
     in_degree=0
     out_degree=3
@@ -138187,7 +138187,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=57
-    num_medias_weighted=5.2258
+    num_medias_weighted=5.2261
     name="5be1a6b6-45a2-4329-8ec4-4cab7edd43f3"
     in_degree=0
     out_degree=2
@@ -140414,15 +140414,15 @@ digraph {
   ];
   11701 [
     type=shareholder
-    state=active
+    state=archived
     label="Sommerschuh, Eckhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5c5827ae-e787-45c7-9465-1d4fa799dd9b"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11702 [
     type=shareholder
@@ -160002,8 +160002,8 @@ digraph {
     label="Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co. KG"
     num_owners=13
     num_owners_weighted=10.3626
-    num_medias=91
-    num_medias_weighted=45.7196
+    num_medias=92
+    num_medias_weighted=46.7196
     name="5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
     in_degree=9
     out_degree=44
@@ -162103,7 +162103,7 @@ digraph {
     num_owners=4
     num_owners_weighted=4.0000
     num_medias=57
-    num_medias_weighted=4.5307
+    num_medias_weighted=4.5309
     name="5be1a6b6-8286-49ae-9eac-daef8db7916a"
     in_degree=4
     out_degree=1
@@ -162139,7 +162139,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=57
-    num_medias_weighted=1.6310
+    num_medias_weighted=1.6311
     name="5be1a6b6-9812-4c52-b7f2-236ba9e794c7"
     in_degree=0
     out_degree=2
@@ -162151,7 +162151,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=57
-    num_medias_weighted=2.7637
+    num_medias_weighted=2.7638
     name="5be1a6b6-d110-427f-8d3e-26d56a32de9a"
     in_degree=0
     out_degree=2
@@ -164406,8 +164406,8 @@ digraph {
     label="Walter GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=97
-    num_medias_weighted=4.3147
+    num_medias=98
+    num_medias_weighted=4.4058
     name="5be1a6b6-f944-4eec-a6bd-195c68d65997"
     in_degree=2
     out_degree=3
@@ -185296,8 +185296,8 @@ digraph {
     type=online
     state=active
     label="www.harlinger.de"
-    num_owners=58
-    num_owners_weighted=44.8550
+    num_owners=46
+    num_owners_weighted=39.6882
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e815-43ab-a52b-1fd71cc47abe"
@@ -252142,7 +252142,7 @@ digraph {
     type=owns
   ];
   8857 -> 7750 [
-    weight=2.97
+    weight=3.07
     type=owns
   ];
   8857 -> 7749 [
@@ -252389,6 +252389,10 @@ digraph {
     weight=25.01
     type=owns
   ];
+  8936 -> 6335 [
+    weight=100
+    type=owns
+  ];
   8936 -> 9788 [
     weight=12
     type=owns
@@ -252514,6 +252518,10 @@ digraph {
     type=owns
   ];
   8944 -> 1197 [
+    weight=100
+    type=owns
+  ];
+  8944 -> 8995 [
     weight=100
     type=owns
   ];
@@ -265882,10 +265890,6 @@ digraph {
     type=owns
   ];
   11700 -> 17315 [
-    weight=100
-    type=operates
-  ];
-  11701 -> 6187 [
     weight=100
     type=operates
   ];

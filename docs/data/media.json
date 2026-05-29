@@ -525,7 +525,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-26T10:33:26.995Z",
+    "controlDate": "2026-05-29T07:48:58.142Z",
     "state": "active"
   },
   {
@@ -3965,7 +3965,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-e306-4973-aa97-4ca405c5c61d",
     "organization": {
@@ -3976,7 +3976,7 @@
     "rfStatewide": false,
     "name": "Aalener Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-05T09:22:40.609Z",
+    "controlDate": "2026-05-29T09:36:11.658Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3985,7 +3985,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 365,
+    "pressPublishingIntervals": 312,
     "state": "active",
     "squuid": "5be1a6b1-c66f-4faa-bde9-bb2aa3dbc41c",
     "organization": {
@@ -4627,7 +4627,7 @@
     "name": "www.derneuetag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:16:19.389Z",
+    "controlDate": "2026-05-29T07:48:48.446Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -14886,7 +14886,7 @@
     "rfStatewide": false,
     "name": "Landzauber",
     "type": "print",
-    "controlDate": "2025-12-05T09:20:17.963Z",
+    "controlDate": "2026-05-29T09:32:30.949Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14910,7 +14910,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:20:27.909Z",
+    "controlDate": "2026-05-29T09:32:37.408Z",
     "state": "active"
   },
   {
@@ -16181,7 +16181,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T14:47:58.296Z",
+    "controlDate": "2026-05-29T08:25:57.479Z",
     "state": "active"
   },
   {
@@ -17015,7 +17015,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:10:07.616Z",
+    "controlDate": "2026-05-29T08:59:55.274Z",
     "state": "active"
   },
   {
@@ -21278,7 +21278,7 @@
     "rfStatewide": false,
     "name": "Matador",
     "type": "print",
-    "controlDate": "2025-12-04T14:32:37.978Z",
+    "controlDate": "2026-05-29T07:59:38.630Z",
     "pressKind": "Männer",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21299,7 +21299,7 @@
     "rfStatewide": false,
     "name": "kitelife",
     "type": "print",
-    "controlDate": "2025-12-04T14:34:00.035Z",
+    "controlDate": "2026-05-29T08:00:34.829Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21323,7 +21323,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T14:36:01.030Z",
+    "controlDate": "2026-05-29T08:00:59.939Z",
     "state": "active"
   },
   {
@@ -21338,7 +21338,7 @@
     "rfStatewide": false,
     "name": "Silent World",
     "type": "print",
-    "controlDate": "2025-12-04T14:33:31.098Z",
+    "controlDate": "2026-05-29T08:00:24.804Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21362,7 +21362,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T14:36:16.092Z",
+    "controlDate": "2026-05-29T08:01:17.570Z",
     "state": "active"
   },
   {
@@ -21377,7 +21377,7 @@
     "rfStatewide": false,
     "name": "raus!",
     "type": "print",
-    "controlDate": "2025-12-04T14:34:47.800Z",
+    "controlDate": "2026-05-29T08:00:42.836Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -21401,7 +21401,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T14:36:08.534Z",
+    "controlDate": "2026-05-29T08:01:08.691Z",
     "state": "active"
   },
   {
@@ -21416,7 +21416,7 @@
     "rfStatewide": false,
     "name": "Materialist",
     "type": "print",
-    "controlDate": "2025-12-04T14:32:48.102Z",
+    "controlDate": "2026-05-29T07:59:47.005Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24987,7 +24987,7 @@
     "name": "Maxi",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-04T14:33:15.125Z",
+    "controlDate": "2026-05-29T07:59:55.596Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37006,7 +37006,7 @@
     "name": "www.sulzbach-rosenberger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:16:37.577Z",
+    "controlDate": "2026-05-29T07:49:19.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37215,7 +37215,7 @@
     "name": "Shape",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-04T14:33:23.365Z",
+    "controlDate": "2026-05-29T08:00:09.752Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40846,7 +40846,7 @@
     "name": "www.om-online.de/wochenblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T15:14:45.164Z",
+    "controlDate": "2026-05-29T08:39:29.747Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42234,7 +42234,7 @@
     "name": "www.odw-journal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:43:27.839Z",
+    "controlDate": "2026-05-29T08:08:26.584Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44209,7 +44209,7 @@
     "name": "smilla",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-04T14:34:57.533Z",
+    "controlDate": "2026-05-29T08:00:51.943Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45424,7 +45424,7 @@
     "name": "Promenade",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-04T15:14:17.307Z",
+    "controlDate": "2026-05-29T08:39:11.458Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46524,7 +46524,7 @@
     "name": "Ostdeutsche Allgemeine Zeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-03-02T12:27:41.931Z",
+    "controlDate": "2026-05-29T09:38:55.220Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46655,7 +46655,7 @@
     "name": "www.otv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:22:19.702Z",
+    "controlDate": "2026-05-29T07:54:02.116Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46840,7 +46840,7 @@
     "name": "www.ostdeutscheallgemeine.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-03-02T12:26:36.540Z",
+    "controlDate": "2026-05-29T09:39:02.011Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85147,7 +85147,7 @@
     "rfStatewide": false,
     "name": "Münsterländische Tageszeitung",
     "type": "print",
-    "controlDate": "2025-12-04T15:13:54.661Z",
+    "controlDate": "2026-05-29T08:34:39.156Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87757,7 +87757,7 @@
     "rfStatewide": false,
     "name": "Alpin",
     "type": "print",
-    "controlDate": "2025-12-04T15:05:17.646Z",
+    "controlDate": "2026-05-29T08:31:13.072Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87778,7 +87778,7 @@
     "rfStatewide": false,
     "name": "Kicker (Donnerstag)",
     "type": "print",
-    "controlDate": "2025-12-04T15:05:23.390Z",
+    "controlDate": "2026-05-29T08:31:19.966Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87802,7 +87802,7 @@
     "rfStatewide": false,
     "name": "Kicker (Montag)",
     "type": "print",
-    "controlDate": "2025-12-04T15:05:29.808Z",
+    "controlDate": "2026-05-29T08:31:27.126Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -87826,7 +87826,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T15:05:44.163Z",
+    "controlDate": "2026-05-29T08:31:40.562Z",
     "state": "active"
   },
   {
@@ -87844,7 +87844,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T15:05:35.874Z",
+    "controlDate": "2026-05-29T08:31:34.708Z",
     "state": "active"
   },
   {
@@ -96253,7 +96253,7 @@
     "rfStatewide": false,
     "name": "Oldenburgische Volkszeitung",
     "type": "print",
-    "controlDate": "2025-12-04T15:14:06.755Z",
+    "controlDate": "2026-05-29T08:38:49.402Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98218,7 +98218,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T13:56:43.414Z",
+    "controlDate": "2026-05-29T08:57:43.413Z",
     "state": "active"
   },
   {
@@ -98236,7 +98236,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-02T13:56:29.821Z",
+    "controlDate": "2026-05-29T08:56:56.832Z",
     "state": "active"
   },
   {
@@ -100871,7 +100871,7 @@
     "rfStatewide": false,
     "name": "Spiesser - Die Jugendzeitschrift",
     "type": "print",
-    "controlDate": "2025-12-05T09:10:01.884Z",
+    "controlDate": "2026-05-29T08:59:48.883Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103565,7 +103565,7 @@
     "rfStatewide": false,
     "name": "Off Road",
     "type": "print",
-    "controlDate": "2025-12-04T14:47:51.714Z",
+    "controlDate": "2026-05-29T08:25:50.527Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -110631,7 +110631,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:07:03.289Z",
+    "controlDate": "2026-05-29T08:55:16.645Z",
     "state": "active"
   },
   {
@@ -115422,7 +115422,7 @@
     "name": "www.amberger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:16:12.111Z",
+    "controlDate": "2026-05-29T07:48:38.477Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -123337,7 +123337,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-04T15:14:37.878Z",
+    "controlDate": "2026-05-29T08:39:21.882Z",
     "state": "active"
   },
   {
@@ -128286,7 +128286,7 @@
     "name": "gesund & vital",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-04T14:11:50.679Z",
+    "controlDate": "2026-05-29T07:48:17.407Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128522,7 +128522,7 @@
     "name": "www.amberg24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:12:01.733Z",
+    "controlDate": "2026-05-29T07:48:26.945Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128657,7 +128657,7 @@
     "name": "www.weiden24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:15:52.118Z",
+    "controlDate": "2026-05-29T07:49:26.892Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130512,7 +130512,7 @@
     "name": "www.noa4.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T16:45:02.223Z",
+    "controlDate": "2026-05-29T08:52:41.277Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151837,7 +151837,7 @@
     "name": "www.radio-enno.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:48:33.821Z",
+    "controlDate": "2026-05-29T08:26:13.152Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160589,7 +160589,7 @@
     "name": "www.onetz.de/owz",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T14:16:30.631Z",
+    "controlDate": "2026-05-29T07:49:11.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
