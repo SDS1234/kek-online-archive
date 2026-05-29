@@ -11286,8 +11286,8 @@ digraph {
     label="Barner, Prof. Dr. Dr. Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="5be1a6b6-dae4-407b-a616-bef4d5a84aee"
     in_degree=0
     out_degree=1
@@ -19494,8 +19494,8 @@ digraph {
     label="Braunberger, Gerald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.0980
+    num_medias=33
+    num_medias_weighted=0.0901
     name="5ccbeeec-16fd-44fe-bcee-1204bd11fb7d"
     in_degree=0
     out_degree=1
@@ -32058,8 +32058,8 @@ digraph {
     label="Diekmann, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=283
-    num_medias_weighted=21.2038
+    num_medias=316
+    num_medias_weighted=23.2309
     name="5be1a6b6-5010-4014-85dc-94b214593f6c"
     in_degree=0
     out_degree=4
@@ -32070,8 +32070,8 @@ digraph {
     label="Diekmann, Angelika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=283
-    num_medias_weighted=0.2866
+    num_medias=316
+    num_medias_weighted=0.3140
     name="5be1a6b6-54d0-4b4c-8c5a-c8ba81cec96c"
     in_degree=0
     out_degree=2
@@ -32082,8 +32082,8 @@ digraph {
     label="Diekmann, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=283
-    num_medias_weighted=0.0955
+    num_medias=316
+    num_medias_weighted=0.1047
     name="5be1a6b6-5a02-48ec-933d-8e72c1cc6d26"
     in_degree=0
     out_degree=4
@@ -34806,8 +34806,8 @@ digraph {
     label="Dr. Hans Kapfinger Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=283
-    num_medias_weighted=4.1562
+    num_medias=316
+    num_medias_weighted=4.5536
     name="5be1a6b6-cff0-47a7-aa01-212bd9b8fd63"
     in_degree=0
     out_degree=1
@@ -38790,8 +38790,8 @@ digraph {
     label="Eigenbesitz der Fazit-Stiftung gemeinnützige Verlagsgesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=1.2996
+    num_medias=33
+    num_medias_weighted=1.1951
     name="5be1a6b6-6ec3-4c69-9d60-811307bc1ed9"
     in_degree=0
     out_degree=1
@@ -44946,11 +44946,11 @@ digraph {
     label="F.A.Z. Business Media GmbH"
     num_owners=15
     num_owners_weighted=14.4339
-    num_medias=2
-    num_medias_weighted=0.5020
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2e7d-4005-98f8-b8cee474afc5"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   3746 [
     type=shareholder
@@ -45894,8 +45894,8 @@ digraph {
     label="Fazit-Stiftung Gemeinnützige Verlagsgesellschaft mbH"
     num_owners=9
     num_owners_weighted=9.0000
-    num_medias=35
-    num_medias_weighted=5.8488
+    num_medias=33
+    num_medias_weighted=5.3784
     name="5be1a6b6-0522-4ca2-aceb-029214df3ee3"
     in_degree=9
     out_degree=2
@@ -48714,8 +48714,8 @@ digraph {
     label="Frankfurter Allgemeine Zeitung GmbH"
     num_owners=14
     num_owners_weighted=13.4339
-    num_medias=35
-    num_medias_weighted=6.2414
+    num_medias=33
+    num_medias_weighted=5.7394
     name="5be1a6b6-a13b-4dae-9b4e-28467cc294bb"
     in_degree=5
     out_degree=12
@@ -51093,7 +51093,7 @@ digraph {
     num_medias=67
     num_medias_weighted=6.7877
     name="5bf40545-4596-4b19-b5ef-85b703781941"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   4258 [
@@ -64410,8 +64410,8 @@ digraph {
     label="Hermanns, Monika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="6720f631-2270-4b56-9e09-f5b4b4d4fc1f"
     in_degree=0
     out_degree=1
@@ -68046,8 +68046,8 @@ digraph {
     label="Huber, Prof. Dr. Peter M."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="64786971-7596-4f78-a82a-d79dcea186c4"
     in_degree=0
     out_degree=1
@@ -75270,8 +75270,8 @@ digraph {
     label="Kaube, Jürgen"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.0980
+    num_medias=33
+    num_medias_weighted=0.0901
     name="5be1a6b6-dbdf-420e-8b5e-a037462caa4b"
     in_degree=0
     out_degree=1
@@ -75402,8 +75402,8 @@ digraph {
     label="KD Medien GmbH & Co. KG"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=283
-    num_medias_weighted=23.8807
+    num_medias=316
+    num_medias_weighted=26.1637
     name="5be1a6b6-b933-42c4-9667-1c3e24c3c66a"
     in_degree=5
     out_degree=1
@@ -75414,7 +75414,7 @@ digraph {
     label="KD Verwaltungs GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=283
+    num_medias=316
     num_medias_weighted=0.0000
     name="5eb1763b-5255-4be3-a174-6a461ca3536f"
     in_degree=4
@@ -78102,8 +78102,8 @@ digraph {
     label="Knop, Carsten"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.0980
+    num_medias=33
+    num_medias_weighted=0.0901
     name="607ec725-75a4-4e6b-bfc3-3a9321dc0a0b"
     in_degree=0
     out_degree=1
@@ -78510,8 +78510,8 @@ digraph {
     label="Kohler, Berthold"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.0980
+    num_medias=33
+    num_medias_weighted=0.0901
     name="5be1a6b6-3ade-465d-9c2a-0bc8f2f2c37b"
     in_degree=0
     out_degree=1
@@ -81546,8 +81546,8 @@ digraph {
     label="Köcher, Prof. Dr. Renate"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="665db081-f15f-48ff-b686-555f3581187d"
     in_degree=0
     out_degree=1
@@ -92913,7 +92913,7 @@ digraph {
     num_medias=65
     num_medias_weighted=7.0542
     name="6995bb29-c6a4-4173-a90b-ede8c5a43566"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   7743 [
@@ -93138,8 +93138,8 @@ digraph {
     label="Mediengruppe Bayern GmbH"
     num_owners=7
     num_owners_weighted=4.3560
-    num_medias=283
-    num_medias_weighted=70.4446
+    num_medias=316
+    num_medias_weighted=77.1790
     name="5be1a6b6-2fde-4eae-aa7d-013858ffdf7c"
     in_degree=4
     out_degree=2
@@ -109506,11 +109506,11 @@ digraph {
     label="Passauer Neue Presse GmbH"
     num_owners=8
     num_owners_weighted=5.3560
-    num_medias=279
-    num_medias_weighted=70.4446
+    num_medias=312
+    num_medias_weighted=77.1790
     name="5be1a6b6-93bf-4cd0-a28d-3d10e5f8cc3f"
     in_degree=1
-    out_degree=66
+    out_degree=68
   ];
   9126 [
     type=shareholder
@@ -109540,12 +109540,12 @@ digraph {
     type=shareholder
     state=active
     label="Passion4Business GmbH"
-    num_owners=20
-    num_owners_weighted=7.8699
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="6203ecac-e5c8-4902-b1d3-f60d3cd73071"
-    in_degree=2
+    in_degree=1
     out_degree=2
   ];
   9129 [
@@ -110359,7 +110359,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=9
-    num_medias_weighted=0.2680
+    num_medias_weighted=0.6124
     name="649546a4-6b8b-4644-93d9-b3610f3da727"
     in_degree=1
     out_degree=1
@@ -110371,7 +110371,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=9
-    num_medias_weighted=0.4316
+    num_medias_weighted=0.9873
     name="649546bb-35eb-44a9-b90e-e1aa9807125b"
     in_degree=1
     out_degree=1
@@ -110383,7 +110383,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=9
-    num_medias_weighted=0.5359
+    num_medias_weighted=1.2265
     name="649546d2-3268-4f79-beea-44f7400fc86b"
     in_degree=1
     out_degree=1
@@ -110395,7 +110395,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=9
-    num_medias_weighted=0.8372
+    num_medias_weighted=1.9153
     name="649546e6-8979-437b-b95a-a2f7b8492dbb"
     in_degree=1
     out_degree=1
@@ -133514,6 +133514,18 @@ digraph {
   ];
   11126 [
     type=shareholder
+    state=active
+    label="Schmitt, Dr. Thomas"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=22
+    num_medias_weighted=5.8469
+    name="5be1a6b6-1dcb-43c2-8b46-8cf58ca6ce42"
+    in_degree=0
+    out_degree=1
+  ];
+  11127 [
+    type=shareholder
     state=archived
     label="Schmitt, Helmut"
     num_owners=0
@@ -133524,7 +133536,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  11127 [
+  11128 [
     type=shareholder
     state=archived
     label="Schmitt, Klaus"
@@ -133536,7 +133548,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  11128 [
+  11129 [
     type=shareholder
     state=active
     label="Schmitt, Michael"
@@ -133548,7 +133560,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  11129 [
+  11130 [
     type=shareholder
     state=active
     label="Schmitt, Michael (jr.)"
@@ -133560,7 +133572,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  11130 [
+  11131 [
     type=shareholder
     state=active
     label="Schmitt, Oliver"
@@ -133572,7 +133584,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  11131 [
+  11132 [
     type=shareholder
     state=active
     label="Schmitt, Stephan"
@@ -133583,18 +133595,6 @@ digraph {
     name="5be1a6b6-c777-4c7f-99fb-0f2a91bb3c2e"
     in_degree=0
     out_degree=0
-  ];
-  11132 [
-    type=shareholder
-    state=active
-    label="Schmitt, Thomas"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=22
-    num_medias_weighted=5.5620
-    name="5be1a6b6-1dcb-43c2-8b46-8cf58ca6ce42"
-    in_degree=0
-    out_degree=1
   ];
   11133 [
     type=shareholder
@@ -155754,8 +155754,8 @@ digraph {
     label="Tucci-Diekmann, Simone"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=283
-    num_medias_weighted=21.2038
+    num_medias=316
+    num_medias_weighted=23.2309
     name="5be1a6b6-9cdc-478d-82f0-0390a5924321"
     in_degree=0
     out_degree=4
@@ -165558,8 +165558,8 @@ digraph {
     label="Weidmann, Dr. Jens"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="6478695a-2d35-48fa-b371-c2654efc8824"
     in_degree=0
     out_degree=1
@@ -168642,8 +168642,8 @@ digraph {
     label="Wilhelm, Ulrich Georg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="6357bd91-b739-43f0-89df-75996863114b"
     in_degree=0
     out_degree=1
@@ -170838,8 +170838,8 @@ digraph {
     label="Wolff, Prof. Dr. Brigitta Anne-Marie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="5be1a6b6-ecf0-4121-9131-b58e0f33b691"
     in_degree=0
     out_degree=1
@@ -170970,8 +170970,8 @@ digraph {
     label="Woll, Prof. Dr. Cornelia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=35
-    num_medias_weighted=0.6498
+    num_medias=33
+    num_medias_weighted=0.5975
     name="64786984-8b45-4a1a-8ce2-8f60200c2102"
     in_degree=0
     out_degree=1
@@ -176607,18 +176607,6 @@ digraph {
   14717 [
     type=online
     state=active
-    label="www.business-traveller.de"
-    num_owners=2
-    num_owners_weighted=2.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-ff22-4a4f-bacf-d4f0d00edcf7"
-    in_degree=1
-    out_degree=0
-  ];
-  14718 [
-    type=online
-    state=active
     label="www.business-wissen.de"
     num_owners=3
     num_owners_weighted=3.0000
@@ -176628,7 +176616,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14719 [
+  14718 [
     type=online
     state=active
     label="www.businessandmore.de"
@@ -176640,7 +176628,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  14720 [
+  14719 [
     type=online
     state=active
     label="www.businessinsider.de"
@@ -176649,6 +176637,18 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ee74-4837-b3ec-e8f46e6bc484"
+    in_degree=1
+    out_degree=0
+  ];
+  14720 [
+    type=online
+    state=active
+    label="www.businesstraveller.com/de"
+    num_owners=2
+    num_owners_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-ff22-4a4f-bacf-d4f0d00edcf7"
     in_degree=1
     out_degree=0
   ];
@@ -182812,8 +182812,8 @@ digraph {
     type=online
     state=active
     label="www.fuer-gruender.de"
-    num_owners=21
-    num_owners_weighted=8.8699
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6203ec6c-665e-421e-b1cb-bbd8b4047b5f"
@@ -191560,8 +191560,8 @@ digraph {
     type=online
     state=active
     label="www.mein-startup.de"
-    num_owners=21
-    num_owners_weighted=8.8699
+    num_owners=5
+    num_owners_weighted=5.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6203ec5e-4ec3-4fca-b467-5a7d78cc7319"
@@ -215185,7 +215185,7 @@ digraph {
     weight=100
     type=operates
   ];
-  798 -> 14720 [
+  798 -> 14719 [
     weight=100
     type=operates
   ];
@@ -215393,7 +215393,7 @@ digraph {
     weight=3.23
     type=owns
   ];
-  831 -> 14718 [
+  831 -> 14717 [
     weight=100
     type=operates
   ];
@@ -228324,10 +228324,6 @@ digraph {
   3744 -> 15802 [
     weight=100
     type=operates
-  ];
-  3745 -> 9128 [
-    weight=25.1
-    type=owns
   ];
   3746 -> 10095 [
     weight=1.639
@@ -253469,8 +253465,16 @@ digraph {
     weight=100
     type=owns
   ];
+  9125 -> 4257 [
+    weight=100
+    type=owns
+  ];
+  9125 -> 7742 [
+    weight=100
+    type=owns
+  ];
   9125 -> 7750 [
-    weight=4.47
+    weight=4.62
     type=owns
   ];
   9125 -> 7749 [
@@ -253958,26 +253962,26 @@ digraph {
     type=owns
   ];
   9196 -> 2333 [
-    weight=2.98
+    weight=6.81
     type=owns
   ];
   9197 -> 2333 [
-    weight=4.8
+    weight=10.98
     type=owns
   ];
   9198 -> 2333 [
-    weight=5.96
+    weight=13.64
     type=owns
   ];
   9199 -> 2333 [
-    weight=9.31
+    weight=21.3
     type=owns
   ];
   9201 -> 1828 [
     weight=100
     type=operates
   ];
-  9201 -> 14717 [
+  9201 -> 14720 [
     weight=100
     type=operates
   ];
@@ -258197,7 +258201,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10226 -> 14719 [
+  10226 -> 14718 [
     weight=100
     type=operates
   ];
@@ -263121,24 +263125,24 @@ digraph {
     weight=51
     type=owns
   ];
-  11128 -> 9118 [
-    weight=6.17
+  11126 -> 9118 [
+    weight=47.82
     type=owns
   ];
   11129 -> 9118 [
+    weight=6.17
+    type=owns
+  ];
+  11130 -> 9118 [
     weight=19.93
     type=owns
   ];
-  11130 -> 12879 [
+  11131 -> 12879 [
     weight=16.7
     type=owns
   ];
-  11130 -> 12880 [
+  11131 -> 12880 [
     weight=8.4
-    type=owns
-  ];
-  11132 -> 9118 [
-    weight=45.49
     type=owns
   ];
   11133 -> 9118 [
