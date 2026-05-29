@@ -18568,7 +18568,7 @@
     "squuid": "635b6fb4-ab47-4683-b9c9-e7f8c532f828",
     "name": "OUTTV Media B.V.",
     "state": "active",
-    "controlDate": "2025-12-05T09:55:56.034Z",
+    "controlDate": "2026-05-29T10:47:57.632Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -42476,7 +42476,7 @@
     "squuid": "5be1a6b6-8a5c-4a7a-8e15-f0fdefb2efdd",
     "name": "P2 - Radio Programm GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:59:27.255Z",
+    "controlDate": "2026-05-29T11:47:14.877Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -88128,7 +88128,7 @@
     "squuid": "5be1a6b6-8cbc-42a9-8413-c25fd82ddf1a",
     "name": "P + S Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:55:56.377Z",
+    "controlDate": "2026-05-29T11:42:21.879Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95602,7 +95602,7 @@
     "squuid": "5ee2102d-af88-430b-917e-fe5574216623",
     "name": "Ostsee-Zeitung Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:46:27.626Z",
+    "controlDate": "2026-05-29T10:03:30.547Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -98203,7 +98203,7 @@
     "squuid": "5be1a6b6-69ea-4f92-b45d-db349af2aa53",
     "name": "Ott-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:47:50.789Z",
+    "controlDate": "2026-05-29T10:06:26.020Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -99488,7 +99488,7 @@
     "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed",
     "name": "OVR Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-05T12:20:03.410Z",
+    "controlDate": "2026-05-29T11:12:11.142Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -100194,7 +100194,7 @@
     "squuid": "5be1a6b6-0b45-440e-80ae-66ded3928a70",
     "name": "Panzer Vermögensverwaltung GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-05T13:14:32.434Z",
+    "controlDate": "2026-05-29T12:01:31.406Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -103670,7 +103670,7 @@
     "squuid": "5ee213ea-4ea5-4f5b-a253-092eacacf273",
     "name": "OTZ Ostthüringer Zeitung Verlag Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:52:41.032Z",
+    "controlDate": "2026-05-29T10:30:59.139Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -114445,11 +114445,12 @@
     "squuid": "63beaa43-4ca3-42b1-88d9-20857c390059",
     "name": "ParshipMeet Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:32:44.577Z",
+    "controlDate": "2026-05-29T12:10:52.471Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -115552,7 +115553,7 @@
     "squuid": "5eb29e19-a6cf-4e83-90ae-097064c73c8f",
     "name": "Panzer Vermögensverwaltung Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:13:35.345Z",
+    "controlDate": "2026-05-29T12:00:58.744Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -123322,7 +123323,7 @@
     "squuid": "5be1a6b6-d3e2-4754-b8d0-461f22dcf2c9",
     "name": "OVB Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:04:16.953Z",
+    "controlDate": "2026-05-29T10:50:11.097Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -159002,7 +159003,7 @@
     "squuid": "5d109c86-a636-454f-a3dd-2e4351e94630",
     "name": "Otto Spintler GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-05T09:49:12.655Z",
+    "controlDate": "2026-05-29T10:29:54.586Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -160798,7 +160799,7 @@
     "squuid": "5ebba510-fc42-4a44-8b8f-b74b4dc61426",
     "name": "OVR Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:19:54.738Z",
+    "controlDate": "2026-05-29T11:07:28.320Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162626,7 +162627,7 @@
     "squuid": "5ebbc427-d277-4257-929e-dad16efd2148",
     "name": "Panini Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:03:55.660Z",
+    "controlDate": "2026-05-29T11:49:23.873Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162681,15 +162682,6 @@
         }
       },
       {
-        "squuid": "5eda17e9-e5e5-4058-b611-cc458f1a98b4",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-7b02-4378-a279-fdff99c8cdf6",
-          "name": "Landkind"
-        }
-      },
-      {
         "squuid": "5ee8be07-8a34-4851-97d2-d9a0c3d54b58",
         "type": "operate",
         "state": "active",
@@ -162741,15 +162733,6 @@
         "held": {
           "squuid": "5be1a6b1-2e31-467c-a0b5-acadc778a937",
           "name": "Deadpool"
-        }
-      },
-      {
-        "squuid": "636d1b81-2790-4f4d-aef6-27b7e9b7e36b",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "636d1b67-fd9c-4b8b-a5fb-5bfcfcbf12ee",
-          "name": "www.landkind.blog"
         }
       },
       {
@@ -164892,7 +164875,7 @@
     "squuid": "5f0c433e-8fbc-4579-bcdb-d619f607e69a",
     "name": "Paragon Partners GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:16:29.837Z",
+    "controlDate": "2026-05-29T12:03:03.019Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189997,7 +189980,7 @@
     "squuid": "6012b5e0-e3d6-4bb7-83f6-dad533716a50",
     "name": "P.J.C. Management Nederland B. V.",
     "state": "active",
-    "controlDate": "2025-12-05T12:58:16.453Z",
+    "controlDate": "2026-05-29T11:46:05.766Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -195691,7 +195674,7 @@
     "squuid": "5e58ee38-f157-4c58-b910-7f17757012cd",
     "name": "Paramount Global, Inc.",
     "state": "active",
-    "controlDate": "2025-12-05T13:30:19.526Z",
+    "controlDate": "2026-05-29T12:04:42.488Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -202735,8 +202718,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -203897,7 +203881,7 @@
     "name": "Ostruhr-Anzeigenblattgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63d8e6b5-5639-4098-9e6f-ff93164df7e4",
-    "controlDate": "2025-12-05T09:41:06.490Z",
+    "controlDate": "2026-05-29T09:54:59.444Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204689,7 +204673,7 @@
     "squuid": "63d8e999-a349-4440-9b74-8f46d723f99a",
     "name": "Ostruhr-Anzeigenblattverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:38:28.918Z",
+    "controlDate": "2026-05-29T09:54:52.899Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214218,7 +214202,7 @@
     "squuid": "64006d66-cf4e-4c38-9a5f-962b1602e94e",
     "name": "Panorama Anzeigenblatt GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:13:25.406Z",
+    "controlDate": "2026-05-29T11:59:26.833Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218019,7 +218003,7 @@
     "squuid": "5be1a6b6-87fd-4309-b14a-b1e835802c50",
     "name": "Osterburger Architektur- und Ingenieurbüro GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:25:10.333Z",
+    "controlDate": "2026-05-29T09:40:38.625Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226513,7 +226497,7 @@
     "name": "Ostsee-Zeitung GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-04e2-4d51-8ef8-ee27d3fe7b73",
-    "controlDate": "2025-12-05T09:46:17.574Z",
+    "controlDate": "2026-05-29T10:03:41.360Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -226570,7 +226554,7 @@
     "name": "OTZ Ostthüringer Zeitung Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7895-45b4-82b7-21f476e3a07e",
-    "controlDate": "2025-12-05T09:54:11.457Z",
+    "controlDate": "2026-05-29T10:31:28.225Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234293,7 +234277,7 @@
     "squuid": "5be1a6b6-551c-4a8d-b03f-2e55f100020e",
     "name": "Palstek Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T13:01:12.384Z",
+    "controlDate": "2026-05-29T11:48:00.803Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -234572,7 +234556,7 @@
     "name": "Paragon Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-393d-4485-895c-241cebf05c26",
-    "controlDate": "2025-12-05T13:17:06.199Z",
+    "controlDate": "2026-05-29T12:03:17.972Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237169,7 +237153,7 @@
     "name": "Ostfriesischer Kurier GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-bde0-462f-8000-aaa14097ba9f",
-    "controlDate": "2025-12-05T09:35:02.732Z",
+    "controlDate": "2026-05-29T09:50:12.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -237543,7 +237527,7 @@
     "name": "OVB GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-4e9d-431b-9bf5-0aa39448717c",
-    "controlDate": "2025-06-16T10:36:06.391Z",
+    "controlDate": "2026-05-29T10:52:01.774Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238556,7 +238540,7 @@
     "squuid": "5be1a6b6-c99a-4cce-8b12-e4914d17f8a2",
     "name": "P. P. Cahensly GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-05T12:57:59.244Z",
+    "controlDate": "2026-05-29T11:43:24.338Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -238989,7 +238973,7 @@
     "squuid": "5be1a6b6-b336-4d90-b588-f57dafd50cba",
     "name": "Ostfriesische Nachrichten GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T09:27:10.360Z",
+    "controlDate": "2026-05-29T09:44:16.125Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253992,7 +253976,7 @@
     "squuid": "5be1a6b6-b027-4a28-8912-711ca5dab766",
     "name": "OVB24 GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:11:48.518Z",
+    "controlDate": "2026-05-29T10:59:11.322Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267376,7 +267360,7 @@
     "squuid": "5be1a6b6-043d-4665-9dcf-a0f98b30cb02",
     "name": "Panini S.p.A.",
     "state": "active",
-    "controlDate": "2025-12-05T13:03:28.718Z",
+    "controlDate": "2026-05-29T11:49:15.496Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288445,7 +288429,7 @@
     "squuid": "5ecb8ba5-25da-4682-b3f6-24a1145af16b",
     "name": "Parco GmbH",
     "state": "active",
-    "controlDate": "2025-06-16T11:39:05.204Z",
+    "controlDate": "2026-05-29T12:05:56.328Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298583,7 +298567,7 @@
     "squuid": "5c51cd1e-8d63-4b83-8f30-7cb79fa35bea",
     "name": "PE Digital GmbH ",
     "state": "active",
-    "controlDate": "2025-12-06T11:01:49.688Z",
+    "controlDate": "2026-05-29T12:09:06.358Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299229,12 +299213,13 @@
   {
     "squuid": "5c51ce6e-7e66-4fe5-9230-023b1707811e",
     "name": "Parship Group GmbH",
-    "state": "active",
-    "controlDate": "2025-12-05T13:32:24.749Z",
+    "state": "archived",
+    "controlDate": "2026-05-29T12:06:13.945Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -300361,8 +300346,9 @@
     "controlDate": "2025-12-08T14:40:08.018Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -304354,7 +304340,7 @@
     "squuid": "5f3d3adc-d7be-46c4-b661-e4234b2dd179",
     "name": "OZ Verlagsbeteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-05T12:44:25.505Z",
+    "controlDate": "2026-05-29T11:36:55.682Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -305464,7 +305450,7 @@
     "squuid": "5f17fbf2-0f46-4333-a59d-6e6bd8a56b38",
     "name": "Paramount Services Holdings Ltd.",
     "state": "active",
-    "controlDate": "2025-12-05T13:30:37.220Z",
+    "controlDate": "2026-05-29T12:04:56.373Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

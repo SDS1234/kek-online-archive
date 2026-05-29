@@ -17995,7 +17995,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.3168
+    num_medias_weighted=0.3340
     name="60e58d66-6e5a-4aae-a010-164d9f2255a1"
     in_degree=0
     out_degree=1
@@ -18835,7 +18835,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0378
+    num_medias_weighted=0.0399
     name="60e58e1d-25a7-487c-90f9-acd78336901a"
     in_degree=0
     out_degree=1
@@ -25816,8 +25816,8 @@ digraph {
     type=tv
     state=active
     label="Comedy Central"
-    num_owners=9
-    num_owners_weighted=8.5880
+    num_owners=10
+    num_owners_weighted=8.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-eb51-461e-bf8c-ee419272e87e"
@@ -38995,7 +38995,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.7716
+    num_medias_weighted=0.8135
     name="6093bde5-43f4-4cfa-a6c0-67fbfa691ec1"
     in_degree=0
     out_degree=1
@@ -39091,7 +39091,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0282
+    num_medias_weighted=0.0297
     name="5be1a6b6-dfaa-4fce-bcf0-b3356fcf2e98"
     in_degree=0
     out_degree=1
@@ -39499,7 +39499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0138
+    num_medias_weighted=0.0146
     name="60e58ce5-4e1e-426a-be5f-48f216151895"
     in_degree=0
     out_degree=1
@@ -45295,7 +45295,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=12.9303
+    num_medias_weighted=13.6329
     name="607ea08d-b286-4394-9f37-8bccc08d640f"
     in_degree=0
     out_degree=1
@@ -46987,7 +46987,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=38
-    num_medias_weighted=12.9303
+    num_medias_weighted=13.6329
     name="5e5901c8-6ef8-4ea0-abff-097a0598557b"
     in_degree=1
     out_degree=1
@@ -83342,14 +83342,14 @@ digraph {
   ];
   6945 [
     type=print
-    state=active
+    state=archived
     label=Landkind
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7b02-4378-a279-fdff99c8cdf6"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   6946 [
@@ -95683,7 +95683,7 @@ digraph {
     num_owners=12
     num_owners_weighted=5.7500
     num_medias=38
-    num_medias_weighted=26.6056
+    num_medias_weighted=28.0513
     name="5e303067-ee73-4e4c-9496-f3aec4626bc0"
     in_degree=5
     out_degree=2
@@ -98704,8 +98704,8 @@ digraph {
     type=shareholder
     state=active
     label="MTV Networks Verwaltungs GmbH"
-    num_owners=9
-    num_owners_weighted=8.5880
+    num_owners=10
+    num_owners_weighted=8.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-7a0b-4d54-a5be-f361128aa0d6"
@@ -103732,8 +103732,8 @@ digraph {
     type=tv
     state=active
     label=Nickelodeon
-    num_owners=10
-    num_owners_weighted=5.8699
+    num_owners=11
+    num_owners_weighted=5.6312
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-69c1-4b01-800b-20e67e807b17"
@@ -104764,8 +104764,8 @@ digraph {
     type=print
     state=active
     label="Norderneyer Badezeitung"
-    num_owners=18
-    num_owners_weighted=11.0000
+    num_owners=17
+    num_owners_weighted=10.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-ea24-48ca-98e1-53e9eef909ed"
@@ -108028,8 +108028,8 @@ digraph {
     type=print
     state=active
     label="Ostfriesische Nachrichten"
-    num_owners=62
-    num_owners_weighted=50.6972
+    num_owners=33
+    num_owners_weighted=21.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-045d-494a-9645-32e345c911be"
@@ -108052,8 +108052,8 @@ digraph {
     type=print
     state=active
     label="Ostfriesischer Kurier"
-    num_owners=18
-    num_owners_weighted=11.0000
+    num_owners=17
+    num_owners_weighted=10.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d827-4995-ae9a-ff570ca3a962"
@@ -108064,8 +108064,8 @@ digraph {
     type=shareholder
     state=active
     label="Ostfriesischer Kurier GmbH"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=16
+    num_owners_weighted=9.0000
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-bde0-462f-8000-aaa14097ba9f"
@@ -109098,8 +109098,8 @@ digraph {
     label="Panini S.p.A."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=16
-    num_medias_weighted=16.0000
+    num_medias=14
+    num_medias_weighted=14.0000
     name="5be1a6b6-043d-4665-9dcf-a0f98b30cb02"
     in_degree=0
     out_degree=1
@@ -109110,11 +109110,11 @@ digraph {
     label="Panini Verlags GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=16
-    num_medias_weighted=16.0000
+    num_medias=14
+    num_medias_weighted=14.0000
     name="5ebbc427-d277-4257-929e-dad16efd2148"
     in_degree=1
-    out_degree=16
+    out_degree=14
   ];
   9093 [
     type=shareholder
@@ -109300,8 +109300,8 @@ digraph {
     type=shareholder
     state=active
     label="Paramount Global, Inc."
-    num_owners=5
-    num_owners_weighted=4.5880
+    num_owners=6
+    num_owners_weighted=4.1200
     num_medias=8
     num_medias_weighted=5.5500
     name="5e58ee38-f157-4c58-b910-7f17757012cd"
@@ -109334,15 +109334,15 @@ digraph {
   ];
   9111 [
     type=shareholder
-    state=active
+    state=archived
     label="Parship Group GmbH"
-    num_owners=19
-    num_owners_weighted=10.0243
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5c51ce6e-7e66-4fe5-9230-023b1707811e"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   9112 [
     type=shareholder
@@ -109351,7 +109351,7 @@ digraph {
     num_owners=16
     num_owners_weighted=8.3476
     num_medias=2
-    num_medias_weighted=0.0880
+    num_medias_weighted=2.0000
     name="63beaa43-4ca3-42b1-88d9-20857c390059"
     in_degree=1
     out_degree=3
@@ -109948,8 +109948,8 @@ digraph {
     type=shareholder
     state=active
     label="PE Digital GmbH"
-    num_owners=20
-    num_owners_weighted=11.0243
+    num_owners=17
+    num_owners_weighted=9.3476
     num_medias=2
     num_medias_weighted=2.0000
     name="5c51cd1e-8d63-4b83-8f30-7cb79fa35bea"
@@ -109998,11 +109998,11 @@ digraph {
     label="PEG Management GmbH & Co. KG"
     num_owners=18
     num_owners_weighted=1.0000
-    num_medias=2
-    num_medias_weighted=0.0880
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e203cc0-aed9-45b8-a272-5c22a5c2f4e6"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   9167 [
     type=shareholder
@@ -110011,7 +110011,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0345
+    num_medias_weighted=0.0364
     name="60e58d73-8ac5-4f0b-af28-791ed119cab4"
     in_degree=0
     out_degree=1
@@ -112060,8 +112060,8 @@ digraph {
     type=shareholder
     state=active
     label="Pluto Inc."
-    num_owners=6
-    num_owners_weighted=5.5880
+    num_owners=7
+    num_owners_weighted=5.1200
     num_medias=2
     num_medias_weighted=2.0000
     name="5fd8b8d8-440d-4c21-8add-5bbf74dfec46"
@@ -112072,8 +112072,8 @@ digraph {
     type=tv
     state=active
     label="Pluto TV"
-    num_owners=8
-    num_owners_weighted=7.5880
+    num_owners=9
+    num_owners_weighted=7.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5fd8aee2-175f-4685-83ea-980c3e8e2b24"
@@ -112084,8 +112084,8 @@ digraph {
     type=shareholder
     state=active
     label="Pluto TV Europe GmbH"
-    num_owners=7
-    num_owners_weighted=6.5880
+    num_owners=8
+    num_owners_weighted=6.1200
     num_medias=2
     num_medias_weighted=2.0000
     name="5fd8af14-4a38-46be-846e-a4c3b4b5878b"
@@ -114474,7 +114474,7 @@ digraph {
     label="ProSiebenSat.1 GP II GmbH"
     num_owners=17
     num_owners_weighted=9.3476
-    num_medias=2
+    num_medias=0
     num_medias_weighted=0.0000
     name="62c30537-5369-4648-9b91-eac6c29b9223"
     in_degree=1
@@ -114487,7 +114487,7 @@ digraph {
     num_owners=15
     num_owners_weighted=7.3476
     num_medias=38
-    num_medias_weighted=35.1880
+    num_medias_weighted=37.1000
     name="5be1a6b6-c403-468d-8ebc-b75baf6ebe76"
     in_degree=3
     out_degree=6
@@ -138859,7 +138859,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=4.9220
+    num_medias_weighted=5.1895
     name="5e59024e-f14d-4bcc-b302-9231919623dc"
     in_degree=0
     out_degree=1
@@ -140095,7 +140095,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.0619
+    num_medias_weighted=0.0653
     name="5be1a6b6-d9aa-40d2-a3a4-ac54136202f6"
     in_degree=0
     out_degree=1
@@ -147595,7 +147595,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=6.8110
+    num_medias_weighted=7.1811
     name="6093bdf7-7900-48a6-8bd8-9174908f1955"
     in_degree=0
     out_degree=1
@@ -147703,7 +147703,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=6.7033
+    num_medias_weighted=7.0675
     name="5be1a6b6-dde6-410a-af8a-29b4043c49e9"
     in_degree=0
     out_degree=1
@@ -148027,7 +148027,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=38
-    num_medias_weighted=0.7059
+    num_medias_weighted=0.7443
     name="60e58cd3-45b9-4311-84e3-1bca5fb91acb"
     in_degree=0
     out_degree=1
@@ -160984,8 +160984,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom Global (Netherlands) B.V."
-    num_owners=8
-    num_owners_weighted=7.5880
+    num_owners=9
+    num_owners_weighted=7.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-f583-4ee5-87c3-f91626b54712"
@@ -161008,8 +161008,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom Holding II (Germany) B.V."
-    num_owners=7
-    num_owners_weighted=6.5880
+    num_owners=8
+    num_owners_weighted=6.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-b3f3-4f5a-89ef-a2f82ca1716c"
@@ -161020,8 +161020,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom Holdings Germany LL.C."
-    num_owners=7
-    num_owners_weighted=6.5880
+    num_owners=8
+    num_owners_weighted=6.1200
     num_medias=6
     num_medias_weighted=3.5500
     name="5be1a6b6-79f3-4703-a2ea-aefc16637bff"
@@ -161044,8 +161044,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom International, Inc."
-    num_owners=6
-    num_owners_weighted=5.5880
+    num_owners=7
+    num_owners_weighted=5.1200
     num_medias=6
     num_medias_weighted=3.5500
     name="5be1a6b6-019e-4583-8abd-5600f55ad883"
@@ -161056,8 +161056,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom Overseas Holdings C.V."
-    num_owners=7
-    num_owners_weighted=6.5880
+    num_owners=8
+    num_owners_weighted=6.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-14c7-4556-8365-c7db456bd3c2"
@@ -161068,8 +161068,8 @@ digraph {
     type=shareholder
     state=active
     label="Viacom VHENO GmbH"
-    num_owners=10
-    num_owners_weighted=9.5021
+    num_owners=11
+    num_owners_weighted=9.0388
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-217c-4465-a0bb-dccd63dc33cd"
@@ -161416,8 +161416,8 @@ digraph {
     type=shareholder
     state=active
     label="VIMN Germany GmbH"
-    num_owners=9
-    num_owners_weighted=4.8699
+    num_owners=10
+    num_owners_weighted=4.6312
     num_medias=5
     num_medias_weighted=5.0000
     name="5be1a6b6-dbf3-4649-ba7e-e810162955ae"
@@ -161728,8 +161728,8 @@ digraph {
     type=shareholder
     state=active
     label="VIVA Media GmbH"
-    num_owners=8
-    num_owners_weighted=7.5880
+    num_owners=9
+    num_owners_weighted=7.1200
     num_medias=6
     num_medias_weighted=3.5500
     name="5be1a6b6-699d-4023-8beb-545c9b48d309"
@@ -161803,7 +161803,7 @@ digraph {
     num_owners=6
     num_owners_weighted=6.0000
     num_medias=38
-    num_medias_weighted=1.1706
+    num_medias_weighted=1.2343
     name="5e5901fa-23fb-457f-a85b-a43eafa3e2c1"
     in_degree=6
     out_degree=1
@@ -175048,8 +175048,8 @@ digraph {
     type=online
     state=active
     label="www.beziehungsweise-magazin.de"
-    num_owners=21
-    num_owners_weighted=12.0243
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="5c51ccf7-5c32-458d-9078-83ae29066600"
@@ -177556,8 +177556,8 @@ digraph {
     type=online
     state=active
     label="www.comedycentral.tv"
-    num_owners=10
-    num_owners_weighted=5.8699
+    num_owners=11
+    num_owners_weighted=5.6312
     num_medias=0
     num_medias_weighted=0.0000
     name="5f116859-e51c-44e7-b424-ec29c64774cc"
@@ -180424,8 +180424,8 @@ digraph {
     type=online
     state=active
     label="www.elitepartner.de/magazin/"
-    num_owners=21
-    num_owners_weighted=12.0243
+    num_owners=18
+    num_owners_weighted=10.3476
     num_medias=0
     num_medias_weighted=0.0000
     name="620121ce-c496-4f53-a1d4-42e672f44d1f"
@@ -189242,14 +189242,14 @@ digraph {
   ];
   15770 [
     type=online
-    state=active
+    state=archived
     label="www.landkind.blog"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="636d1b67-fd9c-4b8b-a5fb-5bfcfcbf12ee"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   15771 [
@@ -192700,8 +192700,8 @@ digraph {
     type=online
     state=active
     label="www.mtv.de"
-    num_owners=10
-    num_owners_weighted=5.8699
+    num_owners=11
+    num_owners_weighted=5.6312
     num_medias=0
     num_medias_weighted=0.0000
     name="5c545c3c-8cf1-4c70-b4c2-608f160e0bc6"
@@ -193936,8 +193936,8 @@ digraph {
     type=online
     state=active
     label="www.nick.de"
-    num_owners=10
-    num_owners_weighted=5.8699
+    num_owners=11
+    num_owners_weighted=5.6312
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2f2546-888f-42b7-9b1e-3c37f553f973"
@@ -194188,8 +194188,8 @@ digraph {
     type=online
     state=active
     label="www.norderneyer-badezeitung.de"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=17
+    num_owners_weighted=10.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-9e1b-4393-a3c2-479921d3c46e"
@@ -194956,8 +194956,8 @@ digraph {
     type=online
     state=active
     label="www.on-online.de"
-    num_owners=59
-    num_owners_weighted=47.6972
+    num_owners=30
+    num_owners_weighted=18.0090
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-dcd3-4a6b-b1d8-61261b666f4c"
@@ -195220,8 +195220,8 @@ digraph {
     type=online
     state=active
     label="www.ostfriesischer-kurier.de"
-    num_owners=18
-    num_owners_weighted=11.0000
+    num_owners=17
+    num_owners_weighted=10.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-61a3-418e-9b06-0e4c8eb1c0e5"
@@ -195532,8 +195532,8 @@ digraph {
     type=online
     state=active
     label="www.paramountplus.com/de"
-    num_owners=10
-    num_owners_weighted=5.8699
+    num_owners=11
+    num_owners_weighted=5.6312
     num_medias=0
     num_medias_weighted=0.0000
     name="6391a1d7-b669-466e-9adb-b0781710ab54"
@@ -196120,8 +196120,8 @@ digraph {
     type=online
     state=active
     label="www.pluto.tv"
-    num_owners=8
-    num_owners_weighted=7.5880
+    num_owners=9
+    num_owners_weighted=7.1200
     num_medias=0
     num_medias_weighted=0.0000
     name="6865049c-f8f2-4e28-aec7-449995bf3378"
@@ -253265,10 +253265,6 @@ digraph {
     weight=100
     type=operates
   ];
-  9092 -> 6945 [
-    weight=100
-    type=operates
-  ];
   9092 -> 8274 [
     weight=100
     type=operates
@@ -253294,10 +253290,6 @@ digraph {
     type=operates
   ];
   9092 -> 5411 [
-    weight=100
-    type=operates
-  ];
-  9092 -> 15770 [
     weight=100
     type=operates
   ];
@@ -253377,16 +253369,12 @@ digraph {
     weight=1
     type=owns
   ];
-  9111 -> 9162 [
+  9112 -> 9162 [
     weight=100
     type=owns
   ];
   9112 -> 9166 [
     weight=100
-    type=owns
-  ];
-  9112 -> 9111 [
-    weight=95.6
     type=owns
   ];
   9112 -> 9539 [
@@ -253891,10 +253879,6 @@ digraph {
   ];
   9164 -> 9934 [
     weight=6
-    type=owns
-  ];
-  9166 -> 9111 [
-    weight=4.4
     type=owns
   ];
   9167 -> 13483 [

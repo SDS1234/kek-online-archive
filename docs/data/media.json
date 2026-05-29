@@ -1722,7 +1722,7 @@
     "name": "www.chiemgau-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:25:12.460Z",
+    "controlDate": "2026-05-29T10:53:45.051Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -7740,7 +7740,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-7b02-4378-a279-fdff99c8cdf6",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7931,7 +7931,7 @@
     "rfStatewide": false,
     "name": "Feuerwehrmann Sam",
     "type": "print",
-    "controlDate": "2025-12-05T13:05:33.548Z",
+    "controlDate": "2026-05-29T11:53:19.474Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8014,7 +8014,7 @@
     "rfStatewide": false,
     "name": "Paw Patrol - Helfer auf vier Pfoten",
     "type": "print",
-    "controlDate": "2025-12-05T13:07:24.266Z",
+    "controlDate": "2026-05-29T11:54:27.432Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8411,7 +8411,7 @@
     "rfStatewide": false,
     "name": "Deadpool",
     "type": "print",
-    "controlDate": "2025-12-05T13:05:27.099Z",
+    "controlDate": "2026-05-29T11:53:12.458Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8432,7 +8432,7 @@
     "rfStatewide": false,
     "name": "Geek!",
     "type": "print",
-    "controlDate": "2025-12-05T13:05:56.429Z",
+    "controlDate": "2026-05-29T11:53:28.423Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16523,7 +16523,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T13:17:25.039Z",
+    "controlDate": "2026-05-29T12:03:44.462Z",
     "state": "active"
   },
   {
@@ -23454,7 +23454,7 @@
     "name": "www.ora-anzeigenblaetter.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:41:39.086Z",
+    "controlDate": "2026-05-29T09:55:34.671Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29080,7 +29080,7 @@
     "name": "www.mangfall-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:08:12.329Z",
+    "controlDate": "2026-05-29T10:54:01.753Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29895,7 +29895,7 @@
     "name": "www.muehldorfer-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:08:23.835Z",
+    "controlDate": "2026-05-29T10:54:12.760Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30399,7 +30399,7 @@
     "name": "www.neumarkter-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:08:33.200Z",
+    "controlDate": "2026-05-29T10:54:21.570Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30844,7 +30844,7 @@
     "name": "OTZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-05T09:54:25.053Z",
+    "controlDate": "2026-05-29T10:42:31.405Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47412,7 +47412,7 @@
     "name": "www.palstek.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T13:01:24.752Z",
+    "controlDate": "2026-05-29T11:48:34.545Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69664,7 +69664,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:55:25.187Z",
+    "controlDate": "2026-05-29T10:45:45.567Z",
     "state": "active"
   },
   {
@@ -81901,7 +81901,7 @@
     "rfStatewide": false,
     "name": "Norderneyer Badezeitung",
     "type": "print",
-    "controlDate": "2025-12-05T09:35:09.995Z",
+    "controlDate": "2026-05-29T09:51:55.295Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87920,7 +87920,7 @@
     "rfStatewide": false,
     "name": "Ostsee-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-05T09:46:45.376Z",
+    "controlDate": "2026-05-29T10:04:14.341Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87960,7 +87960,7 @@
     "rfStatewide": false,
     "name": "Ostthüringer Zeitung",
     "type": "print",
-    "controlDate": "2025-12-05T09:54:41.702Z",
+    "controlDate": "2026-05-29T10:42:51.655Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95337,7 +95337,7 @@
     "rfStatewide": false,
     "name": "Palstek",
     "type": "print",
-    "controlDate": "2025-12-05T13:01:18.831Z",
+    "controlDate": "2026-05-29T11:48:27.922Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95570,7 +95570,7 @@
     "rfStatewide": false,
     "name": "Reitsport-Magazin",
     "type": "print",
-    "controlDate": "2025-12-05T13:17:18.573Z",
+    "controlDate": "2026-05-29T12:03:36.868Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98302,7 +98302,7 @@
     "rfStatewide": false,
     "name": "Ostfriesischer Kurier",
     "type": "print",
-    "controlDate": "2025-12-05T09:35:24.921Z",
+    "controlDate": "2026-05-29T09:52:10.806Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98914,7 +98914,7 @@
     "rfStatewide": false,
     "name": "Oberbayerisches Volksblatt",
     "type": "print",
-    "controlDate": "2025-12-05T12:06:23.689Z",
+    "controlDate": "2026-05-29T10:52:58.145Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -100472,7 +100472,7 @@
     "rfStatewide": false,
     "name": "Ostfriesische Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-05T09:27:19.851Z",
+    "controlDate": "2026-05-29T09:47:09.751Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -105312,7 +105312,7 @@
     "rfStatewide": false,
     "name": "hey! Best Friends",
     "type": "print",
-    "controlDate": "2025-12-05T13:09:05.927Z",
+    "controlDate": "2026-05-29T11:55:26.727Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105354,7 +105354,7 @@
     "rfStatewide": false,
     "name": "Just kick-it!",
     "type": "print",
-    "controlDate": "2025-12-05T13:06:19.213Z",
+    "controlDate": "2026-05-29T11:53:36.295Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105440,7 +105440,7 @@
     "rfStatewide": false,
     "name": "Spider-Man",
     "type": "print",
-    "controlDate": "2025-12-05T13:08:22.488Z",
+    "controlDate": "2026-05-29T11:54:54.024Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105568,7 +105568,7 @@
     "rfStatewide": false,
     "name": "Bob der Baumeister",
     "type": "print",
-    "controlDate": "2025-12-05T13:04:21.129Z",
+    "controlDate": "2026-05-29T11:52:52.340Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105589,7 +105589,7 @@
     "rfStatewide": false,
     "name": "Pokemon",
     "type": "print",
-    "controlDate": "2025-12-05T13:07:51.865Z",
+    "controlDate": "2026-05-29T11:54:36.415Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105610,7 +105610,7 @@
     "rfStatewide": false,
     "name": "Star Wars Magazin",
     "type": "print",
-    "controlDate": "2025-12-05T13:08:44.067Z",
+    "controlDate": "2026-05-29T11:55:13.487Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105631,7 +105631,7 @@
     "rfStatewide": false,
     "name": "Star Wars Comicmagazin",
     "type": "print",
-    "controlDate": "2025-12-05T13:08:35.373Z",
+    "controlDate": "2026-05-29T11:55:03.344Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -117960,7 +117960,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:47:03.784Z",
+    "controlDate": "2026-05-29T10:04:20.481Z",
     "state": "active"
   },
   {
@@ -119229,7 +119229,7 @@
     "rfStatewide": false,
     "name": "Schmöllner Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-05T09:55:03.091Z",
+    "controlDate": "2026-05-29T10:45:28.347Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122135,7 +122135,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:35:49.240Z",
+    "controlDate": "2026-05-29T09:52:34.217Z",
     "state": "active"
   },
   {
@@ -122153,7 +122153,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:35:33.265Z",
+    "controlDate": "2026-05-29T09:52:22.883Z",
     "state": "active"
   },
   {
@@ -122676,7 +122676,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T09:27:28.482Z",
+    "controlDate": "2026-05-29T09:47:51.773Z",
     "state": "active"
   },
   {
@@ -124173,7 +124173,7 @@
     "rfStatewide": false,
     "name": "Chiemgau-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-05T12:04:40.632Z",
+    "controlDate": "2026-05-29T10:52:19.166Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124193,7 +124193,7 @@
     "rfStatewide": false,
     "name": "Mangfall-Bote",
     "type": "print",
-    "controlDate": "2025-12-05T12:04:55.302Z",
+    "controlDate": "2026-05-29T10:52:28.283Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124213,7 +124213,7 @@
     "rfStatewide": false,
     "name": "Mühldorfer Anzeiger",
     "type": "print",
-    "controlDate": "2025-12-05T12:05:39.014Z",
+    "controlDate": "2026-05-29T10:52:38.413Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124233,7 +124233,7 @@
     "rfStatewide": false,
     "name": "Waldkraiburger Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-05T12:06:35.575Z",
+    "controlDate": "2026-05-29T10:53:20.084Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124253,7 +124253,7 @@
     "rfStatewide": false,
     "name": "Neumarkter Anzeiger",
     "type": "print",
-    "controlDate": "2025-12-05T12:06:02.130Z",
+    "controlDate": "2026-05-29T10:52:47.368Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124273,7 +124273,7 @@
     "rfStatewide": false,
     "name": "Wasserburger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-05T12:07:16.448Z",
+    "controlDate": "2026-05-29T10:53:33.639Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124320,7 +124320,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-05T12:08:42.879Z",
+    "controlDate": "2026-05-29T10:54:36.332Z",
     "state": "active"
   },
   {
@@ -126910,7 +126910,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "636d1b67-fd9c-4b8b-a5fb-5bfcfcbf12ee",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -134720,7 +134720,7 @@
     "name": "www.rosenheim24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:13:34.087Z",
+    "controlDate": "2026-05-29T10:59:51.382Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134744,7 +134744,7 @@
     "name": "www.innsalzach24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-21T11:28:28.202Z",
+    "controlDate": "2026-05-29T10:59:34.989Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134768,7 +134768,7 @@
     "name": "www.wasserburg24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:13:42.964Z",
+    "controlDate": "2026-05-29T10:59:57.601Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134792,7 +134792,7 @@
     "name": "www.mangfall24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:13:12.396Z",
+    "controlDate": "2026-05-29T10:59:42.170Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139444,7 +139444,7 @@
     "name": "Das Magazin mit dem Elefanten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-05T13:04:50.478Z",
+    "controlDate": "2026-05-29T11:53:02.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139839,7 +139839,7 @@
     "name": "My best Friend",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-05T13:07:02.059Z",
+    "controlDate": "2026-05-29T11:54:18.961Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139931,7 +139931,7 @@
     "name": "Avengers",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-05T13:04:14.756Z",
+    "controlDate": "2026-05-29T11:52:31.997Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141284,7 +141284,7 @@
     "name": "www.kurier-zum-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:41:25.386Z",
+    "controlDate": "2026-05-29T09:55:18.882Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141539,7 +141539,7 @@
     "name": "www.luener-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:41:32.305Z",
+    "controlDate": "2026-05-29T09:55:27.017Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141563,7 +141563,7 @@
     "name": "www.ruhr-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:41:44.871Z",
+    "controlDate": "2026-05-29T09:55:41.994Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141611,7 +141611,7 @@
     "name": "www.sonntagskurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:41:59.014Z",
+    "controlDate": "2026-05-29T09:55:49.153Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141681,7 +141681,7 @@
     "name": "www.stadtspiegel-dorsten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:42:25.029Z",
+    "controlDate": "2026-05-29T09:56:12.035Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141729,7 +141729,7 @@
     "name": "www.stadtanzeiger-castrop-rauxel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:42:07.890Z",
+    "controlDate": "2026-05-29T09:55:56.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141843,7 +141843,7 @@
     "name": "www.stadtanzeiger-dortmund.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:42:14.968Z",
+    "controlDate": "2026-05-29T09:56:04.730Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141867,7 +141867,7 @@
     "name": "www.stadtspiegel-haltern.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:42:32.333Z",
+    "controlDate": "2026-05-29T09:56:19.352Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143478,7 +143478,7 @@
     "name": "www.waldkraiburger-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:08:51.586Z",
+    "controlDate": "2026-05-29T10:54:46.450Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143570,7 +143570,7 @@
     "name": "www.wasserburger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:09:59.169Z",
+    "controlDate": "2026-05-29T10:54:54.417Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144437,7 +144437,7 @@
     "name": "www.bgland24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:11:54.686Z",
+    "controlDate": "2026-05-29T10:59:21.858Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144794,7 +144794,7 @@
     "name": "www.chiemgau24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T12:12:37.213Z",
+    "controlDate": "2026-05-29T10:59:28.127Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147311,7 +147311,7 @@
     "name": "www.out.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-05T09:56:03.854Z",
+    "controlDate": "2026-05-29T10:48:04.758Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147715,7 +147715,7 @@
     "name": "OZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-05T09:46:35.495Z",
+    "controlDate": "2026-05-29T10:04:03.056Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153866,7 +153866,7 @@
     "name": "www.extra-tipp-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T11:45:02.812Z",
+    "controlDate": "2026-05-29T11:59:53.058Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
