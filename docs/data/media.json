@@ -131646,6 +131646,23 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Testzeitung",
+    "type": "print",
+    "squuid": "6a1ac432-2fad-4c02-a668-6a51dd7c72c5",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5f197354-829f-480d-bb42-1aefb9c3ab08",
     "organization": {
