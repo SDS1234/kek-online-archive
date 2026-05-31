@@ -152469,7 +152469,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="6a1ac421-806a-4802-aafe-f33b3dd5627d"
-    in_degree=2
+    in_degree=3
     out_degree=1
   ];
   12706 [
@@ -152646,11 +152646,11 @@ digraph {
     label=Testkommanditist2
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=1
     num_medias_weighted=0.0000
     name="6a1ac4c2-1358-4018-a625-0122d9b82222"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12721 [
     type=shareholder
@@ -270111,6 +270111,10 @@ digraph {
   ];
   12719 -> 12705 [
     weight=90
+    type=owns
+  ];
+  12720 -> 12705 [
+    weight=1
     type=owns
   ];
   12721 -> 12705 [
