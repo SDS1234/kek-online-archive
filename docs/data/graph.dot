@@ -195508,8 +195508,8 @@ digraph {
     type=online
     state=active
     label="www.pafnet.tv"
-    num_owners=4
-    num_owners_weighted=4.0000
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f914ff1-eddf-47b5-b54f-8864b00f1046"

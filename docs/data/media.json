@@ -4692,7 +4692,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-08T11:37:39.177Z",
+    "controlDate": "2026-06-01T09:33:54.721Z",
     "state": "active"
   },
   {
@@ -8386,7 +8386,7 @@
     "name": "www.pluto.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:19:44.986Z",
+    "controlDate": "2026-06-01T09:02:14.081Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13379,7 +13379,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-08T11:17:21.670Z",
+    "controlDate": "2026-06-01T08:57:25.956Z",
     "state": "active"
   },
   {
@@ -13471,7 +13471,7 @@
     "rfStatewide": false,
     "name": "Classic Rock",
     "type": "print",
-    "controlDate": "2025-12-08T11:16:31.848Z",
+    "controlDate": "2026-06-01T08:57:09.301Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -13495,7 +13495,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-08T11:17:14.614Z",
+    "controlDate": "2026-06-01T08:57:18.486Z",
     "state": "active"
   },
   {
@@ -25504,7 +25504,7 @@
     "name": "www.welt.de/mediathek/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:48:35.845Z",
+    "controlDate": "2026-06-01T09:42:05.680Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32041,7 +32041,7 @@
     "name": "www.volleyball.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:09:06.527Z",
+    "controlDate": "2026-06-01T08:49:36.741Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33559,7 +33559,7 @@
     "name": "www.pnn.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:36:44.478Z",
+    "controlDate": "2026-06-01T09:33:46.714Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38245,7 +38245,7 @@
     "name": "www.power-radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:38:06.518Z",
+    "controlDate": "2026-06-01T09:36:11.648Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43530,7 +43530,7 @@
     "name": "www.sachsen-anhalt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-20T09:36:44.856Z",
+    "controlDate": "2026-06-01T09:49:01.355Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -59447,7 +59447,7 @@
     "name": "www.muenchen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-20T09:42:01.119Z",
+    "controlDate": "2026-06-01T09:30:43.112Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82716,7 +82716,7 @@
     "name": "www.welt.de/live/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:47:45.722Z",
+    "controlDate": "2026-06-01T09:41:58.842Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84065,7 +84065,7 @@
     "rfStatewide": false,
     "name": "P.M.",
     "type": "print",
-    "controlDate": "2025-12-08T11:20:27.404Z",
+    "controlDate": "2026-06-01T09:03:43.076Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84110,7 +84110,7 @@
     "rfStatewide": false,
     "name": "P.M. Schneller Schlau",
     "type": "print",
-    "controlDate": "2025-12-08T11:20:52.753Z",
+    "controlDate": "2026-06-01T09:04:06.665Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84215,7 +84215,7 @@
     "rfStatewide": false,
     "name": "P.M. History",
     "type": "print",
-    "controlDate": "2025-12-08T11:20:37.682Z",
+    "controlDate": "2026-06-01T09:03:51.158Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88042,7 +88042,7 @@
     "rfStatewide": false,
     "name": "Volleyball-Magazin",
     "type": "print",
-    "controlDate": "2025-12-08T11:08:30.250Z",
+    "controlDate": "2026-06-01T08:49:29.581Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88108,7 +88108,7 @@
     "rfStatewide": false,
     "name": "Potsdamer Neueste Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-08T11:36:37.563Z",
+    "controlDate": "2026-06-01T09:33:31.123Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88131,7 +88131,7 @@
     "rfStatewide": false,
     "name": "Augsburger Allgemeine",
     "type": "print",
-    "controlDate": "2025-12-08T11:59:25.781Z",
+    "controlDate": "2026-06-01T09:58:19.884Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88151,7 +88151,7 @@
     "rfStatewide": false,
     "name": "Wertinger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:05:10.830Z",
+    "controlDate": "2026-06-01T10:02:59.405Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88213,7 +88213,7 @@
     "rfStatewide": false,
     "name": "Journal Frankfurt",
     "type": "print",
-    "controlDate": "2025-12-08T11:50:01.290Z",
+    "controlDate": "2026-06-01T09:45:57.903Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88234,7 +88234,7 @@
     "rfStatewide": false,
     "name": "GenussMagazin",
     "type": "print",
-    "controlDate": "2025-12-08T11:49:53.697Z",
+    "controlDate": "2026-06-01T09:45:50.453Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91019,7 +91019,7 @@
     "rfStatewide": false,
     "name": "DBZ Deutsche Briefmarken-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T11:05:34.884Z",
+    "controlDate": "2026-06-01T08:46:19.124Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102185,7 +102185,7 @@
     "rfStatewide": false,
     "name": "Ammersee-Kurier",
     "type": "print",
-    "controlDate": "2025-12-08T11:59:17.539Z",
+    "controlDate": "2026-06-01T09:57:33.695Z",
     "pressKind": "regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107958,7 +107958,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-14T12:19:25.476Z",
+    "controlDate": "2026-06-01T09:49:18.200Z",
     "state": "active"
   },
   {
@@ -115240,7 +115240,7 @@
     "name": "www.phonostar.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:10:58.660Z",
+    "controlDate": "2026-06-01T08:52:05.597Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115797,7 +115797,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-08T11:50:37.363Z",
+    "controlDate": "2026-06-01T09:46:10.452Z",
     "state": "active"
   },
   {
@@ -115834,7 +115834,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-08T11:50:09.336Z",
+    "controlDate": "2026-06-01T09:46:03.676Z",
     "state": "active"
   },
   {
@@ -123444,7 +123444,7 @@
     "rfStatewide": false,
     "name": "Schwabmünchner Allgemeine",
     "type": "print",
-    "controlDate": "2025-12-08T12:04:50.855Z",
+    "controlDate": "2026-06-01T10:02:48.207Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123464,7 +123464,7 @@
     "rfStatewide": false,
     "name": "Friedberger Allgemeine",
     "type": "print",
-    "controlDate": "2025-12-08T12:01:08.684Z",
+    "controlDate": "2026-06-01T09:59:34.757Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123508,7 +123508,7 @@
     "rfStatewide": false,
     "name": "Landsberger Tagblatt",
     "type": "print",
-    "controlDate": "2025-12-08T12:02:19.986Z",
+    "controlDate": "2026-06-01T10:00:59.004Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123567,7 +123567,7 @@
     "rfStatewide": false,
     "name": "Neuburger Rundschau",
     "type": "print",
-    "controlDate": "2025-12-08T12:04:04.232Z",
+    "controlDate": "2026-06-01T10:02:22.214Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123587,7 +123587,7 @@
     "rfStatewide": false,
     "name": "Donauwörther Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:00:52.204Z",
+    "controlDate": "2026-06-01T09:59:21.327Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123607,7 +123607,7 @@
     "rfStatewide": false,
     "name": "Donau Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:00:22.825Z",
+    "controlDate": "2026-06-01T09:59:10.406Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123651,7 +123651,7 @@
     "rfStatewide": false,
     "name": "Günzburger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:01:34.675Z",
+    "controlDate": "2026-06-01T10:00:10.576Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123671,7 +123671,7 @@
     "rfStatewide": false,
     "name": "Neu-Ulmer Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:03:39.730Z",
+    "controlDate": "2026-06-01T10:01:57.917Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123691,7 +123691,7 @@
     "rfStatewide": false,
     "name": "Illertisser Zeitung",
     "type": "print",
-    "controlDate": "2025-12-08T12:02:06.611Z",
+    "controlDate": "2026-06-01T10:00:26.172Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123711,7 +123711,7 @@
     "rfStatewide": false,
     "name": "Rieser Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-08T12:04:29.154Z",
+    "controlDate": "2026-06-01T10:02:36.160Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123988,7 +123988,7 @@
     "name": "www.echo-rosenheim.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:32:59.891Z",
+    "controlDate": "2026-06-01T09:27:31.883Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134557,7 +134557,7 @@
     "name": "www.fluxfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:18:15.268Z",
+    "controlDate": "2026-06-01T09:00:52.063Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135422,7 +135422,7 @@
     "name": "www.pinkchannel.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:12:58.851Z",
+    "controlDate": "2026-06-01T08:54:09.845Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140999,7 +140999,7 @@
     "name": "P.M. Logik Trainer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-08T11:20:45.508Z",
+    "controlDate": "2026-06-01T09:03:59.301Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141722,7 +141722,7 @@
     "name": "www.pm-wissen.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:21:18.537Z",
+    "controlDate": "2026-06-01T09:04:12.476Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144362,7 +144362,7 @@
     "name": "www.pafnet.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:14:11.495Z",
+    "controlDate": "2026-06-01T09:08:07.332Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161687,7 +161687,7 @@
     "name": "www.philapress.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:05:53.355Z",
+    "controlDate": "2026-06-01T08:46:25.539Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162389,7 +162389,7 @@
     "name": "Briefmarken Spiegel",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-08T11:05:28.475Z",
+    "controlDate": "2026-06-01T08:46:10.715Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
