@@ -284,7 +284,7 @@
     "squuid": "5de914b1-8fcf-4d26-b486-e736eb5ef69a",
     "name": "Radio 5.0 GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-09T12:39:33.082Z",
+    "controlDate": "2026-06-01T14:22:33.445Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -308,12 +308,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -4161,7 +4155,7 @@
     "squuid": "63e4dfd3-24ce-45c4-9cef-a56e504db8c8",
     "name": "PZ/HZ Wochenzeitung GmbH & Co. oHG",
     "state": "active",
-    "controlDate": "2025-12-08T15:16:59.900Z",
+    "controlDate": "2026-06-01T13:00:23.207Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4835,7 +4829,7 @@
     "name": "PUNKTum-Fernseh-GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5f280f1f-8be9-429a-ac9f-98f67e993f05",
-    "controlDate": "2025-12-08T15:03:28.378Z",
+    "controlDate": "2026-06-01T12:44:22.099Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -4916,7 +4910,7 @@
     "squuid": "5d318b41-46a6-417c-977c-09a8747bcd14",
     "name": "PSYCODE S.r.l.s.",
     "state": "active",
-    "controlDate": "2025-12-08T14:42:59.367Z",
+    "controlDate": "2026-06-01T12:12:34.531Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -8342,7 +8336,7 @@
     "squuid": "5be1a6b6-c403-468d-8ebc-b75baf6ebe76",
     "name": "ProSiebenSat.1 Media SE",
     "state": "active",
-    "controlDate": "2025-12-08T14:40:39.647Z",
+    "controlDate": "2026-06-01T12:08:35.968Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -10319,7 +10313,7 @@
     "name": "QVC Handel S.à.r.l. & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-aa55-4904-b4b8-b7121220e401",
-    "controlDate": "2025-06-18T07:16:47.332Z",
+    "controlDate": "2026-06-01T13:29:09.435Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -10375,7 +10369,7 @@
     "squuid": "5be1a6b6-a44b-43bb-9a22-06915ce216e6",
     "name": "QVC International LLC",
     "state": "active",
-    "controlDate": "2025-06-18T07:17:06.570Z",
+    "controlDate": "2026-06-01T13:29:51.204Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -12282,7 +12276,7 @@
     "squuid": "5be1a6b6-e0fe-4e42-ae15-733df779fd67",
     "name": "Radio 2Day Privatrundfunkstation für München Rundfunkveranstaltungsges. mbH",
     "state": "active",
-    "controlDate": "2025-12-08T16:00:14.924Z",
+    "controlDate": "2026-06-01T14:15:56.863Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12485,7 +12479,7 @@
     "squuid": "5be1a6b6-5151-4299-a7c6-6c51184510ef",
     "name": "Radio 93,3 MHz München GmbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:42:21.577Z",
+    "controlDate": "2026-06-01T14:54:59.529Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -12524,7 +12518,7 @@
     "squuid": "5be1a6b6-4023-450b-909c-ab971d20cad7",
     "name": "Radio 106,9 MHz Nürnberg GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:57:22.952Z",
+    "controlDate": "2026-06-01T13:54:11.430Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15549,7 +15543,7 @@
     "squuid": "5be1a6b6-5348-4fb4-9a9c-c74fea5b6161",
     "name": "Radio Alpenwelle Programmanbietergesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:48:40.656Z",
+    "controlDate": "2026-06-01T15:04:01.160Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -20041,7 +20035,7 @@
     "squuid": "5cb74c22-0d93-4491-a253-f98685ffbc69",
     "name": "Druckhaus Nürnberg GmbH",
     "state": "active",
-    "controlDate": "2026-04-29T09:49:55.934Z",
+    "controlDate": "2026-06-01T16:01:48.422Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21104,7 +21098,7 @@
     "squuid": "5be1a6b6-8bd4-4e40-8568-aafbeac0ca9e",
     "name": "Radio 100,7 MHz Stuttgart GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:48:30.171Z",
+    "controlDate": "2026-06-01T13:42:10.210Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21450,7 +21444,7 @@
     "name": "Private Rundfunkgesellschaft Ortenau GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1f96-4d28-a5a3-d1f1d87fa3f2",
-    "controlDate": "2025-12-08T12:49:42.231Z",
+    "controlDate": "2026-06-01T11:45:42.545Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22044,7 +22038,7 @@
     "squuid": "5be1a6b6-9892-4c6e-ad16-1ab2112664fd",
     "name": "QUERFUNK Radiobetriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:19:17.831Z",
+    "controlDate": "2026-06-01T13:07:24.297Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22735,7 +22729,7 @@
     "squuid": "5be1a6b6-52f8-42e4-a005-321ef0d6e9f5",
     "name": "Privat-Radio Tauber-Odenwald-Neckar (T.O.N.) Rundfunkbetriebs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T12:47:19.815Z",
+    "controlDate": "2026-06-01T11:42:49.657Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -22827,7 +22821,7 @@
     "name": "Radio 7 Hörfunk GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5099-4f12-8db6-65b375706e61",
-    "controlDate": "2025-12-09T12:40:15.721Z",
+    "controlDate": "2026-06-01T14:29:58.055Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22866,7 +22860,7 @@
     "squuid": "5cb759be-230a-4359-ba99-bebb2fb38070",
     "name": "Radio A Rundfunkanbieter GmbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:48:22.440Z",
+    "controlDate": "2026-06-01T15:03:34.998Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23672,12 +23666,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -23760,12 +23748,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -23924,12 +23906,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -23993,12 +23969,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -24249,12 +24219,6 @@
         "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -24635,7 +24599,7 @@
     "squuid": "5be1a6b6-1e8d-48a9-afbc-fe0fb6e415b0",
     "name": "Radio 103,4 MHz Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:49:25.014Z",
+    "controlDate": "2026-06-01T13:49:26.334Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26870,12 +26834,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -29811,7 +29769,7 @@
     "name": "Radio 95.0 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6da-4887-812d-d70ca5478073",
-    "controlDate": "2025-12-09T12:43:27.801Z",
+    "controlDate": "2026-06-01T14:55:18.022Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -29874,12 +29832,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -29971,12 +29923,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -30559,7 +30505,7 @@
     "name": "Privatradio Landeswelle Mecklenburg-Vorpommern GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9833-4570-b744-205c3026cdf5",
-    "controlDate": "2025-12-08T13:10:21.794Z",
+    "controlDate": "2026-06-01T11:57:22.621Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30990,7 +30936,7 @@
     "name": "Radio 21 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d018-4147-bd70-c13114845f19",
-    "controlDate": "2025-12-16T12:34:42.532Z",
+    "controlDate": "2026-06-01T14:07:33.712Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -31515,7 +31461,7 @@
     "squuid": "5be1a6b6-50ef-423a-95a7-bda039a4ac95",
     "name": "Privater Sächsischer Rundfunk GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:52:19.666Z",
+    "controlDate": "2026-06-01T11:48:43.003Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -31994,12 +31940,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -32107,12 +32047,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -32172,12 +32106,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -32278,12 +32206,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -32343,12 +32265,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -32412,12 +32328,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -32476,12 +32386,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -32648,12 +32552,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -32711,12 +32609,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -34895,7 +34787,7 @@
     "squuid": "5be1a6b6-4631-48e1-a053-cb8a6b21b4e5",
     "name": "R & B Thüringer Medienbeteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:28:56.100Z",
+    "controlDate": "2026-06-01T13:34:00.351Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38769,12 +38661,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
         "name": "LFM NRW",
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
@@ -40128,7 +40014,7 @@
     "squuid": "5be1a6b6-e093-4174-9a60-584455023300",
     "name": "Pressehaus GmbH",
     "state": "active",
-    "controlDate": "2026-01-12T12:27:32.826Z",
+    "controlDate": "2026-06-01T10:46:37.852Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -43496,7 +43382,7 @@
     "squuid": "5be1a6b6-d06c-4622-9ebb-60d884568987",
     "name": "Privatbrauerei M.C. Wieninger GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T12:48:13.185Z",
+    "controlDate": "2026-06-01T11:45:13.831Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -49419,7 +49305,7 @@
     "squuid": "5be1a6b6-8c11-4526-af08-275ec93dea8b",
     "name": "Pressefunk Nordrhein-Westfalen GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T12:32:33.872Z",
+    "controlDate": "2026-06-01T10:35:06.645Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -49786,7 +49672,7 @@
     "squuid": "5c4f01d3-f83a-4f27-9a0e-959fee8b5b22",
     "name": "Promipool GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:35:57.945Z",
+    "controlDate": "2026-06-01T12:02:12.897Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50285,7 +50171,7 @@
     "squuid": "69734b29-e059-498d-8068-4a4b3a161340",
     "name": "PVG Geschäftsführungs-KG",
     "state": "active",
-    "controlDate": "2026-02-10T16:40:17.472Z",
+    "controlDate": "2026-06-01T12:50:34.276Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -50833,7 +50719,7 @@
     "squuid": "69396c52-2fc5-492d-bc3d-57f682e7b03b",
     "name": "radical moves GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T11:16:37.234Z",
+    "controlDate": "2026-06-01T13:38:02.616Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51042,7 +50928,7 @@
     "squuid": "5f0f1114-15ea-4c16-b09b-87f269d38607",
     "name": "Pressefunk Krefeld-Viersen Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:28:46.426Z",
+    "controlDate": "2026-06-01T10:33:54.278Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51626,12 +51512,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -51708,12 +51588,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -51785,12 +51659,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -52788,12 +52656,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -53170,12 +53032,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -53236,12 +53092,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -53299,12 +53149,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -57462,7 +57306,7 @@
     "squuid": "5e8b5fb8-5f38-40af-9e40-e15b64464ce7",
     "name": "Prisma-Plus Verwaltungsgesellschaft für Beteiligungen mbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:40:31.417Z",
+    "controlDate": "2026-06-01T11:35:01.545Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -67075,7 +66919,7 @@
     "squuid": "5be1a6b6-07cf-4df9-af9a-b09e5e25220f",
     "name": "QVC Germany I S.à.r.l. ",
     "state": "active",
-    "controlDate": "2025-06-18T07:15:30.381Z",
+    "controlDate": "2026-06-01T13:27:51.940Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -67129,7 +66973,7 @@
     "squuid": "5be1a6b6-a02a-4e03-8ffc-073eb9819a12",
     "name": "QVC Germany II S.à.r.l. ",
     "state": "active",
-    "controlDate": "2025-06-18T07:15:51.121Z",
+    "controlDate": "2026-06-01T13:28:03.989Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -67147,7 +66991,7 @@
     "squuid": "5be1a6b6-ac26-4e39-90eb-5e84d58b0bfb",
     "name": "QVC, Inc.",
     "state": "active",
-    "controlDate": "2024-12-11T15:00:30.065Z",
+    "controlDate": "2026-06-01T13:30:01.355Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -67427,7 +67271,7 @@
     "squuid": "66bb6f2e-627b-4514-820a-26e3f9585659",
     "name": "Radio 38 Freunde GmbH und Co. KG",
     "state": "active",
-    "controlDate": "2025-12-16T12:59:46.168Z",
+    "controlDate": "2026-06-01T14:20:10.474Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -70593,12 +70437,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -70665,12 +70503,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -70734,12 +70566,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -74799,7 +74625,7 @@
     "squuid": "5ef21156-2c76-4736-b471-90ba9687f6b4",
     "name": "Privat-Radio Tauber-Odenwald-Neckar (T.O.N.) Rundfunkbetriebs-Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:47:11.376Z",
+    "controlDate": "2026-06-01T11:42:56.064Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -79590,12 +79416,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -80904,7 +80724,7 @@
     "squuid": "5be1a6b6-e00e-4054-b5fa-829e9fd143f3",
     "name": "Pro FM Media GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T14:34:23.693Z",
+    "controlDate": "2026-06-01T11:59:47.492Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -86572,12 +86392,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -87863,12 +87677,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -87930,12 +87738,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -87994,12 +87796,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -89161,7 +88957,7 @@
     "squuid": "5de91604-da9d-4f72-b99f-3b6be0da043a",
     "name": "Radio 5.0 Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:39:24.637Z",
+    "controlDate": "2026-06-01T14:21:56.756Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89184,12 +88980,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -89934,7 +89724,7 @@
     "squuid": "5f02f8ad-1ce1-4c45-964c-704e03a1f42e",
     "name": "pVS - pro Verlag und Service Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:06:36.249Z",
+    "controlDate": "2026-06-01T12:51:30.843Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91626,12 +91416,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -92909,12 +92693,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -93109,12 +92887,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -97807,7 +97579,7 @@
     "squuid": "5be1a6b6-70a5-476e-bc57-f86c7340f944",
     "name": "PZ Media GmbH & Co.KG",
     "state": "active",
-    "controlDate": "2025-12-08T15:08:18.124Z",
+    "controlDate": "2026-06-01T12:58:46.315Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -97875,7 +97647,7 @@
     "squuid": "5be1a6b6-2858-4d3f-bb6e-8a1ca59a86a4",
     "name": "Pressehaus Krause GmbH & Co KG (Goslar)",
     "state": "active",
-    "controlDate": "2025-12-16T12:16:07.179Z",
+    "controlDate": "2026-06-01T11:16:50.349Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -100610,12 +100382,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -123065,7 +122831,7 @@
     "squuid": "5be1a6b6-d580-48f8-954f-8f0fb3adcaa1",
     "name": "Pressehaus Krause GmbH & Co KG (Stade)",
     "state": "active",
-    "controlDate": "2025-12-16T12:17:33.929Z",
+    "controlDate": "2026-06-01T11:17:20.636Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -126735,12 +126501,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -128790,7 +128550,7 @@
     "squuid": "5ee22327-b616-4a54-90b5-50ba2649b17a",
     "name": "PZ Media Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:08:03.332Z",
+    "controlDate": "2026-06-01T12:58:36.064Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -129275,7 +129035,7 @@
     "squuid": "5be1a6b6-2988-4e0a-bb26-de11fc7073ee",
     "name": "Proma AG",
     "state": "active",
-    "controlDate": "2025-12-08T14:35:32.912Z",
+    "controlDate": "2026-06-01T12:01:57.418Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -130950,7 +130710,7 @@
     "squuid": "5be1a6b6-1002-4156-9d96-cecad91421c0",
     "name": "Pressefunk Krefeld-Viersen GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T12:28:57.220Z",
+    "controlDate": "2026-06-01T10:34:04.649Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -134911,12 +134671,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -134975,12 +134729,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135070,12 +134818,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135151,12 +134893,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135215,12 +134951,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135285,12 +135015,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135349,12 +135073,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135419,12 +135137,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135483,12 +135195,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135563,12 +135269,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135652,12 +135352,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135716,12 +135410,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135786,12 +135474,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -135850,12 +135532,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -135931,12 +135607,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -138047,12 +137717,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -138433,12 +138097,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -139224,7 +138882,7 @@
     "name": "Pressehaus Bintz Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8a85-4051-ab8c-3b6710166754",
-    "controlDate": "2025-12-08T12:33:28.566Z",
+    "controlDate": "2026-06-01T10:38:20.387Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139399,12 +139057,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -139598,12 +139250,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -143063,7 +142709,7 @@
     "squuid": "698b6050-0f97-4e93-bc2e-bf4435f85817",
     "name": "PVG Geschäftsführungs- und Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-02-12T14:56:03.309Z",
+    "controlDate": "2026-06-01T12:50:19.037Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143081,7 +142727,7 @@
     "squuid": "698b606e-6b7c-404d-9ba0-0e0deb1e0110",
     "name": "PVG Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2026-02-12T14:55:23.966Z",
+    "controlDate": "2026-06-01T12:50:02.155Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -145532,12 +145178,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -146442,12 +146082,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -147088,12 +146722,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -147189,12 +146817,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -148889,12 +148511,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -153162,12 +152778,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -155228,7 +154838,7 @@
     "squuid": "5d020ab0-c830-47c4-84bc-703f3325e579",
     "name": "Punktum Fernsehbeteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:03:13.626Z",
+    "controlDate": "2026-06-01T12:43:56.147Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157084,12 +156694,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -157681,7 +157285,7 @@
     "squuid": "5efca907-9329-4e3a-8469-4c119897eeb4",
     "name": "Radio 7 Hörfunk Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:40:00.854Z",
+    "controlDate": "2026-06-01T14:27:20.606Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -162575,12 +162179,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -162638,12 +162236,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -162707,12 +162299,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -162770,12 +162356,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -162839,12 +162419,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -162902,12 +162476,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -163728,12 +163296,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -164084,12 +163646,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -166342,7 +165898,7 @@
     "squuid": "5ca74f5d-6f11-433b-8b2d-b8885581572d",
     "name": "Prospekt Express GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:41:39.364Z",
+    "controlDate": "2026-06-01T12:05:59.286Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -167914,12 +167470,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -168415,7 +167965,7 @@
     "squuid": "5c5c329a-fd94-4fe9-8d73-07889bdff248",
     "name": "Priewisch Management GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:37:14.371Z",
+    "controlDate": "2026-06-01T11:18:24.302Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169096,7 +168646,7 @@
     "squuid": "64f97029-3bdb-4de0-ab27-92317a08c5f8",
     "name": "PTV Fernseh- und Multimediagesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:44:58.964Z",
+    "controlDate": "2026-06-01T12:13:04.413Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -170924,7 +170474,7 @@
     "squuid": "5cadc06d-ff55-4999-9538-0300fb26c2f0",
     "name": "R.H.B. Radiohaus Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:29:20.643Z",
+    "controlDate": "2026-06-01T13:35:49.815Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -171643,7 +171193,7 @@
     "name": "Privatfernsehen in Bayern GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "60bf33b6-7016-47d2-9689-cc8d5fd4a211",
-    "controlDate": "2025-12-08T12:54:44.046Z",
+    "controlDate": "2026-06-01T11:51:57.612Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -171696,7 +171246,7 @@
     "squuid": "60bf33f1-d3f1-46a9-b894-e9d883037faf",
     "name": "Privatfernsehen in Bayern Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:54:32.953Z",
+    "controlDate": "2026-06-01T11:51:44.425Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173149,7 +172699,7 @@
     "squuid": "5d3069d7-fe07-4cc8-83e3-2633750ec3c3",
     "name": "Printmedien Beteiligungsgesellschaft mbH ",
     "state": "active",
-    "controlDate": "2025-12-08T12:39:59.615Z",
+    "controlDate": "2026-06-01T11:34:39.068Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -175967,7 +175517,7 @@
     "name": "Prisma-Verlag GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "621cc626-22eb-44c9-b383-2237d947b390",
-    "controlDate": "2025-06-17T12:10:34.138Z",
+    "controlDate": "2026-06-01T11:38:12.976Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176075,7 +175625,7 @@
     "squuid": "621cc63d-1e77-48f5-9b82-063f5640dbb9",
     "name": "Prisma-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:42:29.333Z",
+    "controlDate": "2026-06-01T11:37:03.390Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -177799,12 +177349,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -177908,12 +177452,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -182158,7 +181696,7 @@
     "squuid": "60a4f0e3-a8a2-4d9f-9b42-ca19e76c572d",
     "name": "PW Garrel Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-16T12:19:44.058Z",
+    "controlDate": "2026-06-01T12:55:29.194Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183595,12 +183133,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -183675,12 +183207,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -183752,12 +183278,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -185391,12 +184911,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -186008,12 +185522,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -186071,12 +185579,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -187178,12 +186680,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -190118,7 +189614,7 @@
     "squuid": "5ec3d6fa-277c-47de-82b4-4a85a900e75e",
     "name": "Pressehaus Offenbach GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:34:42.536Z",
+    "controlDate": "2026-06-01T10:46:12.441Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190455,7 +189951,7 @@
     "squuid": "63727792-ec53-4152-b782-ec1b36dae91b",
     "name": "Presse-Verlag Aktuell GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:24:48.698Z",
+    "controlDate": "2026-06-01T10:24:49.003Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190577,7 +190073,7 @@
     "squuid": "5efb0c4f-a0b8-450a-8e27-0eb6a666d272",
     "name": "Radio 21 Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-16T12:33:03.816Z",
+    "controlDate": "2026-06-01T14:07:22.395Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -191526,12 +191022,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -192333,8 +191823,34 @@
     ]
   },
   {
+    "squuid": "6a1d6593-ca1a-4460-86a2-f175b6d47ea7",
+    "name": "Pleyer, Nina",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f9806cf-881a-4163-a861-d64416c044e5",
     "name": "Frank Willer",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a1d657e-3b67-42a8-b32f-8276f0bcb7cf",
+    "name": "Vestner, Jakob",
     "state": "active",
     "organizations": [
       {
@@ -192354,6 +191870,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a1d656e-4f89-4cd9-a3ce-3fc33b0db093",
+    "name": "Vestner, Anna",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -192469,12 +191998,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -192870,12 +192393,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -192936,12 +192453,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -192999,12 +192510,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -193818,6 +193323,19 @@
     ]
   },
   {
+    "squuid": "6a1d7a81-18ed-4812-9ef9-d7ea5b3e52f9",
+    "name": "Schroders PLC",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "61b08a96-70c4-40cd-96d0-b587a78911bd",
     "name": "von Nagel, Freiherr Philipp Sebastian",
     "state": "active",
@@ -194402,12 +193920,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -194480,12 +193992,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -195600,7 +195106,7 @@
     "squuid": "5f1adbd6-7f08-4236-97e6-7c624a13795c",
     "name": "Privatradio Landeswelle Mecklenburg-Vorpommern Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T13:04:53.481Z",
+    "controlDate": "2026-06-01T11:53:33.405Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197147,7 +196653,7 @@
     "squuid": "5c581d22-538c-4e9b-823f-8be1910b0444",
     "name": "Quotenmeter GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:21:33.725Z",
+    "controlDate": "2026-06-01T13:26:38.239Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204704,7 +204210,7 @@
     "squuid": "5ef5c487-6b96-42e6-8302-e0489a10d9e4",
     "name": "Pressefunk Nordrhein-Westfalen Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:29:15.336Z",
+    "controlDate": "2026-06-01T10:34:52.836Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -208221,7 +207727,7 @@
     "squuid": "5be1a6b6-6021-46f3-afb4-8a693756b473",
     "name": "Prisma-Plus Gesellschaft für Beteiligungen mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-08T12:40:42.453Z",
+    "controlDate": "2026-06-01T11:36:08.120Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -208800,12 +208306,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -208909,12 +208409,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -211490,12 +210984,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -211554,12 +211042,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -211704,12 +211186,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -216575,12 +216051,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -231194,7 +230664,7 @@
     "squuid": "5be1a6b6-6671-4371-a6f8-0239cc894716",
     "name": "PubliKom Z Verlagsgesellschaft für Zielgruppen-Publizistik und Kommunikation mbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:47:13.858Z",
+    "controlDate": "2026-06-01T12:16:49.312Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231554,7 +231024,7 @@
     "squuid": "5be1a6b6-7098-4b46-92d4-6e82cbce9fb1",
     "name": "PV Projekt Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:05:20.112Z",
+    "controlDate": "2026-06-01T12:45:14.527Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231914,7 +231384,7 @@
     "squuid": "5be1a6b6-92da-44e3-bb36-8ebf5d37423b",
     "name": "Publik-Forum Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:46:04.171Z",
+    "controlDate": "2026-06-01T12:15:31.651Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238818,7 +238288,7 @@
     "squuid": "5f369448-2d46-4344-a897-23daa7cea714",
     "name": "Radio 4 in 1 Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-09T12:38:58.019Z",
+    "controlDate": "2026-06-01T14:21:12.305Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -241138,7 +240608,7 @@
     "squuid": "5be1a6b6-c57d-4372-9cd7-0b091f1b6930",
     "name": "Producto GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:34:48.552Z",
+    "controlDate": "2026-06-01T12:01:13.403Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -253341,7 +252811,7 @@
     "squuid": "5be1a6b6-914b-41be-979f-3e0fc9109b97",
     "name": "Q.met GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T15:18:32.657Z",
+    "controlDate": "2026-06-01T13:05:02.000Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -255110,7 +254580,7 @@
     "squuid": "5be1a6b6-8e20-4545-be80-fc29ad3c5a34",
     "name": "Print Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T12:38:32.452Z",
+    "controlDate": "2026-06-01T11:32:20.443Z",
     "limitedPartnership": false,
     "organizations": [
       {
@@ -256137,7 +255607,7 @@
     "squuid": "5f9198f2-e952-4591-9cf6-59352984ecd2",
     "name": "Pro FM Media Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:34:17.451Z",
+    "controlDate": "2026-06-01T11:59:38.686Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -257596,12 +257066,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -262061,12 +261525,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -265877,7 +265335,7 @@
     "squuid": "5ef9b6c2-3cfa-49b8-b125-01e65e3beae7",
     "name": "PSR GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:42:36.357Z",
+    "controlDate": "2026-06-01T12:12:07.827Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273506,12 +272964,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -273585,12 +273037,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -273648,12 +273094,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -273715,12 +273155,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -273810,12 +273244,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -275426,12 +274854,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -280253,12 +279675,6 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
-        "type": "organization"
-      },
-      {
         "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
         "name": "SLM",
         "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
@@ -282368,7 +281784,7 @@
     "squuid": "5be1a6b6-8a5a-4e19-a1a2-ddaf1ff4fb4c",
     "name": "PWG Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-16T12:21:50.385Z",
+    "controlDate": "2026-06-01T12:55:45.047Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -284368,7 +283784,7 @@
     "name": "pVS - pro Verlag und Service GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-fc27-4647-85a0-19dbb590ff8b",
-    "controlDate": "2025-12-08T15:06:45.544Z",
+    "controlDate": "2026-06-01T12:51:38.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -294037,7 +293453,7 @@
     "squuid": "5be1a6b6-f4dc-408b-8b70-0589d25a76c7",
     "name": "PUMA SE",
     "state": "active",
-    "controlDate": "2025-12-08T15:02:53.898Z",
+    "controlDate": "2026-06-01T12:30:19.706Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -297965,12 +297381,6 @@
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
         "fullName": "Medienanstalt Hessen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e6-cba2-4ddc-815e-6454618f2132",
-        "name": "brema",
-        "fullName": "Bremische Landesmedienanstalt",
         "type": "organization"
       },
       {
@@ -302243,7 +301653,7 @@
     "squuid": "63ce97bf-2d00-4afc-8155-46e90e225226",
     "name": "prospega GmbH",
     "state": "active",
-    "controlDate": "2025-12-08T14:41:14.637Z",
+    "controlDate": "2026-06-01T12:05:43.007Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
