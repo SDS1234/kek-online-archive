@@ -7921,7 +7921,7 @@
     "squuid": "5be1a6b6-08ec-45e9-8c5f-fc0df1ca7efc",
     "name": "Rudolf Augstein GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:18:34.483Z",
+    "controlDate": "2026-06-02T13:04:08.027Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -7945,7 +7945,7 @@
     "squuid": "5be1a6b6-6647-418f-be7f-faee8268574e",
     "name": "RM Hamburg Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:53:51.828Z",
+    "controlDate": "2026-06-02T10:28:24.432Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8615,7 +8615,7 @@
     "name": "RTL2 Fernsehen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-96eb-452c-bca6-8f2175218285",
-    "controlDate": "2025-12-11T16:06:53.729Z",
+    "controlDate": "2026-06-02T12:39:21.522Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9150,7 +9150,7 @@
     "squuid": "5be1a6b6-7542-41b4-ab53-17975a930698",
     "name": "RTL Television GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T14:15:28.050Z",
+    "controlDate": "2026-06-02T12:22:29.657Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9378,7 +9378,7 @@
     "squuid": "5be1a6b6-8121-4304-890e-61c94a6f08d0",
     "name": "RTL Group GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:06:16.406Z",
+    "controlDate": "2026-06-02T12:01:42.006Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9493,7 +9493,7 @@
     "squuid": "5be1a6b6-7474-4c9a-a706-95e39a65b236",
     "name": "RTL Group S.A.",
     "state": "active",
-    "controlDate": "2025-12-15T13:06:44.577Z",
+    "controlDate": "2026-06-02T12:06:04.804Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11048,7 +11048,7 @@
     "squuid": "5d31a016-b4cb-48d3-8813-60c9515408da",
     "name": "Rudolf Haufe Verlag GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-11T16:20:24.096Z",
+    "controlDate": "2026-06-02T13:21:13.860Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -12193,7 +12193,7 @@
     "squuid": "5be1a6b6-1f1d-464c-ad85-465abc77cf7a",
     "name": "RSG Rundfunk Service GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:36:33.056Z",
+    "controlDate": "2026-06-02T11:44:57.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -13052,8 +13052,9 @@
     "controlDate": "2019-07-19T11:04:49.672Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -17332,7 +17333,7 @@
     "squuid": "5be1a6b6-4c5b-4041-ade1-062580802a48",
     "name": "Rosenheimer Anbietergemeinschaft für Rundfunk- u. Fernsehprogramm GbR",
     "state": "active",
-    "controlDate": "2022-07-01T14:54:47.427Z",
+    "controlDate": "2026-06-02T11:32:37.354Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -18845,7 +18846,7 @@
     "squuid": "5be1a6b6-85f0-48b9-9138-215258d455f7",
     "name": "rt1.broadcast management GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:42:33.626Z",
+    "controlDate": "2026-06-02T11:51:54.843Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -20917,7 +20918,7 @@
     "squuid": "5be1a6b6-7d50-4024-8318-9596b56628f6",
     "name": "RNO Beteiligungsgesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-11T15:18:52.797Z",
+    "controlDate": "2026-06-02T10:49:14.646Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -20989,7 +20990,7 @@
     "squuid": "5be1a6b6-55ad-4b9d-a6f2-ebeda816ca61",
     "name": "RSL Radio Schwabenland Stuttgart GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-15T12:37:11.472Z",
+    "controlDate": "2026-06-02T11:47:22.200Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -21009,7 +21010,7 @@
     "squuid": "5cb74fa7-8e8b-4a3f-bc30-d06972918709",
     "name": "Rundfunk Media Rundfunkprogramm und Werbegesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:11:04.125Z",
+    "controlDate": "2026-06-02T13:52:47.506Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -22345,7 +22346,7 @@
     "name": "RNB Radio Neckarburg GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0",
-    "controlDate": "2025-12-11T15:03:00.242Z",
+    "controlDate": "2026-06-02T10:40:48.476Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24174,7 +24175,7 @@
     "squuid": "5be1a6b6-fa80-4709-a830-dea042b7476d",
     "name": "RTL Radio Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T14:03:02.846Z",
+    "controlDate": "2026-06-02T12:19:04.298Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25865,7 +25866,7 @@
     "name": "rkw - Radio Königs Wusterhausen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-69e0-4daf-a710-83e0f0e54de7",
-    "controlDate": "2025-12-11T14:42:29.769Z",
+    "controlDate": "2026-06-02T10:13:32.893Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28216,7 +28217,7 @@
     "squuid": "5be1a6b6-47dc-4077-b376-a8d2229ae26b",
     "name": "RTL Nord GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:47:49.906Z",
+    "controlDate": "2026-06-02T12:15:14.635Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -28310,7 +28311,7 @@
     "squuid": "5be1a6b6-c6c8-4398-bed5-90bd83e35104",
     "name": "RTL West GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T14:15:07.007Z",
+    "controlDate": "2026-06-02T12:22:41.945Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -29226,7 +29227,7 @@
     "name": "Rock Antenne Hamburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c420-4d02-ba7c-c4e87be91ddc",
-    "controlDate": "2025-12-11T15:23:29.833Z",
+    "controlDate": "2026-06-02T11:01:02.468Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -37154,7 +37155,7 @@
     "squuid": "5be1a6b6-70b0-48eb-8010-19756d476b0e",
     "name": "RT.15 GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:41:17.110Z",
+    "controlDate": "2026-06-02T11:48:21.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -51855,7 +51856,7 @@
     "squuid": "5be1a6b6-05c6-4179-a1c8-b801560b1815",
     "name": "rt1.media group GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:47:04.763Z",
+    "controlDate": "2026-06-02T11:55:25.721Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -53212,7 +53213,7 @@
     "squuid": "69396ee7-ec08-4cd9-8cc6-77385221e8e7",
     "name": "Rudolf Fuchs Verwaltungs SE",
     "state": "active",
-    "controlDate": "2026-01-05T11:09:07.272Z",
+    "controlDate": "2026-06-02T13:05:23.640Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -56710,7 +56711,7 @@
     "squuid": "5be1a6b6-6ea6-42b5-9674-9d85c813ccc9",
     "name": "RTL Radio Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:48:41.139Z",
+    "controlDate": "2026-06-02T12:18:33.449Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -61279,7 +61280,7 @@
     "squuid": "5ef20252-f1e5-4c11-aab8-a053eb601e8a",
     "name": "RM Radio Management Consultants GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:57:49.852Z",
+    "controlDate": "2026-06-02T10:32:30.809Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -70184,7 +70185,7 @@
     "squuid": "5ef20b87-f253-408a-a21e-6bc5d9c88be6",
     "name": "RNO-Beteiligungs Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:19:05.465Z",
+    "controlDate": "2026-06-02T10:48:07.731Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -75445,7 +75446,7 @@
     "squuid": "5be1a6b6-6486-4a28-9d02-2b02f103cc2f",
     "name": "rt1.digital broadcast GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:43:02.987Z",
+    "controlDate": "2026-06-02T11:52:26.233Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -77395,7 +77396,7 @@
     "squuid": "5be1a6b6-397d-4361-8635-4e42f797be3d",
     "name": "Rundfunk Berlin-Brandenburg (RBB)",
     "state": "active",
-    "controlDate": "2025-12-15T15:00:38.701Z",
+    "controlDate": "2026-06-02T13:42:44.081Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -81082,7 +81083,7 @@
     "squuid": "5be1a6b6-14da-496b-bc44-539f1cb09793",
     "name": "Ruhr-Nachrichten Verlag & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-11T16:29:28.952Z",
+    "controlDate": "2026-06-02T13:33:30.886Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -82077,7 +82078,7 @@
     "squuid": "62a899cb-9dec-4733-a708-869b1dac85b2",
     "name": "Rotativos del Mediterráneo, S.L.",
     "state": "active",
-    "controlDate": "2025-06-20T09:01:28.560Z",
+    "controlDate": "2026-06-02T11:35:21.587Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -82274,7 +82275,7 @@
     "squuid": "62a89adf-2e1b-418e-8e0c-a1bbaa34e758",
     "name": "Rundschau-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:25:52.837Z",
+    "controlDate": "2026-06-02T14:04:41.857Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -88649,7 +88650,7 @@
     "squuid": "5be1a6b6-6bb3-4d6e-97ab-81d991235520",
     "name": "RTL Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:05:38.535Z",
+    "controlDate": "2026-06-02T12:01:29.699Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -92468,7 +92469,7 @@
     "squuid": "5be1a6b6-beec-4245-a399-8749db1222f9",
     "name": "Robert Gessler GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-11T15:20:59.764Z",
+    "controlDate": "2026-06-02T10:54:35.642Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -95541,7 +95542,7 @@
     "squuid": "61978125-5ec4-4779-9c2e-80df374d2488",
     "name": "RM Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-16T14:39:53.866Z",
+    "controlDate": "2026-06-02T10:33:39.806Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -111574,6 +111575,7 @@
     "squuid": "680a0144-bfb1-4f60-b77b-650a857ad956",
     "name": "RNF Pro GmbH",
     "state": "active",
+    "controlDate": "2026-06-02T10:47:12.227Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -117371,7 +117373,7 @@
     "squuid": "5be1a6b6-5450-4125-9159-c95ea5cae0f4",
     "name": "Riesenbuhei Entertainment GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:38:50.634Z",
+    "controlDate": "2026-06-02T10:06:56.496Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -126097,12 +126099,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
       }
     ]
   },
@@ -130843,7 +130839,7 @@
     "squuid": "5be1a6b6-d215-4285-917b-c45b6439c541",
     "name": "Rundfunk-Holding Leverkusen GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-15T15:12:26.099Z",
+    "controlDate": "2026-06-02T13:55:34.088Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -132124,7 +132120,7 @@
     "squuid": "5be1a6b6-4470-4a13-b43b-b5e8bd1866f8",
     "name": "Rundfunk-Holding Rhein-Berg/Oberberg GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-15T15:16:53.535Z",
+    "controlDate": "2026-06-02T13:56:36.797Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -133296,7 +133292,7 @@
     "squuid": "5be1a6b6-9f94-40a5-97c6-edd4b995390c",
     "name": "RO.SA.NO GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-11T15:20:32.656Z",
+    "controlDate": "2026-06-02T10:53:04.889Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -137270,7 +137266,7 @@
     "squuid": "5be1a6b6-ee56-4897-bf52-58acf6bace34",
     "name": "RTV Broadcast & Content Management GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:08:06.863Z",
+    "controlDate": "2026-06-02T12:42:22.439Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143082,6 +143078,19 @@
     ]
   },
   {
+    "squuid": "6a1ed25e-d5a5-4d2a-801e-bc1a3e9929e8",
+    "name": "Rubens 9 GmbH",
+    "state": "active",
+    "controlDate": "2026-06-02T13:01:15.543Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "645ce95f-5481-44cb-82f5-5b9d35888d77",
     "name": "Rosendahl, Jutta",
     "state": "active",
@@ -144146,7 +144155,7 @@
     "squuid": "698def38-57fb-4e7e-99ba-657a4bf06e71",
     "name": "Rosint GmbH",
     "state": "active",
-    "controlDate": "2026-02-16T09:33:35.938Z",
+    "controlDate": "2026-06-02T11:32:56.978Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -145209,7 +145218,7 @@
     "squuid": "6666e797-77f8-49f8-8921-911e893e2d76",
     "name": "Risius Medien GmbH",
     "state": "active",
-    "controlDate": "2025-12-16T14:38:12.092Z",
+    "controlDate": "2026-06-02T10:11:52.137Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150119,7 +150128,7 @@
     "squuid": "5ede3ee1-e062-4d9a-a7a6-c0e3b1a840b8",
     "name": "Ruhfus Verlag Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:22:09.293Z",
+    "controlDate": "2026-06-02T13:28:01.841Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156935,7 +156944,7 @@
     "squuid": "67408fbf-f242-446f-b4d1-4ea9230d7d08",
     "name": "Rock World GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:36:48.223Z",
+    "controlDate": "2026-06-02T11:07:59.412Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -160677,7 +160686,7 @@
     "squuid": "5ecb9c58-873f-4a5f-bc2f-90050b1b2e35",
     "name": "Roland Ulmer GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:59:42.647Z",
+    "controlDate": "2026-06-02T11:13:10.077Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -168178,7 +168187,7 @@
     "squuid": "5ec4f82a-a536-4f36-8126-329a19ae9716",
     "name": "RNW Redaktionsnetz Westfalen Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:19:16.091Z",
+    "controlDate": "2026-06-02T10:51:37.471Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -171458,7 +171467,7 @@
     "name": "Ruhr24 GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5c5c4a82-8897-442c-a194-c9e656c2a047",
-    "controlDate": "2025-12-11T16:30:03.365Z",
+    "controlDate": "2026-06-02T13:35:19.252Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -173879,7 +173888,7 @@
     "squuid": "5efdf14b-bc87-48cf-9825-0c69d52030c8",
     "name": "RO.SA.NO Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:20:23.274Z",
+    "controlDate": "2026-06-02T10:52:57.867Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -180574,7 +180583,7 @@
     "squuid": "61e05012-9b09-4bd8-b9a7-58d6e6643527",
     "name": "Romance TV GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:01:26.230Z",
+    "controlDate": "2026-06-02T11:14:33.419Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -180833,7 +180842,7 @@
     "squuid": "5d36efd1-6b65-457f-b785-032685f2647e",
     "name": "Ringier AG",
     "state": "active",
-    "controlDate": "2025-12-11T14:39:41.251Z",
+    "controlDate": "2026-06-02T10:09:10.059Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -187424,7 +187433,7 @@
     "squuid": "5d372707-9dfe-4dc3-bc6b-e9f01d0120a1",
     "name": "Rodeg GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:40:46.402Z",
+    "controlDate": "2026-06-02T11:12:52.498Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191569,7 +191578,7 @@
     "squuid": "6925d8ab-7107-47fe-9214-672efc2447d3",
     "name": "Rudolf Fuchs SE & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-10T12:59:59.682Z",
+    "controlDate": "2026-06-02T13:05:14.880Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -193285,7 +193294,7 @@
     "squuid": "5c4061ad-23c1-4e19-9dcb-fd3b0874ef36",
     "name": "RUAG Ammotec Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:09:52.742Z",
+    "controlDate": "2026-06-02T12:44:43.839Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193448,7 +193457,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-da08-4482-8fe2-c57f97e47251",
-          "name": "Sky Cinema Highlights /+24"
+          "name": "Sky Cinema Blockbuster /+24"
         }
       },
       {
@@ -193466,7 +193475,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-fc82-4674-bb5a-65b43454575f",
-          "name": "Sky Cinema Family /+24"
+          "name": "Sky Cinema Feelgood /+24"
         }
       },
       {
@@ -193775,7 +193784,7 @@
     "squuid": "5c406278-07b5-494b-825e-b52ad2f4e6f9",
     "name": "RUAG Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:10:01.927Z",
+    "controlDate": "2026-06-02T12:44:54.846Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197585,7 +197594,7 @@
     "name": "Rock Antenne GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0",
-    "controlDate": "2026-05-11T11:29:42.843Z",
+    "controlDate": "2026-06-02T10:56:34.883Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200629,7 +200638,7 @@
     "squuid": "60b75905-73c5-4e38-81ff-e227ed1e321b",
     "name": "rkw Radio Königs Wusterhausen Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:42:23.320Z",
+    "controlDate": "2026-06-02T10:13:06.396Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202447,6 +202456,19 @@
     ]
   },
   {
+    "squuid": "6a1eb29f-a839-4b31-8ef9-772c38e8d5bc",
+    "name": "Brach, Susanne",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "6274cd04-836e-4e20-a886-95c00fdbd824",
     "name": "touricast GmbH",
     "state": "active",
@@ -202765,7 +202787,7 @@
     "squuid": "5c8912a2-774b-46c5-b429-a0590234b175",
     "name": "Rundfunkbeteiligungs- und Betriebsgesellschaft Blauen mbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:18:13.492Z",
+    "controlDate": "2026-06-02T14:01:20.155Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210086,7 +210108,7 @@
     "squuid": "5f0320d8-00b1-484b-aa84-8d11728b5cb7",
     "name": "Rock Antenne Hamburg Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:22:54.587Z",
+    "controlDate": "2026-06-02T11:02:22.428Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -211397,7 +211419,7 @@
     "squuid": "5f03225b-4983-4b1d-8d7f-c5d7315a7281",
     "name": "Rock Antenne Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:33:36.415Z",
+    "controlDate": "2026-06-02T11:03:26.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -219605,7 +219627,7 @@
     "squuid": "5f0327d5-3543-412e-87c3-4950ad8d3835",
     "name": "RTL2 Fernsehen Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:06:48.217Z",
+    "controlDate": "2026-06-02T12:39:10.146Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -223711,7 +223733,7 @@
     "squuid": "5ee242d4-d323-4171-a57a-5f57502eb5d0",
     "name": "Rotenburger Kreiszeitung Verlags-Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-16T14:42:20.904Z",
+    "controlDate": "2026-06-02T11:34:23.320Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -225802,7 +225824,7 @@
     "squuid": "5f032ce9-7acd-43dd-9212-f63c50fa600f",
     "name": "Ruhr24 Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:29:57.053Z",
+    "controlDate": "2026-06-02T13:35:14.433Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -228757,7 +228779,7 @@
     "squuid": "5be1a6b6-83ed-4c73-98a7-1ddc01209e8e",
     "name": "RTL interactive GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:15:13.456Z",
+    "controlDate": "2026-06-02T12:13:23.326Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229992,7 +230014,7 @@
     "squuid": "5be1a6b6-6eca-4e7a-bbbf-cc539e3ec75a",
     "name": "Rock Hard Verlags- und Handelsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:35:51.738Z",
+    "controlDate": "2026-06-02T11:06:34.234Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -231223,6 +231245,24 @@
         "held": {
           "squuid": "6961145f-76da-40d8-815c-540a0c5ecf86",
           "name": "www.herder.de"
+        }
+      },
+      {
+        "squuid": "6a1ec16c-c319-4f83-aba0-4781f843d6b3",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "5be1a6b1-3ff5-43ca-95f2-60406234df31",
+          "name": "G/Geschichte"
+        }
+      },
+      {
+        "squuid": "6a1ec1a4-669e-408b-b3ca-c13b40a7ff3f",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "635a3bf4-5455-46be-9b7c-4e248a0ff93c",
+          "name": "www.g-geschichte.de"
         }
       }
     ]
@@ -240720,7 +240760,7 @@
     "squuid": "5be1a6b6-0812-4100-b36e-793f33daf6b0",
     "name": "RP Digital GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:31:07.135Z",
+    "controlDate": "2026-06-02T11:43:14.494Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -246366,7 +246406,7 @@
     "squuid": "5be1a6b6-b278-460a-a1ef-4bf1799ebfbb",
     "name": "Roularta Media Group N.V.",
     "state": "active",
-    "controlDate": "2025-10-23T11:04:06.233Z",
+    "controlDate": "2026-06-02T11:36:22.415Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -246388,24 +246428,6 @@
         "held": {
           "squuid": "5be1a6b1-abb9-4b4c-ae01-82e5ccba2113",
           "name": "Frau im Leben"
-        }
-      },
-      {
-        "squuid": "62d569db-2aa7-423c-880b-708bc90b7389",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-3ff5-43ca-95f2-60406234df31",
-          "name": "G/Geschichte"
-        }
-      },
-      {
-        "squuid": "62d569f8-1d2a-4af4-85e3-a69ddf46767f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c0e9076-3845-42b1-a091-2aa4299a231f",
-          "name": "G/Geschichte Porträt"
         }
       },
       {
@@ -246442,15 +246464,6 @@
         "held": {
           "squuid": "6357cb5f-85fc-48d2-bbe2-74f8e12bfb37",
           "name": "www.frau-im-leben.com"
-        }
-      },
-      {
-        "squuid": "635a79e0-9c1d-4675-ad44-3d1e870f62ce",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "635a3bf4-5455-46be-9b7c-4e248a0ff93c",
-          "name": "www.g-geschichte.de"
         }
       },
       {
@@ -252125,7 +252138,7 @@
     "squuid": "5f3a571c-cc11-4286-9226-ae79c4798338",
     "name": "Rundfunk Meissner e. V. RFM",
     "state": "active",
-    "controlDate": "2020-08-17T10:09:29.067Z",
+    "controlDate": "2026-06-02T13:53:02.491Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254174,7 +254187,7 @@
     "squuid": "640b428f-b97d-4028-88bf-70947fd9c0dc",
     "name": "Rundschau Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:24:24.687Z",
+    "controlDate": "2026-06-02T14:04:02.107Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256578,7 +256591,7 @@
     "squuid": "690b1e2e-5991-4f37-a4f1-44363d26f442",
     "name": "Rudolf Fuchs Kapitalanlage-Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-11-25T11:41:36.483Z",
+    "controlDate": "2026-06-02T13:04:28.210Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -260889,7 +260902,7 @@
     "squuid": "5be1a6b6-2972-46c9-b678-af51f5c5579e",
     "name": "RUAG Holding AG",
     "state": "active",
-    "controlDate": "2025-12-11T16:10:08.467Z",
+    "controlDate": "2026-06-02T12:45:02.994Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -260935,7 +260948,7 @@
     "squuid": "694012a8-0c38-450a-8926-4c477f526370",
     "name": "RTL Audio Center Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:56:45.502Z",
+    "controlDate": "2026-06-02T11:58:18.578Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -266880,7 +266893,7 @@
     "squuid": "5f3a81c4-fd74-405b-94b6-d70c86a044e7",
     "name": "RTL Hessen GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T13:12:04.057Z",
+    "controlDate": "2026-06-02T12:08:56.211Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273278,7 +273291,7 @@
     "squuid": "5be1a6b6-e0ae-4887-b782-279cfa1f411d",
     "name": "RND RedaktionsNetzwerk Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:04:17.040Z",
+    "controlDate": "2026-06-02T10:42:51.015Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -276341,7 +276354,7 @@
     "name": "Rieser Zeitungs GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-931c-4185-ad34-43c3c92ee2a2",
-    "controlDate": "2025-12-11T14:39:13.768Z",
+    "controlDate": "2026-06-02T10:08:43.925Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280271,7 +280284,7 @@
     "squuid": "5be1a6b6-5cfa-40a5-9cf1-b864bd80d466",
     "name": "Rollercoaster Capital GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:59:53.693Z",
+    "controlDate": "2026-06-02T11:13:48.580Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -281203,7 +281216,7 @@
     "squuid": "6436a49a-9c79-46da-b7d8-edf6f7c20d64",
     "name": "Ruhr Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:22:30.645Z",
+    "controlDate": "2026-06-02T13:28:29.225Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287287,7 +287300,7 @@
     "squuid": "5be1a6b6-3231-4761-8840-07f5e6961add",
     "name": "Rocks Media Verlag e.K.",
     "state": "active",
-    "controlDate": "2025-12-11T15:39:55.155Z",
+    "controlDate": "2026-06-02T11:09:21.749Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -287346,7 +287359,7 @@
     "squuid": "5be1a6b6-1609-4967-9522-eeaa4f6a7d40",
     "name": "Rotary Verlags GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T16:02:29.769Z",
+    "controlDate": "2026-06-02T11:33:18.627Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298520,7 +298533,7 @@
     "squuid": "5cd43baf-4aec-453b-9df1-3e7fcffd6929",
     "name": "RND Berlin GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:04:04.745Z",
+    "controlDate": "2026-06-02T10:42:39.923Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298811,7 +298824,7 @@
     "squuid": "5f16d8fc-4b3e-4583-bddc-0dea712f2c0b",
     "name": "Rundfunk-Holding Leverkusen Verwaltungs- und Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:12:16.426Z",
+    "controlDate": "2026-06-02T13:54:13.907Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299008,7 +299021,7 @@
     "squuid": "5f96d06c-5990-4fac-bbe7-d4677d5d0018",
     "name": "RMNradio GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T15:00:09.196Z",
+    "controlDate": "2026-06-02T10:39:04.326Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301160,7 +301173,7 @@
     "squuid": "5cda7c06-ddde-49ca-abf3-e191216338c3",
     "name": "RT/Raiffeisen Touristik Group GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T12:41:50.548Z",
+    "controlDate": "2026-06-02T11:50:30.784Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -303216,7 +303229,7 @@
     "squuid": "68de6a87-02d2-4068-989d-cae776ea8273",
     "name": "RTL Radio-Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-15T14:10:07.701Z",
+    "controlDate": "2026-06-02T12:20:15.243Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -303861,7 +303874,7 @@
     "squuid": "5f18143a-d0e1-464a-a7a1-4b5f6050441b",
     "name": "Rundfunk-Holding Rhein-Berg/Oberberg GmbH",
     "state": "active",
-    "controlDate": "2025-12-15T15:16:46.577Z",
+    "controlDate": "2026-06-02T13:57:36.917Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
