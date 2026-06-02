@@ -2872,7 +2872,7 @@ digraph {
     type=shareholder
     state=active
     label="Adolf Deil GmbH & Co KG Druckerei und Verlag der Pirmasenser Zeitung"
-    num_owners=29
+    num_owners=34
     num_owners_weighted=1.0000
     num_medias=3
     num_medias_weighted=3.0000
@@ -13399,7 +13399,7 @@ digraph {
     num_owners=13
     num_owners_weighted=13.0000
     num_medias=122
-    num_medias_weighted=11.9870
+    num_medias_weighted=11.9863
     name="5be1a6b6-5b2e-4f62-a1f7-425546d7d953"
     in_degree=13
     out_degree=1
@@ -19663,7 +19663,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=2.8528
+    num_medias_weighted=2.8527
     name="5eb94536-2508-414c-92f7-84ef9387b667"
     in_degree=0
     out_degree=2
@@ -23047,7 +23047,7 @@ digraph {
     num_owners=5
     num_owners_weighted=5.0000
     num_medias=122
-    num_medias_weighted=5.4099
+    num_medias_weighted=5.4096
     name="5be1a6b6-5736-4379-870e-7dc77444bbfc"
     in_degree=5
     out_degree=1
@@ -31756,8 +31756,8 @@ digraph {
     type=print
     state=active
     label="Die Rheinpfalz"
-    num_owners=28
-    num_owners_weighted=21.0442
+    num_owners=33
+    num_owners_weighted=26.0442
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7f1e-4962-b035-51f650aa1237"
@@ -31768,8 +31768,8 @@ digraph {
     type=print
     state=active
     label="Die Rheinpfalz am Sonntag"
-    num_owners=28
-    num_owners_weighted=21.0442
+    num_owners=33
+    num_owners_weighted=26.0442
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b333-4c30-ad3d-7c9a31a14d08"
@@ -34708,8 +34708,8 @@ digraph {
     type=shareholder
     state=active
     label="dpa Deutsche Presse Agentur GmbH"
-    num_owners=815
-    num_owners_weighted=63.1080
+    num_owners=820
+    num_owners_weighted=63.1535
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-d7c9-45c5-99de-2acb723d2e72"
@@ -35323,7 +35323,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=1.8178
+    num_medias_weighted=1.8177
     name="5be1a6b6-206a-4a13-9a42-56d19481cd9a"
     in_degree=0
     out_degree=3
@@ -35335,7 +35335,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=1.8178
+    num_medias_weighted=1.8177
     name="5be1a6b6-ddc7-4c0f-82e0-c16879053470"
     in_degree=0
     out_degree=3
@@ -35359,7 +35359,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=1.8178
+    num_medias_weighted=1.8177
     name="5be1a6b6-cf56-4ecd-b343-773da1ff1377"
     in_degree=0
     out_degree=3
@@ -35371,7 +35371,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=1.8178
+    num_medias_weighted=1.8177
     name="5be1a6b6-ac93-4e9b-baf9-c26cb3022992"
     in_degree=0
     out_degree=3
@@ -37123,7 +37123,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=2.8528
+    num_medias_weighted=2.8527
     name="5be1a6b6-db90-4f35-9fcc-0dc84fd45c89"
     in_degree=0
     out_degree=2
@@ -37135,7 +37135,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=2.8528
+    num_medias_weighted=2.8527
     name="5be1a6b6-8c00-4ef2-920c-a00bc203976c"
     in_degree=0
     out_degree=2
@@ -37147,7 +37147,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=2.8528
+    num_medias_weighted=2.8527
     name="5be1a6b6-eccb-4b73-9405-9e26af621f84"
     in_degree=0
     out_degree=2
@@ -56131,7 +56131,7 @@ digraph {
     num_owners=41
     num_owners_weighted=2.8385
     num_medias=122
-    num_medias_weighted=3.3437
+    num_medias_weighted=3.3436
     name="5be1a6b6-ff67-4dcc-b8b6-874d94ac176f"
     in_degree=12
     out_degree=4
@@ -60258,11 +60258,11 @@ digraph {
     label="Halin, Fiona"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=10
+    num_medias_weighted=0.0352
     name="6a0f06fb-4c14-486d-8d4f-1cd848592804"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5022 [
     type=shareholder
@@ -60270,11 +60270,11 @@ digraph {
     label="Halin, Philip"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=10
+    num_medias_weighted=0.0352
     name="6a0f0711-590f-4bcc-8d57-614fd41f369a"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5023 [
     type=print
@@ -85362,11 +85362,11 @@ digraph {
     label="Lenk, Vinzent"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=10
+    num_medias_weighted=0.0352
     name="6a0f06e2-f122-4856-96f2-147f7f9fe9f3"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7114 [
     type=shareholder
@@ -95131,7 +95131,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=2.6491
+    num_medias_weighted=2.6490
     name="5be1a6b6-7f92-453c-9df0-f6e66b013ed5"
     in_degree=0
     out_degree=1
@@ -100866,11 +100866,11 @@ digraph {
     label="Nagel, Marcel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=10
+    num_medias_weighted=0.1409
     name="6a0f086a-f4ae-473d-b24e-e94d969d34a3"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8406 [
     type=shareholder
@@ -100890,11 +100890,11 @@ digraph {
     label="Nagel, Vanessa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=10
+    num_medias_weighted=0.1409
     name="6a0f0879-8293-4b8e-8b2e-7cecf274e0a9"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   8408 [
     type=shareholder
@@ -103468,8 +103468,8 @@ digraph {
     type=shareholder
     state=active
     label="news aktuell GmbH"
-    num_owners=816
-    num_owners_weighted=64.1080
+    num_owners=821
+    num_owners_weighted=64.1535
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-30b2-40ee-b6d6-ee42532cd80b"
@@ -111616,7 +111616,7 @@ digraph {
     type=print
     state=active
     label="Pirmasenser Zeitung"
-    num_owners=30
+    num_owners=35
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -111628,7 +111628,7 @@ digraph {
     type=print
     state=active
     label="Pirmasenser Zeitung am Sonntag"
-    num_owners=30
+    num_owners=35
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -111640,8 +111640,8 @@ digraph {
     type=shareholder
     state=active
     label="Pirmasenser Zeitung Verwaltungs-GmbH"
-    num_owners=28
-    num_owners_weighted=21.0442
+    num_owners=33
+    num_owners_weighted=26.0442
     num_medias=3
     num_medias_weighted=0.0000
     name="5ec3c73e-0a98-4966-a84c-0a92c508001c"
@@ -113884,8 +113884,8 @@ digraph {
     type=shareholder
     state=active
     label="Prisma-Verlag GmbH & Co. KG"
-    num_owners=558
-    num_owners_weighted=41.5255
+    num_owners=563
+    num_owners_weighted=41.6590
     num_medias=1
     num_medias_weighted=1.0000
     name="621cc626-22eb-44c9-b383-2237d947b390"
@@ -124963,7 +124963,7 @@ digraph {
     num_owners=41
     num_owners_weighted=2.0696
     num_medias=122
-    num_medias_weighted=19.1409
+    num_medias_weighted=19.1390
     name="5be1a6b6-25ea-44da-8834-b9ab2a407a4d"
     in_degree=8
     out_degree=10
@@ -124975,7 +124975,7 @@ digraph {
     num_owners=41
     num_owners_weighted=15.1796
     num_medias=122
-    num_medias_weighted=14.8277
+    num_medias_weighted=14.8264
     name="5be1a6b6-4061-47cb-94a3-bca00300d22a"
     in_degree=1
     out_degree=20
@@ -125092,12 +125092,12 @@ digraph {
     type=shareholder
     state=active
     label="Rheinpfalz Verlag und Druckerei GmbH & Co KG"
-    num_owners=27
-    num_owners_weighted=20.0442
+    num_owners=32
+    num_owners_weighted=25.0442
     num_medias=10
     num_medias_weighted=7.0449
     name="5be1a6b6-b0cb-4887-968f-e1c3d68f02ae"
-    in_degree=21
+    in_degree=26
     out_degree=10
   ];
   10425 [
@@ -145975,7 +145975,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=0.8391
+    num_medias_weighted=0.8390
     name="5be1a6b6-7542-46d8-8a07-3a174444016a"
     in_degree=0
     out_degree=1
@@ -145987,7 +145987,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=0.2218
+    num_medias_weighted=0.2217
     name="5be1a6b6-c6b9-4c69-856c-10885bf0698c"
     in_degree=0
     out_degree=1
@@ -145999,7 +145999,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=122
-    num_medias_weighted=0.8391
+    num_medias_weighted=0.8390
     name="5be1a6b6-3bbf-4e70-bef7-1b6e0e7b7f99"
     in_degree=0
     out_degree=1
@@ -166831,7 +166831,7 @@ digraph {
     num_owners=5
     num_owners_weighted=4.0000
     num_medias=122
-    num_medias_weighted=11.4113
+    num_medias_weighted=11.4107
     name="5be1a6b6-02f9-4c3c-bcd7-bc0823545469"
     in_degree=5
     out_degree=1
@@ -189772,8 +189772,8 @@ digraph {
     type=online
     state=active
     label="www.leo-online.de"
-    num_owners=28
-    num_owners_weighted=21.0442
+    num_owners=33
+    num_owners_weighted=26.0442
     num_medias=0
     num_medias_weighted=0.0000
     name="676021b0-2ec4-4e99-a6a1-c9b3db972d0b"
@@ -193948,8 +193948,8 @@ digraph {
     type=online
     state=active
     label="www.newsaktuell.de"
-    num_owners=817
-    num_owners_weighted=65.1080
+    num_owners=822
+    num_owners_weighted=65.1535
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-fbae-45c7-8b1a-fa1c47537195"
@@ -196048,7 +196048,7 @@ digraph {
     type=online
     state=active
     label="www.pirmasenser-zeitung.de"
-    num_owners=30
+    num_owners=35
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -196372,8 +196372,8 @@ digraph {
     type=online
     state=active
     label="www.presseportal.de"
-    num_owners=817
-    num_owners_weighted=65.1080
+    num_owners=822
+    num_owners_weighted=65.1535
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1c70-45b8-801f-12ab479876af"
@@ -196492,8 +196492,8 @@ digraph {
     type=online
     state=active
     label="www.prisma.de"
-    num_owners=559
-    num_owners_weighted=42.5255
+    num_owners=564
+    num_owners_weighted=42.6590
     num_medias=0
     num_medias_weighted=0.0000
     name="621cc65c-a16c-410d-81a9-97c6dd615279"
@@ -199516,8 +199516,8 @@ digraph {
     type=online
     state=active
     label="www.rheinpfalz.de"
-    num_owners=28
-    num_owners_weighted=21.0442
+    num_owners=33
+    num_owners_weighted=26.0442
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4773-4d96-b9a4-929ca8b9373c"
@@ -234693,6 +234693,14 @@ digraph {
     weight=100
     type=operates
   ];
+  5021 -> 10424 [
+    weight=1
+    type=owns
+  ];
+  5022 -> 10424 [
+    weight=1
+    type=owns
+  ];
   5024 -> 703 [
     weight=4
     type=owns
@@ -243141,6 +243149,10 @@ digraph {
     weight=3.47
     type=owns
   ];
+  7113 -> 10424 [
+    weight=1
+    type=owns
+  ];
   7114 -> 14067 [
     weight=33.33
     type=owns
@@ -249353,12 +249365,20 @@ digraph {
     weight=52
     type=owns
   ];
+  8405 -> 10424 [
+    weight=2
+    type=owns
+  ];
   8406 -> 7736 [
     weight=5.12
     type=owns
   ];
   8406 -> 10424 [
     weight=5.12
+    type=owns
+  ];
+  8407 -> 10424 [
+    weight=2
     type=owns
   ];
   8409 -> 6135 [
@@ -259294,7 +259314,7 @@ digraph {
     type=owns
   ];
   10414 -> 4677 [
-    weight=12.2
+    weight=12.18
     type=owns
   ];
   10414 -> 6769 [

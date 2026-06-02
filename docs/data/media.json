@@ -2187,7 +2187,7 @@
     "rfStatewide": false,
     "name": "Neuß-Grevenbroicher Zeitung",
     "type": "print",
-    "controlDate": "2025-12-11T13:54:56.905Z",
+    "controlDate": "2026-06-02T09:03:24.521Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2207,7 +2207,7 @@
     "rfStatewide": false,
     "name": "Solinger Morgenpost",
     "type": "print",
-    "controlDate": "2025-12-11T13:55:21.634Z",
+    "controlDate": "2026-06-02T09:03:45.664Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2227,7 +2227,7 @@
     "rfStatewide": false,
     "name": "Bergische Morgenpost",
     "type": "print",
-    "controlDate": "2025-12-11T13:54:28.847Z",
+    "controlDate": "2026-06-02T09:03:03.961Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -36502,7 +36502,7 @@
     "name": "www.solinger-morgenpost.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T13:58:27.059Z",
+    "controlDate": "2026-06-02T09:05:56.021Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72660,7 +72660,7 @@
     "rfStatewide": false,
     "name": "Die Rheinpfalz",
     "type": "print",
-    "controlDate": "2025-12-11T14:14:30.037Z",
+    "controlDate": "2026-06-02T09:57:25.001Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72701,7 +72701,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-11T14:15:22.059Z",
+    "controlDate": "2026-06-02T09:59:10.286Z",
     "state": "active"
   },
   {
@@ -88469,7 +88469,7 @@
     "rfStatewide": false,
     "name": "mein Rheinland",
     "type": "print",
-    "controlDate": "2025-12-11T13:57:28.658Z",
+    "controlDate": "2026-06-02T09:04:28.769Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88490,7 +88490,7 @@
     "rfStatewide": false,
     "name": "Wirtschaft in Nordrhein-Westfalen",
     "type": "print",
-    "controlDate": "2025-12-11T13:55:43.425Z",
+    "controlDate": "2026-06-02T09:04:13.983Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -88511,7 +88511,7 @@
     "rfStatewide": false,
     "name": "Rheinische Post",
     "type": "print",
-    "controlDate": "2025-12-11T13:55:06.364Z",
+    "controlDate": "2026-06-02T09:03:35.312Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -100451,7 +100451,7 @@
     "rfStatewide": false,
     "name": "MAINfeeling",
     "type": "print",
-    "controlDate": "2026-02-03T12:15:16.391Z",
+    "controlDate": "2026-06-02T09:19:53.186Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104986,7 +104986,7 @@
     "name": "www.bergische-morgenpost.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T13:57:42.260Z",
+    "controlDate": "2026-06-02T09:05:09.745Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -106433,7 +106433,7 @@
     "name": "www.neuss-grevenbroicher-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T13:58:02.503Z",
+    "controlDate": "2026-06-02T09:05:33.344Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -107171,7 +107171,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-11T13:58:18.243Z",
+    "controlDate": "2026-06-02T09:05:47.107Z",
     "state": "active"
   },
   {
@@ -107377,7 +107377,7 @@
     "name": "www.top-magazin-duesseldorf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T13:58:37.336Z",
+    "controlDate": "2026-06-02T09:06:06.711Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -120656,7 +120656,7 @@
     "rfStatewide": false,
     "name": "Die Rheinpfalz am Sonntag",
     "type": "print",
-    "controlDate": "2025-12-11T14:14:45.648Z",
+    "controlDate": "2026-06-02T09:58:49.239Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127682,7 +127682,7 @@
     "name": "Rhön-Spiegel",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-11T14:38:13.044Z",
+    "controlDate": "2026-06-02T10:02:02.965Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -129532,7 +129532,7 @@
     "name": "www.leo-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T14:15:12.747Z",
+    "controlDate": "2026-06-02T09:59:00.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137475,7 +137475,7 @@
     "name": "RheinMainMedia (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-02-05T09:37:03.655Z",
+    "controlDate": "2026-06-02T09:20:01.626Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149499,7 +149499,7 @@
     "name": "Der Sonntag (Düsseldorf)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-11T13:54:44.172Z",
+    "controlDate": "2026-06-02T09:03:16.128Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149697,7 +149697,7 @@
     "name": "www.radio-rheinwelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-11T14:34:38.403Z",
+    "controlDate": "2026-06-02T10:00:38.974Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156589,7 +156589,7 @@
     "name": "Top Magazin Düsseldorf",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-11T13:55:32.341Z",
+    "controlDate": "2026-06-02T09:04:00.583Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

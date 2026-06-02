@@ -726,6 +726,7 @@
     "squuid": "6a0aff14-0e90-4f71-954e-4f13e294a1a4",
     "name": "Thomann GmbH",
     "state": "active",
+    "controlDate": "2026-06-02T08:45:27.954Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11263,7 +11264,7 @@
     "squuid": "5be1a6b6-4061-47cb-94a3-bca00300d22a",
     "name": "Rheinische Post Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T13:53:45.719Z",
+    "controlDate": "2026-06-02T09:02:33.101Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -31165,7 +31166,7 @@
     "name": "Rheinland-Pfälzische Rundfunk GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6bb7-4199-8b08-f060dbb3b080",
-    "controlDate": "2025-12-11T14:00:55.428Z",
+    "controlDate": "2026-06-02T09:15:11.345Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -57113,7 +57114,7 @@
     "squuid": "5be1a6b6-e2af-4c23-bb5d-2a957fb06149",
     "name": "Rheinische Anzeigenblatt GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-11T12:41:40.067Z",
+    "controlDate": "2026-06-02T08:59:12.320Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -91917,7 +91918,7 @@
     "squuid": "5be1a6b6-774d-4617-892c-8376636517d1",
     "name": "Rieck Medien GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-16T14:36:15.630Z",
+    "controlDate": "2026-06-02T10:04:13.176Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -94503,7 +94504,7 @@
     "squuid": "5be1a6b6-ea73-40a7-ba5c-20b4724bee39",
     "name": "Rheinisch-Westfälische Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T12:40:53.283Z",
+    "controlDate": "2026-06-02T08:56:05.221Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -97002,7 +97003,7 @@
     "squuid": "5be1a6b6-25ea-44da-8834-b9ab2a407a4d",
     "name": "Rheinische Post Mediengruppe GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T12:47:26.418Z",
+    "controlDate": "2026-06-02T09:00:58.916Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -106794,7 +106795,7 @@
     "squuid": "5ef45fe6-e02b-4369-a59b-0da091660770",
     "name": "Rheinland-Pfälzische Rundfunkbetriebsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:00:45.897Z",
+    "controlDate": "2026-06-02T09:13:02.973Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -122118,7 +122119,7 @@
     "squuid": "5df2596a-3ad1-4c69-bb80-8faf681aa8bb",
     "name": "Rheinpfalz Verlag und Druckerei Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:08:45.608Z",
+    "controlDate": "2026-06-02T09:32:15.782Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -133459,9 +133460,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -133524,9 +133524,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -133954,9 +133953,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -134117,9 +134115,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -134189,9 +134186,8 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -180267,7 +180263,7 @@
     "squuid": "63d12d1c-a950-4f5e-8209-6ff7f632992d",
     "name": "Rheinische Anzeigenblatt GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T12:41:14.945Z",
+    "controlDate": "2026-06-02T08:58:12.785Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210746,7 +210742,7 @@
     "squuid": "5be1a6b6-908b-4a55-8cc7-a955e0f52671",
     "name": "Richard und Willy Martin GbR Vermögensverwaltung",
     "state": "active",
-    "controlDate": "2025-12-11T14:38:35.589Z",
+    "controlDate": "2026-06-02T10:02:49.300Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214497,7 +214493,7 @@
     "squuid": "64006e6c-f499-4112-bbd9-d3f4258be3c3",
     "name": "Rheinisch-Bergische Anzeigenblatt Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T12:40:29.955Z",
+    "controlDate": "2026-06-02T08:53:45.150Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -227193,7 +227189,7 @@
     "name": "Rheinpfalz Verlag und Druckerei GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-b0cb-4887-968f-e1c3d68f02ae",
-    "controlDate": "2025-12-11T14:14:09.439Z",
+    "controlDate": "2026-06-02T09:32:36.474Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254444,7 +254440,7 @@
     "squuid": "5be1a6b6-34e1-407c-92e9-da1d1fd0e17e",
     "name": "Rhön Med-Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-11T14:36:36.872Z",
+    "controlDate": "2026-06-02T10:02:32.601Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282833,7 +282829,7 @@
     "squuid": "5be1a6b6-5324-4076-8f76-aa41e651b6b3",
     "name": "RheinMainMedia GmbH",
     "state": "active",
-    "controlDate": "2026-02-05T09:36:55.685Z",
+    "controlDate": "2026-06-02T09:18:14.614Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
