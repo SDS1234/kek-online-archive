@@ -7725,7 +7725,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="5be1a6b6-c54b-4406-bde3-230c746b3f1f"
-    in_degree=6
+    in_degree=7
     out_degree=1
   ];
   644 [
@@ -116188,8 +116188,8 @@ digraph {
     type=radio
     state=active
     label="Radio 95.5 Charivari"
-    num_owners=55
-    num_owners_weighted=5.6758
+    num_owners=58
+    num_owners_weighted=7.9258
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5523-4f93-8324-f81db687338d"
@@ -116814,11 +116814,11 @@ digraph {
     label="Radio Bremen"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=11
+    num_medias=13
     num_medias_weighted=11.0000
     name="5be1a6b6-93ba-4cb0-81ce-65261bd2f196"
     in_degree=1
-    out_degree=11
+    out_degree=12
   ];
   9735 [
     type=tv
@@ -116884,13 +116884,13 @@ digraph {
     type=shareholder
     state=active
     label="Radio Charivari GmbH & Co. KG"
-    num_owners=54
-    num_owners_weighted=4.6758
+    num_owners=58
+    num_owners_weighted=6.9258
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-629f-4f77-8297-f5d0290fd4da"
     in_degree=4
-    out_degree=2
+    out_degree=3
   ];
   9741 [
     type=radio
@@ -116944,12 +116944,12 @@ digraph {
     type=shareholder
     state=active
     label="Radio Charivari Verwaltungs-GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=58
+    num_owners_weighted=7.9258
     num_medias=2
     num_medias_weighted=0.0000
     name="6913106c-d347-4299-96eb-36db845a5269"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   9746 [
@@ -177196,8 +177196,8 @@ digraph {
     type=online
     state=active
     label="www.charivari.de"
-    num_owners=55
-    num_owners_weighted=5.6758
+    num_owners=58
+    num_owners_weighted=7.9258
     num_medias=0
     num_medias_weighted=0.0000
     name="5f844359-17e6-4f54-ab5f-7a2658f5f912"
@@ -256493,6 +256493,10 @@ digraph {
     weight=100
     type=operates
   ];
+  9734 -> 643 [
+    weight=1.24
+    type=owns
+  ];
   9734 -> 1642 [
     weight=100
     type=operates
@@ -256544,6 +256548,10 @@ digraph {
   9738 -> 14711 [
     weight=100
     type=operates
+  ];
+  9740 -> 9745 [
+    weight=100
+    type=owns
   ];
   9740 -> 9682 [
     weight=100
