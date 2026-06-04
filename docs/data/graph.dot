@@ -4901,7 +4901,7 @@ digraph {
     state=active
     label=AlternativeFM
     num_owners=362
-    num_owners_weighted=9.1006
+    num_owners_weighted=8.1006
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e1ce-4595-b881-91b27164fc94"
@@ -31649,7 +31649,7 @@ digraph {
     state=active
     label="die neue welle"
     num_owners=362
-    num_owners_weighted=9.1006
+    num_owners_weighted=8.1006
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-b409-4e38-9294-ded14da5fbb5"
@@ -93413,7 +93413,7 @@ digraph {
     state=active
     label="Medienhaus Südwest Verwaltungs-GmbH"
     num_owners=369
-    num_owners_weighted=7.1998
+    num_owners_weighted=6.8665
     num_medias=1
     num_medias_weighted=0.0000
     name="611a2a6a-1cd6-4581-af9e-c2f913aa7453"
@@ -118313,7 +118313,7 @@ digraph {
     state=active
     label="Radio Hochfelln Rundfunk-Programmanbieter-Gesellschaft mbH"
     num_owners=51
-    num_owners_weighted=11.8534
+    num_owners_weighted=11.8552
     num_medias=4
     num_medias_weighted=0.2225
     name="5ca74dbc-986a-4419-8abb-912c04846271"
@@ -118529,7 +118529,7 @@ digraph {
     state=active
     label="Radio Karlsruhe GmbH & Co. KG"
     num_owners=361
-    num_owners_weighted=8.1006
+    num_owners_weighted=7.1006
     num_medias=5
     num_medias_weighted=4.3333
     name="5be1a6b6-db3d-4f4f-813b-126e135cf064"
@@ -118647,6 +118647,18 @@ digraph {
   9887 [
     type=shareholder
     state=active
+    label="Radio L 12 GmbH & Co. KG"
+    num_owners=520
+    num_owners_weighted=17.6617
+    num_medias=2
+    num_medias_weighted=2.0000
+    name="5be1a6b6-7bbf-407e-8496-2a066492e027"
+    in_degree=4
+    out_degree=3
+  ];
+  9888 [
+    type=shareholder
+    state=active
     label="Radio L 12 Verwaltung GmbH"
     num_owners=520
     num_owners_weighted=18.6617
@@ -118655,18 +118667,6 @@ digraph {
     name="5efcaba3-bf44-4a82-a1e9-9a8294ba7128"
     in_degree=1
     out_degree=1
-  ];
-  9888 [
-    type=shareholder
-    state=active
-    label="Radio L12 GmbH & Co. KG"
-    num_owners=520
-    num_owners_weighted=17.6617
-    num_medias=2
-    num_medias_weighted=2.0000
-    name="5be1a6b6-7bbf-407e-8496-2a066492e027"
-    in_degree=4
-    out_degree=3
   ];
   9889 [
     type=radio
@@ -118996,8 +118996,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Minden-Lübbecke GmbH"
-    num_owners=26
-    num_owners_weighted=18.7779
+    num_owners=28
+    num_owners_weighted=19.7379
     num_medias=2
     num_medias_weighted=0.0000
     name="5f16ea09-f838-4e83-9781-a140740296c3"
@@ -119008,8 +119008,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Minden-Lübbecke GmbH & Co. KG"
-    num_owners=26
-    num_owners_weighted=17.7779
+    num_owners=28
+    num_owners_weighted=14.3779
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-1d3f-41b8-adb3-87fcb17f51e2"
@@ -120880,8 +120880,8 @@ digraph {
     type=radio
     state=active
     label="Radio Westfalica"
-    num_owners=26
-    num_owners_weighted=18.7779
+    num_owners=28
+    num_owners_weighted=19.7379
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-007f-43ce-9470-a17653f3ed9e"
@@ -172985,7 +172985,7 @@ digraph {
     state=active
     label="www.alternativefm.de"
     num_owners=362
-    num_owners_weighted=9.1006
+    num_owners_weighted=8.1006
     num_medias=0
     num_medias_weighted=0.0000
     name="5f36759f-e9dc-4b52-88ba-45b6a339855b"
@@ -179081,7 +179081,7 @@ digraph {
     state=active
     label="www.die-neue-welle.de"
     num_owners=362
-    num_owners_weighted=9.1006
+    num_owners_weighted=8.1006
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3e5c25-1c0d-4b67-803e-445bc5477ecb"
@@ -214185,7 +214185,7 @@ digraph {
     weight=22.5
     type=owns
   ];
-  556 -> 9888 [
+  556 -> 9887 [
     weight=15
     type=owns
   ];
@@ -256990,20 +256990,20 @@ digraph {
     type=operates
   ];
   9887 -> 9888 [
-    weight=1
+    weight=100
     type=owns
+  ];
+  9887 -> 2635 [
+    weight=100
+    type=operates
+  ];
+  9887 -> 14929 [
+    weight=100
+    type=operates
   ];
   9888 -> 9887 [
-    weight=100
+    weight=1
     type=owns
-  ];
-  9888 -> 2635 [
-    weight=100
-    type=operates
-  ];
-  9888 -> 14929 [
-    weight=100
-    type=operates
   ];
   9895 -> 9896 [
     weight=1
@@ -261133,7 +261133,7 @@ digraph {
     weight=32
     type=owns
   ];
-  10649 -> 9888 [
+  10649 -> 9887 [
     weight=58.3
     type=owns
   ];
@@ -268637,7 +268637,7 @@ digraph {
     weight=8.63
     type=owns
   ];
-  12391 -> 9888 [
+  12391 -> 9887 [
     weight=26.7
     type=owns
   ];
