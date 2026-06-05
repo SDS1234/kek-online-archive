@@ -120844,8 +120844,8 @@ digraph {
     type=radio
     state=active
     label="Radio Wellenrausch"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="66bdf24b-c3b4-4f52-847c-3d9bf591454d"
@@ -120856,8 +120856,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Wellenrausch GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="66bdf279-af02-496a-b611-ab29ffa89a12"
@@ -197356,8 +197356,8 @@ digraph {
     type=online
     state=active
     label="www.radio-wellenrausch.de"
-    num_owners=6
-    num_owners_weighted=6.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="68669bba-f826-4206-91e8-eb3c6fb71aed"
