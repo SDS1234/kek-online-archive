@@ -388,8 +388,8 @@ digraph {
     type=shareholder
     state=active
     label="107.8 Antenne AC Rundfunkbetriebsgesellschaft mbH & Co. KG"
-    num_owners=71
-    num_owners_weighted=10.0476
+    num_owners=70
+    num_owners_weighted=9.6076
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-4d01-454e-b4e2-6e293a5c2a46"
@@ -400,8 +400,8 @@ digraph {
     type=shareholder
     state=active
     label="107.8 Antenne AC Rundfunkverwaltungsgesellschaft mbH"
-    num_owners=71
-    num_owners_weighted=11.0476
+    num_owners=70
+    num_owners_weighted=10.6076
     num_medias=2
     num_medias_weighted=0.0000
     name="5f105862-cf51-49ec-9aeb-b426023adbac"
@@ -6124,8 +6124,8 @@ digraph {
     type=radio
     state=active
     label="antenne 1"
-    num_owners=310
-    num_owners_weighted=18.5224
+    num_owners=313
+    num_owners_weighted=18.7779
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5861-44ad-a288-4f23c297e6c8"
@@ -6136,8 +6136,8 @@ digraph {
     type=radio
     state=active
     label="Antenne 1 Neckarburg Rock und Pop"
-    num_owners=314
-    num_owners_weighted=18.1191
+    num_owners=317
+    num_owners_weighted=18.1765
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-a2a1-4377-8423-8dc1d045d82b"
@@ -6184,8 +6184,8 @@ digraph {
     type=radio
     state=active
     label="Antenne AC"
-    num_owners=71
-    num_owners_weighted=11.0476
+    num_owners=70
+    num_owners_weighted=10.6076
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4c3a-43bf-a078-ee39dfec2ebf"
@@ -6676,8 +6676,8 @@ digraph {
     type=shareholder
     state=active
     label="ANTENNE RADIO GmbH & Co. KG"
-    num_owners=309
-    num_owners_weighted=17.5224
+    num_owners=312
+    num_owners_weighted=17.7779
     num_medias=16
     num_medias_weighted=2.8481
     name="5be1a6b6-d66b-47be-bf76-e515dd9367d8"
@@ -6688,8 +6688,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Radio-Verwaltungsgesellschaft mbH"
-    num_owners=308
-    num_owners_weighted=16.5224
+    num_owners=311
+    num_owners_weighted=16.7779
     num_medias=16
     num_medias_weighted=0.0000
     name="5ef21049-234a-498b-b709-7199ff6d9a03"
@@ -8500,7 +8500,7 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest GmbH & Co. KG"
-    num_owners=959
+    num_owners=948
     num_owners_weighted=1.0000
     num_medias=7
     num_medias_weighted=7.0000
@@ -8512,8 +8512,8 @@ digraph {
     type=shareholder
     state=active
     label="Audiotainment Südwest Verwaltungs-GmbH"
-    num_owners=958
-    num_owners_weighted=19.7317
+    num_owners=947
+    num_owners_weighted=19.4883
     num_medias=7
     num_medias_weighted=0.0000
     name="6059f9d1-7500-4287-be63-5ed896c0498b"
@@ -15928,8 +15928,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg GmbH & Co. KG"
-    num_owners=889
-    num_owners_weighted=17.6331
+    num_owners=878
+    num_owners_weighted=17.0819
     num_medias=7
     num_medias_weighted=1.3300
     name="66fd2eb7-3324-4b3c-bc5d-6b986f5223db"
@@ -15940,8 +15940,8 @@ digraph {
     type=shareholder
     state=active
     label="big FM in Baden-Württemberg Verwaltungs GmbH"
-    num_owners=889
-    num_owners_weighted=18.6331
+    num_owners=878
+    num_owners_weighted=18.0819
     num_medias=7
     num_medias_weighted=0.0000
     name="5ef1ed58-47c9-46ec-97ce-e4fc086cce25"
@@ -16048,7 +16048,7 @@ digraph {
     type=radio
     state=active
     label="bigFM Saarland"
-    num_owners=961
+    num_owners=950
     num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -25228,8 +25228,8 @@ digraph {
     type=radio
     state=active
     label="Classic Rock Radio"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-8eab-4582-b9a8-b8125bce6453"
@@ -25240,8 +25240,8 @@ digraph {
     type=radio
     state=active
     label="CLASSIC ROCK RADIO Best of Rock"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e6a0-fae6-4092-8d9a-8c70c8f7ca0c"
@@ -25252,8 +25252,8 @@ digraph {
     type=radio
     state=active
     label="CLASSIC ROCK RADIO Hard & Heavy"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e61e-4ac5-4bab-b673-f8851debfe65"
@@ -31624,8 +31624,8 @@ digraph {
     type=radio
     state=active
     label="DIE NEUE 107.7"
-    num_owners=520
-    num_owners_weighted=18.6617
+    num_owners=523
+    num_owners_weighted=18.7000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6d8e-43be-b7af-0aac5993d5f8"
@@ -87388,8 +87388,8 @@ digraph {
     type=shareholder
     state=active
     label="Lokalradio Ostwürttemberg GmbH & Co. KG"
-    num_owners=389
-    num_owners_weighted=18.5124
+    num_owners=392
+    num_owners_weighted=18.5206
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-9649-4d0b-807c-a566dc68dff2"
@@ -87748,8 +87748,8 @@ digraph {
     type=shareholder
     state=active
     label="LRM LokalRadio Mannheim GmbH"
-    num_owners=292
-    num_owners_weighted=27.3026
+    num_owners=278
+    num_owners_weighted=26.5170
     num_medias=1
     num_medias_weighted=1.0000
     name="5be1a6b6-f71b-4dda-9c18-b54ae82b981b"
@@ -118648,8 +118648,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio L 12 GmbH & Co. KG"
-    num_owners=520
-    num_owners_weighted=17.6617
+    num_owners=523
+    num_owners_weighted=17.7000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-7bbf-407e-8496-2a066492e027"
@@ -118660,8 +118660,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio L 12 Verwaltung GmbH"
-    num_owners=520
-    num_owners_weighted=18.6617
+    num_owners=523
+    num_owners_weighted=18.7000
     num_medias=2
     num_medias_weighted=0.0000
     name="5efcaba3-bf44-4a82-a1e9-9a8294ba7128"
@@ -119758,7 +119758,7 @@ digraph {
     num_medias_weighted=4.0000
     name="5be1a6b6-6382-4b37-add7-02aa2074b051"
     in_degree=1
-    out_degree=4
+    out_degree=5
   ];
   9980 [
     type=radio
@@ -119836,8 +119836,8 @@ digraph {
     type=radio
     state=active
     label="Radio Regenbogen (Mannheim)"
-    num_owners=292
-    num_owners_weighted=27.3026
+    num_owners=278
+    num_owners_weighted=26.5170
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-0406-49b0-91ee-c09c6d5809a3"
@@ -119872,8 +119872,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden Geschäftsführungs-GmbH"
-    num_owners=292
-    num_owners_weighted=27.3026
+    num_owners=278
+    num_owners_weighted=26.5170
     num_medias=9
     num_medias_weighted=0.0000
     name="5ef1f2a2-c1d0-4ab9-9672-daa7b297b23f"
@@ -119884,8 +119884,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio Regenbogen Hörfunk in Baden GmbH & Co. KG"
-    num_owners=292
-    num_owners_weighted=26.3026
+    num_owners=278
+    num_owners_weighted=25.5170
     num_medias=9
     num_medias_weighted=2.0000
     name="5be1a6b6-715e-45d7-b1a9-cbd5588640e3"
@@ -119992,8 +119992,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio RT 4 GmbH & Co. Programm- und Beteiligungsgesellschaft KG"
-    num_owners=190
-    num_owners_weighted=1.0000
+    num_owners=193
+    num_owners_weighted=2.0000
     num_medias=16
     num_medias_weighted=0.7277
     name="5c98ece2-cbcf-4b69-b373-0f1117ff5746"
@@ -120004,8 +120004,8 @@ digraph {
     type=shareholder
     state=active
     label="RADIO RT 4 Programm- und Lizenzgesellschaft - Regionaler Hörfunk - GmbH & Co. OHG"
-    num_owners=213
-    num_owners_weighted=7.4376
+    num_owners=216
+    num_owners_weighted=8.1676
     num_medias=16
     num_medias_weighted=0.9969
     name="5be1a6b6-9b4d-477d-a78f-afbcd4c7dee1"
@@ -120016,8 +120016,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio RT 4 Verwaltungs-GmbH"
-    num_owners=189
-    num_owners_weighted=13.9342
+    num_owners=191
+    num_owners_weighted=15.9342
     num_medias=16
     num_medias_weighted=0.0000
     name="5ef314c8-cb90-4e80-83ba-bb85608e5223"
@@ -120124,8 +120124,8 @@ digraph {
     type=radio
     state=active
     label="Radio Salü"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5148-45c8-94e7-63d27350e1f4"
@@ -120136,8 +120136,8 @@ digraph {
     type=shareholder
     state=active
     label="RADIO SALÜ - Euro-Radio Saar GmbH"
-    num_owners=58
-    num_owners_weighted=9.2873
+    num_owners=57
+    num_owners_weighted=8.2873
     num_medias=11
     num_medias_weighted=9.8800
     name="5be1a6b6-c416-473b-9edc-b68307c0e478"
@@ -120148,8 +120148,8 @@ digraph {
     type=radio
     state=active
     label="RADIO SALÜ 90er"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="6870ddd0-ad10-463c-9b88-3a0e5d7d2dbb"
@@ -120160,8 +120160,8 @@ digraph {
     type=radio
     state=active
     label="RADIO SALÜ Chill Out Only"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e536-906c-4569-a714-a023884e8073"
@@ -120172,8 +120172,8 @@ digraph {
     type=radio
     state=active
     label="RADIO SALÜ Die 2000er"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="6870e4a5-5e7a-4cf6-9ced-e63cb134ad86"
@@ -120580,8 +120580,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio TON - Regional Hörfunk Verwaltungs-GmbH"
-    num_owners=389
-    num_owners_weighted=18.5124
+    num_owners=392
+    num_owners_weighted=18.5206
     num_medias=10
     num_medias_weighted=0.0000
     name="5ef20ebc-67af-4f78-92a2-fd1a90028ca4"
@@ -120592,8 +120592,8 @@ digraph {
     type=radio
     state=active
     label="Radio Ton Heilbronn/Franken"
-    num_owners=389
-    num_owners_weighted=18.5124
+    num_owners=392
+    num_owners_weighted=18.5206
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4996-4d05-a0bd-906ab36cb294"
@@ -120604,8 +120604,8 @@ digraph {
     type=radio
     state=active
     label="Radio Ton Ostwürttemberg"
-    num_owners=390
-    num_owners_weighted=19.5124
+    num_owners=393
+    num_owners_weighted=19.5206
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4105-49da-aae8-4b571c789e16"
@@ -120628,8 +120628,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio TON-Regional Hörfunk GmbH & Co. KG"
-    num_owners=389
-    num_owners_weighted=17.5124
+    num_owners=392
+    num_owners_weighted=17.5206
     num_medias=10
     num_medias_weighted=3.0000
     name="5be1a6b6-0d7b-4370-af24-f6e3d1f182f7"
@@ -122872,8 +122872,8 @@ digraph {
     type=radio
     state=active
     label="Regenbogen 2"
-    num_owners=293
-    num_owners_weighted=28.3026
+    num_owners=279
+    num_owners_weighted=27.5170
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-59f0-4a74-893e-57e588483f7d"
@@ -125980,8 +125980,8 @@ digraph {
     type=shareholder
     state=active
     label="RNB Radio Neckarburg GmbH"
-    num_owners=313
-    num_owners_weighted=17.1191
+    num_owners=316
+    num_owners_weighted=17.1765
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-bcd4-4862-8a1f-3e03ad0ed1e0"
@@ -135381,7 +135381,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0000
     name="6942b905-a342-4f8c-b61a-ff16b30f9139"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11282 [
@@ -139804,7 +139804,7 @@ digraph {
     type=shareholder
     state=active
     label="Skyline Medien Saarland GmbH"
-    num_owners=960
+    num_owners=949
     num_owners_weighted=2.0000
     num_medias=1
     num_medias_weighted=1.0000
@@ -173368,8 +173368,8 @@ digraph {
     type=online
     state=active
     label="www.antenne1-neckarburg.de"
-    num_owners=314
-    num_owners_weighted=18.1191
+    num_owners=317
+    num_owners_weighted=18.1765
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3d3034-1bee-4fbb-babc-13421b222221"
@@ -173380,8 +173380,8 @@ digraph {
     type=online
     state=active
     label="www.antenne1.de"
-    num_owners=310
-    num_owners_weighted=18.5224
+    num_owners=313
+    num_owners_weighted=18.7779
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3d2ab3-de5a-4d7f-8cbf-1d85dc1b5ef9"
@@ -173392,8 +173392,8 @@ digraph {
     type=online
     state=active
     label="www.antenneac.de"
-    num_owners=71
-    num_owners_weighted=11.0476
+    num_owners=70
+    num_owners_weighted=10.6076
     num_medias=0
     num_medias_weighted=0.0000
     name="5f10576b-fa43-48b7-9dfc-26b4682f322c"
@@ -175276,7 +175276,7 @@ digraph {
     type=online
     state=active
     label="www.bigfm.de"
-    num_owners=960
+    num_owners=949
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -177520,8 +177520,8 @@ digraph {
     type=online
     state=active
     label="www.classicrock-radio.de"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1ed9f8-a3ab-49f4-ba84-b97b17936fc6"
@@ -179152,8 +179152,8 @@ digraph {
     type=online
     state=active
     label="www.dieneue1077.de"
-    num_owners=520
-    num_owners_weighted=18.6617
+    num_owners=523
+    num_owners_weighted=18.7000
     num_medias=0
     num_medias_weighted=0.0000
     name="5efcab02-d2a1-46e3-9a84-0f9107263b74"
@@ -198508,8 +198508,8 @@ digraph {
     type=online
     state=active
     label="www.radioton.de"
-    num_owners=390
-    num_owners_weighted=19.5124
+    num_owners=393
+    num_owners_weighted=19.5206
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3e6197-7b6d-49ad-8398-9afe70f023cd"
@@ -198964,7 +198964,7 @@ digraph {
     type=online
     state=active
     label="www.regenbogen.de"
-    num_owners=960
+    num_owners=949
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199744,7 +199744,7 @@ digraph {
     type=online
     state=active
     label="www.rockfm.de"
-    num_owners=960
+    num_owners=949
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -199960,7 +199960,7 @@ digraph {
     type=online
     state=active
     label="www.rpr1.de"
-    num_owners=960
+    num_owners=949
     num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
@@ -200620,8 +200620,8 @@ digraph {
     type=online
     state=active
     label="www.salue.de"
-    num_owners=59
-    num_owners_weighted=10.2873
+    num_owners=58
+    num_owners_weighted=9.2873
     num_medias=0
     num_medias_weighted=0.0000
     name="5e874e46-4f72-4ba2-a233-8aa620ea997d"
@@ -257360,6 +257360,10 @@ digraph {
   9978 -> 9977 [
     weight=100
     type=operates
+  ];
+  9979 -> 11281 [
+    weight=100
+    type=owns
   ];
   9979 -> 11283 [
     weight=100
