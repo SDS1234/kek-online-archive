@@ -29680,8 +29680,8 @@ digraph {
     type=print
     state=active
     label="Der Trakehner"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-1ded-459c-b140-ef4873c7572d"
@@ -38070,8 +38070,8 @@ digraph {
     label="EGRO-Direktwerbung GmbH"
     num_owners=5
     num_owners_weighted=3.6000
-    num_medias=4
-    num_medias_weighted=2.1170
+    num_medias=3
+    num_medias_weighted=2.0585
     name="5be1a6b6-5043-4571-9285-522e3bbdf93d"
     in_degree=3
     out_degree=2
@@ -73050,11 +73050,11 @@ digraph {
     label="Johannsen, Stephan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=5
-    num_medias_weighted=2.5000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-0558-4454-aa20-f344448cc369"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6088 [
     type=shareholder
@@ -88650,8 +88650,8 @@ digraph {
     label="M von A & C GmbH"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=14
-    num_medias_weighted=8.6662
+    num_medias=13
+    num_medias_weighted=8.6282
     name="5f3a8df2-82f0-4e57-9b3d-d7e09c9233f4"
     in_degree=4
     out_degree=8
@@ -88854,8 +88854,8 @@ digraph {
     label="Maas, Alexander"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=14
-    num_medias_weighted=0.4333
+    num_medias=13
+    num_medias_weighted=0.4314
     name="5f688cf9-8eea-4b17-b828-8839bb7ecb3a"
     in_degree=0
     out_degree=1
@@ -88890,8 +88890,8 @@ digraph {
     label="Maas, Bernd"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=14
-    num_medias_weighted=4.0864
+    num_medias=13
+    num_medias_weighted=4.0762
     name="5f3a8e0a-1c0e-4b33-82ce-036d81535fb6"
     in_degree=0
     out_degree=2
@@ -88902,8 +88902,8 @@ digraph {
     label="Maas, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=14
-    num_medias_weighted=0.4333
+    num_medias=13
+    num_medias_weighted=0.4314
     name="5f688d11-95c0-4ea1-8d51-5335addbaf91"
     in_degree=0
     out_degree=1
@@ -88950,8 +88950,8 @@ digraph {
     label="Maas, Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=14
-    num_medias_weighted=3.2158
+    num_medias=13
+    num_medias_weighted=3.2055
     name="5f3a8e00-12e2-4e84-a495-a00040faa0f5"
     in_degree=0
     out_degree=2
@@ -110802,8 +110802,8 @@ digraph {
     label="Pfeil, Dirk"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.2656
+    num_medias=1
+    num_medias_weighted=0.1328
     name="5be1a6b6-7fff-462c-bee7-5455fc09ac54"
     in_degree=0
     out_degree=1
@@ -110848,8 +110848,8 @@ digraph {
     type=print
     state=active
     label="Pferd + Sport"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-396e-4a1a-a2b2-ae6c6dcc6d8b"
@@ -110872,8 +110872,8 @@ digraph {
     type=print
     state=active
     label="Pferdesport International"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d885-4866-ae7a-9e72d55cb7f2"
@@ -122176,8 +122176,8 @@ digraph {
     type=shareholder
     state=active
     label="RathmannVerlag GmbH"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=5
     num_medias_weighted=0.0000
     name="5ec269f8-ee1e-453b-a284-53d0e8a3c086"
@@ -122188,12 +122188,12 @@ digraph {
     type=shareholder
     state=active
     label="RathmannVerlag GmbH & Co KG"
-    num_owners=5
-    num_owners_weighted=4.0000
+    num_owners=4
+    num_owners_weighted=3.0000
     num_medias=5
     num_medias_weighted=5.0000
     name="5be1a6b6-c201-4eb6-8d6b-92f0b0e26a12"
-    in_degree=4
+    in_degree=3
     out_degree=6
   ];
   10183 [
@@ -124291,7 +124291,7 @@ digraph {
     num_owners=2
     num_owners_weighted=2.0000
     num_medias=96
-    num_medias_weighted=0.0171
+    num_medias_weighted=0.0214
     name="5be1a6b6-d8f4-4cf2-b351-c578675936d0"
     in_degree=2
     out_degree=2
@@ -124722,7 +124722,7 @@ digraph {
     label="Rhein-Main Ballungsraumfernsehen Verwaltungs GmbH"
     num_owners=11
     num_owners_weighted=6.2106
-    num_medias=2
+    num_medias=1
     num_medias_weighted=0.0000
     name="5f3a87f9-7774-4d25-81a0-c974612fa1c3"
     in_degree=1
@@ -124734,11 +124734,11 @@ digraph {
     label="Rhein-Main TV GmbH & Co. KG"
     num_owners=11
     num_owners_weighted=5.2106
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-d6d1-414a-912d-773b2d0ee4f2"
     in_degree=5
-    out_degree=3
+    out_degree=2
   ];
   10395 [
     type=shareholder
@@ -133794,8 +133794,8 @@ digraph {
     label="Schneider, Heinz-Reinhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=1.4468
+    num_medias=1
+    num_medias_weighted=0.7234
     name="5be1a6b6-be38-4817-b833-e1378ff4aeb5"
     in_degree=0
     out_degree=1
@@ -147786,8 +147786,8 @@ digraph {
     label="Streubesitz an der Rhein-Main TV GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1706
+    num_medias=1
+    num_medias_weighted=0.0853
     name="5be1a6b6-7be1-4aeb-8f47-01097b0038d6"
     in_degree=0
     out_degree=1
@@ -178708,8 +178708,8 @@ digraph {
     type=online
     state=active
     label="www.dertrakehner.de"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5ec26aa5-7948-4134-a36d-8c9730793ec9"
@@ -195976,8 +195976,8 @@ digraph {
     type=online
     state=active
     label="www.pferd-und-sport.de"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=4
+    num_owners_weighted=4.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6155d41a-f60f-458c-83cc-ed506e5f119b"
@@ -199514,14 +199514,14 @@ digraph {
   ];
   16626 [
     type=online
-    state=active
+    state=archived
     label="www.rheinmaintv.de"
-    num_owners=11
-    num_owners_weighted=6.2106
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f3a86f3-cb74-431f-984f-ce5ad9200b00"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16627 [
@@ -239573,10 +239573,6 @@ digraph {
     weight=1
     type=owns
   ];
-  6087 -> 10182 [
-    weight=50
-    type=owns
-  ];
   6088 -> 16776 [
     weight=100
     type=operates
@@ -259186,10 +259182,6 @@ digraph {
     type=owns
   ];
   10394 -> 10424 [
-    weight=100
-    type=operates
-  ];
-  10394 -> 16626 [
     weight=100
     type=operates
   ];
