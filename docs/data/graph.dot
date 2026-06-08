@@ -90855,6 +90855,18 @@ digraph {
   7571 [
     type=shareholder
     state=active
+    label="Martin, Dr. Thomas Andreas"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=9
+    num_medias_weighted=0.0109
+    name="5ef20398-88b0-4c30-a64f-6ea8ee3582aa"
+    in_degree=0
+    out_degree=1
+  ];
+  7572 [
+    type=shareholder
+    state=active
     label="Martin, Patrick"
     num_owners=0
     num_owners_weighted=0.0000
@@ -90864,7 +90876,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  7572 [
+  7573 [
     type=shareholder
     state=active
     label="Martin, Peter"
@@ -90876,7 +90888,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  7573 [
+  7574 [
     type=shareholder
     state=active
     label="Martin, Richard Gordon"
@@ -90888,7 +90900,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  7574 [
+  7575 [
     type=shareholder
     state=active
     label="Martin, Stephanie Blount"
@@ -90897,18 +90909,6 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0236
     name="68761c29-9466-42ef-8b33-7100e6578059"
-    in_degree=0
-    out_degree=1
-  ];
-  7575 [
-    type=shareholder
-    state=active
-    label="Martin, Thomas Andreas"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0109
-    name="5ef20398-88b0-4c30-a64f-6ea8ee3582aa"
     in_degree=0
     out_degree=1
   ];
@@ -128548,8 +128548,8 @@ digraph {
     type=shareholder
     state=active
     label="Rubens 1845 GmbH & Co KG"
-    num_owners=15
-    num_owners_weighted=6.1700
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=2
     num_medias_weighted=1.2000
     name="5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
@@ -128860,8 +128860,8 @@ digraph {
     type=shareholder
     state=active
     label="Ruhr24 GmbH & Co. KG"
-    num_owners=18
-    num_owners_weighted=6.9200
+    num_owners=19
+    num_owners_weighted=7.1200
     num_medias=1
     num_medias_weighted=1.0000
     name="5c5c4a82-8897-442c-a194-c9e656c2a047"
@@ -128872,8 +128872,8 @@ digraph {
     type=shareholder
     state=active
     label="Ruhr24 Verwaltungsgesellschaft mbH"
-    num_owners=17
-    num_owners_weighted=5.9200
+    num_owners=18
+    num_owners_weighted=6.1200
     num_medias=1
     num_medias_weighted=0.0000
     name="5f032ce9-7acd-43dd-9212-f63c50fa600f"
@@ -167872,8 +167872,8 @@ digraph {
     type=print
     state=active
     label="Westfälische Rundschau (Ausgaben Unna/Kamen)"
-    num_owners=62
-    num_owners_weighted=46.8582
+    num_owners=63
+    num_owners_weighted=47.6882
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-aedb-48de-9ec8-f7c8f6b4e1c1"
@@ -200284,8 +200284,8 @@ digraph {
     type=online
     state=active
     label="www.ruhr24.de"
-    num_owners=99
-    num_owners_weighted=18.6691
+    num_owners=100
+    num_owners_weighted=18.8691
     num_medias=0
     num_medias_weighted=0.0000
     name="5c6596c4-f22e-4a76-b48d-48691d2c312f"
@@ -211600,8 +211600,8 @@ digraph {
     type=shareholder
     state=active
     label="Zeitungsverlag Unna GmbH & Co KG"
-    num_owners=16
-    num_owners_weighted=7.1700
+    num_owners=17
+    num_owners_weighted=8.0000
     num_medias=2
     num_medias_weighted=1.2000
     name="5be1a6b6-cca4-4e6b-918b-dc69a860cd06"
@@ -245229,24 +245229,24 @@ digraph {
     weight=51
     type=owns
   ];
-  7572 -> 12954 [
+  7571 -> 9908 [
+    weight=4.76
+    type=owns
+  ];
+  7573 -> 12954 [
     weight=100
     type=owns
   ];
-  7573 -> 9908 [
+  7574 -> 9908 [
     weight=4.76
     type=owns
   ];
-  7573 -> 10434 [
+  7574 -> 10434 [
     weight=50
     type=owns
   ];
-  7574 -> 5896 [
+  7575 -> 5896 [
     weight=5.9
-    type=owns
-  ];
-  7575 -> 9908 [
-    weight=4.76
     type=owns
   ];
   7576 -> 8830 [
