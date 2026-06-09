@@ -4076,7 +4076,7 @@
     "rfStatewide": false,
     "name": "Sindelfinger Zeitung - Böblinger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-15T15:36:48.796Z",
+    "controlDate": "2026-06-09T07:51:24.622Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4099,7 +4099,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T15:37:04.170Z",
+    "controlDate": "2026-06-09T07:51:40.759Z",
     "state": "active"
   },
   {
@@ -9673,7 +9673,7 @@
     "rfStatewide": false,
     "name": "Salon",
     "type": "print",
-    "controlDate": "2025-12-17T11:24:49.972Z",
+    "controlDate": "2026-06-09T09:24:04.340Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14010,7 +14010,7 @@
     "rfStatewide": false,
     "name": "Katholische SonntagsZeitung",
     "type": "print",
-    "controlDate": "2025-12-17T11:31:25.198Z",
+    "controlDate": "2026-06-09T09:37:14.740Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14034,7 +14034,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T11:31:38.294Z",
+    "controlDate": "2026-06-09T09:37:31.307Z",
     "state": "active"
   },
   {
@@ -14049,7 +14049,7 @@
     "rfStatewide": false,
     "name": "Neue Bildpost",
     "type": "print",
-    "controlDate": "2025-12-17T11:31:32.379Z",
+    "controlDate": "2026-06-09T09:37:22.045Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15659,7 +15659,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T11:30:06.414Z",
+    "controlDate": "2026-06-09T09:34:41.295Z",
     "state": "active"
   },
   {
@@ -16736,7 +16736,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T11:39:14.561Z",
+    "controlDate": "2026-06-09T09:48:23.158Z",
     "state": "active"
   },
   {
@@ -16880,7 +16880,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-15T15:36:58.660Z",
+    "controlDate": "2026-06-09T07:51:32.410Z",
     "state": "active"
   },
   {
@@ -26698,7 +26698,7 @@
     "name": "www.salve.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:26:35.297Z",
+    "controlDate": "2026-06-09T09:29:33.811Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37347,7 +37347,7 @@
     "name": "PiG",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-15T15:34:12.094Z",
+    "controlDate": "2026-06-09T07:47:46.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41889,7 +41889,7 @@
     "name": "www.salon-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:24:58.295Z",
+    "controlDate": "2026-06-09T09:24:13.546Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43458,7 +43458,7 @@
     "name": "www.saulustig.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:36:32.225Z",
+    "controlDate": "2026-06-09T09:46:04.303Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44025,7 +44025,7 @@
     "name": "www.sachsen-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:19:14.957Z",
+    "controlDate": "2026-06-09T09:00:15.124Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45531,7 +45531,7 @@
     "name": "www.wochenspiegellive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:41:00.048Z",
+    "controlDate": "2026-06-09T08:30:12.010Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -53271,7 +53271,7 @@
     "name": "www.riesa-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:40:08.514Z",
+    "controlDate": "2026-06-09T09:52:49.894Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -62610,7 +62610,7 @@
     "name": "www.sr.de/sr/fernsehen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:20:28.419Z",
+    "controlDate": "2026-06-09T08:56:41.390Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72640,7 +72640,7 @@
     "rfStatewide": false,
     "name": "Pfälzischer Merkur",
     "type": "print",
-    "controlDate": "2025-12-17T09:14:32.450Z",
+    "controlDate": "2026-06-09T08:41:06.777Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88780,7 +88780,7 @@
     "rfStatewide": false,
     "name": "Saarbrücker Zeitung",
     "type": "print",
-    "controlDate": "2025-12-17T09:14:46.951Z",
+    "controlDate": "2026-06-09T08:41:17.888Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95252,7 +95252,7 @@
     "rfStatewide": false,
     "name": "Münchner Kirchenzeitung",
     "type": "print",
-    "controlDate": "2025-12-17T11:29:58.222Z",
+    "controlDate": "2026-06-09T09:34:48.217Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96233,7 +96233,7 @@
     "rfStatewide": false,
     "name": "Schaumburger Nachrichten",
     "type": "print",
-    "controlDate": "2025-12-17T12:03:11.491Z",
+    "controlDate": "2026-06-09T10:08:46.931Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -101854,7 +101854,7 @@
     "rfStatewide": false,
     "name": "WIRtschaft in Sachsen",
     "type": "print",
-    "controlDate": "2025-12-17T11:19:01.235Z",
+    "controlDate": "2026-06-09T09:00:03.525Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -102319,7 +102319,7 @@
     "rfStatewide": false,
     "name": "Sax - Das Dresdner Stadtmagazin",
     "type": "print",
-    "controlDate": "2025-12-17T11:38:35.963Z",
+    "controlDate": "2026-06-09T09:48:17.557Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112564,7 +112564,7 @@
     "rfStatewide": false,
     "name": "Sindelfinger Zeitung",
     "type": "print",
-    "controlDate": "2025-12-15T15:36:32.430Z",
+    "controlDate": "2026-06-09T07:51:09.286Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121283,7 +121283,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T09:15:03.798Z",
+    "controlDate": "2026-06-09T08:41:32.722Z",
     "state": "active"
   },
   {
@@ -121301,7 +121301,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T09:16:19.771Z",
+    "controlDate": "2026-06-09T08:41:39.027Z",
     "state": "active"
   },
   {
@@ -121737,7 +121737,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T12:03:23.794Z",
+    "controlDate": "2026-06-09T10:08:54.494Z",
     "state": "active"
   },
   {
@@ -126301,7 +126301,7 @@
     "name": "www.augusto-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:42:10.126Z",
+    "controlDate": "2026-06-09T09:54:00.074Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126713,7 +126713,7 @@
     "name": "www.sat1regional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:36:10.438Z",
+    "controlDate": "2026-06-09T09:43:22.651Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126944,7 +126944,7 @@
     "name": "www.wirtschaft-in-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:19:21.803Z",
+    "controlDate": "2026-06-09T09:00:23.039Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127151,7 +127151,7 @@
     "name": "www.top10berlin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:34:20.888Z",
+    "controlDate": "2026-06-09T09:40:12.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133549,7 +133549,7 @@
     "name": "www.dailydose.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T12:01:09.709Z",
+    "controlDate": "2026-06-09T10:06:47.887Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146860,7 +146860,7 @@
     "name": "www.osterland-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:19:08.599Z",
+    "controlDate": "2026-06-09T09:00:09.882Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148926,7 +148926,7 @@
     "name": "www.wochenspiegelonline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:16:40.363Z",
+    "controlDate": "2026-06-09T08:48:34.067Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149655,7 +149655,7 @@
     "name": "SN am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T12:03:01.234Z",
+    "controlDate": "2026-06-09T10:08:34.148Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150548,7 +150548,7 @@
     "name": "www.sw-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T11:46:11.818Z",
+    "controlDate": "2026-06-09T09:56:41.156Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150850,7 +150850,7 @@
     "name": "www.sr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:19:26.141Z",
+    "controlDate": "2026-06-09T08:56:23.788Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160396,7 +160396,7 @@
     "name": "www.fupa.net/region/saarland",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:14:56.404Z",
+    "controlDate": "2026-06-09T08:41:26.344Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163055,7 +163055,7 @@
     "name": "www.sr.de/sr/sr1",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:20:38.674Z",
+    "controlDate": "2026-06-09T08:56:54.490Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163225,7 +163225,7 @@
     "name": "www.sr.de/sr/srkultur",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:21:00.034Z",
+    "controlDate": "2026-06-09T08:57:14.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163447,7 +163447,7 @@
     "name": "www.sr.de/sr/sr3",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:20:49.897Z",
+    "controlDate": "2026-06-09T08:57:04.722Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163741,7 +163741,7 @@
     "name": "www.unserding.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:21:08.417Z",
+    "controlDate": "2026-06-09T08:57:21.097Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163977,7 +163977,7 @@
     "name": "www.sr.de/sr/antennesaar",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T09:20:19.711Z",
+    "controlDate": "2026-06-09T08:56:31.485Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
