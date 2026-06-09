@@ -2901,7 +2901,7 @@
     "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005",
     "name": "Schwarz Corporate Solutions KG",
     "state": "active",
-    "controlDate": "2026-01-23T10:15:16.097Z",
+    "controlDate": "2026-06-09T13:39:04.519Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -95176,7 +95176,7 @@
     "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7",
     "name": "Schwarzwälder Bote GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T10:30:36.227Z",
+    "controlDate": "2026-06-09T15:09:04.558Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -118473,7 +118473,7 @@
   },
   {
     "squuid": "5be1a6b6-97d4-4b0b-a9d7-d69883b7c36c",
-    "name": "Scheder-Bieschin, Lotte",
+    "name": "Aldinger, Lotte",
     "state": "active",
     "controlDate": "2019-06-12T12:13:43.274Z",
     "organizations": [
@@ -136329,7 +136329,7 @@
     "squuid": "5eaae72d-7956-46c0-9270-0f4afc1710f2",
     "name": "Schwarzwaldverlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-17T13:22:02.279Z",
+    "controlDate": "2026-06-09T13:46:07.269Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144061,7 +144061,7 @@
     "squuid": "698deefe-1af7-4537-b84a-92502f6012a2",
     "name": "Schwarz Unternehmenstreuhand KG",
     "state": "active",
-    "controlDate": "2026-02-16T10:28:12.494Z",
+    "controlDate": "2026-06-09T13:41:50.591Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -144563,7 +144563,7 @@
     "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17",
     "name": "Schwarz Beteiligungs-KG",
     "state": "active",
-    "controlDate": "2026-02-16T09:57:51.552Z",
+    "controlDate": "2026-06-09T13:37:42.013Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -147447,7 +147447,7 @@
     "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
     "name": "Schwarz Geschäftsführungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-02-24T15:06:22.059Z",
+    "controlDate": "2026-06-09T13:39:19.953Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -147713,7 +147713,7 @@
     "squuid": "68f22160-a307-415b-a32c-1822368b11ad",
     "name": "Schwarz New Ventures GmbH",
     "state": "active",
-    "controlDate": "2025-10-21T08:07:43.879Z",
+    "controlDate": "2026-06-09T13:39:39.001Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -169561,6 +169561,32 @@
     ]
   },
   {
+    "squuid": "6a282b3e-a118-49ac-82f3-bfa68bdec09d",
+    "name": "Baier, Verena",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a282bd5-fcfc-46ed-bb7e-bcd5765fe324",
+    "name": "Rebmann, Daria",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5ebbee4e-2d97-4e6d-babd-d49a129b8a64",
     "name": "Aenne Burda Verwaltungsgesellschaft mbH",
     "state": "archived",
@@ -169942,6 +169968,32 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a282c10-f951-4ea1-b348-c5c6c7271741",
+    "name": "Rebmann, Sibylle",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a282bf2-5f4d-48dd-8b70-c09375b55c53",
+    "name": "Rebmann, Erja",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
