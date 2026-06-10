@@ -26944,8 +26944,8 @@ digraph {
     type=shareholder
     state=active
     label="crossventures GmbH"
-    num_owners=4
-    num_owners_weighted=3.1000
+    num_owners=5
+    num_owners_weighted=3.9000
     num_medias=3
     num_medias_weighted=0.0011
     name="69259a5b-0699-4c53-984c-7c79781b93e0"
@@ -77527,7 +77527,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.4993
+    num_medias_weighted=0.6666
     name="6203f000-74be-4a9c-88d4-04095cb1b3b6"
     in_degree=0
     out_degree=1
@@ -132967,7 +132967,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.4993
+    num_medias_weighted=0.6666
     name="6203eff0-a275-4eeb-bd07-79652fff1db4"
     in_degree=0
     out_degree=1
@@ -139132,8 +139132,8 @@ digraph {
     type=shareholder
     state=active
     label="Sixt Management Holding GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=3
     num_medias_weighted=0.0009
     name="69396c38-731d-43e2-b04a-0334a792b810"
@@ -139327,7 +139327,7 @@ digraph {
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=2
-    num_medias_weighted=1.4980
+    num_medias_weighted=2.0000
     name="6203ee95-c681-470f-a9fe-25ea4c0335ba"
     in_degree=3
     out_degree=1
@@ -168991,7 +168991,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.4993
+    num_medias_weighted=0.6666
     name="6203efd8-1eec-478f-b651-7e58c8f346fe"
     in_degree=0
     out_degree=1
@@ -265810,7 +265810,7 @@ digraph {
     type=owns
   ];
   11610 -> 9131 [
-    weight=74.9
+    weight=100
     type=owns
   ];
   11624 -> 8467 [
