@@ -102861,7 +102861,7 @@ digraph {
     num_medias=17
     num_medias_weighted=1.0000
     name="5be1a6b6-f184-4a72-8a61-54849d3b524e"
-    in_degree=3
+    in_degree=2
     out_degree=2
   ];
   8572 [
@@ -168738,11 +168738,11 @@ digraph {
     label="Wilfurth, Dr. Konrad"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=17
-    num_medias_weighted=0.0675
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-4e87-4b0f-b339-95d4dcf3790a"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   14062 [
     type=shareholder
@@ -276660,10 +276660,6 @@ digraph {
   14060 -> 14059 [
     weight=100
     type=operates
-  ];
-  14061 -> 8571 [
-    weight=6.75
-    type=owns
   ];
   14062 -> 880 [
     weight=99.9
