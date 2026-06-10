@@ -3105,7 +3105,7 @@
     "rfStatewide": false,
     "name": "Schwarzwälder Bote (Ausgabe Kinzigtal)",
     "type": "print",
-    "controlDate": "2025-11-17T11:25:25.459Z",
+    "controlDate": "2026-06-10T09:56:54.775Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3170,7 +3170,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T13:44:56.887Z",
+    "controlDate": "2026-06-10T09:57:48.990Z",
     "state": "active"
   },
   {
@@ -3345,7 +3345,7 @@
     "rfStatewide": false,
     "name": "Hockenheimer Tageszeitung",
     "type": "print",
-    "controlDate": "2026-05-21T10:16:43.382Z",
+    "controlDate": "2026-06-10T10:13:44.261Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3442,7 +3442,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-21T10:24:57.506Z",
+    "controlDate": "2026-06-10T10:14:24.407Z",
     "state": "active"
   },
   {
@@ -3513,7 +3513,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Ravensburg)",
     "type": "print",
-    "controlDate": "2024-12-17T14:50:38.161Z",
+    "controlDate": "2026-06-10T10:50:15.237Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3560,7 +3560,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)",
     "type": "print",
-    "controlDate": "2025-12-17T14:43:05.852Z",
+    "controlDate": "2026-06-10T10:19:57.071Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3580,7 +3580,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Wangen)",
     "type": "print",
-    "controlDate": "2024-12-17T15:00:14.826Z",
+    "controlDate": "2026-06-10T10:54:44.391Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3600,7 +3600,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Friedrichshafen)",
     "type": "print",
-    "controlDate": "2025-12-17T15:16:36.174Z",
+    "controlDate": "2026-06-10T10:36:35.725Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3620,7 +3620,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Markdorf)",
     "type": "print",
-    "controlDate": "2025-12-17T15:19:02.898Z",
+    "controlDate": "2026-06-10T10:36:50.293Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3688,7 +3688,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Tettnang)",
     "type": "print",
-    "controlDate": "2024-12-17T14:58:26.104Z",
+    "controlDate": "2026-06-10T10:53:12.731Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3708,7 +3708,7 @@
     "rfStatewide": false,
     "name": "Lindauer Zeitung",
     "type": "print",
-    "controlDate": "2025-12-17T14:42:37.921Z",
+    "controlDate": "2026-06-10T10:44:47.404Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3728,7 +3728,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Bad Saulgau)",
     "type": "print",
-    "controlDate": "2025-12-17T14:42:51.468Z",
+    "controlDate": "2026-06-10T10:51:44.815Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3748,7 +3748,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Sigmaringen)",
     "type": "print",
-    "controlDate": "2026-05-21T08:31:41.277Z",
+    "controlDate": "2026-06-10T11:04:11.896Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3768,7 +3768,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Riedlingen)",
     "type": "print",
-    "controlDate": "2024-12-17T15:05:37.691Z",
+    "controlDate": "2026-06-10T11:03:57.236Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3788,7 +3788,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Biberach)",
     "type": "print",
-    "controlDate": "2025-12-17T15:15:17.865Z",
+    "controlDate": "2026-06-10T10:22:44.862Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3808,7 +3808,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Laupheim)",
     "type": "print",
-    "controlDate": "2025-12-17T15:17:49.596Z",
+    "controlDate": "2026-06-10T10:43:20.316Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3828,7 +3828,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Ehingen)",
     "type": "print",
-    "controlDate": "2025-12-17T15:15:55.024Z",
+    "controlDate": "2026-06-10T10:24:25.029Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3848,7 +3848,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Laichingen)",
     "type": "print",
-    "controlDate": "2025-12-17T15:17:16.046Z",
+    "controlDate": "2026-06-10T10:41:52.723Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3892,7 +3892,7 @@
     "rfStatewide": false,
     "name": "Gränzbote",
     "type": "print",
-    "controlDate": "2026-01-11T13:16:20.140Z",
+    "controlDate": "2026-06-10T11:02:08.181Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3912,7 +3912,7 @@
     "rfStatewide": false,
     "name": "Heuberger Bote",
     "type": "print",
-    "controlDate": "2026-01-11T13:16:36.695Z",
+    "controlDate": "2026-06-10T11:02:42.229Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3932,7 +3932,7 @@
     "rfStatewide": false,
     "name": "Trossinger Zeitung",
     "type": "print",
-    "controlDate": "2026-01-11T13:16:54.683Z",
+    "controlDate": "2026-06-10T11:05:09.405Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -3965,7 +3965,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-e306-4973-aa97-4ca405c5c61d",
     "organization": {
@@ -3985,7 +3985,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 312,
+    "pressPublishingIntervals": 365,
     "state": "active",
     "squuid": "5be1a6b1-c66f-4faa-bde9-bb2aa3dbc41c",
     "organization": {
@@ -3996,7 +3996,7 @@
     "rfStatewide": false,
     "name": "Ipf- und Jagst-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-05T09:23:23.493Z",
+    "controlDate": "2026-06-10T11:00:30.701Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4432,7 +4432,7 @@
     "rfStatewide": false,
     "name": "Südwest Presse/Neckar-Chronik",
     "type": "print",
-    "controlDate": "2025-12-17T15:35:05.210Z",
+    "controlDate": "2026-06-10T11:11:05.761Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -12848,7 +12848,7 @@
     "name": "Schwetzinger Zeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-21T10:20:03.316Z",
+    "controlDate": "2026-06-10T10:14:13.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13991,7 +13991,7 @@
     "name": "Hockenheimer Tageszeitung am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-21T10:16:55.049Z",
+    "controlDate": "2026-06-10T10:13:54.328Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -15081,7 +15081,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T08:59:24.432Z",
+    "controlDate": "2026-06-10T11:24:48.138Z",
     "state": "active"
   },
   {
@@ -19995,7 +19995,7 @@
     "rfStatewide": false,
     "name": "Family",
     "type": "print",
-    "controlDate": "2025-12-18T08:53:22.589Z",
+    "controlDate": "2026-06-10T11:20:02.169Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20016,7 +20016,7 @@
     "rfStatewide": false,
     "name": "Family next",
     "type": "print",
-    "controlDate": "2025-12-18T08:54:00.358Z",
+    "controlDate": "2026-06-10T11:20:27.983Z",
     "pressKind": "Eltern",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20037,7 +20037,7 @@
     "rfStatewide": false,
     "name": "Joyce",
     "type": "print",
-    "controlDate": "2025-12-18T08:54:44.034Z",
+    "controlDate": "2026-06-10T11:21:00.029Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20058,7 +20058,7 @@
     "rfStatewide": false,
     "name": "Movo",
     "type": "print",
-    "controlDate": "2025-12-18T08:55:23.752Z",
+    "controlDate": "2026-06-10T11:21:28.790Z",
     "pressKind": "Männer",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20079,7 +20079,7 @@
     "rfStatewide": false,
     "name": "Teensmag",
     "type": "print",
-    "controlDate": "2025-12-18T08:55:35.029Z",
+    "controlDate": "2026-06-10T11:21:39.109Z",
     "pressKind": "Jugend",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20100,7 +20100,7 @@
     "rfStatewide": false,
     "name": "Kläx",
     "type": "print",
-    "controlDate": "2025-12-18T08:54:55.627Z",
+    "controlDate": "2026-06-10T11:21:09.010Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20121,7 +20121,7 @@
     "rfStatewide": false,
     "name": "LebensLauf",
     "type": "print",
-    "controlDate": "2025-12-18T08:55:07.505Z",
+    "controlDate": "2026-06-10T11:21:18.716Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20174,7 +20174,7 @@
     "rfStatewide": false,
     "name": "lebenslust",
     "type": "print",
-    "controlDate": "2025-12-18T08:56:01.727Z",
+    "controlDate": "2026-06-10T11:22:01.827Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20195,7 +20195,7 @@
     "rfStatewide": false,
     "name": "Faszination Bibel",
     "type": "print",
-    "controlDate": "2025-12-18T08:54:15.716Z",
+    "controlDate": "2026-06-10T11:20:39.455Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20216,7 +20216,7 @@
     "rfStatewide": false,
     "name": "Dran ",
     "type": "print",
-    "controlDate": "2025-12-18T08:53:12.646Z",
+    "controlDate": "2026-06-10T11:19:55.330Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20240,7 +20240,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T08:56:11.672Z",
+    "controlDate": "2026-06-10T11:22:08.897Z",
     "state": "active"
   },
   {
@@ -22315,7 +22315,7 @@
     "rfStatewide": false,
     "name": "3E",
     "type": "print",
-    "controlDate": "2025-12-18T08:52:32.803Z",
+    "controlDate": "2026-06-10T11:19:32.146Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22336,7 +22336,7 @@
     "rfStatewide": false,
     "name": "Aufatmen",
     "type": "print",
-    "controlDate": "2025-12-18T08:52:41.631Z",
+    "controlDate": "2026-06-10T11:19:38.782Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24227,7 +24227,7 @@
     "name": "Hauskreismagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T08:54:27.730Z",
+    "controlDate": "2026-06-10T11:20:50.441Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29272,7 +29272,7 @@
     "name": "Family Fips",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T08:53:42.196Z",
+    "controlDate": "2026-06-10T11:20:18.768Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29292,7 +29292,7 @@
     "name": "Christ sein heute",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T08:52:50.471Z",
+    "controlDate": "2026-06-10T11:19:48.113Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37691,7 +37691,7 @@
     "name": "Business today",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T14:41:02.601Z",
+    "controlDate": "2026-06-10T11:01:16.180Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38658,7 +38658,7 @@
     "name": "Wirtschaft im Profil",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T15:35:39.545Z",
+    "controlDate": "2026-06-10T11:11:17.760Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82926,7 +82926,7 @@
     "name": "www.tagblatt-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T15:37:28.252Z",
+    "controlDate": "2026-06-10T11:11:29.304Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89028,7 +89028,7 @@
     "rfStatewide": false,
     "name": "Schwäbische Zeitung (Ausgabe Leutkirch)",
     "type": "print",
-    "controlDate": "2025-12-17T15:18:32.344Z",
+    "controlDate": "2026-06-10T10:48:40.442Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89048,7 +89048,7 @@
     "rfStatewide": false,
     "name": "Schwäbisches Tagblatt",
     "type": "print",
-    "controlDate": "2026-05-26T12:59:21.285Z",
+    "controlDate": "2026-06-10T11:10:48.511Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95126,7 +95126,7 @@
     "rfStatewide": false,
     "name": "Lion",
     "type": "print",
-    "controlDate": "2025-12-17T15:47:29.798Z",
+    "controlDate": "2026-06-10T11:17:57.991Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97596,7 +97596,7 @@
     "rfStatewide": false,
     "name": "Schwetzinger Zeitung",
     "type": "print",
-    "controlDate": "2026-05-21T10:19:27.925Z",
+    "controlDate": "2026-06-10T10:14:03.686Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98660,7 +98660,7 @@
     "rfStatewide": false,
     "name": "Zollern-Alb-Kurier",
     "type": "print",
-    "controlDate": "2026-04-29T09:23:04.789Z",
+    "controlDate": "2026-06-10T11:05:29.972Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -98828,7 +98828,7 @@
     "rfStatewide": false,
     "name": "Schwarzwälder Bote",
     "type": "print",
-    "controlDate": "2025-12-17T13:43:35.830Z",
+    "controlDate": "2026-06-10T09:56:10.384Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -104726,7 +104726,7 @@
     "rfStatewide": false,
     "name": "Lydia",
     "type": "print",
-    "controlDate": "2025-12-18T08:59:16.756Z",
+    "controlDate": "2026-06-10T11:24:40.193Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -110335,7 +110335,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-17T14:44:53.715Z",
+    "controlDate": "2026-06-10T11:06:19.199Z",
     "state": "active"
   },
   {
@@ -131557,7 +131557,7 @@
     "name": "Waldrausch",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T13:44:27.963Z",
+    "controlDate": "2026-06-10T09:57:14.439Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138333,7 +138333,7 @@
     "name": "aktiv",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T14:44:40.456Z",
+    "controlDate": "2026-06-10T11:06:01.270Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143254,7 +143254,7 @@
     "name": "www.srf.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T14:21:25.225Z",
+    "controlDate": "2026-06-10T10:10:31.750Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150621,7 +150621,7 @@
     "name": "Die Sonntagszeitung",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-17T13:43:14.635Z",
+    "controlDate": "2026-06-10T09:55:51.681Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155514,7 +155514,7 @@
     "name": "www.schwarzwaelder-bote-mediengruppe.de/wom.php",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T13:44:40.652Z",
+    "controlDate": "2026-06-10T09:57:36.140Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156082,7 +156082,7 @@
     "name": "www.radiogong.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T11:56:22.504Z",
+    "controlDate": "2026-06-10T10:05:03.671Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156156,7 +156156,7 @@
     "name": "www.radiohashtagplus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-09T16:44:21.785Z",
+    "controlDate": "2026-06-10T10:01:00.996Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157593,7 +157593,7 @@
     "pressKind": "Sport"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f96a229-cb65-41fa-b598-05cb0537b0f2",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157603,7 +157603,7 @@
     "name": "www.radioprimaton.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T12:05:45.178Z",
+    "controlDate": "2026-06-10T10:01:12.859Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160129,7 +160129,7 @@
     "name": "anders leben",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T08:55:45.173Z",
+    "controlDate": "2026-06-10T11:21:52.218Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162434,7 +162434,7 @@
     "name": "www.suedfinder.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-17T14:45:06.929Z",
+    "controlDate": "2026-06-10T11:06:39.719Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
