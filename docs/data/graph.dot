@@ -21066,11 +21066,11 @@ digraph {
     label="Bund der Steuerzahler in Bayern e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=16
-    num_medias_weighted=0.0511
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5c90fac3-abcf-41cf-98c5-233ac3dd5ec2"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1756 [
     type=shareholder
@@ -66249,7 +66249,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.1873
     name="6a048a1b-ec57-4d41-9136-984b353a2c9e"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   5521 [
@@ -66258,11 +66258,11 @@ digraph {
     label="Hoepfner Besser Wohnen Verwaltungs GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=4
     num_medias_weighted=0.0000
     name="6a180d2e-111c-4c67-83a6-ba72a7113943"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5522 [
     type=shareholder
@@ -103017,7 +103017,7 @@ digraph {
     num_medias=16
     num_medias_weighted=2.5555
     name="5be1a6b6-e7b4-4d33-a1f4-c4d87758fbef"
-    in_degree=2
+    in_degree=1
     out_degree=2
   ];
   8585 [
@@ -219965,10 +219965,6 @@ digraph {
     weight=100
     type=owns
   ];
-  1755 -> 8584 [
-    weight=2
-    type=owns
-  ];
   1756 -> 2454 [
     weight=100
     type=operates
@@ -236859,6 +236855,10 @@ digraph {
   ];
   5520 -> 5522 [
     weight=53.58
+    type=owns
+  ];
+  5521 -> 5520 [
+    weight=1
     type=owns
   ];
   5522 -> 871 [
