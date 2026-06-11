@@ -14582,6 +14582,19 @@
     ]
   },
   {
+    "squuid": "6a2a91b4-3ea3-4e77-b29f-ed83b18297f1",
+    "name": "Stadt Jena",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-dd39-47a5-94a5-fb1cbe300aed",
     "name": "Radio 5 Programm- und Werbegesellschaft mbH",
     "state": "active",
@@ -19503,6 +19516,19 @@
     ]
   },
   {
+    "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041",
+    "name": "Carl Zeiss-Siedlung GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-709c-44e5-9fe8-f06ea4da5af2",
     "name": "Druck und Verlag Hans Obermayer GmbH",
     "state": "active",
@@ -20453,7 +20479,7 @@
     "name": "Star FM GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-d6bc-4680-a37b-5bd97a65f4e0",
-    "controlDate": "2025-12-19T11:58:39.258Z",
+    "controlDate": "2026-06-11T11:34:54.183Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26216,7 +26242,7 @@
     "name": "STAR FM GmbH & Co. KG (Niederlassung Berlin)",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-fd71-4dcf-95ea-d597070a15e0",
-    "controlDate": "2025-12-19T12:01:16.606Z",
+    "controlDate": "2026-06-11T11:37:43.403Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -29188,7 +29214,7 @@
     "squuid": "60c35cae-2055-434d-9df5-6df478cf9b72",
     "name": "Springer Nature Management AG",
     "state": "active",
-    "controlDate": "2025-12-19T09:49:35.529Z",
+    "controlDate": "2026-06-11T10:18:39.098Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -49771,7 +49797,7 @@
     "squuid": "5be1a6b6-b5eb-453d-94dc-961e093c7c18",
     "name": "Stingray Digital International Ltd.",
     "state": "active",
-    "controlDate": "2026-01-05T11:58:04.236Z",
+    "controlDate": "2026-06-11T13:13:24.327Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79061,7 +79087,7 @@
     "squuid": "5be1a6b6-ff23-4b28-b464-b186ff05a914",
     "name": "State Street Global Advisors (US)",
     "state": "active",
-    "controlDate": "2025-12-19T12:02:00.878Z",
+    "controlDate": "2026-06-11T11:41:51.501Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -90125,7 +90151,7 @@
     "squuid": "5be1a6b6-5a59-42bc-9ea4-8899488115f8",
     "name": "Stingray Digital Group, Inc.",
     "state": "active",
-    "controlDate": "2026-01-05T11:57:52.927Z",
+    "controlDate": "2026-06-11T13:13:09.885Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -90562,7 +90588,7 @@
     "squuid": "5be1a6b6-68b2-44f7-87c3-473bf33a2a4d",
     "name": "Stadtwerke Bonn GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:33:22.537Z",
+    "controlDate": "2026-06-11T10:41:29.942Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -90617,7 +90643,7 @@
     "squuid": "5be1a6b6-44ec-414f-95f0-bc29beea5622",
     "name": "Stadtwerke Köln GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:32.919Z",
+    "controlDate": "2026-06-11T10:45:36.071Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96654,7 +96680,7 @@
     "squuid": "5be1a6b6-f526-4c2b-97dd-963ff9ac7d56",
     "name": "St. Benno Buch und Zeitschriften Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:01:49.309Z",
+    "controlDate": "2026-06-11T10:30:28.998Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96802,7 +96828,7 @@
     "squuid": "668e904f-3418-4481-a6e9-837e815a8fe9",
     "name": "Statista GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T12:02:28.380Z",
+    "controlDate": "2026-06-11T11:42:07.141Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -98341,7 +98367,7 @@
     "squuid": "5f33d494-490d-44b9-96df-fbd29247a8fc",
     "name": "SRF - Südthüringer Regionalfernsehen GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:01:04.971Z",
+    "controlDate": "2026-06-11T10:28:00.380Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -101026,7 +101052,7 @@
     "squuid": "5eb03cfa-1b7a-4248-b668-88f5c24aee10",
     "name": "Strecker GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:07:00.927Z",
+    "controlDate": "2026-06-11T13:21:26.071Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -120340,7 +120366,7 @@
     "squuid": "5d35b815-2fa7-4d21-8b5f-e76a69349f81",
     "name": "Standard Medien AG",
     "state": "active",
-    "controlDate": "2025-12-19T10:45:01.828Z",
+    "controlDate": "2026-06-11T10:50:20.945Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -120389,7 +120415,7 @@
     "squuid": "5d35b7fc-c7e9-4dc4-9fd5-342f7083e1b2",
     "name": "Standard Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:45:09.252Z",
+    "controlDate": "2026-06-11T10:50:28.988Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -129156,7 +129182,7 @@
     "squuid": "5be1a6b6-fd67-4240-8798-a58ac1c5eb79",
     "name": "Stadtwerke Bochum Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:33:15.217Z",
+    "controlDate": "2026-06-11T10:41:10.040Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -129237,7 +129263,7 @@
     "squuid": "5be1a6b6-4d99-439e-90aa-033d22bce542",
     "name": "Stadtwerke Borken/Westf. GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:33:28.904Z",
+    "controlDate": "2026-06-11T10:41:44.445Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -129396,7 +129422,7 @@
     "squuid": "5be1a6b6-5b08-4a73-b9f3-df7a6123502b",
     "name": "Stadtwerke Gelsenkirchen GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:09.505Z",
+    "controlDate": "2026-06-11T10:42:18.299Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -130161,7 +130187,7 @@
     "squuid": "5be1a6b6-8ba5-44fc-8005-8020be3bcc39",
     "name": "Stadtwerke Hamm GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:15.977Z",
+    "controlDate": "2026-06-11T10:42:25.491Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -131609,7 +131635,7 @@
     "squuid": "5be1a6b6-2170-4ff1-837c-ec9255c936b4",
     "name": "Stadtwerke Münster GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:46.167Z",
+    "controlDate": "2026-06-11T10:46:01.235Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -132471,7 +132497,7 @@
     "squuid": "5be1a6b6-047e-46b8-95c8-66ae3db08147",
     "name": "Stadtwerke Rheine GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:52.758Z",
+    "controlDate": "2026-06-11T10:46:15.695Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137618,7 +137644,7 @@
     "squuid": "5d35beb2-dd5f-4267-b78c-a1dec5e5a850",
     "name": "Steckenpferd Enterprises UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-06-25T09:42:33.953Z",
+    "controlDate": "2026-06-11T11:44:20.208Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139779,7 +139805,7 @@
     "squuid": "5be1a6b6-fc1b-4061-94c7-cf068169fce4",
     "name": "Schott Music GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-06-09T13:15:14.432Z",
+    "controlDate": "2026-06-11T13:23:56.424Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -143174,7 +143200,7 @@
     "squuid": "5ede0b18-f7ae-44d6-bde2-8f1300580d6e",
     "name": "Stein Consult GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:09:42.703Z",
+    "controlDate": "2026-06-11T11:48:47.300Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148733,7 +148759,7 @@
     "squuid": "627cfd3b-6996-4e8a-a122-cc6ad325c0d7",
     "name": "Stefan Hilscher Consulting GmbH",
     "state": "active",
-    "controlDate": "2025-06-25T09:47:51.469Z",
+    "controlDate": "2026-06-11T11:47:51.055Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150770,7 +150796,7 @@
     "squuid": "5d398207-cc1c-4fb0-8152-5f28ae95ff03",
     "name": "Straubing Tigers Beteiligungs UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2026-01-05T12:04:56.769Z",
+    "controlDate": "2026-06-11T13:18:49.931Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153539,7 +153565,7 @@
     "squuid": "5eeb6bb9-7b98-4b92-9235-53f76ae93224",
     "name": "SR Broadcast Management GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-19T09:56:27.181Z",
+    "controlDate": "2026-06-11T10:23:03.233Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -155230,7 +155256,7 @@
     "squuid": "5d39890e-bcdd-48b1-85cd-454a4ecdbe29",
     "name": "Stoffel Holding GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:03:06.630Z",
+    "controlDate": "2026-06-11T13:16:09.830Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156852,7 +156878,7 @@
     "squuid": "5d2f344f-9eba-4e5e-b3f2-28e0563c2818",
     "name": "Stadtwerke München GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:38.784Z",
+    "controlDate": "2026-06-11T10:45:47.941Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158148,7 +158174,7 @@
     "squuid": "5d3ae59d-b832-4477-93eb-3421c0f77b0b",
     "name": "State Street Corporation",
     "state": "active",
-    "controlDate": "2025-12-19T12:01:52.586Z",
+    "controlDate": "2026-06-11T11:41:19.809Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -161518,7 +161544,7 @@
     "squuid": "5edf6ecf-bbb7-47df-b574-50afcd04d6d4",
     "name": "Stadtmagazin Verlag Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:22:31.785Z",
+    "controlDate": "2026-06-11T10:39:36.194Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164593,6 +164619,7 @@
     "squuid": "69316ec2-35c7-471f-9093-4dac6a089e6f",
     "name": "Sternevent GmbH",
     "state": "active",
+    "controlDate": "2026-06-11T11:53:30.358Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -166076,7 +166103,7 @@
     "squuid": "5d302b9d-484e-4e3d-8629-6e995713a616",
     "name": "Stadtwerke Frankfurt am Main Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:03.809Z",
+    "controlDate": "2026-06-11T10:42:06.865Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -166179,7 +166206,7 @@
     "squuid": "6357f1bd-f791-4136-b57d-600d30e61fdd",
     "name": "Steger-Ohnesorge GbR",
     "state": "active",
-    "controlDate": "2026-05-29T08:28:41.306Z",
+    "controlDate": "2026-06-11T11:48:33.354Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183166,7 +183193,7 @@
     "squuid": "685bbd1d-3598-4b4d-ba35-12788af40818",
     "name": "Stadtmarketing Pößneck GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:28:45.560Z",
+    "controlDate": "2026-06-11T10:39:51.095Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -183199,7 +183226,7 @@
     "squuid": "685bbcd6-dab9-490e-a409-71843bb8a220",
     "name": "Stadtwerke Jena GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:34:26.473Z",
+    "controlDate": "2026-06-11T10:43:11.589Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189857,7 +189884,7 @@
     "squuid": "5efb014d-25a1-4255-8bb8-6138f8307e74",
     "name": "SR Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:54:19.633Z",
+    "controlDate": "2026-06-11T10:22:00.957Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -192202,7 +192229,7 @@
     "squuid": "5d382b46-6762-4913-82a0-0d0fe24409d9",
     "name": "Straubing Tigers GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T12:05:06.316Z",
+    "controlDate": "2026-06-11T13:20:11.019Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -199172,7 +199199,7 @@
     "squuid": "5f06f678-f6df-4a75-bccf-bb2ccec1a9bb",
     "name": "Straubing Tigers Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:05:42.195Z",
+    "controlDate": "2026-06-11T13:19:29.151Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -202390,7 +202417,7 @@
     "squuid": "5f7c8229-ae7e-417e-b586-287598cf78a2",
     "name": "Stadtwerke Energie Jena-Pößneck GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:33:57.943Z",
+    "controlDate": "2026-06-11T10:41:57.740Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -206407,7 +206434,7 @@
     "squuid": "5beed69e-60df-4fa6-b732-a79616af9282",
     "name": "Strecker Stiftung Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:07:17.170Z",
+    "controlDate": "2026-06-11T13:22:29.310Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -206824,7 +206851,7 @@
     "squuid": "5f905285-3715-460e-affd-dc041afaea8a",
     "name": "SR Management GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-19T09:56:51.772Z",
+    "controlDate": "2026-06-11T10:23:39.664Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -217643,7 +217670,7 @@
     "squuid": "5be1a6b6-a7df-49a0-be28-c8ea5f8ab3f0",
     "name": "Springer Medizin Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:36:41.043Z",
+    "controlDate": "2026-06-11T10:12:46.150Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218212,7 +218239,7 @@
     "squuid": "5be1a6b6-f2a9-45b1-bd71-232ceffa4fb4",
     "name": "Springer Nature Three GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:49:55.041Z",
+    "controlDate": "2026-06-11T10:19:16.313Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225037,7 +225064,7 @@
     "squuid": "5be1a6b6-e1c7-48f3-b22b-c8a114bbc94f",
     "name": "Stadt-Revue Verlags-GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T10:20:46.069Z",
+    "controlDate": "2026-06-11T10:34:53.587Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -238453,7 +238480,7 @@
     "name": "Stadtlust-Verlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9bfe-4e6d-8f81-3319c60f41f8",
-    "controlDate": "2025-12-19T10:22:18.203Z",
+    "controlDate": "2026-06-11T10:38:50.389Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250686,7 +250713,7 @@
     "squuid": "5be1a6b6-0813-4ce6-9c60-b6e38b734787",
     "name": "Springer Nature Two GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:50:01.072Z",
+    "controlDate": "2026-06-11T10:19:24.981Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250835,7 +250862,7 @@
     "squuid": "5be1a6b6-d096-4bc9-a509-dbe419151026",
     "name": "Springer Fachmedien Wiesbaden GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:35:21.374Z",
+    "controlDate": "2026-06-11T10:11:23.927Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -267831,7 +267858,7 @@
     "squuid": "5be1a6b6-98d9-4b98-948a-ee46e5fd0664",
     "name": "Springer Nature One GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:49:42.585Z",
+    "controlDate": "2026-06-11T10:19:01.775Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -268073,7 +268100,7 @@
     "squuid": "5be1a6b6-e031-4d91-b9c0-c7b3a5877101",
     "name": "Springer-Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:53:58.882Z",
+    "controlDate": "2026-06-11T10:20:13.015Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283818,7 +283845,7 @@
     "squuid": "5be1a6b6-0f25-4aa0-ba8a-72b9544d23d7",
     "name": "Springer Nature International GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:49:25.249Z",
+    "controlDate": "2026-06-11T10:18:30.787Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283831,7 +283858,7 @@
     "squuid": "5be1a6b6-af7c-4f1d-b610-d0f4a4bb8ff1",
     "name": "Springer Nature Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:49:14.802Z",
+    "controlDate": "2026-06-11T10:18:08.804Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283844,7 +283871,7 @@
     "squuid": "5be1a6b6-0de1-471f-a8f9-bf05cab69142",
     "name": "Springer Nature AG & Co. KGaA",
     "state": "active",
-    "controlDate": "2025-12-19T09:48:59.869Z",
+    "controlDate": "2026-06-11T10:15:54.738Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -283871,7 +283898,7 @@
     "squuid": "5be1a6b6-85cf-42bc-aae9-ae90ba292b7b",
     "name": "Springer Science + Business Media GP Acquisition S.C.A.",
     "state": "active",
-    "controlDate": "2025-12-19T09:51:30.270Z",
+    "controlDate": "2026-06-11T10:19:52.273Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284100,7 +284127,7 @@
     "squuid": "5be1a6b6-43ee-44de-9553-c946116b08dd",
     "name": "Steingart, Gabor (& Management der Media Pioneer Publishing AG)",
     "state": "active",
-    "controlDate": "2026-01-05T12:09:58.627Z",
+    "controlDate": "2026-06-11T11:49:25.780Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -288934,7 +288961,7 @@
   },
   {
     "squuid": "5be1a6b6-62d7-4cfe-89d4-71efa24b5b46",
-    "name": "Streubesitz an Smartbroker Hlding AG",
+    "name": "Streubesitz an Smartbroker Holding AG",
     "state": "active",
     "controlDate": "2019-07-09T14:26:25.379Z",
     "organizations": [
@@ -292471,7 +292498,7 @@
     "squuid": "5be1a6b6-2014-4f1a-9166-a8561d2ee571",
     "name": "Stella Finanz AG",
     "state": "active",
-    "controlDate": "2026-01-05T12:10:37.405Z",
+    "controlDate": "2026-06-11T11:49:40.360Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -297723,7 +297750,7 @@
     "squuid": "5e4fad5d-e90b-497f-a499-881e76ed9e4c",
     "name": "Stone FH GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:03:56.608Z",
+    "controlDate": "2026-06-11T13:17:01.825Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298780,7 +298807,7 @@
     "squuid": "636b7801-6459-4bbb-aa83-5cdb295f92e0",
     "name": "Steger-Bruhn GbR",
     "state": "active",
-    "controlDate": "2026-01-05T12:08:57.597Z",
+    "controlDate": "2026-06-11T11:48:10.986Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300048,7 +300075,7 @@
     "squuid": "61544865-7df5-4578-968a-828e93f8c0ba",
     "name": "Stingray Germany GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T11:59:33.126Z",
+    "controlDate": "2026-06-11T13:14:08.366Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

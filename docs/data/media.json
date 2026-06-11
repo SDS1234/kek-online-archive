@@ -5331,7 +5331,7 @@
     "rfStatewide": false,
     "name": "Ärzte Zeitung",
     "type": "print",
-    "controlDate": "2025-12-19T09:37:13.479Z",
+    "controlDate": "2026-06-11T10:13:17.422Z",
     "pressKind": "Medizin",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -5379,7 +5379,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-19T09:36:47.466Z",
+    "controlDate": "2026-06-11T10:12:54.957Z",
     "state": "active"
   },
   {
@@ -12358,7 +12358,7 @@
     "name": "www.music.stingray.com/de/DE",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-05T11:59:46.396Z",
+    "controlDate": "2026-06-11T13:15:27.987Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17127,7 +17127,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-19T10:20:51.112Z",
+    "controlDate": "2026-06-11T10:35:08.905Z",
     "state": "active"
   },
   {
@@ -27156,7 +27156,7 @@
     "name": "www.muenster-magazin.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T10:22:49.892Z",
+    "controlDate": "2026-06-11T10:39:20.295Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30035,7 +30035,7 @@
     "name": "www.srb.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:59:16.809Z",
+    "controlDate": "2026-06-11T10:27:09.018Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36391,7 +36391,7 @@
     "name": "www.statista.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T12:02:35.264Z",
+    "controlDate": "2026-06-11T11:44:05.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36512,7 +36512,7 @@
     "name": "www.srf-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T09:24:32.860Z",
+    "controlDate": "2026-06-11T10:28:44.585Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38183,7 +38183,7 @@
     "name": "www.berlin.starfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T12:01:29.917Z",
+    "controlDate": "2026-06-11T11:38:17.156Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38934,7 +38934,7 @@
     "name": "www.derstandard.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T10:45:16.892Z",
+    "controlDate": "2026-06-11T10:50:33.780Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41215,7 +41215,7 @@
     "name": "www.der-postillon.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-22T13:53:52.715Z",
+    "controlDate": "2026-06-11T11:44:36.499Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42244,7 +42244,7 @@
     "name": "www.springermedizin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:36:55.333Z",
+    "controlDate": "2026-06-11T10:13:01.626Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42584,7 +42584,7 @@
     "name": "www.springerpflege.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:37:01.285Z",
+    "controlDate": "2026-06-11T10:13:08.898Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89637,7 +89637,7 @@
     "rfStatewide": false,
     "name": "StadtRevue",
     "type": "print",
-    "controlDate": "2025-12-19T10:20:31.957Z",
+    "controlDate": "2026-06-11T10:35:00.313Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89802,6 +89802,7 @@
     "name": "Der Postillon",
     "rfPublicPrivate": false,
     "type": "print",
+    "controlDate": "2026-06-11T11:44:29.017Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -102206,7 +102207,7 @@
     "rfStatewide": false,
     "name": "Münster!",
     "type": "print",
-    "controlDate": "2025-12-19T10:22:43.289Z",
+    "controlDate": "2026-06-11T10:39:11.000Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105118,7 +105119,7 @@
     "name": "www.starfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T12:00:14.319Z",
+    "controlDate": "2026-06-11T11:37:16.718Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -110260,7 +110261,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-19T09:36:21.690Z",
+    "controlDate": "2026-06-11T10:11:53.191Z",
     "state": "active"
   },
   {
@@ -126683,7 +126684,7 @@
     "name": "www.brandenburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T10:03:16.580Z",
+    "controlDate": "2026-06-11T10:31:34.616Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127979,7 +127980,7 @@
     "name": "www.baden-wuerttemberg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T10:03:30.146Z",
+    "controlDate": "2026-06-11T10:31:50.926Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128791,7 +128792,7 @@
     "name": "www.nbg.starfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T12:00:07.279Z",
+    "controlDate": "2026-06-11T11:36:02.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134284,7 +134285,7 @@
     "name": "www.test.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-05T11:55:04.195Z",
+    "controlDate": "2026-06-11T13:11:17.615Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134309,7 +134310,7 @@
     "name": "Finanztest",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-05T11:54:09.443Z",
+    "controlDate": "2026-06-11T13:11:03.317Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134329,7 +134330,7 @@
     "name": "test",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-05T11:54:55.043Z",
+    "controlDate": "2026-06-11T13:11:11.003Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135744,7 +135745,7 @@
     "name": "www.springerprofessional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:35:29.201Z",
+    "controlDate": "2026-06-11T10:11:38.725Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
