@@ -2047,6 +2047,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -2123,6 +2129,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -6276,6 +6288,19 @@
     ]
   },
   {
+    "squuid": "6a2a8399-fd7c-47a1-9dbc-ac8aeab1ace9",
+    "name": "Gaenserig mediatec GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2",
     "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
     "state": "active",
@@ -6372,6 +6397,19 @@
           "squuid": "5d3199a4-db6f-4726-8c9e-747ba9626279",
           "name": "www.hessen.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a2a83d4-bfa6-4072-91d9-d3fd7e105564",
+    "name": "Geißler, Matthias",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -8072,7 +8110,7 @@
     "squuid": "5be1a6b6-fcaa-46d1-a4fd-0e38dd0479d7",
     "name": "Sport1 GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:38:17.379Z",
+    "controlDate": "2026-06-11T09:22:29.121Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8082,6 +8120,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ],
@@ -8111,6 +8155,15 @@
         "held": {
           "squuid": "5c4ef963-9558-4d40-abfe-2c0d297e7350",
           "name": "www.sport1.de"
+        }
+      },
+      {
+        "squuid": "6a2a7b0d-dcbb-4d61-8511-2da837367012",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a2a76b8-a5c2-48e2-ab2f-903fcd40efab",
+          "name": "SPORT1.FM"
         }
       }
     ]
@@ -8275,7 +8328,7 @@
     "squuid": "5be1a6b6-56d2-48f9-824b-7fac0e5a8810",
     "name": "Sport1 Medien GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:41:32.141Z",
+    "controlDate": "2026-06-11T09:26:25.301Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8291,6 +8344,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -10133,7 +10192,7 @@
     "squuid": "5be1a6b6-16c9-4c58-9037-a0a95a6e46d8",
     "name": "SPIEGEL TV GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:46:33.277Z",
+    "controlDate": "2026-06-11T08:58:04.428Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -10817,14 +10876,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -13382,7 +13436,7 @@
     "squuid": "5be1a6b6-4166-4519-b086-b122177e484a",
     "name": "Skyline Medien GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:51:45.187Z",
+    "controlDate": "2026-06-11T07:53:58.437Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -15201,7 +15255,7 @@
     "squuid": "5be1a6b6-035e-467d-a2e0-d492f8f7b8a2",
     "name": "Sport1 Holding GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:41:21.461Z",
+    "controlDate": "2026-06-11T09:25:01.877Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -15217,6 +15271,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -15430,12 +15490,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
     ]
@@ -17118,7 +17172,7 @@
     "squuid": "5be1a6b6-d9aa-40d2-a3a4-ac54136202f6",
     "name": "Société Générale",
     "state": "active",
-    "controlDate": "2025-06-24T09:48:03.750Z",
+    "controlDate": "2026-06-11T08:07:16.822Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -19061,7 +19115,7 @@
     "squuid": "5be1a6b6-7b27-4bc0-94fc-bd4e5afdcb1a",
     "name": "Sky Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:28:33.152Z",
+    "controlDate": "2026-06-11T07:49:38.823Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26587,7 +26641,7 @@
     "squuid": "5be1a6b6-71a6-4063-890a-94fd0f11618c",
     "name": "Solidarität Verwaltungs- und Treuhandgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:01:09.097Z",
+    "controlDate": "2026-06-11T08:08:49.339Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -29691,7 +29745,7 @@
     "squuid": "63285601-99a4-4867-aac1-37edf265914c",
     "name": "Speedster Bidco GmbH",
     "state": "active",
-    "controlDate": "2025-06-24T10:12:06.974Z",
+    "controlDate": "2026-06-11T08:43:00.279Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36794,7 +36848,7 @@
     "squuid": "5be1a6b6-ffa9-4969-9e8b-1767859786c7",
     "name": "souvenirs from the earth GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:15:00.759Z",
+    "controlDate": "2026-06-11T08:40:02.268Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38254,6 +38308,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -49000,7 +49060,7 @@
     "squuid": "5be1a6b6-bf9a-4c73-8374-7d6faee44613",
     "name": "Sony Pictures Entertainment Deutschland GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:12:41.418Z",
+    "controlDate": "2026-06-11T08:17:19.095Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50353,6 +50413,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -50489,7 +50555,7 @@
     "squuid": "5be1a6b6-ec20-4ad4-85d5-8fd11eb94dc3",
     "name": "Sportdigital.TV Sende- und Produktions GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T16:05:26.658Z",
+    "controlDate": "2026-06-11T09:34:55.068Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -50563,7 +50629,7 @@
     "squuid": "5be1a6b6-1453-4f65-9406-1767aef2e002",
     "name": "Sportainment Media Group GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-18T15:06:51.974Z",
+    "controlDate": "2026-06-11T09:30:15.996Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -60528,7 +60594,7 @@
     "squuid": "5c4f0fc7-be9f-42ea-b401-a61690591b2a",
     "name": "Sportbuzzer GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T16:04:06.652Z",
+    "controlDate": "2026-06-11T09:33:25.202Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -66167,7 +66233,7 @@
     "name": "SPIEGEL TV Geschichte und Wissen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8981-44ba-940e-43e7e7159fa7",
-    "controlDate": "2025-12-18T13:44:51.386Z",
+    "controlDate": "2026-06-11T09:01:18.193Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79095,11 +79161,6 @@
     "controlDate": "2026-05-05T15:28:48.487Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
@@ -81398,7 +81459,7 @@
     "squuid": "61151977-5a0e-4d9f-9ddd-2e966f9d1e97",
     "name": "Solitaire Grundstücksverwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:02:10.944Z",
+    "controlDate": "2026-06-11T08:09:46.998Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -89163,7 +89224,7 @@
     "squuid": "5be1a6b6-07bc-4c91-a87e-21a03eb06b23",
     "name": "Sky German Holdings GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:30:02.267Z",
+    "controlDate": "2026-06-11T07:51:40.252Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -98913,7 +98974,7 @@
     "squuid": "5be1a6b6-8d96-49fc-8c54-feeddf2a01d9",
     "name": "Somibo GmbH & Co KG",
     "state": "active",
-    "controlDate": "2025-12-18T13:06:57.398Z",
+    "controlDate": "2026-06-11T08:14:04.527Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -141091,7 +141152,7 @@
     "squuid": "5fb7afec-0014-4458-9e3d-7e39a2444c7a",
     "name": "SM Medien GbR",
     "state": "active",
-    "controlDate": "2025-12-18T12:53:17.026Z",
+    "controlDate": "2026-06-11T07:56:52.873Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -142665,7 +142726,7 @@
     "squuid": "5d2ded40-047b-4572-ac0d-61b52a62b698",
     "name": "SPORTAL GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T15:07:16.710Z",
+    "controlDate": "2026-06-11T09:31:20.209Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -146406,7 +146467,7 @@
     "squuid": "61b771ca-d7c8-4b3b-80a1-130c8e07f58b",
     "name": "Splendid Medien AG",
     "state": "active",
-    "controlDate": "2025-12-18T14:10:07.639Z",
+    "controlDate": "2026-06-11T09:13:35.997Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -148759,13 +148820,9 @@
     "controlDate": "2026-01-06T11:54:12.688Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -156137,6 +156194,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -156173,6 +156236,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -156227,6 +156296,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -156299,6 +156374,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -156321,6 +156402,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -159074,7 +159161,7 @@
     "squuid": "5d2f3d62-fada-48fc-8dac-4bf5dedc91c5",
     "name": "sport media group GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:27:42.919Z",
+    "controlDate": "2026-06-11T09:18:38.356Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182707,7 +182794,7 @@
     "squuid": "5f184f5b-ca85-4fa9-8613-9344c8f79f4a",
     "name": "Sportainment Medien Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T15:04:19.460Z",
+    "controlDate": "2026-06-11T09:28:18.256Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -184810,6 +184897,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -184888,6 +184981,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -184937,6 +185036,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -184960,6 +185065,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -185456,7 +185567,7 @@
     "squuid": "5f1964f6-4e42-484d-924c-b6d0faead925",
     "name": "SPIEGEL TV Geschichte und Wissen Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:44:42.296Z",
+    "controlDate": "2026-06-11T09:00:06.872Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -191353,7 +191464,7 @@
     "squuid": "5efb157a-98a0-4ae4-bf66-e26e863f2a85",
     "name": "Digital Business Group GmbH",
     "state": "active",
-    "controlDate": "2026-04-22T12:53:41.122Z",
+    "controlDate": "2026-06-11T07:57:05.033Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -192077,6 +192188,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -193796,9 +193913,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -193846,7 +193967,7 @@
     "name": "Sky Deutschland Fernsehen GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "61e6a021-57c9-4e5f-bc71-5167884ad1ce",
-    "controlDate": "2025-12-18T12:27:19.882Z",
+    "controlDate": "2026-06-11T07:46:04.771Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196333,7 +196454,7 @@
     "squuid": "61b1e198-9828-4ab8-9098-1974c8b2c5b2",
     "name": "Spintler Medien Verwaltungs UG (haftungsbeschränkt)",
     "state": "active",
-    "controlDate": "2025-12-18T14:07:04.279Z",
+    "controlDate": "2026-06-11T09:12:47.431Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197613,13 +197734,9 @@
     "controlDate": "2026-05-28T12:52:54.694Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -209823,6 +209940,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -210123,6 +210246,12 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -210213,6 +210342,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -211080,6 +211215,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -224727,7 +224868,7 @@
     "squuid": "5be1a6b6-3f89-46b0-9c8b-362f335002c0",
     "name": "Spektrum der Wissenschaft Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:27:27.502Z",
+    "controlDate": "2026-06-11T08:44:44.220Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -224814,7 +224955,7 @@
     "squuid": "5be1a6b6-16cf-456e-9bd5-021a58269cc2",
     "name": "Sportverlag Schmidt & Dreisilker GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:22:19.498Z",
+    "controlDate": "2026-06-11T09:51:12.133Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -229067,7 +229208,7 @@
     "squuid": "5be1a6b6-5e6b-4201-a673-50dd2aff16df",
     "name": "Spiegel Beteiligungsmanagement GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:33:31.765Z",
+    "controlDate": "2026-06-11T08:54:42.347Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -236034,12 +236175,13 @@
   {
     "squuid": "6332efca-129b-4359-a9b4-f724fe3dc2f8",
     "name": "Smartbroker Holding AG",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2025-12-18T12:56:33.065Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -239369,7 +239511,7 @@
     "squuid": "5be1a6b6-5bb1-481a-96c5-3f9fd14dce4b",
     "name": "Solutions by Handelsblatt Media Group GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:04:24.173Z",
+    "controlDate": "2026-06-11T08:10:42.369Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -239412,15 +239554,6 @@
         "held": {
           "squuid": "5bfbdfce-e0c5-44ac-b5b8-c3cdc4f3bfdd",
           "name": "www.creditreform.de"
-        }
-      },
-      {
-        "squuid": "656892a4-2272-45f8-a525-f3d7d9a686c6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6568925d-a594-4a85-819f-cbcfee24a706",
-          "name": "Absatzwirtschaft"
         }
       },
       {
@@ -243291,7 +243424,7 @@
     "squuid": "6409c71e-f0ef-403a-ab72-9362180bcf34",
     "name": "SonntagsReport Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:10:13.455Z",
+    "controlDate": "2026-06-11T08:15:41.785Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -243384,7 +243517,7 @@
     "name": "SonntagsReport GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "6409c703-9b64-4a1c-87c3-ecaf7e5a4cf9",
-    "controlDate": "2025-12-18T13:11:28.619Z",
+    "controlDate": "2026-06-11T08:15:50.530Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244337,7 +244470,7 @@
     "squuid": "622f45a1-5a8e-4ed5-add5-9bdcbaa8f8cb",
     "name": "Sport Aktiv Media GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:25:57.742Z",
+    "controlDate": "2026-06-11T09:17:30.965Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -247460,7 +247593,7 @@
     "squuid": "5be1a6b6-d28b-47ee-947e-e7e454f013ca",
     "name": "spomedis GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:11:28.235Z",
+    "controlDate": "2026-06-11T09:14:26.208Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250387,7 +250520,7 @@
     "squuid": "5be1a6b6-1584-41fa-aaff-7fe68392abf9",
     "name": "Social Publish Verlag 2010 GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:57:33.270Z",
+    "controlDate": "2026-06-11T08:05:11.181Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250433,7 +250566,7 @@
     "squuid": "5be1a6b6-be9c-4bf4-a549-45d67a9cd764",
     "name": "SPH Social Publish 2010 GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T13:33:14.809Z",
+    "controlDate": "2026-06-11T08:43:14.863Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -251527,7 +251660,7 @@
     "squuid": "5be1a6b6-efb6-4178-a7d4-a65f346c332b",
     "name": "Smartbroker Holding AG",
     "state": "active",
-    "controlDate": "2026-01-12T12:08:34.995Z",
+    "controlDate": "2026-06-11T07:59:09.998Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -252492,7 +252625,7 @@
     "squuid": "5be1a6b6-d503-4989-bfd6-e8b3cd3b21cf",
     "name": "Sporthouse.de AG",
     "state": "active",
-    "controlDate": "2025-12-19T09:14:48.991Z",
+    "controlDate": "2026-06-11T09:36:49.659Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -263100,7 +263233,7 @@
     "squuid": "619e664c-f3ec-4d35-9dc7-67b991f795d8",
     "name": "Spintler Medien UG (haftungsbeschränkt) & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-18T14:06:57.879Z",
+    "controlDate": "2026-06-11T09:12:29.856Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -267167,7 +267300,7 @@
     "squuid": "5f045030-5761-4c94-841c-88dfa75b4d00",
     "name": "Sky Deutschland Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:29:45.639Z",
+    "controlDate": "2026-06-11T07:48:51.054Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -267513,7 +267646,7 @@
     "squuid": "60d47eeb-95da-438c-8cd0-fc0d6eccafe2",
     "name": "SPINTLER Druck und Verlag GmbH Medienhaus Weiden",
     "state": "active",
-    "controlDate": "2025-12-18T14:06:47.280Z",
+    "controlDate": "2026-06-11T09:12:20.444Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271600,6 +271733,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -272708,7 +272847,7 @@
     "squuid": "5be1a6b6-1afc-4d00-885d-675da3fd7eac",
     "name": "sporttotal.tv GmbH",
     "state": "active",
-    "controlDate": "2025-12-19T09:21:16.386Z",
+    "controlDate": "2026-06-11T09:50:17.439Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -272755,7 +272894,7 @@
     "squuid": "5be1a6b6-584d-477e-b42b-4c094067a69f",
     "name": "SPORTTOTAL AG",
     "state": "active",
-    "controlDate": "2025-12-19T09:20:40.608Z",
+    "controlDate": "2026-06-11T09:50:07.682Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -292277,6 +292416,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -292299,6 +292444,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -292337,6 +292488,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -292359,6 +292516,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -292384,6 +292547,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -292406,6 +292575,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -292431,6 +292606,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -292455,6 +292636,12 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -293964,13 +294151,9 @@
     "controlDate": "2026-05-18T15:15:39.353Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -293982,13 +294165,9 @@
     "controlDate": "2026-04-09T13:52:37.937Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -294042,13 +294221,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -294059,13 +294234,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -301137,6 +301308,7 @@
     "squuid": "5fd46a9b-7682-4253-92c4-d4cea1561335",
     "name": "Sports Trade GmbH",
     "state": "active",
+    "controlDate": "2026-06-11T09:39:40.508Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -301217,6 +301389,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -301252,6 +301430,12 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -301278,7 +301462,7 @@
     "squuid": "61545fba-1506-478e-99d7-f062e9b551c9",
     "name": "Sportlight - Böhm & Hofmann GbR",
     "state": "active",
-    "controlDate": "2025-12-19T09:15:12.875Z",
+    "controlDate": "2026-06-11T09:37:23.045Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301563,7 +301747,7 @@
     "squuid": "5cda7bcf-78a8-431c-8823-ec6333215de9",
     "name": "SOSTNT Luxembourg S.á.r.l.",
     "state": "active",
-    "controlDate": "2025-06-24T10:04:32.226Z",
+    "controlDate": "2026-06-11T08:39:39.590Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -302310,7 +302494,7 @@
     "squuid": "60a254da-e6da-4c31-91a5-07d283bd2521",
     "name": "Spintler Verwaltungs-Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2025-12-18T14:07:10.546Z",
+    "controlDate": "2026-06-11T09:13:03.791Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -304533,7 +304717,7 @@
     "squuid": "5c3c7668-d6a0-4d44-96f0-a83c952e83a1",
     "name": "So Gesund Verlag GmbH",
     "state": "active",
-    "controlDate": "2025-12-18T12:56:44.341Z",
+    "controlDate": "2026-06-11T08:03:20.868Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

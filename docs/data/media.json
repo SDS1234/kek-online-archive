@@ -5451,7 +5451,7 @@
     "rfStatewide": false,
     "name": "triathlon",
     "type": "print",
-    "controlDate": "2025-12-18T14:14:27.022Z",
+    "controlDate": "2026-06-11T09:15:15.818Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -5475,7 +5475,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T14:14:38.120Z",
+    "controlDate": "2026-06-11T09:15:29.027Z",
     "state": "active"
   },
   {
@@ -5510,7 +5510,7 @@
     "rfStatewide": false,
     "name": "swim",
     "type": "print",
-    "controlDate": "2025-12-18T14:13:10.406Z",
+    "controlDate": "2026-06-11T09:15:08.411Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -5534,7 +5534,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T14:14:32.596Z",
+    "controlDate": "2026-06-11T09:15:22.242Z",
     "state": "active"
   },
   {
@@ -7901,7 +7901,7 @@
   },
   {
     "pressPublishingIntervals": 12,
-    "state": "active",
+    "state": "archived",
     "squuid": "6568925d-a594-4a85-819f-cbcfee24a706",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7911,7 +7911,7 @@
     "name": "Absatzwirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:04:42.871Z",
+    "controlDate": "2026-06-11T08:11:05.111Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -8495,7 +8495,7 @@
     "rfStatewide": false,
     "name": "Effilee",
     "type": "print",
-    "controlDate": "2025-12-18T13:49:08.543Z",
+    "controlDate": "2026-06-11T09:06:15.077Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8519,7 +8519,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T13:50:27.507Z",
+    "controlDate": "2026-06-11T09:07:14.018Z",
     "state": "active"
   },
   {
@@ -10359,7 +10359,7 @@
     "rfStatewide": false,
     "name": "S-Magazin",
     "type": "print",
-    "controlDate": "2025-12-18T13:49:25.659Z",
+    "controlDate": "2026-06-11T09:06:26.731Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10443,7 +10443,7 @@
     "name": "Spiegel Bestseller",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:49:37.447Z",
+    "controlDate": "2026-06-11T09:06:33.916Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -10855,7 +10855,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-19T09:22:44.718Z",
+    "controlDate": "2026-06-11T09:51:43.439Z",
     "state": "active"
   },
   {
@@ -12179,7 +12179,7 @@
     "rfStatewide": false,
     "name": "enorm",
     "type": "print",
-    "controlDate": "2025-12-18T12:57:41.017Z",
+    "controlDate": "2026-06-11T08:05:17.810Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -12203,7 +12203,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T12:57:52.236Z",
+    "controlDate": "2026-06-11T08:05:25.110Z",
     "state": "active"
   },
   {
@@ -13209,7 +13209,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T13:29:36.409Z",
+    "controlDate": "2026-06-11T08:48:47.703Z",
     "state": "active"
   },
   {
@@ -15179,6 +15179,40 @@
     }
   },
   {
+    "state": "active",
+    "squuid": "6a2a76b8-a5c2-48e2-ab2f-903fcd40efab",
+    "organization": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "rfStatewide": true,
+    "name": "SPORT1.FM",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -16913,7 +16947,7 @@
     "rfStatewide": false,
     "name": "so gesund",
     "type": "print",
-    "controlDate": "2025-12-18T12:56:51.041Z",
+    "controlDate": "2026-06-11T08:04:02.622Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16937,7 +16971,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T12:57:04.534Z",
+    "controlDate": "2026-06-11T08:04:09.925Z",
     "state": "active"
   },
   {
@@ -17325,7 +17359,7 @@
     "rfStatewide": false,
     "name": "VdK-Zeitung",
     "type": "print",
-    "controlDate": "2025-12-18T13:15:46.825Z",
+    "controlDate": "2026-06-11T08:41:49.457Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -28539,7 +28573,7 @@
     "name": "www.sport1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T14:40:22.407Z",
+    "controlDate": "2026-06-11T09:22:58.488Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29583,7 +29617,7 @@
     "name": "www.formel1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T14:27:48.220Z",
+    "controlDate": "2026-06-11T09:18:45.465Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32017,7 +32051,7 @@
     "name": "www.sportbuzzer.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T16:04:25.682Z",
+    "controlDate": "2026-06-11T09:33:30.271Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33698,7 +33732,7 @@
     "name": "www.skysport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T12:27:55.375Z",
+    "controlDate": "2026-06-11T07:48:11.270Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41229,7 +41263,7 @@
     "name": "www.jam.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T12:52:30.900Z",
+    "controlDate": "2026-06-11T07:56:05.164Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42021,7 +42055,7 @@
     "name": "www.sportal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T15:07:53.563Z",
+    "controlDate": "2026-06-11T09:33:11.366Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42946,7 +42980,7 @@
     "name": "www.sonypictures.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:12:46.872Z",
+    "controlDate": "2026-06-11T08:18:14.794Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43042,7 +43076,7 @@
     "name": "www.tv.spiegel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:46:57.654Z",
+    "controlDate": "2026-06-11T08:58:07.309Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45835,7 +45869,7 @@
     "name": "www.wowtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T12:28:20.416Z",
+    "controlDate": "2026-06-11T07:48:21.047Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -54177,7 +54211,15 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
-    }
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "matchedNames": [
@@ -73455,7 +73497,7 @@
     "name": "www.motorsport-total.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T14:27:55.612Z",
+    "controlDate": "2026-06-11T09:18:54.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89088,7 +89130,7 @@
     "name": "Spektrum Die Woche",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:28:42.562Z",
+    "controlDate": "2026-06-11T08:48:01.677Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89108,7 +89150,7 @@
     "rfStatewide": false,
     "name": "Spektrum der Wissenschaft",
     "type": "print",
-    "controlDate": "2025-12-18T13:29:16.635Z",
+    "controlDate": "2026-06-11T08:48:30.969Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89129,7 +89171,7 @@
     "rfStatewide": false,
     "name": "Gehirn & Geist",
     "type": "print",
-    "controlDate": "2025-12-18T13:28:31.728Z",
+    "controlDate": "2026-06-11T08:47:52.242Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89150,7 +89192,7 @@
     "name": "Spektrum Geschichte",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:28:51.479Z",
+    "controlDate": "2026-06-11T08:48:09.077Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89194,7 +89236,7 @@
     "rfStatewide": false,
     "name": "Sterne und Weltraum",
     "type": "print",
-    "controlDate": "2025-12-18T13:29:27.062Z",
+    "controlDate": "2026-06-11T08:48:38.469Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89215,7 +89257,7 @@
     "rfStatewide": false,
     "name": "Der Spiegel",
     "type": "print",
-    "controlDate": "2025-12-18T13:48:57.488Z",
+    "controlDate": "2026-06-11T09:06:05.942Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89236,7 +89278,7 @@
     "rfStatewide": false,
     "name": "Spiegel Geschichte",
     "type": "print",
-    "controlDate": "2025-12-18T13:50:04.376Z",
+    "controlDate": "2026-06-11T09:06:55.827Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89257,7 +89299,7 @@
     "rfStatewide": false,
     "name": "Dein Spiegel",
     "type": "print",
-    "controlDate": "2025-12-18T13:48:47.848Z",
+    "controlDate": "2026-06-11T09:05:57.461Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89322,7 +89364,7 @@
     "rfStatewide": false,
     "name": "Spiegel Wissen",
     "type": "print",
-    "controlDate": "2025-12-18T13:50:16.774Z",
+    "controlDate": "2026-06-11T09:07:05.542Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89364,7 +89406,7 @@
     "rfStatewide": false,
     "name": "DHZ Deutsche Hockey Zeitung",
     "type": "print",
-    "controlDate": "2025-12-19T09:22:23.618Z",
+    "controlDate": "2026-06-11T09:51:26.809Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103893,7 +103935,7 @@
     "name": "www.edge-sport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T16:06:40.599Z",
+    "controlDate": "2026-06-11T09:35:15.690Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -104768,7 +104810,7 @@
     "rfStatewide": false,
     "name": "Wohnglück",
     "type": "print",
-    "controlDate": "2025-12-18T13:05:01.261Z",
+    "controlDate": "2026-06-11T08:11:41.877Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -106419,7 +106461,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-21T10:41:55.287Z",
+    "controlDate": "2026-06-11T09:07:29.518Z",
     "state": "active"
   },
   {
@@ -110988,7 +111030,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T12:09:36.970Z",
+    "controlDate": "2026-06-11T07:59:51.170Z",
     "state": "active"
   },
   {
@@ -116528,7 +116570,7 @@
     "name": "www.sprade.tv/de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T13:32:38.932Z",
+    "controlDate": "2026-06-11T09:47:40.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -116820,7 +116862,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-18T13:06:42.160Z",
+    "controlDate": "2026-06-11T08:12:04.246Z",
     "state": "active"
   },
   {
@@ -127076,7 +127118,7 @@
     "name": "Spiegel Coaching",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:49:48.562Z",
+    "controlDate": "2026-06-11T09:06:45.820Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128208,7 +128250,7 @@
     "name": "www.sportdigital.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T16:06:49.394Z",
+    "controlDate": "2026-06-11T09:35:23.222Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128233,7 +128275,7 @@
     "name": "rudersport",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-19T09:22:39.062Z",
+    "controlDate": "2026-06-11T09:51:36.238Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130709,7 +130751,7 @@
     "name": "Spektrum Gesundheit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:28:57.135Z",
+    "controlDate": "2026-06-11T08:48:16.605Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131111,7 +131153,7 @@
     "name": "www.sky.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T12:27:46.529Z",
+    "controlDate": "2026-06-11T07:47:58.807Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131191,7 +131233,7 @@
     "name": "www.spiegel-geschichte.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:46:13.840Z",
+    "controlDate": "2026-06-11T09:01:37.507Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131508,7 +131550,7 @@
     "name": "www.curiositychannel.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:46:06.943Z",
+    "controlDate": "2026-06-11T09:01:28.717Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135986,7 +136028,7 @@
     "name": "www.absatzwirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:05:09.934Z",
+    "controlDate": "2026-06-11T08:11:50.357Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147568,7 +147610,7 @@
     "name": "www.sonntags-report.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:11:55.068Z",
+    "controlDate": "2026-06-11T08:15:56.061Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147616,7 +147658,7 @@
     "name": "www.radsport-news.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T14:26:23.608Z",
+    "controlDate": "2026-06-11T09:17:35.518Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148749,7 +148791,7 @@
     "name": "Spektrum Psychologie",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:29:06.725Z",
+    "controlDate": "2026-06-11T08:48:23.525Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148902,7 +148944,7 @@
     "name": "www.souvenirsfromearth.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-18T13:15:30.619Z",
+    "controlDate": "2026-06-11T08:41:28.029Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153336,7 +153378,7 @@
     "name": "www.sporttotal.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:21:22.983Z",
+    "controlDate": "2026-06-11T09:50:26.637Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159984,7 +160026,7 @@
     "name": "www.rudersport-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:22:51.176Z",
+    "controlDate": "2026-06-11T09:51:49.003Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161461,7 +161503,7 @@
     "name": "www.fupa.net/region/thueringen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T09:15:17.299Z",
+    "controlDate": "2026-06-11T09:37:51.869Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163568,7 +163610,7 @@
     "name": "Creditreform",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-18T13:04:52.164Z",
+    "controlDate": "2026-06-11T08:11:33.234Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163809,7 +163851,7 @@
     "name": "www.creditreform.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T14:34:50.221Z",
+    "controlDate": "2026-06-11T08:11:56.443Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
