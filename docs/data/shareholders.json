@@ -6304,7 +6304,7 @@
     "squuid": "5f8d842b-1398-4b2e-91c6-d7b0c55775e2",
     "name": "Sächsisches Gemeinschaftsprogramm Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T17:05:56.827Z",
+    "controlDate": "2026-06-12T11:00:56.261Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -7706,7 +7706,7 @@
     "squuid": "5f8d8b78-3fa9-4357-b86f-258845799605",
     "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:59:36.094Z",
+    "controlDate": "2026-06-12T10:59:19.658Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -10010,7 +10010,7 @@
     "name": "Super RTL Fernsehen GmbH",
     "limitedPartnership": false,
     "squuid": "5be1a6b6-2cfa-4d35-9bcc-0908e5e2773e",
-    "controlDate": "2026-01-05T16:05:09.779Z",
+    "controlDate": "2026-06-12T09:58:53.254Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -20561,7 +20561,7 @@
     "name": "sunshine live GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-06f0-4bd6-88b6-746783f187c3",
-    "controlDate": "2026-01-05T14:51:00.297Z",
+    "controlDate": "2026-06-12T09:54:29.141Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -21462,7 +21462,7 @@
     "squuid": "5be1a6b6-d002-416c-be70-aba89c131d4d",
     "name": "Stuttgart Regional Hörfunk GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T13:14:26.353Z",
+    "controlDate": "2026-06-12T09:20:08.272Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -22498,7 +22498,7 @@
     "squuid": "5be1a6b6-2a76-4a12-b0ff-f72ef7741317",
     "name": "Städte-Radio Produktions GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:43:15.950Z",
+    "controlDate": "2026-06-12T09:37:59.349Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26345,7 +26345,7 @@
     "squuid": "5be1a6b6-e8a9-4e8f-b96c-e04e65dc55ed",
     "name": "Süddeutscher Verlag GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T17:21:50.307Z",
+    "controlDate": "2026-06-12T11:11:30.154Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -27005,7 +27005,7 @@
     "name": "Suhler Verlagsgesellschaft mbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8f0e-479f-9854-3193606b8fe0",
-    "controlDate": "2026-01-05T14:35:54.323Z",
+    "controlDate": "2026-06-12T09:43:37.205Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -31466,7 +31466,7 @@
     "name": "Sächsisches Gemeinschaftsprogramm GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1eb4-45d8-931a-789e8b934ea5",
-    "controlDate": "2026-01-05T17:08:52.414Z",
+    "controlDate": "2026-06-12T11:01:55.362Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -34787,6 +34787,19 @@
     ]
   },
   {
+    "squuid": "6a2bc3da-6d18-4bbd-8393-cc64127a30ec",
+    "name": "Union Investment Management GmbH",
+    "state": "active",
+    "controlDate": "2026-06-12T08:34:56.611Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-82b4-401e-a7cf-8be9e30d4e04",
     "name": "Sony Pictures Entertainment Company",
     "state": "archived",
@@ -35322,6 +35335,19 @@
           "squuid": "6866464c-8a68-4374-8345-637dd99bee2d",
           "name": "www.novumfm.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a2bc6b8-e02a-43e6-a2f0-3f9e26f8dda1",
+    "name": "Union Asset Management Holding AG",
+    "state": "active",
+    "controlDate": "2026-06-12T08:44:50.246Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
       }
     ]
   },
@@ -44800,6 +44826,19 @@
     ]
   },
   {
+    "squuid": "6a2bd79e-f613-46b7-ad24-71c6d0aceac5",
+    "name": "K.F. Schimper Verlag GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-c525-4b11-a1b7-9969a9671afb",
     "name": "Mediengesellschaft der bayerischen Tageszeitungen für Kabelkommunikation mbH & Co. - Programm- und Werbegesellschaft KG",
     "state": "active",
@@ -51180,7 +51219,7 @@
     "name": "Studio Leipzig Rundfunkprogramm GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1f60-4a54-81ca-4b365e6f5781",
-    "controlDate": "2026-01-05T13:11:46.578Z",
+    "controlDate": "2026-06-12T09:04:03.867Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -52357,7 +52396,7 @@
     "name": "Studio Gong GmbH & Co. Studiobetriebs KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-5fe3-47f9-9c86-0365bbc58537",
-    "controlDate": "2026-01-05T13:03:28.053Z",
+    "controlDate": "2026-06-12T09:01:07.557Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -53253,7 +53292,7 @@
     "squuid": "5be1a6b6-e898-4004-83ca-675302c77669",
     "name": "Sylt Funk-Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:52:09.270Z",
+    "controlDate": "2026-06-12T10:49:16.270Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -54283,7 +54322,7 @@
     "squuid": "5be1a6b6-0ad0-4132-8515-b78e0f972259",
     "name": "SV Friedmann Holding GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:16:43.307Z",
+    "controlDate": "2026-06-12T10:23:46.401Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55192,7 +55231,7 @@
     "squuid": "5be1a6b6-346f-46a9-b49d-111ebfb8df47",
     "name": "SV Top GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:21:30.726Z",
+    "controlDate": "2026-06-12T10:33:04.674Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -56821,7 +56860,7 @@
     "name": "Sächsische Lokalrundfunk-Dienstleistungsprogramm GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a548-4307-a76f-9bbb9d92208c",
-    "controlDate": "2026-01-05T16:59:58.349Z",
+    "controlDate": "2026-06-12T10:59:37.903Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -74703,7 +74742,7 @@
     "squuid": "5be1a6b6-2762-4a2a-ac1b-ecf974d4494f",
     "name": "Studio Gong Niedersachsen GmbH & Co. Studiobetriebs KG",
     "state": "active",
-    "controlDate": "2026-01-05T13:04:40.636Z",
+    "controlDate": "2026-06-12T09:02:06.450Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -75397,7 +75436,7 @@
     "squuid": "5ef218a7-e39b-4f04-ac6f-0db2f0a1ed55",
     "name": "Stuttgart Regional Hörfunk Verwaltung GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:14:19.171Z",
+    "controlDate": "2026-06-12T09:20:00.094Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -84937,7 +84976,7 @@
     "squuid": "5be1a6b6-109f-4a8b-b5e1-7ba381f41abd",
     "name": "Stuttgarter Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:15:38.840Z",
+    "controlDate": "2026-06-12T09:21:42.342Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -91410,7 +91449,7 @@
     "squuid": "5d359cdc-7fee-4ef0-86c7-ab2bd5dee430",
     "name": "Styria Medienhaus Wien GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:42:03.960Z",
+    "controlDate": "2026-06-12T09:37:10.985Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -92013,7 +92052,7 @@
     "squuid": "5d359cfb-957d-4535-8cde-08106f8f90c6",
     "name": "Styria Media Group AG",
     "state": "active",
-    "controlDate": "2026-01-05T13:41:55.214Z",
+    "controlDate": "2026-06-12T09:36:50.599Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95383,7 +95422,7 @@
     "squuid": "5be1a6b6-72ca-4ac8-b084-1a14b9cab2e3",
     "name": "Stuttgarter Wochenblatt GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:29:51.172Z",
+    "controlDate": "2026-06-12T09:28:54.550Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95528,7 +95567,7 @@
     "squuid": "5be1a6b6-04f4-457e-bfa8-553d157046be",
     "name": "Südkurier GmbH",
     "state": "active",
-    "controlDate": "2026-01-06T11:05:13.292Z",
+    "controlDate": "2026-06-12T11:22:23.758Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -134964,7 +135003,7 @@
     "name": "Antenne Sylt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-1bc3-4742-94de-bdc3c23eea98",
-    "controlDate": "2025-09-12T10:45:51.370Z",
+    "controlDate": "2026-06-12T10:51:30.442Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -135003,7 +135042,7 @@
     "squuid": "5eaae540-1905-4913-8427-da6b19a3c975",
     "name": "Sturn Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:13:06.767Z",
+    "controlDate": "2026-06-12T09:05:27.624Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -135029,7 +135068,7 @@
     "squuid": "5be1a6b6-df23-4418-b8da-2241e10fe508",
     "name": "Syltertainment GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T16:54:26.971Z",
+    "controlDate": "2026-06-12T10:53:16.335Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -146320,7 +146359,7 @@
     "squuid": "61f2a1b5-f8e6-4940-baee-f38226ebe808",
     "name": "Süddeutscher Verlag Hüthig Fachinformationen GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T17:27:04.260Z",
+    "controlDate": "2026-06-12T11:12:11.430Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -146929,7 +146968,7 @@
     "squuid": "63da8bd8-e42d-49d4-9c4e-e20603fbdd90",
     "name": "Südholstein Anzeigenblatt GmbH",
     "state": "active",
-    "controlDate": "2026-01-06T11:04:23.758Z",
+    "controlDate": "2026-06-12T11:13:04.359Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -147947,7 +147986,7 @@
     "squuid": "5eb95411-17cd-4ec7-875d-ccb89be6ebed",
     "name": "Stuttgarter Zeitung Beteiligungs mbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T13:30:15.393Z",
+    "controlDate": "2026-06-12T09:29:14.250Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -149719,7 +149758,7 @@
     "squuid": "5f201945-1ae7-4be0-a0da-35adf69aad99",
     "name": "sunshine live Geschäftsführungs-GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T14:50:50.233Z",
+    "controlDate": "2026-06-12T09:52:17.377Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -153375,7 +153414,7 @@
     "squuid": "6050cddf-c64b-478d-8b9e-2db2466377a8",
     "name": "SZ Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2025-12-18T09:12:17.880Z",
+    "controlDate": "2026-06-12T10:56:33.538Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -153863,7 +153902,7 @@
     "squuid": "5eeb71a4-3141-4c75-8829-a2ce6d5a6ad7",
     "name": "Studio Gong Bayern Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:00:41.285Z",
+    "controlDate": "2026-06-12T08:58:54.721Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -155552,7 +155591,7 @@
     "squuid": "5c98ed33-3de6-4a1d-b2fa-4f2782148a39",
     "name": "Stuttgarter Presse Funk GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:26:06.128Z",
+    "controlDate": "2026-06-12T09:27:06.619Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -158764,7 +158803,7 @@
     "squuid": "5ebba3c7-06de-4835-ba97-f6293c3c4244",
     "name": "SV Beteiligungs-KG",
     "state": "active",
-    "controlDate": "2026-01-05T16:11:14.981Z",
+    "controlDate": "2026-06-12T10:05:26.717Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -160461,7 +160500,7 @@
     "squuid": "6319fa60-26da-49b5-8c07-59ba55884d45",
     "name": "Suder Familiengesellschaft OHG",
     "state": "active",
-    "controlDate": "2026-01-05T13:43:58.581Z",
+    "controlDate": "2026-06-12T09:38:58.652Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -167639,7 +167678,7 @@
     "squuid": "5ec7c6c6-2d1c-4c8a-b31d-f43c963881fc",
     "name": "Suhler Verlag Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T14:34:57.532Z",
+    "controlDate": "2026-06-12T09:42:35.716Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -172519,7 +172558,7 @@
     "squuid": "5dea6fc9-e5fd-4dbc-b9eb-52b5e6657157",
     "name": "Süddeutsche Zeitung GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T17:12:55.598Z",
+    "controlDate": "2026-06-12T11:08:06.036Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -179747,7 +179786,7 @@
     "name": "STUDIO 47 Stadtfernsehen Duisburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5f182683-2152-48c7-aec2-45e8b7e21e2f",
-    "controlDate": "2026-01-05T12:46:05.310Z",
+    "controlDate": "2026-06-12T08:54:34.340Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -179800,7 +179839,7 @@
     "squuid": "5f18269e-0f11-4223-8efd-e0bd51736757",
     "name": "STUDIO 47 Stadtfernsehen Duisburg Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:45:57.321Z",
+    "controlDate": "2026-06-12T08:52:32.486Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -186560,7 +186599,7 @@
     "squuid": "5f1970fd-afc7-4ff6-b5aa-0881edcfd309",
     "name": "Sylt 1 Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:49:12.944Z",
+    "controlDate": "2026-06-12T10:47:18.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193927,6 +193966,7 @@
     "squuid": "6a1d7a81-18ed-4812-9ef9-d7ea5b3e52f9",
     "name": "Schroders PLC",
     "state": "active",
+    "controlDate": "2026-06-12T07:43:35.503Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -196963,7 +197003,7 @@
     "squuid": "5d2dc567-1eb2-4e74-b208-99f88d80b6e2",
     "name": "Stylight GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:41:12.804Z",
+    "controlDate": "2026-06-12T09:36:03.635Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200554,7 +200594,7 @@
     "squuid": "62712a3d-6431-46dd-a6c4-17f76773e699",
     "name": "SWBB GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:26:15.163Z",
+    "controlDate": "2026-06-12T10:34:17.921Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -202922,7 +202962,7 @@
     "squuid": "5d38732f-4662-4cac-b4cd-a8d05786bd5f",
     "name": "Susanne Fischereigesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:10:29.332Z",
+    "controlDate": "2026-06-12T10:02:28.621Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -205693,8 +205733,9 @@
     "controlDate": "2026-01-08T14:13:42.256Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -208782,7 +208823,7 @@
     "squuid": "5ef5c92e-331b-47ab-8629-9b0215273730",
     "name": "Ströer Management SE",
     "state": "active",
-    "controlDate": "2026-01-05T12:27:30.295Z",
+    "controlDate": "2026-06-12T08:14:18.433Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -210781,7 +210822,7 @@
     "squuid": "5be1a6b6-9090-4c5c-ae70-858c745c1b36",
     "name": "Studio FFM Rundfunkprogramm-Anbietergesellschaft mbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-01-05T13:00:11.507Z",
+    "controlDate": "2026-06-12T08:57:15.293Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -211331,7 +211372,7 @@
     "squuid": "64006796-aa8b-47ac-aa94-931b4d36566d",
     "name": "Super Tipp Medien GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:07:21.587Z",
+    "controlDate": "2026-06-12T10:01:25.579Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216608,7 +216649,7 @@
     "name": "Niederbayern TV Deggendorf-Straubing GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5ccac6bb-64a5-4968-961e-45b37a85765f",
-    "controlDate": "2025-12-03T10:32:11.110Z",
+    "controlDate": "2026-06-12T07:49:12.656Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225118,7 +225159,7 @@
     "squuid": "5be1a6b6-95f7-48dd-963d-31b9a9277d0b",
     "name": "Stuttgarter Nachrichten Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:19:33.452Z",
+    "controlDate": "2026-06-12T09:22:02.222Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225701,7 +225742,7 @@
     "squuid": "5be1a6b6-ef3b-43ce-979a-eddf7669f94f",
     "name": "Stuttgarter Zeitung Verlagsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:32:11.615Z",
+    "controlDate": "2026-06-12T09:30:48.575Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225824,7 +225865,7 @@
     "squuid": "5be1a6b6-74b4-45bc-9d23-ca5ef1655be3",
     "name": "Syburger Verlag GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:45:11.804Z",
+    "controlDate": "2026-06-12T10:37:48.024Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -225903,6 +225944,24 @@
         "held": {
           "squuid": "5be1a6b1-2088-48ec-9a7c-b3ee729fe32c",
           "name": "www.tourenfahrer.de"
+        }
+      },
+      {
+        "squuid": "6a2be2f1-a569-423f-89a6-916451b7b4e0",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a2be2b9-cb3d-41d9-88c2-c098ead8eb32",
+          "name": "www.tourenfahrer.de/motorradabenteuer"
+        }
+      },
+      {
+        "squuid": "6a2be308-5f5c-4dbd-92c2-ed7b4940c663",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a2be2d3-b07e-46e6-9bfe-2e4a79f778d9",
+          "name": "www.tourenfahrer.de/motorradszene"
         }
       }
     ]
@@ -230968,7 +231027,7 @@
     "squuid": "5be1a6b6-4687-4e9d-be50-4d96ad36af0e",
     "name": "Stroh Druck und Medien GmbH Backnang",
     "state": "active",
-    "controlDate": "2026-01-05T12:22:00.904Z",
+    "controlDate": "2026-06-12T08:05:49.523Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242085,9 +242144,9 @@
   },
   {
     "squuid": "5be1a6b6-03e4-4007-9948-74e88cb1e596",
-    "name": "Ströer media brands GmbH",
+    "name": "Ströer Publishing Hub GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:27:45.488Z",
+    "controlDate": "2026-06-12T08:15:54.152Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -244524,7 +244583,7 @@
     "squuid": "5be1a6b6-2170-46c7-a9e6-5d59f5bf282e",
     "name": "Ströer Social Publishing GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:38:30.077Z",
+    "controlDate": "2026-06-12T08:21:55.710Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250214,7 +250273,7 @@
     "squuid": "5ef9a0f5-ba49-4973-827c-67b59a3b2c07",
     "name": "Studio FFM Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:58:10.083Z",
+    "controlDate": "2026-06-12T08:56:08.312Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250974,7 +251033,7 @@
     "name": "SV Medienproduktion GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-29a2-48cb-b73e-40122f032f42",
-    "controlDate": "2026-01-05T16:22:04.726Z",
+    "controlDate": "2026-06-12T10:31:12.876Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -255964,7 +256023,7 @@
     "squuid": "5be1a6b6-bcab-4cbe-82df-bf0be2b34cd8",
     "name": "Ströer Digital Publishing GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:25:56.436Z",
+    "controlDate": "2026-06-12T08:11:32.247Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -256015,7 +256074,7 @@
     "squuid": "5be1a6b6-597a-4f10-8361-53f199954657",
     "name": "Ströer SE & Co KG aA",
     "state": "active",
-    "controlDate": "2026-01-05T12:42:29.070Z",
+    "controlDate": "2026-06-12T08:32:48.629Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -259899,7 +259958,7 @@
     "squuid": "5f044662-f3f1-499f-ad0e-684eeb6016e2",
     "name": "SV Medienproduktion Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:21:51.118Z",
+    "controlDate": "2026-06-12T10:28:27.053Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -271431,7 +271490,7 @@
     "squuid": "5be1a6b6-710a-4e14-ad65-f50014a6c653",
     "name": "Ströer Content Group GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:25:43.712Z",
+    "controlDate": "2026-06-12T08:11:17.231Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280959,7 +281018,7 @@
     "squuid": "5be1a6b6-4949-48cc-9bae-1af437a38438",
     "name": "Sunshine Capital GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T14:49:41.620Z",
+    "controlDate": "2026-06-12T09:51:03.074Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282015,7 +282074,7 @@
     "squuid": "5be1a6b6-4e37-4bd7-9f2e-5b5232573caf",
     "name": "swinvests GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:26:46.322Z",
+    "controlDate": "2026-06-12T10:35:32.821Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -282028,7 +282087,7 @@
     "squuid": "5be1a6b6-2906-4ee9-b785-de61c13e8e3c",
     "name": "SVM Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-01-05T16:25:19.540Z",
+    "controlDate": "2026-06-12T10:33:30.560Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283337,7 +283396,7 @@
     "squuid": "5e29adbc-6446-4230-8bc6-fcbe2d8d6323",
     "name": "Ströer News Publishing GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:37:26.747Z",
+    "controlDate": "2026-06-12T08:21:00.433Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -292546,7 +292605,7 @@
     "squuid": "5be1a6b6-3468-4148-a435-08704e52004f",
     "name": "Swiss International Investment Portfolio AG",
     "state": "active",
-    "controlDate": "2026-01-05T16:27:23.304Z",
+    "controlDate": "2026-06-12T10:36:54.463Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -295120,7 +295179,7 @@
     "squuid": "5be1a6b6-5776-4e25-a11e-81ab43a31280",
     "name": "Süddeutsche Zeitung Digitale Medien GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T17:12:00.149Z",
+    "controlDate": "2026-06-12T11:05:03.044Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -295227,7 +295286,7 @@
     "squuid": "5be1a6b6-529d-43ba-9a64-b54ccf68776a",
     "name": "Ströer Next Publishing GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T12:38:02.868Z",
+    "controlDate": "2026-06-12T08:21:13.200Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -300816,6 +300875,7 @@
     "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943",
     "name": "Hoepfner Besser Wohnen Verwaltungs GmbH",
     "state": "active",
+    "controlDate": "2026-06-12T07:38:43.298Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -303132,7 +303192,7 @@
     "squuid": "5ee898af-87db-4964-a12f-9294ac21b57f",
     "name": "Studio Gong Deutschland Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-01-05T13:02:39.096Z",
+    "controlDate": "2026-06-12T08:59:13.406Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
