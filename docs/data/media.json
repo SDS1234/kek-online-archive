@@ -4061,7 +4061,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T09:43:49.750Z",
+    "controlDate": "2026-06-12T16:05:14.913Z",
     "state": "active"
   },
   {
@@ -5244,7 +5244,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-26T09:46:50.740Z",
+    "controlDate": "2026-06-12T15:51:58.983Z",
     "state": "active"
   },
   {
@@ -24879,7 +24879,7 @@
     "name": "www.disneyplus.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:35:46.677Z",
+    "controlDate": "2026-06-12T15:51:52.905Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27636,7 +27636,7 @@
     "name": "www.gehalt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:27:40.021Z",
+    "controlDate": "2026-06-12T15:40:40.382Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43375,7 +43375,7 @@
     "name": "www.radioholiday.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:17:46.426Z",
+    "controlDate": "2026-06-12T15:29:44.726Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44329,7 +44329,7 @@
     "name": "www.antenne-kl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:16:04.083Z",
+    "controlDate": "2026-06-12T15:28:47.877Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -57233,7 +57233,7 @@
     "name": "www.antenne.nrw",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:21:42.107Z",
+    "controlDate": "2026-06-12T15:32:53.302Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86061,7 +86061,7 @@
     "rfStatewide": false,
     "name": "Gäubote",
     "type": "print",
-    "controlDate": "2026-01-07T09:42:34.384Z",
+    "controlDate": "2026-06-12T16:03:54.496Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90349,7 +90349,7 @@
     "rfStatewide": false,
     "name": "Bocholter-Borkener Volksblatt",
     "type": "print",
-    "controlDate": "2026-01-06T14:34:51.032Z",
+    "controlDate": "2026-06-12T14:44:42.212Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -90372,7 +90372,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-06T14:42:00.030Z",
+    "controlDate": "2026-06-12T14:45:00.686Z",
     "state": "active"
   },
   {
@@ -111708,7 +111708,7 @@
     "name": "www.fupa.net/region/boeblingen-calw",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T09:43:38.486Z",
+    "controlDate": "2026-06-12T16:04:02.504Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138466,7 +138466,7 @@
     "name": "www.thinxpool.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T10:48:34.431Z",
+    "controlDate": "2026-06-12T16:07:56.921Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147394,7 +147394,7 @@
     "name": "www.tv.disney.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T09:11:05.965Z",
+    "controlDate": "2026-06-12T15:50:44.284Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155026,7 +155026,7 @@
     "name": "www.antenne-kh.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T10:21:30.266Z",
+    "controlDate": "2026-06-12T15:28:35.709Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155283,7 +155283,7 @@
     "name": "www.disney.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:53:29.598Z",
+    "controlDate": "2026-06-12T15:50:12.734Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155512,7 +155512,7 @@
     "name": "www.antenne-koblenz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T15:17:37.381Z",
+    "controlDate": "2026-06-12T15:29:21.028Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -155882,7 +155882,7 @@
     "name": "www.meinstadtkurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T14:42:06.963Z",
+    "controlDate": "2026-06-12T14:45:09.569Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161475,7 +161475,7 @@
     "name": "www.radioosnabrueck.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T14:52:20.967Z",
+    "controlDate": "2026-06-12T15:04:48.370Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163719,7 +163719,7 @@
     "name": "www.testsieger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-06T14:50:09.031Z",
+    "controlDate": "2026-06-12T14:53:43.754Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
