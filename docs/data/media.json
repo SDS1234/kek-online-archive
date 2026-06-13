@@ -2781,7 +2781,7 @@
     "rfStatewide": false,
     "name": "Neckar- und Enzbote",
     "type": "print",
-    "controlDate": "2026-01-08T12:12:49.710Z",
+    "controlDate": "2026-06-13T10:11:34.031Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2804,7 +2804,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T12:13:07.903Z",
+    "controlDate": "2026-06-13T10:11:45.569Z",
     "state": "active"
   },
   {
@@ -4613,7 +4613,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T14:54:48.443Z",
+    "controlDate": "2026-06-13T11:34:35.640Z",
     "state": "active"
   },
   {
@@ -5351,7 +5351,7 @@
     "name": "www.der-bote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-09T11:59:35.559Z",
+    "controlDate": "2026-06-13T11:32:57.367Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17344,7 +17344,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T14:16:24.575Z",
+    "controlDate": "2026-06-13T11:19:23.200Z",
     "state": "active"
   },
   {
@@ -21558,7 +21558,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T13:53:52.701Z",
+    "controlDate": "2026-06-13T10:40:03.906Z",
     "state": "active"
   },
   {
@@ -30367,7 +30367,7 @@
     "name": "www.neckar-und-enzbote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T12:15:34.792Z",
+    "controlDate": "2026-06-13T10:11:53.509Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48558,7 +48558,7 @@
     "name": "www.supersonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T15:00:37.716Z",
+    "controlDate": "2026-06-13T11:38:11.535Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -69866,7 +69866,7 @@
     "rfStatewide": false,
     "name": "Ludwigsburger Kreiszeitung",
     "type": "print",
-    "controlDate": "2026-01-08T12:12:30.152Z",
+    "controlDate": "2026-06-13T10:11:14.367Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -69906,7 +69906,7 @@
     "rfStatewide": false,
     "name": "VDI Nachrichten",
     "type": "print",
-    "controlDate": "2026-01-08T14:15:56.183Z",
+    "controlDate": "2026-06-13T11:19:08.083Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -70776,7 +70776,7 @@
     "rfStatewide": false,
     "name": "Der Bote",
     "type": "print",
-    "controlDate": "2026-01-09T11:58:45.959Z",
+    "controlDate": "2026-06-13T11:32:37.676Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -70820,7 +70820,7 @@
     "rfStatewide": false,
     "name": "burda style",
     "type": "print",
-    "controlDate": "2026-01-09T10:39:42.081Z",
+    "controlDate": "2026-06-13T11:40:46.874Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -70864,7 +70864,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-09T10:39:59.509Z",
+    "controlDate": "2026-06-13T11:41:04.450Z",
     "state": "active"
   },
   {
@@ -80825,7 +80825,7 @@
     "name": "www.vfb.de/tv/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T09:35:41.669Z",
+    "controlDate": "2026-06-13T11:26:46.028Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85498,7 +85498,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T13:58:36.679Z",
+    "controlDate": "2026-06-13T10:59:47.426Z",
     "state": "active"
   },
   {
@@ -92440,7 +92440,7 @@
     "rfStatewide": false,
     "name": "Junge Welt",
     "type": "print",
-    "controlDate": "2026-01-08T14:54:43.027Z",
+    "controlDate": "2026-06-13T11:34:27.855Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108835,7 +108835,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T14:35:25.947Z",
+    "controlDate": "2026-06-13T11:21:35.181Z",
     "state": "active"
   },
   {
@@ -110877,7 +110877,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T14:00:25.492Z",
+    "controlDate": "2026-06-13T11:12:52.153Z",
     "state": "active"
   },
   {
@@ -112289,7 +112289,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T12:26:33.718Z",
+    "controlDate": "2026-06-13T10:33:14.708Z",
     "state": "active"
   },
   {
@@ -127265,7 +127265,7 @@
     "name": "www.ingenieur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T14:16:05.184Z",
+    "controlDate": "2026-06-13T11:19:15.143Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131088,7 +131088,7 @@
     "name": "burda easy",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-09T10:39:21.142Z",
+    "controlDate": "2026-06-13T11:40:24.243Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131153,7 +131153,7 @@
     "name": "www.20min.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:51:42.347Z",
+    "controlDate": "2026-06-13T09:57:13.643Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132255,7 +132255,7 @@
     "name": "www.verdi.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T14:33:21.402Z",
+    "controlDate": "2026-06-13T11:20:58.771Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132299,7 +132299,7 @@
     "name": "www.verbraucherschutz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T14:14:41.375Z",
+    "controlDate": "2026-06-13T11:17:00.402Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133275,7 +133275,7 @@
     "name": "www.uefa.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T12:20:49.712Z",
+    "controlDate": "2026-06-13T10:31:02.164Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134784,7 +134784,7 @@
     "name": "Markgröninger Nachrichten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-08T12:12:42.636Z",
+    "controlDate": "2026-06-13T10:11:26.239Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135840,7 +135840,7 @@
     "name": "www.tagesanzeiger.ch",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:51:49.722Z",
+    "controlDate": "2026-06-13T09:57:27.106Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140234,7 +140234,7 @@
     "name": "Ludwig",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-08T12:09:06.971Z",
+    "controlDate": "2026-06-13T10:11:03.191Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140413,7 +140413,7 @@
     "name": "BiBi",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-08T12:08:51.709Z",
+    "controlDate": "2026-06-13T10:10:49.816Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146745,7 +146745,7 @@
     "name": "www.mephisto976.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T12:27:48.040Z",
+    "controlDate": "2026-06-13T10:34:37.056Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151013,7 +151013,7 @@
     "name": "burda stricken",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-09T10:39:35.634Z",
+    "controlDate": "2026-06-13T11:40:38.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161643,7 +161643,7 @@
     "name": "burda style best of",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-09T10:39:51.899Z",
+    "controlDate": "2026-06-13T11:40:56.619Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161802,7 +161802,7 @@
     "name": "burda kids",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-09T10:39:28.818Z",
+    "controlDate": "2026-06-13T11:40:31.212Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161915,7 +161915,7 @@
     "name": "burda curvy",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-09T10:39:11.104Z",
+    "controlDate": "2026-06-13T11:40:17.517Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
