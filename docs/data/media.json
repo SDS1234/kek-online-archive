@@ -5397,7 +5397,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T10:42:26.071Z",
+    "controlDate": "2026-06-13T08:05:09.203Z",
     "state": "active"
   },
   {
@@ -12929,7 +12929,7 @@
     "name": "www.radio-hbw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:34:19.652Z",
+    "controlDate": "2026-06-13T08:38:29.467Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17263,7 +17263,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T10:37:51.288Z",
+    "controlDate": "2026-06-13T08:00:48.467Z",
     "state": "active"
   },
   {
@@ -22696,7 +22696,7 @@
     "rfStatewide": false,
     "name": "Titanic",
     "type": "print",
-    "controlDate": "2026-01-07T10:44:48.952Z",
+    "controlDate": "2026-06-13T08:10:35.737Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -22720,7 +22720,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T10:44:57.660Z",
+    "controlDate": "2026-06-13T08:10:44.185Z",
     "state": "active"
   },
   {
@@ -30681,7 +30681,7 @@
     "name": "www.wismar-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:05:13.331Z",
+    "controlDate": "2026-06-13T09:11:18.012Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -37039,7 +37039,7 @@
     "name": "www.jenatv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:11:30.129Z",
+    "controlDate": "2026-06-13T09:22:35.682Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -38646,7 +38646,7 @@
     "name": "www.sonntagswochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:02:53.969Z",
+    "controlDate": "2026-06-13T08:17:20.742Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41855,7 +41855,7 @@
     "name": "TV Spielfilm XXL",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-07T12:17:40.567Z",
+    "controlDate": "2026-06-13T09:26:22.083Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43515,7 +43515,7 @@
     "name": "www.metropolregion.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:26:44.221Z",
+    "controlDate": "2026-06-13T09:30:29.994Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48035,7 +48035,7 @@
     "name": "www.tv-schwerin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:05:04.488Z",
+    "controlDate": "2026-06-13T09:11:12.541Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -64624,7 +64624,7 @@
     "name": "www.tnt-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:44:49.340Z",
+    "controlDate": "2026-06-13T08:42:25.076Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -67129,7 +67129,7 @@
     "name": "www.tvbayernlive.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:58:04.510Z",
+    "controlDate": "2026-06-13T09:01:17.993Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70502,7 +70502,7 @@
     "name": "www.tvo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:10:08.394Z",
+    "controlDate": "2026-06-13T09:18:52.981Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71725,7 +71725,7 @@
     "rfStatewide": false,
     "name": "Trierischer Volksfreund",
     "type": "print",
-    "controlDate": "2026-01-07T11:14:50.607Z",
+    "controlDate": "2026-06-13T08:31:59.975Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -76587,7 +76587,7 @@
     "name": "www.tvaktuell.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:31:26.398Z",
+    "controlDate": "2026-06-13T09:38:06.115Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79528,7 +79528,7 @@
     "name": "www.tvmainfranken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:09:00.762Z",
+    "controlDate": "2026-06-13T09:16:45.247Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85662,7 +85662,7 @@
     "rfStatewide": false,
     "name": "Cinema",
     "type": "print",
-    "controlDate": "2026-04-16T10:29:27.495Z",
+    "controlDate": "2026-06-13T09:25:48.734Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -90974,7 +90974,7 @@
     "rfStatewide": false,
     "name": "TV Spielfilm",
     "type": "print",
-    "controlDate": "2026-01-07T12:17:24.994Z",
+    "controlDate": "2026-06-13T09:26:14.768Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91014,7 +91014,7 @@
     "rfStatewide": false,
     "name": "TV Schlau",
     "type": "print",
-    "controlDate": "2026-01-07T12:17:13.988Z",
+    "controlDate": "2026-06-13T09:26:07.928Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91035,7 +91035,7 @@
     "rfStatewide": false,
     "name": "TV Today",
     "type": "print",
-    "controlDate": "2026-01-07T12:17:55.953Z",
+    "controlDate": "2026-06-13T09:26:30.597Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101601,7 +101601,7 @@
     "name": "www.beate-uhse.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T10:52:47.506Z",
+    "controlDate": "2026-06-13T08:14:05.597Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -102490,7 +102490,7 @@
     "rfStatewide": false,
     "name": "Tip Berlinmagazin",
     "type": "print",
-    "controlDate": "2026-01-07T10:41:52.551Z",
+    "controlDate": "2026-06-13T08:05:00.340Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105912,7 +105912,7 @@
     "name": "www.lust-pur.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T10:52:56.689Z",
+    "controlDate": "2026-06-13T08:14:12.305Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -108481,7 +108481,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T11:10:53.274Z",
+    "controlDate": "2026-06-13T08:25:55.719Z",
     "state": "active"
   },
   {
@@ -110012,7 +110012,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-08T11:35:06.525Z",
+    "controlDate": "2026-06-13T09:43:32.560Z",
     "state": "active"
   },
   {
@@ -119203,7 +119203,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T11:03:00.177Z",
+    "controlDate": "2026-06-13T08:17:30.102Z",
     "state": "active"
   },
   {
@@ -120893,7 +120893,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T11:16:01.887Z",
+    "controlDate": "2026-06-13T08:33:32.603Z",
     "state": "active"
   },
   {
@@ -134230,7 +134230,7 @@
     "name": "www.wahretabelle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:11:02.898Z",
+    "controlDate": "2026-06-13T08:26:02.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138524,7 +138524,7 @@
     "name": "www.cartoonito.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:44:27.569Z",
+    "controlDate": "2026-06-13T08:42:03.970Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139415,7 +139415,7 @@
     "name": "www.cartoonnetwork.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:44:38.449Z",
+    "controlDate": "2026-06-13T08:42:15.196Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140161,7 +140161,7 @@
     "name": "www.frankenfernsehen.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:32:42.500Z",
+    "controlDate": "2026-06-13T09:41:03.274Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151806,7 +151806,7 @@
     "name": "www.1730live.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T12:00:18.642Z",
+    "controlDate": "2026-06-13T09:06:41.923Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152867,7 +152867,7 @@
     "name": "www.die-woch.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:15:26.750Z",
+    "controlDate": "2026-06-13T08:32:10.940Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159339,7 +159339,7 @@
     "name": "www.fupa.net/region/rheinland",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:15:35.621Z",
+    "controlDate": "2026-06-13T08:32:18.981Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161286,7 +161286,7 @@
     "name": "www.brandsyoulove.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-07T11:07:51.147Z",
+    "controlDate": "2026-06-13T08:23:06.470Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162427,7 +162427,7 @@
     "name": "Stream iT!",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-07T12:16:27.995Z",
+    "controlDate": "2026-06-13T09:25:59.952Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162596,7 +162596,7 @@
     "name": "www.tvingolstadt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-08T11:28:35.707Z",
+    "controlDate": "2026-06-13T09:36:15.658Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163681,7 +163681,7 @@
     "name": "www.horads.de",
     "type": "online",
     "squuid": "5f3e8a49-151f-4e62-8b77-8dd35e6b10bb",
-    "controlDate": "2025-06-27T11:55:13.698Z",
+    "controlDate": "2026-06-13T08:37:52.593Z",
     "state": "active"
   },
   {
