@@ -1506,7 +1506,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T12:00:25.031Z",
+    "controlDate": "2026-06-14T13:28:56.686Z",
     "state": "active"
   },
   {
@@ -8879,7 +8879,7 @@
     "rfStatewide": false,
     "name": "caliber",
     "type": "print",
-    "controlDate": "2026-01-12T11:39:58.183Z",
+    "controlDate": "2026-06-14T12:51:06.370Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11184,7 +11184,7 @@
     "name": "www.rockland.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:26:25.859Z",
+    "controlDate": "2026-06-14T12:13:01.022Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -11703,7 +11703,7 @@
     "name": "www.radiosaw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:26:16.188Z",
+    "controlDate": "2026-06-14T12:12:48.384Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13533,7 +13533,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T09:22:04.908Z",
+    "controlDate": "2026-06-14T12:07:43.175Z",
     "state": "active"
   },
   {
@@ -13566,7 +13566,7 @@
     "rfStatewide": false,
     "name": "Handwerkswirtschaft",
     "type": "print",
-    "controlDate": "2026-01-12T11:49:06.219Z",
+    "controlDate": "2026-06-14T13:02:50.038Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -26616,7 +26616,7 @@
     "name": "www.vogtlandradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:47:58.261Z",
+    "controlDate": "2026-06-14T12:39:02.494Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34903,7 +34903,7 @@
     "name": "www.elternwissen.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:34:29.136Z",
+    "controlDate": "2026-06-14T12:17:42.495Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42747,7 +42747,7 @@
     "name": "www.storage-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:40:50.079Z",
+    "controlDate": "2026-06-14T12:22:49.848Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46368,7 +46368,7 @@
     "name": "www.bigdata-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:38:22.317Z",
+    "controlDate": "2026-06-14T12:21:35.704Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48059,7 +48059,7 @@
     "name": "www.cloudcomputing-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:38:53.422Z",
+    "controlDate": "2026-06-14T12:21:44.703Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48146,7 +48146,7 @@
     "name": "www.datacenter-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:39:01.034Z",
+    "controlDate": "2026-06-14T12:21:52.676Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48626,7 +48626,7 @@
     "name": "www.dev-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:39:21.189Z",
+    "controlDate": "2026-06-14T12:22:03.181Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72089,7 +72089,7 @@
     "rfStatewide": false,
     "name": "Wetzlarer Neue Zeitung",
     "type": "print",
-    "controlDate": "2026-01-12T11:35:31.374Z",
+    "controlDate": "2026-06-14T13:41:38.860Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81679,7 +81679,7 @@
     "rfStatewide": false,
     "name": "Dill-Zeitung",
     "type": "print",
-    "controlDate": "2026-01-12T10:37:41.276Z",
+    "controlDate": "2026-06-14T13:40:59.423Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84451,7 +84451,7 @@
     "name": "Wirtschaft (Mainfranken)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T09:29:54.256Z",
+    "controlDate": "2026-06-14T12:13:55.277Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85256,7 +85256,7 @@
     "rfStatewide": false,
     "name": "Soester Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-12T11:59:39.093Z",
+    "controlDate": "2026-06-14T13:28:46.586Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87015,7 +87015,7 @@
     "name": "www.healthcare-computing.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:40:00.860Z",
+    "controlDate": "2026-06-14T12:22:19.934Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90452,7 +90452,7 @@
     "name": "www.ip-insider.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:40:28.124Z",
+    "controlDate": "2026-06-14T12:22:29.683Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -92630,7 +92630,7 @@
     "name": "www.it-business.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:40:39.804Z",
+    "controlDate": "2026-06-14T12:22:40.470Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -92836,7 +92836,7 @@
     "rfStatewide": false,
     "name": "Visier",
     "type": "print",
-    "controlDate": "2026-01-12T11:39:43.608Z",
+    "controlDate": "2026-06-14T12:50:59.835Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -107687,7 +107687,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T09:35:20.618Z",
+    "controlDate": "2026-06-14T12:19:35.723Z",
     "state": "active"
   },
   {
@@ -112959,7 +112959,7 @@
     "rfStatewide": false,
     "name": "Szene Hamburg",
     "type": "print",
-    "controlDate": "2026-01-12T09:21:47.901Z",
+    "controlDate": "2026-06-14T12:07:27.695Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112980,7 +112980,7 @@
     "rfStatewide": false,
     "name": "hamburg:pur",
     "type": "print",
-    "controlDate": "2026-01-12T09:21:57.302Z",
+    "controlDate": "2026-06-14T12:07:35.666Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -120017,7 +120017,7 @@
     "rfStatewide": false,
     "name": "Hinterländer Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-12T10:38:49.176Z",
+    "controlDate": "2026-06-14T13:41:29.973Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120081,7 +120081,7 @@
     "rfStatewide": false,
     "name": "Herborner Tageblatt",
     "type": "print",
-    "controlDate": "2026-01-12T10:38:26.340Z",
+    "controlDate": "2026-06-14T13:41:18.413Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125695,7 +125695,7 @@
     "name": "www.b4bschwaben.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:30:17.995Z",
+    "controlDate": "2026-06-14T12:14:16.758Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127836,7 +127836,7 @@
     "name": "faktor wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T09:30:05.163Z",
+    "controlDate": "2026-06-14T12:14:03.767Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130014,7 +130014,7 @@
     "name": "www.egovernment-computing.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:39:52.597Z",
+    "controlDate": "2026-06-14T12:22:10.592Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130961,7 +130961,7 @@
     "name": "www.schlossbote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:44:04.148Z",
+    "controlDate": "2026-06-14T12:57:03.096Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131354,7 +131354,7 @@
     "name": "www.extra-blatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:49:53.322Z",
+    "controlDate": "2026-06-14T13:03:35.849Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134082,7 +134082,7 @@
     "name": "Bayerisch-Schwäbische Wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T09:29:42.897Z",
+    "controlDate": "2026-06-14T12:13:47.042Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140608,7 +140608,7 @@
     "name": "www.iz-regional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:41:18.417Z",
+    "controlDate": "2026-06-14T12:56:18.186Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140680,7 +140680,7 @@
     "name": "www.bayrischestaferl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:41:10.579Z",
+    "controlDate": "2026-06-14T12:55:41.548Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152502,7 +152502,7 @@
     "name": "www.hallo-augsburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T09:30:29.566Z",
+    "controlDate": "2026-06-14T12:14:24.030Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
