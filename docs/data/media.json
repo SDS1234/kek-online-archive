@@ -147,7 +147,7 @@
     "name": "www.fratz-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:01:48.182Z",
+    "controlDate": "2026-06-14T14:10:27.607Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -172,7 +172,7 @@
     "name": "fratz",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:55:23.828Z",
+    "controlDate": "2026-06-14T14:07:10.219Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -3244,7 +3244,7 @@
     "name": "www.darmstaedter-echo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:00:28.009Z",
+    "controlDate": "2026-06-14T14:08:58.452Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -5648,7 +5648,7 @@
     "rfStatewide": false,
     "name": "Hochheimer Zeitung",
     "type": "print",
-    "controlDate": "2026-01-12T10:39:20.602Z",
+    "controlDate": "2026-06-14T14:02:49.996Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -6641,7 +6641,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:06:45.792Z",
+    "controlDate": "2026-06-14T14:14:16.625Z",
     "state": "active"
   },
   {
@@ -6659,7 +6659,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:08:57.296Z",
+    "controlDate": "2026-06-14T14:15:19.381Z",
     "state": "active"
   },
   {
@@ -7228,7 +7228,7 @@
     "name": "www.dieburger-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:01:07.805Z",
+    "controlDate": "2026-06-14T14:09:25.107Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -20411,7 +20411,7 @@
     "name": "www.lz-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:08:09.103Z",
+    "controlDate": "2026-06-14T14:14:41.632Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24733,7 +24733,7 @@
     "name": "www.gross-gerauer-echo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:03:59.895Z",
+    "controlDate": "2026-06-14T14:13:10.501Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31741,7 +31741,7 @@
     "name": "sensor (Ausgabe Mainz)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:55:44.590Z",
+    "controlDate": "2026-06-14T14:07:28.036Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31761,7 +31761,7 @@
     "name": "sensor (Ausgabe Wiesbaden)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:55:55.945Z",
+    "controlDate": "2026-06-14T14:07:39.973Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31798,7 +31798,7 @@
     "name": "www.sensor-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:12:16.862Z",
+    "controlDate": "2026-06-14T14:17:50.917Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31842,7 +31842,7 @@
     "name": "www.sensor-wiesbaden.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:13:03.323Z",
+    "controlDate": "2026-06-14T14:18:29.368Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32504,7 +32504,7 @@
     "name": "www.fupa.net/region/rheinhessen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:03:08.901Z",
+    "controlDate": "2026-06-14T14:12:35.427Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32528,7 +32528,7 @@
     "name": "www.fupa.net/region/wiesbaden",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:03:21.611Z",
+    "controlDate": "2026-06-14T14:12:58.782Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35830,7 +35830,7 @@
     "name": "www.ruesselsheimer-echo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:11:58.198Z",
+    "controlDate": "2026-06-14T14:17:40.502Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -75060,7 +75060,7 @@
     "name": "A am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:28:04.641Z",
+    "controlDate": "2026-06-14T14:01:35.341Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -76774,7 +76774,7 @@
     "name": "W am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:53:32.048Z",
+    "controlDate": "2026-06-14T14:06:00.769Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86740,7 +86740,7 @@
     "rfStatewide": false,
     "name": "Kruschel",
     "type": "print",
-    "controlDate": "2026-01-12T10:39:32.624Z",
+    "controlDate": "2026-06-14T14:03:01.544Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86761,7 +86761,7 @@
     "rfStatewide": false,
     "name": "Allgemeine Zeitung (Mainz)",
     "type": "print",
-    "controlDate": "2026-01-12T10:31:01.578Z",
+    "controlDate": "2026-06-14T14:02:05.392Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -86801,7 +86801,7 @@
     "rfStatewide": false,
     "name": "Wiesbadener Kurier",
     "type": "print",
-    "controlDate": "2026-01-12T10:54:42.106Z",
+    "controlDate": "2026-06-14T14:06:19.989Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119982,7 +119982,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:01:24.902Z",
+    "controlDate": "2026-06-14T14:09:44.575Z",
     "state": "active"
   },
   {
@@ -120946,7 +120946,7 @@
     "rfStatewide": false,
     "name": "Main-Spitze",
     "type": "print",
-    "controlDate": "2026-01-12T10:48:06.187Z",
+    "controlDate": "2026-06-14T14:03:45.640Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -120966,7 +120966,7 @@
     "rfStatewide": false,
     "name": "Wormser Zeitung",
     "type": "print",
-    "controlDate": "2026-01-12T10:55:10.067Z",
+    "controlDate": "2026-06-14T14:06:51.588Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121135,7 +121135,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T10:58:35.060Z",
+    "controlDate": "2026-06-14T14:08:46.829Z",
     "state": "active"
   },
   {
@@ -121153,7 +121153,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:08:25.349Z",
+    "controlDate": "2026-06-14T14:15:05.504Z",
     "state": "active"
   },
   {
@@ -121171,7 +121171,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:14:05.560Z",
+    "controlDate": "2026-06-14T14:19:29.841Z",
     "state": "active"
   },
   {
@@ -121267,7 +121267,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:13:52.766Z",
+    "controlDate": "2026-06-14T14:19:20.793Z",
     "state": "active"
   },
   {
@@ -121335,7 +121335,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T11:06:09.908Z",
+    "controlDate": "2026-06-14T14:13:25.959Z",
     "state": "active"
   },
   {
@@ -137761,7 +137761,7 @@
     "name": "VRM Tageszeitungen (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:52:19.914Z",
+    "controlDate": "2026-06-14T14:04:53.092Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156958,7 +156958,7 @@
     "name": "www.fupa.net/region/darmstadt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:02:02.612Z",
+    "controlDate": "2026-06-14T14:10:45.262Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158779,7 +158779,7 @@
     "name": "www.fupa.net/region/mittelhessen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:02:23.505Z",
+    "controlDate": "2026-06-14T14:11:41.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159030,7 +159030,7 @@
     "name": "www.fupa.net/region/nahe",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:02:43.175Z",
+    "controlDate": "2026-06-14T14:12:08.806Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163633,7 +163633,7 @@
     "name": "www.rhein-main-wochenblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:10:22.302Z",
+    "controlDate": "2026-06-14T14:17:20.308Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164159,7 +164159,7 @@
     "name": "www.p-stadtkultur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T11:09:41.396Z",
+    "controlDate": "2026-06-14T14:16:42.379Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
