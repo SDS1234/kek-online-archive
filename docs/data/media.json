@@ -11,7 +11,7 @@
     "name": "Speisekammer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T14:50:49.735Z",
+    "controlDate": "2026-06-15T10:15:21.479Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -1867,7 +1867,7 @@
     "rfStatewide": false,
     "name": "Westfälisches Volksblatt",
     "type": "print",
-    "controlDate": "2026-01-13T11:26:01.550Z",
+    "controlDate": "2026-06-15T11:35:16.509Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -13244,7 +13244,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-19T15:48:05.170Z",
+    "controlDate": "2026-06-15T09:32:49.325Z",
     "state": "active"
   },
   {
@@ -13723,7 +13723,7 @@
     "rfStatewide": false,
     "name": "Brettener Woche",
     "type": "print",
-    "controlDate": "2026-01-13T13:09:50.605Z",
+    "controlDate": "2026-06-15T13:00:04.350Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -15289,7 +15289,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:32:28.794Z",
+    "controlDate": "2026-06-15T09:48:25.057Z",
     "state": "active"
   },
   {
@@ -17239,7 +17239,7 @@
     "rfStatewide": false,
     "name": "t3n Magazin - digital pioneers",
     "type": "print",
-    "controlDate": "2026-01-14T10:00:30.896Z",
+    "controlDate": "2026-06-15T15:05:50.155Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17555,7 +17555,7 @@
     "rfStatewide": false,
     "name": "Werde",
     "type": "print",
-    "controlDate": "2026-01-12T15:21:21.321Z",
+    "controlDate": "2026-06-15T10:32:18.091Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17579,7 +17579,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T15:21:29.731Z",
+    "controlDate": "2026-06-15T10:32:50.053Z",
     "state": "active"
   },
   {
@@ -17597,7 +17597,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T11:36:12.306Z",
+    "controlDate": "2026-06-15T11:39:19.871Z",
     "state": "active"
   },
   {
@@ -19990,7 +19990,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T12:38:05.930Z",
+    "controlDate": "2026-06-15T12:22:14.689Z",
     "state": "active"
   },
   {
@@ -20310,7 +20310,7 @@
     "rfStatewide": false,
     "name": "Brot",
     "type": "print",
-    "controlDate": "2026-01-12T14:48:42.535Z",
+    "controlDate": "2026-06-15T10:14:33.047Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20334,7 +20334,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:53:28.717Z",
+    "controlDate": "2026-06-15T10:15:59.520Z",
     "state": "active"
   },
   {
@@ -20349,7 +20349,7 @@
     "rfStatewide": false,
     "name": "Modellflieger",
     "type": "print",
-    "controlDate": "2026-01-12T14:50:26.089Z",
+    "controlDate": "2026-06-15T10:15:01.542Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20373,7 +20373,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:54:35.529Z",
+    "controlDate": "2026-06-15T10:16:32.379Z",
     "state": "active"
   },
   {
@@ -20436,7 +20436,7 @@
     "rfStatewide": false,
     "name": "Drones",
     "type": "print",
-    "controlDate": "2026-01-12T14:49:34.139Z",
+    "controlDate": "2026-06-15T10:14:39.897Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20460,7 +20460,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:54:13.992Z",
+    "controlDate": "2026-06-15T10:16:09.115Z",
     "state": "active"
   },
   {
@@ -20534,7 +20534,7 @@
     "rfStatewide": false,
     "name": "Trucks & Details",
     "type": "print",
-    "controlDate": "2026-01-12T14:51:12.417Z",
+    "controlDate": "2026-06-15T10:15:40.998Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20558,7 +20558,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:54:50.961Z",
+    "controlDate": "2026-06-15T10:16:48.966Z",
     "state": "active"
   },
   {
@@ -20593,7 +20593,7 @@
     "rfStatewide": false,
     "name": "Einfach Pizza",
     "type": "print",
-    "controlDate": "2026-01-12T14:49:46.682Z",
+    "controlDate": "2026-06-15T10:14:46.278Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20671,7 +20671,7 @@
     "rfStatewide": false,
     "name": "SchiffsModell",
     "type": "print",
-    "controlDate": "2026-01-12T14:50:38.129Z",
+    "controlDate": "2026-06-15T10:15:13.838Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -20695,7 +20695,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:54:43.270Z",
+    "controlDate": "2026-06-15T10:16:41.173Z",
     "state": "active"
   },
   {
@@ -20769,7 +20769,7 @@
     "rfStatewide": false,
     "name": "Teddys kreativ",
     "type": "print",
-    "controlDate": "2026-01-12T14:51:03.199Z",
+    "controlDate": "2026-06-15T10:15:31.646Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -24552,7 +24552,7 @@
     "name": "Apotheken Umschau",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:04:50.364Z",
+    "controlDate": "2026-06-15T14:28:14.749Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24571,7 +24571,7 @@
     "name": "www.apotheken-umschau.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T15:07:30.816Z",
+    "controlDate": "2026-06-15T14:29:18.680Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25132,7 +25132,7 @@
     "name": "Apotheken Umschau Eltern",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:04:57.171Z",
+    "controlDate": "2026-06-15T14:28:21.500Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25519,7 +25519,7 @@
     "name": "Diabetes Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:05:19.526Z",
+    "controlDate": "2026-06-15T14:28:29.134Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25562,7 +25562,7 @@
     "name": "www.diabetes-ratgeber.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T15:07:55.389Z",
+    "controlDate": "2026-06-15T14:29:31.040Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25836,7 +25836,7 @@
     "name": "Senioren Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:06:16.537Z",
+    "controlDate": "2026-06-15T14:28:57.978Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -25875,7 +25875,7 @@
     "name": "www.senioren-ratgeber.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T15:08:45.454Z",
+    "controlDate": "2026-06-15T14:29:52.561Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26334,7 +26334,7 @@
     "name": "medizini",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:06:55.202Z",
+    "controlDate": "2026-06-15T14:29:07.273Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -28504,7 +28504,7 @@
     "name": "www.pc-magazin.de/pcgo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:45:11.247Z",
+    "controlDate": "2026-06-15T10:07:58.456Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29953,7 +29953,7 @@
     "name": "www.wob24.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T13:13:40.712Z",
+    "controlDate": "2026-06-15T13:04:09.574Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30145,7 +30145,7 @@
     "name": "www.wartburgradio.org",
     "type": "online",
     "squuid": "6866b167-a530-41f6-8bc7-00df1a0ddcc0",
-    "controlDate": "2026-01-12T12:44:01.933Z",
+    "controlDate": "2026-06-15T09:34:19.363Z",
     "state": "active"
   },
   {
@@ -33893,7 +33893,7 @@
     "name": "www.1fachpizza.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:53:17.577Z",
+    "controlDate": "2026-06-15T10:15:49.146Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35290,7 +35290,7 @@
     "name": "HausArzt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:05:46.357Z",
+    "controlDate": "2026-06-15T14:28:35.824Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35334,7 +35334,7 @@
     "name": "Ärztlicher Ratgeber",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T15:09:23.519Z",
+    "controlDate": "2026-06-15T14:30:00.393Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35353,7 +35353,7 @@
     "name": "www.wdrmaus.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:09:50.798Z",
+    "controlDate": "2026-06-15T11:23:21.856Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35435,7 +35435,7 @@
     "name": "www.hausarzt-patientenmagazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T15:08:14.810Z",
+    "controlDate": "2026-06-15T14:29:41.275Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36817,7 +36817,7 @@
     "name": "www1.wdr.de/radio/cosmo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:11:39.202Z",
+    "controlDate": "2026-06-15T11:24:03.427Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39295,7 +39295,7 @@
     "name": "www.wochenpostonline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-06-30T13:39:50.422Z",
+    "controlDate": "2026-06-15T13:24:23.536Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41094,7 +41094,7 @@
     "name": "www.sat1nrw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T15:51:45.568Z",
+    "controlDate": "2026-06-15T11:08:01.886Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43734,7 +43734,7 @@
     "name": "www.wochenkurier.info",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T14:34:51.039Z",
+    "controlDate": "2026-06-15T13:20:51.702Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -44961,7 +44961,7 @@
     "name": "www.quarks.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T08:34:55.106Z",
+    "controlDate": "2026-06-15T11:22:24.407Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -45684,7 +45684,7 @@
     "name": "www.baugewerbe-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:36:46.847Z",
+    "controlDate": "2026-06-15T09:58:59.194Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -47397,7 +47397,7 @@
     "name": "www.wirin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T12:49:17.939Z",
+    "controlDate": "2026-06-15T12:29:47.185Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48190,7 +48190,7 @@
     "name": "www.computer-automation.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:41:58.939Z",
+    "controlDate": "2026-06-15T10:06:17.649Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -50309,7 +50309,7 @@
     "name": "Wirtschaftskurier",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T13:20:09.338Z",
+    "controlDate": "2026-06-15T09:48:06.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -50393,7 +50393,7 @@
     "name": "www.wirtschaftskurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T13:33:19.824Z",
+    "controlDate": "2026-06-15T09:48:40.720Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -51865,7 +51865,7 @@
     "name": "www.rictv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T10:08:39.991Z",
+    "controlDate": "2026-06-15T15:11:12.087Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -52527,7 +52527,7 @@
     "name": "Börse am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T13:16:13.138Z",
+    "controlDate": "2026-06-15T09:47:45.827Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -52604,7 +52604,7 @@
     "name": "www.boerse-am-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T13:29:35.784Z",
+    "controlDate": "2026-06-15T09:48:17.296Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -54103,7 +54103,7 @@
     "name": "www.elektroniknet.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:36:57.841Z",
+    "controlDate": "2026-06-15T09:59:06.531Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71342,7 +71342,7 @@
     "name": "WB Mein Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T11:25:24.318Z",
+    "controlDate": "2026-06-15T11:34:46.490Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -71524,7 +71524,7 @@
     "rfStatewide": false,
     "name": "Winsener Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-13T12:41:52.646Z",
+    "controlDate": "2026-06-15T12:24:54.666Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -71828,7 +71828,7 @@
     "rfStatewide": false,
     "name": "PC go",
     "type": "print",
-    "controlDate": "2026-01-12T14:40:29.503Z",
+    "controlDate": "2026-06-15T10:05:27.429Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71849,7 +71849,7 @@
     "rfStatewide": false,
     "name": "Audio + stereoplay",
     "type": "print",
-    "controlDate": "2026-01-12T14:40:10.928Z",
+    "controlDate": "2026-06-15T10:03:22.290Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71912,7 +71912,7 @@
     "rfStatewide": false,
     "name": "connect",
     "type": "print",
-    "controlDate": "2025-01-06T09:53:06.243Z",
+    "controlDate": "2026-06-15T10:05:34.120Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71933,7 +71933,7 @@
     "rfStatewide": false,
     "name": "PC Magazin",
     "type": "print",
-    "controlDate": "2026-01-12T14:40:21.647Z",
+    "controlDate": "2026-06-15T10:05:21.148Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71957,7 +71957,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:42:45.423Z",
+    "controlDate": "2026-06-15T10:06:53.572Z",
     "state": "active"
   },
   {
@@ -71975,7 +71975,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:45:04.252Z",
+    "controlDate": "2026-06-15T10:07:50.322Z",
     "state": "active"
   },
   {
@@ -72013,7 +72013,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T15:24:58.682Z",
+    "controlDate": "2026-06-15T10:35:09.891Z",
     "state": "active"
   },
   {
@@ -72031,7 +72031,7 @@
     "rfStatewide": false,
     "name": "Westfalen-Blatt",
     "type": "print",
-    "controlDate": "2026-01-13T11:25:39.841Z",
+    "controlDate": "2026-06-15T11:35:00.170Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72054,7 +72054,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T11:26:33.773Z",
+    "controlDate": "2026-06-15T11:35:38.679Z",
     "state": "active"
   },
   {
@@ -81080,7 +81080,7 @@
     "name": "www.wochenspiegel-thueringen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T14:38:02.021Z",
+    "controlDate": "2026-06-15T13:27:17.141Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -82156,7 +82156,7 @@
     "name": "www1.wdr.de/fernsehen/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:11:11.339Z",
+    "controlDate": "2026-06-15T11:23:44.259Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83264,7 +83264,7 @@
     "name": "www.weltderwunder.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T15:00:09.891Z",
+    "controlDate": "2026-06-15T10:23:01.428Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -83988,7 +83988,7 @@
     "rfStatewide": false,
     "name": "WA Westfälischer Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-13T11:47:31.783Z",
+    "controlDate": "2026-06-15T11:46:27.548Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84011,7 +84011,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T11:49:31.281Z",
+    "controlDate": "2026-06-15T11:47:28.640Z",
     "state": "active"
   },
   {
@@ -85004,7 +85004,7 @@
     "name": "www.wrc.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T09:40:40.847Z",
+    "controlDate": "2026-06-15T14:54:11.582Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89258,7 +89258,7 @@
     "name": "www.industrial-production.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:43:55.749Z",
+    "controlDate": "2026-06-15T10:07:07.384Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90908,7 +90908,7 @@
     "rfStatewide": false,
     "name": "MIT Technology Review",
     "type": "print",
-    "controlDate": "2026-01-14T10:00:20.335Z",
+    "controlDate": "2026-06-15T15:05:41.531Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -92178,7 +92178,7 @@
     "name": "www.wobla.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T13:16:55.131Z",
+    "controlDate": "2026-06-15T13:11:36.692Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94993,7 +94993,7 @@
     "name": "www.labo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:44:06.426Z",
+    "controlDate": "2026-06-15T10:07:20.046Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -95170,7 +95170,7 @@
     "name": "www1.wdr.de/radio/1live/",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:11:28.736Z",
+    "controlDate": "2026-06-15T11:23:53.276Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -97725,7 +97725,7 @@
     "name": "www.lanline.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:44:43.046Z",
+    "controlDate": "2026-06-15T10:07:33.230Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98251,7 +98251,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T11:53:06.336Z",
+    "controlDate": "2026-06-15T11:53:45.751Z",
     "state": "active"
   },
   {
@@ -99401,7 +99401,7 @@
     "rfStatewide": false,
     "name": "Markt und Mittelstand",
     "type": "print",
-    "controlDate": "2026-01-12T13:19:27.893Z",
+    "controlDate": "2026-06-15T09:47:57.561Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99421,7 +99421,7 @@
     "name": "www.materialfluss.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:44:55.674Z",
+    "controlDate": "2026-06-15T10:07:42.617Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -101323,7 +101323,7 @@
     "rfStatewide": false,
     "name": "Westfalium",
     "type": "print",
-    "controlDate": "2026-01-13T11:36:04.728Z",
+    "controlDate": "2026-06-15T11:39:12.752Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104357,7 +104357,7 @@
     "name": "www.das-blv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T15:53:57.374Z",
+    "controlDate": "2026-06-15T11:04:17.437Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105550,7 +105550,7 @@
     "name": "www.fixundfoxi.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T10:08:33.276Z",
+    "controlDate": "2026-06-15T15:11:05.360Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -106044,7 +106044,7 @@
     "rfStatewide": false,
     "name": "Glaube und Heimat",
     "type": "print",
-    "controlDate": "2026-02-02T14:16:40.656Z",
+    "controlDate": "2026-06-15T09:31:59.640Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -106935,7 +106935,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T11:56:34.103Z",
+    "controlDate": "2026-06-15T12:03:32.843Z",
     "state": "active"
   },
   {
@@ -106953,7 +106953,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:33:01.957Z",
+    "controlDate": "2026-06-15T15:13:50.292Z",
     "state": "active"
   },
   {
@@ -107928,7 +107928,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:02:04.038Z",
+    "controlDate": "2026-06-15T09:40:30.970Z",
     "state": "active"
   },
   {
@@ -107970,7 +107970,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:04:00.480Z",
+    "controlDate": "2026-06-15T09:40:50.642Z",
     "state": "active"
   },
   {
@@ -108673,7 +108673,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T09:55:51.459Z",
+    "controlDate": "2026-06-15T15:03:33.841Z",
     "state": "active"
   },
   {
@@ -110386,7 +110386,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:10:08.702Z",
+    "controlDate": "2026-06-15T09:43:29.621Z",
     "state": "active",
     "matchedNames": [
       "webfail.com"
@@ -110913,7 +110913,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T10:11:07.418Z",
+    "controlDate": "2026-06-15T15:13:08.460Z",
     "state": "active",
     "matchedNames": [
       "zattoo.com"
@@ -111819,7 +111819,7 @@
     "name": "Medicus",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-15T08:11:07.466Z",
+    "controlDate": "2026-06-15T14:28:47.243Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112417,7 +112417,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T10:00:36.982Z",
+    "controlDate": "2026-06-15T15:06:00.386Z",
     "state": "active"
   },
   {
@@ -112485,7 +112485,7 @@
     "name": "www.wochenblatt-bb.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T13:36:39.571Z",
+    "controlDate": "2026-06-15T13:14:04.534Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112797,7 +112797,7 @@
     "rfStatewide": false,
     "name": "Westdeutsche Zeitung",
     "type": "print",
-    "controlDate": "2026-01-12T15:59:18.734Z",
+    "controlDate": "2026-06-15T11:15:09.205Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -112860,7 +112860,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T16:00:34.351Z",
+    "controlDate": "2026-06-15T11:17:05.587Z",
     "state": "active"
   },
   {
@@ -113377,7 +113377,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:03:53.042Z",
+    "controlDate": "2026-06-15T09:40:44.812Z",
     "state": "active"
   },
   {
@@ -113395,7 +113395,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T13:03:37.234Z",
+    "controlDate": "2026-06-15T09:40:37.398Z",
     "state": "active"
   },
   {
@@ -116184,7 +116184,7 @@
     "rfStatewide": false,
     "name": "Flugmodell",
     "type": "print",
-    "controlDate": "2026-01-12T14:49:55.966Z",
+    "controlDate": "2026-06-15T10:14:53.142Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -116208,7 +116208,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-12T14:54:26.295Z",
+    "controlDate": "2026-06-15T10:16:23.629Z",
     "state": "active"
   },
   {
@@ -117457,7 +117457,7 @@
     "name": "www.zeit.de/zeitmagazin",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T14:34:39.037Z",
+    "controlDate": "2026-06-15T15:13:57.679Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -120326,7 +120326,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T12:07:19.838Z",
+    "controlDate": "2026-06-15T12:15:18.268Z",
     "state": "active"
   },
   {
@@ -123296,7 +123296,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-13T12:43:19.683Z",
+    "controlDate": "2026-06-15T12:25:09.943Z",
     "state": "active"
   },
   {
@@ -126367,7 +126367,7 @@
     "name": "www.bremen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:56:55.054Z",
+    "controlDate": "2026-06-15T12:04:16.850Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -127699,7 +127699,7 @@
     "name": "www.herforder-kreisblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:26:16.357Z",
+    "controlDate": "2026-06-15T11:35:28.909Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128489,7 +128489,7 @@
     "name": "www.yahoo.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T09:55:58.540Z",
+    "controlDate": "2026-06-15T15:03:41.449Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -128795,7 +128795,7 @@
     "name": "www.wwe.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T09:42:20.748Z",
+    "controlDate": "2026-06-15T14:25:41.562Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131257,7 +131257,7 @@
     "name": "www.wetterkontor.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:55:45.804Z",
+    "controlDate": "2026-06-15T12:02:13.670Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -131666,7 +131666,7 @@
     "name": "www1.wdr.de/radio/wdr2",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:12:05.889Z",
+    "controlDate": "2026-06-15T11:24:11.637Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133743,7 +133743,7 @@
     "name": "www.weserreport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T15:55:31.843Z",
+    "controlDate": "2026-06-15T11:04:37.360Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134031,7 +134031,7 @@
     "name": "www.zeit.de/zett",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T14:34:49.283Z",
+    "controlDate": "2026-06-15T15:14:03.055Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135133,7 +135133,7 @@
     "name": "www.delmereport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T15:54:34.915Z",
+    "controlDate": "2026-06-15T11:04:23.877Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135157,7 +135157,7 @@
     "name": "www.hammereport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T15:55:01.972Z",
+    "controlDate": "2026-06-15T11:04:31.324Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135346,7 +135346,7 @@
     "name": "www.allerreport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T15:31:39.107Z",
+    "controlDate": "2026-06-15T11:04:11.334Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136531,7 +136531,7 @@
     "name": "www.kraichgau.news",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-23T10:56:15.825Z",
+    "controlDate": "2026-06-15T13:00:14.537Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -140185,7 +140185,7 @@
     "name": "www.steuertipps.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T14:49:04.335Z",
+    "controlDate": "2026-06-15T14:19:54.760Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141998,7 +141998,7 @@
     "name": "www1.wdr.de/radio/wdr3",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:12:16.066Z",
+    "controlDate": "2026-06-15T11:24:22.780Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142251,7 +142251,7 @@
     "name": "www1.wdr.de/radio/wdr5",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:12:32.140Z",
+    "controlDate": "2026-06-15T11:24:38.853Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142323,7 +142323,7 @@
     "name": "www1.wdr.de/radio/wdr4",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:12:23.976Z",
+    "controlDate": "2026-06-15T11:24:31.562Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142483,7 +142483,7 @@
     "name": "www.connect-professional.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:42:32.082Z",
+    "controlDate": "2026-06-15T10:06:43.931Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142507,7 +142507,7 @@
     "name": "www.connect-living.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:42:22.316Z",
+    "controlDate": "2026-06-15T10:06:33.528Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142531,7 +142531,7 @@
     "name": "www.connect-channel.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T14:42:12.878Z",
+    "controlDate": "2026-06-15T10:06:25.401Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146558,7 +146558,7 @@
     "name": "OWL-Wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-13T11:25:13.790Z",
+    "controlDate": "2026-06-15T11:34:34.883Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149430,7 +149430,7 @@
     "name": "www.theeuropean.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T13:32:35.669Z",
+    "controlDate": "2026-06-15T09:48:34.016Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -151112,7 +151112,7 @@
     "name": "www1.wdr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T16:10:59.667Z",
+    "controlDate": "2026-06-15T11:23:34.259Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152017,6 +152017,30 @@
     "rfPublicPrivate": false,
     "type": "online",
     "controlDate": "2021-04-14T14:42:54.520Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6a2fe1e2-074e-4238-8661-40abbc9db2aa",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www1.wdr/radio/wdr-event",
+    "rfPublicPrivate": false,
+    "type": "online",
+    "controlDate": "2026-06-15T11:29:07.244Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153402,7 +153426,7 @@
     "name": "www.eder-diemel-tipp.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T12:07:08.990Z",
+    "controlDate": "2026-06-15T12:15:09.289Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153470,7 +153494,7 @@
     "name": "www.yoltv.eu",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T10:06:11.442Z",
+    "controlDate": "2026-06-15T15:08:25.558Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153596,7 +153620,7 @@
     "name": "www.marktspiegel-stadtkurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T14:44:13.011Z",
+    "controlDate": "2026-06-15T13:39:47.469Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154865,7 +154889,7 @@
     "name": "www.wzo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T14:43:11.250Z",
+    "controlDate": "2026-06-15T13:39:10.648Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156842,7 +156866,7 @@
     "name": "www.wetter.com/tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:53:15.151Z",
+    "controlDate": "2026-06-15T11:53:52.319Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161618,7 +161642,7 @@
     "name": "www.hallo-hameln-pyrmont.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T15:32:45.812Z",
+    "controlDate": "2026-06-15T11:06:01.422Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163763,7 +163787,7 @@
     "name": "www.wa-anzeigenblaetter.de/stadtanzeiger-soest",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:48:44.795Z",
+    "controlDate": "2026-06-15T11:47:11.993Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163855,7 +163879,7 @@
     "name": "www.wa-anzeigenblatter.de/der-bote",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:49:18.610Z",
+    "controlDate": "2026-06-15T11:47:19.311Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163971,7 +163995,7 @@
     "name": "www.wa-anzeigenblaetter.de/stadtanzeiger-hamm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-13T11:48:34.998Z",
+    "controlDate": "2026-06-15T11:47:00.215Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
