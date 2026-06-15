@@ -15501,8 +15501,9 @@
     "controlDate": "2019-06-25T08:51:48.299Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -82179,8 +82180,9 @@
   },
   {
     "squuid": "6a2c28ec-14ae-4dd9-883c-6d9115a37164",
-    "name": "The Stepstone MidCo 2 GmbH",
+    "name": "The Stepstone Group MidCo 2 GmbH",
     "state": "active",
+    "controlDate": "2026-06-15T07:25:04.871Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137912,7 +137914,7 @@
     "name": "VRM Mittelhessen Holding GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-9c81-4e27-8fd5-9a2ac9fddbdb",
-    "controlDate": "2026-01-12T11:31:47.119Z",
+    "controlDate": "2026-06-15T09:02:13.146Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -197039,7 +197041,7 @@
     "squuid": "63d7cc7a-7981-4914-b26f-86f6c57fd114",
     "name": "Verlag Nibelungen Kurier GmbH",
     "state": "active",
-    "controlDate": "2026-06-13T13:28:59.924Z",
+    "controlDate": "2026-06-15T08:38:11.352Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -198595,7 +198597,7 @@
     "squuid": "5ee9fe85-5fd7-4f8b-a07e-3dceb5731543",
     "name": "Titanic GmbH",
     "state": "active",
-    "controlDate": "2026-06-13T08:08:14.662Z",
+    "controlDate": "2026-06-15T07:39:15.359Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -242979,15 +242981,6 @@
     ],
     "operates": [
       {
-        "squuid": "5be1a6b9-d6e5-45d3-a25d-f0358ffdea03",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-f2a3-486a-8737-d2f8f8ad21c9",
-          "name": "www.firmenwissen.de"
-        }
-      },
-      {
         "squuid": "602d1e25-fe2f-4d65-85d8-e82fe6114462",
         "type": "operate",
         "state": "active",
@@ -243447,6 +243440,18 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a2fa984-716b-4944-bb7f-2c61005d5b68",
+    "name": "The Stepstone Group MidCo 1 GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -262257,9 +262262,9 @@
   },
   {
     "squuid": "5be1a6b6-501e-4873-833d-0035f6f74f4a",
-    "name": "Verlag und Buchhandlung der Evangelischen Gesellschaft Stuttgart mbH",
+    "name": "Evangelischer Verlag Stuttgart GmbH",
     "state": "active",
-    "controlDate": "2026-06-14T10:00:17.129Z",
+    "controlDate": "2026-06-15T08:40:23.090Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
