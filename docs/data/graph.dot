@@ -35709,7 +35709,7 @@ digraph {
     num_medias=92
     num_medias_weighted=27.5739
     name="5cb74c22-0d93-4491-a253-f98685ffbc69"
-    in_degree=6
+    in_degree=8
     out_degree=1
   ];
   2976 [
@@ -68406,11 +68406,11 @@ digraph {
     label="Hussendörfer, Monika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=98
-    num_medias_weighted=4.4058
+    num_medias=92
+    num_medias_weighted=4.2562
     name="5be1a6b6-02cb-4f9a-9832-3fcc27788176"
     in_degree=0
-    out_degree=3
+    out_degree=1
   ];
   5701 [
     type=shareholder
@@ -112122,11 +112122,11 @@ digraph {
     label="Pleyer, Nina"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=98
+    num_medias_weighted=1.3849
     name="6a1d6593-ca1a-4460-86a2-f175b6d47ea7"
     in_degree=0
-    out_degree=0
+    out_degree=3
   ];
   9344 [
     type=shareholder
@@ -113565,7 +113565,7 @@ digraph {
     num_medias=63
     num_medias_weighted=15.4667
     name="5be1a6b6-e093-4174-9a60-584455023300"
-    in_degree=5
+    in_degree=7
     out_degree=3
   ];
   9464 [
@@ -160293,7 +160293,7 @@ digraph {
     num_medias=92
     num_medias_weighted=46.7196
     name="5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
-    in_degree=9
+    in_degree=12
     out_degree=44
   ];
   13358 [
@@ -161118,11 +161118,11 @@ digraph {
     label="Vestner, Anna"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=98
+    num_medias_weighted=0.5692
     name="6a1d656e-4f89-4cd9-a3ce-3fc33b0db093"
     in_degree=0
-    out_degree=0
+    out_degree=3
   ];
   13427 [
     type=shareholder
@@ -161130,11 +161130,11 @@ digraph {
     label="Vestner, Jakob"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=98
+    num_medias_weighted=0.5692
     name="6a1d657e-3b67-42a8-b32f-8276f0bcb7cf"
     in_degree=0
-    out_degree=0
+    out_degree=3
   ];
   13428 [
     type=shareholder
@@ -237593,14 +237593,6 @@ digraph {
     weight=35
     type=owns
   ];
-  5700 -> 2975 [
-    weight=10
-    type=owns
-  ];
-  5700 -> 9463 [
-    weight=10
-    type=owns
-  ];
   5700 -> 13357 [
     weight=9.11
     type=owns
@@ -254898,6 +254890,18 @@ digraph {
     type=owns
   ];
   9342 -> 11220 [
+    weight=1
+    type=owns
+  ];
+  9343 -> 2975 [
+    weight=4.07
+    type=owns
+  ];
+  9343 -> 9463 [
+    weight=4.08
+    type=owns
+  ];
+  9343 -> 13357 [
     weight=1
     type=owns
   ];
@@ -273755,6 +273759,30 @@ digraph {
   ];
   13425 -> 10229 [
     weight=25
+    type=owns
+  ];
+  13426 -> 2975 [
+    weight=1.67
+    type=owns
+  ];
+  13426 -> 9463 [
+    weight=1.68
+    type=owns
+  ];
+  13426 -> 13357 [
+    weight=1
+    type=owns
+  ];
+  13427 -> 2975 [
+    weight=1.67
+    type=owns
+  ];
+  13427 -> 9463 [
+    weight=1.68
+    type=owns
+  ];
+  13427 -> 13357 [
+    weight=1
     type=owns
   ];
   13430 -> 3614 [
