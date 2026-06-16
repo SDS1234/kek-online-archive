@@ -18942,11 +18942,11 @@ digraph {
     label="Brach, Susanne"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=4
+    num_medias_weighted=0.6380
     name="6a1eb29f-a839-4b31-8ef9-772c38e8d5bc"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1579 [
     type=shareholder
@@ -126105,7 +126105,7 @@ digraph {
     num_medias=4
     num_medias_weighted=2.5520
     name="5f96d06c-5990-4fac-bbe7-d4677d5d0018"
-    in_degree=4
+    in_degree=5
     out_degree=3
   ];
   10509 [
@@ -128181,7 +128181,7 @@ digraph {
     num_medias=200
     num_medias_weighted=82.1492
     name="5be1a6b6-7474-4c9a-a706-95e39a65b236"
-    in_degree=4
+    in_degree=3
     out_degree=2
   ];
   10682 [
@@ -138930,11 +138930,11 @@ digraph {
     label="Silchester International Investors LLP"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=202
-    num_medias_weighted=4.1193
+    num_medias=2
+    num_medias_weighted=0.0036
     name="5f69bc5d-b011-4f36-9f27-1dd656420f87"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   11578 [
     type=print
@@ -219453,6 +219453,10 @@ digraph {
     weight=69
     type=owns
   ];
+  1578 -> 10508 [
+    weight=25
+    type=owns
+  ];
   1579 -> 1616 [
     weight=56.7
     type=owns
@@ -265871,10 +265875,6 @@ digraph {
   ];
   11577 -> 1035 [
     weight=3
-    type=owns
-  ];
-  11577 -> 10681 [
-    weight=5.01
     type=owns
   ];
   11579 -> 11581 [
