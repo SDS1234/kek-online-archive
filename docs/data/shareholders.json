@@ -14587,9 +14587,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -19522,9 +19527,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -85443,9 +85453,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -229384,7 +229399,7 @@
     "squuid": "5be1a6b6-f857-47cd-b763-80858f65a225",
     "name": "Zeit Sprachen GmbH",
     "state": "active",
-    "controlDate": "2026-01-14T14:35:50.073Z",
+    "controlDate": "2026-06-16T11:46:34.200Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -250200,7 +250215,7 @@
     "squuid": "5be1a6b6-1ef2-4f74-a8ff-d3588cdf95c8",
     "name": "Zeit Weltkunst Verlag GmbH",
     "state": "active",
-    "controlDate": "2026-01-14T14:40:59.912Z",
+    "controlDate": "2026-06-16T12:03:50.078Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

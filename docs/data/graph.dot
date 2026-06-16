@@ -23742,11 +23742,11 @@ digraph {
     label="Carl Zeiss-Siedlung GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.5200
     name="6a2aa194-29fc-4ae6-b1d8-d1b245361041"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1979 [
     type=shareholder
@@ -143550,11 +143550,11 @@ digraph {
     label="Stadt Jena"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.2346
     name="6a2a91b4-3ea3-4e77-b29f-ed83b18297f1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   11963 [
     type=shareholder
@@ -144573,7 +144573,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.2346
     name="685bbcd6-dab9-490e-a409-71843bb8a220"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   12048 [
@@ -145773,7 +145773,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.5200
     name="69316ec2-35c7-471f-9093-4dac6a089e6f"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   12148 [
@@ -148110,11 +148110,11 @@ digraph {
     label="Streubesitz an der Thüga Holding GmbH & Co. KG a.A"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
+    num_medias=2
     num_medias_weighted=0.0000
     name="6a2c3987-6d5f-44c1-bc6d-da5dfcf477b1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12343 [
     type=shareholder
@@ -154329,7 +154329,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0613
     name="695e36aa-95b3-4561-959f-1b9d8ea4a01f"
-    in_degree=0
+    in_degree=1
     out_degree=2
   ];
   12861 [
@@ -221465,6 +221465,10 @@ digraph {
     weight=10
     type=owns
   ];
+  1978 -> 12147 [
+    weight=100
+    type=owns
+  ];
   1979 -> 7206 [
     weight=100
     type=owns
@@ -267237,6 +267241,10 @@ digraph {
     weight=12.5
     type=owns
   ];
+  11962 -> 12047 [
+    weight=100
+    type=owns
+  ];
   11963 -> 7279 [
     weight=2
     type=owns
@@ -268511,6 +268519,10 @@ digraph {
   ];
   12341 -> 12787 [
     weight=86.4
+    type=owns
+  ];
+  12342 -> 12860 [
+    weight=1
     type=owns
   ];
   12343 -> 12917 [

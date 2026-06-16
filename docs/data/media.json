@@ -5970,7 +5970,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:39:01.874Z",
+    "controlDate": "2026-06-16T12:00:51.059Z",
     "state": "active"
   },
   {
@@ -5988,7 +5988,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:38:19.958Z",
+    "controlDate": "2026-06-16T12:00:06.836Z",
     "state": "active"
   },
   {
@@ -6046,7 +6046,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:38:06.683Z",
+    "controlDate": "2026-06-16T11:59:58.086Z",
     "state": "active"
   },
   {
@@ -6064,7 +6064,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:38:55.427Z",
+    "controlDate": "2026-06-16T12:00:42.436Z",
     "state": "active"
   },
   {
@@ -6082,7 +6082,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:38:38.063Z",
+    "controlDate": "2026-06-16T12:00:32.667Z",
     "state": "active"
   },
   {
@@ -6100,7 +6100,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:38:29.340Z",
+    "controlDate": "2026-06-16T12:00:21.391Z",
     "state": "active"
   },
   {
@@ -10954,7 +10954,7 @@
     "rfStatewide": false,
     "name": "Kunst und Auktionen",
     "type": "print",
-    "controlDate": "2026-01-14T14:41:06.398Z",
+    "controlDate": "2026-06-16T12:04:01.909Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -10978,7 +10978,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T14:41:20.276Z",
+    "controlDate": "2026-06-16T12:04:19.959Z",
     "state": "active"
   },
   {
@@ -72625,7 +72625,7 @@
     "rfStatewide": false,
     "name": "Weltkunst",
     "type": "print",
-    "controlDate": "2026-01-14T14:41:13.751Z",
+    "controlDate": "2026-06-16T12:04:09.600Z",
     "pressKind": "Kunst",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91299,7 +91299,7 @@
     "rfStatewide": false,
     "name": "Spotlight",
     "type": "print",
-    "controlDate": "2026-01-14T14:37:55.486Z",
+    "controlDate": "2026-06-16T11:59:49.566Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91320,7 +91320,7 @@
     "rfStatewide": false,
     "name": "écoute",
     "type": "print",
-    "controlDate": "2026-01-14T14:39:12.434Z",
+    "controlDate": "2026-06-16T12:00:58.834Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91341,7 +91341,7 @@
     "rfStatewide": false,
     "name": "Ecos de Espana",
     "type": "print",
-    "controlDate": "2026-01-14T14:36:30.715Z",
+    "controlDate": "2026-06-16T11:59:39.981Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91362,7 +91362,7 @@
     "rfStatewide": false,
     "name": "Adesso",
     "type": "print",
-    "controlDate": "2026-01-14T14:35:58.073Z",
+    "controlDate": "2026-06-16T11:59:15.326Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91403,7 +91403,7 @@
     "rfStatewide": false,
     "name": "Business Spotlight",
     "type": "print",
-    "controlDate": "2026-01-14T14:36:11.432Z",
+    "controlDate": "2026-06-16T11:59:22.539Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91424,7 +91424,7 @@
     "rfStatewide": false,
     "name": "Deutsch perfekt",
     "type": "print",
-    "controlDate": "2026-01-14T14:36:21.383Z",
+    "controlDate": "2026-06-16T11:59:28.903Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
