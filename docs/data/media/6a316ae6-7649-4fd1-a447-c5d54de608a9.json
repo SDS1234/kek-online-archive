@@ -1,7 +1,6 @@
 {
   "state": "active",
-  "squuid": "5c6c25c6-3004-4bd3-bed6-86512a456b3a",
-  "marketReach": 0.9300424399685835,
+  "squuid": "6a316ae6-7649-4fd1-a447-c5d54de608a9",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",
@@ -11,17 +10,16 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
-        "squuid": "5be1a6b6-7ee8-46a7-b584-31f00742b7a2"
+        "name": "blabla.cafe GmbH & Co. KG",
+        "squuid": "6a316a19-feab-4990-8834-ca40a8703f31"
       },
-      "squuid": "5c6c25e4-3ab4-4ff0-8826-f2d05199e31d",
+      "squuid": "6a316b01-b470-45b4-a7d8-6544a89f8a61",
       "state": "active"
     }
   ],
-  "name": "www.zdf.de",
+  "name": "www.blabla.cafe",
   "rfPublicPrivate": false,
   "type": "online",
-  "controlDate": "2026-06-16T13:55:59.592Z",
   "rfSupervisingAuthority": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
     "name": "DL",

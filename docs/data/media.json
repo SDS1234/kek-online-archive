@@ -1643,7 +1643,7 @@
     "rfStatewide": false,
     "name": "Geseker Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:06:59.219Z",
+    "controlDate": "2026-06-16T12:16:38.513Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -1666,7 +1666,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-20T10:02:26.362Z",
+    "controlDate": "2026-06-16T12:17:02.238Z",
     "state": "active"
   },
   {
@@ -1708,7 +1708,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T16:21:27.012Z",
+    "controlDate": "2026-06-16T13:22:44.694Z",
     "state": "active"
   },
   {
@@ -2565,7 +2565,7 @@
     "rfStatewide": false,
     "name": "WAZ Westdeutsche Allgemeine (Ausgaben westl. Ruhrgebiet/Niederrhein)",
     "type": "print",
-    "controlDate": "2026-01-14T15:53:01.868Z",
+    "controlDate": "2026-06-16T12:50:14.033Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2629,7 +2629,7 @@
     "rfStatewide": false,
     "name": "Neue Rhein Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:52:44.983Z",
+    "controlDate": "2026-06-16T12:49:52.816Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -2666,7 +2666,7 @@
     "name": "www.dachauer-nachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:30:07.820Z",
+    "controlDate": "2026-06-16T13:14:30.972Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -2748,7 +2748,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:03:27.455Z",
+    "controlDate": "2026-06-16T12:32:34.259Z",
     "state": "active"
   },
   {
@@ -4186,7 +4186,7 @@
     "rfStatewide": false,
     "name": "Winnender Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:13:42.705Z",
+    "controlDate": "2026-06-16T12:25:49.056Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4206,7 +4206,7 @@
     "rfStatewide": false,
     "name": "Schorndorfer Nachrichten",
     "type": "print",
-    "controlDate": "2026-01-14T15:13:05.344Z",
+    "controlDate": "2026-06-16T12:25:16.803Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4226,7 +4226,7 @@
     "rfStatewide": false,
     "name": "Welzheimer Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:13:32.648Z",
+    "controlDate": "2026-06-16T12:25:42.079Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -9454,7 +9454,7 @@
     "name": "www.montakt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T16:22:28.609Z",
+    "controlDate": "2026-06-16T13:22:51.123Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -10933,7 +10933,7 @@
     "rfStatewide": false,
     "name": "Zeit Geschichte",
     "type": "print",
-    "controlDate": "2026-01-14T16:31:53.336Z",
+    "controlDate": "2026-06-16T13:29:23.625Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11037,7 +11037,7 @@
     "name": "www.dorfener-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-16T15:32:22.931Z",
+    "controlDate": "2026-06-16T13:14:58.050Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -12884,7 +12884,7 @@
     "name": "www.ebersberger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:41:23.567Z",
+    "controlDate": "2026-06-16T13:15:12.208Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -13861,7 +13861,7 @@
     "rfStatewide": false,
     "name": "Jüdische Allgemeine",
     "type": "print",
-    "controlDate": "2026-01-14T16:35:18.518Z",
+    "controlDate": "2026-06-16T13:30:58.155Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -14924,7 +14924,7 @@
     "name": "www.erdinger-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T12:50:08.664Z",
+    "controlDate": "2026-06-16T13:15:24.653Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -19962,7 +19962,7 @@
     "name": "www.freisinger-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T14:07:45.753Z",
+    "controlDate": "2026-06-16T13:15:53.149Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -22988,7 +22988,7 @@
     "name": "www.fuerstenfeldbrucker-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-18T14:08:40.673Z",
+    "controlDate": "2026-06-16T13:16:05.749Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23033,7 +23033,7 @@
     "name": "www.zvw.de/mein-wochenblatt",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T15:15:04.452Z",
+    "controlDate": "2026-06-16T12:26:08.356Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -23928,7 +23928,7 @@
     "name": "www.garmisch-partenkirchner-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T15:16:15.433Z",
+    "controlDate": "2026-06-16T13:16:21.189Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24024,7 +24024,7 @@
     "name": "www.geretsrieder-merkur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-19T15:35:51.373Z",
+    "controlDate": "2026-06-16T13:16:31.580Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -24324,7 +24324,7 @@
     "name": "www.blicker-lippstadt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-20T10:01:49.228Z",
+    "controlDate": "2026-06-16T12:16:49.986Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26136,7 +26136,7 @@
     "name": "Zeit für Unternehmer",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T16:32:38.381Z",
+    "controlDate": "2026-06-16T13:29:57.072Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26844,7 +26844,7 @@
     "name": "www.holzkirchner-merkur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-20T14:49:21.083Z",
+    "controlDate": "2026-06-16T13:17:20.723Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26996,7 +26996,7 @@
     "name": "www.isar-loisachbote.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-07-15T14:59:54.229Z",
+    "controlDate": "2026-06-16T13:17:33.195Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29645,7 +29645,7 @@
     "name": "www.miesbacher-merkur.de",
     "type": "online",
     "squuid": "65cb557c-a92a-4584-8c73-bf3dc756a8aa",
-    "controlDate": "2026-01-23T14:03:24.906Z",
+    "controlDate": "2026-06-16T13:18:04.122Z",
     "state": "active"
   },
   {
@@ -29725,7 +29725,7 @@
     "name": "www.murnauer-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T09:27:43.349Z",
+    "controlDate": "2026-06-16T13:18:22.217Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30618,7 +30618,7 @@
     "name": "Seeseiten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T16:09:02.039Z",
+    "controlDate": "2026-06-16T13:08:35.664Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30905,7 +30905,7 @@
     "name": "Vis à Vis - Menschen und Geschichten",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T16:10:46.222Z",
+    "controlDate": "2026-06-16T13:09:23.806Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30968,7 +30968,7 @@
     "name": "Zeit Verbrechen",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T16:32:08.847Z",
+    "controlDate": "2026-06-16T13:29:36.363Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33081,7 +33081,7 @@
     "name": "www.penzberger-merkur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T11:09:18.594Z",
+    "controlDate": "2026-06-16T13:18:53.025Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -33664,7 +33664,7 @@
     "name": "www.zdf.de/sendung-verpasst",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:13:44.742Z",
+    "controlDate": "2026-06-16T13:56:49.519Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34049,7 +34049,7 @@
     "name": "Business & People (Ausgabe Metropolregion Hamburg)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T15:24:28.443Z",
+    "controlDate": "2026-06-16T12:35:07.093Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34107,7 +34107,7 @@
     "name": "www.business-people-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-28T12:27:03.417Z",
+    "controlDate": "2026-06-16T12:35:32.129Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35902,7 +35902,7 @@
     "name": "www.zdf.de/nachrichten",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:12:03.099Z",
+    "controlDate": "2026-06-16T13:56:22.295Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36875,7 +36875,7 @@
     "name": "www.starnberger-merkur.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T09:33:45.683Z",
+    "controlDate": "2026-06-16T13:19:24.904Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39107,7 +39107,7 @@
     "name": "www.toelzer-kurier.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T10:51:27.875Z",
+    "controlDate": "2026-06-16T13:20:00.391Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46808,7 +46808,7 @@
     "name": "www.orf.at",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:26:42.412Z",
+    "controlDate": "2026-06-16T14:00:48.774Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -48358,7 +48358,7 @@
     "name": "www.lokalstimme.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T15:21:02.548Z",
+    "controlDate": "2026-06-16T12:32:46.609Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -53468,7 +53468,7 @@
     "name": "www.guestrowtv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T10:25:30.884Z",
+    "controlDate": "2026-06-16T15:47:26.404Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -72351,7 +72351,7 @@
     "rfStatewide": false,
     "name": "Iserlohner Kreisanzeiger und Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:20:35.012Z",
+    "controlDate": "2026-06-16T12:32:26.091Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72371,7 +72371,7 @@
     "rfStatewide": false,
     "name": "Stader Tageblatt",
     "type": "print",
-    "controlDate": "2026-01-14T15:24:49.869Z",
+    "controlDate": "2026-06-16T12:35:22.782Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72394,7 +72394,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T15:25:32.479Z",
+    "controlDate": "2026-06-16T12:35:47.997Z",
     "state": "active"
   },
   {
@@ -72409,7 +72409,7 @@
     "rfStatewide": false,
     "name": "Neue Westfälische",
     "type": "print",
-    "controlDate": "2026-01-14T15:45:30.413Z",
+    "controlDate": "2026-06-16T12:43:01.416Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72432,7 +72432,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T15:46:05.647Z",
+    "controlDate": "2026-06-16T12:43:25.857Z",
     "state": "active"
   },
   {
@@ -72488,7 +72488,7 @@
     "rfStatewide": false,
     "name": "Neue Ruhr Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:52:54.126Z",
+    "controlDate": "2026-06-16T12:50:02.976Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72508,7 +72508,7 @@
     "rfStatewide": false,
     "name": "Miesbacher Merkur",
     "type": "print",
-    "controlDate": "2026-01-14T16:05:16.993Z",
+    "controlDate": "2026-06-16T13:07:49.392Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72566,7 +72566,7 @@
     "rfStatewide": false,
     "name": "Waiblinger Kreiszeitung",
     "type": "print",
-    "controlDate": "2026-01-14T15:13:22.385Z",
+    "controlDate": "2026-06-16T12:25:28.973Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72589,7 +72589,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T15:13:53.347Z",
+    "controlDate": "2026-06-16T12:25:57.940Z",
     "state": "active"
   },
   {
@@ -72604,7 +72604,7 @@
     "rfStatewide": false,
     "name": "Zeit Wissen",
     "type": "print",
-    "controlDate": "2026-01-14T16:32:18.384Z",
+    "controlDate": "2026-06-16T13:29:47.790Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72646,7 +72646,7 @@
     "rfStatewide": false,
     "name": "Zeit Campus",
     "type": "print",
-    "controlDate": "2026-01-14T16:31:43.677Z",
+    "controlDate": "2026-06-16T13:29:16.845Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72667,7 +72667,7 @@
     "rfStatewide": false,
     "name": "Die Zeit",
     "type": "print",
-    "controlDate": "2026-01-14T16:31:34.961Z",
+    "controlDate": "2026-06-16T13:29:09.203Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -72688,7 +72688,7 @@
     "rfStatewide": false,
     "name": "Zeit Leo",
     "type": "print",
-    "controlDate": "2026-01-14T16:32:00.409Z",
+    "controlDate": "2026-06-16T13:29:29.113Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -83965,7 +83965,7 @@
     "rfStatewide": false,
     "name": "Hellweger Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-14T16:20:39.556Z",
+    "controlDate": "2026-06-16T13:22:29.429Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -84940,7 +84940,7 @@
     "name": "www.bad-vilbeler-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:04:10.930Z",
+    "controlDate": "2026-06-16T13:39:19.566Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85028,7 +85028,7 @@
     "name": "www.karbener-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:04:49.637Z",
+    "controlDate": "2026-06-16T13:39:24.556Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86080,7 +86080,7 @@
     "name": "www.zdf.de/dokumentation/zdfinfo-doku",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:11:48.621Z",
+    "controlDate": "2026-06-16T13:56:13.304Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86184,7 +86184,7 @@
     "name": "www.zdf.de/sender/zdfneo",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:13:35.574Z",
+    "controlDate": "2026-06-16T13:56:41.505Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -87182,7 +87182,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-22T09:21:26.711Z",
+    "controlDate": "2026-06-16T12:40:17.394Z",
     "state": "active"
   },
   {
@@ -87948,7 +87948,7 @@
     "rfStatewide": false,
     "name": "General-Anzeiger (Rhauderfehn)",
     "type": "print",
-    "controlDate": "2026-01-14T16:37:51.143Z",
+    "controlDate": "2026-06-16T13:33:17.993Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87968,7 +87968,7 @@
     "rfStatewide": false,
     "name": "Ostfriesen-Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T16:38:04.167Z",
+    "controlDate": "2026-06-16T13:33:27.211Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87991,7 +87991,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T16:39:09.200Z",
+    "controlDate": "2026-06-16T13:34:04.615Z",
     "state": "active"
   },
   {
@@ -89157,7 +89157,7 @@
     "rfStatewide": false,
     "name": "Borkumer Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T16:37:32.021Z",
+    "controlDate": "2026-06-16T13:33:07.534Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -92420,7 +92420,7 @@
     "rfStatewide": false,
     "name": "Der Patriot",
     "type": "print",
-    "controlDate": "2026-01-14T15:06:40.310Z",
+    "controlDate": "2026-06-16T12:16:28.075Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -93419,7 +93419,7 @@
     "rfStatewide": false,
     "name": "Naumburger Tageblatt",
     "type": "print",
-    "controlDate": "2026-05-21T14:40:48.111Z",
+    "controlDate": "2026-06-16T12:39:29.583Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -95388,7 +95388,7 @@
     "rfStatewide": false,
     "name": "Öko-Test-Magazin",
     "type": "print",
-    "controlDate": "2026-01-14T17:26:30.023Z",
+    "controlDate": "2026-06-16T14:00:35.788Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95412,7 +95412,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T17:26:19.808Z",
+    "controlDate": "2026-06-16T13:59:48.307Z",
     "state": "active"
   },
   {
@@ -97750,7 +97750,7 @@
     "name": "IKZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T15:20:18.805Z",
+    "controlDate": "2026-06-16T12:32:14.641Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -98582,7 +98582,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T10:20:48.495Z",
+    "controlDate": "2026-06-16T15:15:04.719Z",
     "state": "active"
   },
   {
@@ -100028,7 +100028,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-10T07:52:34.816Z",
+    "controlDate": "2026-06-16T15:15:20.441Z",
     "state": "active"
   },
   {
@@ -102556,7 +102556,7 @@
     "rfStatewide": false,
     "name": "Westfälische Rundschau (Ausgaben Unna/Kamen)",
     "type": "print",
-    "controlDate": "2026-01-14T16:28:36.278Z",
+    "controlDate": "2026-06-16T13:27:42.827Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106256,7 +106256,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T10:17:26.419Z",
+    "controlDate": "2026-06-16T15:14:05.745Z",
     "state": "active"
   },
   {
@@ -118481,7 +118481,7 @@
     "rfStatewide": false,
     "name": "Mitteldeutsche Zeitung (Ausgabe Nebra)",
     "type": "print",
-    "controlDate": "2026-05-21T14:40:16.125Z",
+    "controlDate": "2026-06-16T12:39:14.831Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121688,7 +121688,7 @@
     "rfStatewide": false,
     "name": "Buxtehuder Tageblatt",
     "type": "print",
-    "controlDate": "2026-01-14T15:24:40.237Z",
+    "controlDate": "2026-06-16T12:35:15.686Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -121708,7 +121708,7 @@
     "rfStatewide": false,
     "name": "Altländer Tageblatt",
     "type": "print",
-    "controlDate": "2026-01-14T15:24:17.870Z",
+    "controlDate": "2026-06-16T12:34:59.571Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122207,7 +122207,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-14T16:38:47.242Z",
+    "controlDate": "2026-06-16T13:33:41.480Z",
     "state": "active"
   },
   {
@@ -122766,7 +122766,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-29T09:47:51.773Z",
+    "controlDate": "2026-06-16T13:33:50.306Z",
     "state": "active"
   },
   {
@@ -123899,7 +123899,7 @@
     "rfStatewide": false,
     "name": "Münchner Merkur (Ausgaben Landkreis München, Würmtal)",
     "type": "print",
-    "controlDate": "2026-01-14T16:05:41.917Z",
+    "controlDate": "2026-06-16T13:08:12.065Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123919,7 +123919,7 @@
     "rfStatewide": false,
     "name": "Dachauer Nachrichten",
     "type": "print",
-    "controlDate": "2026-01-14T15:59:39.959Z",
+    "controlDate": "2026-06-16T13:05:42.408Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123939,7 +123939,7 @@
     "rfStatewide": false,
     "name": "Freisinger Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-14T16:01:37.484Z",
+    "controlDate": "2026-06-16T13:06:26.824Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123959,7 +123959,7 @@
     "rfStatewide": false,
     "name": "Fürstenfeldbrucker Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-14T16:02:18.900Z",
+    "controlDate": "2026-06-16T13:06:47.347Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123979,7 +123979,7 @@
     "rfStatewide": false,
     "name": "Ebersberger Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T16:00:47.933Z",
+    "controlDate": "2026-06-16T13:06:03.809Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -123999,7 +123999,7 @@
     "rfStatewide": false,
     "name": "Erdinger Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-14T16:00:56.742Z",
+    "controlDate": "2026-06-16T13:06:15.533Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124019,7 +124019,7 @@
     "rfStatewide": false,
     "name": "Dorfener Anzeiger",
     "type": "print",
-    "controlDate": "2026-01-14T16:00:38.289Z",
+    "controlDate": "2026-06-16T13:05:54.407Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124039,7 +124039,7 @@
     "rfStatewide": false,
     "name": "Isar-Loisachbote",
     "type": "print",
-    "controlDate": "2026-01-14T16:04:45.386Z",
+    "controlDate": "2026-06-16T13:07:38.964Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124059,7 +124059,7 @@
     "rfStatewide": false,
     "name": "Geretsrieder Merkur",
     "type": "print",
-    "controlDate": "2026-01-14T16:03:01.699Z",
+    "controlDate": "2026-06-16T13:07:06.464Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124103,7 +124103,7 @@
     "rfStatewide": false,
     "name": "Garmisch-Partenkirchner Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-14T16:02:47.234Z",
+    "controlDate": "2026-06-16T13:06:57.734Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124123,7 +124123,7 @@
     "rfStatewide": false,
     "name": "Murnauer Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-14T16:05:29.637Z",
+    "controlDate": "2026-06-16T13:08:01.214Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124143,7 +124143,7 @@
     "rfStatewide": false,
     "name": "Holzkirchner Merkur",
     "type": "print",
-    "controlDate": "2026-01-14T16:03:42.802Z",
+    "controlDate": "2026-06-16T13:07:23.549Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124163,7 +124163,7 @@
     "rfStatewide": false,
     "name": "Tegernseer Zeitung",
     "type": "print",
-    "controlDate": "2026-01-14T16:09:27.808Z",
+    "controlDate": "2026-06-16T13:19:37.951Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124183,7 +124183,7 @@
     "rfStatewide": false,
     "name": "Starnberger Merkur",
     "type": "print",
-    "controlDate": "2026-01-14T16:09:15.515Z",
+    "controlDate": "2026-06-16T13:08:44.952Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124203,7 +124203,7 @@
     "rfStatewide": false,
     "name": "Tölzer Kurier",
     "type": "print",
-    "controlDate": "2026-01-14T16:10:08.838Z",
+    "controlDate": "2026-06-16T13:09:13.211Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124223,7 +124223,7 @@
     "rfStatewide": false,
     "name": "Weilheimer Tagblatt",
     "type": "print",
-    "controlDate": "2026-01-14T16:11:02.732Z",
+    "controlDate": "2026-06-16T13:09:40.367Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124243,7 +124243,7 @@
     "rfStatewide": false,
     "name": "Penzberger Merkur",
     "type": "print",
-    "controlDate": "2026-01-14T16:08:27.544Z",
+    "controlDate": "2026-06-16T13:08:22.823Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127397,6 +127397,7 @@
       "state": "active"
     },
     "type": "tv",
+    "controlDate": "2026-06-16T13:41:11.840Z",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c9-c2b5-4abe-9d89-27eba92ad940",
       "name": "Medienanstalt RLP",
@@ -130528,7 +130529,7 @@
     "name": "www.kalimbo-spielt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T11:05:34.308Z",
+    "controlDate": "2026-06-16T15:52:33.341Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -132811,6 +132812,7 @@
       "state": "active"
     },
     "type": "tv",
+    "controlDate": "2026-06-16T13:41:20.591Z",
     "rfSupervisingAuthority": {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
       "name": "LFK",
@@ -133796,7 +133798,7 @@
     "name": "Zeitmagazin Wochenmarkt",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T16:32:47.928Z",
+    "controlDate": "2026-06-16T13:30:07.639Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138083,7 +138085,7 @@
     "name": "Zeitungsgruppe Neue Westfälische (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T15:45:41.748Z",
+    "controlDate": "2026-06-16T12:43:09.556Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143909,7 +143911,7 @@
     "name": "www.weilheimer-tagblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-12T15:01:30.439Z",
+    "controlDate": "2026-06-16T13:20:13.026Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144641,7 +144643,7 @@
     "name": "NW am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-14T15:45:21.332Z",
+    "controlDate": "2026-06-16T12:42:53.723Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145707,7 +145709,7 @@
     "name": "www.bild.de/bild-am-sonntag",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T10:17:43.293Z",
+    "controlDate": "2026-06-16T15:14:35.204Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147326,7 +147328,7 @@
     "name": "www.dctp.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-14T11:54:02.646Z",
+    "controlDate": "2026-06-16T15:38:35.059Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150360,7 +150362,7 @@
     "name": "www.zdf.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:11:39.728Z",
+    "controlDate": "2026-06-16T13:55:59.592Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150404,7 +150406,7 @@
     "name": "www.zdfsport.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:13:55.198Z",
+    "controlDate": "2026-06-16T13:56:58.559Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150428,7 +150430,7 @@
     "name": "www.zdftivi.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:14:04.325Z",
+    "controlDate": "2026-06-16T13:57:06.517Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150472,7 +150474,7 @@
     "name": "www.heute.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:13:22.655Z",
+    "controlDate": "2026-06-16T13:55:22.224Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154168,7 +154170,7 @@
     "name": "www.rontv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T17:06:18.626Z",
+    "controlDate": "2026-06-16T13:41:26.006Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158895,7 +158897,7 @@
     "name": "www.fupa.net/region/lueneburg",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T15:25:14.985Z",
+    "controlDate": "2026-06-16T12:35:39.608Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -159483,7 +159485,7 @@
     "name": "www.fupa.net/region/ostwestfalen",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-14T15:45:49.373Z",
+    "controlDate": "2026-06-16T12:43:16.261Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160548,6 +160550,29 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.bit2byte.tv",
+    "type": "online",
+    "squuid": "6a3168f2-d20a-4e87-a87a-751f0471cf4e",
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    },
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "6818935f-44da-4d35-acdf-6bde5ee1fe67",
     "organization": {
@@ -160648,7 +160673,7 @@
     "name": "www.wochentip.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-20T10:02:52.330Z",
+    "controlDate": "2026-06-16T12:17:09.818Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160732,6 +160757,29 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.blabla.cafe",
+    "type": "online",
+    "squuid": "6a316ae6-7649-4fd1-a447-c5d54de608a9",
+    "onlineOfferType": {
+      "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
+      "name": "Online Medienangebot",
+      "type": "online-offer-type",
+      "state": "active"
+    },
+    "state": "active"
   },
   {
     "state": "active",
