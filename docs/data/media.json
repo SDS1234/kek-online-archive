@@ -5320,7 +5320,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 52,
+    "pressPublishingIntervals": 26,
     "state": "active",
     "squuid": "5be1a6b1-ece2-4804-9ec5-0cee42c698f3",
     "organization": {
@@ -19702,7 +19702,7 @@
     "state": "active"
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 4,
     "state": "active",
     "squuid": "5be1a6b1-fca7-432d-b2a9-c38ed5e45c7f",
     "organization": {
@@ -89585,7 +89585,7 @@
     "rfStatewide": false,
     "name": "Bild",
     "type": "print",
-    "controlDate": "2025-10-23T13:32:46.699Z",
+    "controlDate": "2026-06-17T14:45:33.780Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89626,7 +89626,7 @@
     "rfStatewide": false,
     "name": "Bild am Sonntag",
     "type": "print",
-    "controlDate": "2025-10-23T13:23:12.044Z",
+    "controlDate": "2026-06-17T14:23:37.931Z",
     "pressKind": "Sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -94726,7 +94726,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 10,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-dafa-4cb0-92be-187d03aacb12",
     "organization": {
@@ -97168,7 +97168,7 @@
     "rfStatewide": false,
     "name": "Auto Bild",
     "type": "print",
-    "controlDate": "2025-10-23T13:13:46.113Z",
+    "controlDate": "2026-06-17T12:41:38.428Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97189,7 +97189,7 @@
     "rfStatewide": false,
     "name": "Auto Bild sportscars",
     "type": "print",
-    "controlDate": "2025-10-23T14:07:13.192Z",
+    "controlDate": "2026-06-17T12:43:51.567Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97250,7 +97250,7 @@
     "rfStatewide": false,
     "name": "Auto Bild Klassik",
     "type": "print",
-    "controlDate": "2025-10-23T14:04:27.151Z",
+    "controlDate": "2026-06-17T12:42:20.653Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97290,7 +97290,7 @@
     "rfStatewide": false,
     "name": "Auto Bild Reisemobil",
     "type": "print",
-    "controlDate": "2025-10-23T14:06:08.286Z",
+    "controlDate": "2026-06-17T12:43:04.784Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98540,7 +98540,7 @@
     "rfStatewide": false,
     "name": "B.Z.",
     "type": "print",
-    "controlDate": "2025-10-23T13:22:23.263Z",
+    "controlDate": "2026-06-17T13:23:33.743Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -161210,7 +161210,7 @@
     "name": "aktuell für die Frau",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-10-08T12:57:03.169Z",
+    "controlDate": "2026-06-17T13:01:08.028Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

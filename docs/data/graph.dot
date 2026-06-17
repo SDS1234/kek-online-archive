@@ -9112,8 +9112,8 @@ digraph {
     type=print
     state=active
     label="Auto Bild"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-bfc2-4ba0-aa89-43c232dc1721"
@@ -9136,8 +9136,8 @@ digraph {
     type=print
     state=active
     label="Auto Bild Klassik"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3d2b-4a6e-8733-fb72dd33326e"
@@ -9148,8 +9148,8 @@ digraph {
     type=print
     state=active
     label="Auto Bild Reisemobil"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-2125-4f20-8ff8-10ff6defb007"
@@ -9160,8 +9160,8 @@ digraph {
     type=print
     state=active
     label="Auto Bild sportscars"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-23c8-4f44-9afd-31a0f1287412"
