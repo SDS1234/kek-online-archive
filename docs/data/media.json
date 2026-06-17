@@ -2022,7 +2022,7 @@
     "name": "www.mothergrid.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T11:14:55.237Z",
+    "controlDate": "2026-06-17T08:09:42.380Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -5832,7 +5832,7 @@
     "rfStatewide": false,
     "name": "ACV Profil",
     "type": "print",
-    "controlDate": "2026-04-02T11:25:27.339Z",
+    "controlDate": "2026-06-17T10:44:51.194Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -16310,7 +16310,7 @@
     "name": "www.torgau-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T14:42:49.628Z",
+    "controlDate": "2026-06-17T08:27:42.576Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -17943,7 +17943,7 @@
     "rfStatewide": false,
     "name": "5!-Magazin",
     "type": "print",
-    "controlDate": "2026-04-15T08:10:59.720Z",
+    "controlDate": "2026-06-17T10:28:27.587Z",
     "pressKind": "Kinder",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -25199,7 +25199,7 @@
     "name": "www.mdf1.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T11:10:55.600Z",
+    "controlDate": "2026-06-17T08:04:43.332Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27358,7 +27358,7 @@
     "name": "www.jokefm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-04T12:28:37.702Z",
+    "controlDate": "2026-06-17T09:19:02.866Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27768,7 +27768,7 @@
     "name": "www.novumfm.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T11:38:48.104Z",
+    "controlDate": "2026-06-17T09:24:29.975Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -27882,7 +27882,7 @@
     "name": "www.ohrsicht-radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T10:32:20.135Z",
+    "controlDate": "2026-06-17T09:25:25.357Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -55579,7 +55579,7 @@
     "name": "www.saaleinfo.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T13:15:15.303Z",
+    "controlDate": "2026-06-17T08:19:25.630Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -57291,6 +57291,7 @@
       "state": "active"
     },
     "type": "radio",
+    "controlDate": "2026-06-17T09:41:07.038Z",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
@@ -57613,6 +57614,7 @@
     "name": "Radio Opera",
     "rfPublicPrivate": false,
     "type": "radio",
+    "controlDate": "2026-06-17T09:42:36.825Z",
     "rfSupervisingAuthority": {
       "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
       "name": "BLM",
@@ -79491,7 +79493,7 @@
     "rfStatewide": false,
     "name": "Acher-Rench-Zeitung",
     "type": "print",
-    "controlDate": "2026-04-02T11:14:30.671Z",
+    "controlDate": "2026-06-17T10:42:23.903Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -80164,7 +80166,7 @@
     "rfStatewide": false,
     "name": "Pinneberger Tageblatt",
     "type": "print",
-    "controlDate": "2026-04-02T08:17:55.169Z",
+    "controlDate": "2026-06-17T10:30:35.729Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -94679,7 +94681,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 6,
+    "pressPublishingIntervals": 4,
     "matchedNames": [
       "ACE LENKRAD"
     ],
@@ -94693,7 +94695,7 @@
     "rfStatewide": false,
     "name": "ACE-Lenkrad",
     "type": "print",
-    "controlDate": "2026-04-02T09:34:37.664Z",
+    "controlDate": "2026-06-17T10:39:46.338Z",
     "pressKind": "Motor",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99131,7 +99133,7 @@
     "name": "www.stadtkanal-forst.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T10:19:41.942Z",
+    "controlDate": "2026-06-17T08:23:07.376Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -99962,7 +99964,7 @@
     "rfStatewide": false,
     "name": "11 Freunde",
     "type": "print",
-    "controlDate": "2026-04-01T14:52:47.398Z",
+    "controlDate": "2026-06-17T10:21:17.557Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103617,7 +103619,7 @@
     "rfStatewide": false,
     "name": "Abendzeitung",
     "type": "print",
-    "controlDate": "2026-04-02T09:11:39.432Z",
+    "controlDate": "2026-06-17T10:38:08.779Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119914,7 +119916,7 @@
     "name": "www.primal.fm",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T11:43:53.126Z",
+    "controlDate": "2026-06-17T09:29:56.137Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135582,7 +135584,7 @@
     "name": "www.hamburger-lokalradio.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-12T09:29:24.044Z",
+    "controlDate": "2026-06-17T09:15:10.972Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -136509,7 +136511,7 @@
     "name": "www.radio-vhr.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-26T11:36:49.674Z",
+    "controlDate": "2026-06-17T09:45:22.399Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145061,7 +145063,7 @@
     "name": "www.radioinpulz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T11:33:43.075Z",
+    "controlDate": "2026-06-17T09:17:18.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145129,7 +145131,7 @@
     "name": "www.jazzstudio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T14:35:05.533Z",
+    "controlDate": "2026-06-17T09:18:21.760Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148008,7 +148010,7 @@
     "name": "www.radiopray.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-08T11:47:07.363Z",
+    "controlDate": "2026-06-17T09:29:36.469Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -148758,7 +148760,7 @@
     "name": "www.slethzockt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-15T13:27:34.041Z",
+    "controlDate": "2026-06-17T08:21:00.537Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -150226,7 +150228,7 @@
     "name": "www.radio-bamberg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-10-28T15:38:08.099Z",
+    "controlDate": "2026-06-17T09:35:10.240Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156916,7 +156918,7 @@
     "name": "www.radio-meilensteine.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-01T10:23:33.193Z",
+    "controlDate": "2026-06-17T09:40:24.062Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157535,7 +157537,7 @@
     "name": "www.radio-opera.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T11:59:52.748Z",
+    "controlDate": "2026-06-17T09:42:23.232Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157577,7 +157579,7 @@
     "name": "www.radio-ostrock.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T12:04:04.253Z",
+    "controlDate": "2026-06-17T09:43:14.483Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -160981,7 +160983,7 @@
     "name": "www.secondradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T12:39:06.969Z",
+    "controlDate": "2026-06-17T09:55:47.583Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161274,6 +161276,23 @@
         "state": "active"
       }
     ]
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "www.antenne.nrw",
+    "type": "online",
+    "squuid": "6a3262fc-23c7-4433-bb40-9102e3027612",
+    "state": "active"
   },
   {
     "state": "archived",

@@ -19525,6 +19525,7 @@
     "squuid": "6a2aa194-29fc-4ae6-b1d8-d1b245361041",
     "name": "Carl Zeiss-Siedlung GmbH",
     "state": "active",
+    "controlDate": "2026-06-17T07:56:30.224Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301176,6 +301177,19 @@
     "name": "Dortex Werbung und Vertrieb mbH",
     "state": "active",
     "controlDate": "2023-10-16T09:57:31.538Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a3253a2-0d1d-4d60-9b2c-cff1de51351a",
+    "name": "Ernst-Abbe-Stiftung",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
