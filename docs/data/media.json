@@ -70901,7 +70901,7 @@
     "rfStatewide": false,
     "name": "Die Kirche - Evangelische Wochenzeitung (Berlin, Brandenburg, Schlesische Oberlausitz)",
     "type": "print",
-    "controlDate": "2026-01-13T12:00:17.430Z",
+    "controlDate": "2026-06-18T10:16:44.222Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85218,7 +85218,7 @@
     "rfStatewide": false,
     "name": "Dülmener Zeitung",
     "type": "print",
-    "controlDate": "2026-05-18T10:01:57.902Z",
+    "controlDate": "2026-06-18T10:59:28.398Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -106176,7 +106176,7 @@
     "rfStatewide": false,
     "name": "Die Welt",
     "type": "print",
-    "controlDate": "2025-10-23T13:37:02.916Z",
+    "controlDate": "2026-06-18T10:33:23.060Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127828,7 +127828,7 @@
     "pressKind": "Kinder"
   },
   {
-    "pressPublishingIntervals": 10,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "6576e029-763d-451e-801c-e999ce662f8e",
     "organization": {
@@ -161956,6 +161956,12 @@
     "rfStatewide": false,
     "name": "Südthüringer Regionalfernsehen (SRF)",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "tv",
     "rfCategory": {
       "squuid": "5be1a6ad-f2e6-4d45-9ffd-1be10a57e0b0",

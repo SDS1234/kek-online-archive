@@ -150916,8 +150916,8 @@ digraph {
     type=tv
     state=active
     label="Südthüringer Regionalfernsehen (SRF)"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5c754d9b-c268-4d48-af86-fb0ce7e33a8a"
