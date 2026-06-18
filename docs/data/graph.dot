@@ -23043,11 +23043,11 @@ digraph {
   1920 [
     type=shareholder
     state=active
-    label="BürgerEnergie eG"
+    label="BürgerEnergie Jena eG"
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=2
-    num_medias_weighted=0.0068
+    num_medias_weighted=0.0075
     name="685bbd09-f45e-4211-9aee-7487f05b491c"
     in_degree=0
     out_degree=1
@@ -23757,7 +23757,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.5200
     name="6a2aa194-29fc-4ae6-b1d8-d1b245361041"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   1980 [
@@ -42594,11 +42594,11 @@ digraph {
     label="Ernst-Abbe-Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.5200
     name="6a3253a2-0d1d-4d60-9b2c-cff1de51351a"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3550 [
     type=shareholder
@@ -221306,7 +221306,7 @@ digraph {
     type=owns
   ];
   1920 -> 12045 [
-    weight=2
+    weight=2.22
     type=owns
   ];
   1921 -> 10000 [
@@ -228003,6 +228003,10 @@ digraph {
   ];
   3547 -> 8275 [
     weight=57.5
+    type=owns
+  ];
+  3549 -> 1979 [
+    weight=100
     type=owns
   ];
   3551 -> 1034 [
