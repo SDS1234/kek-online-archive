@@ -120105,7 +120105,7 @@ digraph {
     num_medias=16
     num_medias_weighted=0.7277
     name="5c98ece2-cbcf-4b69-b373-0f1117ff5746"
-    in_degree=9
+    in_degree=8
     out_degree=1
   ];
   10009 [
@@ -120129,7 +120129,7 @@ digraph {
     num_medias=16
     num_medias_weighted=0.0000
     name="5ef314c8-cb90-4e80-83ba-bb85608e5223"
-    in_degree=11
+    in_degree=10
     out_degree=1
   ];
   10011 [
@@ -121914,11 +121914,11 @@ digraph {
     label="Rall, Dr. Armin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=16
-    num_medias_weighted=0.0383
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef314fc-7fc2-48b4-8061-6e27a252fa22"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   10160 [
     type=shareholder
@@ -258383,14 +258383,6 @@ digraph {
   ];
   10158 -> 6970 [
     weight=33.33
-    type=owns
-  ];
-  10159 -> 10008 [
-    weight=5.26
-    type=owns
-  ];
-  10159 -> 10010 [
-    weight=5.26
     type=owns
   ];
   10160 -> 10010 [
