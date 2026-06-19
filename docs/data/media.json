@@ -4535,7 +4535,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-02-03T09:13:10.082Z",
+    "controlDate": "2026-06-19T13:18:36.800Z",
     "state": "active"
   },
   {
@@ -72960,7 +72960,7 @@
     "rfStatewide": false,
     "name": "Lisa",
     "type": "print",
-    "controlDate": "2026-02-03T10:42:47.701Z",
+    "controlDate": "2026-06-19T14:29:46.592Z",
     "pressKind": "Frauen, wö",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -89074,7 +89074,7 @@
     "rfStatewide": false,
     "name": "Katholisches Sonntagsblatt",
     "type": "print",
-    "controlDate": "2025-12-17T13:18:36.075Z",
+    "controlDate": "2026-06-19T12:49:01.863Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -98191,7 +98191,7 @@
     "rfStatewide": false,
     "name": "Kornwestheimer Zeitung",
     "type": "print",
-    "controlDate": "2026-02-03T09:13:15.587Z",
+    "controlDate": "2026-06-19T13:18:42.679Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -101764,7 +101764,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 12,
+    "pressPublishingIntervals": 13,
     "state": "active",
     "squuid": "5be1a6b1-db15-4c32-b2f5-db185e3d7d0a",
     "organization": {
@@ -123059,7 +123059,7 @@
     "rfStatewide": false,
     "name": "Diepholzer Kreisblatt",
     "type": "print",
-    "controlDate": "2026-05-20T07:33:56.246Z",
+    "controlDate": "2026-06-19T13:51:59.463Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
