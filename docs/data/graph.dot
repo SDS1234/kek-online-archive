@@ -17419,10 +17419,10 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=9
-    num_medias_weighted=0.0000
+    num_medias_weighted=0.0374
     name="5f980b2e-cbfa-429b-bdc5-abf4040aeee6"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   1452 [
     type=shareholder
@@ -19878,11 +19878,11 @@ digraph {
     label="Brenner, Antonia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0023
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef20264-1157-465e-89fe-674413e9a647"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1657 [
     type=shareholder
@@ -19914,11 +19914,11 @@ digraph {
     label="Brenner, Marius"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0023
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef20273-ee19-4555-915b-90b3728da4dd"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1660 [
     type=shareholder
@@ -19926,11 +19926,11 @@ digraph {
     label="Brenner, Roswitha"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0045
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef20282-ae11-4510-a799-64deb3d406f5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   1661 [
     type=shareholder
@@ -83214,11 +83214,11 @@ digraph {
     label="Landesbauernverband in Baden-Württemberg e.V."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0091
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ef2035f-2db7-4255-a231-d7805e52fee5"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6935 [
     type=shareholder
@@ -91014,11 +91014,11 @@ digraph {
     label="Martin, Richard Gordon"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=17
-    num_medias_weighted=0.0234
+    num_medias=8
+    num_medias_weighted=0.0125
     name="5ef20387-11f8-411b-bded-3273654a8c13"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   7585 [
     type=shareholder
@@ -119013,7 +119013,7 @@ digraph {
     num_medias=9
     num_medias_weighted=0.2281
     name="5c891134-4acd-4b30-b625-6eadf066402f"
-    in_degree=15
+    in_degree=10
     out_degree=1
   ];
   9918 [
@@ -126090,11 +126090,11 @@ digraph {
     label="RM Radio Management Consultants GmbH"
     num_owners=21
     num_owners_weighted=17.1914
-    num_medias=9
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ef20252-f1e5-4c11-aab8-a053eb601e8a"
     in_degree=16
-    out_degree=1
+    out_degree=0
   ];
   10508 [
     type=shareholder
@@ -163002,7 +163002,7 @@ digraph {
     label="von Helldorff, Adelheid"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f980b09-bdfc-4c5b-9c10-f5186a6a796e"
     in_degree=0
@@ -163578,7 +163578,7 @@ digraph {
     label="Vossen, Heiner"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f980b6c-98bf-47ab-b4c7-f861c445fd64"
     in_degree=0
@@ -211278,7 +211278,7 @@ digraph {
     label="Zeidler, Dr. Klaus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f980b50-d08a-43b9-9c2a-78d8d7ef4798"
     in_degree=0
@@ -218937,6 +218937,10 @@ digraph {
     weight=8.4
     type=owns
   ];
+  1451 -> 9917 [
+    weight=16.4
+    type=owns
+  ];
   1452 -> 2542 [
     weight=75
     type=owns
@@ -219885,10 +219889,6 @@ digraph {
     weight=100
     type=owns
   ];
-  1656 -> 9917 [
-    weight=1
-    type=owns
-  ];
   1657 -> 10962 [
     weight=100
     type=owns
@@ -219899,14 +219899,6 @@ digraph {
   ];
   1658 -> 6946 [
     weight=1
-    type=owns
-  ];
-  1659 -> 9917 [
-    weight=1
-    type=owns
-  ];
-  1660 -> 9917 [
-    weight=1.98
     type=owns
   ];
   1661 -> 10720 [
@@ -242961,10 +242953,6 @@ digraph {
     weight=19
     type=owns
   ];
-  6934 -> 9917 [
-    weight=3.97
-    type=owns
-  ];
   6936 -> 13519 [
     weight=1.67
     type=owns
@@ -245559,10 +245547,6 @@ digraph {
   ];
   7583 -> 12971 [
     weight=100
-    type=owns
-  ];
-  7584 -> 9917 [
-    weight=4.76
     type=owns
   ];
   7584 -> 10447 [
@@ -260095,10 +260079,6 @@ digraph {
   ];
   10506 -> 7515 [
     weight=24.9
-    type=owns
-  ];
-  10507 -> 9917 [
-    weight=1
     type=owns
   ];
   10508 -> 10461 [
