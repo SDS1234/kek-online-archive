@@ -30999,7 +30999,7 @@ digraph {
   2583 [
     type=tv
     state=active
-    label="DFB-TV"
+    label="DFB.TV"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=0
