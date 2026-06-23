@@ -10734,11 +10734,11 @@ digraph {
     label="Baechle, Jan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=82
-    num_medias_weighted=0.9228
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-7acf-4abb-8964-6871e7917e4d"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   895 [
     type=shareholder
@@ -10938,11 +10938,11 @@ digraph {
     label="Baier, Verena"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=261
+    num_medias_weighted=0.2240
     name="6a282b3e-a118-49ac-82f3-bfa68bdec09d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   912 [
     type=shareholder
@@ -18654,11 +18654,11 @@ digraph {
     label="Botzleitner-Reber, Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=0.0490
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ca7439a-9b1d-41b9-95fc-cea3aded56d4"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   1555 [
     type=shareholder
@@ -35262,11 +35262,11 @@ digraph {
     label="Dreßel, Gabriela"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=76
+    num_medias_weighted=0.2356
     name="5be1a6b6-ba7c-4823-bce8-d403726675b7"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2939 [
     type=shareholder
@@ -35274,11 +35274,11 @@ digraph {
     label="Dreßel, Horst"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=76
-    num_medias_weighted=0.2356
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-2402-4d9b-ab71-4085a3492538"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   2940 [
     type=shareholder
@@ -46374,11 +46374,11 @@ digraph {
     label="Fendt, Sabine"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=0.0490
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ca7443d-77c2-42d4-a5d2-dc522318bf5b"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   3865 [
     type=shareholder
@@ -68778,7 +68778,7 @@ digraph {
     label="Härtl, Barbara Theresia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=284
+    num_medias=265
     num_medias_weighted=0.0000
     name="5efb01b2-c85e-48a8-90cb-224ae737729f"
     in_degree=0
@@ -89238,11 +89238,11 @@ digraph {
     label="Madera Gastro Holding GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.5520
     name="6a27f78b-f039-493d-93c8-ce4e0f8721dd"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   7437 [
     type=shareholder
@@ -91986,11 +91986,11 @@ digraph {
     label="MC Verwaltungs-Gesellschaft mbH & Co. Verlags-KG"
     num_owners=7
     num_owners_weighted=3.0000
-    num_medias=77
-    num_medias_weighted=1.3228
+    num_medias=1
+    num_medias_weighted=0.5000
     name="5ecd11e1-d67e-4b81-a6ea-772166ebdf05"
     in_degree=5
-    out_degree=2
+    out_degree=1
   ];
   7666 [
     type=shareholder
@@ -92010,7 +92010,7 @@ digraph {
     label="MC Verwaltungs-GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=77
+    num_medias=1
     num_medias_weighted=0.0000
     name="5f9aaaab-1e5f-405b-98e9-be4fdcea7154"
     in_degree=2
@@ -106470,11 +106470,11 @@ digraph {
     label="Oberwelland, Birgit"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=4
-    num_medias_weighted=0.0686
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5ca7437d-7ed3-4896-8a9d-a0706efa6b8d"
     in_degree=0
-    out_degree=2
+    out_degree=1
   ];
   8873 [
     type=tv
@@ -107970,7 +107970,7 @@ digraph {
     label="Oschmann, Constanze"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=297
+    num_medias=278
     num_medias_weighted=6.2704
     name="5be1a6b6-649e-43f5-ab9a-1ced442fd834"
     in_degree=0
@@ -107982,8 +107982,8 @@ digraph {
     label="Oschmann, Gunther"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=284
-    num_medias_weighted=1.4538
+    num_medias=265
+    num_medias_weighted=1.4409
     name="5be1a6b6-5e9d-48fa-b088-265055082ac9"
     in_degree=0
     out_degree=13
@@ -107994,7 +107994,7 @@ digraph {
     label="Oschmann, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=298
+    num_medias=279
     num_medias_weighted=7.1660
     name="5be1a6b6-2941-49b8-ad22-038b5aa868af"
     in_degree=0
@@ -122577,7 +122577,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.2451
     name="60a26712-db8d-45f7-855e-a05e8e5dc3f3"
-    in_degree=5
+    in_degree=2
     out_degree=2
   ];
   10215 [
@@ -122610,11 +122610,11 @@ digraph {
     label="Rebmann, Daria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=261
+    num_medias_weighted=0.1112
     name="6a282bd5-fcfc-46ed-bb7e-bcd5765fe324"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10218 [
     type=shareholder
@@ -122658,11 +122658,11 @@ digraph {
     label="Rebmann, Erja"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=261
+    num_medias_weighted=0.1112
     name="6a282bf2-5f4d-48dd-8b70-c09375b55c53"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10222 [
     type=shareholder
@@ -122694,11 +122694,11 @@ digraph {
     label="Rebmann, Sibylle"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=261
+    num_medias_weighted=0.1112
     name="6a282c10-f951-4ea1-b348-c5c6c7271741"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   10225 [
     type=shareholder
@@ -132837,7 +132837,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-d116-4b16-8f7d-275f430faecf"
-    in_degree=6
+    in_degree=7
     out_degree=2
   ];
   11070 [
@@ -133269,7 +133269,7 @@ digraph {
     num_medias=76
     num_medias_weighted=4.2960
     name="5be1a6b6-ab2f-4125-892a-a0cb21e23142"
-    in_degree=8
+    in_degree=7
     out_degree=7
   ];
   11106 [
@@ -134433,7 +134433,7 @@ digraph {
     num_medias=82
     num_medias_weighted=12.0310
     name="5be1a6b6-fc1b-4061-94c7-cf068169fce4"
-    in_degree=5
+    in_degree=4
     out_degree=3
   ];
   11203 [
@@ -135441,7 +135441,7 @@ digraph {
     num_medias=261
     num_medias_weighted=0.6192
     name="5be1a6b6-dcac-4e4f-aa84-e3c808d26df7"
-    in_degree=69
+    in_degree=72
     out_degree=5
   ];
   11287 [
@@ -136734,11 +136734,11 @@ digraph {
     label="Schüppel, Verena"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=261
-    num_medias_weighted=0.2240
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-df6f-4516-8e58-8e26849b7f9b"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11395 [
     type=shareholder
@@ -142806,7 +142806,7 @@ digraph {
     label="SR Beteiligungs GmbH"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=284
+    num_medias=265
     num_medias_weighted=0.0000
     name="5efb014d-25a1-4255-8bb8-6138f8307e74"
     in_degree=2
@@ -142842,7 +142842,7 @@ digraph {
     label="SR Management GmbH & Co. KG"
     num_owners=4
     num_owners_weighted=2.0000
-    num_medias=284
+    num_medias=265
     num_medias_weighted=0.0000
     name="5f905285-3715-460e-affd-dc041afaea8a"
     in_degree=4
@@ -216185,10 +216185,6 @@ digraph {
     weight=10
     type=owns
   ];
-  894 -> 11202 [
-    weight=7.67
-    type=owns
-  ];
   895 -> 1238 [
     weight=16.39
     type=owns
@@ -216278,6 +216274,10 @@ digraph {
     type=owns
   ];
   909 -> 11286 [
+    weight=1.37
+    type=owns
+  ];
+  911 -> 11286 [
     weight=1.37
     type=owns
   ];
@@ -219302,10 +219302,6 @@ digraph {
     type=owns
   ];
   1554 -> 9146 [
-    weight=20
-    type=owns
-  ];
-  1554 -> 10214 [
     weight=20
     type=owns
   ];
@@ -225617,7 +225613,7 @@ digraph {
     weight=10
     type=owns
   ];
-  2939 -> 11105 [
+  2938 -> 11105 [
     weight=5.44
     type=owns
   ];
@@ -229258,10 +229254,6 @@ digraph {
     type=owns
   ];
   3864 -> 9146 [
-    weight=20
-    type=owns
-  ];
-  3864 -> 10214 [
     weight=20
     type=owns
   ];
@@ -244849,6 +244841,10 @@ digraph {
     weight=11.11
     type=owns
   ];
+  7436 -> 11069 [
+    weight=27.6
+    type=owns
+  ];
   7437 -> 7438 [
     weight=1
     type=owns
@@ -245799,10 +245795,6 @@ digraph {
   ];
   7664 -> 2573 [
     weight=5
-    type=owns
-  ];
-  7665 -> 11105 [
-    weight=19
     type=owns
   ];
   7665 -> 13330 [
@@ -252677,10 +252669,6 @@ digraph {
     weight=28
     type=owns
   ];
-  8872 -> 10214 [
-    weight=28
-    type=owns
-  ];
   8874 -> 5444 [
     weight=5.66
     type=owns
@@ -258577,6 +258565,10 @@ digraph {
     weight=1.37
     type=owns
   ];
+  10217 -> 11286 [
+    weight=1
+    type=owns
+  ];
   10218 -> 11286 [
     weight=1.37
     type=owns
@@ -258589,8 +258581,16 @@ digraph {
     weight=4.8
     type=owns
   ];
+  10221 -> 11286 [
+    weight=1
+    type=owns
+  ];
   10223 -> 11286 [
     weight=1.37
+    type=owns
+  ];
+  10224 -> 11286 [
+    weight=1
     type=owns
   ];
   10225 -> 12638 [
@@ -265095,10 +265095,6 @@ digraph {
   ];
   11393 -> 1976 [
     weight=1
-    type=owns
-  ];
-  11394 -> 11286 [
-    weight=1.37
     type=owns
   ];
   11395 -> 11396 [
