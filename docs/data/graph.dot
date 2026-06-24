@@ -73314,11 +73314,11 @@ digraph {
     label="Josef Lütticke KG"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=64
-    num_medias_weighted=0.0006
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f0c5e6a-1f9c-4ec8-b87d-2a41e1faeb99"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   6110 [
     type=shareholder
@@ -88650,7 +88650,7 @@ digraph {
     label="Lütticke, Udo"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=64
+    num_medias=0
     num_medias_weighted=0.0000
     name="5fb7ddf0-a380-4d42-8089-4373f91df6be"
     in_degree=0
@@ -138753,7 +138753,7 @@ digraph {
     num_medias=64
     num_medias_weighted=0.0510
     name="5be1a6b6-ae06-4c4d-82a3-7272c26b2012"
-    in_degree=13
+    in_degree=12
     out_degree=1
   ];
   11563 [
@@ -165210,8 +165210,8 @@ digraph {
     label="Wassen, Rogier"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=64
-    num_medias_weighted=0.0006
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fb7dddc-0937-4a9a-a6ed-b54e6df770ab"
     in_degree=0
     out_degree=1
@@ -239948,10 +239948,6 @@ digraph {
   6106 -> 15808 [
     weight=100
     type=operates
-  ];
-  6109 -> 11562 [
-    weight=1.21
-    type=owns
   ];
   6111 -> 5290 [
     weight=100
