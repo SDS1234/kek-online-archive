@@ -212739,7 +212739,7 @@ digraph {
   17728 [
     type=shareholder
     state=active
-    label="Zwiener, Irina und Anca"
+    label="Zwiener, Anca"
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=8
@@ -212751,6 +212751,18 @@ digraph {
   17729 [
     type=shareholder
     state=active
+    label="Zwiener, Irène"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="6a423328-936e-44c8-b465-a96e05ecef45"
+    in_degree=0
+    out_degree=0
+  ];
+  17730 [
+    type=shareholder
+    state=active
     label="Zwiener, Nadja"
     num_owners=0
     num_owners_weighted=0.0000
@@ -212760,7 +212772,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  17730 [
+  17731 [
     type=print
     state=archived
     label="Züge"
@@ -212772,7 +212784,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  17731 [
+  17732 [
     type=print
     state=active
     label="°m am Sonntag"
@@ -212784,7 +212796,7 @@ digraph {
     in_degree=3
     out_degree=0
   ];
-  17732 [
+  17733 [
     type=print
     state=active
     label="Ärzte Zeitung"
@@ -212796,7 +212808,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  17733 [
+  17734 [
     type=print
     state=active
     label="Ärztlicher Ratgeber"
@@ -212808,7 +212820,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  17734 [
+  17735 [
     type=print
     state=active
     label="écoute"
@@ -212820,7 +212832,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  17735 [
+  17736 [
     type=print
     state=active
     label="Öffentlicher Anzeiger"
@@ -212832,7 +212844,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  17736 [
+  17737 [
     type=shareholder
     state=active
     label="Öko-Test AG"
@@ -212844,7 +212856,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  17737 [
+  17738 [
     type=shareholder
     state=archived
     label="Öko-Test Verlag GmbH"
@@ -212856,7 +212868,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  17738 [
+  17739 [
     type=shareholder
     state=active
     label="Öko-Test Verlag GmbH & Co. KG"
@@ -212868,7 +212880,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  17739 [
+  17740 [
     type=shareholder
     state=active
     label="Öko-Test Verwaltungsgesellschaft mbH"
@@ -212880,7 +212892,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  17740 [
+  17741 [
     type=print
     state=active
     label="Öko-Test-Magazin"
@@ -212892,7 +212904,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  17741 [
+  17742 [
     type=print
     state=archived
     label="Öko-Test-Magazin"
@@ -212904,7 +212916,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  17742 [
+  17743 [
     type=shareholder
     state=active
     label="Ören, Aslihan"
@@ -212916,7 +212928,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  17743 [
+  17744 [
     type=shareholder
     state=active
     label="Österreichischer Rundfunk (ORF)"
@@ -212928,7 +212940,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  17744 [
+  17745 [
     type=shareholder
     state=active
     label="Öz, Can"
@@ -212940,7 +212952,7 @@ digraph {
     in_degree=0
     out_degree=1
   ];
-  17745 [
+  17746 [
     type=shareholder
     state=active
     label="Öz, Özgür"
@@ -212952,7 +212964,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  17746 [
+  17747 [
     type=shareholder
     state=active
     label="Übelhör, Rudolf"
@@ -233693,7 +233705,7 @@ digraph {
     weight=25
     type=owns
   ];
-  4704 -> 17736 [
+  4704 -> 17737 [
     weight=78.03
     type=owns
   ];
@@ -248097,7 +248109,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8089 -> 17735 [
+  8089 -> 17736 [
     weight=100
     type=operates
   ];
@@ -251673,7 +251685,7 @@ digraph {
     weight=100
     type=operates
   ];
-  8707 -> 17731 [
+  8707 -> 17732 [
     weight=100
     type=operates
   ];
@@ -260805,7 +260817,7 @@ digraph {
     weight=100
     type=operates
   ];
-  10513 -> 17731 [
+  10513 -> 17732 [
     weight=100
     type=operates
   ];
@@ -266905,7 +266917,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11883 -> 17732 [
+  11883 -> 17733 [
     weight=100
     type=operates
   ];
@@ -268633,7 +268645,7 @@ digraph {
     weight=50.13
     type=owns
   ];
-  12360 -> 17736 [
+  12360 -> 17737 [
     weight=33.8
     type=owns
   ];
@@ -275081,7 +275093,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13662 -> 17731 [
+  13662 -> 17732 [
     weight=100
     type=operates
   ];
@@ -277593,7 +277605,7 @@ digraph {
     weight=100
     type=operates
   ];
-  14301 -> 17733 [
+  14301 -> 17734 [
     weight=100
     type=operates
   ];
@@ -278133,7 +278145,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17616 -> 17734 [
+  17616 -> 17735 [
     weight=100
     type=operates
   ];
@@ -279061,43 +279073,43 @@ digraph {
     weight=1
     type=owns
   ];
-  17729 -> 565 [
+  17730 -> 565 [
     weight=1
     type=owns
   ];
-  17736 -> 17738 [
+  17737 -> 17739 [
     weight=100
     type=owns
   ];
-  17736 -> 17739 [
+  17737 -> 17740 [
     weight=100
     type=owns
   ];
-  17738 -> 16261 [
+  17739 -> 16261 [
     weight=100
     type=operates
   ];
-  17738 -> 17740 [
+  17739 -> 17741 [
     weight=100
     type=operates
   ];
-  17739 -> 17738 [
+  17740 -> 17739 [
     weight=1
     type=owns
   ];
-  17742 -> 5813 [
+  17743 -> 5813 [
     weight=59
     type=owns
   ];
-  17743 -> 4543 [
+  17744 -> 4543 [
     weight=1
     type=owns
   ];
-  17743 -> 16292 [
+  17744 -> 16292 [
     weight=100
     type=operates
   ];
-  17744 -> 2427 [
+  17745 -> 2427 [
     weight=70
     type=owns
   ];
