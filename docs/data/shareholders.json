@@ -7968,6 +7968,7 @@
     "name": "Rudolf Augstein GmbH",
     "state": "active",
     "controlDate": "2026-06-02T13:04:08.027Z",
+    "corporationName": "Rudolf Augstein Gesellschaft",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8095,6 +8096,7 @@
     "name": "Disney Enterprises, Inc.",
     "state": "active",
     "controlDate": "2026-04-28T11:08:04.152Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8190,9 +8192,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-e7d4-42fd-aacd-37234b231d29",
-    "name": "Mainstream Media AG",
     "state": "active",
+    "name": "Mainstream Media AG",
+    "squuid": "5be1a6b6-e7d4-42fd-aacd-37234b231d29",
     "controlDate": "2026-05-21T09:48:59.358Z",
     "organizations": [
       {
@@ -8212,6 +8214,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Mainstream Media",
     "operates": [
       {
         "squuid": "5be1a6b9-b23e-48a6-be01-971f3aeb0cb6",
@@ -8337,6 +8340,7 @@
     "name": "Sport1 Medien GmbH",
     "state": "active",
     "controlDate": "2026-06-11T09:26:25.301Z",
+    "corporationName": "Sport1 Medien",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -8405,6 +8409,7 @@
     "name": "ProSiebenSat.1 Media SE",
     "state": "active",
     "controlDate": "2026-06-01T12:08:35.968Z",
+    "corporationName": "ProSiebenSat.1",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9024,6 +9029,7 @@
     "name": "Burda Gesellschaft mit beschränkter Haftung",
     "state": "active",
     "controlDate": "2026-04-16T07:41:10.883Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9092,11 +9098,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a",
-    "name": "Hubert Burda Media Holding KG",
     "state": "active",
-    "controlDate": "2026-05-15T09:29:00.106Z",
+    "name": "Hubert Burda Media Holding KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-7626-4ccb-9b6d-025ef63b4f0a",
+    "controlDate": "2026-05-15T09:29:00.106Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9198,7 +9204,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": ""
   },
   {
     "squuid": "68652d1e-05d2-4561-a5d3-5982f7f34702",
@@ -9659,11 +9666,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76",
-    "name": "Bertelsmann SE & Co. KGaA",
     "state": "active",
-    "controlDate": "2026-04-14T12:33:51.869Z",
+    "name": "Bertelsmann SE & Co. KGaA",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76",
+    "controlDate": "2026-04-14T12:33:51.869Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -9759,7 +9766,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Bertelsmann"
   },
   {
     "squuid": "61d581ad-4eb2-47e0-98a1-e0ccb4a4b644",
@@ -10242,6 +10250,7 @@
     "squuid": "5be1a6b6-491f-44b7-8263-bc2692fac1e9",
     "name": "NBC Universal Media LL.C.",
     "state": "active",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -10943,9 +10952,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-62fe-4b85-a886-2d02af7df9ab",
-    "name": "The Walt Disney Company (Germany) GmbH",
     "state": "active",
+    "name": "The Walt Disney Company (Germany) GmbH",
+    "squuid": "5be1a6b6-62fe-4b85-a886-2d02af7df9ab",
     "controlDate": "2026-06-12T15:50:09.662Z",
     "organizations": [
       {
@@ -10959,6 +10968,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "",
     "operates": [
       {
         "squuid": "5be1a6b9-2e98-4ada-a059-3dc197a7e81f",
@@ -11012,6 +11022,7 @@
     "name": "The Walt Disney Company",
     "state": "active",
     "controlDate": "2026-06-12T15:48:19.299Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11176,6 +11187,7 @@
     "name": "Hearst Communications, Inc.",
     "state": "active",
     "controlDate": "2026-05-12T14:38:27.891Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11194,6 +11206,7 @@
     "name": "The Hearst Corporation",
     "state": "active",
     "controlDate": "2026-06-12T15:21:38.654Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -11300,6 +11313,7 @@
     "squuid": "5be1a6b6-8067-4521-8f5e-c9fd75128c86",
     "name": "NBC (Europe) Ltd.",
     "state": "active",
+    "corporationName": "NBC",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -12430,11 +12444,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-36c9-4097-9471-8ac9ef5c6024",
-    "name": "Burda Broadcast Media GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-15T13:55:41.346Z",
+    "name": "Burda Broadcast Media GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-36c9-4097-9471-8ac9ef5c6024",
+    "controlDate": "2026-04-15T13:55:41.346Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -12536,7 +12550,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": ""
   },
   {
     "squuid": "5be1a6b6-5151-4299-a7c6-6c51184510ef",
@@ -13900,9 +13915,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6",
-    "name": "Presse-Druck- und Verlags-GmbH",
     "state": "active",
+    "name": "Presse-Druck- und Verlags-GmbH",
+    "squuid": "5be1a6b6-97ff-44fa-8982-0c7eb2fa53c6",
     "controlDate": "2026-06-01T09:56:40.138Z",
     "organizations": [
       {
@@ -14006,6 +14021,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Presse-Druck- und Verl.-Ges.",
     "operates": [
       {
         "squuid": "5be1a6b9-8f94-43e4-85d2-30e9c07f9fe7",
@@ -15181,6 +15197,7 @@
     "squuid": "5be1a6b6-83b3-4698-b48b-c85c6b579883",
     "name": "Viacom, Inc.",
     "state": "archived",
+    "corporationName": "Viacom",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -23649,11 +23666,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d",
-    "name": "Nordwest-Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-28T12:35:50.759Z",
+    "name": "Nordwest-Medien GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-6d98-47de-ac59-bdd22da3974d",
+    "controlDate": "2026-05-28T12:35:50.759Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -23737,7 +23754,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Nordwest Medien"
   },
   {
     "squuid": "5be1a6b6-3a49-498e-ac48-b7da3a2e673b",
@@ -23979,11 +23997,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e",
-    "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
     "state": "active",
-    "controlDate": "2026-05-06T09:42:54.645Z",
+    "name": "Frank Otto Medienbeteiligungsgesellschaft mbH & Co. KG (FOM)",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-ca51-4678-bab9-f3c88c906e5e",
+    "controlDate": "2026-05-06T09:42:54.645Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24044,7 +24062,8 @@
         "fullName": "Medienanstalt Sachsen-Anhalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Frank Otto Medienbeteiligungs-Ges."
   },
   {
     "squuid": "5be1a6b6-59b9-4b3c-9d55-d95dc00dc25b",
@@ -24571,6 +24590,7 @@
     "squuid": "5be1a6b6-4baa-4cf7-8934-bc6c4a96229a",
     "name": "DuMont Funk und Fernsehen GmbH & Co. KG",
     "state": "active",
+    "corporationName": "DuMont",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -26472,6 +26492,7 @@
     "name": "Deutsche Druck- und Verlagsgesellschaft mbH (DDVG)",
     "state": "active",
     "controlDate": "2026-04-21T12:32:50.037Z",
+    "corporationName": "DDVG",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -26866,11 +26887,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa",
-    "name": "Georg von Holtzbrinck GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-11T08:03:37.039Z",
+    "name": "Georg von Holtzbrinck GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-3efe-470d-89eb-1d230f00b5fa",
+    "controlDate": "2026-05-11T08:03:37.039Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -26883,7 +26904,8 @@
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Verlagsgruppe Georg von Holtzbrink"
   },
   {
     "squuid": "5cb87d06-36d0-43ae-bd3b-b4f8cb4dd0e6",
@@ -27133,11 +27155,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653",
-    "name": "Funke Mediengruppe GmbH & Co. KGaA",
     "state": "active",
-    "controlDate": "2026-05-07T11:44:02.787Z",
+    "name": "Funke Mediengruppe GmbH & Co. KGaA",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-6d6f-4b05-b3c4-8202f7c67653",
+    "controlDate": "2026-05-07T11:44:02.787Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -27215,7 +27237,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Funke"
   },
   {
     "squuid": "648c6d0d-e3fb-454a-8761-2311235e2d70",
@@ -30059,6 +30082,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Regiocast",
     "operates": [
       {
         "squuid": "5be1a6b9-f9d0-4a8c-89df-e2a2f5f1e734",
@@ -34787,6 +34811,7 @@
     "name": "Comcast Corporation",
     "state": "active",
     "controlDate": "2026-04-17T11:24:44.073Z",
+    "corporationName": "Comcast",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -35649,6 +35674,7 @@
     "name": "Verlagsgruppe Georg von Holtzbrinck GmbH",
     "state": "active",
     "controlDate": "2026-06-14T10:47:07.320Z",
+    "corporationName": "Verlagsgruppe Georg von Holtzbrink",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35927,6 +35953,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Discovery",
     "operates": [
       {
         "squuid": "5be1a6b9-0cd2-45fc-ad58-f631d81c71d0",
@@ -36088,6 +36115,7 @@
     "name": "Discovery Communications Europe Ltd.",
     "state": "active",
     "controlDate": "2026-04-28T11:03:56.059Z",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38239,11 +38267,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c",
-    "name": "Müller Medien GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-26T09:39:22.243Z",
+    "name": "Müller Medien GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-ded2-4b9a-bfc3-f385e6d29d5c",
+    "controlDate": "2026-05-26T09:39:22.243Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -38345,7 +38373,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Müller Medien"
   },
   {
     "squuid": "5be1a6b6-f0fc-45e0-ad27-cbefd73a4279",
@@ -46673,6 +46702,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Madsack",
     "operates": [
       {
         "squuid": "5be1a6b9-3d43-423b-9e44-8ab36f4e9405",
@@ -55107,11 +55137,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5",
-    "name": "DuMont Mediengruppe GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-30T11:44:30.601Z",
+    "name": "DuMont Mediengruppe GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-e1ab-45ed-adc5-5a3dca911ab5",
+    "controlDate": "2026-04-30T11:44:30.601Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55130,7 +55160,8 @@
         "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "DuMont"
   },
   {
     "squuid": "5ef1f805-e9d2-4744-8ed8-13e9588df626",
@@ -55394,11 +55425,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df",
-    "name": "Ebner Pressegesellschaft GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-04T08:48:22.184Z",
+    "name": "Ebner Pressegesellschaft GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-bd4c-4bfe-879c-155b46e2c5df",
+    "controlDate": "2026-05-04T08:48:22.184Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -55459,7 +55490,8 @@
         "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Ebner Pressegesellschaft"
   },
   {
     "squuid": "5be1a6b6-09d2-4a02-b37d-f07967576dce",
@@ -55547,6 +55579,7 @@
     "name": "ZVD MEDIENGESELLSCHAFT MBH",
     "state": "active",
     "controlDate": "2026-06-16T13:43:00.897Z",
+    "corporationName": "ZVD Medien",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -56174,6 +56207,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "F. Wolff & Sohn",
     "operates": [
       {
         "squuid": "5be1a6b9-4a5f-4b32-9d87-e67eae00f3f2",
@@ -56923,6 +56957,7 @@
     "name": "Axel Springer SE",
     "state": "active",
     "controlDate": "2026-04-10T12:44:07.057Z",
+    "corporationName": "Springer",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -57283,6 +57318,7 @@
     "name": "DvH Medien GmbH",
     "state": "active",
     "controlDate": "2026-04-30T12:36:01.164Z",
+    "corporationName": "DvH Medien",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -57537,6 +57573,7 @@
     "name": "Warner Bros. Discovery, Inc.",
     "state": "active",
     "controlDate": "2026-06-15T09:27:46.718Z",
+    "corporationName": "Discovery",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -58165,6 +58202,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Motor Presse Stuttgart",
     "operates": [
       {
         "squuid": "5be1a6b9-ea21-41bf-a3e7-19e00fbda400",
@@ -67105,11 +67143,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23",
-    "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
     "state": "active",
-    "controlDate": "2026-06-12T14:19:05.143Z",
+    "name": "Tele-München Fernseh-GmbH & Co. Medienbeteiligung KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-efb3-4041-a7bf-e2906ed42f23",
+    "controlDate": "2026-06-12T14:19:05.143Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -67127,7 +67165,8 @@
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": ""
   },
   {
     "squuid": "5be1a6b6-19ab-4bb3-9339-1e6333192dfd",
@@ -71906,11 +71945,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-4063-4999-aa77-001e69364f76",
-    "name": "Jakob Funke Medien Beteiligungs GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-18T11:11:08.491Z",
+    "name": "Jakob Funke Medien Beteiligungs GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-4063-4999-aa77-001e69364f76",
+    "controlDate": "2026-05-18T11:11:08.491Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -71988,7 +72027,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Funke"
   },
   {
     "squuid": "5be1a6b6-e276-4fdb-b29e-1d9f686b510a",
@@ -73458,6 +73498,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Neue Osnabrücker Zeitung",
     "operates": [
       {
         "squuid": "5be1a6b9-15b9-4d7d-b240-16a06f2798b2",
@@ -76397,6 +76438,7 @@
     "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
     "state": "active",
     "controlDate": "2025-09-16T09:38:09.561Z",
+    "corporationName": "ARD",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -78219,6 +78261,7 @@
     "name": "Zweites Deutsches Fernsehen (ZDF) Anstalt des öffentlichen Rechts",
     "state": "active",
     "controlDate": "2020-06-30T13:58:07.290Z",
+    "corporationName": "ZDF",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79680,11 +79723,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d",
-    "name": "Hackmack, Meyer KG",
     "state": "active",
-    "controlDate": "2026-05-12T12:17:53.591Z",
+    "name": "Hackmack, Meyer KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-c5e8-4aab-b88d-a72ff7b3170d",
+    "controlDate": "2026-05-12T12:17:53.591Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -79762,7 +79805,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Hackmack, Meyer"
   },
   {
     "squuid": "5be1a6b6-09ff-4aea-a1fb-b110ddf8f808",
@@ -83975,6 +84019,7 @@
     "name": "Klambt-Medien GmbH",
     "state": "active",
     "controlDate": "2026-05-19T11:01:18.629Z",
+    "corporationName": "Klambt",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -85069,6 +85114,7 @@
     "squuid": "5be1a6b6-f6b3-418b-9385-30c1b7cd579b",
     "name": "NBC Universal LL.C.",
     "state": "active",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -85222,6 +85268,7 @@
     "squuid": "5be1a6b6-cd4f-43a9-98fb-353d4def52c3",
     "name": "NBC Universal Enterprise, Inc.",
     "state": "active",
+    "corporationName": "NBC",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -87430,6 +87477,7 @@
     "squuid": "5be1a6b6-3a75-44e6-aa11-03d548ab0cd2",
     "name": "Constantin Film AG",
     "state": "active",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -90811,6 +90859,7 @@
     "squuid": "5be1a6b6-66c5-442f-a43c-4c4b99682af7",
     "name": "DuMont Digital GmbH & Co. KG",
     "state": "active",
+    "corporationName": "",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -91389,6 +91438,7 @@
     "name": "Aachener Verlagsgesellschaft mbH",
     "state": "archived",
     "controlDate": "2022-08-30T12:14:56.775Z",
+    "corporationName": "Aachener Verlagsgesellschaft",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -91477,6 +91527,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Bauer",
     "operates": [
       {
         "squuid": "60f56fc8-0e72-4751-9c48-3e078b4a7d8d",
@@ -94826,6 +94877,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Schwäbischer Verlag",
     "operates": [
       {
         "squuid": "5be1a6b9-b98a-41ef-b4ec-15b59e69acca",
@@ -95454,6 +95506,7 @@
     "name": "Südwestdeutsche Medienholding GmbH",
     "state": "active",
     "controlDate": "2026-06-12T12:51:54.826Z",
+    "corporationName": "SWMH",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95610,11 +95663,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f",
-    "name": "Girardet Verlag KG",
     "state": "active",
-    "controlDate": "2026-05-11T10:02:22.903Z",
+    "name": "Girardet Verlag KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f",
+    "controlDate": "2026-05-11T10:02:22.903Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95663,7 +95716,8 @@
         "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Girardet Verlag"
   },
   {
     "state": "active",
@@ -95720,6 +95774,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Presse Druckhaus Nürnberg",
     "operates": [
       {
         "squuid": "5be1a6b9-944f-4458-8a3f-564414fdc691",
@@ -97034,6 +97089,7 @@
     "name": "Rheinische Post Mediengruppe GmbH",
     "state": "active",
     "controlDate": "2026-06-02T09:00:58.916Z",
+    "corporationName": "Rheinisch-Bergische Verl.-Ges.",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -137372,6 +137428,7 @@
     "name": "Red Bull GmbH",
     "state": "active",
     "controlDate": "2026-06-08T10:58:40.706Z",
+    "corporationName": "Red Bull",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -138087,6 +138144,7 @@
     "name": "Fazit-Stiftung Gemeinnützige Verlagsgesellschaft mbH",
     "state": "active",
     "controlDate": "2026-05-05T14:27:54.964Z",
+    "corporationName": "Fazit-Stiftung",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -138682,6 +138740,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "VRM",
     "operates": [
       {
         "squuid": "5be1a6b9-9568-484d-a55e-f1a7811edc7f",
@@ -139181,9 +139240,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-7572-4bdd-903c-7c673951897c",
-    "name": "Mittelrhein-Verlag GmbH",
     "state": "active",
+    "name": "Mittelrhein-Verlag GmbH",
+    "squuid": "5be1a6b6-7572-4bdd-903c-7c673951897c",
     "controlDate": "2026-05-22T12:00:44.339Z",
     "organizations": [
       {
@@ -139216,6 +139275,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Mittelrhein-Verlag",
     "operates": [
       {
         "squuid": "5be1a6b9-25f8-45e4-951a-fff976f7a5ab",
@@ -140043,11 +140103,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6",
-    "name": "Medienholding Klambt GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-05-21T15:51:23.068Z",
+    "name": "Medienholding Klambt GmbH & Co KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-7140-4499-b16b-b5c1288ef7a6",
+    "controlDate": "2026-05-21T15:51:23.068Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140090,7 +140150,8 @@
         "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Klambt"
   },
   {
     "squuid": "5be1a6b6-42b3-4a66-ba02-f5f6496a8bfa",
@@ -140282,6 +140343,7 @@
     "name": "Mittelhessische Druck- und Verlagsgesellschaft mbH",
     "state": "active",
     "controlDate": "2026-05-22T11:45:29.497Z",
+    "corporationName": "Mittelhessische Druck- und Verl.-Ges.",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -204744,6 +204806,7 @@
     "name": "KKR Group Holdings L.P.",
     "state": "active",
     "controlDate": "2023-06-12T14:58:24.368Z",
+    "corporationName": "KKR",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -204821,6 +204884,7 @@
     "name": "KKR Management LLP",
     "state": "active",
     "controlDate": "2025-11-16T10:36:01.127Z",
+    "corporationName": "KKR",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -205099,6 +205163,7 @@
     "name": "KKR Group Co. Inc.",
     "state": "active",
     "controlDate": "2025-11-16T10:35:09.267Z",
+    "corporationName": "KKR",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -208514,6 +208579,7 @@
     "name": "HKM Medien GmbH",
     "state": "active",
     "controlDate": "2026-05-13T13:41:58.788Z",
+    "corporationName": "HKM Medien",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -212860,9 +212926,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436",
-    "name": "Medien Union GmbH Ludwigshafen",
     "state": "active",
+    "name": "Medien Union GmbH Ludwigshafen",
+    "squuid": "5be1a6b6-c7c8-4983-84f6-ada451aec436",
     "controlDate": "2026-05-21T13:36:14.309Z",
     "organizations": [
       {
@@ -212966,6 +213032,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Medien Union",
     "operates": [
       {
         "squuid": "65c1099b-53b7-4243-94cb-ca428be192e5",
@@ -215322,6 +215389,7 @@
     "name": "Motor Presse Stuttgart Verwaltungsgesellschaft mbH",
     "state": "active",
     "controlDate": "2026-05-22T13:14:49.011Z",
+    "corporationName": "Motor Presse Stuttgart",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -218453,6 +218521,7 @@
     "name": "Deutsche Telekom AG",
     "state": "active",
     "controlDate": "2019-07-09T12:03:58.729Z",
+    "corporationName": "Telekom",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -220381,6 +220450,7 @@
     "name": "Burda Digital GmbH",
     "state": "archived",
     "controlDate": "2021-12-10T09:38:01.622Z",
+    "corporationName": "Burda",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -221620,9 +221690,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291",
-    "name": "Landwirtschaftsverlag GmbH",
     "state": "active",
+    "name": "Landwirtschaftsverlag GmbH",
+    "squuid": "5be1a6b6-31a6-4cfa-a630-deb9d1047291",
     "controlDate": "2026-05-20T09:49:28.428Z",
     "organizations": [
       {
@@ -221631,6 +221701,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Landwirtschaftsverlag",
     "operates": [
       {
         "squuid": "5be1a6b9-199e-4acc-b949-ca3d940fe510",
@@ -227839,9 +227910,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc",
-    "name": "BurdaVerlag Publishing GmbH",
     "state": "active",
+    "name": "BurdaVerlag Publishing GmbH",
+    "squuid": "5be1a6b6-1fcb-4c6c-8d25-0c516c0ca8fc",
     "controlDate": "2026-04-16T11:24:34.205Z",
     "organizations": [
       {
@@ -227850,6 +227921,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "Burda",
     "operates": [
       {
         "squuid": "5be1a6b9-97dc-4851-b785-ddbd096e5685",
@@ -228771,6 +228843,7 @@
     "name": "dpa Deutsche Presse Agentur GmbH",
     "state": "active",
     "controlDate": "2026-04-28T15:05:44.578Z",
+    "corporationName": "dpa",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -230931,18 +231004,19 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51",
-    "name": "BZ.medien GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-04-16T08:40:34.777Z",
+    "name": "BZ.medien GmbH & Co KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-6f79-45c0-9070-3a78ba6dbc51",
+    "controlDate": "2026-04-16T08:40:34.777Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Badisches Pressehaus"
   },
   {
     "squuid": "5be1a6b6-008e-4377-9a26-fc38b49614a2",
@@ -233478,9 +233552,9 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-56d0-4712-a0cf-56d46804189e",
-    "name": "Deutscher Landwirtschaftsverlag GmbH",
     "state": "active",
+    "name": "Deutscher Landwirtschaftsverlag GmbH",
+    "squuid": "5be1a6b6-56d0-4712-a0cf-56d46804189e",
     "controlDate": "2026-04-21T14:18:44.559Z",
     "organizations": [
       {
@@ -233489,6 +233563,7 @@
         "type": "organization"
       }
     ],
+    "corporationName": "",
     "operates": [
       {
         "squuid": "5be1a6b9-e72a-4401-a1d0-1dc3bd20c701",
@@ -233886,6 +233961,7 @@
     "name": "Mediengruppe Bayern GmbH",
     "state": "active",
     "controlDate": "2026-05-21T14:37:12.294Z",
+    "corporationName": "Verlagsgruppe Passau",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -239469,6 +239545,7 @@
     "name": "GeraNova Bruckmann Verlagshaus GmbH",
     "state": "active",
     "controlDate": "2026-05-11T08:09:21.202Z",
+    "corporationName": "GeraNova Bruckmann",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -240895,11 +240972,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-ab7e-48fe-8e65-e7801311d8df",
-    "name": "Heise Gruppe GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-05-13T09:50:39.824Z",
+    "name": "Heise Gruppe GmbH & Co KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-ab7e-48fe-8e65-e7801311d8df",
+    "controlDate": "2026-05-13T09:50:39.824Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -240977,7 +241054,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Heise Gruppe"
   },
   {
     "squuid": "5be1a6b6-5719-4f59-a3aa-91c5feb147ef",
@@ -255773,18 +255851,19 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-597a-4f10-8361-53f199954657",
-    "name": "Ströer SE & Co KG aA",
     "state": "active",
-    "controlDate": "2026-06-12T08:32:48.629Z",
+    "name": "Ströer SE & Co KG aA",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-597a-4f10-8361-53f199954657",
+    "controlDate": "2026-06-12T08:32:48.629Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "Ströer"
   },
   {
     "squuid": "5ef9ada1-914b-4250-b234-a838986e83b9",
@@ -256961,6 +257040,7 @@
     "name": "Condé Nast International Ltd.",
     "state": "active",
     "controlDate": "2025-10-13T14:14:11.548Z",
+    "corporationName": "Condé Nast",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -260889,6 +260969,7 @@
     "name": "Marquard Media International AG",
     "state": "active",
     "controlDate": "2026-05-21T10:45:37.780Z",
+    "corporationName": "Marquard Media International",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273527,6 +273608,7 @@
     "name": "NOZ MEDIEN Verlags GmbH",
     "state": "active",
     "controlDate": "2026-05-28T13:01:48.768Z",
+    "corporationName": "NOZ Medien",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -280579,6 +280661,7 @@
     "name": "AT&T, Inc.",
     "state": "archived",
     "controlDate": "2021-12-01T13:15:34.814Z",
+    "corporationName": "AT&T",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -281205,6 +281288,7 @@
     "name": "United Internet AG",
     "state": "active",
     "controlDate": "2024-12-22T14:50:37.458Z",
+    "corporationName": "United Internet",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -283610,6 +283694,7 @@
     "name": "Springer Nature Deutschland GmbH",
     "state": "active",
     "controlDate": "2026-06-11T10:18:08.804Z",
+    "corporationName": "Springer Nature",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283698,11 +283783,11 @@
     ]
   },
   {
-    "squuid": "5be1a6b6-da8a-46ce-a397-ba4696d4d7ae",
-    "name": "ZHH Zeitungsholding Hessen GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-06-16T13:37:17.240Z",
+    "name": "ZHH Zeitungsholding Hessen GmbH & Co. KG",
     "limitedPartnership": true,
+    "squuid": "5be1a6b6-da8a-46ce-a397-ba4696d4d7ae",
+    "controlDate": "2026-06-16T13:37:17.240Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -283780,7 +283865,8 @@
         "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
-    ]
+    ],
+    "corporationName": "ZHH Zeitungsholding Hessen"
   },
   {
     "squuid": "5be1a6b6-790c-4a6b-bdf1-b75f1677c84f",
@@ -291464,6 +291550,7 @@
     "name": "DuMont Regional Media GmbH",
     "state": "active",
     "controlDate": "2026-04-30T11:41:50.503Z",
+    "corporationName": "DuMont",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -301330,6 +301417,7 @@
     "squuid": "5ced4400-dfc3-4ad2-b90a-a4e287f13070",
     "name": "Sonstige (MVM)",
     "state": "active",
+    "corporationName": "Sonstige",
     "organizations": [
       {
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
