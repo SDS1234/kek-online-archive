@@ -45092,6 +45092,34 @@
   },
   {
     "state": "active",
+    "squuid": "6a4675f4-d15e-4e56-9bb1-dca620df3bb5",
+    "organization": {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    "rfStatewide": false,
+    "name": "Schlagermax Radio ",
+    "rfPublicPrivate": false,
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+      "name": "MMV",
+      "type": "organization",
+      "fullName": "Medienanstalt Mecklenburg-Vorpommern"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
+  },
+  {
+    "state": "active",
     "squuid": "63da8d81-3f70-4488-867f-b2edf68b1c6d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

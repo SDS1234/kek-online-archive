@@ -147844,6 +147844,30 @@
     "controlDate": "2024-06-05T09:44:01.897Z"
   },
   {
+    "squuid": "6a467880-5167-4c6a-8370-8dc27398a842",
+    "name": "Blum, Enrico",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830fd-9e97-4dfd-9136-f2f41022a6c8",
+        "name": "MMV",
+        "fullName": "Medienanstalt Mecklenburg-Vorpommern",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a4678bf-1620-4cb0-bdd9-b068f0f6f54c",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a4675f4-d15e-4e56-9bb1-dca620df3bb5",
+          "name": "Schlagermax Radio "
+        }
+      }
+    ]
+  },
+  {
     "squuid": "64a54be0-298d-41ee-be6e-daf6b093129f",
     "name": "Madsack Reisereporter Verwaltungs-GmbH",
     "state": "active",
@@ -240609,7 +240633,7 @@
     "squuid": "5be1a6b6-a726-4246-9a90-4075f123ae4e",
     "name": "1&1 Mail & Media GmbH",
     "state": "active",
-    "controlDate": "2025-09-10T10:28:18.713Z",
+    "controlDate": "2026-07-02T12:01:15.003Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
