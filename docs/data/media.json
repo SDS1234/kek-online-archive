@@ -85267,7 +85267,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 5,
+    "pressPublishingIntervals": 6,
     "state": "active",
     "squuid": "5be1a6b1-3fab-4e2b-99b1-a8eb96e9c005",
     "organization": {
@@ -90527,7 +90527,7 @@
     "rfStatewide": false,
     "name": "Meine gute Landküche",
     "type": "print",
-    "controlDate": "2026-02-03T13:19:45.572Z",
+    "controlDate": "2026-07-02T11:18:34.759Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91576,7 +91576,7 @@
     "rfStatewide": false,
     "name": "Mein schöner Garten",
     "type": "print",
-    "controlDate": "2026-02-03T13:11:58.300Z",
+    "controlDate": "2026-07-02T11:10:26.398Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91977,7 +91977,7 @@
     "rfStatewide": false,
     "name": "Mein schöner Landgarten",
     "type": "print",
-    "controlDate": "2026-02-03T13:13:04.332Z",
+    "controlDate": "2026-07-02T11:11:38.806Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91998,7 +91998,7 @@
     "rfStatewide": false,
     "name": "Mein schöner Garten spezial",
     "type": "print",
-    "controlDate": "2026-02-03T13:12:47.122Z",
+    "controlDate": "2026-07-02T11:11:29.242Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103764,7 +103764,7 @@
     "rfStatewide": false,
     "name": "Meine Familie & ich",
     "type": "print",
-    "controlDate": "2026-02-03T13:18:18.355Z",
+    "controlDate": "2026-07-02T11:17:07.612Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103785,7 +103785,7 @@
     "rfStatewide": false,
     "name": "Lust auf Genuss",
     "type": "print",
-    "controlDate": "2026-02-03T10:56:30.027Z",
+    "controlDate": "2026-07-02T10:27:16.555Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -125678,7 +125678,7 @@
     "name": "Mach es selbst",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-11-03T10:17:16.865Z",
+    "controlDate": "2026-07-02T10:33:07.444Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
