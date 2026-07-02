@@ -6291,6 +6291,7 @@
     "squuid": "6a2a8399-fd7c-47a1-9dbc-ac8aeab1ace9",
     "name": "Gaenserig mediatec GmbH",
     "state": "active",
+    "controlDate": "2026-07-02T08:43:02.374Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -44876,7 +44877,7 @@
   },
   {
     "squuid": "6a2bd79e-f613-46b7-ad24-71c6d0aceac5",
-    "name": "K.F. Schimper Verlag GmbH",
+    "name": "EUROCAST GmbH Radio Venture & Management",
     "state": "active",
     "organizations": [
       {
@@ -167917,8 +167918,9 @@
   },
   {
     "squuid": "6a27f78b-f039-493d-93c8-ce4e0f8721dd",
-    "name": "Madera Gastro Holding GmbH",
+    "name": "Madera Beteiligungen GmbH",
     "state": "active",
+    "controlDate": "2026-07-02T08:53:59.658Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -169876,6 +169878,7 @@
     "squuid": "6a282c10-f951-4ea1-b348-c5c6c7271741",
     "name": "Rebmann, Sibylle",
     "state": "active",
+    "controlDate": "2026-07-02T09:03:51.851Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -200554,9 +200557,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b083104-06da-45cc-a97a-16cb34631424",
+        "name": "TLM",
+        "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -202804,6 +202812,19 @@
     "controlDate": "2020-06-17T13:07:48.735Z"
   },
   {
+    "squuid": "6a462512-3feb-4d98-a5d2-ef2daba6c11e",
+    "name": "Gaenserig, Carsten",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d3870bb-0627-4543-a21f-4d62cd96dd2b",
     "name": "Venhofen, Bernhard",
     "state": "active",
@@ -202812,6 +202833,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a462531-27a8-42d4-bc4b-60fc2b6a1854",
+    "name": "Prüßmann-Gaenserig, Karin",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
