@@ -8044,7 +8044,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 12,
+    "pressPublishingIntervals": 10,
     "state": "active",
     "squuid": "5be1a6b1-6232-420c-aecd-62108ebb2955",
     "organization": {
@@ -20853,7 +20853,7 @@
     "rfStatewide": false,
     "name": "Passauer Bistumsblatt",
     "type": "print",
-    "controlDate": "2025-01-10T14:54:29.134Z",
+    "controlDate": "2026-07-03T10:34:56.092Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97432,7 +97432,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 22,
+    "pressPublishingIntervals": 24,
     "state": "active",
     "squuid": "5be1a6b1-db85-4e00-b9c0-04ed0d0fcbaa",
     "organization": {
@@ -164333,7 +164333,7 @@
     "name": "P Stadtkulturmagazin",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-01-12T10:51:23.833Z",
+    "controlDate": "2026-07-03T10:11:19.785Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
