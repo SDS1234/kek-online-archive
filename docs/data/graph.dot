@@ -68487,6 +68487,18 @@ digraph {
   5707 [
     type=shareholder
     state=active
+    label="Huster, Birgit"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=76
+    num_medias_weighted=0.8945
+    name="5be1a6b6-e028-4d97-a2bf-0d15f2aa6133"
+    in_degree=0
+    out_degree=4
+  ];
+  5708 [
+    type=shareholder
+    state=active
     label="Huster, Hendrik"
     num_owners=0
     num_owners_weighted=0.0000
@@ -68495,18 +68507,6 @@ digraph {
     name="5be1a6b6-1ffc-45eb-8aaf-b4900f1d6145"
     in_degree=0
     out_degree=2
-  ];
-  5708 [
-    type=shareholder
-    state=active
-    label="Huster-Harms, Birgit"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=76
-    num_medias_weighted=0.8945
-    name="5be1a6b6-e028-4d97-a2bf-0d15f2aa6133"
-    in_degree=0
-    out_degree=4
   ];
   5709 [
     type=print
@@ -237782,27 +237782,27 @@ digraph {
     type=owns
   ];
   5707 -> 2267 [
-    weight=1
-    type=owns
-  ];
-  5707 -> 2268 [
-    weight=1
-    type=owns
-  ];
-  5708 -> 2267 [
     weight=13.56
     type=owns
   ];
-  5708 -> 2268 [
+  5707 -> 2268 [
     weight=13.6
     type=owns
   ];
-  5708 -> 8672 [
+  5707 -> 8672 [
     weight=25
     type=owns
   ];
-  5708 -> 8673 [
+  5707 -> 8673 [
     weight=25
+    type=owns
+  ];
+  5708 -> 2267 [
+    weight=1
+    type=owns
+  ];
+  5708 -> 2268 [
+    weight=1
     type=owns
   ];
   5710 -> 7358 [
