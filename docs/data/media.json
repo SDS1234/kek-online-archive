@@ -17278,7 +17278,7 @@
     "rfStatewide": false,
     "name": "Unsere Kirche",
     "type": "print",
-    "controlDate": "2025-10-21T12:52:06.508Z",
+    "controlDate": "2026-07-06T11:37:02.860Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -23874,13 +23874,8 @@
     "state": "active"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
-      "name": "SLM",
-      "type": "organization",
-      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "68652bac-00b7-4e87-be6f-d34aac6518fe",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
       "name": "SLM",
@@ -23889,9 +23884,20 @@
     },
     "rfStatewide": false,
     "name": "Gewandhaus-Radio",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "68652bac-00b7-4e87-be6f-d34aac6518fe",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    }
   },
   {
     "state": "active",
@@ -69925,7 +69931,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 52,
+    "pressPublishingIntervals": 26,
     "state": "active",
     "squuid": "5be1a6b1-085e-4167-939e-d7f8b4601408",
     "organization": {
@@ -95753,7 +95759,7 @@
     "rfStatewide": false,
     "name": "Der Sonntag (Leipzig)",
     "type": "print",
-    "controlDate": "2025-10-21T14:05:19.095Z",
+    "controlDate": "2026-07-06T08:48:56.635Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104314,7 +104320,7 @@
     }
   },
   {
-    "pressPublishingIntervals": 12,
+    "pressPublishingIntervals": 13,
     "state": "active",
     "squuid": "5be1a6b1-d18e-4bfb-9ed0-a4dfdbb4eb8e",
     "organization": {
@@ -111566,7 +111572,7 @@
     "rfStatewide": false,
     "name": "tv pur",
     "type": "print",
-    "controlDate": "2025-11-03T10:25:35.322Z",
+    "controlDate": "2026-07-06T11:23:15.865Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -113114,7 +113120,7 @@
     "rfStatewide": false,
     "name": "Sport Bild",
     "type": "print",
-    "controlDate": "2025-10-23T13:39:48.126Z",
+    "controlDate": "2026-07-06T08:57:02.022Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -126010,7 +126016,7 @@
     "name": "Super Woche",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-02-05T14:06:51.394Z",
+    "controlDate": "2026-07-06T10:23:34.506Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

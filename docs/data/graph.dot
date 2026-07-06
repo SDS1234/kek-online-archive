@@ -142036,8 +142036,8 @@ digraph {
     type=print
     state=active
     label="Sport Bild"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=11
+    num_owners_weighted=6.8599
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-43e4-4d19-8f28-f1103a8a9ad6"
@@ -146178,11 +146178,11 @@ digraph {
     label="Stiftung Zukunft Gewandhaus zu Leipzig"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="68652c7e-3a89-4308-a6ae-d82b389cc1e1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   12182 [
     type=shareholder
@@ -146193,7 +146193,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="68652c44-435b-41f7-a38e-397da799ffea"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   12183 [
@@ -268083,6 +268083,10 @@ digraph {
   ];
   12180 -> 6972 [
     weight=33.33
+    type=owns
+  ];
+  12181 -> 12182 [
+    weight=100
     type=owns
   ];
   12182 -> 4656 [
