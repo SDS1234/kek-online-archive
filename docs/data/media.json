@@ -4707,7 +4707,7 @@
     "rfStatewide": false,
     "name": "Welt am Sonntag kompakt",
     "type": "print",
-    "controlDate": "2025-10-23T13:39:16.018Z",
+    "controlDate": "2026-07-06T14:18:33.218Z",
     "pressKind": "Sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -84719,7 +84719,7 @@
     "rfStatewide": false,
     "name": "Haller Kreisblatt",
     "type": "print",
-    "controlDate": "2025-10-30T10:02:32.196Z",
+    "controlDate": "2026-07-06T12:40:39.550Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89639,7 +89639,7 @@
     "rfStatewide": false,
     "name": "Welt am Sonntag",
     "type": "print",
-    "controlDate": "2025-10-23T13:38:03.453Z",
+    "controlDate": "2026-07-06T14:17:53.299Z",
     "pressKind": "Sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91843,7 +91843,7 @@
     "rfStatewide": false,
     "name": "Wohnen Träume",
     "type": "print",
-    "controlDate": "2025-01-11T11:44:07.091Z",
+    "controlDate": "2026-07-06T15:33:29.995Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95864,7 +95864,7 @@
     "rfStatewide": false,
     "name": "Würzburger katholisches Sonntagsblatt",
     "type": "print",
-    "controlDate": "2026-02-09T15:08:18.946Z",
+    "controlDate": "2026-07-06T15:50:45.861Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -144092,7 +144092,7 @@
     "name": "Wirtschaft (München/Oberbayern)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2025-12-02T12:36:07.633Z",
+    "controlDate": "2026-07-06T15:03:04.911Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
