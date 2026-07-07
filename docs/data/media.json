@@ -54072,8 +54072,8 @@
     "name": "Hamburger Lokalradio",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -91801,7 +91801,7 @@
     "rfStatewide": false,
     "name": "GartenIdee",
     "type": "print",
-    "controlDate": "2026-02-02T13:47:26.007Z",
+    "controlDate": "2026-07-07T10:50:10.398Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91924,7 +91924,7 @@
     "rfStatewide": false,
     "name": "Gartenträume",
     "type": "print",
-    "controlDate": "2026-02-02T13:48:41.633Z",
+    "controlDate": "2026-07-07T10:50:23.216Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91990,7 +91990,7 @@
     "rfStatewide": false,
     "name": "Freizeit Exklusiv",
     "type": "print",
-    "controlDate": "2026-02-02T10:57:52.767Z",
+    "controlDate": "2026-07-07T10:45:33.725Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
