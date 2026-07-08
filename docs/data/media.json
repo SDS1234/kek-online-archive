@@ -9900,7 +9900,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-06T12:56:47.083Z",
+    "controlDate": "2026-07-08T12:53:18.556Z",
     "state": "active"
   },
   {
@@ -14816,6 +14816,40 @@
     },
     "controlDate": "2020-06-22T14:03:02.084Z",
     "state": "archived"
+  },
+  {
+    "state": "active",
+    "squuid": "6a4e5b18-a957-4db0-826c-2803b9dabaf1",
+    "organization": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "rfStatewide": true,
+    "name": "Ballermann Radio",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
+    },
+    "languages": [
+      {
+        "squuid": "5be1a6ae-6473-44d1-97eb-d7ff6e27a248",
+        "name": "Deutsch",
+        "type": "language",
+        "state": "active"
+      }
+    ]
   },
   {
     "pressPublishingIntervals": 11,
@@ -84742,7 +84776,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T10:02:42.175Z",
+    "controlDate": "2026-07-08T13:10:32.676Z",
     "state": "active"
   },
   {
