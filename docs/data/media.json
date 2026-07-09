@@ -160881,27 +160881,28 @@
     }
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-      "name": "DL",
-      "type": "organization"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "6a316ae6-7649-4fd1-a447-c5d54de608a9",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
     },
     "name": "www.blabla.cafe",
+    "rfPublicPrivate": false,
     "type": "online",
-    "squuid": "6a316ae6-7649-4fd1-a447-c5d54de608a9",
+    "controlDate": "2026-07-09T14:37:39.372Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
-    },
-    "state": "active"
+    }
   },
   {
     "state": "active",
