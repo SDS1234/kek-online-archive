@@ -24658,15 +24658,6 @@
           "squuid": "5f35397a-fe7b-4596-97f8-33de8d6c2064",
           "name": "www.lausitzwelle.de"
         }
-      },
-      {
-        "squuid": "66c3680f-023c-43c3-a037-2d2c5a0fbeb5",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "66c366fb-7178-44d5-812a-1bca02793ef7",
-          "name": "LAUSITZWELLE Fernsehen (Brandenburg)"
-        }
       }
     ]
   },
@@ -84243,24 +84234,13 @@
   {
     "squuid": "674d85c3-435e-4a86-9e68-2e7915a4aaca",
     "name": "Stadtfernsehen Forst",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "674d860e-434a-45a0-9880-cc3ca20cf5e1",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5c597c38-e949-427e-8d01-a4b9aeab0401",
-          "name": "Forst TV (Brandenburg)"
-        }
       }
     ]
   },
@@ -117147,9 +117127,9 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -117170,9 +117150,9 @@
         "type": "organization"
       },
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
       }
     ]
@@ -148374,9 +148354,9 @@
         "type": "organization"
       },
       {
-        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
-        "name": "mabb",
-        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ],
@@ -203630,10 +203610,21 @@
     "controlDate": "2023-10-12T10:19:21.686Z",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
         "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a4f9b75-d4ed-4a1b-aac4-831e705ec704",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a4f996a-c97f-4ac7-8747-91fb566306e5",
+          "name": "C.A.M.P. TV (Berlin)"
+        }
       }
     ]
   },
@@ -254577,15 +254568,6 @@
           "squuid": "67853e99-49fd-4279-8241-f8eeb457c766",
           "name": "www.absolutfussball.com"
         }
-      },
-      {
-        "squuid": "696df2c9-3c84-47fc-82d1-4def45dae9b6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f2174f5-5e71-4cf4-9e51-7c1d4017e696",
-          "name": "www.absolutfussball.com"
-        }
       }
     ]
   },
@@ -271300,7 +271282,7 @@
         "state": "active",
         "held": {
           "squuid": "5e3a90d6-11d5-4783-b370-9e98a11229e9",
-          "name": "seenluft24 (Brandenburg)"
+          "name": "seenluft24 Fernsehen (Brandenburg)"
         }
       },
       {
