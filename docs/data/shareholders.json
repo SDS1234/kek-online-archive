@@ -13556,7 +13556,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-fab6-4bbc-8b0f-af6ab26b0379",
-          "name": "JazzRadio 106.8 (Berlin)"
+          "name": "JazzRadio Berlin"
         }
       },
       {
@@ -22074,7 +22074,7 @@
         "state": "active",
         "held": {
           "squuid": "688caa89-2056-4c4a-8340-4ad2205fa88d",
-          "name": "Discofox Antenne"
+          "name": "Discofox Antenne (Berlin und Brandenburg)"
         }
       },
       {
@@ -22093,6 +22093,15 @@
         "held": {
           "squuid": "69c6441c-78e1-4389-bf58-cfc949cfda07",
           "name": "Schlager Radio (bundesweit)"
+        }
+      },
+      {
+        "squuid": "6a510dd1-5c0f-46c7-9bd7-0d468b631547",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "688b39a1-94cc-46c8-bb1d-1320ebf40aaa",
+          "name": "Ella Radio (Berlin und Brandenburg)"
         }
       }
     ]
@@ -47350,17 +47359,6 @@
         "fullName": "Thüringer Landesmedienanstalt",
         "type": "organization"
       }
-    ],
-    "operates": [
-      {
-        "squuid": "688b3d0d-be46-44ce-a8f8-74c2ccbbea07",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "688b39a1-94cc-46c8-bb1d-1320ebf40aaa",
-          "name": "jazz fm"
-        }
-      }
     ]
   },
   {
@@ -51714,6 +51712,30 @@
         "name": "LFK",
         "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a50f013-68af-41b8-91d7-47ca9293115f",
+    "name": "TV Link GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+        "name": "MA HSH",
+        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a50f0ad-a423-4bea-b5e5-d505c33d7673",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a50f02c-046d-4db1-8836-efa026b2d016",
+          "name": "SYLT1"
+        }
       }
     ]
   },
@@ -144041,12 +144063,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
       }
     ]
   },
@@ -144071,12 +144087,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -174758,12 +174768,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
       }
     ]
   },
@@ -174775,12 +174779,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -186633,12 +186631,6 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
       }
     ]
   },
@@ -186687,12 +186679,6 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
         "type": "organization"
       }
     ]
@@ -197846,24 +197832,9 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
       }
     ],
     "operates": [
-      {
-        "squuid": "5e28492a-12b4-4316-aa82-4f63e5192329",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5d2f34c5-1432-48bc-95fc-dbe8acdf85eb",
-          "name": "Sylt 1"
-        }
-      },
       {
         "squuid": "5f196f81-09d0-4f5f-8724-98324f5f87ac",
         "type": "operate",

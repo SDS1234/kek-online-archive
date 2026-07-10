@@ -18599,8 +18599,8 @@
     "name": "917XFM",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -30918,6 +30918,26 @@
   },
   {
     "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfStatewide": false,
+    "name": "SYLT1",
+    "type": "tv",
+    "squuid": "6a50f02c-046d-4db1-8836-efa026b2d016",
+    "state": "active"
+  },
+  {
+    "rfSupervisingAuthority": {
       "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
       "name": "LFK",
       "type": "organization",
@@ -31350,11 +31370,11 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     "rfStatewide": false,
-    "name": "jazz fm",
+    "name": "Ella Radio (Berlin und Brandenburg)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -33196,11 +33216,11 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     "rfStatewide": false,
-    "name": "Discofox Antenne",
+    "name": "Discofox Antenne (Berlin und Brandenburg)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -50381,7 +50401,7 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     "rfStatewide": false,
-    "name": "JazzRadio 106.8 (Berlin)",
+    "name": "JazzRadio Berlin",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -63245,7 +63265,7 @@
     "state": "active"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5d2f34c5-1432-48bc-95fc-dbe8acdf85eb",
     "organization": {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
@@ -79254,6 +79274,12 @@
     "rfStatewide": false,
     "name": "R.SH Gold",
     "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
     "rfSupervisingAuthority": {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
@@ -130471,8 +130497,8 @@
     },
     "name": "barba radio",
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -131611,13 +131637,8 @@
     "pressKind": "sonstige Zeitschriften"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
-      "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "6953e8ae-2cdb-4a4a-8c0b-5911882b2c76",
     "organization": {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
@@ -131626,9 +131647,20 @@
     },
     "rfStatewide": false,
     "name": "METROPOL FM (Hamburg)",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
     "type": "radio",
-    "squuid": "6953e8ae-2cdb-4a4a-8c0b-5911882b2c76",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
   },
   {
     "state": "active",
@@ -138952,8 +138984,8 @@
     "name": "lulu.fm (Hamburg)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
