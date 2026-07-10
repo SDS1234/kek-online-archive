@@ -25141,15 +25141,6 @@
         }
       },
       {
-        "squuid": "5be1a6b9-7dee-448a-b4f2-ea11a9313aca",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4d3c-45ab-bac1-f1164b48c30d",
-          "name": "METROPOL FM (Berlin)"
-        }
-      },
-      {
         "squuid": "5c73d21f-435c-49f2-9546-53c02eb7f468",
         "type": "operate",
         "state": "active",
