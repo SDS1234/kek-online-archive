@@ -12171,6 +12171,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -48877,6 +48883,19 @@
     ]
   },
   {
+    "squuid": "6a50ac4e-b6e1-4a8d-840e-6d0070a50890",
+    "name": "Drescher, Eva-Maria",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-6495-4325-8c28-188810d8be04",
     "name": "Christiph Nicolai Freiherr von Dellingshausen und Gerhard-Friedrich Schultze GbR",
     "state": "active",
@@ -49170,6 +49189,19 @@
     ]
   },
   {
+    "squuid": "6a50aa25-d39b-4141-af08-8fb35200ac2e",
+    "name": "Schlagerradio GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-bf9a-4c73-8374-7d6faee44613",
     "name": "Sony Pictures Entertainment Deutschland GmbH",
     "state": "active",
@@ -49219,6 +49251,19 @@
           "squuid": "5be1a6b1-3bd2-4e3c-9cd7-48d772ba0438",
           "name": "CNN International"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a50a9b2-ba6c-4838-b44b-78032e7100b9",
+    "name": "BR Beteiligungs GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
       }
     ]
   },
@@ -49345,6 +49390,30 @@
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
         "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a50a904-e64c-4dc0-9e24-970c1eaf83d1",
+    "name": "BMR Media GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a50aab9-92d8-4ce3-bb01-dcc33c24c641",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a4e5b18-a957-4db0-826c-2803b9dabaf1",
+          "name": "Ballermann Radio"
+        }
       }
     ]
   },
@@ -49490,6 +49559,19 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a50a97d-6957-4b37-8b16-c48fcbf3a3f5",
+    "name": "FaERo Vermögensbeteiligungsgesellschaft mbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       }
     ]
@@ -71746,7 +71828,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-933a-4c78-9cc6-eda8ff018c3f",
-          "name": "BBC World Service (Berlin)"
+          "name": "BBC News (Berlin)"
         }
       },
       {
@@ -137116,6 +137198,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -149270,6 +149358,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -149286,6 +149380,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -149636,6 +149736,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -149651,6 +149757,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -149682,6 +149794,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -150421,6 +150539,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -150449,6 +150573,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -150774,6 +150904,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -167932,6 +168068,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -182041,6 +182183,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -182326,6 +182474,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -203078,6 +203232,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -210517,6 +210677,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -210564,6 +210730,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -296216,6 +296388,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -296231,6 +296409,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -299578,6 +299762,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -299689,6 +299879,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -299895,6 +300091,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -299911,6 +300113,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
@@ -299932,6 +300140,12 @@
         "type": "organization"
       },
       {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
         "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
         "name": "LMS",
         "fullName": "Landesmedienanstalt Saarland",
@@ -299948,6 +300162,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
         "type": "organization"
       },
       {
