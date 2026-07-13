@@ -65968,7 +65968,7 @@
       "type": "organization",
       "fullName": "Medienanstalt Hessen"
     },
-    "rfStatewide": false,
+    "rfStatewide": true,
     "name": "ERF Jess",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
@@ -117787,20 +117787,17 @@
     "state": "active"
   },
   {
-    "rfSupervisingAuthority": {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
-      "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
-    },
-    "rfPublicPrivate": false,
+    "state": "active",
+    "squuid": "61669008-016d-44bd-9f82-61b62263df3e",
     "organization": {
       "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
       "name": "MA HSH",
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     },
+    "rfStatewide": false,
     "name": "Radio Holiday",
+    "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
       "name": "Noch nicht auf Sendung",
@@ -117808,8 +117805,12 @@
       "state": "active"
     },
     "type": "radio",
-    "squuid": "61669008-016d-44bd-9f82-61b62263df3e",
-    "state": "active"
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
   },
   {
     "organization": {
@@ -127628,8 +127629,8 @@
     "name": "Radio TEDDY (Hamburg)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
-      "name": "Noch nicht auf Sendung",
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -150095,8 +150096,8 @@
     "name": "Radio Flensburg",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
