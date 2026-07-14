@@ -36582,8 +36582,8 @@ digraph {
     label="DWK Holding GmbH & Co. KG"
     num_owners=2
     num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=0.3000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f1fece6-8741-4d7b-899d-bd816655eee9"
     in_degree=2
     out_degree=1
@@ -36594,7 +36594,7 @@ digraph {
     label="DWK Verwaltungs-GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=1
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f2287f0-6a31-42e3-94d3-2df9b19b275f"
     in_degree=1
@@ -67171,7 +67171,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=1
-    num_medias_weighted=0.2500
+    num_medias_weighted=0.4000
     name="5f19710f-300a-4281-8a80-fddb3ca70490"
     in_degree=0
     out_degree=2
@@ -78450,11 +78450,11 @@ digraph {
     label="Knörrer GmbH"
     num_owners=4
     num_owners_weighted=2.6000
-    num_medias=1
-    num_medias_weighted=0.5000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f197128-f788-4c1e-b89b-a824841088fa"
     in_degree=2
-    out_degree=2
+    out_degree=1
   ];
   6538 [
     type=shareholder
@@ -78462,8 +78462,8 @@ digraph {
     label="Knörrer, Dieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.3000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f2287e1-3b53-49f9-904c-9be06a84050e"
     in_degree=0
     out_degree=2
@@ -78474,8 +78474,8 @@ digraph {
     label="Knörrer, Waltraud"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.2000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5f1feca9-197a-4ded-8643-3c0dff2354b6"
     in_degree=0
     out_degree=1
@@ -86479,7 +86479,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=1
-    num_medias_weighted=0.2500
+    num_medias_weighted=0.6000
     name="5f19711a-9341-465f-8696-1bc29fa634a7"
     in_degree=0
     out_degree=2
@@ -107139,7 +107139,7 @@ digraph {
   8928 [
     type=radio
     state=active
-    label="Ohrsicht-Radio - der Klang der Inklusion (Berlin)"
+    label="Ohrsicht-Radio - der Klang der Inklusion (Berlin und Brandenburg)"
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=0
@@ -150386,15 +150386,15 @@ digraph {
   ];
   12532 [
     type=shareholder
-    state=active
+    state=archived
     label="Sylt 1 GmbH & Co. KG"
-    num_owners=8
-    num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5e1f2e80-3a21-4983-b7a5-2d60f8a794cf"
-    in_degree=4
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   12533 [
     type=shareholder
@@ -150426,11 +150426,11 @@ digraph {
     label="Sylt 1 Verwaltungsgesellschaft mbH"
     num_owners=7
     num_owners_weighted=4.3000
-    num_medias=1
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f1970fd-afc7-4ff6-b5aa-0881edcfd309"
     in_degree=3
-    out_degree=1
+    out_degree=0
   ];
   12536 [
     type=shareholder
@@ -156585,7 +156585,7 @@ digraph {
     num_medias=1
     num_medias_weighted=1.0000
     name="6a50f013-68af-41b8-91d7-47ca9293115f"
-    in_degree=0
+    in_degree=2
     out_degree=1
   ];
   13049 [
@@ -177376,8 +177376,8 @@ digraph {
     type=online
     state=active
     label="www.camillo929.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f8eedd5-6349-4910-a62d-0f86665464a9"
@@ -204748,12 +204748,12 @@ digraph {
     type=online
     state=active
     label="www.sylt1.tv"
-    num_owners=9
-    num_owners_weighted=2.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f196f06-1a4c-45be-a46a-7f930d8d9ddd"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   17063 [
@@ -237501,12 +237501,12 @@ digraph {
     weight=100
     type=operates
   ];
-  5597 -> 12532 [
+  5597 -> 12535 [
     weight=25
     type=owns
   ];
-  5597 -> 12535 [
-    weight=25
+  5597 -> 13048 [
+    weight=40
     type=owns
   ];
   5598 -> 13527 [
@@ -241621,10 +241621,6 @@ digraph {
     weight=100
     type=owns
   ];
-  6537 -> 12532 [
-    weight=50
-    type=owns
-  ];
   6537 -> 12535 [
     weight=50
     type=owns
@@ -243977,12 +243973,12 @@ digraph {
     weight=1.84
     type=owns
   ];
-  7206 -> 12532 [
+  7206 -> 12535 [
     weight=25
     type=owns
   ];
-  7206 -> 12535 [
-    weight=25
+  7206 -> 13048 [
+    weight=60
     type=owns
   ];
   7207 -> 13331 [
@@ -269916,14 +269912,6 @@ digraph {
   12529 -> 17152 [
     weight=100
     type=operates
-  ];
-  12532 -> 17062 [
-    weight=100
-    type=operates
-  ];
-  12535 -> 12532 [
-    weight=1
-    type=owns
   ];
   12536 -> 14473 [
     weight=100
