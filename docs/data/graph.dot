@@ -132855,7 +132855,7 @@ digraph {
   11071 [
     type=radio
     state=active
-    label="Schlager Radio (Berlin)"
+    label="Schlager Radio (Berlin und Brandenburg)"
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=0
