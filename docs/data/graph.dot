@@ -156613,6 +156613,18 @@ digraph {
     out_degree=1
   ];
   13051 [
+    type=tv
+    state=active
+    label="TV Mainfranken"
+    num_owners=13
+    num_owners_weighted=2.0000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5caf53d2-298c-4319-8fcb-a16f661dc968"
+    in_degree=1
+    out_degree=0
+  ];
+  13052 [
     type=shareholder
     state=active
     label="TV Mainfranken GmbH & Co. KG"
@@ -156624,7 +156636,7 @@ digraph {
     in_degree=2
     out_degree=3
   ];
-  13052 [
+  13053 [
     type=shareholder
     state=active
     label="TV Mainfranken Verwaltungs GmbH"
@@ -156636,7 +156648,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  13053 [
+  13054 [
     type=tv
     state=active
     label="tv mittelrhein"
@@ -156648,7 +156660,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13054 [
+  13055 [
     type=print
     state=archived
     label="TV Movie Stream XXL"
@@ -156660,7 +156672,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13055 [
+  13056 [
     type=print
     state=active
     label="TV neu!"
@@ -156672,7 +156684,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13056 [
+  13057 [
     type=tv
     state=active
     label="TV Oberfranken (tvo)"
@@ -156684,7 +156696,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13057 [
+  13058 [
     type=shareholder
     state=active
     label="TV Oberfranken Geschäftsführungs GmbH"
@@ -156696,7 +156708,7 @@ digraph {
     in_degree=6
     out_degree=1
   ];
-  13058 [
+  13059 [
     type=shareholder
     state=active
     label="TV Oberfranken GmbH & Co. KG"
@@ -156708,7 +156720,7 @@ digraph {
     in_degree=7
     out_degree=3
   ];
-  13059 [
+  13060 [
     type=print
     state=active
     label="TV piccolino"
@@ -156720,7 +156732,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13060 [
+  13061 [
     type=shareholder
     state=active
     label="TV Produktions- und Betriebsgesellschaft mbH & Co. KG, Jena"
@@ -156732,7 +156744,7 @@ digraph {
     in_degree=6
     out_degree=2
   ];
-  13061 [
+  13062 [
     type=shareholder
     state=active
     label="TV Produktions- und Betriebsverwaltungs-GmbH"
@@ -156744,7 +156756,7 @@ digraph {
     in_degree=5
     out_degree=1
   ];
-  13062 [
+  13063 [
     type=print
     state=active
     label="tv pur"
@@ -156756,7 +156768,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13063 [
+  13064 [
     type=print
     state=active
     label="TV Schlau"
@@ -156768,7 +156780,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13064 [
+  13065 [
     type=print
     state=active
     label="TV Spielfilm"
@@ -156780,7 +156792,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13065 [
+  13066 [
     type=print
     state=archived
     label="TV Spielfilm Streaming"
@@ -156792,7 +156804,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13066 [
+  13067 [
     type=shareholder
     state=active
     label="TV Spielfilm Verlag GmbH"
@@ -156804,7 +156816,7 @@ digraph {
     in_degree=1
     out_degree=6
   ];
-  13067 [
+  13068 [
     type=print
     state=active
     label="TV Spielfilm XXL"
@@ -156816,7 +156828,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13068 [
+  13069 [
     type=print
     state=active
     label="TV Sudoku"
@@ -156828,7 +156840,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13069 [
+  13070 [
     type=print
     state=active
     label="TV Today"
@@ -156840,7 +156852,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13070 [
+  13071 [
     type=shareholder
     state=active
     label="TV Verwaltungs GmbH"
@@ -156852,7 +156864,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  13071 [
+  13072 [
     type=shareholder
     state=active
     label="tv weiss-blau Rundfunkprogrammanbieter GmbH"
@@ -156864,7 +156876,7 @@ digraph {
     in_degree=1
     out_degree=3
   ];
-  13072 [
+  13073 [
     type=tv
     state=active
     label="TV Westsachsen"
@@ -156876,7 +156888,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13073 [
+  13074 [
     type=print
     state=active
     label="tv!top"
@@ -156888,7 +156900,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13074 [
+  13075 [
     type=tv
     state=archived
     label="TV-BB (Berlin und Brandenburg)"
@@ -156900,7 +156912,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13075 [
+  13076 [
     type=shareholder
     state=active
     label="TV-BB / Fernsehen in Brandenburg GmbH"
@@ -156912,7 +156924,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13076 [
+  13077 [
     type=tv
     state=active
     label="TV-D Fernsehen Ditfurt"
@@ -156924,7 +156936,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13077 [
+  13078 [
     type=print
     state=active
     label="TV-Hören und Sehen"
@@ -156936,7 +156948,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13078 [
+  13079 [
     type=shareholder
     state=active
     label="TV-Medien Rhein-Neckar GmbH"
@@ -156948,7 +156960,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  13079 [
+  13080 [
     type=print
     state=active
     label="TV-Movie"
@@ -156960,7 +156972,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13080 [
+  13081 [
     type=print
     state=active
     label="TV-Movie digital XXL"
@@ -156972,7 +156984,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13081 [
+  13082 [
     type=print
     state=archived
     label="TV-Movie Stream XXL"
@@ -156984,7 +156996,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13082 [
+  13083 [
     type=tv
     state=active
     label="tv.berlin"
@@ -156996,7 +157008,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13083 [
+  13084 [
     type=shareholder
     state=archived
     label="tv.gusto GmbH"
@@ -157008,7 +157020,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13084 [
+  13085 [
     type=tv
     state=active
     label="tv.ingolstadt"
@@ -157020,7 +157032,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13085 [
+  13086 [
     type=shareholder
     state=active
     label="tv.ingolstadt GmbH & Co. KG"
@@ -157032,7 +157044,7 @@ digraph {
     in_degree=2
     out_degree=2
   ];
-  13086 [
+  13087 [
     type=tv
     state=archived
     label="tv.rostock"
@@ -157044,7 +157056,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13087 [
+  13088 [
     type=shareholder
     state=active
     label="TV:SCHWERIN"
@@ -157056,7 +157068,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13088 [
+  13089 [
     type=shareholder
     state=active
     label="TV:SCHWERIN"
@@ -157068,7 +157080,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13089 [
+  13090 [
     type=shareholder
     state=active
     label="TV:SCHWERIN"
@@ -157080,7 +157092,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13090 [
+  13091 [
     type=tv
     state=active
     label="TV:SCHWERIN"
@@ -157092,7 +157104,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13091 [
+  13092 [
     type=tv
     state=archived
     label="TV:SCHWERIN"
@@ -157104,7 +157116,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13092 [
+  13093 [
     type=tv
     state=active
     label="TVA Ostbayern"
@@ -157116,7 +157128,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  13093 [
+  13094 [
     type=shareholder
     state=active
     label="TVA Ostbayern Fernsehprogrammgesellschaft mbH & Co. Studiobetriebs KG"
@@ -157128,7 +157140,7 @@ digraph {
     in_degree=6
     out_degree=4
   ];
-  13094 [
+  13095 [
     type=shareholder
     state=active
     label="TVA Ostbayern Fernsehprogrammgesellschaft Verwaltungs GmbH"
@@ -157140,7 +157152,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  13095 [
+  13096 [
     type=shareholder
     state=active
     label="TVF Fernsehen in Franken Programm GmbH"
@@ -157152,7 +157164,7 @@ digraph {
     in_degree=3
     out_degree=3
   ];
-  13096 [
+  13097 [
     type=shareholder
     state=archived
     label="TVG Telefon- und Verzeichnisverlag GmbH & Co KG"
@@ -157164,7 +157176,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  13097 [
+  13098 [
     type=shareholder
     state=active
     label="TVinfo Internet GmbH"
@@ -157175,18 +157187,6 @@ digraph {
     name="5be1a6b6-fbfa-4d7c-9ece-9c8f4dbee3d1"
     in_degree=2
     out_degree=1
-  ];
-  13098 [
-    type=tv
-    state=active
-    label="tvm - Fernsehen für Mainfranken (TV Mainfranken)"
-    num_owners=13
-    num_owners_weighted=2.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5caf53d2-298c-4319-8fcb-a16f661dc968"
-    in_degree=1
-    out_degree=0
   ];
   13099 [
     type=tv
@@ -215677,7 +215677,7 @@ digraph {
     weight=100
     type=operates
   ];
-  792 -> 13093 [
+  792 -> 13094 [
     weight=12.77
     type=owns
   ];
@@ -218837,7 +218837,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1440 -> 13078 [
+  1440 -> 13079 [
     weight=25
     type=owns
   ];
@@ -220725,7 +220725,7 @@ digraph {
     weight=31.7
     type=owns
   ];
-  1801 -> 13066 [
+  1801 -> 13067 [
     weight=100
     type=owns
   ];
@@ -221325,11 +221325,11 @@ digraph {
     weight=23
     type=owns
   ];
-  1886 -> 13060 [
+  1886 -> 13061 [
     weight=2
     type=owns
   ];
-  1886 -> 13061 [
+  1886 -> 13062 [
     weight=2
     type=owns
   ];
@@ -221377,11 +221377,11 @@ digraph {
     weight=100
     type=owns
   ];
-  1897 -> 13057 [
+  1897 -> 13058 [
     weight=10
     type=owns
   ];
-  1897 -> 13058 [
+  1897 -> 13059 [
     weight=10
     type=owns
   ];
@@ -224485,11 +224485,11 @@ digraph {
     weight=10.42
     type=owns
   ];
-  2650 -> 13051 [
+  2650 -> 13052 [
     weight=100
     type=owns
   ];
-  2650 -> 13052 [
+  2650 -> 13053 [
     weight=100
     type=owns
   ];
@@ -234065,7 +234065,7 @@ digraph {
     weight=2
     type=owns
   ];
-  4759 -> 13082 [
+  4759 -> 13083 [
     weight=100
     type=operates
   ];
@@ -234105,7 +234105,7 @@ digraph {
     weight=100
     type=operates
   ];
-  4781 -> 13068 [
+  4781 -> 13069 [
     weight=100
     type=operates
   ];
@@ -234289,11 +234289,11 @@ digraph {
     weight=1
     type=owns
   ];
-  4829 -> 13057 [
+  4829 -> 13058 [
     weight=30
     type=owns
   ];
-  4829 -> 13058 [
+  4829 -> 13059 [
     weight=30
     type=owns
   ];
@@ -234525,7 +234525,7 @@ digraph {
     weight=8.7
     type=owns
   ];
-  4881 -> 13078 [
+  4881 -> 13079 [
     weight=75
     type=owns
   ];
@@ -234625,7 +234625,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4903 -> 13053 [
+  4903 -> 13054 [
     weight=100
     type=operates
   ];
@@ -236257,15 +236257,15 @@ digraph {
     weight=100
     type=operates
   ];
-  5291 -> 13077 [
-    weight=100
-    type=operates
-  ];
-  5291 -> 13079 [
+  5291 -> 13078 [
     weight=100
     type=operates
   ];
   5291 -> 13080 [
+    weight=100
+    type=operates
+  ];
+  5291 -> 13081 [
     weight=100
     type=operates
   ];
@@ -236293,11 +236293,11 @@ digraph {
     weight=100
     type=operates
   ];
-  5291 -> 13062 [
+  5291 -> 13063 [
     weight=100
     type=operates
   ];
-  5291 -> 13073 [
+  5291 -> 13074 [
     weight=100
     type=operates
   ];
@@ -236697,7 +236697,7 @@ digraph {
     weight=36
     type=owns
   ];
-  5374 -> 13093 [
+  5374 -> 13094 [
     weight=11.08
     type=owns
   ];
@@ -240009,7 +240009,7 @@ digraph {
     weight=1
     type=owns
   ];
-  6092 -> 13076 [
+  6092 -> 13077 [
     weight=100
     type=operates
   ];
@@ -241149,11 +241149,11 @@ digraph {
     weight=100
     type=operates
   ];
-  6437 -> 13055 [
+  6437 -> 13056 [
     weight=100
     type=operates
   ];
-  6437 -> 13059 [
+  6437 -> 13060 [
     weight=100
     type=operates
   ];
@@ -243781,11 +243781,11 @@ digraph {
     weight=50
     type=owns
   ];
-  7154 -> 13060 [
+  7154 -> 13061 [
     weight=48
     type=owns
   ];
-  7154 -> 13061 [
+  7154 -> 13062 [
     weight=48
     type=owns
   ];
@@ -244157,7 +244157,7 @@ digraph {
     weight=100
     type=operates
   ];
-  7259 -> 13095 [
+  7259 -> 13096 [
     weight=37
     type=owns
   ];
@@ -248125,7 +248125,7 @@ digraph {
     weight=100
     type=owns
   ];
-  8095 -> 13070 [
+  8095 -> 13071 [
     weight=100
     type=owns
   ];
@@ -249589,7 +249589,7 @@ digraph {
     weight=40
     type=owns
   ];
-  8388 -> 13085 [
+  8388 -> 13086 [
     weight=100
     type=owns
   ];
@@ -251301,11 +251301,11 @@ digraph {
     weight=8.33
     type=owns
   ];
-  8581 -> 13057 [
+  8581 -> 13058 [
     weight=10
     type=owns
   ];
-  8581 -> 13058 [
+  8581 -> 13059 [
     weight=10
     type=owns
   ];
@@ -251337,7 +251337,7 @@ digraph {
     weight=30
     type=owns
   ];
-  8585 -> 13093 [
+  8585 -> 13094 [
     weight=31.69
     type=owns
   ];
@@ -251381,7 +251381,7 @@ digraph {
     weight=30.18
     type=owns
   ];
-  8592 -> 13095 [
+  8592 -> 13096 [
     weight=50
     type=owns
   ];
@@ -251429,11 +251429,11 @@ digraph {
     weight=50
     type=owns
   ];
-  8594 -> 13057 [
+  8594 -> 13058 [
     weight=40
     type=owns
   ];
-  8594 -> 13058 [
+  8594 -> 13059 [
     weight=40
     type=owns
   ];
@@ -251689,7 +251689,7 @@ digraph {
     weight=62
     type=owns
   ];
-  8677 -> 13093 [
+  8677 -> 13094 [
     weight=12.77
     type=owns
   ];
@@ -255109,7 +255109,7 @@ digraph {
     weight=100
     type=operates
   ];
-  9313 -> 13097 [
+  9313 -> 13098 [
     weight=40
     type=owns
   ];
@@ -259161,7 +259161,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10290 -> 13085 [
+  10290 -> 13086 [
     weight=1
     type=owns
   ];
@@ -263409,7 +263409,7 @@ digraph {
     weight=24
     type=owns
   ];
-  11013 -> 13097 [
+  11013 -> 13098 [
     weight=60
     type=owns
   ];
@@ -263489,11 +263489,11 @@ digraph {
     weight=2
     type=owns
   ];
-  11039 -> 13057 [
+  11039 -> 13058 [
     weight=5
     type=owns
   ];
-  11039 -> 13058 [
+  11039 -> 13059 [
     weight=5
     type=owns
   ];
@@ -265801,7 +265801,7 @@ digraph {
     weight=100
     type=owns
   ];
-  11530 -> 13071 [
+  11530 -> 13072 [
     weight=100
     type=owns
   ];
@@ -266661,11 +266661,11 @@ digraph {
     weight=47.5
     type=owns
   ];
-  11778 -> 13060 [
+  11778 -> 13061 [
     weight=7
     type=owns
   ];
-  11778 -> 13061 [
+  11778 -> 13062 [
     weight=7
     type=owns
   ];
@@ -267789,11 +267789,11 @@ digraph {
     weight=5
     type=owns
   ];
-  12057 -> 13060 [
+  12057 -> 13061 [
     weight=17
     type=owns
   ];
-  12057 -> 13061 [
+  12057 -> 13062 [
     weight=17
     type=owns
   ];
@@ -268101,11 +268101,11 @@ digraph {
     weight=1.84
     type=owns
   ];
-  12161 -> 13060 [
+  12161 -> 13061 [
     weight=26
     type=owns
   ];
-  12161 -> 13061 [
+  12161 -> 13062 [
     weight=26
     type=owns
   ];
@@ -270625,7 +270625,7 @@ digraph {
     weight=7.48
     type=owns
   ];
-  12706 -> 13072 [
+  12706 -> 13073 [
     weight=100
     type=operates
   ];
@@ -271877,7 +271877,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13049 -> 13090 [
+  13049 -> 13091 [
     weight=100
     type=operates
   ];
@@ -271897,139 +271897,139 @@ digraph {
     weight=1
     type=owns
   ];
-  13051 -> 13035 [
+  13052 -> 13035 [
     weight=10
     type=owns
-  ];
-  13051 -> 13098 [
-    weight=100
-    type=operates
-  ];
-  13051 -> 17190 [
-    weight=100
-    type=operates
   ];
   13052 -> 13051 [
+    weight=100
+    type=operates
+  ];
+  13052 -> 17190 [
+    weight=100
+    type=operates
+  ];
+  13053 -> 13052 [
     weight=1
     type=owns
   ];
-  13057 -> 13058 [
+  13058 -> 13059 [
     weight=1
     type=owns
   ];
-  13058 -> 13035 [
+  13059 -> 13035 [
     weight=10
     type=owns
   ];
-  13058 -> 13056 [
+  13059 -> 13057 [
     weight=100
     type=operates
   ];
-  13058 -> 17193 [
+  13059 -> 17193 [
     weight=100
     type=operates
   ];
-  13060 -> 6062 [
+  13061 -> 6062 [
     weight=100
     type=operates
   ];
-  13060 -> 15671 [
+  13061 -> 15671 [
     weight=100
     type=operates
   ];
-  13061 -> 13060 [
+  13062 -> 13061 [
     weight=1
     type=owns
   ];
-  13066 -> 2092 [
+  13067 -> 2092 [
     weight=100
     type=operates
   ];
-  13066 -> 12242 [
+  13067 -> 12242 [
     weight=100
     type=operates
   ];
-  13066 -> 13063 [
+  13067 -> 13064 [
     weight=100
     type=operates
   ];
-  13066 -> 13064 [
+  13067 -> 13065 [
     weight=100
     type=operates
   ];
-  13066 -> 13067 [
+  13067 -> 13068 [
     weight=100
     type=operates
   ];
-  13066 -> 13069 [
+  13067 -> 13070 [
     weight=100
     type=operates
   ];
-  13070 -> 12649 [
+  13071 -> 12649 [
     weight=1
     type=owns
   ];
-  13071 -> 9517 [
+  13072 -> 9517 [
     weight=10
     type=owns
   ];
-  13071 -> 9518 [
+  13072 -> 9518 [
     weight=10
     type=owns
   ];
-  13071 -> 10962 [
+  13072 -> 10962 [
     weight=100
     type=owns
   ];
-  13078 -> 7971 [
+  13079 -> 7971 [
     weight=100
     type=operates
   ];
-  13078 -> 16035 [
+  13079 -> 16035 [
     weight=100
     type=operates
   ];
-  13085 -> 13084 [
+  13086 -> 13085 [
     weight=100
     type=operates
   ];
-  13085 -> 17189 [
+  13086 -> 17189 [
     weight=100
     type=operates
   ];
-  13093 -> 13035 [
+  13094 -> 13035 [
     weight=10
     type=owns
   ];
-  13093 -> 13094 [
+  13094 -> 13095 [
     weight=100
     type=owns
-  ];
-  13093 -> 13092 [
-    weight=100
-    type=operates
-  ];
-  13093 -> 17179 [
-    weight=100
-    type=operates
   ];
   13094 -> 13093 [
+    weight=100
+    type=operates
+  ];
+  13094 -> 17179 [
+    weight=100
+    type=operates
+  ];
+  13095 -> 13094 [
     weight=1
     type=owns
   ];
-  13095 -> 13035 [
+  13096 -> 13035 [
     weight=10
     type=owns
   ];
-  13095 -> 4063 [
+  13096 -> 4063 [
     weight=100
     type=operates
   ];
-  13095 -> 15246 [
+  13096 -> 15246 [
     weight=100
     type=operates
   ];
-  13097 -> 17188 [
+  13098 -> 17188 [
     weight=100
     type=operates
   ];
@@ -272037,7 +272037,7 @@ digraph {
     weight=24.9
     type=owns
   ];
-  13101 -> 13095 [
+  13101 -> 13096 [
     weight=13
     type=owns
   ];
@@ -273517,7 +273517,7 @@ digraph {
     weight=30
     type=owns
   ];
-  13380 -> 13093 [
+  13380 -> 13094 [
     weight=31.69
     type=owns
   ];
@@ -277285,11 +277285,11 @@ digraph {
     weight=1
     type=owns
   ];
-  14145 -> 13057 [
+  14145 -> 13058 [
     weight=3.2
     type=owns
   ];
-  14145 -> 13058 [
+  14145 -> 13059 [
     weight=3.33
     type=owns
   ];
@@ -278137,7 +278137,7 @@ digraph {
     weight=100
     type=operates
   ];
-  17583 -> 13075 [
+  17583 -> 13076 [
     weight=100
     type=owns
   ];
