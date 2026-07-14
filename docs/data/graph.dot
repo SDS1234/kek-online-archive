@@ -145119,7 +145119,7 @@ digraph {
   12093 [
     type=radio
     state=active
-    label="STAR*SAT RADIO (Berlin)"
+    label="STAR*SAT RADIO (Berlin und Brandenburg)"
     num_owners=3
     num_owners_weighted=3.0000
     num_medias=0
