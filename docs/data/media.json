@@ -32780,7 +32780,7 @@
     "name": "www.fitbook.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-09-17T10:22:10.305Z",
+    "controlDate": "2026-07-14T12:50:13.990Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36517,6 +36517,32 @@
   },
   {
     "state": "active",
+    "squuid": "6a5632f4-76f4-4885-a516-9bd9ff99b162",
+    "organization": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfStatewide": false,
+    "name": "TV Hamburg DIREKT",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-52de-429b-89ff-5a6ce723e4ab",
+      "name": "Noch nicht auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "tv",
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    }
+  },
+  {
+    "state": "active",
     "squuid": "65e0ac63-fb98-4b25-b5b6-b877539e6d26",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -36755,6 +36781,26 @@
       "type": "online-offer-type",
       "state": "active"
     }
+  },
+  {
+    "rfSupervisingAuthority": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
+      "name": "MA HSH",
+      "type": "organization",
+      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+    },
+    "rfStatewide": false,
+    "name": "TV Hamburg DIREKT",
+    "type": "tv",
+    "squuid": "6a5632f5-477b-4061-81bd-578850a3aaf0",
+    "state": "active"
   },
   {
     "state": "archived",
@@ -42150,7 +42196,7 @@
     "name": "www.football-world.news",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-02-10T12:26:45.344Z",
+    "controlDate": "2026-07-14T12:57:34.619Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -94647,7 +94693,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-18T13:15:12.227Z",
+    "controlDate": "2026-07-14T12:50:23.937Z",
     "state": "active"
   },
   {
@@ -134663,7 +134709,7 @@
       "fullName": "Medienanstalt Berlin-Brandenburg"
     },
     "rfStatewide": false,
-    "name": "Radio Orient (Berlin)",
+    "name": "Radio Orient (Berlin und Brandenburg)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
