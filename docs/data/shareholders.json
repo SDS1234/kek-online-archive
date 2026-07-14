@@ -19490,14 +19490,9 @@
     "controlDate": "2026-06-05T14:24:12.941Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -21940,15 +21935,6 @@
         "held": {
           "squuid": "5cb48e9b-1c09-4825-a093-cb82cc86870c",
           "name": "MAXX FM (Berlin)"
-        }
-      },
-      {
-        "squuid": "5cb49528-4dc0-44ac-9a21-c77c2545951e",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5cb49205-d693-4873-847a-20ece2ddd13f",
-          "name": "Schlager Radio plus (Berlin)"
         }
       },
       {
@@ -46457,14 +46443,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -46475,14 +46456,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -198754,14 +198730,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -199125,14 +199096,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -232515,6 +232481,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
@@ -289298,7 +289270,7 @@
   },
   {
     "squuid": "6392f33b-ad7c-4fa3-868f-ddda9d68fc38",
-    "name": "Max Berger",
+    "name": "SM Radio Dessau",
     "state": "active",
     "organizations": [
       {
@@ -296181,6 +296153,12 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       },
       {
