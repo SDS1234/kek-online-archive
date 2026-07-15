@@ -29335,7 +29335,7 @@
     "name": "Rock Antenne Hamburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c420-4d02-ba7c-c4e87be91ddc",
-    "controlDate": "2026-06-02T11:01:02.468Z",
+    "controlDate": "2026-07-15T13:30:39.360Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -179465,14 +179465,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
-        "name": "BLM",
-        "fullName": "Bayerische Landeszentrale für neue Medien",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -198301,7 +198296,7 @@
     "name": "Rock Antenne GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "663f31ad-2575-4939-ba50-9d678cf013c0",
-    "controlDate": "2026-06-02T10:56:34.883Z",
+    "controlDate": "2026-07-15T13:26:29.947Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204216,20 +204211,10 @@
     "controlDate": "2020-07-07T11:54:17.142Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5d2de6e3-706b-4dee-a519-527e486ec5cf",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5d2de64a-16df-41d8-bd85-369af8e9291b",
-          "name": "www.stadt-koeln.de"
-        }
       }
     ]
   },
@@ -204431,20 +204416,10 @@
     "controlDate": "2019-07-16T15:06:16.052Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5d2de7b9-bc2b-422d-a78e-a40d39e4be38",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5d2de78b-eea0-464a-9a1e-f53a125ffa0d",
-          "name": "www.stadt-bremerhaven.de"
-        }
       }
     ]
   },

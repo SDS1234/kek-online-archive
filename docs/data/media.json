@@ -17258,7 +17258,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-12-19T10:02:33.378Z",
+    "controlDate": "2026-07-15T14:13:45.106Z",
     "state": "active"
   },
   {
@@ -17336,7 +17336,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-21T12:52:16.607Z",
+    "controlDate": "2026-07-15T14:40:05.134Z",
     "state": "active"
   },
   {
@@ -21054,7 +21054,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T10:28:35.494Z",
+    "controlDate": "2026-07-15T14:17:26.797Z",
     "state": "active"
   },
   {
@@ -91253,7 +91253,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T12:20:00.568Z",
+    "controlDate": "2026-07-15T14:36:35.987Z",
     "state": "active"
   },
   {
@@ -91271,7 +91271,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-07T12:20:12.000Z",
+    "controlDate": "2026-07-15T14:37:01.756Z",
     "state": "active"
   },
   {
@@ -104088,7 +104088,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-07-10T11:37:39.926Z",
+    "controlDate": "2026-07-15T13:53:43.267Z",
     "state": "active"
   },
   {
@@ -106492,7 +106492,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-09-17T10:30:07.162Z",
+    "controlDate": "2026-07-15T14:29:30.073Z",
     "state": "active"
   },
   {
@@ -126102,7 +126102,7 @@
     "name": "www.streampicker.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T09:34:43.560Z",
+    "controlDate": "2026-07-15T13:46:40.212Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -126656,7 +126656,7 @@
     "name": "www.webnachrichten.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T12:15:28.601Z",
+    "controlDate": "2026-07-15T15:07:00.730Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -133298,7 +133298,7 @@
     "name": "www.uni-protokolle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2024-07-18T12:29:29.234Z",
+    "controlDate": "2026-07-15T14:39:48.547Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -135312,7 +135312,7 @@
     "name": "www.torfabrik.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T10:53:20.193Z",
+    "controlDate": "2026-07-15T14:26:51.070Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -141642,7 +141642,7 @@
     "name": "www.suewo.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-20T14:33:01.510Z",
+    "controlDate": "2026-07-15T13:52:46.347Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -143161,7 +143161,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5d2de64a-16df-41d8-bd85-369af8e9291b",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -143397,7 +143397,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5d2de78b-eea0-464a-9a1e-f53a125ffa0d",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -144819,7 +144819,7 @@
     "name": "www.strausberg.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-27T09:34:34.339Z",
+    "controlDate": "2026-07-15T13:46:29.986Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

@@ -38886,11 +38886,11 @@ digraph {
     label="Eigenbesitz der Eishockey News Verlags- und Verwaltungs-GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=9
-    num_medias_weighted=0.0705
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61a8f0f9-8c13-4a57-9220-62f15c7d044f"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   3241 [
     type=shareholder
@@ -40101,7 +40101,7 @@ digraph {
     num_medias=9
     num_medias_weighted=0.2124
     name="5ccac721-2952-4967-9c0f-a95ede0b4cb2"
-    in_degree=5
+    in_degree=4
     out_degree=4
   ];
   3342 [
@@ -78306,11 +78306,11 @@ digraph {
     label="Knobloch, Carsten"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d2de79b-08dc-4b4f-bfc7-4bc7d0039d2d"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6526 [
     type=shareholder
@@ -143850,11 +143850,11 @@ digraph {
     label="Stadt Köln/Amt für Presse- und Öffentlichkeitsarbeit"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5d2de6c9-8863-4581-a062-bcf2ed12b312"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   11988 [
     type=shareholder
@@ -203498,26 +203498,26 @@ digraph {
   ];
   16958 [
     type=online
-    state=active
+    state=archived
     label="www.stadt-bremerhaven.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2de78b-eea0-464a-9a1e-f53a125ffa0d"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16959 [
     type=online
-    state=active
+    state=archived
     label="www.stadt-koeln.de"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2de64a-16df-41d8-bd85-369af8e9291b"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   16960 [
@@ -227361,10 +227361,6 @@ digraph {
     weight=2.55
     type=owns
   ];
-  3240 -> 3341 [
-    weight=33.2
-    type=owns
-  ];
   3241 -> 3577 [
     weight=11.11
     type=owns
@@ -241614,10 +241610,6 @@ digraph {
     type=owns
   ];
   6522 -> 6520 [
-    weight=100
-    type=operates
-  ];
-  6525 -> 16958 [
     weight=100
     type=operates
   ];
@@ -267560,10 +267552,6 @@ digraph {
   11986 -> 12062 [
     weight=100
     type=owns
-  ];
-  11987 -> 16959 [
-    weight=100
-    type=operates
   ];
   11988 -> 9199 [
     weight=100
