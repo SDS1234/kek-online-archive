@@ -152848,13 +152848,13 @@ digraph {
     type=shareholder
     state=active
     label="Test GmbH & Co. KG"
-    num_owners=2
-    num_owners_weighted=2.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6a1ac421-806a-4802-aafe-f33b3dd5627d"
-    in_degree=3
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   12738 [
     type=tv
@@ -153014,39 +153014,39 @@ digraph {
   ];
   12751 [
     type=shareholder
-    state=active
+    state=archived
     label=Testkommanditist1
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.9000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6a1ac4ac-ea45-4de3-81dc-cbc2e09c1733"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12752 [
     type=shareholder
-    state=active
+    state=archived
     label=Testkommanditist2
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
+    num_medias=0
     num_medias_weighted=0.0000
     name="6a1ac4c2-1358-4018-a625-0122d9b82222"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12753 [
     type=shareholder
-    state=active
+    state=archived
     label="Testkomplementär"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=0.1000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6a1ac492-4008-49d9-928e-7e572910cd27"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   12754 [
     type=shareholder
@@ -153170,14 +153170,14 @@ digraph {
   ];
   12764 [
     type=print
-    state=active
+    state=archived
     label=Testzeitung
-    num_owners=3
-    num_owners_weighted=3.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="6a1ac432-2fad-4c02-a668-6a51dd7c72c5"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   12765 [
@@ -191426,7 +191426,7 @@ digraph {
   ];
   15952 [
     type=online
-    state=active
+    state=archived
     label="www.mamiweb.de"
     num_owners=0
     num_owners_weighted=0.0000
@@ -270736,22 +270736,6 @@ digraph {
   12729 -> 7045 [
     weight=100
     type=operates
-  ];
-  12737 -> 12764 [
-    weight=100
-    type=operates
-  ];
-  12751 -> 12737 [
-    weight=90
-    type=owns
-  ];
-  12752 -> 12737 [
-    weight=1
-    type=owns
-  ];
-  12753 -> 12737 [
-    weight=10
-    type=owns
   ];
   12762 -> 17114 [
     weight=100

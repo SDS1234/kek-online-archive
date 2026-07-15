@@ -94885,7 +94885,7 @@
     "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b",
-    "controlDate": "2025-12-17T14:39:24.002Z",
+    "controlDate": "2026-07-15T08:25:31.978Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -98628,7 +98628,7 @@
     "squuid": "5be1a6b6-59fc-4841-889e-439fd00581ed",
     "name": "OVR Vermögensverwaltung GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-05-29T11:12:11.142Z",
+    "controlDate": "2026-07-15T08:20:29.110Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -186731,20 +186731,10 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "6a1ac45a-e53d-42d2-9373-157e3606c700",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6a1ac432-2fad-4c02-a668-6a51dd7c72c5",
-          "name": "Testzeitung"
-        }
       }
     ]
   },
@@ -187212,11 +187202,12 @@
   {
     "squuid": "6a1ac4c2-1358-4018-a625-0122d9b82222",
     "name": "Testkommanditist2",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -187395,11 +187386,12 @@
   {
     "squuid": "6a1ac4ac-ea45-4de3-81dc-cbc2e09c1733",
     "name": "Testkommanditist1",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -187421,11 +187413,12 @@
   {
     "squuid": "6a1ac492-4008-49d9-928e-7e572910cd27",
     "name": "Testkomplementär",
-    "state": "active",
+    "state": "archived",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]

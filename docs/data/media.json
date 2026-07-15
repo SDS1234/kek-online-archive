@@ -78,7 +78,7 @@
     "name": "www.lust-auf-genuss.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-01-17T14:41:31.625Z",
+    "controlDate": "2026-07-15T09:05:49.648Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -4553,7 +4553,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-05T13:40:35.761Z",
+    "controlDate": "2026-07-15T09:16:35.931Z",
     "state": "active"
   },
   {
@@ -27898,7 +27898,7 @@
     "name": "www.leipzig-beatzz.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-16T11:35:19.093Z",
+    "controlDate": "2026-07-15T08:55:38.003Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -29060,7 +29060,7 @@
     "name": "www.mhsdigital.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-23T13:57:53.632Z",
+    "controlDate": "2026-07-15T09:44:05.801Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34067,7 +34067,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c4f1e82-7ad5-4bff-bd26-2002c966bf61",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -38364,7 +38364,7 @@
     "name": "www.meine-anzeigenzeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-23T13:13:27.138Z",
+    "controlDate": "2026-07-15T09:33:53.275Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105072,7 +105072,7 @@
     "name": "www.leipzig.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-12-19T10:07:05.308Z",
+    "controlDate": "2026-07-15T08:55:50.509Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112761,7 +112761,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-01-23T12:31:01.823Z",
+    "controlDate": "2026-07-15T09:02:32.884Z",
     "state": "active"
   },
   {
@@ -131952,7 +131952,7 @@
     "name": "Testzeitung",
     "type": "print",
     "squuid": "6a1ac432-2fad-4c02-a668-6a51dd7c72c5",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
@@ -164220,7 +164220,7 @@
     "name": "www.meine-familie-und-ich.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-01-23T13:49:17.252Z",
+    "controlDate": "2026-07-15T09:33:42.521Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
