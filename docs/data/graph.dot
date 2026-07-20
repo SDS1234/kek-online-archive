@@ -67830,11 +67830,11 @@ digraph {
     label="Hottendorff, Günter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=71
-    num_medias_weighted=0.0516
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-199e-4794-af78-e2b08159a6ab"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5653 [
     type=shareholder
@@ -104169,7 +104169,7 @@ digraph {
     num_medias=71
     num_medias_weighted=0.2064
     name="5be1a6b6-6b13-4045-a1ce-139bd1f0f29c"
-    in_degree=7
+    in_degree=6
     out_degree=3
   ];
   8681 [
@@ -237743,10 +237743,6 @@ digraph {
   ];
   5651 -> 2274 [
     weight=11.2
-    type=owns
-  ];
-  5652 -> 8680 [
-    weight=25
     type=owns
   ];
   5653 -> 2273 [
