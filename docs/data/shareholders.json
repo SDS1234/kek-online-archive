@@ -264257,6 +264257,18 @@
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
       }
     ],
     "operates": [

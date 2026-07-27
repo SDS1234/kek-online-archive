@@ -128238,11 +128238,11 @@ digraph {
     label="RTL Audio Center Berlin GmbH"
     num_owners=24
     num_owners_weighted=14.9410
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=8
+    num_medias_weighted=5.9960
     name="694012a8-0c38-450a-8926-4c477f526370"
     in_degree=2
-    out_degree=1
+    out_degree=2
   ];
   10687 [
     type=shareholder
@@ -128517,7 +128517,7 @@ digraph {
     num_medias=8
     num_medias_weighted=5.0000
     name="5be1a6b6-6ea6-42b5-9674-9d85c813ccc9"
-    in_degree=1
+    in_degree=2
     out_degree=5
   ];
   10710 [
@@ -261816,6 +261816,10 @@ digraph {
   10680 -> 5501 [
     weight=100
     type=operates
+  ];
+  10686 -> 10709 [
+    weight=100
+    type=owns
   ];
   10686 -> 16940 [
     weight=100
