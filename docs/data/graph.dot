@@ -139816,8 +139816,8 @@ digraph {
     type=tv
     state=active
     label="Sky Krimi"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-36d9-4023-81a9-cffe2e0c8de8"
@@ -139864,8 +139864,8 @@ digraph {
     type=tv
     state=active
     label="Sky One"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=10
+    num_owners_weighted=9.6000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-eec1-4daa-85cf-e36fa20d151d"
