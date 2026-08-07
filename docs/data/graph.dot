@@ -168351,7 +168351,7 @@ digraph {
   14029 [
     type=shareholder
     state=active
-    label="Westfälische Medien Holding AG"
+    label="Westfälische Medien Holding GmbH"
     num_owners=11
     num_owners_weighted=9.3940
     num_medias=62
