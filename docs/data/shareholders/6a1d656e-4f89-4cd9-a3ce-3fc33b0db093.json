@@ -1,5 +1,6 @@
 {
   "name": "Vestner, Anna",
+  "pseudoCompany": false,
   "squuid": "6a1d656e-4f89-4cd9-a3ce-3fc33b0db093",
   "owns": [
     {
@@ -28,11 +29,12 @@
         "name": "Verlag Nürnberger Presse Druckhaus Nürnberg GmbH & Co. KG",
         "squuid": "5be1a6b6-dbc4-427d-afe3-fd230ac2eeb8"
       },
-      "liabilitySum": 3.7,
+      "liabilitySum": 4.76,
       "squuid": "6a1db350-aa35-489e-859c-30e2435cf0f3",
       "state": "active"
     }
   ],
+  "city": "Nürnberg",
   "state": "active",
   "organizations": [
     {
@@ -57,6 +59,12 @@
       "name": "BLM",
       "type": "organization",
       "fullName": "Bayerische Landeszentrale für neue Medien"
+    },
+    {
+      "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+      "name": "Medienanstalt Hessen",
+      "type": "organization",
+      "fullName": "Medienanstalt Hessen"
     },
     {
       "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
@@ -88,5 +96,6 @@
       "type": "organization",
       "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
     }
-  ]
+  ],
+  "naturalPerson": true
 }
