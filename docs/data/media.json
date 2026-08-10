@@ -79206,7 +79206,7 @@
       "fullName": "Medienanstalt Hessen"
     },
     "rfStatewide": false,
-    "name": "Antenne Frankfurt 95.1",
+    "name": "Radio Frankfurt",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -159084,7 +159084,7 @@
     "name": "Radio Frankfurt",
     "type": "radio",
     "squuid": "6a758e6d-920d-4e0a-9331-329a5adb15bb",
-    "state": "active"
+    "state": "archived"
   },
   {
     "state": "active",
