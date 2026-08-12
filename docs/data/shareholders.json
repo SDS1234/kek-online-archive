@@ -308242,6 +308242,45 @@
     ]
   },
   {
+    "squuid": "6a7c69b2-8337-4896-b339-dc2ceb0b935d",
+    "name": "Berg, Ingo",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a7c69a6-4f55-4a4a-b717-75f861d5bc40",
+    "name": "Berg, Dr. Sania",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a7c688f-c3f2-4ad5-9212-422821c61b3d",
+    "name": "Krüger, Thomas",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5c52d755-7c2a-4c0f-89da-1507c879dd92",
     "name": "blabla.cafe GmbH & Co. KG",
     "state": "archived",
@@ -308252,6 +308291,19 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6a7c6872-0006-407b-909d-5792a72ef1ce",
+    "name": "Wünsch, Günter",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+        "name": "SLM",
+        "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien",
         "type": "organization"
       }
     ]
