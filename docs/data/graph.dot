@@ -340,8 +340,8 @@ digraph {
     type=radio
     state=active
     label="105'5 Spreeradio (Berlin)"
-    num_owners=24
-    num_owners_weighted=14.9929
+    num_owners=25
+    num_owners_weighted=15.9929
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5c8c-4f6e-8ae5-e702f5b4dfd8"
@@ -1084,8 +1084,8 @@ digraph {
     type=radio
     state=active
     label="80s80s Radio (bundesweit)"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=686
+    num_owners_weighted=33.8882
     num_medias=0
     num_medias_weighted=0.0000
     name="60db1618-082e-4350-a2e4-f8aadb567c3f"
@@ -16048,8 +16048,8 @@ digraph {
     type=radio
     state=active
     label="bigFM Baden-Württemberg"
-    num_owners=1
-    num_owners_weighted=1.0000
+    num_owners=941
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-31da-4286-a2cc-41244662d74f"
