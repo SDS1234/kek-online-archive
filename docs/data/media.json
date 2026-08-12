@@ -55178,7 +55178,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "Radio WSW",
+    "name": "Radio SACHSEN EINS",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -76243,6 +76243,9 @@
     "state": "active"
   },
   {
+    "matchedNames": [
+      "SR 1"
+    ],
     "state": "active",
     "squuid": "5be1a6b1-2117-4bff-bf12-597716b5e1ff",
     "organization": {
@@ -76435,7 +76438,11 @@
     }
   },
   {
-    "rfPublicPrivate": true,
+    "matchedNames": [
+      "SWR Kultur"
+    ],
+    "state": "active",
+    "squuid": "5be1a6b1-b213-4378-9d23-56d7f0ef1317",
     "organization": {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
       "name": "KEK",
@@ -76443,15 +76450,14 @@
     },
     "rfStatewide": false,
     "name": "SWR2",
+    "rfPublicPrivate": true,
     "type": "radio",
-    "squuid": "5be1a6b1-b213-4378-9d23-56d7f0ef1317",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
-    },
-    "state": "active"
+    }
   },
   {
     "state": "archived",

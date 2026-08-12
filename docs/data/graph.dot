@@ -120531,6 +120531,18 @@ digraph {
   10044 [
     type=radio
     state=active
+    label="Radio SACHSEN EINS"
+    num_owners=72
+    num_owners_weighted=12.4860
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-8a94-4c96-8c3b-8f2b89f33a87"
+    in_degree=1
+    out_degree=0
+  ];
+  10045 [
+    type=radio
+    state=active
     label="Radio Salü"
     num_owners=57
     num_owners_weighted=9.2530
@@ -120540,7 +120552,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10045 [
+  10046 [
     type=shareholder
     state=active
     label="RADIO SALÜ - Euro-Radio Saar GmbH"
@@ -120552,7 +120564,7 @@ digraph {
     in_degree=5
     out_degree=10
   ];
-  10046 [
+  10047 [
     type=radio
     state=active
     label="RADIO SALÜ 90er"
@@ -120564,7 +120576,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10047 [
+  10048 [
     type=radio
     state=active
     label="RADIO SALÜ Chill Out Only"
@@ -120576,7 +120588,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10048 [
+  10049 [
     type=radio
     state=active
     label="RADIO SALÜ Die 2000er"
@@ -120588,7 +120600,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10049 [
+  10050 [
     type=shareholder
     state=active
     label="Radio SANTEC GmbH"
@@ -120600,7 +120612,7 @@ digraph {
     in_degree=3
     out_degree=2
   ];
-  10050 [
+  10051 [
     type=radio
     state=active
     label="Radio Sauerland"
@@ -120612,7 +120624,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10051 [
+  10052 [
     type=radio
     state=active
     label="Radio SAW"
@@ -120624,7 +120636,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10052 [
+  10053 [
     type=radio
     state=active
     label="Radio Schlagerparadies"
@@ -120636,7 +120648,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10053 [
+  10054 [
     type=radio
     state=active
     label="Radio Schwaben"
@@ -120648,7 +120660,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10054 [
+  10055 [
     type=shareholder
     state=active
     label="Radio Schwaben GmbH"
@@ -120660,7 +120672,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  10055 [
+  10056 [
     type=radio
     state=active
     label="Radio Seefunk"
@@ -120672,7 +120684,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10056 [
+  10057 [
     type=shareholder
     state=active
     label="Radio Seefunk GmbH & Co. KG"
@@ -120684,7 +120696,7 @@ digraph {
     in_degree=5
     out_degree=4
   ];
-  10057 [
+  10058 [
     type=shareholder
     state=active
     label="Radio Seefunk Verwaltungs GmbH"
@@ -120696,7 +120708,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  10058 [
+  10059 [
     type=radio
     state=active
     label="Radio Siegen"
@@ -120708,7 +120720,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10059 [
+  10060 [
     type=shareholder
     state=active
     label="Radio Siegen Betriebsgesellschaft mbH & Co. KG"
@@ -120720,7 +120732,7 @@ digraph {
     in_degree=4
     out_degree=2
   ];
-  10060 [
+  10061 [
     type=shareholder
     state=active
     label="Radio Siegen Betriebsgesellschaft-Verwaltungs-GmbH"
@@ -120732,7 +120744,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  10061 [
+  10062 [
     type=shareholder
     state=active
     label="Radio Skyline Studio GmbH"
@@ -120744,7 +120756,7 @@ digraph {
     in_degree=9
     out_degree=1
   ];
-  10062 [
+  10063 [
     type=radio
     state=active
     label="Radio Slubfurt"
@@ -120756,7 +120768,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10063 [
+  10064 [
     type=shareholder
     state=archived
     label="Radio St. Paula e.V."
@@ -120768,7 +120780,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  10064 [
+  10065 [
     type=shareholder
     state=active
     label="Radio Starlet Programm- und Werbegesellschaft mbH"
@@ -120780,7 +120792,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  10065 [
+  10066 [
     type=radio
     state=active
     label="Radio T"
@@ -120792,7 +120804,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10066 [
+  10067 [
     type=shareholder
     state=active
     label="RADIO T e.V."
@@ -120804,7 +120816,7 @@ digraph {
     in_degree=0
     out_degree=3
   ];
-  10067 [
+  10068 [
     type=radio
     state=active
     label="Radio T regional - Charts aus, Musik an"
@@ -120816,7 +120828,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10068 [
+  10069 [
     type=radio
     state=active
     label="Radio Teddy (Bayern)"
@@ -120828,7 +120840,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10069 [
+  10070 [
     type=radio
     state=active
     label="Radio TEDDY (Berlin)"
@@ -120840,7 +120852,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10070 [
+  10071 [
     type=radio
     state=active
     label="Radio TEDDY (Bremen)"
@@ -120852,7 +120864,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10071 [
+  10072 [
     type=radio
     state=active
     label="Radio TEDDY (bundesweit)"
@@ -120864,7 +120876,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10072 [
+  10073 [
     type=radio
     state=active
     label="Radio TEDDY (Hamburg)"
@@ -120876,7 +120888,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10073 [
+  10074 [
     type=radio
     state=active
     label="Radio TEDDY (Hessen)"
@@ -120888,7 +120900,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10074 [
+  10075 [
     type=radio
     state=active
     label="Radio TEDDY (Mecklenburg-Vorpommern)"
@@ -120900,7 +120912,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10075 [
+  10076 [
     type=radio
     state=active
     label="Radio TEDDY (NRW)"
@@ -120912,7 +120924,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10076 [
+  10077 [
     type=radio
     state=active
     label="Radio Teddy (SLM)"
@@ -120924,7 +120936,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10077 [
+  10078 [
     type=radio
     state=active
     label="Radio TEDDY (Thüringen)"
@@ -120936,7 +120948,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10078 [
+  10079 [
     type=shareholder
     state=active
     label="Radio TEDDY GmbH & Co. KG"
@@ -120948,7 +120960,7 @@ digraph {
     in_degree=3
     out_degree=12
   ];
-  10079 [
+  10080 [
     type=shareholder
     state=active
     label="Radio TEDDY Verwaltungs GmbH"
@@ -120960,7 +120972,7 @@ digraph {
     in_degree=2
     out_degree=1
   ];
-  10080 [
+  10081 [
     type=radio
     state=active
     label="Radio The WOLF Hamburg"
@@ -120972,7 +120984,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10081 [
+  10082 [
     type=radio
     state=active
     label="Radio The WOLF Schleswig-Holstein"
@@ -120984,7 +120996,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10082 [
+  10083 [
     type=shareholder
     state=active
     label="Radio TON - Regional Hörfunk Verwaltungs-GmbH"
@@ -120996,7 +121008,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  10083 [
+  10084 [
     type=radio
     state=active
     label="Radio Ton Heilbronn/Franken"
@@ -121008,7 +121020,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10084 [
+  10085 [
     type=radio
     state=active
     label="Radio Ton Ostwürttemberg"
@@ -121020,7 +121032,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10085 [
+  10086 [
     type=shareholder
     state=active
     label="Radio TON Rundfunkgesellschaft mbH"
@@ -121032,7 +121044,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10086 [
+  10087 [
     type=shareholder
     state=active
     label="Radio TON-Regional Hörfunk GmbH & Co. KG"
@@ -121044,7 +121056,7 @@ digraph {
     in_degree=10
     out_degree=5
   ];
-  10087 [
+  10088 [
     type=radio
     state=active
     label="radio TOP 40"
@@ -121056,7 +121068,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10088 [
+  10089 [
     type=radio
     state=active
     label="Radio TOP FM"
@@ -121068,7 +121080,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10089 [
+  10090 [
     type=shareholder
     state=active
     label="Radio und TV GAP-GmbH Programmanbieter"
@@ -121080,7 +121092,7 @@ digraph {
     in_degree=5
     out_degree=0
   ];
-  10090 [
+  10091 [
     type=radio
     state=active
     label="Radio Unerhört Marburg"
@@ -121092,7 +121104,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10091 [
+  10092 [
     type=shareholder
     state=active
     label="Radio Unerhört Marburg e. V."
@@ -121104,7 +121116,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  10092 [
+  10093 [
     type=radio
     state=active
     label="Radio UNiCC"
@@ -121116,7 +121128,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10093 [
+  10094 [
     type=shareholder
     state=active
     label="Radio UNiCC e.V."
@@ -121128,7 +121140,7 @@ digraph {
     in_degree=0
     out_degree=2
   ];
-  10094 [
+  10095 [
     type=radio
     state=active
     label="Radio Vest"
@@ -121140,7 +121152,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10095 [
+  10096 [
     type=shareholder
     state=active
     label="Radio VHR"
@@ -121152,7 +121164,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  10096 [
+  10097 [
     type=radio
     state=active
     label="Radio VHR"
@@ -121164,7 +121176,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10097 [
+  10098 [
     type=radio
     state=active
     label="Radio VHR"
@@ -121176,7 +121188,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10098 [
+  10099 [
     type=radio
     state=archived
     label="Radio VHR"
@@ -121188,7 +121200,7 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  10099 [
+  10100 [
     type=radio
     state=active
     label="Radio WAF"
@@ -121200,7 +121212,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10100 [
+  10101 [
     type=shareholder
     state=active
     label="Radio Warendorf Betriebs- und Verwaltungsgesellschaft mbH"
@@ -121212,7 +121224,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  10101 [
+  10102 [
     type=shareholder
     state=active
     label="Radio Warendorf Betriebsgesellschaft mbH & Co. KG"
@@ -121224,7 +121236,7 @@ digraph {
     in_degree=10
     out_degree=3
   ];
-  10102 [
+  10103 [
     type=shareholder
     state=active
     label="Radio Weinstrasse Rundfunkbetriebsgesellschaft mbH"
@@ -121236,7 +121248,7 @@ digraph {
     in_degree=1
     out_degree=1
   ];
-  10103 [
+  10104 [
     type=shareholder
     state=active
     label="Radio Welle Unterallgäu Lokaler Programmanbieter GmbH"
@@ -121248,7 +121260,7 @@ digraph {
     in_degree=16
     out_degree=1
   ];
-  10104 [
+  10105 [
     type=radio
     state=active
     label="Radio Wellenrausch"
@@ -121260,7 +121272,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10105 [
+  10106 [
     type=shareholder
     state=active
     label="Radio Wellenrausch GmbH"
@@ -121272,7 +121284,7 @@ digraph {
     in_degree=1
     out_degree=2
   ];
-  10106 [
+  10107 [
     type=shareholder
     state=active
     label="Radio Wendelstein GmbH Anbietergesellschaft für Rundfunk- und Fernsehprogramme"
@@ -121284,7 +121296,7 @@ digraph {
     in_degree=7
     out_degree=1
   ];
-  10107 [
+  10108 [
     type=radio
     state=active
     label="Radio Westfalica"
@@ -121296,7 +121308,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10108 [
+  10109 [
     type=radio
     state=active
     label="Radio WMW"
@@ -121308,7 +121320,7 @@ digraph {
     in_degree=1
     out_degree=0
   ];
-  10109 [
+  10110 [
     type=radio
     state=archived
     label="Radio Woltersdorf"
@@ -121318,18 +121330,6 @@ digraph {
     num_medias_weighted=0.0000
     name="64804631-e2a2-4bf8-854c-7ccc19c2216b"
     in_degree=0
-    out_degree=0
-  ];
-  10110 [
-    type=radio
-    state=active
-    label="Radio WSW"
-    num_owners=1
-    num_owners_weighted=1.0000
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-8a94-4c96-8c3b-8f2b89f33a87"
-    in_degree=1
     out_degree=0
   ];
   10111 [
@@ -121360,8 +121360,8 @@ digraph {
     type=shareholder
     state=active
     label="Radio WSW GmbH"
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=71
+    num_owners_weighted=11.4860
     num_medias=1
     num_medias_weighted=1.0000
     name="64f0a4cb-517d-4639-bfcd-509e5e0fef2a"
@@ -214657,7 +214657,7 @@ digraph {
     weight=100
     type=operates
   ];
-  466 -> 10088 [
+  466 -> 10089 [
     weight=100
     type=operates
   ];
@@ -214937,7 +214937,7 @@ digraph {
     weight=15
     type=owns
   ];
-  556 -> 10086 [
+  556 -> 10087 [
     weight=3.2
     type=owns
   ];
@@ -214989,7 +214989,7 @@ digraph {
     weight=100
     type=operates
   ];
-  564 -> 10087 [
+  564 -> 10088 [
     weight=100
     type=operates
   ];
@@ -215353,7 +215353,7 @@ digraph {
     weight=3.1
     type=owns
   ];
-  661 -> 10101 [
+  661 -> 10102 [
     weight=7.73
     type=owns
   ];
@@ -215925,7 +215925,7 @@ digraph {
     weight=1.4
     type=owns
   ];
-  784 -> 10086 [
+  784 -> 10087 [
     weight=2
     type=owns
   ];
@@ -218109,7 +218109,7 @@ digraph {
     weight=30
     type=owns
   ];
-  1187 -> 10102 [
+  1187 -> 10103 [
     weight=100
     type=owns
   ];
@@ -218417,7 +218417,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1251 -> 10059 [
+  1251 -> 10060 [
     weight=15
     type=owns
   ];
@@ -218481,7 +218481,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1260 -> 10050 [
+  1260 -> 10051 [
     weight=100
     type=operates
   ];
@@ -219441,7 +219441,7 @@ digraph {
     weight=15.9718
     type=owns
   ];
-  1477 -> 10056 [
+  1477 -> 10057 [
     weight=3
     type=owns
   ];
@@ -220373,7 +220373,7 @@ digraph {
     weight=100
     type=operates
   ];
-  1673 -> 10103 [
+  1673 -> 10104 [
     weight=1
     type=owns
   ];
@@ -223029,7 +223029,7 @@ digraph {
     weight=99
     type=owns
   ];
-  2210 -> 10103 [
+  2210 -> 10104 [
     weight=1.84
     type=owns
   ];
@@ -226861,7 +226861,7 @@ digraph {
     weight=46
     type=owns
   ];
-  3079 -> 10106 [
+  3079 -> 10107 [
     weight=23
     type=owns
   ];
@@ -226909,7 +226909,7 @@ digraph {
     weight=32.71
     type=owns
   ];
-  3095 -> 10101 [
+  3095 -> 10102 [
     weight=67.27
     type=owns
   ];
@@ -228733,7 +228733,7 @@ digraph {
     weight=100
     type=owns
   ];
-  3661 -> 10106 [
+  3661 -> 10107 [
     weight=5
     type=owns
   ];
@@ -229717,7 +229717,7 @@ digraph {
     weight=50
     type=owns
   ];
-  3877 -> 10061 [
+  3877 -> 10062 [
     weight=1.18
     type=owns
   ];
@@ -229817,11 +229817,11 @@ digraph {
     weight=1
     type=owns
   ];
-  3920 -> 10078 [
+  3920 -> 10079 [
     weight=10.135
     type=owns
   ];
-  3920 -> 10079 [
+  3920 -> 10080 [
     weight=3.846
     type=owns
   ];
@@ -230509,7 +230509,7 @@ digraph {
     weight=87
     type=owns
   ];
-  4138 -> 10062 [
+  4138 -> 10063 [
     weight=100
     type=operates
   ];
@@ -230729,7 +230729,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4237 -> 10056 [
+  4237 -> 10057 [
     weight=38
     type=owns
   ];
@@ -230861,7 +230861,7 @@ digraph {
     weight=45.5
     type=owns
   ];
-  4274 -> 10086 [
+  4274 -> 10087 [
     weight=1.405
     type=owns
   ];
@@ -232781,7 +232781,7 @@ digraph {
     weight=100
     type=owns
   ];
-  4391 -> 10061 [
+  4391 -> 10062 [
     weight=1.19
     type=owns
   ];
@@ -233393,7 +233393,7 @@ digraph {
     weight=1
     type=owns
   ];
-  4552 -> 10101 [
+  4552 -> 10102 [
     weight=1
     type=owns
   ];
@@ -234041,7 +234041,7 @@ digraph {
     weight=70
     type=owns
   ];
-  4697 -> 10054 [
+  4697 -> 10055 [
     weight=100
     type=owns
   ];
@@ -235345,7 +235345,7 @@ digraph {
     weight=100
     type=owns
   ];
-  5004 -> 10089 [
+  5004 -> 10090 [
     weight=43.75
     type=owns
   ];
@@ -235849,7 +235849,7 @@ digraph {
     weight=2.98
     type=owns
   ];
-  5145 -> 10106 [
+  5145 -> 10107 [
     weight=15
     type=owns
   ];
@@ -236257,7 +236257,7 @@ digraph {
     weight=1.02
     type=owns
   ];
-  5271 -> 10086 [
+  5271 -> 10087 [
     weight=28.8
     type=owns
   ];
@@ -236897,7 +236897,7 @@ digraph {
     weight=1
     type=owns
   ];
-  5352 -> 10103 [
+  5352 -> 10104 [
     weight=1
     type=owns
   ];
@@ -237329,7 +237329,7 @@ digraph {
     weight=50.98
     type=owns
   ];
-  5468 -> 10089 [
+  5468 -> 10090 [
     weight=10.71
     type=owns
   ];
@@ -237645,7 +237645,7 @@ digraph {
     weight=51
     type=owns
   ];
-  5554 -> 10049 [
+  5554 -> 10050 [
     weight=31
     type=owns
   ];
@@ -237701,7 +237701,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5583 -> 10103 [
+  5583 -> 10104 [
     weight=1
     type=owns
   ];
@@ -238065,7 +238065,7 @@ digraph {
     weight=2.78
     type=owns
   ];
-  5689 -> 10103 [
+  5689 -> 10104 [
     weight=1
     type=owns
   ];
@@ -238085,7 +238085,7 @@ digraph {
     weight=20
     type=owns
   ];
-  5692 -> 10103 [
+  5692 -> 10104 [
     weight=1
     type=owns
   ];
@@ -238369,7 +238369,7 @@ digraph {
     weight=100
     type=owns
   ];
-  5775 -> 10103 [
+  5775 -> 10104 [
     weight=1
     type=owns
   ];
@@ -238841,7 +238841,7 @@ digraph {
     weight=100
     type=operates
   ];
-  5919 -> 10049 [
+  5919 -> 10050 [
     weight=20
     type=owns
   ];
@@ -239485,11 +239485,11 @@ digraph {
     weight=1
     type=owns
   ];
-  5949 -> 10078 [
+  5949 -> 10079 [
     weight=89.865
     type=owns
   ];
-  5949 -> 10079 [
+  5949 -> 10080 [
     weight=96.154
     type=owns
   ];
@@ -239869,7 +239869,7 @@ digraph {
     weight=24.5
     type=owns
   ];
-  6011 -> 10103 [
+  6011 -> 10104 [
     weight=1
     type=owns
   ];
@@ -240169,11 +240169,11 @@ digraph {
     weight=5
     type=owns
   ];
-  6064 -> 10106 [
+  6064 -> 10107 [
     weight=5
     type=owns
   ];
-  6065 -> 10103 [
+  6065 -> 10104 [
     weight=3.09
     type=owns
   ];
@@ -240741,7 +240741,7 @@ digraph {
     weight=1
     type=owns
   ];
-  6258 -> 10064 [
+  6258 -> 10065 [
     weight=3
     type=owns
   ];
@@ -240921,7 +240921,7 @@ digraph {
     weight=25.8
     type=owns
   ];
-  6286 -> 10106 [
+  6286 -> 10107 [
     weight=5
     type=owns
   ];
@@ -241021,7 +241021,7 @@ digraph {
     weight=38
     type=owns
   ];
-  6324 -> 10103 [
+  6324 -> 10104 [
     weight=1
     type=owns
   ];
@@ -241113,7 +241113,7 @@ digraph {
     weight=100
     type=owns
   ];
-  6354 -> 10061 [
+  6354 -> 10062 [
     weight=1.18
     type=owns
   ];
@@ -241985,7 +241985,7 @@ digraph {
     weight=25
     type=owns
   ];
-  6584 -> 10059 [
+  6584 -> 10060 [
     weight=10
     type=owns
   ];
@@ -242245,11 +242245,11 @@ digraph {
     weight=20
     type=owns
   ];
-  6644 -> 10095 [
+  6644 -> 10096 [
     weight=100
     type=owns
   ];
-  6644 -> 10097 [
+  6644 -> 10098 [
     weight=100
     type=operates
   ];
@@ -242461,7 +242461,7 @@ digraph {
     weight=4.95
     type=owns
   ];
-  6686 -> 10101 [
+  6686 -> 10102 [
     weight=12.89
     type=owns
   ];
@@ -242469,7 +242469,7 @@ digraph {
     weight=1
     type=owns
   ];
-  6689 -> 10106 [
+  6689 -> 10107 [
     weight=5
     type=owns
   ];
@@ -243045,7 +243045,7 @@ digraph {
     weight=35
     type=owns
   ];
-  6821 -> 10049 [
+  6821 -> 10050 [
     weight=49
     type=owns
   ];
@@ -244237,7 +244237,7 @@ digraph {
     weight=10
     type=owns
   ];
-  7211 -> 10103 [
+  7211 -> 10104 [
     weight=1.84
     type=owns
   ];
@@ -244457,7 +244457,7 @@ digraph {
     weight=75
     type=owns
   ];
-  7273 -> 10108 [
+  7273 -> 10109 [
     weight=100
     type=operates
   ];
@@ -244557,11 +244557,11 @@ digraph {
     weight=100
     type=owns
   ];
-  7288 -> 10059 [
+  7288 -> 10060 [
     weight=75
     type=owns
   ];
-  7288 -> 10060 [
+  7288 -> 10061 [
     weight=100
     type=owns
   ];
@@ -244693,7 +244693,7 @@ digraph {
     weight=69.9
     type=owns
   ];
-  7308 -> 10084 [
+  7308 -> 10085 [
     weight=100
     type=operates
   ];
@@ -244901,7 +244901,7 @@ digraph {
     weight=22.5
     type=owns
   ];
-  7375 -> 10103 [
+  7375 -> 10104 [
     weight=1
     type=owns
   ];
@@ -246769,7 +246769,7 @@ digraph {
     weight=100
     type=owns
   ];
-  7772 -> 10061 [
+  7772 -> 10062 [
     weight=87
     type=owns
   ];
@@ -246849,7 +246849,7 @@ digraph {
     weight=7
     type=owns
   ];
-  7781 -> 10086 [
+  7781 -> 10087 [
     weight=3.395
     type=owns
   ];
@@ -247417,11 +247417,11 @@ digraph {
     weight=6
     type=owns
   ];
-  7860 -> 10056 [
+  7860 -> 10057 [
     weight=6
     type=owns
   ];
-  7862 -> 10061 [
+  7862 -> 10062 [
     weight=1.18
     type=owns
   ];
@@ -247485,7 +247485,7 @@ digraph {
     weight=1
     type=owns
   ];
-  7920 -> 10064 [
+  7920 -> 10065 [
     weight=97
     type=owns
   ];
@@ -247589,7 +247589,7 @@ digraph {
     weight=1
     type=owns
   ];
-  7958 -> 10089 [
+  7958 -> 10090 [
     weight=3.58
     type=owns
   ];
@@ -248149,7 +248149,7 @@ digraph {
     weight=12
     type=owns
   ];
-  8092 -> 10103 [
+  8092 -> 10104 [
     weight=22.11
     type=owns
   ];
@@ -248625,7 +248625,7 @@ digraph {
     weight=99.65
     type=owns
   ];
-  8127 -> 10103 [
+  8127 -> 10104 [
     weight=44.19
     type=owns
   ];
@@ -251353,7 +251353,7 @@ digraph {
     weight=1.41
     type=owns
   ];
-  8580 -> 10086 [
+  8580 -> 10087 [
     weight=1.8
     type=owns
   ];
@@ -256273,7 +256273,7 @@ digraph {
     weight=70
     type=owns
   ];
-  9517 -> 10045 [
+  9517 -> 10046 [
     weight=5
     type=owns
   ];
@@ -256297,7 +256297,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9521 -> 10086 [
+  9521 -> 10087 [
     weight=51
     type=owns
   ];
@@ -256401,7 +256401,7 @@ digraph {
     weight=8
     type=owns
   ];
-  9539 -> 10085 [
+  9539 -> 10086 [
     weight=5
     type=owns
   ];
@@ -256901,11 +256901,11 @@ digraph {
     weight=100
     type=operates
   ];
-  9687 -> 10080 [
+  9687 -> 10081 [
     weight=100
     type=operates
   ];
-  9687 -> 10081 [
+  9687 -> 10082 [
     weight=100
     type=operates
   ];
@@ -257845,7 +257845,7 @@ digraph {
     weight=100
     type=owns
   ];
-  9950 -> 10107 [
+  9950 -> 10108 [
     weight=100
     type=operates
   ];
@@ -258285,251 +258285,251 @@ digraph {
     weight=100
     type=operates
   ];
-  10045 -> 32 [
+  10046 -> 32 [
     weight=44
     type=owns
   ];
-  10045 -> 2115 [
+  10046 -> 2115 [
     weight=100
     type=operates
   ];
-  10045 -> 2116 [
+  10046 -> 2116 [
     weight=100
     type=operates
   ];
-  10045 -> 2114 [
+  10046 -> 2114 [
     weight=100
     type=operates
   ];
-  10045 -> 10046 [
+  10046 -> 10047 [
     weight=100
     type=operates
   ];
-  10045 -> 10047 [
+  10046 -> 10048 [
     weight=100
     type=operates
   ];
-  10045 -> 10048 [
+  10046 -> 10049 [
     weight=100
     type=operates
   ];
-  10045 -> 10044 [
+  10046 -> 10045 [
     weight=100
     type=operates
   ];
-  10045 -> 14850 [
+  10046 -> 14850 [
     weight=100
     type=operates
   ];
-  10045 -> 16775 [
+  10046 -> 16775 [
     weight=100
     type=operates
   ];
-  10049 -> 11766 [
+  10050 -> 11766 [
     weight=100
     type=operates
   ];
-  10049 -> 16499 [
+  10050 -> 16499 [
     weight=100
     type=operates
   ];
-  10054 -> 10053 [
+  10055 -> 10054 [
     weight=100
     type=operates
   ];
-  10054 -> 16593 [
+  10055 -> 16593 [
     weight=100
     type=operates
   ];
-  10056 -> 10057 [
+  10057 -> 10058 [
     weight=100
     type=owns
-  ];
-  10056 -> 10055 [
-    weight=100
-    type=operates
-  ];
-  10056 -> 14911 [
-    weight=100
-    type=operates
-  ];
-  10056 -> 15644 [
-    weight=100
-    type=operates
   ];
   10057 -> 10056 [
+    weight=100
+    type=operates
+  ];
+  10057 -> 14911 [
+    weight=100
+    type=operates
+  ];
+  10057 -> 15644 [
+    weight=100
+    type=operates
+  ];
+  10058 -> 10057 [
     weight=1
     type=owns
-  ];
-  10059 -> 10058 [
-    weight=100
-    type=operates
-  ];
-  10059 -> 16594 [
-    weight=100
-    type=operates
   ];
   10060 -> 10059 [
+    weight=100
+    type=operates
+  ];
+  10060 -> 16594 [
+    weight=100
+    type=operates
+  ];
+  10061 -> 10060 [
     weight=1
     type=owns
   ];
-  10061 -> 9710 [
+  10062 -> 9710 [
     weight=36.36
     type=owns
   ];
-  10064 -> 13023 [
+  10065 -> 13023 [
     weight=100
     type=operates
   ];
-  10066 -> 10065 [
+  10067 -> 10066 [
     weight=100
     type=operates
   ];
-  10066 -> 10067 [
+  10067 -> 10068 [
     weight=100
     type=operates
   ];
-  10066 -> 14371 [
+  10067 -> 14371 [
     weight=100
     type=operates
   ];
-  10078 -> 8829 [
+  10079 -> 8829 [
     weight=3.61
     type=owns
   ];
-  10078 -> 10069 [
+  10079 -> 10070 [
     weight=100
     type=operates
   ];
-  10078 -> 10070 [
+  10079 -> 10071 [
     weight=100
     type=operates
   ];
-  10078 -> 10072 [
+  10079 -> 10073 [
     weight=100
     type=operates
   ];
-  10078 -> 10073 [
+  10079 -> 10074 [
     weight=100
     type=operates
   ];
-  10078 -> 10074 [
+  10079 -> 10075 [
     weight=100
     type=operates
   ];
-  10078 -> 10075 [
-    weight=100
-    type=operates
-  ];
-  10078 -> 10077 [
-    weight=100
-    type=operates
-  ];
-  10078 -> 10071 [
-    weight=100
-    type=operates
-  ];
-  10078 -> 10068 [
-    weight=100
-    type=operates
-  ];
-  10078 -> 10076 [
-    weight=100
-    type=operates
-  ];
-  10078 -> 16598 [
+  10079 -> 10076 [
     weight=100
     type=operates
   ];
   10079 -> 10078 [
+    weight=100
+    type=operates
+  ];
+  10079 -> 10072 [
+    weight=100
+    type=operates
+  ];
+  10079 -> 10069 [
+    weight=100
+    type=operates
+  ];
+  10079 -> 10077 [
+    weight=100
+    type=operates
+  ];
+  10079 -> 16598 [
+    weight=100
+    type=operates
+  ];
+  10080 -> 10079 [
     weight=1
     type=owns
   ];
-  10082 -> 7308 [
+  10083 -> 7308 [
     weight=1
     type=owns
   ];
-  10082 -> 10086 [
+  10083 -> 10087 [
     weight=1
     type=owns
   ];
-  10086 -> 7308 [
+  10087 -> 7308 [
     weight=100
     type=owns
   ];
-  10086 -> 10082 [
+  10087 -> 10083 [
     weight=100
     type=owns
   ];
-  10086 -> 1332 [
+  10087 -> 1332 [
     weight=5.05
     type=owns
   ];
-  10086 -> 10083 [
+  10087 -> 10084 [
     weight=100
     type=operates
   ];
-  10086 -> 16599 [
+  10087 -> 16599 [
     weight=100
     type=operates
   ];
-  10091 -> 10090 [
+  10092 -> 10091 [
     weight=100
     type=operates
   ];
-  10091 -> 16498 [
+  10092 -> 16498 [
     weight=100
     type=operates
   ];
-  10093 -> 10092 [
+  10094 -> 10093 [
     weight=100
     type=operates
   ];
-  10093 -> 16501 [
+  10094 -> 16501 [
     weight=100
     type=operates
   ];
-  10095 -> 10096 [
+  10096 -> 10097 [
     weight=100
     type=operates
   ];
-  10100 -> 10101 [
+  10101 -> 10102 [
     weight=1
     type=owns
   ];
-  10101 -> 10100 [
+  10102 -> 10101 [
     weight=100
     type=owns
   ];
-  10101 -> 10099 [
+  10102 -> 10100 [
     weight=100
     type=operates
   ];
-  10101 -> 16602 [
+  10102 -> 16602 [
     weight=100
     type=operates
   ];
-  10102 -> 10457 [
+  10103 -> 10457 [
     weight=7.16
     type=owns
   ];
-  10103 -> 10012 [
+  10104 -> 10012 [
     weight=20
     type=owns
   ];
-  10105 -> 10104 [
+  10106 -> 10105 [
     weight=100
     type=operates
   ];
-  10105 -> 16503 [
+  10106 -> 16503 [
     weight=100
     type=operates
   ];
-  10106 -> 10627 [
+  10107 -> 10627 [
     weight=56
     type=owns
   ];
-  10113 -> 10110 [
+  10113 -> 10044 [
     weight=100
     type=operates
   ];
@@ -259105,7 +259105,7 @@ digraph {
     weight=100
     type=owns
   ];
-  10257 -> 10094 [
+  10257 -> 10095 [
     weight=100
     type=operates
   ];
@@ -259621,7 +259621,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10349 -> 10061 [
+  10349 -> 10062 [
     weight=1.19
     type=owns
   ];
@@ -261953,7 +261953,7 @@ digraph {
     weight=38.72
     type=owns
   ];
-  10693 -> 10056 [
+  10693 -> 10057 [
     weight=53
     type=owns
   ];
@@ -263117,11 +263117,11 @@ digraph {
     weight=14.85
     type=owns
   ];
-  10863 -> 10103 [
+  10863 -> 10104 [
     weight=1
     type=owns
   ];
-  10867 -> 10089 [
+  10867 -> 10090 [
     weight=7.14
     type=owns
   ];
@@ -263213,7 +263213,7 @@ digraph {
     weight=33.33
     type=owns
   ];
-  10900 -> 10045 [
+  10900 -> 10046 [
     weight=24
     type=owns
   ];
@@ -263269,7 +263269,7 @@ digraph {
     weight=1
     type=owns
   ];
-  10915 -> 10045 [
+  10915 -> 10046 [
     weight=20
     type=owns
   ];
@@ -263841,7 +263841,7 @@ digraph {
     weight=31
     type=owns
   ];
-  11094 -> 10052 [
+  11094 -> 10053 [
     weight=100
     type=operates
   ];
@@ -264361,7 +264361,7 @@ digraph {
     weight=50
     type=owns
   ];
-  11196 -> 10061 [
+  11196 -> 10062 [
     weight=1.18
     type=owns
   ];
@@ -265861,7 +265861,7 @@ digraph {
     weight=99
     type=owns
   ];
-  11490 -> 10089 [
+  11490 -> 10090 [
     weight=34.82
     type=owns
   ];
@@ -266237,7 +266237,7 @@ digraph {
     weight=100
     type=owns
   ];
-  11562 -> 10045 [
+  11562 -> 10046 [
     weight=45
     type=owns
   ];
@@ -266969,7 +266969,7 @@ digraph {
     weight=49
     type=owns
   ];
-  11798 -> 10106 [
+  11798 -> 10107 [
     weight=42
     type=owns
   ];
@@ -267157,7 +267157,7 @@ digraph {
     weight=100
     type=operates
   ];
-  11841 -> 10103 [
+  11841 -> 10104 [
     weight=19.94
     type=owns
   ];
@@ -267585,7 +267585,7 @@ digraph {
     weight=2
     type=owns
   ];
-  11949 -> 10101 [
+  11949 -> 10102 [
     weight=2.58
     type=owns
   ];
@@ -267593,7 +267593,7 @@ digraph {
     weight=2.21
     type=owns
   ];
-  11951 -> 10101 [
+  11951 -> 10102 [
     weight=1.29
     type=owns
   ];
@@ -267689,7 +267689,7 @@ digraph {
     weight=5.4
     type=owns
   ];
-  11970 -> 10101 [
+  11970 -> 10102 [
     weight=3.09
     type=owns
   ];
@@ -267909,7 +267909,7 @@ digraph {
     weight=12.6
     type=owns
   ];
-  12024 -> 10101 [
+  12024 -> 10102 [
     weight=3.09
     type=owns
   ];
@@ -267981,7 +267981,7 @@ digraph {
     weight=1.03
     type=owns
   ];
-  12044 -> 10101 [
+  12044 -> 10102 [
     weight=1.55
     type=owns
   ];
@@ -268389,7 +268389,7 @@ digraph {
     weight=26
     type=owns
   ];
-  12179 -> 10061 [
+  12179 -> 10062 [
     weight=1.18
     type=owns
   ];
@@ -269545,7 +269545,7 @@ digraph {
     weight=7.7
     type=owns
   ];
-  12447 -> 10086 [
+  12447 -> 10087 [
     weight=6.4
     type=owns
   ];
@@ -269929,7 +269929,7 @@ digraph {
     weight=14
     type=owns
   ];
-  12464 -> 10105 [
+  12464 -> 10106 [
     weight=100
     type=owns
   ];
@@ -272529,7 +272529,7 @@ digraph {
     weight=7.15
     type=owns
   ];
-  13184 -> 10086 [
+  13184 -> 10087 [
     weight=2
     type=owns
   ];
@@ -272581,7 +272581,7 @@ digraph {
     weight=10.2
     type=owns
   ];
-  13193 -> 10045 [
+  13193 -> 10046 [
     weight=6
     type=owns
   ];
@@ -274677,7 +274677,7 @@ digraph {
     weight=100
     type=operates
   ];
-  13553 -> 10051 [
+  13553 -> 10052 [
     weight=100
     type=operates
   ];
@@ -279297,7 +279297,7 @@ digraph {
     weight=1
     type=owns
   ];
-  17717 -> 10061 [
+  17717 -> 10062 [
     weight=1.18
     type=owns
   ];
