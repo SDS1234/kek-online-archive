@@ -18812,7 +18812,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "SACHSEN eins - Leipzig",
+    "name": "Schsen Eins Radio - Leipzig",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -71810,7 +71810,7 @@
     }
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5c5c0665-63e2-41ea-b223-f633981aa585",
     "organization": {
       "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
@@ -136849,8 +136849,8 @@
     "name": "PELI ONE - Urban Music Radio (SLM)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
-      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
-      "name": "auf Sendung",
+      "squuid": "5be1a6ad-32b3-4ae8-b086-34ac62794f08",
+      "name": "Sendebetrieb eingestellt",
       "type": "broadcast-status",
       "state": "active"
     },
@@ -137569,7 +137569,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "Radio Holiday (SLM)",
+    "name": "RADIO HOLIDAY (SLM)",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -161850,6 +161850,25 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "name": "egoFM (Sachsen)",
+    "type": "radio",
+    "squuid": "6a7c70cf-8161-45fd-9387-09dd2b4236c7",
+    "state": "archived"
+  },
+  {
     "state": "active",
     "squuid": "636b9af9-0156-4afe-aabd-0f0653653a62",
     "organization": {
@@ -163392,7 +163411,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "SACHSEN eins - Chemnitz",
+    "name": "Sachsen Eins Radio - Chemnitz",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
