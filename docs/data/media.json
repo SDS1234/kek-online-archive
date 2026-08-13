@@ -163574,6 +163574,25 @@
     "pressKind": "Gesundheit"
   },
   {
+    "pressPublishingIntervals": 4,
+    "state": "active",
+    "squuid": "6a7d8b04-bd07-4b4a-8e00-870dcd02a167",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Paddock",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "pressKind": "Lifestyle"
+  },
+  {
     "state": "archived",
     "squuid": "63d006d4-fe0e-4dd7-b7c5-96ad915c8ada",
     "organization": {

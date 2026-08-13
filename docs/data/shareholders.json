@@ -9691,7 +9691,7 @@
     "squuid": "5be1a6b6-7474-4c9a-a706-95e39a65b236",
     "name": "RTL Group S.A.",
     "state": "active",
-    "controlDate": "2026-06-02T12:06:04.804Z",
+    "controlDate": "2026-08-13T09:47:45.652Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -23623,6 +23623,17 @@
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
+      }
+    ],
+    "operates": [
+      {
+        "squuid": "6a7d8b5e-1679-485a-a5dd-0dbc5abed62a",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a7d8b04-bd07-4b4a-8e00-870dcd02a167",
+          "name": "Paddock"
+        }
       }
     ]
   },
