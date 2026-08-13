@@ -18812,7 +18812,7 @@
       "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     },
     "rfStatewide": false,
-    "name": "Schsen Eins Radio - Leipzig",
+    "name": "Sachsen Eins Radio - Leipzig",
     "rfPublicPrivate": false,
     "rfBroadcastStatus": {
       "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
@@ -163333,6 +163333,32 @@
       "name": "Online Medienangebot",
       "type": "online-offer-type",
       "state": "active"
+    }
+  },
+  {
+    "state": "active",
+    "squuid": "6a7d63e2-0fd5-4932-8ace-75380c7caf55",
+    "organization": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
+    },
+    "rfStatewide": false,
+    "name": "Radio Kultour3eck",
+    "rfPublicPrivate": false,
+    "rfBroadcastStatus": {
+      "squuid": "5be1a6ad-6a90-49bf-9940-ae4616389a88",
+      "name": "auf Sendung",
+      "type": "broadcast-status",
+      "state": "active"
+    },
+    "type": "radio",
+    "rfSupervisingAuthority": {
+      "squuid": "5b0830ee-abe8-41d3-b591-862c1133d63d",
+      "name": "SLM",
+      "type": "organization",
+      "fullName": "Sächsische Landesanstalt für privaten Rundfunk und neue Medien"
     }
   },
   {
