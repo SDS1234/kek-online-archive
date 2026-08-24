@@ -19364,6 +19364,17 @@
         "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
+    ],
+    "operates": [
+      {
+        "squuid": "6a8c14d2-2ae0-44a3-a714-cbbdc50aca29",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a8c1445-4912-409f-a0fc-001fcfba06df",
+          "name": "Sky Deutschland Gesamt"
+        }
+      }
     ]
   },
   {
