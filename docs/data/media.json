@@ -111,6 +111,23 @@
     }
   },
   {
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "rfPublicPrivate": false,
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "Volksstimme (MVM)",
+    "type": "print",
+    "squuid": "6a8d444d-f365-449f-b1e3-3fab883b413a",
+    "state": "active"
+  },
+  {
     "state": "active",
     "squuid": "5d0b4ea4-fbdc-424c-8ad9-972cb3501190",
     "organization": {
