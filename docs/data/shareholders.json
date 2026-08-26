@@ -29137,9 +29137,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -52892,28 +52892,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Radio Next Generation GmbH & Co. KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-73c7-40c3-9f6c-36bdb642bc5d",
+    "name": "Radio Next Generation GmbH & Co. KG",
+    "state": "archived",
     "controlDate": "2025-06-18T13:02:46.769Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5e5e0ed9-7513-4120-8906-c08548e7e8a6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5e59118d-c876-44a0-8d01-d92e1509a78f",
-          "name": "egoFM"
-        }
       }
     ]
   },
@@ -68516,15 +68505,7 @@
     "name": "radioblut GmbH & Co. Studiobetriebs KG",
     "state": "active",
     "controlDate": "2025-06-19T08:22:18.439Z",
-    "limitedPartnership": true,
-    "organizations": [
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      }
-    ]
+    "limitedPartnership": true
   },
   {
     "squuid": "5be1a6b6-21ec-493e-b012-36fe65160bd9",
@@ -68535,12 +68516,6 @@
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
       }
     ]
@@ -201810,9 +201785,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -309622,9 +309597,9 @@
     "controlDate": "2025-06-18T13:02:37.937Z",
     "organizations": [
       {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -309725,15 +309700,7 @@
     "squuid": "5f3e6b71-cd82-4ad2-8ed1-57d21905a78b",
     "name": "radioblut Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2025-06-19T08:21:19.610Z",
-    "organizations": [
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      }
-    ]
+    "controlDate": "2025-06-19T08:21:19.610Z"
   },
   {
     "squuid": "5f18058d-1116-42f9-bdf7-000a59aa3d3b",
@@ -309899,9 +309866,9 @@
     "controlDate": "2025-06-18T12:49:15.089Z",
     "organizations": [
       {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
