@@ -47207,7 +47207,7 @@
     "name": "Verlagsgesellschaft Madsack GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-2b11-4f5f-bf33-fccd64db4f7e",
-    "controlDate": "2026-06-14T10:25:01.103Z",
+    "controlDate": "2026-08-26T13:35:25.389Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -77752,7 +77752,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-869e-4012-ae32-17fe425b99c9",
-          "name": "Bayern 1"
+          "name": "BR 1"
         }
       },
       {
@@ -77761,7 +77761,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-08b1-490e-aee7-dd8e12831636",
-          "name": "Bayern 2"
+          "name": "BR 2"
         }
       },
       {
@@ -77770,7 +77770,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-5fe9-4505-89c0-90e2f2957bbf",
-          "name": "Bayern 3"
+          "name": "BR 3"
         }
       },
       {
@@ -77779,7 +77779,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-c6d3-4602-891c-54aa4fae390f",
-          "name": "BR-Klassik"
+          "name": "BR Klassik"
         }
       },
       {
@@ -77788,7 +77788,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-ed78-482a-ab40-906ae5e933b4",
-          "name": "B5 aktuell"
+          "name": "BR 24"
         }
       },
       {
@@ -77797,7 +77797,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-17f6-4934-bd8d-207f11de4c01",
-          "name": "Bayern plus"
+          "name": "BR Schlager"
         }
       },
       {
@@ -77806,7 +77806,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-1bbf-4c3b-9de4-92b43a33bc74",
-          "name": "PULS"
+          "name": "BR 24 live "
         }
       },
       {
@@ -78432,7 +78432,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-137a-495d-9802-6f10b7617a91",
-          "name": "MDR SACHSEN-ANHALT – Das Radio wie wir"
+          "name": "MDR SACHSEN-ANHALT – Mein Radio. Mein Zuhause."
         }
       },
       {
@@ -78477,7 +78477,7 @@
         "state": "active",
         "held": {
           "squuid": "5c53fa93-2715-4e9e-87d1-537ca1f9d53c",
-          "name": "Tweens"
+          "name": "MDR TWEENS "
         }
       },
       {
@@ -78586,6 +78586,15 @@
         "held": {
           "squuid": "62c8560a-d732-42dc-a0bc-50c9359171b0",
           "name": "www.mdr.de/meine-schlagerwelt"
+        }
+      },
+      {
+        "squuid": "6a8ee8cb-32d2-48c9-b65d-6aecef0e78b4",
+        "type": "operate",
+        "state": "active",
+        "held": {
+          "squuid": "6a8ee7e2-eb7c-486f-bc23-43488ede9d6a",
+          "name": "MDR Schlagerwelt"
         }
       }
     ]
@@ -185287,6 +185296,19 @@
     ]
   },
   {
+    "squuid": "6a8eeb81-4973-4f1a-a67c-e20e381904e9",
+    "name": "Hannes, Harry",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5d36ec5f-11f9-47d2-ab2c-5d89c2811d3f",
     "name": "Bundeszentrale für politische Bildung ",
     "state": "active",
@@ -185368,6 +185390,19 @@
           "squuid": "6634f8bc-b0f0-49c6-9d64-278a2ac03bbb",
           "name": "www.baden24.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a8eeb6e-4749-4b05-8214-49d0d1b537f1",
+    "name": "Hannes, Hanno",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
