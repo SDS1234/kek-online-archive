@@ -55806,11 +55806,11 @@ digraph {
     label="Gessler, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=80
-    num_medias_weighted=0.2112
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-12c5-4d8c-9085-1dab6cc6ee53"
     in_degree=0
-    out_degree=2
+    out_degree=0
   ];
   4651 [
     type=shareholder
@@ -126765,7 +126765,7 @@ digraph {
     num_medias=80
     num_medias_weighted=0.6798
     name="5be1a6b6-beec-4245-a399-8749db1222f9"
-    in_degree=8
+    in_degree=7
     out_degree=4
   ];
   10564 [
@@ -135498,7 +135498,7 @@ digraph {
     label="Schumacher, Lutz"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=80
+    num_medias=0
     num_medias_weighted=0.0000
     name="5f0ee020-8e3a-4a0e-b134-f31320e37732"
     in_degree=0
@@ -136701,7 +136701,7 @@ digraph {
     num_medias=80
     num_medias_weighted=31.9925
     name="5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-    in_degree=24
+    in_degree=22
     out_degree=84
   ];
   11392 [
@@ -150342,11 +150342,11 @@ digraph {
     label="SV Beteiligungs-KG"
     num_owners=70
     num_owners_weighted=20.6098
-    num_medias=80
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ebba3c7-06de-4835-ba97-f6293c3c4244"
     in_degree=2
-    out_degree=1
+    out_degree=0
   ];
   12529 [
     type=shareholder
@@ -233965,14 +233965,6 @@ digraph {
     weight=1
     type=owns
   ];
-  4650 -> 10563 [
-    weight=31.07
-    type=owns
-  ];
-  4650 -> 11391 [
-    weight=6.67
-    type=owns
-  ];
   4651 -> 9091 [
     weight=1
     type=owns
@@ -270235,10 +270227,6 @@ digraph {
   ];
   12525 -> 4696 [
     weight=73.5
-    type=owns
-  ];
-  12528 -> 11391 [
-    weight=1
     type=owns
   ];
   12529 -> 12604 [
