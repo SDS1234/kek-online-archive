@@ -7883,7 +7883,7 @@
     "squuid": "5be1a6b6-01aa-4926-869b-7e89ca45166d",
     "name": "dctp Entwicklungsgesellschaft für TV-Programm mbH",
     "state": "active",
-    "controlDate": "2026-04-20T11:21:27.920Z",
+    "controlDate": "2026-09-02T14:44:30.025Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -187424,6 +187424,19 @@
           "squuid": "5d36fd51-8d1e-4012-8faa-ece5887f06d2",
           "name": "www.auswaertiges-amt.de"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6a983643-8db7-4e9c-89ee-42000b61e9ed",
+    "name": "Erbengemeinschaft Sophie Alexandra Kluge und Leonard Kluge",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
