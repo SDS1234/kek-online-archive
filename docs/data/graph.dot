@@ -256,8 +256,8 @@ digraph {
     type=tv
     state=active
     label="1-2-3.tv"
-    num_owners=6
-    num_owners_weighted=5.4586
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-797c-4a10-a060-78184676eafb"
@@ -268,8 +268,8 @@ digraph {
     type=shareholder
     state=active
     label="1-2-3.tv GmbH"
-    num_owners=5
-    num_owners_weighted=4.4586
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-b308-419c-8320-0944300cfe20"
@@ -172504,8 +172504,8 @@ digraph {
     type=online
     state=active
     label="www.1-2-3.live"
-    num_owners=6
-    num_owners_weighted=5.4586
+    num_owners=2
+    num_owners_weighted=2.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="65a67c85-ff2b-4c23-a04d-59f9bac10d10"
