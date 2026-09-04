@@ -29482,7 +29482,7 @@
     "name": "www.memminger-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:41:44.738Z",
+    "controlDate": "2026-09-04T14:41:46.090Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -32829,7 +32829,7 @@
     "name": "www.allgaeuer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:38:12.828Z",
+    "controlDate": "2026-09-04T14:40:57.504Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -79920,7 +79920,7 @@
     "rfStatewide": false,
     "name": "Allgäuer Anzeigeblatt",
     "type": "print",
-    "controlDate": "2026-04-09T08:31:45.053Z",
+    "controlDate": "2026-09-04T14:39:12.917Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79940,7 +79940,7 @@
     "rfStatewide": false,
     "name": "Memminger Zeitung",
     "type": "print",
-    "controlDate": "2026-04-09T08:36:28.487Z",
+    "controlDate": "2026-09-04T14:40:04.092Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -79964,7 +79964,7 @@
     "rfStatewide": false,
     "name": "Allgäuer Zeitung",
     "type": "print",
-    "controlDate": "2026-04-09T08:35:51.969Z",
+    "controlDate": "2026-09-04T14:39:22.677Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81180,7 +81180,7 @@
     "rfStatewide": false,
     "name": "Der Westallgäuer",
     "type": "print",
-    "controlDate": "2026-05-15T08:11:21.173Z",
+    "controlDate": "2026-09-04T14:39:46.554Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -122559,7 +122559,7 @@
     "name": "www.buchloer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:41:10.785Z",
+    "controlDate": "2026-09-04T14:41:20.741Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -124351,7 +124351,7 @@
     "rfStatewide": false,
     "name": "Buchloer Zeitung",
     "type": "print",
-    "controlDate": "2026-04-09T08:36:03.324Z",
+    "controlDate": "2026-09-04T14:39:31.639Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -124374,7 +124374,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-09T08:37:45.906Z",
+    "controlDate": "2026-09-04T14:40:33.392Z",
     "state": "active"
   },
   {
@@ -129960,7 +129960,7 @@
     "name": "www.westallgaeuer-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T08:11:40.232Z",
+    "controlDate": "2026-09-04T14:41:58.305Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -138726,7 +138726,7 @@
     "name": "allgäuweit",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-09T08:40:29.394Z",
+    "controlDate": "2026-09-04T14:40:20.430Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -144494,7 +144494,7 @@
     "name": "www.allgaeuer-anzeigeblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:38:01.309Z",
+    "controlDate": "2026-09-04T14:40:45.403Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145606,7 +145606,7 @@
     "name": "www.allgaeuweit.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-09T08:40:49.484Z",
+    "controlDate": "2026-09-04T14:41:10.873Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
