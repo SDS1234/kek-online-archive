@@ -4557,7 +4557,7 @@ digraph {
     num_medias=16
     num_medias_weighted=0.8652
     name="5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
-    in_degree=4
+    in_degree=5
     out_degree=2
   ];
   380 [
@@ -5634,8 +5634,8 @@ digraph {
     label="Amundi Asset Management"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=6
-    num_medias_weighted=0.0387
+    num_medias=19
+    num_medias_weighted=0.0597
     name="66866ac1-82bc-49af-ba7b-8fb1c46ff75a"
     in_degree=0
     out_degree=3
@@ -6628,8 +6628,8 @@ digraph {
     type=radio
     state=active
     label="antenne OSTALGIE"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="68501644-a7af-4705-9d4a-98e6f641abec"
@@ -6748,8 +6748,8 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-5328-405a-961d-0a01341a1198"
@@ -6760,8 +6760,8 @@ digraph {
     type=radio
     state=active
     label="ANTENNE THÜRINGEN Classics"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="6850126c-41e1-4321-852c-fda3478ca614"
@@ -6772,7 +6772,7 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen GmbH & Co. KG"
-    num_owners=402
+    num_owners=403
     num_owners_weighted=26.0121
     num_medias=8
     num_medias_weighted=8.0000
@@ -6784,8 +6784,8 @@ digraph {
     type=shareholder
     state=active
     label="Antenne Thüringen Verwaltungs-GmbH"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=8
     num_medias_weighted=0.0000
     name="5f1e961b-d252-417c-b597-1153ee73c985"
@@ -34684,8 +34684,8 @@ digraph {
     type=radio
     state=active
     label=Dorfkindradio
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="685137f0-a9ac-4e40-8122-7bb9973f7f97"
@@ -115257,7 +115257,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.1596
     name="5be1a6b6-f4dc-408b-8b70-0589d25a76c7"
-    in_degree=6
+    in_degree=5
     out_degree=1
   ];
   9605 [
@@ -121180,8 +121180,8 @@ digraph {
     type=radio
     state=active
     label="radio TOP 40"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-e268-4ce8-82d8-7c7055d49b91"
@@ -174280,8 +174280,8 @@ digraph {
     type=online
     state=active
     label="www.antennethueringen.de"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="5f1e950a-d42a-4408-ac71-12c6df3ef884"
@@ -180508,8 +180508,8 @@ digraph {
     type=online
     state=active
     label="www.dorfkindradio.de"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="69d79d85-4196-4747-b5e6-4106922db597"
@@ -199360,8 +199360,8 @@ digraph {
     type=online
     state=active
     label="www.radiotop40.de"
-    num_owners=402
-    num_owners_weighted=30.0121
+    num_owners=403
+    num_owners_weighted=31.0121
     num_medias=0
     num_medias_weighted=0.0000
     name="5f29630a-c8da-4be2-94d8-dc2357346803"
@@ -214829,16 +214829,16 @@ digraph {
     weight=100
     type=operates
   ];
+  469 -> 379 [
+    weight=2.99
+    type=owns
+  ];
   469 -> 1035 [
     weight=2.97
     type=owns
   ];
   469 -> 2516 [
     weight=3.03
-    type=owns
-  ];
-  469 -> 9604 [
-    weight=3
     type=owns
   ];
   470 -> 2513 [
