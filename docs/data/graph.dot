@@ -8308,8 +8308,8 @@ digraph {
     type=shareholder
     state=active
     label="Attenkofer GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=255
     num_medias_weighted=0.0339
     name="69e20910-73f2-4102-8181-7458ab31f0a2"
