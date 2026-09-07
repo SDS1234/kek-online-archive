@@ -31405,31 +31405,9 @@
     "controlDate": "2026-04-15T12:16:12.017Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -93650,37 +93628,9 @@
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -97487,37 +97437,9 @@
     "controlDate": "2026-06-02T10:33:39.806Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -147788,31 +147710,14 @@
     "controlDate": "2026-06-14T09:57:35.700Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       },
       {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -218030,31 +217935,14 @@
     "controlDate": "2026-04-30T13:50:16.253Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       },
       {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ],
@@ -218564,31 +218452,14 @@
     "controlDate": "2026-08-07T13:09:18.586Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       },
       {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ],
@@ -219117,37 +218988,9 @@
     "controlDate": "2019-07-10T13:08:47.356Z",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
         "name": "GGS",
         "fullName": "Gemeinsame Geschaeftsstelle",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
         "type": "organization"
       }
     ]
@@ -305994,31 +305837,14 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
-        "name": "KEK",
-        "type": "organization"
-      },
-      {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
         "type": "organization"
       },
       {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-        "name": "MA HSH",
-        "fullName": "Medienanstalt Hamburg/Schleswig-Holstein",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
-        "name": "NLM",
-        "fullName": "Niedersächsische Landesmedienanstalt",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
