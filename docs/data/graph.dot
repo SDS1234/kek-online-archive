@@ -16746,22 +16746,22 @@ digraph {
     label="Bit2Byte Entertainment UG (haftungsbeschränkt)"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd3fdb6-66aa-44fe-a91c-2562a34b1e9d"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   1396 [
     type=tv
-    state=active
+    state=archived
     label=bit2byteTV
-    num_owners=2
-    num_owners_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5fd3fe05-6b01-44b0-baba-17e0c3647814"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   1397 [
@@ -20166,11 +20166,11 @@ digraph {
     label="Breu & Schneider GmbH"
     num_owners=40
     num_owners_weighted=9.0473
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="62a8a3cd-dc67-4499-b14b-6ec50aa13239"
     in_degree=1
-    out_degree=1
+    out_degree=0
   ];
   1681 [
     type=shareholder
@@ -38850,11 +38850,11 @@ digraph {
     label="Eigenbesitz der Beans Entertainment GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.4000
     name="6aabab2d-e776-424b-8e2b-cec8b424381b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3238 [
     type=shareholder
@@ -81138,11 +81138,11 @@ digraph {
     label="Krätschmer, Simon"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.4000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-37ed-4626-bd1e-2544d263a908"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   6762 [
     type=shareholder
@@ -95538,11 +95538,11 @@ digraph {
     label="Merkur tz Redaktions GmbH & Co. KG"
     num_owners=42
     num_owners_weighted=4.7031
-    num_medias=34
-    num_medias_weighted=2.0000
+    num_medias=35
+    num_medias_weighted=3.0000
     name="5be1a6b6-2335-4d4b-ada5-63324533b0b7"
     in_degree=7
-    out_degree=5
+    out_degree=6
   ];
   7962 [
     type=shareholder
@@ -95550,7 +95550,7 @@ digraph {
     label="Merkur tz Verwaltungs GmbH"
     num_owners=42
     num_owners_weighted=4.4791
-    num_medias=34
+    num_medias=35
     num_medias_weighted=0.0000
     name="5ee39096-089c-4568-8f6c-f935e340081a"
     in_degree=6
@@ -147066,8 +147066,8 @@ digraph {
     label="Stoll, Julian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5fd3fddd-7395-4966-9fa9-74e34d884d3b"
     in_degree=0
     out_degree=1
@@ -186076,8 +186076,8 @@ digraph {
     type=online
     state=active
     label="www.hallo-muenchen.de"
-    num_owners=81
-    num_owners_weighted=11.7491
+    num_owners=82
+    num_owners_weighted=12.7491
     num_medias=0
     num_medias_weighted=0.0000
     name="62a8a3e1-0f4a-418d-8608-52844b5852ca"
@@ -219201,10 +219201,6 @@ digraph {
     weight=71
     type=owns
   ];
-  1395 -> 1396 [
-    weight=100
-    type=operates
-  ];
   1397 -> 2054 [
     weight=1
     type=owns
@@ -220652,10 +220648,6 @@ digraph {
   1676 -> 10762 [
     weight=100
     type=owns
-  ];
-  1680 -> 15506 [
-    weight=100
-    type=operates
   ];
   1681 -> 10121 [
     weight=1
@@ -227855,6 +227847,10 @@ digraph {
   ];
   3236 -> 1057 [
     weight=1
+    type=owns
+  ];
+  3237 -> 1083 [
+    weight=20
     type=owns
   ];
   3238 -> 1286 [
@@ -243105,10 +243101,6 @@ digraph {
     weight=4
     type=owns
   ];
-  6761 -> 1083 [
-    weight=20
-    type=owns
-  ];
   6764 -> 2972 [
     weight=2.7
     type=owns
@@ -247830,6 +247822,10 @@ digraph {
     type=owns
   ];
   7961 -> 13157 [
+    weight=100
+    type=operates
+  ];
+  7961 -> 15506 [
     weight=100
     type=operates
   ];
