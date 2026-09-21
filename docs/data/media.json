@@ -5072,7 +5072,7 @@
     ]
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-43dd-4120-a315-e7e8ea331234",
     "organization": {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -49893,10 +49893,10 @@
       "state": "active"
     },
     "rfSupervisingAuthority": {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -76853,7 +76853,7 @@
     ]
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5ce2d78b-b828-425b-a60f-97fa55afc658",
     "organization": {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -114667,10 +114667,10 @@
       "state": "active"
     },
     "rfSupervisingAuthority": {
-      "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
-      "name": "MA HSH",
+      "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
+      "name": "BLM",
       "type": "organization",
-      "fullName": "Medienanstalt Hamburg/Schleswig-Holstein"
+      "fullName": "Bayerische Landeszentrale für neue Medien"
     },
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
