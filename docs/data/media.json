@@ -17509,7 +17509,7 @@
     "rfStatewide": false,
     "name": "VivArt (Frankfurt)",
     "type": "print",
-    "controlDate": "2026-04-17T08:41:29.377Z",
+    "controlDate": "2026-09-25T12:19:51.482Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17557,7 +17557,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-17T08:42:01.328Z",
+    "controlDate": "2026-09-25T12:20:18.834Z",
     "state": "active"
   },
   {
@@ -17668,7 +17668,7 @@
     "rfStatewide": false,
     "name": "Wohnen - Ideen für Ihr Zuhause",
     "type": "print",
-    "controlDate": "2026-04-16T10:06:09.629Z",
+    "controlDate": "2026-09-25T10:05:21.254Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -17692,7 +17692,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T10:06:18.248Z",
+    "controlDate": "2026-09-25T10:05:30.194Z",
     "state": "active"
   },
   {
@@ -19601,7 +19601,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T12:25:16.781Z",
+    "controlDate": "2026-09-25T10:37:21.092Z",
     "state": "active"
   },
   {
@@ -24779,7 +24779,7 @@
     "name": "CATO ",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T12:29:23.547Z",
+    "controlDate": "2026-09-25T10:44:09.991Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -42703,7 +42703,7 @@
     "name": "www.sparwelt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T13:40:07.997Z",
+    "controlDate": "2026-09-25T11:37:12.928Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -81322,7 +81322,7 @@
     "rfStatewide": false,
     "name": "Cellesche Zeitung",
     "type": "print",
-    "controlDate": "2026-04-16T13:21:23.573Z",
+    "controlDate": "2026-09-25T10:54:46.212Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -81345,7 +81345,7 @@
     "rfStatewide": false,
     "name": "Freie Presse",
     "type": "print",
-    "controlDate": "2026-04-16T13:50:41.775Z",
+    "controlDate": "2026-09-25T11:43:12.158Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -87628,7 +87628,7 @@
     "name": "Wirtschaft in Bremen und Bremerhaven",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T10:13:08.937Z",
+    "controlDate": "2026-09-25T10:10:01.976Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -92048,7 +92048,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:45:28.082Z",
+    "controlDate": "2026-09-25T11:39:52.458Z",
     "state": "active"
   },
   {
@@ -95161,7 +95161,7 @@
     "rfStatewide": false,
     "name": "Academia",
     "type": "print",
-    "controlDate": "2026-04-16T12:23:48.646Z",
+    "controlDate": "2026-09-25T10:35:40.730Z",
     "pressKind": "sonstige",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -99741,7 +99741,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:45:05.067Z",
+    "controlDate": "2026-09-25T11:38:29.288Z",
     "state": "active"
   },
   {
@@ -101126,7 +101126,7 @@
     "rfStatewide": false,
     "name": "chilli - Das Freiburger Stadtmagazin",
     "type": "print",
-    "controlDate": "2026-04-16T13:59:47.388Z",
+    "controlDate": "2026-09-25T11:48:57.721Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101209,7 +101209,7 @@
     "rfStatewide": false,
     "name": "VivArt (Mainz)",
     "type": "print",
-    "controlDate": "2026-04-17T08:41:48.448Z",
+    "controlDate": "2026-09-25T12:20:05.057Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -101230,7 +101230,7 @@
     "rfStatewide": false,
     "name": "VivArt (Wiesbaden)",
     "type": "print",
-    "controlDate": "2026-04-17T08:41:55.703Z",
+    "controlDate": "2026-09-25T12:20:11.705Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104498,7 +104498,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:45:18.141Z",
+    "controlDate": "2026-09-25T11:39:43.286Z",
     "state": "active"
   },
   {
@@ -107856,7 +107856,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:08:14.115Z",
+    "controlDate": "2026-09-25T10:51:14.194Z",
     "state": "active"
   },
   {
@@ -114420,7 +114420,7 @@
     "rfStatewide": false,
     "name": "Cash",
     "type": "print",
-    "controlDate": "2026-04-16T12:25:09.378Z",
+    "controlDate": "2026-09-25T10:37:15.715Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -117374,7 +117374,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T14:00:10.746Z",
+    "controlDate": "2026-09-25T11:49:16.456Z",
     "state": "active"
   },
   {
@@ -119496,7 +119496,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:50:48.382Z",
+    "controlDate": "2026-09-25T11:43:20.221Z",
     "state": "active"
   },
   {
@@ -119700,7 +119700,7 @@
     "name": "www.christlichesradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T14:04:15.789Z",
+    "controlDate": "2026-09-25T12:08:28.776Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122982,7 +122982,7 @@
     "name": "CZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T13:21:11.703Z",
+    "controlDate": "2026-09-25T10:54:30.935Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -124051,7 +124051,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-16T13:21:36.025Z",
+    "controlDate": "2026-09-25T10:54:54.551Z",
     "state": "active"
   },
   {
@@ -126430,7 +126430,7 @@
     "name": "www.antennepulheim.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T13:25:56.507Z",
+    "controlDate": "2026-09-25T11:23:37.144Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -134824,7 +134824,7 @@
     "state": "archived"
   },
   {
-    "state": "active",
+    "state": "archived",
     "squuid": "5f05daa6-a07a-411e-837b-581c37372e13",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -134834,7 +134834,7 @@
     "name": "www.channel21.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T13:34:47.674Z",
+    "controlDate": "2026-09-25T11:27:22.541Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137701,7 +137701,7 @@
     "name": "VivArt (Limburg)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-17T08:41:40.729Z",
+    "controlDate": "2026-09-25T12:19:58.233Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145154,7 +145154,7 @@
     "name": "www.duesseldorfer-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-17T08:48:46.030Z",
+    "controlDate": "2026-09-25T12:24:27.313Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145556,7 +145556,7 @@
     "name": "www.cnet.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T12:36:45.058Z",
+    "controlDate": "2026-09-25T10:46:20.780Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -147171,7 +147171,7 @@
     "name": "www.cnn.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T10:08:09.951Z",
+    "controlDate": "2026-09-25T10:06:16.750Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153073,7 +153073,7 @@
     "name": "www.cato-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-16T12:29:29.952Z",
+    "controlDate": "2026-09-25T10:44:19.398Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153836,7 +153836,7 @@
     "name": "4family",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T13:59:17.543Z",
+    "controlDate": "2026-09-25T11:48:30.306Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154163,7 +154163,7 @@
     "name": "bib business im Breisgau",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T13:59:37.940Z",
+    "controlDate": "2026-09-25T11:48:48.971Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -154439,7 +154439,7 @@
     "name": "f79",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T14:00:02.526Z",
+    "controlDate": "2026-09-25T11:49:09.973Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161573,7 +161573,7 @@
     "name": "www.lokal-anzeiger-erkrath.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-17T08:48:53.333Z",
+    "controlDate": "2026-09-25T12:24:34.202Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161621,7 +161621,7 @@
     "name": "www.schaufenster-mettmann.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-17T08:48:59.750Z",
+    "controlDate": "2026-09-25T12:24:42.280Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164471,7 +164471,7 @@
     "name": "Lust auf Regio",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-16T13:59:29.061Z",
+    "controlDate": "2026-09-25T11:48:38.897Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

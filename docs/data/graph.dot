@@ -4663,7 +4663,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=72
-    num_medias_weighted=4.1841
+    num_medias_weighted=2.1773
     name="5be1a6b6-8ebb-4c1e-96ca-05376756f8bf"
     in_degree=0
     out_degree=1
@@ -13554,8 +13554,8 @@ digraph {
     label="Beier, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.3860
+    num_medias=1
+    num_medias_weighted=0.1930
     name="664dd454-4ef4-40ce-b53d-bf892a9fe752"
     in_degree=0
     out_degree=1
@@ -13566,8 +13566,8 @@ digraph {
     label="Beier, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.0140
+    num_medias=1
+    num_medias_weighted=0.0070
     name="664dd467-7ddf-4482-9b3b-8fcdd0fdbad8"
     in_degree=0
     out_degree=1
@@ -13578,8 +13578,8 @@ digraph {
     label="Beier, Wilhelm"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=1.6000
+    num_medias=1
+    num_medias_weighted=0.8000
     name="5f05dc53-68a7-42a8-8e59-30fd1b7d6f02"
     in_degree=0
     out_degree=2
@@ -23491,7 +23491,7 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=72
-    num_medias_weighted=4.1841
+    num_medias_weighted=2.1773
     name="5be1a6b6-a8bb-4854-9f84-2774a3ff8537"
     in_degree=1
     out_degree=2
@@ -23524,8 +23524,8 @@ digraph {
     type=shareholder
     state=active
     label="C3 Creative Code and Content GmbH"
-    num_owners=9
-    num_owners_weighted=6.5500
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-49b7-431d-8381-98e6c434e0c6"
@@ -23826,8 +23826,8 @@ digraph {
     label="Capital Group Companies, Inc."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=20
-    num_medias_weighted=0.0305
+    num_medias=3
+    num_medias_weighted=0.0294
     name="5be1a6b6-7007-41df-ab4e-ed7f52e8f110"
     in_degree=0
     out_degree=2
@@ -23980,8 +23980,8 @@ digraph {
     type=shareholder
     state=active
     label="Carl Zeiss-Siedlung GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=1
+    num_owners_weighted=1.0000
     num_medias=2
     num_medias_weighted=0.5200
     name="6a2aa194-29fc-4ae6-b1d8-d1b245361041"
@@ -24544,8 +24544,8 @@ digraph {
     type=tv
     state=active
     label=CHANNEL21
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=6
+    num_owners_weighted=6.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-7405-4636-a0f9-94dfba68256f"
@@ -24556,22 +24556,22 @@ digraph {
     type=shareholder
     state=active
     label="Channel21 GmbH"
-    num_owners=4
-    num_owners_weighted=4.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=5
+    num_owners_weighted=5.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-2303-4669-b8b2-97959a28316b"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   2047 [
     type=shareholder
     state=active
     label="Channel21 Holding AG"
-    num_owners=3
-    num_owners_weighted=3.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=4
+    num_owners_weighted=4.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5be1a6b6-72e2-41db-a450-66b439cab218"
     in_degree=1
     out_degree=1
@@ -30052,8 +30052,8 @@ digraph {
     type=shareholder
     state=active
     label="Dermapharm AG (CH)"
-    num_owners=6
-    num_owners_weighted=5.5010
+    num_owners=7
+    num_owners_weighted=6.2515
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-fff4-4045-9de2-15f87009a5f7"
@@ -30064,8 +30064,8 @@ digraph {
     type=shareholder
     state=active
     label="Dermapharm AG (D)"
-    num_owners=5
-    num_owners_weighted=4.5010
+    num_owners=6
+    num_owners_weighted=5.2515
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-bc1e-4a79-aa1c-126f3748874d"
@@ -30076,8 +30076,8 @@ digraph {
     type=shareholder
     state=active
     label="Dermapharm Holding SE"
-    num_owners=4
-    num_owners_weighted=3.5010
+    num_owners=5
+    num_owners_weighted=4.2515
     num_medias=0
     num_medias_weighted=0.0000
     name="5f05dfa8-5d0b-4332-baf9-4360a7072088"
@@ -30261,7 +30261,7 @@ digraph {
     num_medias=19
     num_medias_weighted=0.0239
     name="5f1019f9-0cec-4117-9db6-06777350ca73"
-    in_degree=5
+    in_degree=4
     out_degree=1
   ];
   2522 [
@@ -30393,7 +30393,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0023
     name="5d302baf-273a-47b2-a322-944d8e9b680a"
-    in_degree=3
+    in_degree=4
     out_degree=1
   ];
   2533 [
@@ -154456,10 +154456,10 @@ digraph {
     type=shareholder
     state=active
     label="Themis Beteiligungs-Aktiengesellschaft"
-    num_owners=2
-    num_owners_weighted=2.0000
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=3
+    num_owners_weighted=3.0000
+    num_medias=1
+    num_medias_weighted=1.0000
     name="5f0d8c37-535b-499d-b507-6276b2cc126d"
     in_degree=3
     out_degree=2
@@ -171568,8 +171568,8 @@ digraph {
     type=print
     state=active
     label="Wohnen - Ideen für Ihr Zuhause"
-    num_owners=10
-    num_owners_weighted=7.5500
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-6db3-45e8-a683-aafa1e725357"
@@ -172480,8 +172480,8 @@ digraph {
     type=shareholder
     state=active
     label="wunder media production GmbH"
-    num_owners=10
-    num_owners_weighted=7.5500
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5d2f36d3-af56-4946-b7f8-fc874a572068"
@@ -178142,14 +178142,14 @@ digraph {
   ];
   14845 [
     type=online
-    state=active
+    state=archived
     label="www.channel21.de"
-    num_owners=5
-    num_owners_weighted=5.0000
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5f05daa6-a07a-411e-837b-581c37372e13"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   14846 [
@@ -209848,8 +209848,8 @@ digraph {
     type=online
     state=active
     label="www.wohnen-magazin.de"
-    num_owners=10
-    num_owners_weighted=7.5500
+    num_owners=7
+    num_owners_weighted=7.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-388f-4eb3-bbb0-0be54bc328ba"
@@ -222214,7 +222214,7 @@ digraph {
     type=owns
   ];
   1957 -> 7824 [
-    weight=100
+    weight=49.99
     type=owns
   ];
   1959 -> 1949 [
@@ -222293,8 +222293,8 @@ digraph {
     weight=2.93
     type=owns
   ];
-  1985 -> 2521 [
-    weight=4.94
+  1985 -> 2532 [
+    weight=3.08
     type=owns
   ];
   1989 -> 2023 [
@@ -222562,10 +222562,6 @@ digraph {
     type=owns
   ];
   2046 -> 2045 [
-    weight=100
-    type=operates
-  ];
-  2046 -> 14845 [
     weight=100
     type=operates
   ];
