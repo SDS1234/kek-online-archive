@@ -126712,8 +126712,8 @@ digraph {
     type=tv
     state=active
     label=RNF
-    num_owners=0
-    num_owners_weighted=0.0000
+    num_owners=3
+    num_owners_weighted=3.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-71f2-4ba1-b193-40d1a4b6e384"
