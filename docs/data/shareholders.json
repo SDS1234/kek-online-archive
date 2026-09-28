@@ -35352,7 +35352,7 @@
     "squuid": "5be1a6b6-723a-429a-92b5-241c35519a4b",
     "name": "Custody Bank of Japan Ltd.",
     "state": "active",
-    "controlDate": "2025-10-14T10:14:19.142Z",
+    "controlDate": "2026-09-28T16:01:30.344Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -73821,7 +73821,7 @@
     "name": "Cuxhaven-Niederelbe Verlagsgesellschaft mbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-0305-4c47-ae46-3873acf5172c",
-    "controlDate": "2026-04-20T10:56:27.217Z",
+    "controlDate": "2026-09-28T16:03:51.069Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -89284,7 +89284,7 @@
     "squuid": "5be1a6b6-d44e-4c7c-ba1f-6f201ffbd269",
     "name": "CTOB Heinrich GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-04-20T10:40:46.155Z",
+    "controlDate": "2026-09-28T15:54:12.822Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -146400,7 +146400,7 @@
     "squuid": "698b5e29-2723-434b-9515-bcc48b9a710b",
     "name": "D. Schwarz Beteiligungs-KG",
     "state": "active",
-    "controlDate": "2026-04-20T11:00:50.479Z",
+    "controlDate": "2026-09-28T16:18:42.754Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -164342,24 +164342,14 @@
   {
     "squuid": "5d2f433a-f586-4f9b-bc71-121396dfa794",
     "name": "CyberLink Corp.",
-    "state": "active",
-    "controlDate": "2026-04-20T11:00:01.254Z",
+    "state": "archived",
+    "controlDate": "2026-09-28T16:09:33.321Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5d2f437e-122a-4918-a982-72bfcf351139",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5d2f434a-ded4-4a08-b5d2-83c6847b8ad7",
-          "name": "www.moovielive.com"
-        }
       }
     ]
   },
@@ -180514,7 +180504,7 @@
     "squuid": "5ebd4e0e-db42-4f9b-bc32-aa0e27a4e579",
     "name": "Cuxhaven-Niederelbe Verlagsverwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-04-20T10:55:13.851Z",
+    "controlDate": "2026-09-28T16:03:02.593Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -188259,7 +188249,7 @@
     "squuid": "615aeb35-57f5-4517-a5d0-249be72f0e5b",
     "name": "Curiosity Inc.",
     "state": "active",
-    "controlDate": "2025-05-05T14:42:06.249Z",
+    "controlDate": "2026-09-28T15:58:24.785Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -188283,7 +188273,7 @@
     "squuid": "615aeb60-13c9-4149-9d23-35bb3ae1d11f",
     "name": "CuriosityStream Inc.",
     "state": "active",
-    "controlDate": "2026-04-20T10:52:08.259Z",
+    "controlDate": "2026-09-28T15:58:45.311Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -188563,7 +188553,7 @@
     "squuid": "5ecfcac0-9a0d-49c1-97e0-10eed687b097",
     "name": "CTOB Heinrich Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-04-20T10:40:19.198Z",
+    "controlDate": "2026-09-28T15:53:56.260Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194812,7 +194802,7 @@
     "squuid": "676154df-ec5a-4268-972f-0cde301be5bd",
     "name": "CUS Holding GmbH",
     "state": "active",
-    "controlDate": "2026-04-20T10:53:18.032Z",
+    "controlDate": "2026-09-28T16:01:08.900Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -254307,7 +254297,7 @@
     "squuid": "5be1a6b6-691f-4626-96d6-143326863500",
     "name": "CTP.BIZ GmbH",
     "state": "active",
-    "controlDate": "2026-04-20T10:48:52.602Z",
+    "controlDate": "2026-09-28T15:55:47.242Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",

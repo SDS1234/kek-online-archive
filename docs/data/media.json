@@ -71720,7 +71720,7 @@
     "rfStatewide": false,
     "name": "der helgoländer",
     "type": "print",
-    "controlDate": "2026-04-20T10:57:33.399Z",
+    "controlDate": "2026-09-28T16:04:41.289Z",
     "pressKind": "Regional",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -71741,7 +71741,7 @@
     "rfStatewide": false,
     "name": "Cuxhavener Nachrichten",
     "type": "print",
-    "controlDate": "2026-04-20T10:57:18.319Z",
+    "controlDate": "2026-09-28T16:04:16.512Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -71761,7 +71761,7 @@
     "rfStatewide": false,
     "name": "Niederelbe-Zeitung",
     "type": "print",
-    "controlDate": "2026-04-20T10:57:26.167Z",
+    "controlDate": "2026-09-28T16:04:27.478Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -78918,7 +78918,7 @@
     "matchedNames": [
       "moovielive.com"
     ],
-    "state": "active",
+    "state": "archived",
     "squuid": "5d2f434a-ded4-4a08-b5d2-83c6847b8ad7",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -78928,7 +78928,7 @@
     "name": "www.moovielive.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-20T11:00:06.780Z",
+    "controlDate": "2026-09-28T16:09:48.495Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -122203,7 +122203,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-20T10:57:41.388Z",
+    "controlDate": "2026-09-28T16:04:51.278Z",
     "state": "active"
   },
   {
@@ -157955,7 +157955,7 @@
     "name": "Cux Journal",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-20T10:57:09.627Z",
+    "controlDate": "2026-09-28T16:04:01.867Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
