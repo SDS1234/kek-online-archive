@@ -19675,7 +19675,7 @@
     "rfStatewide": false,
     "name": "Mein schönes Blatt",
     "type": "print",
-    "controlDate": "2026-04-21T09:48:28.026Z",
+    "controlDate": "2026-10-01T14:08:12.098Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19696,7 +19696,7 @@
     "rfStatewide": false,
     "name": "Meine Woche",
     "type": "print",
-    "controlDate": "2026-04-21T09:48:36.834Z",
+    "controlDate": "2026-10-01T14:08:31.218Z",
     "pressKind": "Frauen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -26870,7 +26870,7 @@
     "name": "Woche aktuell",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-21T09:49:30.223Z",
+    "controlDate": "2026-10-01T14:09:27.721Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -35383,7 +35383,7 @@
     "name": "Beste Woche",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-21T09:47:41.035Z",
+    "controlDate": "2026-10-01T14:07:31.992Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -43616,7 +43616,7 @@
     "name": "Adel privat",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-21T09:47:28.036Z",
+    "controlDate": "2026-10-01T14:07:24.370Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -105699,7 +105699,7 @@
     "rfStatewide": false,
     "name": "Freizeit direkt",
     "type": "print",
-    "controlDate": "2026-04-21T09:47:48.384Z",
+    "controlDate": "2026-10-01T14:07:41.858Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105744,7 +105744,7 @@
     "rfStatewide": false,
     "name": "Freizeit pur",
     "type": "print",
-    "controlDate": "2026-04-21T09:48:02.363Z",
+    "controlDate": "2026-10-01T14:08:01.803Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105765,7 +105765,7 @@
     "rfStatewide": false,
     "name": "Neue Freizeit",
     "type": "print",
-    "controlDate": "2026-04-21T09:49:03.533Z",
+    "controlDate": "2026-10-01T14:08:46.530Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105830,7 +105830,7 @@
     "rfStatewide": false,
     "name": "neue Pause",
     "type": "print",
-    "controlDate": "2026-04-21T09:49:42.590Z",
+    "controlDate": "2026-10-01T14:09:46.353Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105851,7 +105851,7 @@
     "rfStatewide": false,
     "name": "neues für die Frau",
     "type": "print",
-    "controlDate": "2026-04-21T09:49:51.550Z",
+    "controlDate": "2026-10-01T14:10:00.133Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -105872,7 +105872,7 @@
     "rfStatewide": false,
     "name": "Revue der Woche",
     "type": "print",
-    "controlDate": "2026-04-21T09:49:18.714Z",
+    "controlDate": "2026-10-01T14:09:10.931Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -128476,7 +128476,7 @@
     "name": "Freizeit extra",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-04-21T09:47:55.902Z",
+    "controlDate": "2026-10-01T14:07:51.760Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
