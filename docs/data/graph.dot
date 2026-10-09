@@ -17128,9 +17128,9 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart GmbH"
-    num_owners=6
-    num_owners_weighted=5.3333
-    num_medias=3
+    num_owners=7
+    num_owners_weighted=5.6666
+    num_medias=0
     num_medias_weighted=0.0000
     name="696f7577-021a-453d-8e11-c0dc8b403750"
     in_degree=1
@@ -17140,9 +17140,9 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart Group Beteiligungs GmbH"
-    num_owners=5
-    num_owners_weighted=4.3333
-    num_medias=3
+    num_owners=6
+    num_owners_weighted=4.6666
+    num_medias=0
     num_medias_weighted=0.0000
     name="698b6861-01fa-4f95-846e-5863789e77fe"
     in_degree=4
@@ -17152,9 +17152,9 @@ digraph {
     type=shareholder
     state=active
     label="Blitzstart Gründungs SE"
-    num_owners=7
-    num_owners_weighted=6.3333
-    num_medias=3
+    num_owners=8
+    num_owners_weighted=6.6666
+    num_medias=0
     num_medias_weighted=0.0000
     name="695b9ba8-6461-4a61-8ca7-d34ff631ef52"
     in_degree=1
@@ -23334,8 +23334,8 @@ digraph {
     label="Bütting, Hermann"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d3d6-cf5d-4a54-a8b1-765c1abe9725"
     in_degree=0
     out_degree=1
@@ -27006,7 +27006,7 @@ digraph {
     label="CR Equity Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="69a94771-f618-43be-99f7-ec1110e705f8"
     in_degree=1
@@ -27210,8 +27210,8 @@ digraph {
     label="crossventures GmbH"
     num_owners=14
     num_owners_weighted=4.3999
-    num_medias=3
-    num_medias_weighted=0.0011
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69259a5b-0699-4c53-984c-7c79781b93e0"
     in_degree=3
     out_degree=2
@@ -32598,8 +32598,8 @@ digraph {
     label="Dieter von Holtzbrinck Stiftung GmbH"
     num_owners=5
     num_owners_weighted=5.0000
-    num_medias=47
-    num_medias_weighted=9.6638
+    num_medias=44
+    num_medias_weighted=9.6631
     name="5be1a6b6-7982-4f28-8639-7bf2b4c8bf7a"
     in_degree=5
     out_degree=1
@@ -32610,8 +32610,8 @@ digraph {
     label="Dieter von Holtzbrinck Ventures Fonds III GmbH"
     num_owners=24
     num_owners_weighted=10.4481
-    num_medias=3
-    num_medias_weighted=0.0020
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1e58-9e70-4736-aafb-5b6591f345bc"
     in_degree=8
     out_degree=1
@@ -32622,8 +32622,8 @@ digraph {
     label="Dieter von Holtzbrinck Ventures GmbH"
     num_owners=15
     num_owners_weighted=7.1292
-    num_medias=3
-    num_medias_weighted=0.0038
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1e6f-ae69-42fc-97f1-d3ec44e8ee4b"
     in_degree=3
     out_degree=2
@@ -32634,8 +32634,8 @@ digraph {
     label="Dieter von Holtzbrinck Vermögensverwaltung GmbH"
     num_owners=8
     num_owners_weighted=5.3320
-    num_medias=3
-    num_medias_weighted=0.0023
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69259acb-e9a5-4a04-9040-0e7edfc9a5b2"
     in_degree=1
     out_degree=2
@@ -38550,8 +38550,8 @@ digraph {
     label="EIC Fund"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0080
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1ecc-0d37-4dd7-84a8-417756a52d06"
     in_degree=0
     out_degree=1
@@ -41728,13 +41728,13 @@ digraph {
     type=shareholder
     state=active
     label="Enote GmbH"
-    num_owners=41
+    num_owners=42
     num_owners_weighted=7.6743
-    num_medias=3
-    num_medias_weighted=0.0648
+    num_medias=0
+    num_medias_weighted=0.0000
     name="68f7447f-44e3-4079-9be8-cd1a17df8d58"
     in_degree=7
-    out_degree=1
+    out_degree=0
   ];
   3478 [
     type=radio
@@ -42760,12 +42760,12 @@ digraph {
     type=shareholder
     state=active
     label="ern Media GmbH"
-    num_owners=58
+    num_owners=59
     num_owners_weighted=13.3372
     num_medias=3
     num_medias_weighted=0.1296
     name="5cadbf24-e92f-4bca-815c-78be20d8f5b8"
-    in_degree=2
+    in_degree=1
     out_degree=1
   ];
   3564 [
@@ -44838,8 +44838,8 @@ digraph {
     label="Evans, Daniel James"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0021
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1de8-4964-49cb-9e91-8733543855c5"
     in_degree=0
     out_degree=1
@@ -51606,8 +51606,8 @@ digraph {
     label="Fuchs, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0003
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d33d-2545-4180-b6d9-c0319f2aeb9e"
     in_degree=0
     out_degree=1
@@ -55290,8 +55290,8 @@ digraph {
     label="Georg Dieter von Holtzbrinck Familiengesellschaft GbR"
     num_owners=7
     num_owners_weighted=4.3320
-    num_medias=47
-    num_medias_weighted=29.0205
+    num_medias=44
+    num_medias_weighted=29.0182
     name="5be1a6b6-ba9c-402b-8773-5f4c91dcf54b"
     in_degree=3
     out_degree=2
@@ -57870,8 +57870,8 @@ digraph {
     label="Grabner, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=1.9328
+    num_medias=44
+    num_medias_weighted=1.9326
     name="634572a4-3675-455d-bc44-4ef91241b53f"
     in_degree=0
     out_degree=1
@@ -60522,7 +60522,7 @@ digraph {
     label="HAHN Beteiligungsholding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="6925d315-8b0a-4f53-ab65-2bf3b669d95f"
     in_degree=1
@@ -60546,7 +60546,7 @@ digraph {
     label="HAHN-Immobilien-Beteiligungs AG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="6939699a-f33a-441d-a9b0-6264dfcfe4d1"
     in_degree=0
@@ -69618,8 +69618,8 @@ digraph {
     label="Hühnerbein, Margarete"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0005
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d3b9-2af7-4092-bdee-c76c51fd5903"
     in_degree=0
     out_degree=1
@@ -71980,9 +71980,9 @@ digraph {
     type=shareholder
     state=active
     label="J J Beteiligungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=3
+    num_owners=1
+    num_owners_weighted=1.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="69a9474a-df77-48a0-91a2-0c5f05582d16"
     in_degree=1
@@ -76278,7 +76278,7 @@ digraph {
     label="Kerscher, Martin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="69c3c9be-abb6-48b8-83f6-caa14e2b304d"
     in_degree=0
@@ -87318,8 +87318,8 @@ digraph {
     label="Loh, Matthias"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d3f8-61ac-4346-b01b-431b3f3469c9"
     in_degree=0
     out_degree=1
@@ -88194,7 +88194,7 @@ digraph {
     label="Lotz, Dr. Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="69c3c676-b2b5-430b-bb6c-7a23cbbe434d"
     in_degree=0
@@ -96606,8 +96606,8 @@ digraph {
     label="Michael Grabner Media GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0004
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69259a6c-f690-4001-bfec-6552d554bdce"
     in_degree=0
     out_degree=1
@@ -96630,8 +96630,8 @@ digraph {
     label="Michael, Annemarie"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0002
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d363-93ba-483d-b016-0af38f926576"
     in_degree=0
     out_degree=1
@@ -100986,8 +100986,8 @@ digraph {
     label="Müller-Michael, Monika"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d395-e150-4a0b-b77a-f70adf8a3488"
     in_degree=0
     out_degree=1
@@ -114820,12 +114820,12 @@ digraph {
     type=shareholder
     state=active
     label="Profirm Beteiligungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=3
+    num_owners=1
+    num_owners_weighted=1.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="69a9475b-d11f-4d24-99af-395e9b460c53"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   9569 [
@@ -116382,8 +116382,8 @@ digraph {
     label="radical moves GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69396c52-2fc5-492d-bc3d-57f682e7b03b"
     in_degree=1
     out_degree=1
@@ -120244,7 +120244,7 @@ digraph {
     type=radio
     state=active
     label="Radio Paradiso 98.2 (Berlin-Brandenburg)"
-    num_owners=119
+    num_owners=120
     num_owners_weighted=25.9485
     num_medias=0
     num_medias_weighted=0.0000
@@ -120256,7 +120256,7 @@ digraph {
     type=shareholder
     state=active
     label="Radio Paradiso GmbH & Co. KG"
-    num_owners=118
+    num_owners=119
     num_owners_weighted=24.9485
     num_medias=3
     num_medias_weighted=3.0000
@@ -125958,8 +125958,8 @@ digraph {
     label="Richarz, Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="695b9e2a-ac0e-4711-9134-f0ec955d6e21"
     in_degree=0
     out_degree=1
@@ -129412,10 +129412,10 @@ digraph {
     type=shareholder
     state=active
     label="Rudolf Fuchs Kapitalanlage-Gesellschaft mbH"
-    num_owners=11
+    num_owners=12
     num_owners_weighted=3.0000
-    num_medias=3
-    num_medias_weighted=0.0291
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1e2e-5991-4f37-a4f1-44363d26f442"
     in_degree=1
     out_degree=1
@@ -129424,10 +129424,10 @@ digraph {
     type=shareholder
     state=active
     label="Rudolf Fuchs SE & Co. KG"
-    num_owners=10
+    num_owners=11
     num_owners_weighted=2.0000
-    num_medias=3
-    num_medias_weighted=0.0291
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6925d8ab-7107-47fe-9214-672efc2447d3"
     in_degree=2
     out_degree=1
@@ -129436,9 +129436,9 @@ digraph {
     type=shareholder
     state=active
     label="Rudolf Fuchs Verwaltungs SE"
-    num_owners=8
-    num_owners_weighted=7.3333
-    num_medias=3
+    num_owners=9
+    num_owners_weighted=7.6666
+    num_medias=0
     num_medias_weighted=0.0000
     name="69396ee7-ec08-4cd9-8cc6-77385221e8e7"
     in_degree=1
@@ -135654,11 +135654,11 @@ digraph {
     label="Schumacher, Georg"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
+    num_medias=0
     num_medias_weighted=0.0000
     name="69a94737-13dd-4d14-9bf7-bd0d2cc2dd6f"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   11305 [
     type=shareholder
@@ -139410,8 +139410,8 @@ digraph {
     label="Sigle, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=1.9328
+    num_medias=44
+    num_medias_weighted=1.9326
     name="5be1a6b6-4b0c-4deb-840b-632078c37947"
     in_degree=0
     out_degree=1
@@ -139830,10 +139830,10 @@ digraph {
     label="Sixt Management Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=3
-    num_medias_weighted=0.0009
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69396c38-731d-43e2-b04a-0334a792b810"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   11653 [
@@ -139854,11 +139854,11 @@ digraph {
     label="Sixt, Sven C."
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=1.9328
+    num_medias=44
+    num_medias_weighted=1.9326
     name="5be1a6b6-a25a-45a8-b4b8-7dbfb5cc426c"
     in_degree=0
-    out_degree=1
+    out_degree=2
   ];
   11655 [
     type=shareholder
@@ -148098,8 +148098,8 @@ digraph {
     label="Streubesitz an der Enote GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0004
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1ee4-3abc-4bd4-a20f-c9e459f2cb76"
     in_degree=0
     out_degree=1
@@ -148650,8 +148650,8 @@ digraph {
     label="Streubesitz an der Rudolf Fuch SE & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0291
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69396f00-cc78-4ad6-94f5-c298233f6a32"
     in_degree=0
     out_degree=1
@@ -162042,8 +162042,8 @@ digraph {
     label="VHB ventures GmbH"
     num_owners=14
     num_owners_weighted=6.4392
-    num_medias=3
-    num_medias_weighted=0.0001
+    num_medias=0
+    num_medias_weighted=0.0000
     name="69396c70-5032-4564-a97e-db8d908cae3e"
     in_degree=2
     out_degree=1
@@ -162234,8 +162234,8 @@ digraph {
     label="Videnoff, Boian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=3
-    num_medias_weighted=0.0075
+    num_medias=0
+    num_medias_weighted=0.0000
     name="690b1da4-1971-4d7a-b240-f0fe04696bbb"
     in_degree=0
     out_degree=1
@@ -163806,8 +163806,8 @@ digraph {
     label="von Holtzbrinck, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=9.6638
+    num_medias=44
+    num_medias_weighted=9.6631
     name="5be1a6b6-1391-4545-b24b-020d6b6f6ee8"
     in_degree=0
     out_degree=1
@@ -163818,8 +163818,8 @@ digraph {
     label="von Holtzbrinck, Dieter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=1.9328
+    num_medias=44
+    num_medias_weighted=1.9326
     name="5be1a6b6-9a1a-40e5-a212-4f53d008fb52"
     in_degree=0
     out_degree=2
@@ -168294,8 +168294,8 @@ digraph {
     label="Werwigk, Dr. Claudius"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=47
-    num_medias_weighted=1.9328
+    num_medias=44
+    num_medias_weighted=1.9326
     name="681b6ed4-b39f-489b-baa4-827a0af9c6ad"
     in_degree=0
     out_degree=1
@@ -196672,7 +196672,7 @@ digraph {
     type=online
     state=active
     label="www.paradiso-nord.de"
-    num_owners=119
+    num_owners=120
     num_owners_weighted=41.8884
     num_medias=0
     num_medias_weighted=0.0000
@@ -196684,7 +196684,7 @@ digraph {
     type=online
     state=active
     label="www.paradiso.de"
-    num_owners=119
+    num_owners=120
     num_owners_weighted=25.9485
     num_medias=0
     num_medias_weighted=0.0000
@@ -228461,10 +228461,6 @@ digraph {
     weight=25
     type=owns
   ];
-  3477 -> 3563 [
-    weight=50
-    type=owns
-  ];
   3479 -> 3478 [
     weight=100
     type=operates
@@ -229294,7 +229290,7 @@ digraph {
     type=owns
   ];
   3736 -> 3477 [
-    weight=3.31
+    weight=9.93
     type=owns
   ];
   3739 -> 2105 [
@@ -264977,6 +264973,10 @@ digraph {
     weight=13.37
     type=owns
   ];
+  11304 -> 9568 [
+    weight=100
+    type=owns
+  ];
   11305 -> 11303 [
     weight=100
     type=owns
@@ -266771,6 +266771,10 @@ digraph {
   ];
   11654 -> 2716 [
     weight=20
+    type=owns
+  ];
+  11654 -> 11652 [
+    weight=100
     type=owns
   ];
   11655 -> 7682 [
@@ -274790,7 +274794,7 @@ digraph {
     type=owns
   ];
   13519 -> 3477 [
-    weight=11.58
+    weight=23.16
     type=owns
   ];
   13523 -> 16023 [
