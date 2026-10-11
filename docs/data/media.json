@@ -5896,7 +5896,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:24:48.889Z",
+    "controlDate": "2026-10-11T13:52:20.298Z",
     "state": "active"
   },
   {
@@ -9904,7 +9904,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:20:52.975Z",
+    "controlDate": "2026-10-11T13:49:00.337Z",
     "state": "active"
   },
   {
@@ -30867,7 +30867,7 @@
     "name": "TLZ am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-07T11:10:56.633Z",
+    "controlDate": "2026-10-11T13:38:01.531Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30910,7 +30910,7 @@
     "name": "TA am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-07T11:09:16.213Z",
+    "controlDate": "2026-10-11T13:36:08.912Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -31124,7 +31124,7 @@
     "name": "www.schwangerschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:37:38.641Z",
+    "controlDate": "2026-10-11T14:08:22.559Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41950,7 +41950,7 @@
     "name": "www.eatclub.tv",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:21:02.259Z",
+    "controlDate": "2026-10-11T13:49:15.356Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -70066,7 +70066,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:11:36.404Z",
+    "controlDate": "2026-10-11T13:38:55.061Z",
     "state": "active"
   },
   {
@@ -70122,7 +70122,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:11:51.545Z",
+    "controlDate": "2026-10-11T13:39:10.412Z",
     "state": "active"
   },
   {
@@ -72542,7 +72542,7 @@
     "rfStatewide": false,
     "name": "Thüringer Allgemeine",
     "type": "print",
-    "controlDate": "2026-05-07T11:11:13.634Z",
+    "controlDate": "2026-10-11T13:38:19.618Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -72562,7 +72562,7 @@
     "rfStatewide": false,
     "name": "TLZ Thüringische Landeszeitung",
     "type": "print",
-    "controlDate": "2026-05-07T11:10:40.704Z",
+    "controlDate": "2026-10-11T13:37:35.389Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -73197,7 +73197,7 @@
     "rfStatewide": false,
     "name": "Gala",
     "type": "print",
-    "controlDate": "2026-05-07T11:36:30.500Z",
+    "controlDate": "2026-10-11T14:05:41.563Z",
     "pressKind": "Magazine",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -73221,7 +73221,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:36:37.158Z",
+    "controlDate": "2026-10-11T14:05:51.677Z",
     "state": "active"
   },
   {
@@ -73278,7 +73278,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:37:22.305Z",
+    "controlDate": "2026-10-11T14:08:09.653Z",
     "state": "active"
   },
   {
@@ -81385,7 +81385,7 @@
     "name": "www.takt-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:11:26.761Z",
+    "controlDate": "2026-10-11T13:38:37.363Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -84304,7 +84304,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:24:31.078Z",
+    "controlDate": "2026-10-11T13:52:04.774Z",
     "state": "active"
   },
   {
@@ -84340,7 +84340,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:25:45.577Z",
+    "controlDate": "2026-10-11T13:53:06.800Z",
     "state": "active"
   },
   {
@@ -84358,7 +84358,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:25:58.860Z",
+    "controlDate": "2026-10-11T13:53:24.308Z",
     "state": "active"
   },
   {
@@ -84534,7 +84534,7 @@
     "rfStatewide": false,
     "name": "Brigitte",
     "type": "print",
-    "controlDate": "2026-05-07T11:36:00.831Z",
+    "controlDate": "2026-10-11T14:05:24.465Z",
     "pressKind": "Frauen, zweiwö.",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103886,7 +103886,7 @@
     "rfStatewide": false,
     "name": "Hörzu",
     "type": "print",
-    "controlDate": "2026-05-07T11:31:29.640Z",
+    "controlDate": "2026-10-11T14:01:18.043Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103907,7 +103907,7 @@
     "rfStatewide": false,
     "name": "TV digital",
     "type": "print",
-    "controlDate": "2026-05-07T11:32:45.117Z",
+    "controlDate": "2026-10-11T14:01:57.565Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103928,7 +103928,7 @@
     "rfStatewide": false,
     "name": "Hörzu Wissen",
     "type": "print",
-    "controlDate": "2026-05-07T11:31:44.501Z",
+    "controlDate": "2026-10-11T14:01:37.562Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -103976,7 +103976,7 @@
     "rfStatewide": false,
     "name": "TV für mich",
     "type": "print",
-    "controlDate": "2026-05-07T11:32:58.796Z",
+    "controlDate": "2026-10-11T14:02:09.921Z",
     "pressKind": "Programm",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104043,7 +104043,7 @@
     "rfStatewide": false,
     "name": "Hörzu Gesundheit",
     "type": "print",
-    "controlDate": "2026-05-07T11:31:38.351Z",
+    "controlDate": "2026-10-11T14:01:27.445Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104067,7 +104067,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:23:34.306Z",
+    "controlDate": "2026-10-11T13:51:09.344Z",
     "state": "active"
   },
   {
@@ -104105,7 +104105,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:25:34.473Z",
+    "controlDate": "2026-10-11T13:52:52.282Z",
     "state": "active"
   },
   {
@@ -104702,7 +104702,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:20:32.146Z",
+    "controlDate": "2026-10-11T13:48:47.611Z",
     "state": "active"
   },
   {
@@ -107640,7 +107640,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:22:29.619Z",
+    "controlDate": "2026-10-11T13:50:22.400Z",
     "state": "active"
   },
   {
@@ -107658,7 +107658,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:25:23.561Z",
+    "controlDate": "2026-10-11T13:52:34.545Z",
     "state": "active"
   },
   {
@@ -110253,7 +110253,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:36:48.789Z",
+    "controlDate": "2026-10-11T14:07:56.819Z",
     "state": "active"
   },
   {
@@ -110271,7 +110271,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:37:47.868Z",
+    "controlDate": "2026-10-11T14:08:31.893Z",
     "state": "active"
   },
   {
@@ -112113,7 +112113,7 @@
     "name": "Streaming",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-07T11:32:18.221Z",
+    "controlDate": "2026-10-11T14:01:49.122Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -115858,7 +115858,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:23:49.739Z",
+    "controlDate": "2026-10-11T13:51:34.659Z",
     "state": "active"
   },
   {
@@ -115978,7 +115978,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T11:24:02.110Z",
+    "controlDate": "2026-10-11T13:51:50.309Z",
     "state": "active"
   },
   {
@@ -119904,7 +119904,7 @@
     "rfStatewide": false,
     "name": "TLZ Gothaer Tagespost",
     "type": "print",
-    "controlDate": "2026-05-07T11:10:23.763Z",
+    "controlDate": "2026-10-11T13:36:54.815Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119924,7 +119924,7 @@
     "rfStatewide": false,
     "name": "TLZ Eisenacher Presse",
     "type": "print",
-    "controlDate": "2026-05-07T11:09:56.668Z",
+    "controlDate": "2026-10-11T13:36:37.895Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -119944,7 +119944,7 @@
     "rfStatewide": false,
     "name": "TLZ Eichsfelder Tageblatt",
     "type": "print",
-    "controlDate": "2026-05-07T11:09:30.828Z",
+    "controlDate": "2026-10-11T13:36:24.519Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -129099,7 +129099,7 @@
     "name": "www.imtest.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:30:15.336Z",
+    "controlDate": "2026-10-11T13:57:50.893Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130544,7 +130544,7 @@
     "name": "www.werstreamt.es",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:26:34.655Z",
+    "controlDate": "2026-10-11T13:53:37.482Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130816,7 +130816,7 @@
     "name": "www.9monate.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:19:38.819Z",
+    "controlDate": "2026-10-11T13:48:23.705Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -130929,7 +130929,7 @@
     "name": "www.gesundheit.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:22:21.333Z",
+    "controlDate": "2026-10-11T13:50:05.647Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -137682,7 +137682,7 @@
     "name": "Mediengruppe Thüringen (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-07T11:08:16.202Z",
+    "controlDate": "2026-10-11T13:35:46.177Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139089,7 +139089,7 @@
     "name": "www.beautytv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:20:08.951Z",
+    "controlDate": "2026-10-11T13:48:32.533Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146990,7 +146990,7 @@
     "name": "www.editionf.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:21:33.254Z",
+    "controlDate": "2026-10-11T13:49:32.101Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153716,7 +153716,7 @@
     "name": "www.gong.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:22:41.759Z",
+    "controlDate": "2026-10-11T13:50:39.465Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -161352,7 +161352,7 @@
     "name": "www.vorname.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:37:57.024Z",
+    "controlDate": "2026-10-11T14:08:40.272Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164005,7 +164005,7 @@
     "name": "www.funke.fun",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:21:58.910Z",
+    "controlDate": "2026-10-11T13:49:45.285Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164254,7 +164254,7 @@
     "name": "www.herzberatung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:22:51.526Z",
+    "controlDate": "2026-10-11T13:50:58.480Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
