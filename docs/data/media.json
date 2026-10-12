@@ -7346,7 +7346,7 @@
     "name": "www.89.0rtl.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T12:23:09.317Z",
+    "controlDate": "2026-10-12T07:53:33.624Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -10738,7 +10738,7 @@
     "name": "www.radiobrocken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T12:23:16.101Z",
+    "controlDate": "2026-10-12T07:53:45.112Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30669,7 +30669,7 @@
     "name": "www.prima-sonntag.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:58:56.170Z",
+    "controlDate": "2026-10-12T07:20:24.674Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -40259,7 +40259,7 @@
     "name": "www.galaxy916.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:58:49.931Z",
+    "controlDate": "2026-10-12T07:20:14.865Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41071,7 +41071,7 @@
     "name": "www.stern.de/neon",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T14:35:20.115Z",
+    "controlDate": "2026-10-12T08:28:48.902Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46758,7 +46758,7 @@
     "name": "www.radio-fds.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:41:14.141Z",
+    "controlDate": "2026-10-12T08:03:27.265Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -46878,7 +46878,7 @@
     "name": "www.wueste-welle.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:45:14.264Z",
+    "controlDate": "2026-10-12T08:04:17.597Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -100744,7 +100744,7 @@
   },
   {
     "pressPublishingIntervals": 6,
-    "state": "active",
+    "state": "archived",
     "squuid": "5be1a6b1-2f7f-4c62-968c-fbfc925b26b1",
     "organization": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -104558,7 +104558,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T14:18:56.691Z",
+    "controlDate": "2026-10-12T08:26:59.248Z",
     "state": "active"
   },
   {
@@ -104576,7 +104576,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T14:18:44.915Z",
+    "controlDate": "2026-10-12T08:25:31.862Z",
     "state": "active"
   },
   {
@@ -107470,7 +107470,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T14:34:19.595Z",
+    "controlDate": "2026-10-12T08:28:39.520Z",
     "state": "active"
   },
   {
@@ -112794,7 +112794,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-07T14:31:26.712Z",
+    "controlDate": "2026-10-12T08:28:24.287Z",
     "state": "active"
   },
   {
@@ -112812,7 +112812,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-28T10:53:27.311Z",
+    "controlDate": "2026-10-12T08:28:31.676Z",
     "state": "active"
   },
   {
@@ -114441,7 +114441,7 @@
     "rfStatewide": false,
     "name": "Couch",
     "type": "print",
-    "controlDate": "2026-05-07T14:18:29.938Z",
+    "controlDate": "2026-10-12T08:25:25.269Z",
     "pressKind": "Frauen, mo",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -133787,7 +133787,7 @@
     "name": "www.fvw.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:35:00.576Z",
+    "controlDate": "2026-10-12T08:01:31.636Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -152476,7 +152476,7 @@
     "name": "www.radioeins.com",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T12:03:03.764Z",
+    "controlDate": "2026-10-12T07:24:58.842Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157279,7 +157279,7 @@
     "name": "www.fupa.net",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:33:08.496Z",
+    "controlDate": "2026-10-12T07:58:04.987Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157327,7 +157327,7 @@
     "name": "www.antenne-pirmasens.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:49:55.241Z",
+    "controlDate": "2026-10-12T08:20:09.943Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157907,7 +157907,7 @@
     "name": "www.kik-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:36:38.836Z",
+    "controlDate": "2026-10-12T08:02:31.597Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -158748,7 +158748,7 @@
     "name": "www.primavera24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T11:59:36.008Z",
+    "controlDate": "2026-10-12T07:20:36.816Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164230,7 +164230,7 @@
     "name": "www.antenne-zweibruecken.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:51:19.566Z",
+    "controlDate": "2026-10-12T08:20:18.582Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -164638,7 +164638,7 @@
     "name": "www.freies-radio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-07T13:43:27.356Z",
+    "controlDate": "2026-10-12T08:03:51.456Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",

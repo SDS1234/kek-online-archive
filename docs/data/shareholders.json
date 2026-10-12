@@ -2626,7 +2626,7 @@
     "squuid": "5f28003a-6cb9-485b-b364-ecf9dd4670f9",
     "name": "Funkhaus Halle Komplementär-GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T12:19:49.139Z",
+    "controlDate": "2026-10-12T07:47:55.243Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -17684,7 +17684,7 @@
     "name": "Funkhaus Coburg GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-a3d5-49fc-bc72-77b1727e864f",
-    "controlDate": "2026-05-07T12:02:10.344Z",
+    "controlDate": "2026-10-12T07:24:51.096Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32823,7 +32823,7 @@
     "squuid": "5be1a6b6-bb46-4290-bd58-31a66aae8af8",
     "name": "G + D Grafik + Druck GmbH + Co. KG",
     "state": "active",
-    "controlDate": "2026-05-07T13:56:50.390Z",
+    "controlDate": "2026-10-12T08:22:09.848Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -39293,7 +39293,7 @@
     "squuid": "5be1a6b6-0d30-44bc-85af-adea183b75e1",
     "name": "fx-net Internet Based Services GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T13:36:30.783Z",
+    "controlDate": "2026-10-12T08:02:22.386Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150919,7 +150919,7 @@
     "squuid": "5f086df2-3467-4cc5-9015-452a3f036f13",
     "name": "G + D Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T13:54:23.402Z",
+    "controlDate": "2026-10-12T08:24:14.760Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -157555,7 +157555,7 @@
     "squuid": "5eeb6b61-69f5-4e21-be9c-60e7f02b84ac",
     "name": "Funkhaus Freiburg Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T12:03:22.341Z",
+    "controlDate": "2026-10-12T07:45:04.053Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -164861,15 +164861,6 @@
         "held": {
           "squuid": "5be1a6b1-1d6c-42e6-a0f2-90a45a313ecd",
           "name": "Frau von Heute"
-        }
-      },
-      {
-        "squuid": "6080428d-e780-4b81-8d21-dfa944df6280",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-2f7f-4c62-968c-fbfc925b26b1",
-          "name": "Herzstück"
         }
       }
     ]
@@ -193694,7 +193685,7 @@
     "squuid": "61e560a4-792c-41af-8b63-2673ac7ce903",
     "name": "FVW Medien GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T13:34:51.668Z",
+    "controlDate": "2026-10-12T08:00:32.846Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -217239,7 +217230,7 @@
     "squuid": "6a0f28a5-3dd6-400c-b346-4789ffdf0ce5",
     "name": "Funkhaus Freiburg GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-22T07:51:33.755Z",
+    "controlDate": "2026-10-12T07:45:22.357Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -233377,7 +233368,7 @@
     "squuid": "5be1a6b6-13e2-404a-bb45-4d161ba2d0b5",
     "name": "G+J Medien GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T14:30:04.636Z",
+    "controlDate": "2026-10-12T08:28:17.203Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -262314,7 +262305,7 @@
     "squuid": "5be1a6b6-c170-448f-b8f9-48cff0aa69dc",
     "name": "G+J Living Digital GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T14:17:42.765Z",
+    "controlDate": "2026-10-12T08:25:18.015Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -273410,7 +273401,7 @@
     "squuid": "5f92ac1a-f936-4dd8-86ae-2ae256189db9",
     "name": "Funkhaus Coburg Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T12:01:20.948Z",
+    "controlDate": "2026-10-12T07:24:32.330Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -275438,8 +275429,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -297953,7 +297945,7 @@
     "squuid": "5c51c7b5-01f4-4f98-9086-8968e1540cf6",
     "name": "fupa GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T13:33:03.806Z",
+    "controlDate": "2026-10-12T07:55:22.101Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -298057,7 +298049,7 @@
     "squuid": "5f3bc86f-7a7a-4c01-a725-9c937c5452a4",
     "name": "G & G Medien Funkhaus GmbH",
     "state": "active",
-    "controlDate": "2026-05-07T13:49:10.316Z",
+    "controlDate": "2026-10-12T08:20:05.328Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
