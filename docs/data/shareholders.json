@@ -28508,7 +28508,7 @@
     "squuid": "5d31b631-2870-4e64-9c5c-7c9b25c6152f",
     "name": "Gevestor Financial Publishing Group",
     "state": "active",
-    "controlDate": "2026-05-11T09:11:41.922Z",
+    "controlDate": "2026-10-13T08:22:33.890Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50405,7 +50405,7 @@
     "squuid": "5f0f0fff-6b7d-47d0-823a-dc9eb5be6496",
     "name": "GGK Grundstücksgesellschaft der Stadt Krefeld mbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-11T09:33:00.187Z",
+    "controlDate": "2026-10-13T08:27:45.538Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -57657,7 +57657,7 @@
     "squuid": "5be1a6b6-fedd-4f5c-ae42-1431635462c3",
     "name": "German Car TV Programm GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T08:28:21.379Z",
+    "controlDate": "2026-10-13T07:36:47.805Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -87969,7 +87969,7 @@
     "squuid": "5be1a6b6-50d5-4cd3-b4de-333282d1a07f",
     "name": "Gesellschaft für staatsbürgerliche Bildung Saar mbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:02:38.911Z",
+    "controlDate": "2026-10-13T07:49:38.682Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -94139,7 +94139,7 @@
     "squuid": "5be1a6b6-beec-4245-a399-8749db1222f9",
     "name": "Robert Gessler GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-08-07T12:29:27.227Z",
+    "controlDate": "2026-10-13T07:53:30.441Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -97421,7 +97421,7 @@
     "name": "Girardet Verlag KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-ff67-4dcc-b8b6-874d94ac176f",
-    "controlDate": "2026-05-11T10:02:22.903Z",
+    "controlDate": "2026-10-13T08:42:37.543Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -98715,7 +98715,7 @@
     "squuid": "5be1a6b6-e76e-4e4d-b935-b2ad38477d9c",
     "name": "GeVi Beteiligungen GmbH Medien KG",
     "state": "active",
-    "controlDate": "2026-05-11T09:14:21.806Z",
+    "controlDate": "2026-10-13T08:25:11.939Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -98788,18 +98788,13 @@
   {
     "squuid": "5eb02e63-46c5-4701-a9f7-e429e5f3c85d",
     "name": "Fleißig Pressehaus Immobilien Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-10-09T12:53:44.386Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -98808,7 +98803,7 @@
     "squuid": "5be1a6b6-fb43-4e63-9777-3026b838d87b",
     "name": "Giesdorf Mediengruppe GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-05-11T09:37:12.639Z",
+    "controlDate": "2026-10-13T08:31:27.720Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -101958,19 +101953,14 @@
   {
     "squuid": "5cc70c37-5b94-4790-b253-0f68d1d16df7",
     "name": "Fleißig Pressehaus Immobilien GmbH & Co. KG",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-10-09T12:54:38.752Z",
     "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -103224,7 +103214,7 @@
     "squuid": "5c5027e8-3e8b-411f-a86f-517af4b8ea41",
     "name": "GEW Köln AG",
     "state": "active",
-    "controlDate": "2026-05-11T09:30:40.353Z",
+    "controlDate": "2026-10-13T08:26:38.445Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -119232,6 +119222,19 @@
     ]
   },
   {
+    "squuid": "6acde766-9f1e-4fef-8e21-74899fe5702b",
+    "name": "Böhme, Daniel",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5be1a6b6-97c7-494a-8421-72685c45853e",
     "name": "Röhm GmbH & Co. KG",
     "state": "active",
@@ -119310,6 +119313,19 @@
     "name": "Schoeller, Monika",
     "state": "active",
     "controlDate": "2019-05-20T15:07:26.132Z",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6acde754-d65c-4a3f-bd07-c08115e4c211",
+    "name": "Gessler, Vivien",
+    "state": "active",
     "organizations": [
       {
         "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
@@ -119490,6 +119506,19 @@
         "squuid": "5b0830c1-8ded-40dd-9d37-2a1a21efaff5",
         "name": "BLM",
         "fullName": "Bayerische Landeszentrale für neue Medien",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6acde781-24e0-45ec-b83b-6ac293c6d3fb",
+    "name": "Butt-Böhme, Stefan",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -123811,7 +123840,7 @@
     "squuid": "5be1a6b6-a6f4-4862-8c7d-e085dbc9ca7d",
     "name": "Gilde Verwaltungsgesellschaft GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:59:42.502Z",
+    "controlDate": "2026-10-13T08:34:34.205Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -143369,7 +143398,7 @@
     "squuid": "5be1a6b6-bedb-4dd4-a384-b046ff26a9d7",
     "name": "Gießener Anzeiger Beteiligungs-GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-06-16T12:10:04.748Z",
+    "controlDate": "2026-10-13T08:34:09.763Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -150462,7 +150491,7 @@
     "squuid": "5eb947b5-5d43-4e8b-ba4f-0bec3c04b52c",
     "name": "Girardet Verlag Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T10:05:46.346Z",
+    "controlDate": "2026-10-13T08:42:24.662Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -151890,7 +151919,7 @@
     "squuid": "5eb9548d-978e-407b-8c31-206419c0bf2f",
     "name": "Geschäftsführungsgesellschaft Stuttgarter Zeitung Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:01:21.671Z",
+    "controlDate": "2026-10-13T07:48:17.923Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -154380,7 +154409,7 @@
     "squuid": "5d2f21b5-2bd9-4d0e-ab9f-4265a34d35f0",
     "name": "Geschäftsleitung und Verwaltungsrat der AG für die Neue Zürcher Zeitung",
     "state": "active",
-    "controlDate": "2026-05-11T09:01:40.622Z",
+    "controlDate": "2026-10-13T07:48:40.341Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -156579,7 +156608,7 @@
     "squuid": "5ede46db-863f-4d9f-b3ef-248e0036c209",
     "name": "GeVi Beteiligungen GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:13:19.943Z",
+    "controlDate": "2026-10-13T08:24:10.618Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -163786,7 +163815,7 @@
     "squuid": "5ebbab47-f073-4bb7-857f-5b976b3bf5bb",
     "name": "Gessler GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:07:47.469Z",
+    "controlDate": "2026-10-13T07:51:20.166Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -171874,7 +171903,7 @@
     "squuid": "5efdcf69-b12a-4090-9011-ef2f1ccaccda",
     "name": "Geschäftsführung Frank Otto Medienbeteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-11T08:58:31.211Z",
+    "controlDate": "2026-10-13T07:46:23.707Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176764,7 +176793,7 @@
     "squuid": "62176a6d-2ccc-4d5b-8415-f102d99a93c8",
     "name": "GfK Entertainment GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:30:59.764Z",
+    "controlDate": "2026-10-13T08:26:58.371Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -177157,7 +177186,7 @@
     "squuid": "62176bdc-bf6a-412d-84df-2f8a1288446a",
     "name": "GfK ISL Custom Research France SAS",
     "state": "active",
-    "controlDate": "2026-05-11T09:32:04.068Z",
+    "controlDate": "2026-10-13T08:27:27.407Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -177226,7 +177255,7 @@
     "squuid": "62176ba9-8177-4257-8f30-c6deab1e8454",
     "name": "GfK SE",
     "state": "active",
-    "controlDate": "2026-05-11T09:31:47.871Z",
+    "controlDate": "2026-10-13T08:27:18.669Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -193747,7 +193776,7 @@
     "squuid": "5ed1063a-56ff-4f4d-acd8-4f582d32753e",
     "name": "Giesdorf Mediengruppe Beteiligungs- und Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:36:59.121Z",
+    "controlDate": "2026-10-13T08:30:23.353Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -194580,7 +194609,7 @@
     "squuid": "5de7b362-2aa0-4c59-b620-204896867ca8",
     "name": "Giesdorf Media GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-05-11T09:35:59.533Z",
+    "controlDate": "2026-10-13T08:29:48.998Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -194708,7 +194737,7 @@
     "squuid": "5de7b381-744a-4a4e-8fc2-439a630bd2f9",
     "name": "Giesdorf Media Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:35:26.573Z",
+    "controlDate": "2026-10-13T08:30:02.766Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204964,7 +204993,7 @@
     "name": "gesund.de GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "61b320a6-94dc-446d-b25a-ab63da05c97a",
-    "controlDate": "2026-05-11T09:10:11.816Z",
+    "controlDate": "2026-10-13T08:22:06.221Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -204988,7 +205017,7 @@
     "squuid": "61b320e6-0700-40ae-8fa3-b141f94b53ca",
     "name": "gesund.de Beteiligungsverwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:09:53.881Z",
+    "controlDate": "2026-10-13T08:21:47.430Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -216418,13 +216447,8 @@
     "squuid": "5d078c65-65b2-4469-bbec-c7251a025cc8",
     "name": "GERMAN PICTURES (TM) Film & TV Produktion e.K.",
     "state": "active",
-    "controlDate": "2026-05-11T08:55:13.919Z",
+    "controlDate": "2026-10-13T07:44:08.690Z",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
@@ -216440,15 +216464,6 @@
         "held": {
           "squuid": "5c6c07c4-e547-44cf-9daa-422f3585f6ed",
           "name": "OF-TV"
-        }
-      },
-      {
-        "squuid": "5f3a913a-195b-4668-bb14-d84d96b16573",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5f3a90fd-1706-425d-9f01-ad3f430ad386",
-          "name": "www.of-tv.de"
         }
       }
     ]
@@ -277902,7 +277917,7 @@
     "squuid": "5be1a6b6-f432-4323-8733-0839feb3bfcf",
     "name": "German health tv GmbH",
     "state": "active",
-    "controlDate": "2026-05-11T08:34:45.860Z",
+    "controlDate": "2026-10-13T07:39:46.603Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -278122,11 +278137,6 @@
     "name": "Jaschek, Torsten",
     "state": "active",
     "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
       {
         "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
         "name": "Medienanstalt Hessen",
@@ -287191,7 +287201,7 @@
     "squuid": "5be1a6b6-68e9-4e7b-aa54-3fb1e496b3a6",
     "name": "German Football Partners-American Football Verband Deutschland Rechteverwertungs- und Beteiligungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-11T08:32:18.564Z",
+    "controlDate": "2026-10-13T07:39:18.638Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -296587,7 +296597,7 @@
     "squuid": "5be1a6b6-b0ce-401b-9ce3-366ed70b422a",
     "name": "Geschäftsführungsgesellschaft Private Rundfunkgesellschaft Ortenau mbH",
     "state": "active",
-    "controlDate": "2026-05-11T09:00:04.533Z",
+    "controlDate": "2026-10-13T07:47:18.330Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
