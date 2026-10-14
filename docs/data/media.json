@@ -13573,7 +13573,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-12T13:16:10.915Z",
+    "controlDate": "2026-10-14T11:57:38.657Z",
     "state": "active"
   },
   {
@@ -23375,7 +23375,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2025-10-30T11:52:34.734Z",
+    "controlDate": "2026-10-14T12:12:39.619Z",
     "state": "active"
   },
   {
@@ -80568,7 +80568,7 @@
     "name": "www.hannover.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-12T13:25:49.060Z",
+    "controlDate": "2026-10-14T12:06:27.838Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85207,7 +85207,7 @@
     "rfStatewide": false,
     "name": "Hanauer Anzeiger",
     "type": "print",
-    "controlDate": "2026-05-12T13:15:02.373Z",
+    "controlDate": "2026-10-14T10:57:11.680Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96776,7 +96776,7 @@
     "rfStatewide": false,
     "name": "WirtschaftsWoche",
     "type": "print",
-    "controlDate": "2026-05-12T13:19:58.219Z",
+    "controlDate": "2026-10-14T12:02:11.442Z",
     "pressKind": "Wirtschaft",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -96797,7 +96797,7 @@
     "rfStatewide": false,
     "name": "Handelsblatt",
     "type": "print",
-    "controlDate": "2026-05-12T13:19:26.585Z",
+    "controlDate": "2026-10-14T12:01:45.964Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -96820,7 +96820,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-12T13:20:08.039Z",
+    "controlDate": "2026-10-14T12:02:20.322Z",
     "state": "active"
   },
   {
@@ -96862,7 +96862,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-12T13:20:24.940Z",
+    "controlDate": "2026-10-14T12:02:38.611Z",
     "state": "active"
   },
   {
@@ -105475,7 +105475,7 @@
     "rfStatewide": false,
     "name": "Handballwoche",
     "type": "print",
-    "controlDate": "2026-05-12T13:16:03.963Z",
+    "controlDate": "2026-10-14T11:57:29.005Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -121318,7 +121318,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-12T13:15:08.987Z",
+    "controlDate": "2026-10-14T10:57:24.018Z",
     "state": "active"
   },
   {
@@ -141997,7 +141997,7 @@
     "name": "www.karriere.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-12T13:20:16.532Z",
+    "controlDate": "2026-10-14T12:02:30.692Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
