@@ -1926,7 +1926,7 @@
     "rfStatewide": false,
     "name": "Herforder Kreisblatt",
     "type": "print",
-    "controlDate": "2026-05-13T10:10:58.005Z",
+    "controlDate": "2026-10-15T13:51:28.402Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -4421,7 +4421,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-13T10:16:52.739Z",
+    "controlDate": "2026-10-15T13:57:04.106Z",
     "state": "active"
   },
   {
@@ -8730,7 +8730,7 @@
     "rfStatewide": false,
     "name": "c't Mac & i",
     "type": "print",
-    "controlDate": "2026-05-13T09:53:10.736Z",
+    "controlDate": "2026-10-15T13:30:13.455Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -8751,7 +8751,7 @@
     "rfStatewide": false,
     "name": "c't Digitale Fotografie",
     "type": "print",
-    "controlDate": "2026-05-13T09:53:00.891Z",
+    "controlDate": "2026-10-15T13:30:02.947Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -11014,7 +11014,7 @@
     "name": "www.kreisanzeiger-hersfeld.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T11:07:01.353Z",
+    "controlDate": "2026-10-15T14:05:24.742Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -26374,7 +26374,7 @@
     "name": "www.hersbrucker-zeitung.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T11:13:18.057Z",
+    "controlDate": "2026-10-15T14:13:06.703Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -30754,7 +30754,7 @@
     "name": "www.hellwegradio.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T10:04:56.648Z",
+    "controlDate": "2026-10-15T13:45:45.379Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -41329,7 +41329,7 @@
     "name": "www.heinrichsblatt.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:45:06.931Z",
+    "controlDate": "2026-10-15T13:00:59.225Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -75759,7 +75759,7 @@
     "name": "www.kiel-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-30T11:57:34.011Z",
+    "controlDate": "2026-10-15T13:06:04.343Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -75879,7 +75879,7 @@
     "name": "www.hamburg-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-30T11:57:21.941Z",
+    "controlDate": "2026-10-15T13:05:55.512Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -76846,7 +76846,7 @@
     "name": "www.luebeck-magazin.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-04-30T11:57:39.633Z",
+    "controlDate": "2026-10-15T13:06:10.840Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -86639,7 +86639,7 @@
     "rfStatewide": false,
     "name": "Die Neckarquelle",
     "type": "print",
-    "controlDate": "2026-05-13T10:15:56.641Z",
+    "controlDate": "2026-10-15T13:56:55.762Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88636,7 +88636,7 @@
     "rfStatewide": false,
     "name": "Hersbrucker Zeitung",
     "type": "print",
-    "controlDate": "2026-05-13T11:19:46.462Z",
+    "controlDate": "2026-10-15T14:11:46.677Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -88976,7 +88976,7 @@
     "name": "www.heise.de/ct",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:54:10.022Z",
+    "controlDate": "2026-10-15T13:31:02.485Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -89359,7 +89359,7 @@
     "rfStatewide": false,
     "name": "Einbecker Morgenpost",
     "type": "print",
-    "controlDate": "2026-05-13T09:28:56.836Z",
+    "controlDate": "2026-10-15T12:56:13.769Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -89626,7 +89626,7 @@
     "name": "www.heise.de/mac-and-i",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:54:48.220Z",
+    "controlDate": "2026-10-15T13:31:37.700Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90694,7 +90694,7 @@
     "name": "www.heise.de/thema/heiseshow",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:55:11.188Z",
+    "controlDate": "2026-10-15T13:32:10.106Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90823,7 +90823,7 @@
     "name": "www.heise.de/make",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:54:58.976Z",
+    "controlDate": "2026-10-15T13:31:56.268Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -91041,7 +91041,7 @@
     "name": "www.heise.de/foto",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:54:18.474Z",
+    "controlDate": "2026-10-15T13:31:19.312Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -91383,7 +91383,7 @@
     "rfStatewide": false,
     "name": "c't Magazin für Computertechnik",
     "type": "print",
-    "controlDate": "2026-05-13T09:53:17.990Z",
+    "controlDate": "2026-10-15T13:30:24.733Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -91428,7 +91428,7 @@
     "rfStatewide": false,
     "name": "iX Magazin für professionelle Informationstechnik",
     "type": "print",
-    "controlDate": "2026-05-13T09:53:29.284Z",
+    "controlDate": "2026-10-15T13:30:37.178Z",
     "pressKind": "EDV",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -95572,7 +95572,7 @@
     "rfStatewide": false,
     "name": "Heinrichsblatt",
     "type": "print",
-    "controlDate": "2026-05-13T09:32:57.298Z",
+    "controlDate": "2026-10-15T13:00:52.560Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -114712,6 +114712,7 @@
       "state": "active"
     },
     "type": "tv",
+    "controlDate": "2026-10-15T13:29:42.849Z",
     "rfCategory": {
       "squuid": "5be1a6ad-211a-4a65-b05a-b318333ba3f5",
       "name": "Spartenprogramm (Unterhaltung)",
@@ -115388,7 +115389,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-13T09:54:02.578Z",
+    "controlDate": "2026-10-15T13:30:50.473Z",
     "state": "active"
   },
   {
@@ -122586,7 +122587,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-13T09:29:31.568Z",
+    "controlDate": "2026-10-15T12:58:33.759Z",
     "state": "active"
   },
   {
@@ -132693,7 +132694,7 @@
     "name": "www.techstage.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:55:20.668Z",
+    "controlDate": "2026-10-15T13:32:21.319Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -139399,7 +139400,7 @@
     "name": "www.telepolis.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-13T09:55:28.719Z",
+    "controlDate": "2026-10-15T13:32:32.157Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
