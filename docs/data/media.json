@@ -13850,7 +13850,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-15T10:41:02.928Z",
+    "controlDate": "2026-10-17T11:52:31.964Z",
     "state": "active"
   },
   {
@@ -33868,7 +33868,7 @@
     "name": "www.24rhein.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:33:43.840Z",
+    "controlDate": "2026-10-17T11:46:12.173Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -34698,7 +34698,7 @@
     "name": "www.bw24.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:34:55.975Z",
+    "controlDate": "2026-10-17T11:47:43.152Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -39367,7 +39367,7 @@
     "name": "www.hallo-eltern.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2025-11-14T10:01:25.946Z",
+    "controlDate": "2026-10-17T11:48:05.151Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90450,7 +90450,7 @@
     "name": "www.24auto.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:31:35.348Z",
+    "controlDate": "2026-10-17T11:45:38.114Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90670,7 +90670,7 @@
     "name": "www.24vita.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:34:14.153Z",
+    "controlDate": "2026-10-17T11:47:10.730Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -90799,7 +90799,7 @@
     "name": "www.24royal.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:34:00.819Z",
+    "controlDate": "2026-10-17T11:46:59.870Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -95593,7 +95593,7 @@
     "rfStatewide": false,
     "name": "Idea - das Magazin",
     "type": "print",
-    "controlDate": "2026-05-15T10:40:55.970Z",
+    "controlDate": "2026-10-17T11:52:25.189Z",
     "pressKind": "Konfession",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -146380,7 +146380,7 @@
     "name": "www.einfach-tasty.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:35:11.318Z",
+    "controlDate": "2026-10-17T11:47:54.558Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -146550,7 +146550,7 @@
     "name": "www.buzzfeed.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:34:44.734Z",
+    "controlDate": "2026-10-17T11:47:31.660Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -153022,7 +153022,7 @@
     "name": "www.serienjunkies.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:36:18.192Z",
+    "controlDate": "2026-10-17T11:48:13.388Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156204,7 +156204,7 @@
     "name": "www.24hamburg.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-15T10:33:16.445Z",
+    "controlDate": "2026-10-17T11:45:59.313Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
