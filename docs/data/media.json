@@ -6903,7 +6903,7 @@
     "rfStatewide": false,
     "name": "Robb Report",
     "type": "print",
-    "controlDate": "2026-05-18T11:04:38.589Z",
+    "controlDate": "2026-10-18T12:45:11.351Z",
     "pressKind": "Lifestyle",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -6948,7 +6948,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:04:47.710Z",
+    "controlDate": "2026-10-18T12:45:22.278Z",
     "state": "active"
   },
   {
@@ -6984,7 +6984,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:05:57.524Z",
+    "controlDate": "2026-10-18T12:45:48.330Z",
     "state": "active"
   },
   {
@@ -16577,7 +16577,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:00:37.180Z",
+    "controlDate": "2026-10-18T12:25:49.527Z",
     "state": "active"
   },
   {
@@ -19353,7 +19353,7 @@
     "rfStatewide": false,
     "name": "Kutter & Küste",
     "type": "print",
-    "controlDate": "2026-05-18T10:54:10.326Z",
+    "controlDate": "2026-10-18T12:22:16.954Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -19377,7 +19377,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T10:59:04.928Z",
+    "controlDate": "2026-10-18T12:25:00.224Z",
     "state": "active"
   },
   {
@@ -19395,7 +19395,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T10:59:31.191Z",
+    "controlDate": "2026-10-18T12:25:09.391Z",
     "state": "active"
   },
   {
@@ -19413,7 +19413,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:01:22.684Z",
+    "controlDate": "2026-10-18T12:26:11.228Z",
     "state": "active"
   },
   {
@@ -19431,7 +19431,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:01:41.466Z",
+    "controlDate": "2026-10-18T12:26:30.331Z",
     "state": "active"
   },
   {
@@ -19493,7 +19493,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T10:59:41.054Z",
+    "controlDate": "2026-10-18T12:25:24.205Z",
     "state": "active"
   },
   {
@@ -19511,7 +19511,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:01:01.419Z",
+    "controlDate": "2026-10-18T12:25:59.925Z",
     "state": "active"
   },
   {
@@ -19529,7 +19529,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:01:34.171Z",
+    "controlDate": "2026-10-18T12:26:21.234Z",
     "state": "active"
   },
   {
@@ -19565,7 +19565,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:00:23.928Z",
+    "controlDate": "2026-10-18T12:25:38.148Z",
     "state": "active"
   },
   {
@@ -33647,7 +33647,7 @@
     "name": "Nord Wirtschaft",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-18T11:14:13.753Z",
+    "controlDate": "2026-10-18T13:01:41.060Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -85768,7 +85768,7 @@
     "rfStatewide": false,
     "name": "Merian",
     "type": "print",
-    "controlDate": "2026-05-18T11:03:56.463Z",
+    "controlDate": "2026-10-18T12:44:37.893Z",
     "pressKind": "Reise",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85924,7 +85924,7 @@
     "rfStatewide": false,
     "name": "A&W Architektur & Wohnen",
     "type": "print",
-    "controlDate": "2026-05-18T11:03:40.893Z",
+    "controlDate": "2026-10-18T12:43:58.216Z",
     "pressKind": "Wohnen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -85945,7 +85945,7 @@
     "rfStatewide": false,
     "name": "Der Feinschmecker",
     "type": "print",
-    "controlDate": "2026-05-18T11:03:47.896Z",
+    "controlDate": "2026-10-18T12:44:06.646Z",
     "pressKind": "Food",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -86858,7 +86858,7 @@
     "rfStatewide": false,
     "name": "Reiter Revue International",
     "type": "print",
-    "controlDate": "2026-05-18T10:56:16.866Z",
+    "controlDate": "2026-10-18T12:23:49.011Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97288,7 +97288,7 @@
     "rfStatewide": false,
     "name": "tennisMagazin",
     "type": "print",
-    "controlDate": "2026-05-18T10:58:07.530Z",
+    "controlDate": "2026-10-18T12:24:50.619Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97396,7 +97396,7 @@
     "rfStatewide": false,
     "name": "Jäger",
     "type": "print",
-    "controlDate": "2026-05-18T10:53:39.334Z",
+    "controlDate": "2026-10-18T12:21:55.231Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97417,7 +97417,7 @@
     "rfStatewide": false,
     "name": "Blinker",
     "type": "print",
-    "controlDate": "2026-05-18T10:53:05.707Z",
+    "controlDate": "2026-10-18T12:20:29.672Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97438,7 +97438,7 @@
     "rfStatewide": false,
     "name": "Fliegen Fischen",
     "type": "print",
-    "controlDate": "2026-05-18T10:53:14.599Z",
+    "controlDate": "2026-10-18T12:21:39.440Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97459,7 +97459,7 @@
     "rfStatewide": false,
     "name": "Angelwoche",
     "type": "print",
-    "controlDate": "2026-05-18T10:52:22.986Z",
+    "controlDate": "2026-10-18T12:20:20.807Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97480,7 +97480,7 @@
     "rfStatewide": false,
     "name": "fotoMagazin",
     "type": "print",
-    "controlDate": "2026-05-18T10:57:57.369Z",
+    "controlDate": "2026-10-18T12:24:40.844Z",
     "pressKind": "Kino/Video/Audio",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97501,7 +97501,7 @@
     "rfStatewide": false,
     "name": "fliegermagazin",
     "type": "print",
-    "controlDate": "2026-05-18T10:57:28.356Z",
+    "controlDate": "2026-10-18T12:24:28.589Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97546,7 +97546,7 @@
     "rfStatewide": false,
     "name": "St. Georg",
     "type": "print",
-    "controlDate": "2026-05-18T10:56:58.334Z",
+    "controlDate": "2026-10-18T12:24:19.366Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97567,7 +97567,7 @@
     "rfStatewide": false,
     "name": "Aero international",
     "type": "print",
-    "controlDate": "2026-05-18T10:51:09.155Z",
+    "controlDate": "2026-10-18T12:20:04.808Z",
     "pressKind": "Luft-/Raumfahrt",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97633,7 +97633,7 @@
     "rfStatewide": false,
     "name": "Mein Pferd",
     "type": "print",
-    "controlDate": "2026-05-18T10:55:05.253Z",
+    "controlDate": "2026-10-18T12:22:33.722Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97678,7 +97678,7 @@
     "rfStatewide": false,
     "name": "Karpfen",
     "type": "print",
-    "controlDate": "2026-05-18T10:53:49.279Z",
+    "controlDate": "2026-10-18T12:22:08.161Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -97699,7 +97699,7 @@
     "rfStatewide": false,
     "name": "Angelsee Aktuell",
     "type": "print",
-    "controlDate": "2026-05-18T10:52:12.275Z",
+    "controlDate": "2026-10-18T12:20:12.991Z",
     "pressKind": "Sport",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -104953,7 +104953,7 @@
     "name": "www.nordwirtschaft.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-18T11:14:19.944Z",
+    "controlDate": "2026-10-18T13:01:47.713Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -110134,7 +110134,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:04:55.182Z",
+    "controlDate": "2026-10-18T12:45:31.459Z",
     "state": "active"
   },
   {
@@ -110170,7 +110170,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-18T11:05:03.146Z",
+    "controlDate": "2026-10-18T12:45:40.331Z",
     "state": "active"
   },
   {
