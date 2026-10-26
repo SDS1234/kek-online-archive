@@ -5338,7 +5338,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-19T13:14:36.988Z",
+    "controlDate": "2026-10-26T14:48:56.307Z",
     "state": "active"
   },
   {
@@ -15804,7 +15804,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-19T13:14:17.367Z",
+    "controlDate": "2026-10-26T14:48:31.476Z",
     "state": "active"
   },
   {
@@ -22199,7 +22199,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-19T13:14:10.748Z",
+    "controlDate": "2026-10-26T14:48:24.300Z",
     "state": "active"
   },
   {
@@ -36533,7 +36533,7 @@
     "name": "www.weinwisser.org",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-19T13:20:31.819Z",
+    "controlDate": "2026-10-26T14:57:23.158Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -95659,7 +95659,7 @@
     "rfStatewide": false,
     "name": "Kneipp Journal aktiv & gesund",
     "type": "print",
-    "controlDate": "2026-05-19T12:28:00.953Z",
+    "controlDate": "2026-10-26T14:25:38.063Z",
     "pressKind": "Gesundheit",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -108951,7 +108951,7 @@
     "name": "www.radio-hannover.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-04T11:19:08.256Z",
+    "controlDate": "2026-10-26T14:21:46.192Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -112711,7 +112711,7 @@
     "rfStatewide": false,
     "name": "Bild der Wissenschaft",
     "type": "print",
-    "controlDate": "2026-05-19T13:13:41.983Z",
+    "controlDate": "2026-10-26T14:47:44.718Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112732,7 +112732,7 @@
     "rfStatewide": false,
     "name": "Damals",
     "type": "print",
-    "controlDate": "2026-05-19T13:13:51.181Z",
+    "controlDate": "2026-10-26T14:48:00.733Z",
     "pressKind": "Wissen",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112753,7 +112753,7 @@
     "rfStatewide": false,
     "name": "natur",
     "type": "print",
-    "controlDate": "2026-05-19T13:14:03.813Z",
+    "controlDate": "2026-10-26T14:48:13.892Z",
     "pressKind": "Natur",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
@@ -112777,7 +112777,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-05-19T13:14:28.392Z",
+    "controlDate": "2026-10-26T14:48:46.885Z",
     "state": "active"
   },
   {
@@ -135777,7 +135777,7 @@
     "name": "www.kompass.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-19T13:10:45.102Z",
+    "controlDate": "2026-10-26T14:37:01.588Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -142733,7 +142733,7 @@
     "name": "www.selection-online.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-05-19T13:19:31.810Z",
+    "controlDate": "2026-10-26T14:56:46.921Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -156808,7 +156808,7 @@
     "name": "Smokersclub",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-19T13:19:16.322Z",
+    "controlDate": "2026-10-26T14:56:28.174Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -157236,7 +157236,7 @@
     "name": "Weinwisser",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-05-19T13:19:24.842Z",
+    "controlDate": "2026-10-26T14:56:40.449Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
