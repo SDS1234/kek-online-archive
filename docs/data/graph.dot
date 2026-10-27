@@ -22194,11 +22194,11 @@ digraph {
     label="Business Eagles Gude GmbH & Co. KG"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0140
     name="6ace20fb-d772-40d3-b721-e31f8203b849"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1850 [
     type=shareholder
@@ -22326,11 +22326,11 @@ digraph {
     label="Butt-Böhme, Stefan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=63
+    num_medias_weighted=0.0527
     name="6acde781-24e0-45ec-b83b-6ac293c6d3fb"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1861 [
     type=shareholder
@@ -22914,11 +22914,11 @@ digraph {
     label="Böhme, Daniel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=63
+    num_medias_weighted=0.0527
     name="6acde766-9f1e-4fef-8e21-74899fe5702b"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   1910 [
     type=shareholder
@@ -37470,11 +37470,11 @@ digraph {
     label="EastEnd46 Beratungs- und Beteiligungsgesellschaft mbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0026
     name="6ace219a-d89a-487c-b8a5-7fdc1f7c8a3f"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3123 [
     type=print
@@ -54090,11 +54090,11 @@ digraph {
     label="Gasse, Ulrich"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0039
     name="6ace212f-74fc-40fb-8dbf-102f9705ef6e"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4508 [
     type=shareholder
@@ -56214,11 +56214,11 @@ digraph {
     label="Gessler, Vivien"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=63
+    num_medias_weighted=0.0527
     name="6acde754-d65c-4a3f-bd07-c08115e4c211"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4685 [
     type=shareholder
@@ -59361,7 +59361,7 @@ digraph {
     num_medias=2
     num_medias_weighted=0.0312
     name="69f8b833-6c3e-4527-986e-0e6e4a92c7d7"
-    in_degree=0
+    in_degree=7
     out_degree=1
   ];
   4947 [
@@ -59454,11 +59454,11 @@ digraph {
     label="Guldin, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0029
     name="6ace2147-0265-4ad7-ac89-d7cd2ee07590"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   4955 [
     type=shareholder
@@ -60906,11 +60906,11 @@ digraph {
     label="Hakoah New Ventures ApS"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0026
     name="6ace220c-35b2-4194-a09c-5f15f30b3653"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   5076 [
     type=shareholder
@@ -127257,7 +127257,7 @@ digraph {
     num_medias=63
     num_medias_weighted=0.6778
     name="5be1a6b6-beec-4245-a399-8749db1222f9"
-    in_degree=7
+    in_degree=10
     out_degree=4
   ];
   10605 [
@@ -169686,11 +169686,11 @@ digraph {
     label="Wiener, Arthur"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0026
     name="6ace2165-71d5-4b97-8984-1bfbdb952870"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   14141 [
     type=shareholder
@@ -212442,11 +212442,11 @@ digraph {
     label="Zeigherman, Patrik"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=2
+    num_medias_weighted=0.0026
     name="6ace21e5-5859-4d80-8228-ba3f59c335d1"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   17704 [
     type=shareholder
@@ -222137,6 +222137,10 @@ digraph {
     weight=100
     type=owns
   ];
+  1849 -> 4946 [
+    weight=44.76
+    type=owns
+  ];
   1852 -> 1851 [
     weight=100
     type=operates
@@ -222151,6 +222155,10 @@ digraph {
   ];
   1858 -> 1968 [
     weight=13.34
+    type=owns
+  ];
+  1860 -> 10604 [
+    weight=7.77
     type=owns
   ];
   1863 -> 3004 [
@@ -222379,6 +222387,10 @@ digraph {
   ];
   1908 -> 13029 [
     weight=50
+    type=owns
+  ];
+  1909 -> 10604 [
+    weight=7.77
     type=owns
   ];
   1910 -> 9131 [
@@ -227604,6 +227616,10 @@ digraph {
   3119 -> 16519 [
     weight=100
     type=operates
+  ];
+  3122 -> 4946 [
+    weight=8.37
+    type=owns
   ];
   3124 -> 3126 [
     weight=100
@@ -233685,6 +233701,10 @@ digraph {
     weight=20
     type=owns
   ];
+  4507 -> 4946 [
+    weight=12.56
+    type=owns
+  ];
   4508 -> 4971 [
     weight=33.33
     type=owns
@@ -234483,6 +234503,10 @@ digraph {
   ];
   4683 -> 11433 [
     weight=3.33
+    type=owns
+  ];
+  4684 -> 10604 [
+    weight=7.77
     type=owns
   ];
   4691 -> 4692 [
@@ -235549,6 +235573,10 @@ digraph {
     weight=1
     type=owns
   ];
+  4954 -> 4946 [
+    weight=9.21
+    type=owns
+  ];
   4955 -> 9196 [
     weight=17.27
     type=owns
@@ -236131,6 +236159,10 @@ digraph {
   ];
   5074 -> 1531 [
     weight=6.14
+    type=owns
+  ];
+  5075 -> 4946 [
+    weight=8.37
     type=owns
   ];
   5076 -> 7760 [
@@ -277917,6 +277949,10 @@ digraph {
     weight=50
     type=owns
   ];
+  14140 -> 4946 [
+    weight=8.37
+    type=owns
+  ];
   14142 -> 2280 [
     weight=50
     type=owns
@@ -279171,6 +279207,10 @@ digraph {
   ];
   17702 -> 13743 [
     weight=2.21
+    type=owns
+  ];
+  17703 -> 4946 [
+    weight=8.37
     type=owns
   ];
   17704 -> 12480 [
