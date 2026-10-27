@@ -79819,10 +79819,10 @@ digraph {
     num_owners=1
     num_owners_weighted=1.0000
     num_medias=4
-    num_medias_weighted=3.9000
+    num_medias_weighted=4.0000
     name="63da97f4-ac0d-41d8-83f3-f45776b6ad23"
     in_degree=1
-    out_degree=4
+    out_degree=5
   ];
   6652 [
     type=shareholder
@@ -114499,7 +114499,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=4
-    num_medias_weighted=3.9000
+    num_medias_weighted=4.0000
     name="63da9e2b-f4ae-4e0c-8169-ef63c2c81f5c"
     in_degree=0
     out_degree=1
@@ -187845,7 +187845,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="63da9b80-ecb1-4b0b-8246-77552fa0a07f"
-    in_degree=1
+    in_degree=2
     out_degree=0
   ];
   15654 [
@@ -242764,6 +242764,10 @@ digraph {
   6651 -> 6511 [
     weight=90
     type=owns
+  ];
+  6651 -> 15653 [
+    weight=100
+    type=operates
   ];
   6651 -> 15689 [
     weight=100
