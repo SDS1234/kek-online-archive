@@ -22372,7 +22372,7 @@
     "name": "Kölner Anzeigenblatt GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "63eba576-89e4-4f30-8879-00c13d93c5c3",
-    "controlDate": "2026-05-20T08:46:55.428Z",
+    "controlDate": "2026-10-28T16:33:49.149Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -24926,7 +24926,7 @@
     "squuid": "63eba619-22d7-4d58-92c6-c8e060601db7",
     "name": "Kölner Anzeigenblatt Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:46:50.057Z",
+    "controlDate": "2026-10-28T16:33:36.497Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -30415,7 +30415,7 @@
         "state": "active",
         "held": {
           "squuid": "5be1a6b1-c8ed-4de1-a42f-6175e8724e73",
-          "name": "Hamburg 2"
+          "name": "80er, 90er OLDIE ANTENNE Hamburg"
         }
       },
       {
@@ -36798,7 +36798,7 @@
     "squuid": "5be1a6b6-a416-41e1-8a00-02bfc3b953e9",
     "name": "Kyodo News",
     "state": "active",
-    "controlDate": "2025-11-17T10:33:55.655Z",
+    "controlDate": "2026-10-28T16:14:37.429Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -85138,7 +85138,7 @@
     "squuid": "5be1a6b6-de39-4a11-9404-927d9956f6d6",
     "name": "Kölnische Verlagsdruckerei GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:48:10.198Z",
+    "controlDate": "2026-10-28T16:38:03.244Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -100656,7 +100656,7 @@
     "squuid": "5c50277b-db8f-4037-88d8-b0ceddd8bf9b",
     "name": "KW 25 Beteiligungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:45:16.342Z",
+    "controlDate": "2026-10-28T16:14:21.179Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -104535,7 +104535,7 @@
     "squuid": "62a8afd5-1b2b-4ec3-a7da-31a205712516",
     "name": "Kurier Verlag GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:28:35.583Z",
+    "controlDate": "2026-10-28T15:31:31.406Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -128177,7 +128177,7 @@
     "squuid": "62a8bbef-9358-422c-b9f4-3a73c65a618b",
     "name": "Kurier Verlag Lennestadt GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:30:35.022Z",
+    "controlDate": "2026-10-28T15:33:06.218Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -140770,7 +140770,7 @@
     "squuid": "63c0003d-809e-463a-830c-5943bb67104a",
     "name": "Kühne Aviation GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:53:23.321Z",
+    "controlDate": "2026-10-28T16:38:19.541Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -164655,7 +164655,7 @@
     "squuid": "63e114ce-f043-4850-91bf-e6a10eb4662a",
     "name": "Kurier-Verlag GmbH (Hildburghausen)",
     "state": "active",
-    "controlDate": "2026-05-20T08:36:36.689Z",
+    "controlDate": "2026-10-28T15:40:06.479Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176820,7 +176820,7 @@
     "squuid": "5d30699e-3ff6-4124-9699-5379b718210b",
     "name": "Kurier Zeitungsverlag und Druckerei GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:32:31.222Z",
+    "controlDate": "2026-10-28T15:33:40.921Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -176871,7 +176871,7 @@
     "squuid": "5d306a01-279c-47e9-b3e2-145b282dac7d",
     "name": "KURIER Beteiligungs AG ",
     "state": "active",
-    "controlDate": "2026-05-20T08:27:46.871Z",
+    "controlDate": "2026-10-28T15:29:55.950Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192178,7 +192178,7 @@
     "squuid": "5ed0fddb-fb2e-439b-8e12-df0c6476958d",
     "name": "KZW Verwaltungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:45:48.453Z",
+    "controlDate": "2026-10-28T16:15:39.550Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -197669,7 +197669,7 @@
     "squuid": "695bf519-25dd-4c3f-a861-2180a2103f1c",
     "name": "Kurpfälzische Verlagsbeteiligungs GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T08:43:20.057Z",
+    "controlDate": "2026-10-28T15:43:55.623Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -223332,7 +223332,7 @@
     "squuid": "6400767f-7687-42c6-b281-55e0bf2a0af0",
     "name": "Kurier-Verlag GmbH (Neuss)",
     "state": "active",
-    "controlDate": "2026-05-20T08:37:21.486Z",
+    "controlDate": "2026-10-28T15:41:39.976Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -258265,7 +258265,7 @@
     "squuid": "5be1a6b6-ce08-4da5-902d-86815d9eb408",
     "name": "Kurz und Spiegel GbR",
     "state": "active",
-    "controlDate": "2026-05-20T08:43:36.058Z",
+    "controlDate": "2026-10-28T16:13:26.094Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -277455,7 +277455,7 @@
     "squuid": "5be1a6b6-dbe9-4f99-944b-d6c8f6fd9931",
     "name": "Kuwait Investment Authority (KIA, Land Kuwait)",
     "state": "active",
-    "controlDate": "2024-11-19T11:58:37.922Z",
+    "controlDate": "2026-10-28T16:14:03.335Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -282636,9 +282636,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -283030,9 +283034,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -283282,9 +283290,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -301250,7 +301262,7 @@
     "squuid": "63c91e82-070e-4a98-bbc6-650d42348ab9",
     "name": "Kühne Holding AG",
     "state": "active",
-    "controlDate": "2026-05-20T08:53:32.720Z",
+    "controlDate": "2026-10-28T16:38:33.292Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -306373,9 +306385,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -306442,9 +306458,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
@@ -306660,9 +306680,13 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
+        "name": "KEK",
+        "type": "organization"
+      },
+      {
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
         "type": "organization"
       }
     ]
