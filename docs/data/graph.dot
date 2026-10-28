@@ -59774,15 +59774,15 @@ digraph {
   ];
   4981 [
     type=shareholder
-    state=active
+    state=archived
     label="GWB Grundwert Brandenburg GmbH"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=2
-    num_medias_weighted=0.1088
+    num_medias=0
+    num_medias_weighted=0.0000
     name="65561f97-13f9-4317-bfaa-39b23f9ccd7e"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   4982 [
     type=shareholder
@@ -126909,7 +126909,7 @@ digraph {
     num_medias=2
     num_medias_weighted=2.0000
     name="5be1a6b6-69e0-4daf-a710-83e0f0e54de7"
-    in_degree=14
+    in_degree=13
     out_degree=2
   ];
   10576 [
@@ -235739,10 +235739,6 @@ digraph {
   ];
   4979 -> 2150 [
     weight=7.26
-    type=owns
-  ];
-  4981 -> 10575 [
-    weight=5.44
     type=owns
   ];
   4982 -> 4558 [
