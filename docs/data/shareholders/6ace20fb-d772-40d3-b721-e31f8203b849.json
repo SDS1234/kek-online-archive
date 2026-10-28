@@ -1,6 +1,4 @@
 {
-  "name": "Business Eagles Gude GmbH & Co. KG",
-  "squuid": "6ace20fb-d772-40d3-b721-e31f8203b849",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,15 @@
     }
   ],
   "state": "active",
+  "city": "Freigericht",
+  "pseudoCompany": false,
+  "street": "Bornstr.",
+  "name": "Business Eagles Gude GmbH & Co. KG",
+  "naturalPerson": false,
+  "limitedPartnership": true,
+  "squuid": "6ace20fb-d772-40d3-b721-e31f8203b849",
+  "controlDate": "2026-10-28T09:16:23.770Z",
+  "streetNumber": "19",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +32,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "63579"
 }

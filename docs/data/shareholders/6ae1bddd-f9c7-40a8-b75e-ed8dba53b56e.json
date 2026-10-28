@@ -1,0 +1,13 @@
+{
+  "name": "Business Eagles Gude Verwaltungsgesellschaft mbH",
+  "squuid": "6ae1bddd-f9c7-40a8-b75e-ed8dba53b56e",
+  "state": "active",
+  "organizations": [
+    {
+      "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+      "name": "GGS",
+      "type": "organization",
+      "fullName": "Gemeinsame Geschaeftsstelle"
+    }
+  ]
+}

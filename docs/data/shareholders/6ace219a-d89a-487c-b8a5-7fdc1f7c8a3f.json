@@ -1,6 +1,4 @@
 {
-  "name": "EastEnd46 Beratungs- und Beteiligungsgesellschaft mbH",
-  "squuid": "6ace219a-d89a-487c-b8a5-7fdc1f7c8a3f",
   "owns": [
     {
       "type": "own",
@@ -14,6 +12,14 @@
     }
   ],
   "state": "active",
+  "city": "Frankfurt/M.",
+  "pseudoCompany": false,
+  "street": "August-Schanz-Str.",
+  "name": "EastEnd46 Beratungs- und Beteiligungsgesellschaft mbH",
+  "naturalPerson": false,
+  "squuid": "6ace219a-d89a-487c-b8a5-7fdc1f7c8a3f",
+  "controlDate": "2026-10-28T09:23:24.984Z",
+  "streetNumber": "24-26",
   "organizations": [
     {
       "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -25,5 +31,6 @@
       "name": "DL",
       "type": "organization"
     }
-  ]
+  ],
+  "zipcode": "60433"
 }
