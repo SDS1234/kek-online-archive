@@ -194501,18 +194501,13 @@
   {
     "squuid": "695bb792-1d06-46fc-8e39-09a537863ae8",
     "name": "kulthitRadio Verwaltungs GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-05-20T08:12:43.279Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -259921,33 +259916,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "kulthitRadio GmbH & Co. Studiobetriebs KG",
-    "limitedPartnership": true,
     "squuid": "619e5138-2fd5-41a6-8e2e-720a27ab085e",
+    "name": "kulthitRadio GmbH & Co. Studiobetriebs KG",
+    "state": "archived",
     "controlDate": "2026-10-28T09:52:03.913Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      },
-      {
-        "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-        "name": "LFM NRW",
-        "fullName": "Landesanstalt für Medien Nordrhein-Westfalen",
-        "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "6319bb5c-79dd-40df-b407-1482ef712f1f",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "6319ba2d-aeee-4dd5-ad49-eb9e38585fd0",
-          "name": "Kulthitradio.nrw"
-        }
       }
     ]
   },
