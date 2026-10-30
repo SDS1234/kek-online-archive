@@ -165312,20 +165312,7 @@
     "name": "Hoepfner Besser Wohnen GmbH & Co. KG",
     "state": "active",
     "controlDate": "2026-10-16T09:04:20.648Z",
-    "limitedPartnership": true,
-    "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      }
-    ]
+    "limitedPartnership": true
   },
   {
     "squuid": "696747ea-0fe6-44af-9148-78216e253330",
@@ -261255,9 +261242,32 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
-        "name": "GGS",
-        "fullName": "Gemeinsame Geschaeftsstelle",
+        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+        "name": "DL",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830ad-2ee5-49b4-b028-a4613bb01c2e",
+        "name": "mabb",
+        "fullName": "Medienanstalt Berlin-Brandenburg",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d3-6eed-43cd-8b57-958937d68a9f",
+        "name": "Medienanstalt Hessen",
+        "fullName": "Medienanstalt Hessen",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830d9-f42f-4d90-b6c6-972961be484a",
+        "name": "LMS",
+        "fullName": "Landesmedienanstalt Saarland",
+        "type": "organization"
+      },
+      {
+        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
+        "name": "LFK",
+        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
         "type": "organization"
       }
     ]
@@ -306616,20 +306626,7 @@
     "squuid": "6a180d2e-111c-4c67-83a6-ba72a7113943",
     "name": "Hoepfner Besser Wohnen Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-06-12T07:38:43.298Z",
-    "organizations": [
-      {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
-        "type": "organization"
-      },
-      {
-        "squuid": "5b0830e0-995b-4e41-bc1e-678fbd483756",
-        "name": "LFK",
-        "fullName": "Landesanstalt für Kommunikation Baden-Württemberg",
-        "type": "organization"
-      }
-    ]
+    "controlDate": "2026-06-12T07:38:43.298Z"
   },
   {
     "squuid": "6a3169ed-43a5-48ca-9f7d-4e5de9d2e50a",

@@ -46098,11 +46098,11 @@ digraph {
     label="Familie Schilling von Cannstatt"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=57
+    num_medias_weighted=3.6812
     name="6ad20ee9-8d9c-438b-99ff-dcd8d6d7fa68"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3842 [
     type=shareholder
@@ -67012,21 +67012,21 @@ digraph {
     type=shareholder
     state=active
     label="Hoepfner Besser Wohnen GmbH & Co. KG"
-    num_owners=3
-    num_owners_weighted=3.0000
-    num_medias=4
-    num_medias_weighted=0.1873
+    num_owners=4
+    num_owners_weighted=1.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="6a048a1b-ec57-4d41-9136-984b353a2c9e"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   5585 [
     type=shareholder
     state=active
     label="Hoepfner Besser Wohnen Verwaltungs GmbH"
-    num_owners=0
-    num_owners_weighted=0.0000
-    num_medias=4
+    num_owners=4
+    num_owners_weighted=4.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="6a180d2e-111c-4c67-83a6-ba72a7113943"
     in_degree=1
@@ -67041,7 +67041,7 @@ digraph {
     num_medias=4
     num_medias_weighted=0.3496
     name="5d35cbb0-932a-4aed-9554-ec09fb9323c2"
-    in_degree=5
+    in_degree=4
     out_degree=3
   ];
   5587 [
@@ -68097,7 +68097,7 @@ digraph {
     num_medias=57
     num_medias_weighted=3.6812
     name="5be1a6b6-aa32-48e4-b4b3-92d4a333d5dd"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   5675 [
@@ -230185,6 +230185,10 @@ digraph {
     weight=2
     type=owns
   ];
+  3841 -> 5674 [
+    weight=100
+    type=owns
+  ];
   3842 -> 8216 [
     weight=1
     type=owns
@@ -238347,10 +238351,6 @@ digraph {
   ];
   5584 -> 5585 [
     weight=100
-    type=owns
-  ];
-  5584 -> 5586 [
-    weight=53.58
     type=owns
   ];
   5585 -> 5584 [
