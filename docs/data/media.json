@@ -126396,6 +126396,25 @@
     }
   },
   {
+    "pressPublishingIntervals": 312,
+    "state": "active",
+    "squuid": "6ae46363-c3f1-4c03-b7ed-1d047caea4fd",
+    "organization": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    },
+    "name": "WAZ Westdeutsche Allgemeine (MVM)",
+    "rfPublicPrivate": false,
+    "type": "print",
+    "controlDate": "2026-10-30T09:31:07.495Z",
+    "rfSupervisingAuthority": {
+      "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
+      "name": "DL",
+      "type": "organization"
+    }
+  },
+  {
     "state": "active",
     "squuid": "5d36d0e8-d184-40d9-8223-48a76ea09fd6",
     "organization": {
