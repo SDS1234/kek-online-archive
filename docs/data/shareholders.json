@@ -42275,7 +42275,7 @@
     "squuid": "5be1a6b6-9b97-49b5-8284-cc7be59405de",
     "name": "Lora Programm- Anbieter Gesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-05-20T14:16:19.930Z",
+    "controlDate": "2026-11-03T16:45:24.494Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -46849,7 +46849,7 @@
     "squuid": "5be1a6b6-9618-436a-86d4-98c0dbaae5cd",
     "name": "LR Medienverlag GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T14:35:13.633Z",
+    "controlDate": "2026-11-03T11:37:59.646Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96713,7 +96713,7 @@
     "squuid": "5be1a6b6-b39f-4753-82fe-fc42d8434cda",
     "name": "Lorenz Senn GmbH + Co KG",
     "state": "active",
-    "controlDate": "2026-05-20T14:34:20.120Z",
+    "controlDate": "2026-11-03T11:37:34.345Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -188670,6 +188670,19 @@
     ]
   },
   {
+    "squuid": "6aea0f62-d9c9-40bd-8b46-45bc96d0469f",
+    "name": "Bergs, Karin Ingrid",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "5f64918f-ea20-48ca-a871-1ccdebd0d4ea",
     "name": "Etos TV GmbH",
     "state": "active",
@@ -188740,6 +188753,19 @@
           "squuid": "5d370e4c-823f-4182-9227-b775031d6564",
           "name": "www.dotdash.com"
         }
+      }
+    ]
+  },
+  {
+    "squuid": "6aea0e6b-7d5c-4224-9658-b09347a9df0f",
+    "name": "Erben, Jan Albert",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
       }
     ]
   },
@@ -212759,7 +212785,7 @@
     "squuid": "680b4dc2-e6e4-4e62-9a0a-a59a3a9301ab",
     "name": "Looping Brand Media GmbH",
     "state": "active",
-    "controlDate": "2026-05-20T14:15:57.569Z",
+    "controlDate": "2026-11-03T11:28:57.310Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -214653,8 +214679,9 @@
     "controlDate": "2026-05-29T08:49:32.324Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -218448,8 +218475,9 @@
     "controlDate": "2026-06-08T10:31:53.240Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -219724,8 +219752,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -219763,8 +219792,9 @@
     "controlDate": "2026-06-15T11:30:00.158Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -219801,8 +219831,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -219864,8 +219895,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -307642,8 +307674,9 @@
     "state": "active",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
