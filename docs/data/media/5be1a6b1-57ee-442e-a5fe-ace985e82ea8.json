@@ -1,12 +1,13 @@
 {
   "matchedNames": [
+    "ENERGY Gesamt",
     "Vermarkter ENERGY Gesamt"
   ],
   "rfRepresentative": "Olaf Hoppe",
   "state": "active",
   "rfShoppingChannel": false,
   "squuid": "5be1a6b1-57ee-442e-a5fe-ace985e82ea8",
-  "marketReach": 1.0,
+  "marketReach": 0.8,
   "organization": {
     "squuid": "5b08310a-5980-45c0-b994-009426dae8df",
     "name": "MA HSH",
