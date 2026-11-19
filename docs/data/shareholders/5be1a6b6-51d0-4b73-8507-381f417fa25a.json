@@ -6,7 +6,7 @@
   "name": "FC Bayern München AG",
   "naturalPerson": false,
   "squuid": "5be1a6b6-51d0-4b73-8507-381f417fa25a",
-  "controlDate": "2026-10-09T11:40:37.721Z",
+  "controlDate": "2026-11-12T09:55:01.359Z",
   "streetNumber": "51 - 57",
   "organizations": [
     {
@@ -45,7 +45,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 8.33,
+      "capitalShares": 7.78,
       "holder": {
         "name": "Adidas AG",
         "squuid": "5be1a6b6-154f-4ba1-b24a-29984d9e1c38"
@@ -55,7 +55,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 8.33,
+      "capitalShares": 7.78,
       "holder": {
         "name": "Audi AG",
         "squuid": "5be1a6b6-b2ce-4109-847f-cdd7cf6f54e6"
@@ -65,7 +65,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 75.0,
+      "capitalShares": 70.0,
       "holder": {
         "name": "FC Bayern München e.V.",
         "squuid": "5be1a6b6-00de-4ebb-a61d-b25cbc19c80f"
@@ -75,12 +75,22 @@
     },
     {
       "type": "own",
-      "capitalShares": 8.33,
+      "capitalShares": 7.78,
       "holder": {
         "name": "Allianz SE",
         "squuid": "5be1a6b6-cb16-4d1e-ba0f-87eecce1b902"
       },
       "squuid": "5be1a6b8-d558-442f-8d9e-312d182253f6",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 6.67,
+      "holder": {
+        "name": "Viessmann Sports GmbH",
+        "squuid": "6af58c77-964d-4abc-82a2-12f9245ee8de"
+      },
+      "squuid": "6af58cf3-05d0-42ae-8161-adf352fd63f3",
       "state": "active"
     }
   ]

@@ -2,7 +2,7 @@
   "pressPublishingIntervals": 312,
   "state": "active",
   "rfShoppingChannel": false,
-  "pressAsOfDate": "IV/25",
+  "pressAsOfDate": "I/26",
   "squuid": "5be1a6b1-75e6-4a69-aa95-fbc4f68ffe77",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -32,7 +32,7 @@
     {
       "type": "operate",
       "holder": {
-        "name": "Neue Berliner Redaktionsgesellschaft mbH",
+        "name": "NPG Redaktion GmbH (vormals Neue Berliner Redaktionsgesellschaft mbH)",
         "squuid": "5d035e6b-9d10-4d11-8eab-6decd6b79aae"
       },
       "squuid": "6683c06b-2d1b-42fa-bd49-261d645d21de",
@@ -52,7 +52,7 @@
   "pressEditionsIVW": true,
   "pressDistributionArea": "Burgenlandkreis",
   "type": "print",
-  "controlDate": "2026-06-16T12:39:14.831Z",
+  "controlDate": "2026-11-09T10:30:29.907Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",

@@ -2,7 +2,7 @@
   "pressPublishingIntervals": 312,
   "state": "active",
   "rfShoppingChannel": false,
-  "pressAsOfDate": "IV/25",
+  "pressAsOfDate": "I/26",
   "squuid": "5be1a6b1-562b-4224-81ea-0cc393ce663d",
   "organization": {
     "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -35,7 +35,7 @@
   "pressDistributionArea": "Lk Deggendorf",
   "type": "print",
   "pressEditionsEpaper": 0,
-  "controlDate": "2026-05-29T13:28:49.125Z",
+  "controlDate": "2026-11-18T10:24:04.747Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
@@ -43,7 +43,7 @@
     "state": "active"
   },
   "pressEditionsComments": "inkl. Plattlinger Zeitung und Osterhofener Zeitung",
-  "pressEditionsSold": 13698,
+  "pressEditionsSold": 13295,
   "pressType": {
     "squuid": "5be1a6b0-e4cc-4064-9625-597855abfd7c",
     "name": "Zeitung",

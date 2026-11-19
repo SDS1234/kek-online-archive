@@ -18,7 +18,7 @@
   "name": "MoBet Beteiligungsgesellschaft mbH",
   "naturalPerson": false,
   "squuid": "60953a1c-d3f7-4637-b30b-558db13b833d",
-  "controlDate": "2026-05-22T12:23:20.177Z",
+  "controlDate": "2026-11-12T13:20:05.106Z",
   "streetNumber": "295-297",
   "organizations": [
     {
@@ -66,17 +66,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 4.5,
-      "holder": {
-        "name": "Ferlings, Andre",
-        "squuid": "63c57a3a-80a9-4360-a577-c99237efe8fc"
-      },
-      "squuid": "63c57a4e-3372-4ea3-8044-59cebe66a13e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 10.0,
+      "capitalShares": 12.0,
       "holder": {
         "name": "Finke, Chrsitian",
         "squuid": "63c57a6a-ef78-439c-b630-7e18a3a4ad80"
@@ -116,16 +106,6 @@
     },
     {
       "type": "own",
-      "capitalShares": 3.0,
-      "holder": {
-        "name": "Heinrichs, Andreas",
-        "squuid": "63c57b2c-d411-4156-afd5-4bcc1274c9b4"
-      },
-      "squuid": "63c57b81-9d5f-4e02-8176-699bd87b3159",
-      "state": "active"
-    },
-    {
-      "type": "own",
       "capitalShares": 2.5,
       "holder": {
         "name": "Hetzenegger, Anette",
@@ -136,7 +116,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 2.5,
+      "capitalShares": 5.5,
       "holder": {
         "name": "Heyder, Michael",
         "squuid": "63c57b60-d9eb-40fd-92b2-6b669d98d7f8"
@@ -192,6 +172,16 @@
         "squuid": "63c57c76-7ec9-414f-8ee1-f1c7d3faf1bb"
       },
       "squuid": "63c57c96-a246-4c31-90a1-a7fa38281f87",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 2.5,
+      "holder": {
+        "name": "Breuer, Christiane",
+        "squuid": "6af5bcfc-b4a1-4915-9007-e8537162be40"
+      },
+      "squuid": "6af5bd1a-afb2-49fe-b7c7-b20764338580",
       "state": "active"
     }
   ]

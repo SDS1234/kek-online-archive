@@ -1,49 +1,68 @@
 {
-  "owns": [
-    {
-      "complementaryPartner": true,
-      "type": "own",
-      "capitalShares": 0.0,
-      "held": {
-        "name": "MZ Medien Holding GmbH & Co KG",
-        "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e"
-      },
-      "squuid": "5ecd0925-b659-4310-9c41-c4d0f3bb075b",
-      "state": "active"
-    }
-  ],
   "state": "active",
   "city": "Münster",
   "pseudoCompany": false,
   "street": "An der Hansalinie",
-  "name": "MZ Medien Holding Verwaltungsgesellschaft mbH",
+  "name": "Münstersche Zeitung GmbH",
   "naturalPerson": false,
   "squuid": "5ecd090c-a260-4468-b4af-08278b387b7b",
-  "controlDate": "2026-05-26T08:41:36.588Z",
+  "controlDate": "2026-11-13T09:57:34.912Z",
   "streetNumber": "1",
   "organizations": [
     {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
       "type": "organization"
-    },
-    {
-      "squuid": "5b0830f6-6588-43fb-93a8-d824a4663969",
-      "name": "LFM NRW",
-      "type": "organization",
-      "fullName": "Landesanstalt für Medien Nordrhein-Westfalen"
     }
   ],
   "zipcode": "48163",
+  "operates": [
+    {
+      "type": "operate",
+      "held": {
+        "name": "Grevener Zeitung",
+        "squuid": "5be1a6b1-b420-43a5-8297-fa4ae410c994"
+      },
+      "squuid": "6af6de30-b430-41d0-95ae-5a481c3a9847",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "MZ Mein Sonntag",
+        "squuid": "683995b6-6b7c-4063-86d8-474c84530d2d"
+      },
+      "squuid": "6af6de4d-6ba6-4d90-a780-ffde344e7d30",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "Münstersche Zeitung",
+        "squuid": "5be1a6b1-3758-45d3-b0ab-d988eb6cfce0"
+      },
+      "squuid": "6af6de69-46d4-4407-8146-95086a558423",
+      "state": "active"
+    },
+    {
+      "type": "operate",
+      "held": {
+        "name": "www.muensterschezeitung.de",
+        "squuid": "5be1a6b1-6960-4159-a558-91a86b0b1e0c"
+      },
+      "squuid": "6af6de8e-2685-4e09-999b-3d633d92bdf9",
+      "state": "active"
+    }
+  ],
   "ownedBy": [
     {
       "type": "own",
       "capitalShares": 100.0,
       "holder": {
-        "name": "MZ Medien Holding GmbH & Co KG",
-        "squuid": "5be1a6b6-47af-4662-8ef2-4d3604b8743e"
+        "name": "Aschendorff Medien GmbH & Co. KG",
+        "squuid": "5be1a6b6-e22f-4be6-b2ce-4a26c158305c"
       },
-      "squuid": "5ef1c710-4564-4d10-b23f-1b4bf7132690",
+      "squuid": "6af6dd9c-e117-4acf-a08a-8a159bb90cb0",
       "state": "active"
     }
   ]

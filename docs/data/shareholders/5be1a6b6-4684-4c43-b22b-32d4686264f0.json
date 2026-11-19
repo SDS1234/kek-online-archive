@@ -1,12 +1,13 @@
 {
   "state": "active",
   "city": "Stuttgart",
+  "note": "Stand: 11/2026",
   "pseudoCompany": false,
   "street": "Mercedesstr.",
   "name": "Mercedes-Benz Group AG",
   "naturalPerson": false,
   "squuid": "5be1a6b6-4684-4c43-b22b-32d4686264f0",
-  "controlDate": "2026-05-22T08:42:56.240Z",
+  "controlDate": "2026-11-10T14:29:05.320Z",
   "streetNumber": "120",
   "organizations": [
     {
@@ -45,7 +46,7 @@
   "ownedBy": [
     {
       "type": "own",
-      "capitalShares": 4.47,
+      "capitalShares": 5.87,
       "holder": {
         "name": "BlackRock, Inc.",
         "squuid": "5be1a6b6-9cab-4e9a-b708-71ca2d2098fd"
@@ -55,7 +56,7 @@
     },
     {
       "type": "own",
-      "capitalShares": 6.84,
+      "capitalShares": 5.33,
       "holder": {
         "name": "Kuwait Investment Authority (KIA, Land Kuwait)",
         "squuid": "5be1a6b6-dbe9-4f99-944b-d6c8f6fd9931"
@@ -65,42 +66,12 @@
     },
     {
       "type": "own",
-      "capitalShares": 1.54,
-      "holder": {
-        "name": "Renault S.A.",
-        "squuid": "5be1a6b6-b2f2-4509-b0a1-13794bdcc11a"
-      },
-      "squuid": "5be1a6b8-473e-4528-8f30-9890c2efcfd8",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 1.54,
-      "holder": {
-        "name": "Nissan Motor Co., Ltd.",
-        "squuid": "5be1a6b6-f52d-4e2d-8bd3-bc7c08590a8b"
-      },
-      "squuid": "5be1a6b8-35f7-4996-964c-dda3b3125c82",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 62.77,
+      "capitalShares": 66.08,
       "holder": {
         "name": "Streubesitz an der Mercedes-Benz Group AG",
         "squuid": "5be1a6b6-0b50-47d2-aa5a-93bfc5ff954d"
       },
       "squuid": "5be1a6b8-ea37-4982-a946-da2c5337df95",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 3.17,
-      "holder": {
-        "name": "Bank of America Corporation",
-        "squuid": "5be1a6b6-153e-4a7e-aaf7-a5668a094638"
-      },
-      "squuid": "5f19454d-80f1-4342-bcea-78226a6ca4c1",
       "state": "active"
     },
     {
@@ -121,6 +92,16 @@
         "squuid": "5f1944a3-bed7-4080-9979-792bf22e1c42"
       },
       "squuid": "5f1945e8-f9f8-46dd-9ef7-cbcb50a0ca19",
+      "state": "active"
+    },
+    {
+      "type": "own",
+      "capitalShares": 3.05,
+      "holder": {
+        "name": "Eigenbesitz der Mercedes-Benz Group AG",
+        "squuid": "6af32994-28e7-411c-8754-553b0bc09fe7"
+      },
+      "squuid": "6af329c5-7fe4-493f-95d9-0c5544859225",
       "state": "active"
     }
   ]
