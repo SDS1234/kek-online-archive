@@ -1,0 +1,240 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://medienvielfaltsmonitor.de/schema/shareholder.json",
+  "title": "KEK Shareholder Entity",
+  "description": "Schema for shareholder/holder entities (natural persons and companies) in the KEK database",
+  "type": "object",
+  "required": ["squuid", "name", "state"],
+  "properties": {
+    "squuid": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique identifier for the shareholder entity"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the shareholder (person or company)"
+    },
+    "state": {
+      "type": "string",
+      "enum": ["active", "archived"],
+      "description": "Current state of the shareholder entity"
+    },
+    "naturalPerson": {
+      "type": "boolean",
+      "description": "Whether this is a natural person (true) or a company (false)"
+    },
+    "pseudoCompany": {
+      "type": "boolean",
+      "description": "Whether this is a pseudo company"
+    },
+    "controlDate": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Last control/update date"
+    },
+    "corporationName": {
+      "type": "string",
+      "description": "Corporation name if different from name"
+    },
+    "co": {
+      "type": "string",
+      "description": "Care of address"
+    },
+    "street": {
+      "type": "string",
+      "description": "Street name"
+    },
+    "streetNumber": {
+      "type": "string",
+      "description": "Street number"
+    },
+    "zipcode": {
+      "type": "string",
+      "description": "Postal code"
+    },
+    "city": {
+      "type": "string",
+      "description": "City name"
+    },
+    "placeOfBusiness": {
+      "type": "string",
+      "description": "Place of business"
+    },
+    "limitedPartnership": {
+      "type": "boolean",
+      "description": "Is this a limited partnership (KG)"
+    },
+    "supplierConsortium": {
+      "type": "boolean",
+      "description": "Is this a supplier consortium"
+    },
+    "organizations": {
+      "type": "array",
+      "description": "Associated organizations (supervising authorities)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "squuid": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "name": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "const": "organization"
+          },
+          "fullName": {
+            "type": "string"
+          }
+        },
+        "required": ["squuid", "name", "type"]
+      }
+    },
+    "ownedBy": {
+      "type": "array",
+      "description": "List of shareholders that own this entity",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "const": "own"
+          },
+          "squuid": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Unique identifier for this ownership relation"
+          },
+          "state": {
+            "type": "string",
+            "description": "State of this ownership relation"
+          },
+          "capitalShares": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "description": "Percentage of capital shares owned"
+          },
+          "complementaryPartner": {
+            "type": "boolean",
+            "description": "Is this a complementary partner"
+          },
+          "holder": {
+            "type": "object",
+            "description": "The shareholder who owns this entity",
+            "properties": {
+              "squuid": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "name": {
+                "type": "string"
+              }
+            },
+            "required": ["squuid", "name"]
+          }
+        },
+        "required": ["type", "holder", "squuid", "state"]
+      }
+    },
+    "owns": {
+      "type": "array",
+      "description": "List of entities owned by this shareholder",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "const": "own"
+          },
+          "squuid": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Unique identifier for this ownership relation"
+          },
+          "state": {
+            "type": "string",
+            "description": "State of this ownership relation"
+          },
+          "capitalShares": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "description": "Percentage of capital shares owned"
+          },
+          "complementaryPartner": {
+            "type": "boolean",
+            "description": "Is this a complementary partner"
+          },
+          "held": {
+            "type": "object",
+            "description": "The entity that is owned",
+            "properties": {
+              "squuid": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "name": {
+                "type": "string"
+              }
+            },
+            "required": ["squuid", "name"]
+          }
+        },
+        "required": ["type", "held", "squuid", "state"]
+      }
+    },
+    "operates": {
+      "type": "array",
+      "description": "List of media entities operated by this shareholder",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "const": "operate"
+          },
+          "squuid": {
+            "type": "string",
+            "format": "uuid",
+            "description": "Unique identifier for this operation relation"
+          },
+          "state": {
+            "type": "string",
+            "description": "State of this operation relation"
+          },
+          "held": {
+            "type": "object",
+            "description": "The media entity that is operated",
+            "properties": {
+              "squuid": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "name": {
+                "type": "string"
+              }
+            },
+            "required": ["squuid", "name"]
+          }
+        },
+        "required": ["type", "held", "squuid", "state"]
+      }
+    },
+    "otherMediaActivities": {
+      "type": "string",
+      "description": "Description of other media activities"
+    },
+    "note": {
+      "type": "string",
+      "description": "Additional notes"
+    },
+    "credits": {
+      "type": "string",
+      "description": "Credits or references to decisions"
+    }
+  }
+}
