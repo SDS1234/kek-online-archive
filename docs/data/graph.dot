@@ -24174,11 +24174,11 @@ digraph {
     label="Carl Oechslin Stiftung"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=3
+    num_medias_weighted=0.1800
     name="6af3234b-0be9-42cc-88d9-b2fc6d53330d"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   2015 [
     type=shareholder
@@ -95049,7 +95049,7 @@ digraph {
     num_medias=3
     num_medias_weighted=0.1800
     name="5be1a6b6-9346-4caa-9830-6d105196b16b"
-    in_degree=0
+    in_degree=1
     out_degree=1
   ];
   7921 [
@@ -223134,6 +223134,10 @@ digraph {
     type=owns
   ];
   2013 -> 13441 [
+    weight=100
+    type=owns
+  ];
+  2014 -> 7920 [
     weight=100
     type=owns
   ];
