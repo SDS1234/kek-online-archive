@@ -12199,7 +12199,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-74b7-4360-83bc-f6d4fecbcb5d"
     in_degree=0
     out_degree=1
@@ -14755,7 +14755,7 @@ digraph {
     num_owners=13
     num_owners_weighted=5.2640
     num_medias=251
-    num_medias_weighted=64.7023
+    num_medias_weighted=64.3434
     name="5be1a6b6-a85b-4085-9d44-305f43201b7d"
     in_degree=1
     out_degree=1
@@ -14779,7 +14779,7 @@ digraph {
     num_owners=12
     num_owners_weighted=4.2640
     num_medias=274
-    num_medias_weighted=68.2116
+    num_medias_weighted=67.8526
     name="5be1a6b6-aa3c-4c8d-b521-b32f5a0cda76"
     in_degree=4
     out_degree=4
@@ -14791,7 +14791,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=52.9322
+    num_medias_weighted=52.6536
     name="5be1a6b6-bf36-4505-83b4-823c842c8df3"
     in_degree=0
     out_degree=1
@@ -14803,7 +14803,7 @@ digraph {
     num_owners=8
     num_owners_weighted=8.0000
     num_medias=274
-    num_medias_weighted=2.2510
+    num_medias_weighted=2.2391
     name="5be1a6b6-d5e7-4704-b7d7-fc44101813c3"
     in_degree=8
     out_degree=2
@@ -21103,7 +21103,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-2e77-4098-a200-baa0e526fbfd"
     in_degree=0
     out_degree=1
@@ -22567,7 +22567,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=1.1255
+    num_medias_weighted=1.1196
     name="65254565-7c66-4b64-a3f6-230a39ffa25a"
     in_degree=0
     out_degree=1
@@ -22579,7 +22579,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.5853
+    num_medias_weighted=0.5822
     name="5be1a6b6-69e7-4f06-b067-2d61a6d42a28"
     in_degree=0
     out_degree=1
@@ -25987,7 +25987,7 @@ digraph {
     num_owners=18
     num_owners_weighted=8.9957
     num_medias=251
-    num_medias_weighted=86.5109
+    num_medias_weighted=86.0309
     name="5be1a6b6-f5bf-477e-81eb-7e13fe0744b1"
     in_degree=2
     out_degree=3
@@ -39847,7 +39847,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=251
-    num_medias_weighted=0.6556
+    num_medias_weighted=0.6520
     name="5be1a6b6-d50b-4fcf-807c-4af90e264d41"
     in_degree=0
     out_degree=1
@@ -46123,7 +46123,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=13.0284
+    num_medias_weighted=12.9598
     name="5be1a6b6-1245-4680-afa1-9b4de5d743e8"
     in_degree=0
     out_degree=1
@@ -98503,7 +98503,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-b02b-4e3c-93fc-8cddd1a3d16e"
     in_degree=0
     out_degree=1
@@ -98515,7 +98515,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-707c-4a47-8736-5678b37c8407"
     in_degree=0
     out_degree=1
@@ -98527,7 +98527,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-8ddb-4101-bd5b-007be842c305"
     in_degree=0
     out_degree=1
@@ -119229,7 +119229,7 @@ digraph {
     num_medias=4
     num_medias_weighted=4.0000
     name="5be1a6b6-afdb-4d8d-9a1a-2837b541b32e"
-    in_degree=4
+    in_degree=3
     out_degree=4
   ];
   9936 [
@@ -129331,7 +129331,7 @@ digraph {
     num_owners=19
     num_owners_weighted=9.9957
     num_medias=249
-    num_medias_weighted=84.5109
+    num_medias_weighted=84.0309
     name="5be1a6b6-8121-4304-890e-61c94a6f08d0"
     in_degree=1
     out_degree=2
@@ -129343,7 +129343,7 @@ digraph {
     num_owners=16
     num_owners_weighted=7.0154
     num_medias=251
-    num_medias_weighted=86.2686
+    num_medias_weighted=85.7900
     name="5be1a6b6-7474-4c9a-a706-95e39a65b236"
     in_degree=3
     out_degree=2
@@ -129547,7 +129547,7 @@ digraph {
     num_owners=21
     num_owners_weighted=11.9957
     num_medias=140
-    num_medias_weighted=24.7261
+    num_medias_weighted=24.2461
     name="5be1a6b6-fa80-4709-a830-dea042b7476d"
     in_degree=1
     out_degree=9
@@ -129571,10 +129571,10 @@ digraph {
     num_owners=22
     num_owners_weighted=12.9957
     num_medias=4
-    num_medias_weighted=0.4800
+    num_medias_weighted=0.0000
     name="68de6a87-02d2-4068-989d-cae776ea8273"
     in_degree=1
-    out_degree=2
+    out_degree=1
   ];
   10798 [
     type=tv
@@ -129849,7 +129849,7 @@ digraph {
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b6-f038-4e3f-a435-3be4287a6c9f"
-    in_degree=7
+    in_degree=6
     out_degree=0
   ];
   10821 [
@@ -129868,13 +129868,13 @@ digraph {
     type=shareholder
     state=active
     label="Rubens GmbH"
-    num_owners=14
-    num_owners_weighted=6.1650
+    num_owners=10
+    num_owners_weighted=4.4000
     num_medias=35
     num_medias_weighted=0.0000
     name="5ec4fd1f-3bf4-4b8e-a256-1e46185ff8bc"
     in_degree=2
-    out_degree=3
+    out_degree=2
   ];
   10823 [
     type=shareholder
@@ -130155,25 +130155,25 @@ digraph {
   10846 [
     type=shareholder
     state=active
-    label="Ruhr24 GmbH & Co. KG"
-    num_owners=19
-    num_owners_weighted=6.3200
-    num_medias=1
-    num_medias_weighted=1.0000
-    name="5c5c4a82-8897-442c-a194-c9e656c2a047"
-    in_degree=3
-    out_degree=1
-  ];
-  10847 [
-    type=shareholder
-    state=active
-    label="Ruhr24 Verwaltungsgesellschaft mbH"
-    num_owners=18
+    label="Ruhr24 GmbH"
+    num_owners=14
     num_owners_weighted=5.3200
     num_medias=1
     num_medias_weighted=0.0000
     name="5f032ce9-7acd-43dd-9212-f63c50fa600f"
     in_degree=2
+    out_degree=1
+  ];
+  10847 [
+    type=shareholder
+    state=active
+    label="Ruhr24 GmbH & Co. KG"
+    num_owners=15
+    num_owners_weighted=6.3200
+    num_medias=1
+    num_medias_weighted=1.0000
+    name="5c5c4a82-8897-442c-a194-c9e656c2a047"
+    in_degree=3
     out_degree=1
   ];
   10848 [
@@ -148471,7 +148471,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=251
-    num_medias_weighted=0.2422
+    num_medias_weighted=0.2409
     name="5be1a6b6-bb31-455d-8886-58a46c187534"
     in_degree=0
     out_degree=1
@@ -149239,7 +149239,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=251
-    num_medias_weighted=15.4852
+    num_medias_weighted=15.3993
     name="5be1a6b6-feae-4ddc-a9cf-693499ffac4b"
     in_degree=0
     out_degree=1
@@ -158899,7 +158899,7 @@ digraph {
     num_owners=0
     num_owners_weighted=0.0000
     num_medias=274
-    num_medias_weighted=0.0900
+    num_medias_weighted=0.0896
     name="5be1a6b6-adf6-46b8-902a-e8d6c4ef8318"
     in_degree=0
     out_degree=1
@@ -158923,7 +158923,7 @@ digraph {
     num_owners=20
     num_owners_weighted=10.9957
     num_medias=249
-    num_medias_weighted=84.5109
+    num_medias_weighted=84.0309
     name="5be1a6b6-f28f-4a5c-ade9-5d5645c0cd41"
     in_degree=1
     out_degree=3
@@ -169517,7 +169517,7 @@ digraph {
     state=active
     label="Westfälische Rundschau (Ausgaben Unna/Kamen)"
     num_owners=63
-    num_owners_weighted=42.6882
+    num_owners_weighted=44.6882
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-aedb-48de-9ec8-f7c8f6b4e1c1"
@@ -202036,7 +202036,7 @@ digraph {
     type=online
     state=active
     label="www.ruhr24.de"
-    num_owners=100
+    num_owners=96
     num_owners_weighted=18.0691
     num_medias=0
     num_medias_weighted=0.0000
@@ -213412,7 +213412,7 @@ digraph {
     type=shareholder
     state=active
     label="Zeitungsverlag Unna GmbH & Co KG"
-    num_owners=17
+    num_owners=13
     num_owners_weighted=3.0000
     num_medias=2
     num_medias_weighted=1.2000
@@ -263201,10 +263201,6 @@ digraph {
     weight=12
     type=owns
   ];
-  10797 -> 9935 [
-    weight=12
-    type=owns
-  ];
   10800 -> 2163 [
     weight=100
     type=owns
@@ -263417,10 +263413,6 @@ digraph {
     weight=1
     type=owns
   ];
-  10822 -> 10820 [
-    weight=1
-    type=owns
-  ];
   10822 -> 17780 [
     weight=1
     type=owns
@@ -263593,13 +263585,13 @@ digraph {
     weight=5
     type=owns
   ];
-  10846 -> 16836 [
-    weight=100
-    type=operates
-  ];
-  10847 -> 10846 [
+  10846 -> 10847 [
     weight=1
     type=owns
+  ];
+  10847 -> 16836 [
+    weight=100
+    type=operates
   ];
   10849 -> 2667 [
     weight=18.5
