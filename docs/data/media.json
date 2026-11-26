@@ -35501,7 +35501,7 @@
     "name": "Landgang",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-06-10T13:36:46.681Z",
+    "controlDate": "2026-11-26T16:36:58.027Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36183,7 +36183,7 @@
     "name": "Nord Sport",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-06-10T13:37:01.210Z",
+    "controlDate": "2026-11-26T16:37:08.109Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -36428,7 +36428,7 @@
     "name": "Die Wirtschaft im Norden",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-06-10T13:35:42.942Z",
+    "controlDate": "2026-11-26T16:34:18.157Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -57260,7 +57260,7 @@
     "name": "www.riesa-tv.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-09T09:52:49.894Z",
+    "controlDate": "2026-11-26T13:25:16.719Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -104415,7 +104415,7 @@
     "rfStatewide": false,
     "name": "Schaumburger Nachrichten",
     "type": "print",
-    "controlDate": "2026-06-09T10:08:46.931Z",
+    "controlDate": "2026-11-26T15:51:59.814Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107843,7 +107843,7 @@
     "rfStatewide": false,
     "name": "Flensburger Tageblatt",
     "type": "print",
-    "controlDate": "2026-06-10T13:36:00.700Z",
+    "controlDate": "2026-11-26T16:38:10.334Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107871,7 +107871,7 @@
     "rfStatewide": false,
     "name": "Eckernförder Zeitung",
     "type": "print",
-    "controlDate": "2026-06-10T13:35:52.277Z",
+    "controlDate": "2026-11-26T16:34:25.816Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -107924,7 +107924,7 @@
     "rfStatewide": false,
     "name": "Stormarner Tageblatt",
     "type": "print",
-    "controlDate": "2026-06-10T13:39:09.100Z",
+    "controlDate": "2026-11-26T16:39:30.135Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108004,7 +108004,7 @@
     "rfStatewide": false,
     "name": "Holsteinischer Courier",
     "type": "print",
-    "controlDate": "2026-06-10T13:36:21.042Z",
+    "controlDate": "2026-11-26T16:35:30.974Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108034,7 +108034,7 @@
     "rfStatewide": false,
     "name": "Schleswig-Holsteinische Landeszeitung",
     "type": "print",
-    "controlDate": "2026-06-10T13:38:35.578Z",
+    "controlDate": "2026-11-26T16:39:06.253Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -108062,7 +108062,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:45:22.196Z",
+    "controlDate": "2026-11-26T16:44:40.377Z",
     "state": "active"
   },
   {
@@ -125125,7 +125125,7 @@
     "rfStatewide": false,
     "name": "Nordfriesland Tageblatt",
     "type": "print",
-    "controlDate": "2026-06-10T13:37:31.406Z",
+    "controlDate": "2026-11-26T16:37:32.432Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125177,7 +125177,7 @@
     "rfStatewide": false,
     "name": "Sylter Rundschau",
     "type": "print",
-    "controlDate": "2026-06-10T13:39:20.055Z",
+    "controlDate": "2026-11-26T16:39:39.698Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125205,7 +125205,7 @@
     "rfStatewide": false,
     "name": "Der Insel-Bote",
     "type": "print",
-    "controlDate": "2026-06-10T13:35:32.972Z",
+    "controlDate": "2026-11-26T16:34:11.662Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125230,7 +125230,7 @@
     "rfStatewide": false,
     "name": "Husumer Nachrichten",
     "type": "print",
-    "controlDate": "2026-06-10T13:36:34.988Z",
+    "controlDate": "2026-11-26T16:35:52.681Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125258,7 +125258,7 @@
     "rfStatewide": false,
     "name": "Schleswiger Nachrichten",
     "type": "print",
-    "controlDate": "2026-06-10T13:38:57.515Z",
+    "controlDate": "2026-11-26T16:39:18.476Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125283,7 +125283,7 @@
     "rfStatewide": false,
     "name": "Schlei-Bote",
     "type": "print",
-    "controlDate": "2026-06-10T13:37:58.896Z",
+    "controlDate": "2026-11-26T16:38:27.230Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125311,7 +125311,7 @@
     "rfStatewide": false,
     "name": "Norddeutsche Rundschau",
     "type": "print",
-    "controlDate": "2026-06-10T13:37:17.698Z",
+    "controlDate": "2026-11-26T16:37:19.942Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -125336,7 +125336,7 @@
     "rfStatewide": false,
     "name": "Glückstädter Fortuna",
     "type": "print",
-    "controlDate": "2026-06-10T13:36:10.867Z",
+    "controlDate": "2026-11-26T16:35:20.477Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127778,7 +127778,7 @@
     "rfStatewide": false,
     "name": "Wilstersche Zeitung",
     "type": "print",
-    "controlDate": "2026-06-10T13:39:31.345Z",
+    "controlDate": "2026-11-26T16:40:56.926Z",
     "onlineOfferType": {
       "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
       "name": "Online Medienangebot",
@@ -127806,7 +127806,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:13.000Z",
+    "controlDate": "2026-11-26T16:46:30.540Z",
     "state": "active"
   },
   {
@@ -127842,7 +127842,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:37.194Z",
+    "controlDate": "2026-11-26T16:46:55.237Z",
     "state": "active"
   },
   {
@@ -127914,7 +127914,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:42.949Z",
+    "controlDate": "2026-11-26T16:47:02.037Z",
     "state": "active"
   },
   {
@@ -127956,7 +127956,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:50.898Z",
+    "controlDate": "2026-11-26T16:47:08.332Z",
     "state": "active"
   },
   {
@@ -127974,7 +127974,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:55:25.001Z",
+    "controlDate": "2026-11-26T16:46:35.389Z",
     "state": "active"
   },
   {
@@ -127992,7 +127992,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:56:00.578Z",
+    "controlDate": "2026-11-26T16:49:13.027Z",
     "state": "active"
   },
   {
@@ -128034,7 +128034,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:26.177Z",
+    "controlDate": "2026-11-26T16:46:48.922Z",
     "state": "active"
   },
   {
@@ -128052,7 +128052,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:45:54.600Z",
+    "controlDate": "2026-11-26T16:46:03.499Z",
     "state": "active"
   },
   {
@@ -128070,7 +128070,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:47:00.435Z",
+    "controlDate": "2026-11-26T16:47:22.687Z",
     "state": "active"
   },
   {
@@ -128106,7 +128106,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:25:39.120Z",
+    "controlDate": "2026-11-26T16:47:30.837Z",
     "state": "active"
   },
   {
@@ -128148,7 +128148,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:25:53.027Z",
+    "controlDate": "2026-11-26T16:47:38.205Z",
     "state": "active"
   },
   {
@@ -128166,7 +128166,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:26:07.224Z",
+    "controlDate": "2026-11-26T16:47:45.038Z",
     "state": "active"
   },
   {
@@ -128184,7 +128184,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:26:30.611Z",
+    "controlDate": "2026-11-26T16:49:07.361Z",
     "state": "active"
   },
   {
@@ -128231,7 +128231,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:46:06.515Z",
+    "controlDate": "2026-11-26T16:46:22.822Z",
     "state": "active"
   },
   {
@@ -128249,7 +128249,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:45:38.526Z",
+    "controlDate": "2026-11-26T16:45:55.327Z",
     "state": "active"
   },
   {
@@ -128267,7 +128267,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-04-02T08:26:17.076Z",
+    "controlDate": "2026-11-26T16:48:49.370Z",
     "state": "active"
   },
   {
@@ -128285,7 +128285,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-10T13:55:45.537Z",
+    "controlDate": "2026-11-26T16:47:15.605Z",
     "state": "active"
   },
   {
@@ -132957,7 +132957,7 @@
       "type": "online-offer-type",
       "state": "active"
     },
-    "controlDate": "2026-06-09T10:08:54.494Z",
+    "controlDate": "2026-11-26T15:52:10.453Z",
     "state": "active"
   },
   {
@@ -138210,7 +138210,7 @@
     "name": "www.augusto-sachsen.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-09T09:54:00.074Z",
+    "controlDate": "2026-11-26T13:25:42.567Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -145729,7 +145729,7 @@
     "name": "www.dailydose.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-09T10:06:47.887Z",
+    "controlDate": "2026-11-26T13:43:34.701Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -149619,7 +149619,7 @@
     "name": "Schleswig-Holstein-Presse (MVM)",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-09-18T14:48:50.663Z",
+    "controlDate": "2026-11-26T16:38:38.124Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -162523,7 +162523,7 @@
     "name": "SN am Sonntag",
     "rfPublicPrivate": false,
     "type": "print",
-    "controlDate": "2026-06-09T10:08:34.148Z",
+    "controlDate": "2026-11-26T15:51:48.732Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -163556,7 +163556,7 @@
     "name": "www.sw-anzeiger.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-09T09:56:41.156Z",
+    "controlDate": "2026-11-26T13:26:26.587Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
@@ -173046,7 +173046,7 @@
     "name": "www.schlagerparadies.de",
     "rfPublicPrivate": false,
     "type": "online",
-    "controlDate": "2026-06-09T11:23:41.560Z",
+    "controlDate": "2026-11-26T16:01:09.700Z",
     "rfSupervisingAuthority": {
       "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
       "name": "DL",
