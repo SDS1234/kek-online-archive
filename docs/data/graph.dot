@@ -42762,11 +42762,11 @@ digraph {
     label="Erbengemeinschaft nach Prof. Dr. Julia Hornstein (Ella Marie Hornstein und Fritz Benedikt Hornstein)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=0
-    num_medias_weighted=0.0000
+    num_medias=272
+    num_medias_weighted=1.5069
     name="6af59e6b-b052-4f55-86c5-18a44e7e1943"
     in_degree=0
-    out_degree=0
+    out_degree=1
   ];
   3564 [
     type=shareholder
@@ -68190,11 +68190,11 @@ digraph {
     label="Homstein, Julia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=272
-    num_medias_weighted=1.5069
+    num_medias=0
+    num_medias_weighted=0.0000
     name="61140434-8fdc-4960-a941-04a1444ec835"
     in_degree=0
-    out_degree=1
+    out_degree=0
   ];
   5683 [
     type=shareholder
@@ -229373,6 +229373,10 @@ digraph {
     weight=1
     type=owns
   ];
+  3563 -> 8164 [
+    weight=7.5
+    type=owns
+  ];
   3564 -> 3014 [
     weight=8.3
     type=owns
@@ -238912,10 +238916,6 @@ digraph {
   5678 -> 15699 [
     weight=100
     type=operates
-  ];
-  5682 -> 8164 [
-    weight=7.5
-    type=owns
   ];
   5683 -> 2941 [
     weight=10.58
