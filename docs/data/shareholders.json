@@ -2981,7 +2981,7 @@
     "squuid": "696df46b-3f72-4d9b-83f1-0c2ea6be6005",
     "name": "Schwarz Corporate Solutions KG",
     "state": "active",
-    "controlDate": "2026-06-09T13:39:04.519Z",
+    "controlDate": "2026-11-27T11:02:01.551Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -19723,7 +19723,7 @@
     "name": "Schongauer Nachrichten Karl Motz GmbH & Co. KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-6c5f-4435-9c6a-e8e4d3f95544",
-    "controlDate": "2026-06-09T13:08:28.236Z",
+    "controlDate": "2026-11-27T09:33:39.584Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23366,7 +23366,7 @@
     "squuid": "5be1a6b6-63c7-407b-b983-bdf7d0a4327d",
     "name": "Schwarzwälder Bote Mediengesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-06-10T09:51:17.341Z",
+    "controlDate": "2026-11-27T11:38:40.921Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -23496,15 +23496,6 @@
         "held": {
           "squuid": "639c88cb-be86-4e75-adfa-f61811801979",
           "name": "Waldrausch"
-        }
-      },
-      {
-        "squuid": "642d67de-addc-479a-bd3a-326e29c74134",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "642d6785-a2c2-43a6-9369-f01bcc0b69c2",
-          "name": "Die Sonntagszeitung"
         }
       },
       {
@@ -26518,7 +26509,7 @@
     "squuid": "5be1a6b6-5f91-41c6-b5ca-62e6a5d49961",
     "name": "Schulte & Enkmann Medien-Service GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:21:41.865Z",
+    "controlDate": "2026-11-27T09:41:42.517Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -50072,7 +50063,7 @@
     "squuid": "5ece7cca-e01d-41cf-bfe5-ef062ef3f9c4",
     "name": "Schwetzinger Zeitungsverlag Geschäftsführungs GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:13:09.214Z",
+    "controlDate": "2026-11-27T14:09:09.660Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -71644,7 +71635,7 @@
     "squuid": "5be1a6b6-7214-43f3-88f0-53744a1ccc52",
     "name": "schoenstatt-tv GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:07:28.487Z",
+    "controlDate": "2026-11-27T09:32:54.043Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -81200,7 +81191,7 @@
     "squuid": "5be1a6b6-bb57-49cb-9c94-3a89e3ac01d0",
     "name": "Schwenk Medien Holding GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:11:53.206Z",
+    "controlDate": "2026-11-27T12:09:30.128Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -81426,7 +81417,7 @@
     "squuid": "5be1a6b6-29fd-4b3f-9d96-231e5fc6a9ab",
     "name": "Schuck Medien Holding GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:21:16.556Z",
+    "controlDate": "2026-11-27T09:40:44.706Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -95961,7 +95952,7 @@
     "squuid": "5be1a6b6-ca2b-4801-bbaf-01ebf25ab077",
     "name": "Schwabenverlag AG",
     "state": "active",
-    "controlDate": "2026-06-09T13:33:55.986Z",
+    "controlDate": "2026-11-27T09:42:32.910Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -96081,15 +96072,6 @@
         "held": {
           "squuid": "5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e",
           "name": "Schwäbische Zeitung (Ausgabe Ravensburg)"
-        }
-      },
-      {
-        "squuid": "5be1a6b9-498c-465b-b6f5-db56f7c962b9",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-a4c9-4584-b473-1a2dd2309506",
-          "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)"
         }
       },
       {
@@ -96479,7 +96461,7 @@
     "squuid": "5be1a6b6-dcac-4e4f-aa84-e3c808d26df7",
     "name": "Schwarzwälder Bote GmbH & Co. KG",
     "state": "active",
-    "controlDate": "2026-06-09T15:09:04.558Z",
+    "controlDate": "2026-11-27T11:21:37.427Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -98970,7 +98952,7 @@
     "squuid": "5be1a6b6-d324-448c-a88c-85dbc4d755e8",
     "name": "Schmidt Vermögensverwaltungsgesellschaft mbH & Co KG",
     "state": "active",
-    "controlDate": "2026-06-09T11:49:30.497Z",
+    "controlDate": "2026-11-27T09:19:15.813Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -111078,7 +111060,7 @@
     "squuid": "5e3431ad-9046-4fd0-9866-a336bad3eadc",
     "name": "Schumacher Invest GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:23:13.031Z",
+    "controlDate": "2026-11-27T09:42:14.117Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -126040,7 +126022,7 @@
     "squuid": "5be1a6b6-e7d8-4693-9ad7-5c09151a0888",
     "name": "Schneider Druck GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T12:01:45.609Z",
+    "controlDate": "2026-11-27T09:25:07.353Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -128733,7 +128715,7 @@
     "squuid": "5be1a6b6-da41-4e50-a45f-72e400a8cde1",
     "name": "Schröder und Plenge KG",
     "state": "active",
-    "controlDate": "2026-06-09T13:19:53.587Z",
+    "controlDate": "2026-11-27T09:39:07.158Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -138959,7 +138941,7 @@
     "squuid": "5eaae72d-7956-46c0-9270-0f4afc1710f2",
     "name": "Schwarzwaldverlag GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:46:07.269Z",
+    "controlDate": "2026-11-27T11:16:16.655Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -139321,7 +139303,7 @@
     "squuid": "5be1a6b6-342e-4560-a581-62deed27ede1",
     "name": "Schweizerische Radio- und Fernsehgesellschaft (SRG SSR)",
     "state": "active",
-    "controlDate": "2025-06-20T16:04:23.966Z",
+    "controlDate": "2026-11-27T12:08:41.791Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -142561,7 +142543,7 @@
     "squuid": "5be1a6b6-fc1b-4061-94c7-cf068169fce4",
     "name": "Schott Music GmbH & Co KG",
     "state": "active",
-    "controlDate": "2026-06-11T13:23:56.424Z",
+    "controlDate": "2026-11-27T09:37:36.072Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -146928,7 +146910,7 @@
     "squuid": "698deefe-1af7-4537-b84a-92502f6012a2",
     "name": "Schwarz Unternehmenstreuhand KG",
     "state": "active",
-    "controlDate": "2026-06-09T13:41:50.591Z",
+    "controlDate": "2026-11-27T11:13:49.862Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -147442,7 +147424,7 @@
     "squuid": "698df047-3107-48ca-af6e-fc31aa72ad17",
     "name": "Schwarz Beteiligungs-KG",
     "state": "active",
-    "controlDate": "2026-06-09T13:37:42.013Z",
+    "controlDate": "2026-11-27T11:00:36.470Z",
     "limitedPartnership": true,
     "organizations": [
       {
@@ -150413,7 +150395,7 @@
     "squuid": "6992f2d7-f248-4ac1-80b1-4d374052c4bb",
     "name": "Schwarz Geschäftsführungsgesellschaft mbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:39:19.953Z",
+    "controlDate": "2026-11-27T11:02:57.342Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150632,7 +150614,7 @@
     "squuid": "68f22160-a307-415b-a32c-1822368b11ad",
     "name": "Schwarz New Ventures GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:39:39.001Z",
+    "controlDate": "2026-11-27T11:06:45.293Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -150706,6 +150688,19 @@
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
         "name": "DL",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6b09643b-7d6e-4e56-9396-5732accaa13c",
+    "name": "Schwarz New Ventures Holding GmbH",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -151132,6 +151127,19 @@
     ]
   },
   {
+    "squuid": "6b0965b0-cafe-49ed-b956-d05d4be2f6f5",
+    "name": "Heinricht, Dr. Frank",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
+        "type": "organization"
+      }
+    ]
+  },
+  {
     "squuid": "692da828-e758-452c-9720-1749910665d5",
     "name": "Keller, Clara",
     "state": "active",
@@ -151450,6 +151458,19 @@
         "squuid": "5b083572-de6f-4f77-b1d0-15f08ed9a01c",
         "name": "NLM",
         "fullName": "Niedersächsische Landesmedienanstalt",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "squuid": "6b096766-a7ce-4725-b284-4afe1a8af3ba",
+    "name": "Schäfer, Anke",
+    "state": "active",
+    "organizations": [
+      {
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -161782,7 +161803,7 @@
     "squuid": "5ec7a2ee-51db-42f1-8a49-789b1bf8da87",
     "name": "Schwarzwälder Verlags-GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T09:54:18.908Z",
+    "controlDate": "2026-11-27T11:59:09.099Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -182246,7 +182267,7 @@
     "squuid": "63d1068e-4c9e-4ba1-9755-4263652b2fff",
     "name": "Schneider Medien GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:01:33.836Z",
+    "controlDate": "2026-11-27T09:27:27.258Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -189619,12 +189640,13 @@
   {
     "squuid": "5ee9bb06-9926-4d9a-854c-ec7e964aaadc",
     "name": "Schwäbische Zeitung Bad Waldsee Verwaltungs-GmbH",
-    "state": "active",
-    "controlDate": "2026-06-10T10:16:27.485Z",
+    "state": "archived",
+    "controlDate": "2026-11-27T14:11:10.439Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -190262,7 +190284,7 @@
     "squuid": "5ee9bc2a-24db-4c36-aa56-fd16d93b6c70",
     "name": "Schwäbische Zeitung Biberach Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:21:32.526Z",
+    "controlDate": "2026-11-27T14:14:54.634Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -190337,7 +190359,7 @@
     "squuid": "5ee9bd79-22f6-4091-9fb3-fc2ca7fcd3ad",
     "name": "Schwäbische Zeitung Ehingen Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:23:59.765Z",
+    "controlDate": "2026-11-27T14:17:20.439Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -191036,7 +191058,7 @@
     "squuid": "5ee9c179-700c-4264-b460-c4abb8d2226b",
     "name": "Schwäbische Zeitung Friedrichshafen Verwaltungs-GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:35:11.149Z",
+    "controlDate": "2026-11-27T14:18:06.534Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -192301,12 +192323,13 @@
   {
     "squuid": "5ee9c65d-108a-4c30-b422-bbc411ce5f4f",
     "name": "Schwäbische Zeitung Laichingen Verwaltungs-GmbH",
-    "state": "active",
-    "controlDate": "2026-06-10T10:41:28.520Z",
+    "state": "archived",
+    "controlDate": "2026-11-27T14:19:24.132Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -192761,12 +192784,13 @@
   {
     "squuid": "5ee9c78d-0ab1-4af8-9a43-1d126651db67",
     "name": "Schwäbische Zeitung Laupheim Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-06-10T10:42:37.916Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -193174,12 +193198,13 @@
   {
     "squuid": "5ee9c887-4ee9-4708-8f7b-cab814870ce0",
     "name": "Schwäbische Zeitung Lokalverlag Leutkirch Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-06-10T10:48:08.894Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -193659,12 +193684,13 @@
   {
     "squuid": "5ee9c9dc-f057-485a-8be4-e6055790b3c6",
     "name": "Schwäbische Zeitung Ravensburg Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-06-10T10:49:26.553Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -198083,7 +198109,7 @@
     "squuid": "6a1d7a81-18ed-4812-9ef9-d7ea5b3e52f9",
     "name": "Schroders PLC",
     "state": "active",
-    "controlDate": "2026-06-12T07:43:35.503Z",
+    "controlDate": "2026-11-27T09:37:58.183Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",
@@ -204309,12 +204335,13 @@
   {
     "squuid": "5eda2e2a-8a1f-48a6-8fad-48eeba34771a",
     "name": "Schwäbische Zeitung Lindau Verwaltungs-GmbH",
-    "state": "active",
+    "state": "archived",
     "controlDate": "2026-06-10T10:44:16.829Z",
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
       }
     ]
@@ -230065,15 +230092,6 @@
         }
       },
       {
-        "squuid": "65df194b-b49d-4d2c-a2ba-2d4d96970d6c",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "642d6785-a2c2-43a6-9369-f01bcc0b69c2",
-          "name": "Die Sonntagszeitung"
-        }
-      },
-      {
         "squuid": "65e1bb94-9534-4cc2-8f60-9f454a263bee",
         "type": "operate",
         "state": "active",
@@ -238911,7 +238929,7 @@
     "name": "Schwetzinger Zeitungsverlag GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-8210-4509-8c9c-dcfdcbb1daa3",
-    "controlDate": "2026-06-10T10:13:20.958Z",
+    "controlDate": "2026-11-27T14:09:17.718Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -283667,7 +283685,7 @@
     "name": "Schweinfurter Rundfunk GmbH & Co. Studiobetriebs-KG",
     "limitedPartnership": true,
     "squuid": "5c51b278-e414-4b62-823b-a24e62ac37e5",
-    "controlDate": "2026-06-10T10:00:52.136Z",
+    "controlDate": "2026-11-27T12:04:36.314Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284723,77 +284741,47 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Lokalverlag Leutkirch GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-39d3-448f-b372-ca1da576ba8d",
+    "name": "Schwäbische Zeitung Lokalverlag Leutkirch GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2026-06-10T10:48:24.672Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-7704-47e5-b99e-2bb003aa7dc8",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-169b-44ff-9657-36070b5b6a51",
-          "name": "Schwäbische Zeitung (Ausgabe Leutkirch)"
-        }
       }
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Ravensburg GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-a7ce-4ffe-9442-15dc69f80476",
+    "name": "Schwäbische Zeitung Ravensburg GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2026-06-10T10:49:34.718Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-3651-4df7-bdf2-c4c6b2e4feb8",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e",
-          "name": "Schwäbische Zeitung (Ausgabe Ravensburg)"
-        }
       }
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Bad Waldsee GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-1588-4a45-b5a3-815302733af6",
+    "name": "Schwäbische Zeitung Bad Waldsee GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2026-06-10T10:17:35.808Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-3d6d-472a-b5f3-831443163644",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-a4c9-4584-b473-1a2dd2309506",
-          "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)"
-        }
       }
     ]
   },
@@ -284827,7 +284815,7 @@
     "name": "Schwäbische Zeitung Friedrichshafen GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-c5ce-4c1a-b00e-5814d7fe591f",
-    "controlDate": "2026-06-10T10:36:13.370Z",
+    "controlDate": "2026-11-27T14:18:01.586Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284896,27 +284884,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Lindau GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-aeee-4f00-be9a-474620e71855",
+    "name": "Schwäbische Zeitung Lindau GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2026-06-10T10:44:23.557Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-6f95-44d3-8599-ab16f1064f51",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-5eae-428e-8b2f-28dcc8c3a504",
-          "name": "Lindauer Zeitung"
-        }
       }
     ]
   },
@@ -284963,7 +284941,7 @@
     "name": "Schwäbische Zeitung Biberach GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7497-49ba-b499-c2941b014392",
-    "controlDate": "2026-06-10T10:22:26.138Z",
+    "controlDate": "2026-11-27T14:16:05.491Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -284984,27 +284962,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Laupheim GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-6267-48f9-b55c-d816888712ee",
+    "name": "Schwäbische Zeitung Laupheim GmbH & Co KG",
+    "state": "archived",
     "controlDate": "2026-06-10T10:42:43.384Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-3330-401e-923d-d4ae36f53ee6",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-0919-4a22-bd00-807ce6ee58fa",
-          "name": "Schwäbische Zeitung (Ausgabe Laupheim)"
-        }
       }
     ]
   },
@@ -285026,7 +284994,7 @@
     "name": "Schwäbische Zeitung Ehingen GmbH & Co KG",
     "limitedPartnership": true,
     "squuid": "5be1a6b6-7008-4657-98bc-9cc6a07d2341",
-    "controlDate": "2026-06-10T10:24:05.945Z",
+    "controlDate": "2026-11-27T14:17:14.992Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -285067,27 +285035,17 @@
     ]
   },
   {
-    "state": "active",
-    "name": "Schwäbische Zeitung Laichingen GmbH & Co KG",
-    "limitedPartnership": true,
     "squuid": "5be1a6b6-7d4b-4448-a570-e631d35e2ad0",
-    "controlDate": "2026-06-10T10:41:36.825Z",
+    "name": "Schwäbische Zeitung Laichingen GmbH & Co KG",
+    "state": "archived",
+    "controlDate": "2026-11-27T14:19:16.284Z",
+    "limitedPartnership": true,
     "organizations": [
       {
-        "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
-        "name": "DL",
+        "squuid": "5adf79c9-1b57-44c7-a29d-9130ab140fa9",
+        "name": "GGS",
+        "fullName": "Gemeinsame Geschaeftsstelle",
         "type": "organization"
-      }
-    ],
-    "operates": [
-      {
-        "squuid": "5be1a6b9-4233-425e-84fa-56b041b23469",
-        "type": "operate",
-        "state": "active",
-        "held": {
-          "squuid": "5be1a6b1-b80d-4d8b-8a9a-11a1efc22e4e",
-          "name": "Schwäbische Zeitung (Ausgabe Laichingen)"
-        }
       }
     ]
   },
@@ -293613,7 +293571,7 @@
     "squuid": "6942b905-a342-4f8c-b61a-ff16b30f9139",
     "name": "Schweinfurter Rundfunk Administration GmbH",
     "state": "active",
-    "controlDate": "2026-06-10T10:00:35.899Z",
+    "controlDate": "2026-11-27T12:08:18.693Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -299811,7 +299769,7 @@
     "squuid": "5be1a6b6-8c30-4a02-ae78-c757180757c2",
     "name": "Schnitzler Verlags- und Kinne Beteiligungs-GmbH",
     "state": "active",
-    "controlDate": "2026-06-09T13:04:07.295Z",
+    "controlDate": "2026-11-27T09:31:04.671Z",
     "organizations": [
       {
         "squuid": "5adf79c8-9f9e-4b59-a86f-7119603efa99",
@@ -302435,7 +302393,7 @@
     "squuid": "62e8e77c-b5b7-4c3b-9f94-0dfaeef4d0f0",
     "name": "A. A. Schmidt Verwaltungs GmbH",
     "state": "active",
-    "controlDate": "2026-04-01T16:03:29.810Z",
+    "controlDate": "2026-11-27T09:18:26.953Z",
     "organizations": [
       {
         "squuid": "5adf79c7-7ca3-4d7a-939c-d5a256934b27",

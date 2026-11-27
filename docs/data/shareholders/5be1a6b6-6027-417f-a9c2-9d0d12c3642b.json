@@ -14,7 +14,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "M. Liehners Hofbuchdruckerei GmbH & Co KG Verlagsanstalt",
+        "name": "SV Sigmaringen/Tuttlingen GmbH & Co. KG ",
         "squuid": "5be1a6b6-fa97-4da9-8d7c-539bb062a458"
       },
       "squuid": "5be1a6b8-a1ba-43fd-bfc0-aa2ca9bd9edb",
@@ -74,36 +74,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Schwäbische Zeitung Lokalverlag Leutkirch GmbH & Co KG",
-        "squuid": "5be1a6b6-39d3-448f-b372-ca1da576ba8d"
-      },
-      "squuid": "5be1a6b8-c17e-4e16-8792-033fecbf0539",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Ravensburg GmbH & Co KG",
-        "squuid": "5be1a6b6-a7ce-4ffe-9442-15dc69f80476"
-      },
-      "squuid": "5be1a6b8-94d6-4e31-b8a2-887407253841",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Bad Waldsee GmbH & Co KG",
-        "squuid": "5be1a6b6-1588-4a45-b5a3-815302733af6"
-      },
-      "squuid": "5be1a6b8-cb76-4159-b0bb-a11faabd2428",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Schwäbische Zeitung Wangen GmbH & Co KG",
         "squuid": "5be1a6b6-3ae6-4193-b868-044208ada187"
       },
@@ -144,16 +114,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Schwäbische Zeitung Lindau GmbH & Co KG",
-        "squuid": "5be1a6b6-aeee-4f00-be9a-474620e71855"
-      },
-      "squuid": "5be1a6b8-4a76-4c50-bcc0-7a18fc3a03b7",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Schwäbische Zeitung Saulgau GmbH & Co KG",
         "squuid": "5be1a6b6-6f37-4fd6-ac27-a8e62b1869cc"
       },
@@ -174,30 +134,10 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Schwäbische Zeitung Laupheim GmbH & Co KG",
-        "squuid": "5be1a6b6-6267-48f9-b55c-d816888712ee"
-      },
-      "squuid": "5be1a6b8-055b-4df1-85ba-143307dd973e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Schwäbische Zeitung Ehingen GmbH & Co KG",
         "squuid": "5be1a6b6-7008-4657-98bc-9cc6a07d2341"
       },
       "squuid": "5be1a6b8-9b39-4963-bc47-6afc20d5ff1e",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Laichingen GmbH & Co KG",
-        "squuid": "5be1a6b6-7d4b-4448-a570-e631d35e2ad0"
-      },
-      "squuid": "5be1a6b8-6f32-4d6a-a746-d2341d46e3b3",
       "state": "active"
     },
     {
@@ -235,16 +175,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Schwäbische Zeitung Lindau Verwaltungs-GmbH",
-        "squuid": "5eda2e2a-8a1f-48a6-8fad-48eeba34771a"
-      },
-      "squuid": "5eda2ec4-2d5f-43d2-8d59-1f9a82387b9a",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Mediengesellschaft Oberschwaben-Verwaltungs-GmbH",
         "squuid": "5ea9694f-c5be-49f3-991b-648c3719535d"
       },
@@ -259,16 +189,6 @@
         "squuid": "5ee9b972-6f52-4b16-9bc6-03fac1084bce"
       },
       "squuid": "5ee9ba4a-8b22-4316-8c66-94e12a2e47bf",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Bad Waldsee Verwaltungs-GmbH",
-        "squuid": "5ee9bb06-9926-4d9a-854c-ec7e964aaadc"
-      },
-      "squuid": "5ee9bb81-9db7-4cea-9fc3-3a89463efd8c",
       "state": "active"
     },
     {
@@ -305,46 +225,6 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "Schwäbische Zeitung Laichingen Verwaltungs-GmbH",
-        "squuid": "5ee9c65d-108a-4c30-b422-bbc411ce5f4f"
-      },
-      "squuid": "5ee9c6e9-ebd2-44c8-be1f-9267e3a0c258",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Laupheim Verwaltungs-GmbH",
-        "squuid": "5ee9c78d-0ab1-4af8-9a43-1d126651db67"
-      },
-      "squuid": "5ee9c7eb-6a3d-4783-85c2-a45c19e1d868",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Lokalverlag Leutkirch Verwaltungs-GmbH",
-        "squuid": "5ee9c887-4ee9-4708-8f7b-cab814870ce0"
-      },
-      "squuid": "5ee9c90b-19ce-46b3-af5d-f5e0f284af9f",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
-        "name": "Schwäbische Zeitung Ravensburg Verwaltungs-GmbH",
-        "squuid": "5ee9c9dc-f057-485a-8be4-e6055790b3c6"
-      },
-      "squuid": "5ee9ca45-4f3d-4517-86f1-cca2d681a750",
-      "state": "active"
-    },
-    {
-      "type": "own",
-      "capitalShares": 100.0,
-      "held": {
         "name": "Schwäbische Zeitung Tettnang Verwaltungs-GmbH",
         "squuid": "5ee9cc0a-5f6a-4854-8512-6c7ebea40c18"
       },
@@ -375,7 +255,7 @@
       "type": "own",
       "capitalShares": 100.0,
       "held": {
-        "name": "M. Liehners Hofbuchdruckerei Verwaltungs-GmbH",
+        "name": "SV Sigmaringen/Tuttlingen Verwaltungs-GmbH",
         "squuid": "5ebbaefa-f781-4801-a86e-3320ebe39c28"
       },
       "squuid": "5f0ece50-beaa-4356-a551-829203bb2fdb",
@@ -582,15 +462,6 @@
         "squuid": "5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e"
       },
       "squuid": "5be1a6b9-fef6-40b0-9eaf-1538a315545b",
-      "state": "active"
-    },
-    {
-      "type": "operate",
-      "held": {
-        "name": "Schwäbische Zeitung (Ausgabe Bad Waldsee)",
-        "squuid": "5be1a6b1-a4c9-4584-b473-1a2dd2309506"
-      },
-      "squuid": "5be1a6b9-498c-465b-b6f5-db56f7c962b9",
       "state": "active"
     },
     {
@@ -918,7 +789,7 @@
       "type": "own",
       "capitalShares": 0.5,
       "holder": {
-        "name": "M. Liehners Hofbuchdruckerei GmbH & Co KG Verlagsanstalt",
+        "name": "SV Sigmaringen/Tuttlingen GmbH & Co. KG ",
         "squuid": "5be1a6b6-fa97-4da9-8d7c-539bb062a458"
       },
       "liabilitySum": 2.56,

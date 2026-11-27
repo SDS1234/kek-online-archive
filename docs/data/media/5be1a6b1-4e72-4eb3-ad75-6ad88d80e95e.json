@@ -22,15 +22,6 @@
       },
       "squuid": "5be1a6b9-fef6-40b0-9eaf-1538a315545b",
       "state": "active"
-    },
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Schwäbische Zeitung Ravensburg GmbH & Co KG",
-        "squuid": "5be1a6b6-a7ce-4ffe-9442-15dc69f80476"
-      },
-      "squuid": "5be1a6b9-3651-4df7-bdf2-c4c6b2e4feb8",
-      "state": "active"
     }
   ],
   "name": "Schwäbische Zeitung (Ausgabe Ravensburg)",
@@ -38,7 +29,7 @@
   "pressDistributionArea": "Lk Ravensburg",
   "type": "print",
   "pressEditionsEpaper": 5797,
-  "controlDate": "2026-06-10T10:50:15.237Z",
+  "controlDate": "2026-11-27T14:28:13.496Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",
