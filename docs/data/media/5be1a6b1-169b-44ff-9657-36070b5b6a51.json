@@ -21,12 +21,12 @@
       "state": "active"
     }
   ],
-  "name": "Schwäbische Zeitung (Ausgabe Leutkirch)",
+  "name": "Schwäbische Zeitung",
   "pressEditionsIVW": true,
   "pressDistributionArea": "Lk Ravensburg",
   "type": "print",
   "pressEditionsEpaper": 1674,
-  "controlDate": "2026-11-27T14:26:04.893Z",
+  "controlDate": "2026-11-27T14:56:29.516Z",
   "onlineOfferType": {
     "squuid": "5be1a6b0-e359-4db0-9c54-8ab7d725db5e",
     "name": "Online Medienangebot",

@@ -4650,8 +4650,8 @@ digraph {
     label="Allinger, Alexandar Nenad"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.3087
+    num_medias=50
+    num_medias_weighted=0.2391
     name="5be1a6b6-fbdc-4670-ae3e-c2e764f819fc"
     in_degree=0
     out_degree=1
@@ -8658,8 +8658,8 @@ digraph {
     label="Auer, Dominik"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0189
+    num_medias=50
+    num_medias_weighted=0.0146
     name="5be1a6b6-f1ae-4526-9d4e-2a181bffa6cb"
     in_degree=0
     out_degree=1
@@ -8670,8 +8670,8 @@ digraph {
     label="Auer, Franziska"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0189
+    num_medias=50
+    num_medias_weighted=0.0146
     name="5be1a6b6-81c3-4d50-9676-4195a7fd8dc7"
     in_degree=0
     out_degree=1
@@ -15738,8 +15738,8 @@ digraph {
     label="Biberacher Verlagsdruckerei GmbH & Co KG"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=62
-    num_medias_weighted=1.2881
+    num_medias=50
+    num_medias_weighted=0.9977
     name="5be1a6b6-ba99-449f-a74f-0cacaf3ca418"
     in_degree=7
     out_degree=4
@@ -15750,7 +15750,7 @@ digraph {
     label="Biberacher Verlagsdruckerei Verwaltungsgesellschaft mbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebba705-8d85-46a9-8a98-73136ce93222"
     in_degree=1
@@ -19662,8 +19662,8 @@ digraph {
     label="Brassi, Renate"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1316
+    num_medias=50
+    num_medias_weighted=0.1020
     name="5be1a6b6-5fc3-4ccf-adb2-40332a95c6a6"
     in_degree=0
     out_degree=2
@@ -22410,8 +22410,8 @@ digraph {
     label="Butt-Böhme, Stefan"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0517
+    num_medias=50
+    num_medias_weighted=0.0400
     name="6acde781-24e0-45ec-b83b-6ac293c6d3fb"
     in_degree=0
     out_degree=1
@@ -22998,8 +22998,8 @@ digraph {
     label="Böhme, Daniel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0517
+    num_medias=50
+    num_medias_weighted=0.0400
     name="6acde766-9f1e-4fef-8e21-74899fe5702b"
     in_degree=0
     out_degree=1
@@ -23010,8 +23010,8 @@ digraph {
     label="Böhme, Irene"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1736
+    num_medias=50
+    num_medias_weighted=0.1345
     name="5be1a6b6-ae5d-44d4-b6cd-f8922a924031"
     in_degree=0
     out_degree=3
@@ -35670,8 +35670,8 @@ digraph {
     label="Drexler Holding GmbH"
     num_owners=1
     num_owners_weighted=1.0000
-    num_medias=62
-    num_medias_weighted=0.8000
+    num_medias=50
+    num_medias_weighted=0.6196
     name="5be1a6b6-9c86-4585-8d96-c577b58ccba7"
     in_degree=1
     out_degree=1
@@ -35682,8 +35682,8 @@ digraph {
     label="Drexler Vermögensverwaltungs GmbH"
     num_owners=3
     num_owners_weighted=2.9000
-    num_medias=62
-    num_medias_weighted=0.8889
+    num_medias=50
+    num_medias_weighted=0.6885
     name="5be1a6b6-950d-497e-81ac-2f667ced6386"
     in_degree=2
     out_degree=2
@@ -35694,8 +35694,8 @@ digraph {
     label="Drexler, Andreas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=8.8730
+    num_medias=50
+    num_medias_weighted=6.8726
     name="5be1a6b6-ee61-49bd-8c40-4dd1004d96e3"
     in_degree=0
     out_degree=2
@@ -35706,8 +35706,8 @@ digraph {
     label="Drexler, Chiara"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0889
+    num_medias=50
+    num_medias_weighted=0.0688
     name="5be1a6b6-50b1-4eb0-bb9f-ba1c4a7df2a9"
     in_degree=0
     out_degree=1
@@ -37254,8 +37254,8 @@ digraph {
     label="Dölle, Dr. Axel"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1115
+    num_medias=50
+    num_medias_weighted=0.0864
     name="5be1a6b6-36c2-49cf-bf42-cfd45e48e02a"
     in_degree=0
     out_degree=1
@@ -38262,7 +38262,7 @@ digraph {
     label="Edel Gesellschaft mit beschränkter Haftung"
     num_owners=6
     num_owners_weighted=6.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbabf0-1a73-407e-99bc-581090c4a440"
     in_degree=6
@@ -42666,7 +42666,7 @@ digraph {
     label="Erbengemeinschaft nach Andreas Gessler (Thomas Gessler, Carola Gessler, Irene Böhme)"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="6989c4fb-09b7-4ab3-bc3c-bfb71e1444fd"
     in_degree=0
@@ -54534,8 +54534,8 @@ digraph {
     label="Gebrüder Edel GmbH & Co KG"
     num_owners=7
     num_owners_weighted=7.0000
-    num_medias=62
-    num_medias_weighted=0.5749
+    num_medias=50
+    num_medias_weighted=0.4453
     name="5be1a6b6-ed13-47f1-aa91-3644e831f84a"
     in_degree=7
     out_degree=3
@@ -56298,7 +56298,7 @@ digraph {
     label="Gessler GmbH"
     num_owners=11
     num_owners_weighted=11.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbab47-f073-4bb7-857f-5b976b3bf5bb"
     in_degree=1
@@ -56322,8 +56322,8 @@ digraph {
     label="Gessler, Carola"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1736
+    num_medias=50
+    num_medias_weighted=0.1345
     name="5be1a6b6-9f41-4cc3-8959-4bd9576a089c"
     in_degree=0
     out_degree=3
@@ -56358,8 +56358,8 @@ digraph {
     label="Gessler, Thomas"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1736
+    num_medias=50
+    num_medias_weighted=0.1345
     name="5be1a6b6-44d8-412a-8827-60a1c0d79ddc"
     in_degree=0
     out_degree=3
@@ -56370,8 +56370,8 @@ digraph {
     label="Gessler, Vivien"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0517
+    num_medias=50
+    num_medias_weighted=0.0400
     name="6acde754-d65c-4a3f-bd07-c08115e4c211"
     in_degree=0
     out_degree=1
@@ -65418,8 +65418,8 @@ digraph {
     label="Herrmann, Christina"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1067
+    num_medias=50
+    num_medias_weighted=0.0826
     name="5be1a6b6-8b55-4bf6-84b4-ed5b186947f6"
     in_degree=0
     out_degree=1
@@ -68898,8 +68898,8 @@ digraph {
     label="Huber, Dr. Bertram"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0358
+    num_medias=50
+    num_medias_weighted=0.0277
     name="5be1a6b6-a187-4845-9d5a-85bd4dafea1c"
     in_degree=0
     out_degree=1
@@ -72630,8 +72630,8 @@ digraph {
     label="J. Walchner Vermögensverwaltung KG"
     num_owners=2
     num_owners_weighted=2.0000
-    num_medias=62
-    num_medias_weighted=0.3087
+    num_medias=50
+    num_medias_weighted=0.2391
     name="5be1a6b6-6443-4a8e-aead-f3188de25537"
     in_degree=2
     out_degree=2
@@ -81762,8 +81762,8 @@ digraph {
     label="Kuder, Brigitte"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0960
+    num_medias=50
+    num_medias_weighted=0.0744
     name="5be1a6b6-5930-496f-8008-9e76fdd362ae"
     in_degree=0
     out_degree=2
@@ -86850,8 +86850,8 @@ digraph {
     label="Liebel Druck & Verlag GmbH & Co KG"
     num_owners=11
     num_owners_weighted=11.0000
-    num_medias=62
-    num_medias_weighted=0.3992
+    num_medias=50
+    num_medias_weighted=0.3092
     name="5be1a6b6-f3f6-4e7a-b97e-51eec2a6cc2f"
     in_degree=11
     out_degree=4
@@ -86862,7 +86862,7 @@ digraph {
     label="Liebel Gesellschaft mit beschränkter Haftung"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbacaf-bd91-471a-ba33-b8b4f029c318"
     in_degree=3
@@ -86874,8 +86874,8 @@ digraph {
     label="Liebel, Adolf"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0559
+    num_medias=50
+    num_medias_weighted=0.0433
     name="5be1a6b6-7132-4897-9d22-eb3a230c018b"
     in_degree=0
     out_degree=1
@@ -86886,8 +86886,8 @@ digraph {
     label="Liebel, Christa"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0040
+    num_medias=50
+    num_medias_weighted=0.0031
     name="5be1a6b6-21cf-4050-bc42-3940136fb40a"
     in_degree=0
     out_degree=2
@@ -86898,8 +86898,8 @@ digraph {
     label="Liebel, Gerhard"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0040
+    num_medias=50
+    num_medias_weighted=0.0031
     name="5be1a6b6-b5a5-48d4-8531-89bb9b4edf8d"
     in_degree=0
     out_degree=2
@@ -86910,8 +86910,8 @@ digraph {
     label="Liebel, Joachim"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0399
+    num_medias=50
+    num_medias_weighted=0.0309
     name="5be1a6b6-e3c8-4ae2-9f9c-622b88e48774"
     in_degree=0
     out_degree=1
@@ -86922,8 +86922,8 @@ digraph {
     label="Liebel, Maria"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0040
+    num_medias=50
+    num_medias_weighted=0.0031
     name="5be1a6b6-0dd5-4ef1-b083-b73f5b8d12a2"
     in_degree=0
     out_degree=1
@@ -86934,8 +86934,8 @@ digraph {
     label="Liebel, Markus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0399
+    num_medias=50
+    num_medias_weighted=0.0309
     name="5be1a6b6-5587-4c34-a8be-a372ec5622ed"
     in_degree=0
     out_degree=1
@@ -86946,8 +86946,8 @@ digraph {
     label="Liebel, Michael"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1597
+    num_medias=50
+    num_medias_weighted=0.1237
     name="5be1a6b6-abd1-4fb6-828b-ddd77c3b0fae"
     in_degree=0
     out_degree=2
@@ -86958,8 +86958,8 @@ digraph {
     label="Liebel, Renate"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0259
+    num_medias=50
+    num_medias_weighted=0.0201
     name="5be1a6b6-216b-4089-89d8-163490b3fcc7"
     in_degree=0
     out_degree=1
@@ -86970,8 +86970,8 @@ digraph {
     label="Liebel, Ulrike"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0399
+    num_medias=50
+    num_medias_weighted=0.0309
     name="5be1a6b6-df3e-4e66-9789-ffd108772fdc"
     in_degree=0
     out_degree=1
@@ -86982,8 +86982,8 @@ digraph {
     label="Liebel, Verena"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0259
+    num_medias=50
+    num_medias_weighted=0.0201
     name="5be1a6b6-f6bf-41de-a793-1c1f4aa6f686"
     in_degree=0
     out_degree=1
@@ -88602,8 +88602,8 @@ digraph {
     label="Lorenz Senn GmbH + Co KG"
     num_owners=4
     num_owners_weighted=4.0000
-    num_medias=62
-    num_medias_weighted=0.3087
+    num_medias=50
+    num_medias_weighted=0.2391
     name="5be1a6b6-b39f-4753-82fe-fc42d8434cda"
     in_degree=4
     out_degree=2
@@ -92190,8 +92190,8 @@ digraph {
     label="Matouschek, Peter"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0280
+    num_medias=50
+    num_medias_weighted=0.0216
     name="5be1a6b6-99bc-4af1-b720-c91bfe9ceec9"
     in_degree=0
     out_degree=1
@@ -94170,8 +94170,8 @@ digraph {
     label="Mediengesellschaft Oberschwaben GmbH & Co KG"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
-    num_medias_weighted=2.6246
+    num_medias=50
+    num_medias_weighted=2.4842
     name="5be1a6b6-c503-4297-87a8-1a1a3ab29d6a"
     in_degree=2
     out_degree=2
@@ -94194,7 +94194,7 @@ digraph {
     label="Mediengesellschaft Oberschwaben-Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ea9694f-c5be-49f3-991b-648c3719535d"
     in_degree=1
@@ -96522,8 +96522,8 @@ digraph {
     label="Metzger, Rolf"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0328
+    num_medias=50
+    num_medias_weighted=0.0254
     name="5be1a6b6-34ee-44bc-8d0c-2d866ad395eb"
     in_degree=0
     out_degree=1
@@ -97350,8 +97350,8 @@ digraph {
     label="Mikuteit, Gerald"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0477
+    num_medias=50
+    num_medias_weighted=0.0370
     name="5be1a6b6-e953-411a-b780-6af51b819d53"
     in_degree=0
     out_degree=2
@@ -97362,8 +97362,8 @@ digraph {
     label="Mikuteit, Marianne"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0960
+    num_medias=50
+    num_medias_weighted=0.0744
     name="5be1a6b6-c992-4f9e-ae16-480d6c8cb8ed"
     in_degree=0
     out_degree=2
@@ -97374,8 +97374,8 @@ digraph {
     label="Mikuteit, Wolfram"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0477
+    num_medias=50
+    num_medias_weighted=0.0370
     name="5be1a6b6-f8f2-4d30-b01a-7bec287ad34e"
     in_degree=0
     out_degree=2
@@ -109122,8 +109122,8 @@ digraph {
     label="Ostalb Medien GmbH"
     num_owners=70
     num_owners_weighted=20.6114
-    num_medias=62
-    num_medias_weighted=2.5994
+    num_medias=50
+    num_medias_weighted=2.4590
     name="5be1a6b6-e7a3-4212-bf0e-ff84b5ea520f"
     in_degree=1
     out_degree=4
@@ -109854,8 +109854,8 @@ digraph {
     label="OVR Vermögensverwaltung GmbH & Co KG"
     num_owners=70
     num_owners_weighted=19.1327
-    num_medias=62
-    num_medias_weighted=1.5808
+    num_medias=50
+    num_medias_weighted=1.2244
     name="5be1a6b6-59fc-4841-889e-439fd00581ed"
     in_degree=7
     out_degree=2
@@ -109866,7 +109866,7 @@ digraph {
     label="OVR Verwaltungs GmbH"
     num_owners=70
     num_owners_weighted=16.1565
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebba510-fc42-4a44-8b8f-b74b4dc61426"
     in_degree=4
@@ -123354,8 +123354,8 @@ digraph {
     label="Rasekhschaffe, Margaretha"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1558
+    num_medias=50
+    num_medias_weighted=0.1207
     name="5be1a6b6-ce73-4704-9882-63cbc74d3d1b"
     in_degree=0
     out_degree=2
@@ -126954,8 +126954,8 @@ digraph {
     label="Riess, Dr. Carl"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=144
-    num_medias_weighted=0.9118
+    num_medias=132
+    num_medias_weighted=0.8891
     name="5be1a6b6-3cbd-435b-b8bb-11b4e4cdc50e"
     in_degree=0
     out_degree=2
@@ -127530,8 +127530,8 @@ digraph {
     label="Robert Gessler GmbH & Co KG"
     num_owners=11
     num_owners_weighted=7.0000
-    num_medias=62
-    num_medias_weighted=0.6653
+    num_medias=50
+    num_medias_weighted=0.5153
     name="5be1a6b6-beec-4245-a399-8749db1222f9"
     in_degree=10
     out_degree=4
@@ -130602,8 +130602,8 @@ digraph {
     label="RV Verlagsbeteiligungen GmbH & Co KG"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
-    num_medias_weighted=1.2236
+    num_medias=50
+    num_medias_weighted=0.9477
     name="5be1a6b6-5d0b-4ede-9782-d1f89abed3fc"
     in_degree=2
     out_degree=2
@@ -130614,7 +130614,7 @@ digraph {
     label="RV Verlagsbeteiligungen Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebba5de-ee30-4028-a2f1-d54d1ee26037"
     in_degree=1
@@ -131850,8 +131850,8 @@ digraph {
     label="Sabathil-Diederich, Julia"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=144
-    num_medias_weighted=2.3712
+    num_medias=132
+    num_medias_weighted=2.1506
     name="5be1a6b6-d082-494d-b30c-b75110d59425"
     in_degree=0
     out_degree=4
@@ -132390,8 +132390,8 @@ digraph {
     label="Sandmaier, Elisabeth"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1118
+    num_medias=50
+    num_medias_weighted=0.0866
     name="5be1a6b6-07c1-4842-b933-b6ce39148be8"
     in_degree=0
     out_degree=2
@@ -132414,8 +132414,8 @@ digraph {
     label="Sandmeier, Dr. August"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.1118
+    num_medias=50
+    num_medias_weighted=0.0866
     name="5be1a6b6-5d0e-4686-b6ef-cc77bcac0377"
     in_degree=0
     out_degree=1
@@ -134118,7 +134118,7 @@ digraph {
     label="Schlegel, Christian"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="66840494-f5ee-4d30-8cb6-7c5f1b409554"
     in_degree=0
@@ -136995,16 +136995,28 @@ digraph {
   11416 [
     type=print
     state=active
-    label="Schwäbische Zeitung (Ausgabe Bad Saulgau)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    label="Schwäbische Zeitung"
+    num_owners=70
+    num_owners_weighted=18.6348
     num_medias=0
     num_medias_weighted=0.0000
-    name="5be1a6b1-799e-496b-95d4-0c481f2b50e6"
-    in_degree=2
+    name="5be1a6b1-169b-44ff-9657-36070b5b6a51"
+    in_degree=1
     out_degree=0
   ];
   11417 [
+    type=print
+    state=archived
+    label="Schwäbische Zeitung (Ausgabe Bad Saulgau)"
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
+    name="5be1a6b1-799e-496b-95d4-0c481f2b50e6"
+    in_degree=0
+    out_degree=0
+  ];
+  11418 [
     type=print
     state=archived
     label="Schwäbische Zeitung (Ausgabe Bad Waldsee)"
@@ -137016,148 +137028,136 @@ digraph {
     in_degree=0
     out_degree=0
   ];
-  11418 [
+  11419 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Biberach)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-3d3a-4608-a64c-938ded4cb45b"
-    in_degree=2
-    out_degree=0
-  ];
-  11419 [
-    type=print
-    state=active
-    label="Schwäbische Zeitung (Ausgabe Ehingen)"
-    num_owners=72
-    num_owners_weighted=20.6348
-    num_medias=0
-    num_medias_weighted=0.0000
-    name="5be1a6b1-8eb8-49ae-ba01-025f9912bd8c"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11420 [
     type=print
-    state=active
-    label="Schwäbische Zeitung (Ausgabe Friedrichshafen)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    state=archived
+    label="Schwäbische Zeitung (Ausgabe Ehingen)"
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
-    name="5be1a6b1-8c0e-4b5f-be25-299db983f53d"
-    in_degree=2
+    name="5be1a6b1-8eb8-49ae-ba01-025f9912bd8c"
+    in_degree=0
     out_degree=0
   ];
   11421 [
     type=print
-    state=active
-    label="Schwäbische Zeitung (Ausgabe Laichingen)"
-    num_owners=70
-    num_owners_weighted=18.6348
+    state=archived
+    label="Schwäbische Zeitung (Ausgabe Friedrichshafen)"
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
-    name="5be1a6b1-b80d-4d8b-8a9a-11a1efc22e4e"
-    in_degree=1
+    name="5be1a6b1-8c0e-4b5f-be25-299db983f53d"
+    in_degree=0
     out_degree=0
   ];
   11422 [
     type=print
-    state=active
-    label="Schwäbische Zeitung (Ausgabe Laupheim)"
-    num_owners=70
-    num_owners_weighted=18.6348
+    state=archived
+    label="Schwäbische Zeitung (Ausgabe Laichingen)"
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
-    name="5be1a6b1-0919-4a22-bd00-807ce6ee58fa"
-    in_degree=1
+    name="5be1a6b1-b80d-4d8b-8a9a-11a1efc22e4e"
+    in_degree=0
     out_degree=0
   ];
   11423 [
     type=print
-    state=active
-    label="Schwäbische Zeitung (Ausgabe Leutkirch)"
-    num_owners=70
-    num_owners_weighted=18.6348
+    state=archived
+    label="Schwäbische Zeitung (Ausgabe Laupheim)"
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
-    name="5be1a6b1-169b-44ff-9657-36070b5b6a51"
-    in_degree=1
+    name="5be1a6b1-0919-4a22-bd00-807ce6ee58fa"
+    in_degree=0
     out_degree=0
   ];
   11424 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Markdorf)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-74b9-4c5d-9f77-feb9c5090200"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11425 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Ravensburg)"
-    num_owners=70
-    num_owners_weighted=18.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e"
-    in_degree=1
+    in_degree=0
     out_degree=0
   ];
   11426 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Riedlingen)"
-    num_owners=70
-    num_owners_weighted=18.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-4a9d-4d70-b2a3-abfa7c546c30"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11427 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Sigmaringen)"
-    num_owners=70
-    num_owners_weighted=19.6298
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-febe-4c66-87c4-ae9f97bf584b"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11428 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Tettnang)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-d4cb-4849-b561-fd24e23bf7fa"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11429 [
     type=print
-    state=active
+    state=archived
     label="Schwäbische Zeitung (Ausgabe Wangen)"
-    num_owners=72
-    num_owners_weighted=20.6348
+    num_owners=0
+    num_owners_weighted=0.0000
     num_medias=0
     num_medias_weighted=0.0000
     name="5be1a6b1-c800-4a7e-b341-a9f23991340d"
-    in_degree=2
+    in_degree=0
     out_degree=0
   ];
   11430 [
@@ -137198,27 +137198,27 @@ digraph {
   ];
   11433 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Biberach GmbH & Co KG"
-    num_owners=71
-    num_owners_weighted=19.6348
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-7497-49ba-b499-c2941b014392"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11434 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Biberach Verwaltungs-GmbH"
-    num_owners=70
-    num_owners_weighted=11.4610
-    num_medias=1
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee9bc2a-24db-4c36-aa56-fd16d93b6c70"
-    in_degree=2
-    out_degree=1
+    in_degree=1
+    out_degree=0
   ];
   11435 [
     type=shareholder
@@ -137226,11 +137226,11 @@ digraph {
     label="Schwäbische Zeitung Ehingen GmbH & Co KG"
     num_owners=71
     num_owners_weighted=19.6348
-    num_medias=4
-    num_medias_weighted=1.0031
+    num_medias=3
+    num_medias_weighted=0.0031
     name="5be1a6b6-7008-4657-98bc-9cc6a07d2341"
     in_degree=2
-    out_degree=2
+    out_degree=1
   ];
   11436 [
     type=shareholder
@@ -137238,7 +137238,7 @@ digraph {
     label="Schwäbische Zeitung Ehingen Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=4
+    num_medias=3
     num_medias_weighted=0.0000
     name="5ee9bd79-22f6-4091-9fb3-fc2ca7fcd3ad"
     in_degree=1
@@ -137246,27 +137246,27 @@ digraph {
   ];
   11437 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Friedrichshafen GmbH & Co KG"
-    num_owners=71
-    num_owners_weighted=19.6348
-    num_medias=2
-    num_medias_weighted=2.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-c5ce-4c1a-b00e-5814d7fe591f"
-    in_degree=2
-    out_degree=2
+    in_degree=0
+    out_degree=0
   ];
   11438 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Friedrichshafen Verwaltungs-GmbH"
-    num_owners=70
-    num_owners_weighted=13.6925
-    num_medias=2
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee9c179-700c-4264-b460-c4abb8d2226b"
-    in_degree=2
-    out_degree=1
+    in_degree=1
+    out_degree=0
   ];
   11439 [
     type=shareholder
@@ -137402,75 +137402,75 @@ digraph {
   ];
   11450 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Saulgau GmbH & Co KG"
-    num_owners=71
-    num_owners_weighted=19.6348
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-6f37-4fd6-ac27-a8e62b1869cc"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11451 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Saulgau Verwaltungs-GmbH"
-    num_owners=70
-    num_owners_weighted=11.4854
-    num_medias=1
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee9b972-6f52-4b16-9bc6-03fac1084bce"
-    in_degree=2
-    out_degree=1
+    in_degree=1
+    out_degree=0
   ];
   11452 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Tettnang GmbH & Co KG"
-    num_owners=71
-    num_owners_weighted=19.6348
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-0abe-42bd-8909-0fd13ca2f920"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11453 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Tettnang Verwaltungs-GmbH"
-    num_owners=70
-    num_owners_weighted=18.6348
-    num_medias=1
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee9cc0a-5f6a-4854-8512-6c7ebea40c18"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11454 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Wangen GmbH & Co KG"
-    num_owners=71
-    num_owners_weighted=19.6348
-    num_medias=1
-    num_medias_weighted=1.0000
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
+    num_medias_weighted=0.0000
     name="5be1a6b6-3ae6-4193-b868-044208ada187"
-    in_degree=2
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11455 [
     type=shareholder
-    state=active
+    state=archived
     label="Schwäbische Zeitung Wangen Verwaltungs-GmbH"
-    num_owners=70
-    num_owners_weighted=18.6348
-    num_medias=1
+    num_owners=0
+    num_owners_weighted=0.0000
+    num_medias=0
     num_medias_weighted=0.0000
     name="5ee9ccb0-312c-43c2-aecf-42947ab6bab5"
-    in_degree=1
-    out_degree=1
+    in_degree=0
+    out_degree=0
   ];
   11456 [
     type=shareholder
@@ -137478,11 +137478,11 @@ digraph {
     label="Schwäbischer Verlag GmbH & Co KG Drexler, Gessler"
     num_owners=70
     num_owners_weighted=5.5483
-    num_medias=62
-    num_medias_weighted=31.9867
+    num_medias=50
+    num_medias_weighted=19.9867
     name="5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
     in_degree=22
-    out_degree=70
+    out_degree=48
   ];
   11457 [
     type=shareholder
@@ -137490,7 +137490,7 @@ digraph {
     label="Schwäbischer Verlag Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=5.3270
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebba3e9-1cb6-48a5-86f4-28db9366cb2f"
     in_degree=3
@@ -139050,7 +139050,7 @@ digraph {
     label="Senn Verwaltungsgesellschaft mit beschränkter Haftung"
     num_owners=3
     num_owners_weighted=3.0000
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbad51-cab3-48f3-9de6-7b557b03d719"
     in_degree=3
@@ -139062,8 +139062,8 @@ digraph {
     label="Senn, Joachim"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.2676
+    num_medias=50
+    num_medias_weighted=0.2072
     name="5be1a6b6-9c00-41fa-a245-88b7b9777e45"
     in_degree=0
     out_degree=2
@@ -139086,8 +139086,8 @@ digraph {
     label="Senn, Markus"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0206
+    num_medias=50
+    num_medias_weighted=0.0159
     name="5be1a6b6-6d45-4d7d-97e6-fd13906a8242"
     in_degree=0
     out_degree=2
@@ -139110,8 +139110,8 @@ digraph {
     label="Senn, Viktor"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=0.0206
+    num_medias=50
+    num_medias_weighted=0.0159
     name="5be1a6b6-7029-47a6-a9eb-9a04d454e72f"
     in_degree=0
     out_degree=2
@@ -151218,11 +151218,11 @@ digraph {
     label="SV Sigmaringen/Tuttlingen GmbH & Co. KG"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
-    num_medias_weighted=1.2611
+    num_medias=50
+    num_medias_weighted=0.2061
     name="5be1a6b6-fa97-4da9-8d7c-539bb062a458"
     in_degree=2
-    out_degree=2
+    out_degree=1
   ];
   12602 [
     type=shareholder
@@ -151230,7 +151230,7 @@ digraph {
     label="SV Sigmaringen/Tuttlingen Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbaefa-f781-4801-a86e-3320ebe39c28"
     in_degree=1
@@ -158862,7 +158862,7 @@ digraph {
     label="UBV Verwaltungs-GmbH"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
+    num_medias=50
     num_medias_weighted=0.0000
     name="5ebbafbb-a826-4637-83ac-a6d65967b0df"
     in_degree=1
@@ -159150,11 +159150,11 @@ digraph {
     label="Ulrich'sche Buchdruckerei und Verlag GmbH & Co KG"
     num_owners=70
     num_owners_weighted=18.6348
-    num_medias=62
-    num_medias_weighted=1.1723
+    num_medias=50
+    num_medias_weighted=0.1360
     name="5be1a6b6-8f6c-4f1f-89de-457741369f4d"
     in_degree=2
-    out_degree=3
+    out_degree=2
   ];
   13263 [
     type=shareholder
@@ -161970,8 +161970,8 @@ digraph {
     label="Verlagsdruckerei J.F. Bofinger KG"
     num_owners=70
     num_owners_weighted=20.6114
-    num_medias=62
-    num_medias_weighted=4.0196
+    num_medias=50
+    num_medias_weighted=3.7760
     name="5be1a6b6-ba1b-4b9e-9164-bc1ee0d8a85a"
     in_degree=2
     out_degree=4
@@ -165954,8 +165954,8 @@ digraph {
     label="Walchner, Dr. Martin"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=62
-    num_medias_weighted=8.8730
+    num_medias=50
+    num_medias_weighted=6.8726
     name="5be1a6b6-863f-408d-8a22-cba8854c0285"
     in_degree=0
     out_degree=4
@@ -166002,8 +166002,8 @@ digraph {
     label="Waldburg zu Zeil und Trauchburg, Erich Fürst von"
     num_owners=0
     num_owners_weighted=0.0000
-    num_medias=275
-    num_medias_weighted=16.4973
+    num_medias=263
+    num_medias_weighted=14.4177
     name="5be1a6b6-3585-4224-8872-a3554fbd2a8e"
     in_degree=0
     out_degree=4
@@ -265969,59 +265969,11 @@ digraph {
     weight=99.97
     type=owns
   ];
-  11433 -> 11418 [
-    weight=100
-    type=operates
-  ];
-  11434 -> 11433 [
-    weight=1
-    type=owns
-  ];
   11435 -> 9160 [
     weight=1
     type=owns
   ];
-  11435 -> 11419 [
-    weight=100
-    type=operates
-  ];
   11436 -> 11435 [
-    weight=1
-    type=owns
-  ];
-  11437 -> 11420 [
-    weight=100
-    type=operates
-  ];
-  11437 -> 11424 [
-    weight=100
-    type=operates
-  ];
-  11438 -> 11437 [
-    weight=1
-    type=owns
-  ];
-  11450 -> 11416 [
-    weight=100
-    type=operates
-  ];
-  11451 -> 11450 [
-    weight=1
-    type=owns
-  ];
-  11452 -> 11428 [
-    weight=100
-    type=operates
-  ];
-  11453 -> 11452 [
-    weight=1
-    type=owns
-  ];
-  11454 -> 11429 [
-    weight=100
-    type=operates
-  ];
-  11455 -> 11454 [
     weight=1
     type=owns
   ];
@@ -266113,14 +266065,6 @@ digraph {
     weight=100
     type=owns
   ];
-  11456 -> 11433 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11434 [
-    weight=26
-    type=owns
-  ];
   11456 -> 11435 [
     weight=100
     type=owns
@@ -266129,39 +266073,7 @@ digraph {
     weight=100
     type=owns
   ];
-  11456 -> 11437 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11438 [
-    weight=26
-    type=owns
-  ];
   11456 -> 11447 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11450 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11451 [
-    weight=26
-    type=owns
-  ];
-  11456 -> 11452 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11453 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11454 [
-    weight=100
-    type=owns
-  ];
-  11456 -> 11455 [
     weight=100
     type=owns
   ];
@@ -266206,54 +266118,6 @@ digraph {
     type=operates
   ];
   11456 -> 11416 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11418 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11419 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11420 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11421 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11422 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11423 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11424 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11425 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11426 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11427 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11428 [
-    weight=100
-    type=operates
-  ];
-  11456 -> 11429 [
     weight=100
     type=operates
   ];
@@ -271013,10 +270877,6 @@ digraph {
     weight=1
     type=owns
   ];
-  12601 -> 11427 [
-    weight=100
-    type=operates
-  ];
   12602 -> 12601 [
     weight=1
     type=owns
@@ -273448,10 +273308,6 @@ digraph {
   13262 -> 11456 [
     weight=1
     type=owns
-  ];
-  13262 -> 11426 [
-    weight=100
-    type=operates
   ];
   13263 -> 683 [
     weight=100

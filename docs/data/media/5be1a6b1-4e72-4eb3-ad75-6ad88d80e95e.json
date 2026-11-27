@@ -3,7 +3,7 @@
   "matchedNames": [
     "Schw�bische Zeitung Gesamtausgabe"
   ],
-  "state": "active",
+  "state": "archived",
   "rfShoppingChannel": false,
   "pressAsOfDate": "I/26",
   "squuid": "5be1a6b1-4e72-4eb3-ad75-6ad88d80e95e",
@@ -13,17 +13,6 @@
     "type": "organization"
   },
   "rfStatewide": false,
-  "operatedBy": [
-    {
-      "type": "operate",
-      "holder": {
-        "name": "Schwäbischer Verlag GmbH & Co KG Drexler, Gessler",
-        "squuid": "5be1a6b6-6027-417f-a9c2-9d0d12c3642b"
-      },
-      "squuid": "5be1a6b9-fef6-40b0-9eaf-1538a315545b",
-      "state": "active"
-    }
-  ],
   "name": "Schwäbische Zeitung (Ausgabe Ravensburg)",
   "pressEditionsIVW": true,
   "pressDistributionArea": "Lk Ravensburg",
